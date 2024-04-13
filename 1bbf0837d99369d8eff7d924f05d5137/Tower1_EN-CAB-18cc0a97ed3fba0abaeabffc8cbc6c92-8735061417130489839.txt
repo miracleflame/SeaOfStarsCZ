@@ -1,0 +1,32 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Tower1_EN"
+ 1 string locCategoryId = "SacrosanctSpireIsland/Tower1"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (9 items)
+   0 int size = 9
+   [0]
+    1 string data = "Sacrosanct Spires. It has been so long..."
+   [1]
+    1 string data = "I must find the frequency. One moment."
+   [2]
+    1 string data = "<color=magic>Songster Magic</color>... Impossible..."
+   [3]
+    1 string data = "Did you think I was younger than you?"
+   [4]
+    1 string data = "..."
+   [5]
+    1 string data = "Great Alchemist. If my understanding is correct, you have never visited this world before."
+   [6]
+    1 string data = "You should be warned about the <color=bad>cultists</color>. Their origins-"
+   [7]
+    1 string data = "We will deal with whatever lies ahead. There is no other way."
+   [8]
+    1 string data = "Then let us proceed."

@@ -1,0 +1,60 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "TheArchive_EN"
+ 1 string locCategoryId = "TheArchive"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (23 items)
+   0 int size = 23
+   [0]
+    1 string data = "Welcome to The Great Archives, adventurer. I suppose curiosity brought you here."
+   [1]
+    1 string data = "An important trait, to be sure."
+   [2]
+    1 string data = "I am Resh’an, an immortal also known asThe Archivist."
+   [3]
+    1 string data = "But perhaps you knew that already?"
+   [4]
+    1 string data = "After spending millennia cataloging themany events of countless timelines, Idecided to return here to mull overeverything I had seen."
+   [5]
+    1 string data = "In my musings about the stories thatfill these books and scrolls, Irecently had an epiphany."
+   [6]
+    1 string data = "It seems that in my haste, I may haveoverlooked the very thing I was hopingto find."
+   [7]
+    1 string data = "As such, there is a very special storyI wish to revisit, one I need you towitness."
+   [8]
+    1 string data = "Should the Mists of Time allow a slightalteration, I believe the ray of hopethat was once offered may yet bloom."
+   [9]
+    1 string data = "So walk with me tonight, and we willexplore a tale of high adventure."
+   [10]
+    1 string data = "Of magic and deceit, of friendship andwonder."
+   [11]
+    1 string data = "But mostly, a tale of heroism."
+   [12]
+    1 string data = "One that, I believe, will offervaluable insight in the search for aresolution to the throes of TheFleshmancer."
+   [13]
+    1 string data = "Now, with so many timelines, and somany similarities between each of them,I seem to have lost track of theparticular book I was looking for."
+   [14]
+    1 string data = "I do know of which heroes this talespeaks, but still, there are too manyvariations."
+   [15]
+    1 string data = "Halving the possibilities should be adecent start."
+   [16]
+    1 string data = "On that, you can help."
+   [17]
+    1 string data = "Tell me, of these two fated Children ofthe Solstice, which one strikes you asa leader?"
+   [18]
+    1 string data = "Most interesting."
+   [19]
+    1 string data = "Let us see what we find in there."
+   [20]
+    1 string data = "Ah, yes..."
+   [21]
+    1 string data = "Our story begins in a world visited byThe Fleshmancer decades prior, causingmuch turmoil and leaving a mark thathas yet to be fully cleansed."
+   [22]
+    1 string data = "Somewhere on Evermist Island, our two heroes are on their way to meet animmortal spirit who will teach them how to “use magic without using magic”..."

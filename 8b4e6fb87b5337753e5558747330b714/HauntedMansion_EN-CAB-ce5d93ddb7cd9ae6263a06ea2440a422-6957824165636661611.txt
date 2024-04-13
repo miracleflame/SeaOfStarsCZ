@@ -1,0 +1,460 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "HauntedMansion_EN"
+ 1 string locCategoryId = "WraithIsland/HauntedMansion"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (223 items)
+   0 int size = 223
+   [0]
+    1 string data = "Erlina and Brugaves, you will clear the basement."
+   [1]
+    1 string data = "Do be careful. <color=bad>The Glutton</color> is a fearsome foe."
+   [2]
+    1 string data = "We'll see about that."
+   [3]
+    1 string data = "..."
+   [4]
+    1 string data = "[MAINCHAR] and [OFFCHAR], you will cleanse the ballroom and make your way to the gardens."
+   [5]
+    1 string data = "<color=bad>The Botanical Horror</color> will pose a challenge, but you have what it takes."
+   [6]
+    1 string data = "We won’t fail."
+   [7]
+    1 string data = "Remember what you learned. Lunar magic against the soul-based ones, and solar magic for those more concrete."
+   [8]
+    1 string data = "I am heading upstairs to start working on the final seal."
+   [9]
+    1 string data = "Join me when you are done, and we will rid the world of the Dweller of Woe once and for all."
+   [10]
+    1 string data = "Godspeed, Solstice Warriors!"
+   [11]
+    1 string data = "There you are!"
+   [12]
+    1 string data = "I can’t fight the Dweller with you, but I’ll do what I can otherwise."
+   [13]
+    1 string data = "Hey, you must be Seraï!"
+   [14]
+    1 string data = "I’m Garl! Thanks for the help earlier!"
+   [15]
+    1 string data = "We’re glad to have you back!"
+   [16]
+    1 string data = "..."
+   [17]
+    1 string data = "Don’t mention it."
+   [18]
+    1 string data = "Seraï the assassin joins the party!"
+   [19]
+    1 string data = "Use the <color=magic>Order</color> command in the game menu, or <color=magic>Swap</color> command in battle to change your party's composition!"
+   [20]
+    1 string data = "Alright, we accomplished our part of the mission."
+   [21]
+    1 string data = "Let's regroup with the others."
+   [22]
+    1 string data = "The Dweller is yours. Good luck."
+   [23]
+    1 string data = "Good work taking down the Botanical Horror."
+   [24]
+    1 string data = "The Dweller of Woe is behind this barrier. Join me now!"
+   [25]
+    1 string data = "My dear Garl, your courage has been humbling, but you absolutely have to sit this one out."
+   [26]
+    1 string data = "No worries, Headmaster. I’ll just watch!"
+   [27]
+    1 string data = "In position!"
+   [28]
+    1 string data = "The rune I prepared will force the Dweller of Woe to materialize. I will have to maintain focus for it to be vulnerable."
+   [29]
+    1 string data = "I trust you to keep me alive and take down this spawn of evil!"
+   [30]
+    1 string data = "You can do it!"
+   [31]
+    1 string data = "It comes! Brace yourselves, and do not be fooled by its appearance. It is immensely powerful!"
+   [32]
+    1 string data = "This is pointless! It won't even show its true form!"
+   [33]
+    1 string data = "So much for that rune."
+   [34]
+    1 string data = " ..."
+   [35]
+    1 string data = "The preparations were done properly. We just need more direct light from the eclipse."
+   [36]
+    1 string data = "Garl! Get up onto the roof and find a way to let more light in. Now!"
+   [37]
+    1 string data = "I... okay, I'm on it!"
+   [38]
+    1 string data = "Alright, I won't let them down. There's got to be a ladder here somewhere..."
+   [39]
+    1 string data = "I have to get up on the rooftop and bring more light for them!"
+   [40]
+    1 string data = "I know I've seen a ladder in this corridor!"
+   [41]
+    1 string data = "So far so good. Now to find a breach or something."
+   [42]
+    1 string data = "Too solid... got to keep looking."
+   [43]
+    1 string data = "This isn't it. Come on, Garl, your friends need you!"
+   [44]
+    1 string data = "Alright! There's an opening behind this debris. Time to smash through!"
+   [45]
+    1 string data = "Let's see now."
+   [46]
+    1 string data = "It's all clogged up with rubble..."
+   [47]
+    1 string data = "Arf! Too heavy for me..."
+   [48]
+    1 string data = "Can't give up now. Think, Garl, think!"
+   [49]
+    1 string data = "Oh! That thing Yolande told me about gunpowder... Maybe if I just..."
+   [50]
+    1 string data = "I bet this will do juuuust right!"
+   [51]
+    1 string data = "Okay! Better find cover."
+   [52]
+    1 string data = "Haha, it worked! That's bound to come in handy later, too!"
+   [53]
+    1 string data = "What the!? He could have warned us before pulling something like that!"
+   [54]
+    1 string data = "He did it!"
+   [55]
+    1 string data = "Perfect! The Dweller is showing it's true form. Let us finish this!"
+   [56]
+    1 string data = "Quick! Obliterate the core!"
+   [57]
+    1 string data = "I won’t let you!"
+   [58]
+    1 string data = "Seraï!?"
+   [59]
+    1 string data = "Drop your weapon right now!"
+   [60]
+    1 string data = "TELL THEM WHAT Y-"
+   [61]
+    1 string data = "!!"
+   [62]
+    1 string data = "Erlina, explain yourself at once!"
+   [63]
+    1 string data = "Use the <color=bad>crystal</color> now, Brugaves. I’d rather make this quick."
+   [64]
+    1 string data = "!!!"
+   [65]
+    1 string data = "BRUGAVES, DON'T!"
+   [66]
+    1 string data = "..."
+   [67]
+    1 string data = "We tried reasoning with you. You left us no other option."
+   [68]
+    1 string data = "Do it."
+   [69]
+    1 string data = "So, you really did hold up your end of the bargain after all."
+   [70]
+    1 string data = "Go back from where you came fiends, these minds are not yours to twist!"
+   [71]
+    1 string data = "Oh, is the old man tense?"
+   [72]
+    1 string data = "Tense, and confused too!"
+   [73]
+    1 string data = "What do you want!?"
+   [74]
+    1 string data = "Why, the very same thing as your two former friends here."
+   [75]
+    1 string data = "For those born during a solstice to live free..."
+   [76]
+    1 string data = "Are they not forced to train?"
+   [77]
+    1 string data = "Train, and fight horrors too!"
+   [78]
+    1 string data = "Liars! You worship The Fleshmancer!"
+   [79]
+    1 string data = "Without Solstice Warriors the world would be doomed!"
+   [80]
+    1 string data = "..."
+   [81]
+    1 string data = "This meets our conditions."
+   [82]
+    1 string data = "Erlina... why?"
+   [83]
+    1 string data = "..."
+   [84]
+    1 string data = "We took the deal. All they asked was for us to conjure a blood moon."
+   [85]
+    1 string data = "And then there will be no more of this nonsense."
+   [86]
+    1 string data = "!!"
+   [87]
+    1 string data = "..."
+   [88]
+    1 string data = "The blood moon... and a Dweller core!?!"
+   [89]
+    1 string data = "NO!!"
+   [90]
+    1 string data = "My, you catch on quick!"
+   [91]
+    1 string data = "At long last, the Dweller of Strife will be resurrected."
+   [92]
+    1 string data = "Resurrected, and made stronger too!"
+   [93]
+    1 string data = "Brugaves, how are you okay with this!?"
+   [94]
+    1 string data = "Have you ever wondered what it would feel like for your life to be your own?"
+   [95]
+    1 string data = "But why? We just defeated the last Dweller!"
+   [96]
+    1 string data = "You can’t truly know that."
+   [97]
+    1 string data = "And don’t you see that absolutely none of this endless conflict is your fault?"
+   [98]
+    1 string data = "That doesn’t mean it’s not our responsibility!"
+   [99]
+    1 string data = "Or yours, by the way!"
+   [100]
+    1 string data = "It’s not too late, Brugaves! Destroy the core!"
+   [101]
+    1 string data = "I'm sorry Valere. We made our decision."
+   [102]
+    1 string data = "Why give up now? Some of us could still ascend!"
+   [103]
+    1 string data = "Into “Guardian Gods”? Don’t make me laugh!"
+   [104]
+    1 string data = "How many centuries were spent suffering in wait for this fake promise?"
+   [105]
+    1 string data = "Don’t you think it would have happened by now?"
+   [106]
+    1 string data = "..."
+   [107]
+    1 string data = "Enough talk! We must complete the ritual before the eclipse subsides."
+   [108]
+    1 string data = "NO! YOU CAN’T!"
+   [109]
+    1 string data = "Oh, I believe we can."
+   [110]
+    1 string data = "Can, and will too!"
+   [111]
+    1 string data = "The time has come to resurrect the Dweller of Strife."
+   [112]
+    1 string data = "Now, give us the blood moon!"
+   [113]
+    1 string data = "!!"
+   [114]
+    1 string data = "No..."
+   [115]
+    1 string data = "NOOO!!!"
+   [116]
+    1 string data = "Headmaster!"
+   [117]
+    1 string data = "Hey at least we’re safe for now..."
+   [118]
+    1 string data = "I’m sure the three of you can take on whatever that Dweller of Strife is."
+   [119]
+    1 string data = "You don’t understand!"
+   [120]
+    1 string data = "The Dweller of Strife took everything from us..."
+   [121]
+    1 string data = "More than two dozen Solstice Warriors, and yet..."
+   [122]
+    1 string data = "..."
+   [123]
+    1 string data = "But the Elder Mist said..."
+   [124]
+    1 string data = "..."
+   [125]
+    1 string data = "How could they..."
+   [126]
+    1 string data = "Headmaster!"
+   [127]
+    1 string data = "Let's hurry back."
+   [128]
+    1 string data = "Thank you for clearing the evil spirits, it sure feels warmer now."
+   [129]
+    1 string data = "Are you going to the gardens to fight the Botanical Horror?"
+   [130]
+    1 string data = "I hope you know what you're doing..."
+   [131]
+    1 string data = "Alright, it's snack time!"
+   [132]
+    1 string data = "Just give me a few minutes."
+   [133]
+    1 string data = "You got this, Garl!"
+   [134]
+    1 string data = "Aaaaand done! We should go see that ghost now."
+   [135]
+    1 string data = "We didn't check all the ingredients yet. Let's keep searching."
+   [136]
+    1 string data = "Erlina and Brugaves are in charge of the basement. Let's find the ballroom and gardens."
+   [137]
+    1 string data = "We can't let the others down. To the ballroom, then the gardens."
+   [138]
+    1 string data = "There seems to be a switch at the bottom of the pot. Press it?"
+   [139]
+    1 string data = "Yes"
+   [140]
+    1 string data = "No"
+   [141]
+    1 string data = "This side of the wall feels brittle. Let's see if we can break through."
+   [142]
+    1 string data = "That did it! Should be a useful shortcut."
+   [143]
+    1 string data = "It's locked."
+   [144]
+    1 string data = "Just a bookshelf."
+   [145]
+    1 string data = "Over generations, the evil presence has fully engulfed these rooms and halls."
+   [146]
+    1 string data = "Are you here to help? Then perhaps you should take a look at the torch left of the fireplace..."
+   [147]
+    1 string data = "Completely blocked from this side."
+   [148]
+    1 string data = "I miss Lucent."
+   [149]
+    1 string data = "I'd steer clear of the maze if I were you. The Botanical Horror devours all."
+   [150]
+    1 string data = "We were having dinner right here when it happened."
+   [151]
+    1 string data = "I woke up one day, and the Night Shroud was just there."
+   [152]
+    1 string data = "First they tell you to speak your mind, then they call you grumpy..."
+   [153]
+    1 string data = "Eternity is NOT FAIR!"
+   [154]
+    1 string data = "Enter the secret passage?"
+   [155]
+    1 string data = "Yes"
+   [156]
+    1 string data = "No"
+   [157]
+    1 string data = "The Knight is wearing a Crown. Take it?"
+   [158]
+    1 string data = "Take the Crown"
+   [159]
+    1 string data = "Don't touch anything"
+   [160]
+    1 string data = "The Knight is wearing a Knight's Helm. Take it?"
+   [161]
+    1 string data = "Take the Knight's Helm"
+   [162]
+    1 string data = "Don't touch anything"
+   [163]
+    1 string data = "The King is wearing a Crown. Take it?"
+   [164]
+    1 string data = "Take the Crown"
+   [165]
+    1 string data = "Don't touch anything"
+   [166]
+    1 string data = "The King is wearing a Knight's Helm. Take it?"
+   [167]
+    1 string data = "Take the Knight's Helm"
+   [168]
+    1 string data = "Don't touch anything"
+   [169]
+    1 string data = "Let's see what we have here."
+   [170]
+    1 string data = "Hepar : [INGREDIENT_A_COUNT], dust : [INGREDIENT_B_COUNT], sugar : [INGREDIENT_C_COUNT], rust : [INGREDIENT_D_COUNT], slices of dread : [INGREDIENT_E_COUNT]."
+   [171]
+    1 string data = "I have a feeling the quantities are not exactly right."
+   [172]
+    1 string data = "Want me to start cooking?"
+   [173]
+    1 string data = "Yes"
+   [174]
+    1 string data = "No"
+   [175]
+    1 string data = "Start over"
+   [176]
+    1 string data = "The Master Sandwich recipe requires two parts hepar, four parts dust, three parts sugar and one part rust."
+   [177]
+    1 string data = "All between two slices of dread."
+   [178]
+    1 string data = "The jar says "Hepar". How many drops should we take?"
+   [179]
+    1 string data = "This counter is full of dust. How many pinches should we take?"
+   [180]
+    1 string data = "Sugar. How many cubes should we take?"
+   [181]
+    1 string data = "A rusty rod. How many times should we scrape it?"
+   [182]
+    1 string data = ""Loaf of Dread". How many slices should we cut?"
+   [183]
+    1 string data = "None"
+   [184]
+    1 string data = "1"
+   [185]
+    1 string data = "2"
+   [186]
+    1 string data = "3"
+   [187]
+    1 string data = "4"
+   [188]
+    1 string data = "Hello there. You look strange, are you alive or something?"
+   [189]
+    1 string data = "Hey friend, we're looking for the ballroom. Do you know where it is?"
+   [190]
+    1 string data = "Oh? Yes, it's somewhere beyond this door."
+   [191]
+    1 string data = "Tell you what, you make me a sandwich and I'll open the door for you."
+   [192]
+    1 string data = "Deal! How do you like yours?"
+   [193]
+    1 string data = "My favorite is pretty simple. Two parts hepar, four parts dust. Three parts sugar, and one part rust!"
+   [194]
+    1 string data = "..."
+   [195]
+    1 string data = "Between two slices of dread, of course!"
+   [196]
+    1 string data = "Okay..."
+   [197]
+    1 string data = "Where can we find these ingredients?"
+   [198]
+    1 string data = "Oh, the kitchen has it all. Let me get the door for you."
+   [199]
+    1 string data = "The recipe's on the counter if you need it."
+   [200]
+    1 string data = "And please hurry, I'm STARVING!"
+   [201]
+    1 string data = "Did you make my sandwich?"
+   [202]
+    1 string data = "Let's EAT!"
+   [203]
+    1 string data = "Oooooh that is one good sandwich! Here's a little extra for your trouble."
+   [204]
+    1 string data = "Not exactly what I was hoping for, but I guess it will do. Here's a little something for you."
+   [205]
+    1 string data = "Eww! Did you put some vegetables in there or something? Well, it's still a sandwich, I guess..."
+   [206]
+    1 string data = "A deal's a deal. The ballroom is through the library behind me. Just crown the king and you're basically there!"
+   [207]
+    1 string data = "We have to make the sandwich. The recipe is on the counter if you need."
+   [208]
+    1 string data = "I'll get this going. Do you mind gathering the ingredients?"
+   [209]
+    1 string data = "Spooky..."
+   [210]
+    1 string data = "This chair feels very cold..."
+   [211]
+    1 string data = "Thank you for getting rid of those evil spirits!"
+   [212]
+    1 string data = "Here, you can use this fire if you need to rest."
+   [213]
+    1 string data = "There are other lost souls in this mansion who can help you, but they won't come out while evil spirits are around."
+   [214]
+    1 string data = "Need anything?"
+   [215]
+    1 string data = "Sealed shut."
+   [216]
+    1 string data = "Just some dusty old books."
+   [217]
+    1 string data = "This book is full of boring old records from past tenants."
+   [218]
+    1 string data = "This place hasn't been cleaned in a while..."
+   [219]
+    1 string data = "The note says: ''Little juice boxes are for lunch only!''"
+   [220]
+    1 string data = "A set of guildelines for those who used to work as servants in the mansion."
+   [221]
+    1 string data = "The note says: ''To open the secret passage to the kitchen, just look at the pot in the garden.''"
+   [222]
+    1 string data = "So dusty it feels like it might decompose just by looking at it."

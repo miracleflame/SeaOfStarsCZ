@@ -1,0 +1,760 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "UI_EN"
+ 1 string locCategoryId = "UI"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (373 items)
+   0 int size = 373
+   [0]
+    1 string data = "Press <button="TitleScreenStart">"
+   [1]
+    1 string data = "Sea of Stars has two main characters. Select the one who will lead the party.<br><color=#8C9BAC>(This can be changed later and does not affect the story.)</color>"
+   [2]
+    1 string data = "Yes"
+   [3]
+    1 string data = "No"
+   [4]
+    1 string data = "On"
+   [5]
+    1 string data = "Off"
+   [6]
+    1 string data = "Ok"
+   [7]
+    1 string data = "Return to title screen?"
+   [8]
+    1 string data = "Are you sure you want to quit the game?"
+   [9]
+    1 string data = "+[AMOUNT] Hit Points"
+   [10]
+    1 string data = "+[AMOUNT] Mana Points"
+   [11]
+    1 string data = "+[AMOUNT] Physical Attack"
+   [12]
+    1 string data = "+[AMOUNT] Physical Defense"
+   [13]
+    1 string data = "+[AMOUNT] Magic Attack"
+   [14]
+    1 string data = "+[AMOUNT] Magic Defense"
+   [15]
+    1 string data = "Pick a bonus stat"
+   [16]
+    1 string data = "HP"
+   [17]
+    1 string data = "MP"
+   [18]
+    1 string data = "ATTACK"
+   [19]
+    1 string data = "Equip"
+   [20]
+    1 string data = "View stats and change equipment."
+   [21]
+    1 string data = "Skills"
+   [22]
+    1 string data = "View skills and combos."
+   [23]
+    1 string data = "Order"
+   [24]
+    1 string data = "Change the order of party members."
+   [25]
+    1 string data = "Snacks"
+   [26]
+    1 string data = "Browse and eat snacks."
+   [27]
+    1 string data = "Items"
+   [28]
+    1 string data = "Browse Inventory."
+   [29]
+    1 string data = "Relics"
+   [30]
+    1 string data = "Browse and toggle relics."
+   [31]
+    1 string data = "Map"
+   [32]
+    1 string data = "View the Map and current objective marker."
+   [33]
+    1 string data = "Camp"
+   [34]
+    1 string data = "Heal up and prepare snacks for the road."
+   [35]
+    1 string data = "You cannot camp right now."
+   [36]
+    1 string data = "Yes"
+   [37]
+    1 string data = "Set up camp for the night?"
+   [38]
+    1 string data = "Back"
+   [39]
+    1 string data = "Go back to previous menu."
+   [40]
+    1 string data = "Options"
+   [41]
+    1 string data = "Edit game options."
+   [42]
+    1 string data = "You cannot play the demo right now.<br>Visit <color=#00FFFF>discord.gg/sabotagestudio</color> for support."
+   [43]
+    1 string data = "Quit"
+   [44]
+    1 string data = "Equipment"
+   [45]
+    1 string data = "Skills"
+   [46]
+    1 string data = "Combos"
+   [47]
+    1 string data = "Effects"
+   [48]
+    1 string data = "MP Cost"
+   [49]
+    1 string data = "Allies"
+   [50]
+    1 string data = "Cost"
+   [51]
+    1 string data = "MP Cost: [AMOUNT]"
+   [52]
+    1 string data = "Learned"
+   [53]
+    1 string data = "HP"
+   [54]
+    1 string data = "MP"
+   [55]
+    1 string data = "Combo Point"
+   [56]
+    1 string data = "ATK"
+   [57]
+    1 string data = "DEF"
+   [58]
+    1 string data = "M. ATK"
+   [59]
+    1 string data = "M. DEF"
+   [60]
+    1 string data = "ATK"
+   [61]
+    1 string data = "DEF"
+   [62]
+    1 string data = "M. ATK"
+   [63]
+    1 string data = "M. DEF"
+   [64]
+    1 string data = "Level"
+   [65]
+    1 string data = "LV"
+   [66]
+    1 string data = "Upgrade Cost"
+   [67]
+    1 string data = "Max."
+   [68]
+    1 string data = "Cancel"
+   [69]
+    1 string data = "Upgrade [GEAR_NAME]"
+   [70]
+    1 string data = "Upgrade weapon to level [LVL]"
+   [71]
+    1 string data = "Max level reached."
+   [72]
+    1 string data = "Upgrade armor to level [LVL]"
+   [73]
+    1 string data = "Max level reached."
+   [74]
+    1 string data = "[GEAR_NAME] LV.[LVL]"
+   [75]
+    1 string data = "E"
+   [76]
+    1 string data = "<button="UI_FilletFish"> Fillet Fish"
+   [77]
+    1 string data = "<button="UI_TertiaryAction"> Recipe / Details"
+   [78]
+    1 string data = "<button="UI_Confirm"> Use"
+   [79]
+    1 string data = "<button="MoveHorizontal"> Skills"
+   [80]
+    1 string data = "<button="MoveHorizontal"> Combos"
+   [81]
+    1 string data = "<button="MoveVertical"> Scroll"
+   [82]
+    1 string data = "<button="UI_Confirm"> Change"
+   [83]
+    1 string data = "Would you like to save your progress?"
+   [84]
+    1 string data = "Saving..."
+   [85]
+    1 string data = "General"
+   [86]
+    1 string data = "Vibration"
+   [87]
+    1 string data = "Rumble"
+   [88]
+    1 string data = "Vibration function"
+   [89]
+    1 string data = "Audio"
+   [90]
+    1 string data = "Video"
+   [91]
+    1 string data = "Controls"
+   [92]
+    1 string data = "Gamepad"
+   [93]
+    1 string data = "Keyboard"
+   [94]
+    1 string data = "User Data"
+   [95]
+    1 string data = "Language"
+   [96]
+    1 string data = "Crash Reports"
+   [97]
+    1 string data = "Master Volume"
+   [98]
+    1 string data = "Music Volume"
+   [99]
+    1 string data = "SFX Volume"
+   [100]
+    1 string data = "Ambience Volume"
+   [101]
+    1 string data = "UI Volume"
+   [102]
+    1 string data = "Dialog Bloops Volume"
+   [103]
+    1 string data = "Adjust volume with <button="UI_Left"> and <button="UI_Right">"
+   [104]
+    1 string data = "Brightness"
+   [105]
+    1 string data = "Adjust brightness with <button="UI_Left"> and <button="UI_Right">"
+   [106]
+    1 string data = "Screen Resolution"
+   [107]
+    1 string data = "Change the screen resolution"
+   [108]
+    1 string data = "Display Mode"
+   [109]
+    1 string data = "Change the display mode"
+   [110]
+    1 string data = "Pixel Perfect"
+   [111]
+    1 string data = "Force pixel perfect alignment"
+   [112]
+    1 string data = "VSync"
+   [113]
+    1 string data = "Synchronize rendering to the monitor's refresh rate."
+   [114]
+    1 string data = "Apply Changes"
+   [115]
+    1 string data = "Apply changes to the video settings."
+   [116]
+    1 string data = "Fullscreen"
+   [117]
+    1 string data = "Windowed"
+   [118]
+    1 string data = "Exclusive"
+   [119]
+    1 string data = "Window Scale"
+   [120]
+    1 string data = "The detected refresh rate appears to be lower than the recommended 60hz. Please review video settings for an optimal experience."
+   [121]
+    1 string data = "Interact"
+   [122]
+    1 string data = "Up"
+   [123]
+    1 string data = "Down"
+   [124]
+    1 string data = "Left"
+   [125]
+    1 string data = "Right"
+   [126]
+    1 string data = "Cancel / Graplou"
+   [127]
+    1 string data = "Game Menu"
+   [128]
+    1 string data = "Boost (Hold)"
+   [129]
+    1 string data = "Time of Day (Forward)"
+   [130]
+    1 string data = "Time of Day (Back)"
+   [131]
+    1 string data = "Move Up"
+   [132]
+    1 string data = "Move Down"
+   [133]
+    1 string data = "Move Right"
+   [134]
+    1 string data = "Move Left"
+   [135]
+    1 string data = "Confirm"
+   [136]
+    1 string data = "Cancel"
+   [137]
+    1 string data = "Back"
+   [138]
+    1 string data = "Secondary"
+   [139]
+    1 string data = "Tertiary"
+   [140]
+    1 string data = "Next Page"
+   [141]
+    1 string data = "Previous Page"
+   [142]
+    1 string data = "Next Page (Alt.)"
+   [143]
+    1 string data = "Previous Page (Alt.)"
+   [144]
+    1 string data = "Set up camp"
+   [145]
+    1 string data = "Enter boat"
+   [146]
+    1 string data = "Accelerate"
+   [147]
+    1 string data = "Dock"
+   [148]
+    1 string data = "Pause Menu"
+   [149]
+    1 string data = "???"
+   [150]
+    1 string data = "Reset to default"
+   [151]
+    1 string data = "Swap <button="[GAMEPAD]Left Stick"> / <button="[GAMEPAD]Right Stick">"
+   [152]
+    1 string data = "Player Controls"
+   [153]
+    1 string data = "Menu Controls"
+   [154]
+    1 string data = "Boat Controls"
+   [155]
+    1 string data = "Discord events"
+   [156]
+    1 string data = "As a community perk we are posting player milestones in an Adventurer's Log visible to all on our server. This is all just for fun, but we can turn it off for you if you prefer."
+   [157]
+    1 string data = "(you can also change this in the options later)"
+   [158]
+    1 string data = "Turn it off"
+   [159]
+    1 string data = "Sure, sounds fun"
+   [160]
+    1 string data = "Pause"
+   [161]
+    1 string data = "Resume"
+   [162]
+    1 string data = "Cheats"
+   [163]
+    1 string data = "Feedback"
+   [164]
+    1 string data = "Help"
+   [165]
+    1 string data = "How to play"
+   [166]
+    1 string data = "Feats"
+   [167]
+    1 string data = "Controls"
+   [168]
+    1 string data = "Return to title"
+   [169]
+    1 string data = "Forfeit"
+   [170]
+    1 string data = "Quit"
+   [171]
+    1 string data = "<color=#3cc9ff>Basic actions and stats:</color> During combat, you can pick which of your characters goes first with <button="Combat_ChangeCharacterLeft"> & <button="Combat_ChangeCharacterRight">, then perform either an Attack or Skill. Skills require SP, which regenerate whenever you perform basic attacks. HP is, well, what you'd expect."
+   [172]
+    1 string data = "<color=#3cc9ff>Timing hits, blocks and skills:</color> The outcome of virtually every combat action can be influenced by pressing <button="Interact"> at the right time(s). With practise and skill, you can increase the damage you deal while dampening incoming attacks and spells."
+   [173]
+    1 string data = "<color=#3cc9ff>Live mana / Boosting:</color> Basic attacks generate live mana particles which can be condensed into charges that boost your next action. Ready to cast that big spell and want to make it count, or wish your physical attacks would deal extra magic damage? Have a boost with  <button="Combat_SuckMana">."
+   [174]
+    1 string data = "<color=#3cc9ff>Spell locks:</color> Spell casting enemies will display locks, which can be broken through damage of their associated types, making the spell weaker. At zero locks the spell is cancelled, earning the party an Assist Point. Some of your Skills can use AP to tag a teammate in for an extra kick!"
+   [175]
+    1 string data = "<color=#3cc9ff>Traversal:</color> We put together a character controller with a rich moveset. You are not bound to the grid, so make sure to use <button="Interact"> extensively as you explore. Hoisting up, jumping down into the water, swimming, climbing or walking on ledges. Go for it."
+   [176]
+    1 string data = "<color=#3cc9ff>Harvesting / Resting:</color> There is only one way to heal the party outside of combat: resting. Keep an eye out for berries and mushrooms to create rations, for one ration <sprite="ui-icons" name="tent"> is required to set up camp. Visit the game menu <button="Player_GameMenu"> to find the Rest command."
+   [177]
+    1 string data = "<color=#3cc9ff>Chests and equipment:</color> By wandering off the beaten path, you may find Chests. Chests can either contain shards, which can be spent to upgrade your weapon and armor, or equippable trinkets."
+   [178]
+    1 string data = "<color=#3cc9ff>Trinkets:</color> Trinkets let you change how you approach combat, from difficulty to utility to the risk/reward of timed hits. While there are few in this demo, we hope they can give you a taste of their meta-potential. Read before equipping, and may you find the one that fits you best!"
+   [179]
+    1 string data = "<button="UI_Back"> Back"
+   [180]
+    1 string data = "Traversal"
+   [181]
+    1 string data = "Combat"
+   [182]
+    1 string data = "Default Mapping"
+   [183]
+    1 string data = "Cursor"
+   [184]
+    1 string data = "Cursor<color=#8d9bab>/</color>Switch Character"
+   [185]
+    1 string data = "Confirm<color=#8d9bab>/</color>Timed Hit"
+   [186]
+    1 string data = "Display HUD"
+   [187]
+    1 string data = "Movement"
+   [188]
+    1 string data = "Move Up"
+   [189]
+    1 string data = "Move Left"
+   [190]
+    1 string data = "Move Right"
+   [191]
+    1 string data = "Move Down"
+   [192]
+    1 string data = "Pause"
+   [193]
+    1 string data = "Time of Day <color=#8d9bab>(Hold)</color>"
+   [194]
+    1 string data = "Boost <color=#8d9bab>(Hold)</color>"
+   [195]
+    1 string data = "Interact<color=#8d9bab>/</color>Jump<color=#8d9bab>/</color>Climb"
+   [196]
+    1 string data = "Discord Events"
+   [197]
+    1 string data = "#Manage Discord events"
+   [198]
+    1 string data = "Analytics"
+   [199]
+    1 string data = "#Manage data gathered used for analytics"
+   [200]
+    1 string data = "Bulk data is collected by Unity Analytics through the Sea of Stars demo. This data does not contain any personal information and is strictly used to gather insight on ways to improve Sea of Stars. By opting out, Unity will stop collecting any data regarding your crashes, in-game events, or hardware specs. It will also permanently delete any data gathered since you first launched Sea of Stars."
+   [201]
+    1 string data = "Opt-Out"
+   [202]
+    1 string data = "<button="UI_PrevPage>"
+   [203]
+    1 string data = "<button="UI_NextPage>"
+   [204]
+    1 string data = "Thank you"
+   [205]
+    1 string data = "Thank you for playing this early demo of Sea of Stars! We hope you had fun despite all the dev dust (and possible bugs), and that it gave you a more concrete sense of the adventure we are building. We will now focus on production for the next couple of years, but the fun continues on our community Discord! See you there :)"
+   [206]
+    1 string data = "discord.gg/sabotagestudio"
+   [207]
+    1 string data = "Back to main menu"
+   [208]
+    1 string data = "Open Nintendo eShop"
+   [209]
+    1 string data = "Open PlayStation™Store"
+   [210]
+    1 string data = "Open Microsoft Store"
+   [211]
+    1 string data = "New Game"
+   [212]
+    1 string data = "New Game +"
+   [213]
+    1 string data = "Continue"
+   [214]
+    1 string data = "Load Game"
+   [215]
+    1 string data = "Quit Game"
+   [216]
+    1 string data = "Save Game"
+   [217]
+    1 string data = "Overwrite this save data?"
+   [218]
+    1 string data = "Load this game?"
+   [219]
+    1 string data = "Erase"
+   [220]
+    1 string data = "Erasing..."
+   [221]
+    1 string data = "Copying..."
+   [222]
+    1 string data = "Copy where?"
+   [223]
+    1 string data = "Erase this game?"
+   [224]
+    1 string data = "An error occured. Please try again later."
+   [225]
+    1 string data = "Base New Game+ on which save file?"
+   [226]
+    1 string data = "Create New Game+ from this save file?"
+   [227]
+    1 string data = "A more recent autosave exists."
+   [228]
+    1 string data = "<button="UI_SecondaryAction"> Erase"
+   [229]
+    1 string data = "<button="UI_TertiaryAction"> Copy"
+   [230]
+    1 string data = "<button="UI_Back"> Back"
+   [231]
+    1 string data = "<button="UI_Confirm"> Load"
+   [232]
+    1 string data = "<button="UI_Confirm"> Save"
+   [233]
+    1 string data = "<button="UI_Back"> Cancel"
+   [234]
+    1 string data = "<button="UI_Confirm"> Copy "
+   [235]
+    1 string data = "How to play"
+   [236]
+    1 string data = "Traversal"
+   [237]
+    1 string data = "Combat"
+   [238]
+    1 string data = "Survival"
+   [239]
+    1 string data = "Wheels"
+   [240]
+    1 string data = "No data"
+   [241]
+    1 string data = "Level"
+   [242]
+    1 string data = "Time"
+   [243]
+    1 string data = "Save"
+   [244]
+    1 string data = "Auto"
+   [245]
+    1 string data = "Manual"
+   [246]
+    1 string data = "Acknowledgements"
+   [247]
+    1 string data = "This demo would not have been possible without the contribution of over 25 000 backers, for which we are forever grateful. We sincerely hope you will enjoy your time with the early build, and look forward to receiving your feedback. Feel free to spread the word, and invite friends over to our community Discord (discord.gg/sabotagestudio).<br>Thank you <3"
+   [248]
+    1 string data = "(THIS DEMO WAS ALSO FINANCIALLY SUPPORTED, IN PART, BY QUEBEC CITY'S ENTREPRENEURIAL VISION 2023 PROGRAM)"
+   [249]
+    1 string data = "Stew"
+   [250]
+    1 string data = "Snacks"
+   [251]
+    1 string data = "Serums"
+   [252]
+    1 string data = "Rest"
+   [253]
+    1 string data = "Load"
+   [254]
+    1 string data = "Backpack"
+   [255]
+    1 string data = "Recipes"
+   [256]
+    1 string data = "Ingredients"
+   [257]
+    1 string data = "Item Name"
+   [258]
+    1 string data = "Owned"
+   [259]
+    1 string data = "Cook Qty"
+   [260]
+    1 string data = "Alright, time to cook!"
+   [261]
+    1 string data = "Here, I'll teach you some tricks!"
+   [262]
+    1 string data = "Okay, let's see here..."
+   [263]
+    1 string data = "That one came out real nice!"
+   [264]
+    1 string data = "And that's how you do it!"
+   [265]
+    1 string data = "I think that's how Garl used to do it..."
+   [266]
+    1 string data = "I guess this will do..."
+   [267]
+    1 string data = "We're missing ingredients for that one!"
+   [268]
+    1 string data = "Can't cook that one at the moment!"
+   [269]
+    1 string data = "The lunchbox is already full!"
+   [270]
+    1 string data = "<button="UI_Confirm"> Cook (Hold)"
+   [271]
+    1 string data = "<button="MoveHorizontal"> Quantity"
+   [272]
+    1 string data = "Owned [qty]"
+   [273]
+    1 string data = "LEVEL UP!"
+   [274]
+    1 string data = "Ally"
+   [275]
+    1 string data = "Party"
+   [276]
+    1 string data = "[TARGET] recovers [HP_TO_GIVE] and [SP_TO_GIVE]"
+   [277]
+    1 string data = "[TARGET] recovers [HP_TO_GIVE]"
+   [278]
+    1 string data = "[TARGET] recovers [SP_TO_GIVE]"
+   [279]
+    1 string data = "[TARGET] recovers from KO state and restore [KO_HEAL_PERCENTAGE] percent of max hp"
+   [280]
+    1 string data = "Cures KO +[KO_HEAL_PERCENTAGE]% hp"
+   [281]
+    1 string data = "Buy"
+   [282]
+    1 string data = "Sell"
+   [283]
+    1 string data = "Item Name"
+   [284]
+    1 string data = "Owned"
+   [285]
+    1 string data = "Price"
+   [286]
+    1 string data = "<button="UI_Confirm"> Buy"
+   [287]
+    1 string data = "<button="UI_Confirm"> Sell"
+   [288]
+    1 string data = "<button="UI_Confirm"> Equip"
+   [289]
+    1 string data = "<button="UI_Back"> Keep"
+   [290]
+    1 string data = "<button="MoveHorizontal"> Quantity"
+   [291]
+    1 string data = "Empty"
+   [292]
+    1 string data = "Sold out"
+   [293]
+    1 string data = "Effects"
+   [294]
+    1 string data = "Title screen"
+   [295]
+    1 string data = "<button="Interact"> Cast"
+   [296]
+    1 string data = "<button="Cancel"> Back"
+   [297]
+    1 string data = "<button=MoveHorizontal"> Steer"
+   [298]
+    1 string data = "<button="Interact"> Kick"
+   [299]
+    1 string data = "<button="Interact"> Reel"
+   [300]
+    1 string data = "<button="WindBracelet"> Swap Character"
+   [301]
+    1 string data = "<button="DeployParty"> Set up camp"
+   [302]
+    1 string data = "<button="Boat_EnterBoat"> Enter boat"
+   [303]
+    1 string data = "<button="Boat_Accelerate"> Accelerate"
+   [304]
+    1 string data = "<button="MoveHorizontal"> Steer"
+   [305]
+    1 string data = "<button="UI_PingHud"> Map"
+   [306]
+    1 string data = "Max"
+   [307]
+    1 string data = "<button="AdvanceTime"> Advance Time"
+   [308]
+    1 string data = "<button="RewindTime"> Rewind Time"
+   [309]
+    1 string data = "Enabled"
+   [310]
+    1 string data = "COPYRIGHT 2023 SABOTAGE STUDIO"
+   [311]
+    1 string data = "Loading..."
+   [312]
+    1 string data = "Version [VERSION]"
+   [313]
+    1 string data = "Key Items"
+   [314]
+    1 string data = "Effect"
+   [315]
+    1 string data = "Cargo"
+   [316]
+    1 string data = "<button="UI_Confirm"> Unequip"
+   [317]
+    1 string data = "<button="Interact"> Dig"
+   [318]
+    1 string data = "<button="Interact"> Grab"
+   [319]
+    1 string data = "<button="Interact"> Drop"
+   [320]
+    1 string data = "<button="Cancel"> Back"
+   [321]
+    1 string data = "To inventory"
+   [322]
+    1 string data = "Equip now"
+   [323]
+    1 string data = "Buy"
+   [324]
+    1 string data = "Sell"
+   [325]
+    1 string data = "Keep"
+   [326]
+    1 string data = "Previously Equipped"
+   [327]
+    1 string data = "Buy for <color=#FFFFFF>[PRICE]</color> G ?"
+   [328]
+    1 string data = "Sell for <color=#FFFFFF>[PRICE]</color> G ?"
+   [329]
+    1 string data = "Game Over"
+   [330]
+    1 string data = "Feats"
+   [331]
+    1 string data = "Game Data"
+   [332]
+    1 string data = "<button="MoveVertical"> Scroll"
+   [333]
+    1 string data = "<button="AdvanceTime"> Super Beam"
+   [334]
+    1 string data = "<button="WindBracelet"> Dive"
+   [335]
+    1 string data = "Play time"
+   [336]
+    1 string data = "Enemies defeated"
+   [337]
+    1 string data = "Death count"
+   [338]
+    1 string data = "Gold collected"
+   [339]
+    1 string data = "Fish caught"
+   [340]
+    1 string data = "Meals cooked"
+   [341]
+    1 string data = "Are you sure you don't want to save?"
+   [342]
+    1 string data = "<button="UI_Back"> Back"
+   [343]
+    1 string data = "<button="UI_Confirm"> Zoom In"
+   [344]
+    1 string data = "<button="UI_TertiaryAction"> Zoom out"
+   [345]
+    1 string data = "<button="UI_Confirm"> Ping Parrot"
+   [346]
+    1 string data = "<button="MoveAll"> Browse"
+   [347]
+    1 string data = "B'gawk! Treasure left! Treasure left!"
+   [348]
+    1 string data = "B'gawk! Conch left! Conch left!"
+   [349]
+    1 string data = "B'gawk! Fishing left! Fishing left!"
+   [350]
+    1 string data = "B'gawk! Wheels Champion left! Wheels Champion left!"
+   [351]
+    1 string data = "In [LEVEL_NAME]. B'gawk!"
+   [352]
+    1 string data = "All clear! B'gawk!"
+   [353]
+    1 string data = "Need to progress further first. B'gawk!"
+   [354]
+    1 string data = "<button="UI_Back"> Skip"
+   [355]
+    1 string data = "Track #[TRACKID]"
+   [356]
+    1 string data = "<button="DeployParty">/<button="NextTrack"> Change Song"
+   [357]
+    1 string data = "<button="WindBracelet"> Random Song"
+   [358]
+    1 string data = "Can't carry anymore."
+   [359]
+    1 string data = "Not enough gold."
+   [360]
+    1 string data = "Can't carry any more gold."
+   [361]
+    1 string data = "Can't sell equipped item."
+   [362]
+    1 string data = "<button="Interact"> Climb / Jump"
+   [363]
+    1 string data = "<button="UI_Confirm"> Super Speed"
+   [364]
+    1 string data = "<button="UI_Confirm"> + <button="UI_SkipDialog"> Ultra Speed "
+   [365]
+    1 string data = "Were you looking for a specific monument?"
+   [366]
+    1 string data = "Luana & Solen"
+   [367]
+    1 string data = "Solen & Luana"
+   [368]
+    1 string data = "World Eater"
+   [369]
+    1 string data = "TO NEXT"
+   [370]
+    1 string data = "Some actions functions are not mapped."
+   [371]
+    1 string data = "Edit"
+   [372]
+    1 string data = "Default"

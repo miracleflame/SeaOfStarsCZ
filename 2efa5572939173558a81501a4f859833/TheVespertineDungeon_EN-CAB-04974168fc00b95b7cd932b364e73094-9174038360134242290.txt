@@ -1,0 +1,138 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "TheVespertineDungeon_EN"
+ 1 string locCategoryId = "SeaOfNightmare/TheVespertineDungeon"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (62 items)
+   0 int size = 62
+   [0]
+    1 string data = "YE FOOLS, THE VESPERTINE WILL RETURN TO THE <color=bad>SEA OV NIGHTMARE</color> ANY SECOND!!"
+   [1]
+    1 string data = "GET OFF RIGHT NOW!!!"
+   [2]
+    1 string data = "..."
+   [3]
+    1 string data = "What happened? I saw someone, and then..."
+   [4]
+    1 string data = "Welcome to the Sea ov Nightmare!"
+   [5]
+    1 string data = "Nice going binding yer souls to an ancient pirate curse like that."
+   [6]
+    1 string data = "Hello we... plan on claiming the ship for ourselves."
+   [7]
+    1 string data = "Hahaha! Now THAT'S a good one!"
+   [8]
+    1 string data = "And how do y'all plan on doing that?"
+   [9]
+    1 string data = "..."
+   [10]
+    1 string data = "These two are Solstice Warriors."
+   [11]
+    1 string data = "Pardon?"
+   [12]
+    1 string data = "They can use Solstice Magic. No creature is immune to it."
+   [13]
+    1 string data = "Solstice Magic, huh? How can such a coincidence..."
+   [14]
+    1 string data = "Yer 'nother hallucination, ain't ye?"
+   [15]
+    1 string data = "BRACE!!"
+   [16]
+    1 string data = "Alright, <color=bad>Stormcaller</color> has sensed yer presence. I s'pose this makes ya real."
+   [17]
+    1 string data = "So you’re the one known as “The Navigator?”"
+   [18]
+    1 string data = "<color=good>Hortence</color> be the name. Use it."
+   [19]
+    1 string data = "Can’t imagine how y'all ended up here, but it’s a relief someone can finally fight those things."
+   [20]
+    1 string data = "You mean the ghost pirates? Aren’t they..."
+   [21]
+    1 string data = "My former crewmates? Aye, going along with mutiny'll do ya in like lil' else."
+   [22]
+    1 string data = "Well, I s'pose instigating mutiny is worse. Sometimes I wish I was also made an undead of the brainless sort..."
+   [23]
+    1 string data = "So, your former captain, this Stormcaller-- how can we stop him?"
+   [24]
+    1 string data = "If the last couple centuries have taught me anything, it’s that we can't. See, the curse only has two possible outcomes."
+   [25]
+    1 string data = "Either Stormcaller gives up, or I let The Vespertine sink, and by the looks of it neither is happening anytime soon."
+   [26]
+    1 string data = "What if we fought him?"
+   [27]
+    1 string data = "??"
+   [28]
+    1 string data = "Look alive, Stormcaller be the most formidable wind mage the world has ever known!"
+   [29]
+    1 string data = "We can hold our own in battle."
+   [30]
+    1 string data = "Oh? Reckon ya can beat a grudge so strong it magicked a parallel nightmare realm in which to torture a crew for all eternity?"
+   [31]
+    1 string data = "..."
+   [32]
+    1 string data = "Look, if y'all are foolish enough to wag yer swords at him I won’t stop ya, but first his wind barrier needs weakening."
+   [33]
+    1 string data = "Where do we begin?"
+   [34]
+    1 string data = "There're three lightning rods sending power back to the maelstrom where he channels this never-ending storm."
+   [35]
+    1 string data = "Y'all want to confront him, that’s the first step."
+   [36]
+    1 string data = "Where are the rods?"
+   [37]
+    1 string data = "Even if I knew, ain't no way to tell which way is up in this nightmare."
+   [38]
+    1 string data = "Okay, how 'bout this for a first test?"
+   [39]
+    1 string data = "My map should be below decks, in the kitchen past the crew quarters."
+   [40]
+    1 string data = "If y'all can fetch it and return alive, I’ll entertain this plan o' yers."
+   [41]
+    1 string data = "One map, coming up!"
+   [42]
+    1 string data = "That's the map. Let’s return to Hortence."
+   [43]
+    1 string data = "Hey, y'all're starting to give me hope!"
+   [44]
+    1 string data = "So how can we find the rods?"
+   [45]
+    1 string data = "The magic map connects to the sea. Should allow ye to get an idea ov the place."
+   [46]
+    1 string data = "Okay, we got this!"
+   [47]
+    1 string data = "Why don't ye take the wheel? I could certainly use a break."
+   [48]
+    1 string data = "Looks like a logbook."
+   [49]
+    1 string data = "These cannons haven't been fired in a while."
+   [50]
+    1 string data = "Whoever crafted this knew what they were doing."
+   [51]
+    1 string data = "The deed is done."
+   [52]
+    1 string data = "What now?"
+   [53]
+    1 string data = "WE BRACE!!!"
+   [54]
+    1 string data = "Free at last..."
+   [55]
+    1 string data = "It’s finally over, Hortence!"
+   [56]
+    1 string data = "Hahaha! Now THAT feels good!"
+   [57]
+    1 string data = "Hey, I know you haven't had a break in forever, but... there's these people we still need to help."
+   [58]
+    1 string data = "Aye! Reckon I owe ye one. Friends o' yers are friends o' mine."
+   [59]
+    1 string data = "Take me to 'em."
+   [60]
+    1 string data = "My map should be below decks, in the kitchen past the crew quarters."
+   [61]
+    1 string data = "Did ye find the map?"

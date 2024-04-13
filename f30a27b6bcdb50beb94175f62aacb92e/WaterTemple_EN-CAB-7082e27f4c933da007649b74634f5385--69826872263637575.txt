@@ -1,0 +1,42 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "WaterTemple_EN"
+ 1 string locCategoryId = "WatcherIsland/WaterTemple"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (14 items)
+   0 int size = 14
+   [0]
+    1 string data = "The energy from this door feels... odd..."
+   [1]
+    1 string data = "I bet the "big mystery" we're supposed to find is right behind it!"
+   [2]
+    1 string data = "No handles. Can’t push it open either."
+   [3]
+    1 string data = "And it’s not resonating with our innate magic..."
+   [4]
+    1 string data = "Maybe we’re just supposed to knock?"
+   [5]
+    1 string data = "It looks like something goes here. "
+   [6]
+    1 string data = "The water tunnel can be activated."
+   [7]
+    1 string data = "Activate"
+   [8]
+    1 string data = "Not now"
+   [9]
+    1 string data = "The water tunnel can be activated."
+   [10]
+    1 string data = "Activate"
+   [11]
+    1 string data = "Not now"
+   [12]
+    1 string data = "We need more pearls."
+   [13]
+    1 string data = "We don't have anything to put there."

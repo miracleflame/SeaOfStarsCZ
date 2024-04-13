@@ -1,0 +1,260 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "TormentPeak_EN"
+ 1 string locCategoryId = "WatcherIsland/TormentPeak"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (123 items)
+   0 int size = 123
+   [0]
+    1 string data = "No turning back now."
+   [1]
+    1 string data = "Right behind you."
+   [2]
+    1 string data = "Uh... Zale?"
+   [3]
+    1 string data = "... Yes?"
+   [4]
+    1 string data = "Are you seeing a bunch of FURRY LITTLE BUTTS?"
+   [5]
+    1 string data = "Yup."
+   [6]
+    1 string data = "Haha!"
+   [7]
+    1 string data = "Hello, ma’am!"
+   [8]
+    1 string data = "Wow! You all look so healthy!"
+   [9]
+    1 string data = "Is that a sword?"
+   [10]
+    1 string data = "Hey, you’re like this other guy!"
+   [11]
+    1 string data = "He could shoot tiny little suns!"
+   [12]
+    1 string data = "He said he’d save our mom and then he left instead."
+   [13]
+    1 string data = "So rude!"
+   [14]
+    1 string data = "DON’T BE RUDE, SUNBOY!"
+   [15]
+    1 string data = "What is going on here?"
+   [16]
+    1 string data = "Haha! Can we keep one?"
+   [17]
+    1 string data = "What happened to your mom?"
+   [18]
+    1 string data = "She’s down below!"
+   [19]
+    1 string data = "We love her so much!"
+   [20]
+    1 string data = "She says we can’t go and see her because of the monster!"
+   [21]
+    1 string data = "So we just stare at her from up here!"
+   [22]
+    1 string data = "She’s so pretty!"
+   [23]
+    1 string data = "We used to run around the island."
+   [24]
+    1 string data = "I miss the clouds."
+   [25]
+    1 string data = "DO CLOUDS STILL EXIST?"
+   [26]
+    1 string data = "Hey, it sounds like they’re talking about the <color=good>Gorilla Matriarch</color>."
+   [27]
+    1 string data = "But Teaks said all divine spirits had been destroyed by The Fleshmancer long ago."
+   [28]
+    1 string data = "The Headmaster mentioned this too, though he said they were either destroyed or harvested..."
+   [29]
+    1 string data = "..."
+   [30]
+    1 string data = "So the cubs are..."
+   [31]
+    1 string data = "Food for the Dweller."
+   [32]
+    1 string data = "How did our order not stop this!?"
+   [33]
+    1 string data = "We just put a seal on the mountain and pretend like nothing happened?"
+   [34]
+    1 string data = "Hey, it’s rude to just talk between yourselves!"
+   [35]
+    1 string data = "DON’T DO THIS!"
+   [36]
+    1 string data = "We will help your mom and get you all back outside!"
+   [37]
+    1 string data = "Really?"
+   [38]
+    1 string data = "That would be awesome!"
+   [39]
+    1 string data = "We could run around the island again!"
+   [40]
+    1 string data = "Or maybe they’ll never return, like our siblings."
+   [41]
+    1 string data = "I think they were eaten by the monster."
+   [42]
+    1 string data = "I think they found a nicer room and don’t want to share."
+   [43]
+    1 string data = "NOT SHARING IS RUDE!"
+   [44]
+    1 string data = "We will return. You have our word."
+   [45]
+    1 string data = "Let’s end this madness."
+   [46]
+    1 string data = "Gorilla Matriarch! You really are alive!"
+   [47]
+    1 string data = "You should not have come. The evil of this place is too vile to confront, even for Solstice Warriors."
+   [48]
+    1 string data = "What happened to you?"
+   [49]
+    1 string data = "I was subjected to The Fleshmancer’s final affront to this world."
+   [50]
+    1 string data = "Before leaving, he placed a <color=bad>Seed of Evil</color> in the depths of this mountain and bound me here, so that my cubs would remain in close proximity."
+   [51]
+    1 string data = "This guy, I swear..."
+   [52]
+    1 string data = "I am cursed to watch helplessly as they walk before me on the way to be devoured by the growing Dweller of Torment."
+   [53]
+    1 string data = "And with their innocent minds so easily controlled, my pleas always go unheard..."
+   [54]
+    1 string data = "..."
+   [55]
+    1 string data = "What a terrible fate."
+   [56]
+    1 string data = "How did we not know about this?"
+   [57]
+    1 string data = "Surely those who came before would have reported on the presence of a divine spirit, let alone a Dweller!"
+   [58]
+    1 string data = "It's all connected to the curse of this place. It was devised to be the perfect lair."
+   [59]
+    1 string data = "Memories formed within the mountain belong to it forever."
+   [60]
+    1 string data = "Solstice Warriors came, but whenever they left to get reinforcements, they would remember nothing other than a crippling sense of dread."
+   [61]
+    1 string data = "All they could do was seal the mountain and never return."
+   [62]
+    1 string data = "I'm so sorry..."
+   [63]
+    1 string data = "There isn’t much that could have been done even if they did prepare a cleansing."
+   [64]
+    1 string data = "We are so deep within the lair, the light from the eclipse would never touch the Dweller to make it vulnerable."
+   [65]
+    1 string data = "There has to be a way!"
+   [66]
+    1 string data = "Your duty to the world at large is paramount. Please, seal the mountain again and go."
+   [67]
+    1 string data = "Zale and I will fight."
+   [68]
+    1 string data = "No sitting around this time, I'm fighting too!"
+   [69]
+    1 string data = "Okay, so the Tethered Mind Potion keeps our memories safe, but that's useless for the fight."
+   [70]
+    1 string data = "And the Solstice Amulet should resonate with the Dweller, but the light from the eclipse will never get in here."
+   [71]
+    1 string data = "I have a plan. Just go and trigger the eclipse."
+   [72]
+    1 string data = "Seraï has left the party."
+   [73]
+    1 string data = "Okay, no turning back now!"
+   [74]
+    1 string data = "Your duty to the world at large is paramount. Please, seal the mountain again and go."
+   [75]
+    1 string data = "Hang in there, Matriarch."
+   [76]
+    1 string data = "Hey, there’s a cub!"
+   [77]
+    1 string data = "Hey there, little guy!"
+   [78]
+    1 string data = "..."
+   [79]
+    1 string data = "I want to see my mom."
+   [80]
+    1 string data = "She’s just over there! Come, we will take you to her."
+   [81]
+    1 string data = "I feel she is this way."
+   [82]
+    1 string data = "I think you lie."
+   [83]
+    1 string data = "Please come with us, we talked to her and she is very worried!"
+   [84]
+    1 string data = "Why do you lie?"
+   [85]
+    1 string data = "..."
+   [86]
+    1 string data = "I want to see my mom. Leave me alone."
+   [87]
+    1 string data = "Wait!"
+   [88]
+    1 string data = "Why don’t you try us for lunch instead, you creep!"
+   [89]
+    1 string data = "The amulet reacted, I can feel the eclipse!"
+   [90]
+    1 string data = "Seraï... Whatever you’re planning, please make it quick."
+   [91]
+    1 string data = "Heads up!"
+   [92]
+    1 string data = "It's useless... We need more light!"
+   [93]
+    1 string data = "Make way!"
+   [94]
+    1 string data = "Sorry I’m late."
+   [95]
+    1 string data = "Right on, Seraï!"
+   [96]
+    1 string data = "Let’s take this thing down."
+   [97]
+    1 string data = "We did it! Good thinking, Seraï!"
+   [98]
+    1 string data = "Now to destroy the core."
+   [99]
+    1 string data = "Together!"
+   [100]
+    1 string data = "Ready to go free the Matriarch?"
+   [101]
+    1 string data = "You bet!"
+   [102]
+    1 string data = "You owe us nothing, Matriarch."
+   [103]
+    1 string data = "Oh, but it is the least I can do!"
+   [104]
+    1 string data = "Fixing The Watcher will only take a moment, and its prism is how you will find what you are looking for."
+   [105]
+    1 string data = "Mom, can we go run around the island now?"
+   [106]
+    1 string data = "Certainly, my dear. In fact we must run to The Watcher right now."
+   [107]
+    1 string data = "Mom, can we go swimming now?"
+   [108]
+    1 string data = "First we must go to The Watcher, then we can go to the water."
+   [109]
+    1 string data = "Watcher-water."
+   [110]
+    1 string data = "Hey, how fast can you say watcher-water?"
+   [111]
+    1 string data = "Watcher-water!"
+   [112]
+    1 string data = "Watcher-water!"
+   [113]
+    1 string data = "WATCHER-WATER WATCHER-WATER WATCHER-WATER WATCHER-WATER!!!"
+   [114]
+    1 string data = "Hahaha!"
+   [115]
+    1 string data = "The Celestial Rune is broken, we can't use the Time of Day to activate this device. "
+   [116]
+    1 string data = "Another seal. Someone tried really hard to contain this..."
+   [117]
+    1 string data = "I think they found a nicer room and don’t want to share."
+   [118]
+    1 string data = "I think they were eaten by the monster."
+   [119]
+    1 string data = "We love her so much!"
+   [120]
+    1 string data = "We could run around the island again!"
+   [121]
+    1 string data = "She says we can’t go and see her because of the monster!"
+   [122]
+    1 string data = "She’s down below!"

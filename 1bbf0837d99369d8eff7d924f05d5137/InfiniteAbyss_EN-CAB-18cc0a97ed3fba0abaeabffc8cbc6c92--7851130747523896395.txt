@@ -1,0 +1,46 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "InfiniteAbyss_EN"
+ 1 string locCategoryId = "InfiniteAbyssEntrance/InfiniteAbyss"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (16 items)
+   0 int size = 16
+   [0]
+    1 string data = "Careful..."
+   [1]
+    1 string data = "??"
+   [2]
+    1 string data = "The Dweller's here. I can feel it too."
+   [3]
+    1 string data = "We've got your back."
+   [4]
+    1 string data = "It will be an honor to assist you in a cleansing."
+   [5]
+    1 string data = "Zale?"
+   [6]
+    1 string data = "Yeah, it's coming!"
+   [7]
+    1 string data = "You did it..."
+   [8]
+    1 string data = "Haha! Valere, we just took down a Dweller--no eclipse!"
+   [9]
+    1 string data = "This power... I didn't doubt for a moment that we could do it..."
+   [10]
+    1 string data = "Same. I feel so much stronger."
+   [11]
+    1 string data = "That thing we did when Garl was hit by the curse--I feel like I can control it now."
+   [12]
+    1 string data = "It’s been growing within me too ever since. I think we're ready."
+   [13]
+    1 string data = "The moon, then?"
+   [14]
+    1 string data = "Together."
+   [15]
+    1 string data = "Unbelievable..."

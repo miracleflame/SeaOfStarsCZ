@@ -1,0 +1,286 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Repine_EN"
+ 1 string locCategoryId = "CeruleanIsland/Repine"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (136 items)
+   0 int size = 136
+   [0]
+    1 string data = "..."
+   [1]
+    1 string data = "My house is all the way up. We can make our plans there."
+   [2]
+    1 string data = "Good morning, <color=good>Cedric</color>."
+   [3]
+    1 string data = "Good morning, Seraï."
+   [4]
+    1 string data = "I see your journey to other worlds in search of Solstice Warriors has proven successful."
+   [5]
+    1 string data = "Odds increase: drastic."
+   [6]
+    1 string data = "What’s the status?"
+   [7]
+    1 string data = "Moon still sunken."
+   [8]
+    1 string data = "Sun remains blocked by clouds."
+   [9]
+    1 string data = "Fleshmancer yet inhabits the castle which cannot be reached."
+   [10]
+    1 string data = "Active Threat: Dweller of Dread."
+   [11]
+    1 string data = "Any recent events?"
+   [12]
+    1 string data = "Fleshmancer activity detected a few days ago."
+   [13]
+    1 string data = "Fleshmancer left briefly for another world. Returned with new monster lieutenant named <color=bad>Elysan’darëlle</color>."
+   [14]
+    1 string data = "Erlina..."
+   [15]
+    1 string data = "Confrontation with Elysan’darëlle not recommended."
+   [16]
+    1 string data = "We’ll see about that!"
+   [17]
+    1 string data = "Recommended action: use Solstice Warriors to defeat Dweller of Dread."
+   [18]
+    1 string data = "Recommended action dependency: make for Sky Base to remove clouds and reconnect sun and moon."
+   [19]
+    1 string data = "..."
+   [20]
+    1 string data = "But how to get there..."
+   [21]
+    1 string data = "Report: Surveyal of the <color=location>Cerulean Expanse</color> continued while you were away."
+   [22]
+    1 string data = "And?"
+   [23]
+    1 string data = "Faint energy was detected. Concordant with old records about <color=magic>the dead of a forgotten race</color>."
+   [24]
+    1 string data = "(!!)"
+   [25]
+    1 string data = "Rumored builders of the speedball network. Might know a way to bring it back online."
+   [26]
+    1 string data = "Analysis of rails and ramps confirm speedball network as a potential route into Sky Base."
+   [27]
+    1 string data = "Recommended action: Follow survey probe through Cerulean Expanse and investigate signal."
+   [28]
+    1 string data = "Shot analysis: long."
+   [29]
+    1 string data = "At least we have a lead."
+   [30]
+    1 string data = "Presence confirmed of servants to <color=bad>The Queen That Was</color>. Confrontation likely unavoidable."
+   [31]
+    1 string data = "Don’t worry, they can fight."
+   [32]
+    1 string data = "Probe calibrated. Will beep faster to show objects of interest."
+   [33]
+    1 string data = "Good luck."
+   [34]
+    1 string data = "(The Cerulean Expanse...)"
+   [35]
+    1 string data = "(Could they really be somewhere in there? And still alive somehow?)"
+   [36]
+    1 string data = "One more thing, Cedric."
+   [37]
+    1 string data = "Yes?"
+   [38]
+    1 string data = "..."
+   [39]
+    1 string data = "I want them to see what we are facing."
+   [40]
+    1 string data = "The Dweller of Dread?"
+   [41]
+    1 string data = "Show them."
+   [42]
+    1 string data = "Dispatching drone."
+   [43]
+    1 string data = "Your people..."
+   [44]
+    1 string data = "We’re taking this thing down!"
+   [45]
+    1 string data = "Solstice Warriors demonstrate emotional investment. Might negatively affect performance."
+   [46]
+    1 string data = "Recommended action: breathe in."
+   [47]
+    1 string data = "Don't worry about us, that monster is getting its due!"
+   [48]
+    1 string data = "Recommended action: breathe out."
+   [49]
+    1 string data = "..."
+   [50]
+    1 string data = "Hahaha! Thanks, Cedric."
+   [51]
+    1 string data = "Okay, first the moon has to shine again. We need you two at full power."
+   [52]
+    1 string data = "The Cerulean Expanse is east of Repine."
+   [53]
+    1 string data = "Here’s hoping whatever we find there will be able to help..."
+   [54]
+    1 string data = "Teaks?"
+   [55]
+    1 string data = "You go ahead, I want to talk with Cedric."
+   [56]
+    1 string data = "I’ll catch up later!"
+   [57]
+    1 string data = "Look..."
+   [58]
+    1 string data = "And the clouds are gone too..."
+   [59]
+    1 string data = "Do you need to rest?"
+   [60]
+    1 string data = "Yes"
+   [61]
+    1 string data = "No"
+   [62]
+    1 string data = "..."
+   [63]
+    1 string data = "..."
+   [64]
+    1 string data = "..."
+   [65]
+    1 string data = "..."
+   [66]
+    1 string data = "Probe calibrated for Cerulean Expanse."
+   [67]
+    1 string data = "Will beep faster to show objects of interest."
+   [68]
+    1 string data = "Good Luck."
+   [69]
+    1 string data = "Safe travels."
+   [70]
+    1 string data = "Dweller of Dread eliminated. Odds increase: significant."
+   [71]
+    1 string data = "Fascinating..."
+   [72]
+    1 string data = "Decryption console online. Please present any <color=magic>Data Strips</color> you may have."
+   [73]
+    1 string data = "Decryption not possible unless more Data Strips are found."
+   [74]
+    1 string data = "Recommended action: Find more Data Strips."
+   [75]
+    1 string data = "There is now enough data to extrapolate encryption pattern."
+   [76]
+    1 string data = "Operation succesful. Printing <color=magic>Cypher</color>."
+   [77]
+    1 string data = "Decryption console offline."
+   [78]
+    1 string data = "Feed me something SWEET."
+   [79]
+    1 string data = "Feed me something WARMING."
+   [80]
+    1 string data = "Feed me something MEATY."
+   [81]
+    1 string data = "Feed me something LIGHT."
+   [82]
+    1 string data = "Feed me something FROM THE WATER."
+   [83]
+    1 string data = "Tasty."
+   [84]
+    1 string data = "Not SWEET enough."
+   [85]
+    1 string data = "Not WARMING enough."
+   [86]
+    1 string data = "Not MEATY enough."
+   [87]
+    1 string data = "Not LIGHT enough."
+   [88]
+    1 string data = "Not FROM THE WATER enough."
+   [89]
+    1 string data = "This was everything I ever wanted and more. Dispensing reward."
+   [90]
+    1 string data = "This was everything I ever wanted and more."
+   [91]
+    1 string data = "Man, I wish there was some way to cheer people up. It's like I'm the only one other than Seraï who still has some energy, but I'm no fighter!"
+   [92]
+    1 string data = "You're from another world, right? You got any games out there?"
+   [93]
+    1 string data = "Wheels, huh? That does sound like it could be fun!"
+   [94]
+    1 string data = "Could you do me a favor and ask that Watchmaker from your world if there's any way to get a table delivered here? I'd love to play some Wheels!"
+   [95]
+    1 string data = "Want to play some <color=magic>Wheels</color> with me?"
+   [96]
+    1 string data = "Casual"
+   [97]
+    1 string data = "Champion"
+   [98]
+    1 string data = "Maybe later"
+   [99]
+    1 string data = "Ah... Too bad..."
+   [100]
+    1 string data = "There it is!!"
+   [101]
+    1 string data = "It's a tie!"
+   [102]
+    1 string data = "Hey, you win!"
+   [103]
+    1 string data = "Congratulations, you won! Here's something for you!"
+   [104]
+    1 string data = "Ha! I win!"
+   [105]
+    1 string data = "Quitting already?"
+   [106]
+    1 string data = "Happy to play Champion, but you got a reward from me already."
+   [107]
+    1 string data = "I see. Well, these rules are simple enough."
+   [108]
+    1 string data = "I'll just take a few moments to analyze all the patterns!"
+   [109]
+    1 string data = "Okay! I'm a champion now, wanna try me?"
+   [110]
+    1 string data = "I still see it in my dreams."
+   [111]
+    1 string data = "Will the nightmares go away now?"
+   [112]
+    1 string data = "I want a way back to my mind."
+   [113]
+    1 string data = "The Dwelller is no more?"
+   [114]
+    1 string data = "Get it out of my head..."
+   [115]
+    1 string data = "The Catalyst... the pain..."
+   [116]
+    1 string data = "I used to feel..."
+   [117]
+    1 string data = "I saw it... please tell me I saw it..."
+   [118]
+    1 string data = "I wish that I could give up..."
+   [119]
+    1 string data = "The clouds... how...?"
+   [120]
+    1 string data = "They did too much to us..."
+   [121]
+    1 string data = "What... is there to even save...?"
+   [122]
+    1 string data = "There's no peace left in our hearts."
+   [123]
+    1 string data = "Our queen's betrayal... Seraï... almost saved us..."
+   [124]
+    1 string data = "I don't want to stay."
+   [125]
+    1 string data = "Should I... believe...?"
+   [126]
+    1 string data = "We should have turned the other way."
+   [127]
+    1 string data = "Soul Curator... I remember now..."
+   [128]
+    1 string data = "Seraï... Why would you return..."
+   [129]
+    1 string data = "Seraï... it's supposed to be impossible..."
+   [130]
+    1 string data = "Someone must have known..."
+   [131]
+    1 string data = "The moon..."
+   [132]
+    1 string data = "How can I go on?"
+   [133]
+    1 string data = "Is it a trick of the mind... hope...?"
+   [134]
+    1 string data = "...S...SW...SE...S..."
+   [135]
+    1 string data = "Sealed using powerful encyption. A <color=magic>Cypher</color> might do the trick."

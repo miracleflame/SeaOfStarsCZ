@@ -1,0 +1,38 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Fishing_EN"
+ 1 string locCategoryId = "Fishing"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (12 items)
+   0 int size = 12
+   [0]
+    1 string data = "You caught [CAUGHT_FISH_TEXT]!"
+   [1]
+    1 string data = "Fillet [FILLET_REWARD]"
+   [2]
+    1 string data = "Release"
+   [3]
+    1 string data = "You caught [CAUGHT_FISH_TEXT]!"
+   [4]
+    1 string data = "Watcher's Pond"
+   [5]
+    1 string data = "Fishing basics."
+   [6]
+    1 string data = "Press <button="Interact"> to <color=magic>cast</color>. Casting is always at full power."
+   [7]
+    1 string data = "While airborne, <color=magic>steer</color> the bobber with <button="Player_MoveHorizontal"> and press <button="Interact"> to <color=magic>kick</color> it into the water."
+   [8]
+    1 string data = "If the bobber touches water close to a fish, it's a <color=magic>hook</color>!"
+   [9]
+    1 string data = "While hooked, <color=magic>steer</color> the fish with <button="Player_MoveHorizontal"> and press and hold <button="Interact"> to <color=magic>reel while it is in the zone</color>."
+   [10]
+    1 string data = "Be careful not to reel outside of the zone, otherwise the line will <color=bad>break</color>."
+   [11]
+    1 string data = "Reel the fish all the way to the dock and it's a <color=magic>catch</color>!"

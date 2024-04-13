@@ -1,0 +1,110 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "MesaHike_EN"
+ 1 string locCategoryId = "MesaIsland/MesaHike"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (48 items)
+   0 int size = 48
+   [0]
+    1 string data = "Now, a hundred and fifty years should do it..."
+   [1]
+    1 string data = "Good morning, <color=good>Khukharr</color>."
+   [2]
+    1 string data = "Master... Have you come to check on my work?"
+   [3]
+    1 string data = "As you can see, I have not faltered."
+   [4]
+    1 string data = "I commend your dedication."
+   [5]
+    1 string data = "Thank you, master."
+   [6]
+    1 string data = "The water has risen quite a lot, how long was I asleep?"
+   [7]
+    1 string data = "An irrelevant matter. Aephorul left a long time ago and his acolytes have lost most of their powers. It will not happen again anytime soon."
+   [8]
+    1 string data = "I understand. How can I help?"
+   [9]
+    1 string data = "These people are your friends."
+   [10]
+    1 string data = "I understand."
+   [11]
+    1 string data = "Your turn."
+   [12]
+    1 string data = "..."
+   [13]
+    1 string data = "Hello Khukharr!"
+   [14]
+    1 string data = "Greetings, friend."
+   [15]
+    1 string data = "Can you... help us in any way?"
+   [16]
+    1 string data = "My main duty is to hold Mesa Island at this precise altitude."
+   [17]
+    1 string data = "Anything I can do without hindering my grip, I will gladly oblige, friend."
+   [18]
+    1 string data = "Well then, could you remove the barrier so we can get onto it?"
+   [19]
+    1 string data = "Oh? Surely you know of the <color=bad>evil castle</color> that sits there. It is no place to send a friend."
+   [20]
+    1 string data = "That’s still where we are headed."
+   [21]
+    1 string data = "I will not send friends into danger. I refuse."
+   [22]
+    1 string data = "Good morning, Khukharr."
+   [23]
+    1 string data = "Master... Have you come to check on my work?"
+   [24]
+    1 string data = "As you can see, I have not faltered."
+   [25]
+    1 string data = "I commend your dedication."
+   [26]
+    1 string data = "Thank you, master. How can I help?"
+   [27]
+    1 string data = "These people are adventurers on a very important mission and require your help."
+   [28]
+    1 string data = "I understand."
+   [29]
+    1 string data = "Try again."
+   [30]
+    1 string data = "..."
+   [31]
+    1 string data = "Just, same thing?"
+   [32]
+    1 string data = "Please."
+   [33]
+    1 string data = "Hello Khukharr!"
+   [34]
+    1 string data = "Greetings, adventurer."
+   [35]
+    1 string data = "Have you met my brothers X’tol and Y'eet?"
+   [36]
+    1 string data = "I can help you get to them in no time, just <color=magic>sail into my mouth</color> and choose a destination!"
+   [37]
+    1 string data = "..."
+   [38]
+    1 string data = "That’s..."
+   [39]
+    1 string data = "Okay, that does sound useful."
+   [40]
+    1 string data = "But for now what we need is for you to remove the barrier on the island."
+   [41]
+    1 string data = "I see. One moment please."
+   [42]
+    1 string data = "There it is!"
+   [43]
+    1 string data = "Thanks, Khukharr!"
+   [44]
+    1 string data = "Naturally. Safe travels, adventurers."
+   [45]
+    1 string data = "Up we go then."
+   [46]
+    1 string data = "Lead the way."
+   [47]
+    1 string data = "If you need to fast travel, just sail your boat straight into my mouth!"
