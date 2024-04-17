@@ -13,8 +13,8 @@
   1 Array Array (3 items)
    0 int size = 3
    [0]
-    1 string data = "Destination unknown. Threat level high. Are you sure you wish to proceed?"
+    1 string data = "Cíl není znám. Úroveň nebezpečí vysoká. Opravdu si přejete pokračovat?"
    [1]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [2]
-    1 string data = "No"
+    1 string data = "Ne"
