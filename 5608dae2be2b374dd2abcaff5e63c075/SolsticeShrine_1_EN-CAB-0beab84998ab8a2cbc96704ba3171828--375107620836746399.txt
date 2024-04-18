@@ -13,4 +13,4 @@
   1 Array Array (1 items)
    0 int size = 1
    [0]
-    1 string data = "It's locked."
+    1 string data = "Zamčeno."
