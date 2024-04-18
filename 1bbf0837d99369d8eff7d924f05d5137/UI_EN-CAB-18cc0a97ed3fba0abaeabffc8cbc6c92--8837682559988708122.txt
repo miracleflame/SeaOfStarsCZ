@@ -13,23 +13,23 @@
   1 Array Array (373 items)
    0 int size = 373
    [0]
-    1 string data = "Press <button="TitleScreenStart">"
+    1 string data = "Stiskněte <button="TitleScreenStart">"
    [1]
-    1 string data = "Sea of Stars has two main characters. Select the one who will lead the party.<br><color=#8C9BAC>(This can be changed later and does not affect the story.)</color>"
+    1 string data = "Sea of Stars má dva hlavní hrdiny. Zvolte toho, který povede skupinu.<br><color=#8C9BAC>(Toto rozhodnutí nemá vliv na příběh a může být později změněno.)</color>"
    [2]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [3]
-    1 string data = "No"
+    1 string data = "Ne"
    [4]
-    1 string data = "On"
+    1 string data = "Zapnuto"
    [5]
-    1 string data = "Off"
+    1 string data = "Vypnuto"
    [6]
     1 string data = "Ok"
    [7]
-    1 string data = "Return to title screen?"
+    1 string data = "Vrátit se na úvodní obrazovku?"
    [8]
-    1 string data = "Are you sure you want to quit the game?"
+    1 string data = "Opravdu chcete ukončit hru?"
    [9]
     1 string data = "+[AMOUNT] Hit Points"
    [10]
@@ -51,61 +51,61 @@
    [18]
     1 string data = "ATTACK"
    [19]
-    1 string data = "Equip"
+    1 string data = "Výstroj"
    [20]
     1 string data = "View stats and change equipment."
    [21]
-    1 string data = "Skills"
+    1 string data = "Dovednosti"
    [22]
-    1 string data = "View skills and combos."
+    1 string data = "Přehled dovedností a komb."
    [23]
-    1 string data = "Order"
+    1 string data = "Pořadí"
    [24]
-    1 string data = "Change the order of party members."
+    1 string data = "Měňte pořadí členů skupiny."
    [25]
-    1 string data = "Snacks"
+    1 string data = "Pokrmy"
    [26]
-    1 string data = "Browse and eat snacks."
+    1 string data = "Procházejte a konzumujte pokrmy."
    [27]
-    1 string data = "Items"
+    1 string data = "Inventář"
    [28]
-    1 string data = "Browse Inventory."
+    1 string data = "Procházejte inventář."
    [29]
-    1 string data = "Relics"
+    1 string data = "Relikvie"
    [30]
-    1 string data = "Browse and toggle relics."
+    1 string data = "Procházejte a přepínejte relikvie."
    [31]
-    1 string data = "Map"
+    1 string data = "Mapa"
    [32]
     1 string data = "View the Map and current objective marker."
    [33]
-    1 string data = "Camp"
+    1 string data = "Utábořit se"
    [34]
-    1 string data = "Heal up and prepare snacks for the road."
+    1 string data = "Vyléčte se a připravte si jídlo na cestu."
    [35]
-    1 string data = "You cannot camp right now."
+    1 string data = "V tuto chvíli se nelze utábořit."
    [36]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [37]
-    1 string data = "Set up camp for the night?"
+    1 string data = "Utábořit se na noc?"
    [38]
-    1 string data = "Back"
+    1 string data = "Zpět"
    [39]
-    1 string data = "Go back to previous menu."
+    1 string data = "Zpět na předchozí menu."
    [40]
-    1 string data = "Options"
+    1 string data = "Nastavení"
    [41]
-    1 string data = "Edit game options."
+    1 string data = "Upravujte nastavení hry."
    [42]
     1 string data = "You cannot play the demo right now.<br>Visit <color=#00FFFF>discord.gg/sabotagestudio</color> for support."
    [43]
-    1 string data = "Quit"
+    1 string data = "Konec"
    [44]
-    1 string data = "Equipment"
+    1 string data = "Výstroj"
    [45]
-    1 string data = "Skills"
+    1 string data = "Dovednosti"
    [46]
-    1 string data = "Combos"
+    1 string data = "Komba"
    [47]
     1 string data = "Effects"
    [48]
@@ -149,7 +149,7 @@
    [67]
     1 string data = "Max."
    [68]
-    1 string data = "Cancel"
+    1 string data = "Zrušit"
    [69]
     1 string data = "Upgrade [GEAR_NAME]"
    [70]
@@ -171,19 +171,19 @@
    [78]
     1 string data = "<button="UI_Confirm"> Use"
    [79]
-    1 string data = "<button="MoveHorizontal"> Skills"
+    1 string data = "<button="MoveHorizontal"> Dovednosti"
    [80]
-    1 string data = "<button="MoveHorizontal"> Combos"
+    1 string data = "<button="MoveHorizontal"> Komba"
    [81]
     1 string data = "<button="MoveVertical"> Scroll"
    [82]
     1 string data = "<button="UI_Confirm"> Change"
    [83]
-    1 string data = "Would you like to save your progress?"
+    1 string data = "Chcete uložit váš postup?"
    [84]
-    1 string data = "Saving..."
+    1 string data = "Ukládání..."
    [85]
-    1 string data = "General"
+    1 string data = "Obecné"
    [86]
     1 string data = "Vibration"
    [87]
@@ -191,27 +191,27 @@
    [88]
     1 string data = "Vibration function"
    [89]
-    1 string data = "Audio"
+    1 string data = "Zvuk"
    [90]
-    1 string data = "Video"
+    1 string data = "Obraz"
    [91]
-    1 string data = "Controls"
+    1 string data = "Ovládání"
    [92]
-    1 string data = "Gamepad"
+    1 string data = "Ovladač"
    [93]
-    1 string data = "Keyboard"
+    1 string data = "Klávesnice"
    [94]
-    1 string data = "User Data"
+    1 string data = "Data Uživatele"
    [95]
-    1 string data = "Language"
+    1 string data = "Jazyk"
    [96]
     1 string data = "Crash Reports"
    [97]
-    1 string data = "Master Volume"
+    1 string data = "Celková Hlasitost"
    [98]
-    1 string data = "Music Volume"
+    1 string data = "Hlasitost Hudby"
    [99]
-    1 string data = "SFX Volume"
+    1 string data = "Hlasitost Zvukových Efektů"
    [100]
     1 string data = "Ambience Volume"
    [101]
@@ -219,11 +219,11 @@
    [102]
     1 string data = "Dialog Bloops Volume"
    [103]
-    1 string data = "Adjust volume with <button="UI_Left"> and <button="UI_Right">"
+    1 string data = "Upravujte hlasitost pomocí <button="UI_Left"> a <button="UI_Right">"
    [104]
-    1 string data = "Brightness"
+    1 string data = "Jas"
    [105]
-    1 string data = "Adjust brightness with <button="UI_Left"> and <button="UI_Right">"
+    1 string data = "Upravujte jas pomocí <button="UI_Left"> a <button="UI_Right">"
    [106]
     1 string data = "Screen Resolution"
    [107]
@@ -241,9 +241,9 @@
    [113]
     1 string data = "Synchronize rendering to the monitor's refresh rate."
    [114]
-    1 string data = "Apply Changes"
+    1 string data = "Uplatnit změny"
    [115]
-    1 string data = "Apply changes to the video settings."
+    1 string data = "Uplatnit změny nastavení obrazu."
    [116]
     1 string data = "Fullscreen"
    [117]
@@ -255,17 +255,17 @@
    [120]
     1 string data = "The detected refresh rate appears to be lower than the recommended 60hz. Please review video settings for an optimal experience."
    [121]
-    1 string data = "Interact"
+    1 string data = "Interakce"
    [122]
-    1 string data = "Up"
+    1 string data = "Nahoru"
    [123]
-    1 string data = "Down"
+    1 string data = "Dolů"
    [124]
-    1 string data = "Left"
+    1 string data = "Doleva"
    [125]
-    1 string data = "Right"
+    1 string data = "Doprava"
    [126]
-    1 string data = "Cancel / Graplou"
+    1 string data = "Zrušit / Graplou"
    [127]
     1 string data = "Game Menu"
    [128]
@@ -283,11 +283,11 @@
    [134]
     1 string data = "Move Left"
    [135]
-    1 string data = "Confirm"
+    1 string data = "Potvrdit"
    [136]
-    1 string data = "Cancel"
+    1 string data = "Zrušit"
    [137]
-    1 string data = "Back"
+    1 string data = "Zpět"
    [138]
     1 string data = "Secondary"
    [139]
@@ -301,27 +301,27 @@
    [143]
     1 string data = "Previous Page (Alt.)"
    [144]
-    1 string data = "Set up camp"
+    1 string data = "Utábořit se"
    [145]
-    1 string data = "Enter boat"
+    1 string data = "Nalodit se"
    [146]
-    1 string data = "Accelerate"
+    1 string data = "Zrychlit"
    [147]
-    1 string data = "Dock"
+    1 string data = "Zakotvit"
    [148]
     1 string data = "Pause Menu"
    [149]
     1 string data = "???"
    [150]
-    1 string data = "Reset to default"
+    1 string data = "Vrátit na výchozí"
    [151]
     1 string data = "Swap <button="[GAMEPAD]Left Stick"> / <button="[GAMEPAD]Right Stick">"
    [152]
     1 string data = "Player Controls"
    [153]
-    1 string data = "Menu Controls"
+    1 string data = "Ovládání Menu"
    [154]
-    1 string data = "Boat Controls"
+    1 string data = "Ovládání Lodi"
    [155]
     1 string data = "Discord events"
    [156]
@@ -333,9 +333,9 @@
    [159]
     1 string data = "Sure, sounds fun"
    [160]
-    1 string data = "Pause"
+    1 string data = "Pauznout"
    [161]
-    1 string data = "Resume"
+    1 string data = "Pokračovat"
    [162]
     1 string data = "Cheats"
    [163]
@@ -345,15 +345,15 @@
    [165]
     1 string data = "How to play"
    [166]
-    1 string data = "Feats"
+    1 string data = "Úspěchy"
    [167]
-    1 string data = "Controls"
+    1 string data = "Ovládání"
    [168]
-    1 string data = "Return to title"
+    1 string data = "Zpět na úvodní obrazovku"
    [169]
     1 string data = "Forfeit"
    [170]
-    1 string data = "Quit"
+    1 string data = "Konec"
    [171]
     1 string data = "<color=#3cc9ff>Basic actions and stats:</color> During combat, you can pick which of your characters goes first with <button="Combat_ChangeCharacterLeft"> & <button="Combat_ChangeCharacterRight">, then perform either an Attack or Skill. Skills require SP, which regenerate whenever you perform basic attacks. HP is, well, what you'd expect."
    [172]
@@ -371,15 +371,15 @@
    [178]
     1 string data = "<color=#3cc9ff>Trinkets:</color> Trinkets let you change how you approach combat, from difficulty to utility to the risk/reward of timed hits. While there are few in this demo, we hope they can give you a taste of their meta-potential. Read before equipping, and may you find the one that fits you best!"
    [179]
-    1 string data = "<button="UI_Back"> Back"
+    1 string data = "<button="UI_Back"> Zpět"
    [180]
     1 string data = "Traversal"
    [181]
-    1 string data = "Combat"
+    1 string data = "Souboje"
    [182]
     1 string data = "Default Mapping"
    [183]
-    1 string data = "Cursor"
+    1 string data = "Kurzor"
    [184]
     1 string data = "Cursor<color=#8d9bab>/</color>Switch Character"
    [185]
@@ -387,17 +387,17 @@
    [186]
     1 string data = "Display HUD"
    [187]
-    1 string data = "Movement"
+    1 string data = "Pohyb"
    [188]
-    1 string data = "Move Up"
+    1 string data = "Pohyb Nahoru"
    [189]
-    1 string data = "Move Left"
+    1 string data = "Pohyb Doleva"
    [190]
-    1 string data = "Move Right"
+    1 string data = "Pohyb Doprava"
    [191]
-    1 string data = "Move Down"
+    1 string data = "Pohyb Dolů"
    [192]
-    1 string data = "Pause"
+    1 string data = "Pauznout"
    [193]
     1 string data = "Time of Day <color=#8d9bab>(Hold)</color>"
    [194]
@@ -435,33 +435,33 @@
    [210]
     1 string data = "Open Microsoft Store"
    [211]
-    1 string data = "New Game"
+    1 string data = "Nová Hra"
    [212]
-    1 string data = "New Game +"
+    1 string data = "Nová Hra +"
    [213]
-    1 string data = "Continue"
+    1 string data = "Pokračovat"
    [214]
-    1 string data = "Load Game"
+    1 string data = "Načíst Hru"
    [215]
-    1 string data = "Quit Game"
+    1 string data = "Ukončit Hru"
    [216]
-    1 string data = "Save Game"
+    1 string data = "Uložit Hru"
    [217]
     1 string data = "Overwrite this save data?"
    [218]
     1 string data = "Load this game?"
    [219]
-    1 string data = "Erase"
+    1 string data = "Smazat"
    [220]
-    1 string data = "Erasing..."
+    1 string data = "Mazání..."
    [221]
-    1 string data = "Copying..."
+    1 string data = "Kopírování..."
    [222]
     1 string data = "Copy where?"
    [223]
     1 string data = "Erase this game?"
    [224]
-    1 string data = "An error occured. Please try again later."
+    1 string data = "Nastala chyba. Prosím, zkuste to později."
    [225]
     1 string data = "Base New Game+ on which save file?"
    [226]
@@ -469,37 +469,37 @@
    [227]
     1 string data = "A more recent autosave exists."
    [228]
-    1 string data = "<button="UI_SecondaryAction"> Erase"
+    1 string data = "<button="UI_SecondaryAction"> Smazat"
    [229]
-    1 string data = "<button="UI_TertiaryAction"> Copy"
+    1 string data = "<button="UI_TertiaryAction"> Zkopírovat"
    [230]
-    1 string data = "<button="UI_Back"> Back"
+    1 string data = "<button="UI_Back"> Zpět"
    [231]
-    1 string data = "<button="UI_Confirm"> Load"
+    1 string data = "<button="UI_Confirm"> Načíst"
    [232]
-    1 string data = "<button="UI_Confirm"> Save"
+    1 string data = "<button="UI_Confirm"> Uložit"
    [233]
-    1 string data = "<button="UI_Back"> Cancel"
+    1 string data = "<button="UI_Back"> Zrušit"
    [234]
-    1 string data = "<button="UI_Confirm"> Copy "
+    1 string data = "<button="UI_Confirm"> Zkopírovat "
    [235]
     1 string data = "How to play"
    [236]
     1 string data = "Traversal"
    [237]
-    1 string data = "Combat"
+    1 string data = "Souboje"
    [238]
-    1 string data = "Survival"
+    1 string data = "Přežití"
    [239]
     1 string data = "Wheels"
    [240]
     1 string data = "No data"
    [241]
-    1 string data = "Level"
+    1 string data = "Úroveň"
    [242]
-    1 string data = "Time"
+    1 string data = "Čas"
    [243]
-    1 string data = "Save"
+    1 string data = "Uložit"
    [244]
     1 string data = "Auto"
    [245]
@@ -523,41 +523,41 @@
    [254]
     1 string data = "Backpack"
    [255]
-    1 string data = "Recipes"
+    1 string data = "Recepty"
    [256]
-    1 string data = "Ingredients"
+    1 string data = "Ingredience"
    [257]
     1 string data = "Item Name"
    [258]
-    1 string data = "Owned"
+    1 string data = "V Inventáři"
    [259]
     1 string data = "Cook Qty"
    [260]
-    1 string data = "Alright, time to cook!"
+    1 string data = "Tak fajn, jde se vařit!"
    [261]
-    1 string data = "Here, I'll teach you some tricks!"
+    1 string data = "Koukněte, něčemu se přiučíte!"
    [262]
-    1 string data = "Okay, let's see here..."
+    1 string data = "Dobrá, tak se na to podíváme..."
    [263]
-    1 string data = "That one came out real nice!"
+    1 string data = "Tohle se vážně povedlo!"
    [264]
-    1 string data = "And that's how you do it!"
+    1 string data = "A je to!"
    [265]
-    1 string data = "I think that's how Garl used to do it..."
+    1 string data = "Myslím, že takhle to dělával Garl..."
    [266]
-    1 string data = "I guess this will do..."
+    1 string data = "Snad to bude dost dobré..."
    [267]
-    1 string data = "We're missing ingredients for that one!"
+    1 string data = "Na tohle nám chybí ingredience!"
    [268]
-    1 string data = "Can't cook that one at the moment!"
+    1 string data = "Tohle teď uvařit nemůžeme!"
    [269]
-    1 string data = "The lunchbox is already full!"
+    1 string data = "Na víc jídel nemáme místo!"
    [270]
     1 string data = "<button="UI_Confirm"> Cook (Hold)"
    [271]
     1 string data = "<button="MoveHorizontal"> Quantity"
    [272]
-    1 string data = "Owned [qty]"
+    1 string data = "V Inventáři [množství]"
    [273]
     1 string data = "LEVEL UP!"
    [274]
@@ -575,33 +575,33 @@
    [280]
     1 string data = "Cures KO +[KO_HEAL_PERCENTAGE]% hp"
    [281]
-    1 string data = "Buy"
+    1 string data = "Koupit"
    [282]
-    1 string data = "Sell"
+    1 string data = "Prodat"
    [283]
     1 string data = "Item Name"
    [284]
-    1 string data = "Owned"
+    1 string data = "V Inventáři"
    [285]
-    1 string data = "Price"
+    1 string data = "Cena"
    [286]
-    1 string data = "<button="UI_Confirm"> Buy"
+    1 string data = "<button="UI_Confirm"> Koupit"
    [287]
-    1 string data = "<button="UI_Confirm"> Sell"
+    1 string data = "<button="UI_Confirm"> Prodat"
    [288]
     1 string data = "<button="UI_Confirm"> Equip"
    [289]
     1 string data = "<button="UI_Back"> Keep"
    [290]
-    1 string data = "<button="MoveHorizontal"> Quantity"
+    1 string data = "<button="MoveHorizontal"> Množství"
    [291]
     1 string data = "Empty"
    [292]
-    1 string data = "Sold out"
+    1 string data = "Vyprodáno"
    [293]
     1 string data = "Effects"
    [294]
-    1 string data = "Title screen"
+    1 string data = "Úvodní obrazovka"
    [295]
     1 string data = "<button="Interact"> Cast"
    [296]
@@ -615,15 +615,15 @@
    [300]
     1 string data = "<button="WindBracelet"> Swap Character"
    [301]
-    1 string data = "<button="DeployParty"> Set up camp"
+    1 string data = "<button="DeployParty"> Utábořit se"
    [302]
-    1 string data = "<button="Boat_EnterBoat"> Enter boat"
+    1 string data = "<button="Boat_EnterBoat"> Nalodit se"
    [303]
-    1 string data = "<button="Boat_Accelerate"> Accelerate"
+    1 string data = "<button="Boat_Accelerate"> Zrychlit"
    [304]
     1 string data = "<button="MoveHorizontal"> Steer"
    [305]
-    1 string data = "<button="UI_PingHud"> Map"
+    1 string data = "<button="UI_PingHud"> Mapa"
    [306]
     1 string data = "Max"
    [307]
@@ -635,7 +635,7 @@
    [310]
     1 string data = "COPYRIGHT 2023 SABOTAGE STUDIO"
    [311]
-    1 string data = "Loading..."
+    1 string data = "Načítání..."
    [312]
     1 string data = "Version [VERSION]"
    [313]
@@ -655,15 +655,15 @@
    [320]
     1 string data = "<button="Cancel"> Back"
    [321]
-    1 string data = "To inventory"
+    1 string data = "Do inventáře"
    [322]
     1 string data = "Equip now"
    [323]
-    1 string data = "Buy"
+    1 string data = "Koupit"
    [324]
-    1 string data = "Sell"
+    1 string data = "Prodat"
    [325]
-    1 string data = "Keep"
+    1 string data = "Ponechat si"
    [326]
     1 string data = "Previously Equipped"
    [327]
@@ -671,9 +671,9 @@
    [328]
     1 string data = "Sell for <color=#FFFFFF>[PRICE]</color> G ?"
    [329]
-    1 string data = "Game Over"
+    1 string data = "Konec Hry"
    [330]
-    1 string data = "Feats"
+    1 string data = "Úspěchy"
    [331]
     1 string data = "Game Data"
    [332]
@@ -683,25 +683,25 @@
    [334]
     1 string data = "<button="WindBracelet"> Dive"
    [335]
-    1 string data = "Play time"
+    1 string data = "Doba hraní"
    [336]
-    1 string data = "Enemies defeated"
+    1 string data = "Poražení nepřátelé"
    [337]
-    1 string data = "Death count"
+    1 string data = "Počet smrtí"
    [338]
     1 string data = "Gold collected"
    [339]
-    1 string data = "Fish caught"
+    1 string data = "Chycené ryby"
    [340]
-    1 string data = "Meals cooked"
+    1 string data = "Uvařená jídla"
    [341]
-    1 string data = "Are you sure you don't want to save?"
+    1 string data = "Opravdu nechcete uložit hru?"
    [342]
-    1 string data = "<button="UI_Back"> Back"
+    1 string data = "<button="UI_Back"> Zpět"
    [343]
-    1 string data = "<button="UI_Confirm"> Zoom In"
+    1 string data = "<button="UI_Confirm"> Přiblížit"
    [344]
-    1 string data = "<button="UI_TertiaryAction"> Zoom out"
+    1 string data = "<button="UI_TertiaryAction"> Oddálit"
    [345]
     1 string data = "<button="UI_Confirm"> Ping Parrot"
    [346]
@@ -721,13 +721,13 @@
    [353]
     1 string data = "Need to progress further first. B'gawk!"
    [354]
-    1 string data = "<button="UI_Back"> Skip"
+    1 string data = "<button="UI_Back"> Přeskočit"
    [355]
-    1 string data = "Track #[TRACKID]"
+    1 string data = "Píseň #[TRACKID]"
    [356]
-    1 string data = "<button="DeployParty">/<button="NextTrack"> Change Song"
+    1 string data = "<button="DeployParty">/<button="NextTrack"> Změnit Píseň"
    [357]
-    1 string data = "<button="WindBracelet"> Random Song"
+    1 string data = "<button="WindBracelet"> Náhodná píseň"
    [358]
     1 string data = "Can't carry anymore."
    [359]
@@ -743,7 +743,7 @@
    [364]
     1 string data = "<button="UI_Confirm"> + <button="UI_SkipDialog"> Ultra Speed "
    [365]
-    1 string data = "Were you looking for a specific monument?"
+    1 string data = "Hledáte nějaký konkrétní pomník?"
    [366]
     1 string data = "Luana & Solen"
    [367]
