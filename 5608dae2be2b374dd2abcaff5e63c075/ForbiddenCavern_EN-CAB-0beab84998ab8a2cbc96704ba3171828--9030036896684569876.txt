@@ -149,11 +149,11 @@
    [67]
     1 string data = "Já jsem se hrdinou nikdy stát nechtěl..."
    [68]
-    1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se neučím dost rychle. Kvůli tomu se prostě cítím příšerně."
+    1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se neučím dost rychle. Je mi z toho prostě nanic."
    [69]
     1 string data = "Já vím, Brugavesi..."
    [70]
-    1 string data = "Pokud existuje jakékoliv východisko, tak ho pro nás najdu."
+    1 string data = "Jestli pro nás existuje jakékoliv východisko, tak já ho najdu."
    [71]
     1 string data = "No, mně je zima..."
    [72]
