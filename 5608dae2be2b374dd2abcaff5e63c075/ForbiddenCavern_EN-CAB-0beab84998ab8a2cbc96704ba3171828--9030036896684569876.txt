@@ -149,7 +149,7 @@
    [67]
     1 string data = "Já jsem se hrdinou nikdy stát nechtěl..."
    [68]
-    1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se nejsem dost rychlý. Je mi z toho prostě nanic."
+    1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se neučím dost rychle. Je mi z toho prostě nanic."
    [69]
     1 string data = "Já vím, Brugavesi..."
    [70]
