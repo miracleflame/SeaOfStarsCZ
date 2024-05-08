@@ -31,29 +31,29 @@
    [8]
     1 string data = "Opravdu chcete ukončit hru?"
    [9]
-    1 string data = "+[AMOUNT] Hit Points"
+    1 string data = "+[AMOUNT] Bodů Života"
    [10]
-    1 string data = "+[AMOUNT] Mana Points"
+    1 string data = "+[AMOUNT] Bodů Many"
    [11]
-    1 string data = "+[AMOUNT] Physical Attack"
+    1 string data = "+[AMOUNT] Fyzický Útok"
    [12]
-    1 string data = "+[AMOUNT] Physical Defense"
+    1 string data = "+[AMOUNT] Fyzická Obrana"
    [13]
-    1 string data = "+[AMOUNT] Magic Attack"
+    1 string data = "+[AMOUNT] Magický Útok"
    [14]
-    1 string data = "+[AMOUNT] Magic Defense"
+    1 string data = "+[AMOUNT] Magická Obrana"
    [15]
-    1 string data = "Pick a bonus stat"
+    1 string data = "Vybrat bonus do vlastností"
    [16]
-    1 string data = "HP"
+    1 string data = "BŽ"
    [17]
-    1 string data = "MP"
+    1 string data = "BM"
    [18]
-    1 string data = "ATTACK"
+    1 string data = "ÚTOK"
    [19]
     1 string data = "Výstroj"
    [20]
-    1 string data = "View stats and change equipment."
+    1 string data = "Zobrazit vlastnosti a měnit výstroj."
    [21]
     1 string data = "Dovednosti"
    [22]
@@ -61,27 +61,27 @@
    [23]
     1 string data = "Pořadí"
    [24]
-    1 string data = "Měňte pořadí členů skupiny."
+    1 string data = "Měňit pořadí členů skupiny."
    [25]
     1 string data = "Pokrmy"
    [26]
-    1 string data = "Procházejte a konzumujte pokrmy."
+    1 string data = "Procházet a konzumovat pokrmy."
    [27]
     1 string data = "Inventář"
    [28]
-    1 string data = "Procházejte inventář."
+    1 string data = "Procházet inventář."
    [29]
     1 string data = "Relikvie"
    [30]
-    1 string data = "Procházejte a přepínejte relikvie."
+    1 string data = "Procházet a přepínat relikvie."
    [31]
     1 string data = "Mapa"
    [32]
-    1 string data = "View the Map and current objective marker."
+    1 string data = "Zobrazit mapu a ukazatel dalšího postupu."
    [33]
     1 string data = "Utábořit se"
    [34]
-    1 string data = "Vyléčte se a připravte si jídlo na cestu."
+    1 string data = "Uzdravit se a připravit pokrm na cestu."
    [35]
     1 string data = "V tuto chvíli se nelze utábořit."
    [36]
@@ -95,7 +95,7 @@
    [40]
     1 string data = "Nastavení"
    [41]
-    1 string data = "Upravujte nastavení hry."
+    1 string data = "Upravit nastavení hry."
    [42]
     1 string data = "You cannot play the demo right now.<br>Visit <color=#00FFFF>discord.gg/sabotagestudio</color> for support."
    [43]
@@ -107,77 +107,77 @@
    [46]
     1 string data = "Komba"
    [47]
-    1 string data = "Effects"
+    1 string data = "Účinky"
    [48]
-    1 string data = "MP Cost"
+    1 string data = "Cena BM"
    [49]
-    1 string data = "Allies"
+    1 string data = "Členové"
    [50]
-    1 string data = "Cost"
+    1 string data = "Stojí"
    [51]
-    1 string data = "MP Cost: [AMOUNT]"
+    1 string data = "Stojí BM: [AMOUNT]"
    [52]
-    1 string data = "Learned"
+    1 string data = "Umí"
    [53]
-    1 string data = "HP"
+    1 string data = "BŽ"
    [54]
-    1 string data = "MP"
+    1 string data = "BM"
    [55]
-    1 string data = "Combo Point"
+    1 string data = "Kombo Bod"
    [56]
-    1 string data = "ATK"
+    1 string data = "UTK"
    [57]
-    1 string data = "DEF"
+    1 string data = "OBR"
    [58]
-    1 string data = "M. ATK"
+    1 string data = "M. UTK"
    [59]
-    1 string data = "M. DEF"
+    1 string data = "M. OBR"
    [60]
-    1 string data = "ATK"
+    1 string data = "UTK"
    [61]
-    1 string data = "DEF"
+    1 string data = "OBR"
    [62]
-    1 string data = "M. ATK"
+    1 string data = "M. UTK"
    [63]
-    1 string data = "M. DEF"
+    1 string data = "M. OBR"
    [64]
-    1 string data = "Level"
+    1 string data = "Úroveň"
    [65]
-    1 string data = "LV"
+    1 string data = "ÚV"
    [66]
-    1 string data = "Upgrade Cost"
+    1 string data = "Vylepšit stojí"
    [67]
     1 string data = "Max."
    [68]
     1 string data = "Zrušit"
    [69]
-    1 string data = "Upgrade [GEAR_NAME]"
+    1 string data = "Vylepšit [GEAR_NAME]"
    [70]
-    1 string data = "Upgrade weapon to level [LVL]"
+    1 string data = "Vylepšit zbraň na úroveň [LVL]"
    [71]
-    1 string data = "Max level reached."
+    1 string data = "Dosáhnuto maximum."
    [72]
-    1 string data = "Upgrade armor to level [LVL]"
+    1 string data = "Vylepšit zbroj na úroveň [LVL]"
    [73]
-    1 string data = "Max level reached."
+    1 string data = "Dosáhnuto maximum."
    [74]
     1 string data = "[GEAR_NAME] LV.[LVL]"
    [75]
     1 string data = "E"
    [76]
-    1 string data = "<button="UI_FilletFish"> Fillet Fish"
+    1 string data = "<button="UI_FilletFish"> Rybí filet"
    [77]
-    1 string data = "<button="UI_TertiaryAction"> Recipe / Details"
+    1 string data = "<button="UI_TertiaryAction"> Recept / Detaily"
    [78]
-    1 string data = "<button="UI_Confirm"> Use"
+    1 string data = "<button="UI_Confirm"> Použi"
    [79]
     1 string data = "<button="MoveHorizontal"> Dovednosti"
    [80]
     1 string data = "<button="MoveHorizontal"> Komba"
    [81]
-    1 string data = "<button="MoveVertical"> Scroll"
+    1 string data = "<button="MoveVertical"> Posuň"
    [82]
-    1 string data = "<button="UI_Confirm"> Change"
+    1 string data = "<button="UI_Confirm"> Vyměň"
    [83]
     1 string data = "Chcete uložit váš postup?"
    [84]
@@ -185,11 +185,11 @@
    [85]
     1 string data = "Obecné"
    [86]
-    1 string data = "Vibration"
+    1 string data = "Vibrace"
    [87]
-    1 string data = "Rumble"
+    1 string data = "Otřesy"
    [88]
-    1 string data = "Vibration function"
+    1 string data = "Funkce vibrace"
    [89]
     1 string data = "Zvuk"
    [90]
@@ -213,47 +213,47 @@
    [99]
     1 string data = "Hlasitost Zvukových Efektů"
    [100]
-    1 string data = "Ambience Volume"
+    1 string data = "Hlasitost Ambientu"
    [101]
-    1 string data = "UI Volume"
+    1 string data = "Hlasitost Rozhraní"
    [102]
-    1 string data = "Dialog Bloops Volume"
+    1 string data = "Hlasitost Mluvení"
    [103]
-    1 string data = "Upravujte hlasitost pomocí <button="UI_Left"> a <button="UI_Right">"
+    1 string data = "Upravte hlasitost pomocí <button="UI_Left"> a <button="UI_Right">"
    [104]
     1 string data = "Jas"
    [105]
-    1 string data = "Upravujte jas pomocí <button="UI_Left"> a <button="UI_Right">"
+    1 string data = "Upravit jas pomocí <button="UI_Left"> a <button="UI_Right">"
    [106]
-    1 string data = "Screen Resolution"
+    1 string data = "Rozlíšení Obrazovky"
    [107]
-    1 string data = "Change the screen resolution"
+    1 string data = "Upravit rozlíšení obrazovky"
    [108]
-    1 string data = "Display Mode"
+    1 string data = "Režim Obrazovky"
    [109]
-    1 string data = "Change the display mode"
+    1 string data = "Upravit režim obrazovky"
    [110]
-    1 string data = "Pixel Perfect"
+    1 string data = "Ostré Pixely"
    [111]
-    1 string data = "Force pixel perfect alignment"
+    1 string data = "Vynutit precizní zarovnání pixelů"
    [112]
     1 string data = "VSync"
    [113]
-    1 string data = "Synchronize rendering to the monitor's refresh rate."
+    1 string data = "Synchronizovat renderování s obnovovancí frekvencí obrazovky."
    [114]
-    1 string data = "Uplatnit změny"
+    1 string data = "Aplikovat změny"
    [115]
-    1 string data = "Uplatnit změny nastavení obrazu."
+    1 string data = "Aplikovat změny nastavení obrazu."
    [116]
-    1 string data = "Fullscreen"
+    1 string data = "Celá Obrazovka"
    [117]
-    1 string data = "Windowed"
+    1 string data = "V Okne"
    [118]
-    1 string data = "Exclusive"
+    1 string data = "Exkluzívně"
    [119]
-    1 string data = "Window Scale"
+    1 string data = "Velikost Okna"
    [120]
-    1 string data = "The detected refresh rate appears to be lower than the recommended 60hz. Please review video settings for an optimal experience."
+    1 string data = "Zdetegovaná obnovovací frekvence se zdá být nižší než odporučených 60hz. Pro optimální zážitek si prosím ověrte nastavení monitora."
    [121]
     1 string data = "Interakce"
    [122]
@@ -265,23 +265,23 @@
    [125]
     1 string data = "Doprava"
    [126]
-    1 string data = "Zrušit / Graplou"
+    1 string data = "Zrušit / Zahák"
    [127]
-    1 string data = "Game Menu"
+    1 string data = "Menu Hry"
    [128]
-    1 string data = "Boost (Hold)"
+    1 string data = "Boostni (Podrž)"
    [129]
-    1 string data = "Time of Day (Forward)"
+    1 string data = "Čas Dne (Vpřed)"
    [130]
-    1 string data = "Time of Day (Back)"
+    1 string data = "Čas Dne (Zpět)"
    [131]
-    1 string data = "Move Up"
+    1 string data = "Posuň Nahoru"
    [132]
-    1 string data = "Move Down"
+    1 string data = "Posuň Dolů"
    [133]
-    1 string data = "Move Right"
+    1 string data = "Posuň Doprava"
    [134]
-    1 string data = "Move Left"
+    1 string data = "Posuň Doleva"
    [135]
     1 string data = "Potvrdit"
    [136]
@@ -289,17 +289,17 @@
    [137]
     1 string data = "Zpět"
    [138]
-    1 string data = "Secondary"
+    1 string data = "Druhotní"
    [139]
-    1 string data = "Tertiary"
+    1 string data = "Terciární"
    [140]
-    1 string data = "Next Page"
+    1 string data = "Další Strana"
    [141]
-    1 string data = "Previous Page"
+    1 string data = "Předešlá Strana"
    [142]
-    1 string data = "Next Page (Alt.)"
+    1 string data = "Další Strana (Alt.)"
    [143]
-    1 string data = "Previous Page (Alt.)"
+    1 string data = "Předešlá Strana (Alt.)"
    [144]
     1 string data = "Utábořit se"
    [145]
@@ -309,15 +309,15 @@
    [147]
     1 string data = "Zakotvit"
    [148]
-    1 string data = "Pause Menu"
+    1 string data = "Menu Pauzy"
    [149]
     1 string data = "???"
    [150]
     1 string data = "Vrátit na výchozí"
    [151]
-    1 string data = "Swap <button="[GAMEPAD]Left Stick"> / <button="[GAMEPAD]Right Stick">"
+    1 string data = "Vyměnit <button="[GAMEPAD]Left Stick"> / <button="[GAMEPAD]Right Stick">"
    [152]
-    1 string data = "Player Controls"
+    1 string data = "Ovládaní Postavy"
    [153]
     1 string data = "Ovládání Menu"
    [154]
