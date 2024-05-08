@@ -33,9 +33,9 @@
    [9]
     1 string data = "To je tím džemem. Použil jsem na něj trochu mízy z <color=magic>Nebeské vrby</color>."
    [10]
-    1 string data = "Z toho bys mohl mít problém."
+    1 string data = "Z toho bys mohl mít potíže."
    [11]
-    1 string data = "To byste mě museli prozradit."
+    1 string data = "To byste mě museli naprášit."
    [12]
     1 string data = "Hahaha!"
    [13]
@@ -121,13 +121,13 @@
    [53]
     1 string data = "Takže jste to byli vy..."
    [54]
-    1 string data = "Vidím, že jste stejně vynalézaví, jako jste lehkomyslní."
+    1 string data = "Vidím, že jste stejně vynalézaví, jako jste lehkovážní."
    [55]
     1 string data = "Řediteli! Garl potřebuje pomoc!"
    [56]
     1 string data = "Je to... lepší..."
    [57]
-    1 string data = "To, co Garl potřebuje, je nezabývat se záležitostmi Bojovníků Slunovratu, stejně jako každý jiný obyčejný člověk narozen v Mooncradle!"
+    1 string data = "Garl se potřebuje především nezabývat záležitostmi Bojovníků Slunovratu, stejně jako každý jiný, kdo se v Mooncradle narodil jako běžné dítě!"
    [58]
     1 string data = "Je mi to vážně líto, řediteli. Celé to byl můj nápad..."
    [59]
@@ -135,7 +135,7 @@
    [60]
     1 string data = "..."
    [61]
-    1 string data = "Buď rád za to, že tvé oko je tím jediným, o co jsi přišel, abys tohle pochopil, chlapče."
+    1 string data = "Buď rád, že jsi za tuhle lekci zaplatil pouze okem, chlapče."
    [62]
     1 string data = "A co se vás dvou týče, pokud skutečně tak moc toužíte začít s výcvikem, tak vám vyhovím."
    [63]
@@ -149,7 +149,7 @@
    [67]
     1 string data = "Já jsem se hrdinou nikdy stát nechtěl..."
    [68]
-    1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se neučím dost rychle. Je mi z toho prostě nanic."
+    1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se nejsem dost rychlý. Je mi z toho prostě nanic."
    [69]
     1 string data = "Já vím, Brugavesi..."
    [70]
@@ -197,4 +197,4 @@
    [91]
     1 string data = "Hele, tenhle svítící svitek vypadá zajímavě, měli bychom si ho prohlédnout."
    [92]
-    1 string data = "Použijte svitek z inventáře k naučení nového komba."
+    1 string data = "Použijte svitek z inventáře, abyste se naučili nové kombo."

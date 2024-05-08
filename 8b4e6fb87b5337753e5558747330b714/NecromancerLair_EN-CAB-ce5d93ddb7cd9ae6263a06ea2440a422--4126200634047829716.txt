@@ -41,11 +41,11 @@
    [13]
     1 string data = "Myslím, že byste mi to měli spravedlivě vynahradit."
    [14]
-    1 string data = "Nebuď si tím tak jistá, tihle dva jsou Bojovníci Slunovratu s plným výcvikem!"
+    1 string data = "Nebuď si tím tak jistá, tihle dva jsou vycvičení Bojovníci Slunovratu!"
    [15]
     1 string data = "Ha! Tak toto je čím dál tím zajímavější!"
    [16]
-    1 string data = "Vy jste jako ti rádoby Solena a Luan, kteří si mysleli, že když mě porazí, tak probudí svou sílu?"
+    1 string data = "Vy jste jako ti rádoby Solena a Luan, kteří si mysleli, že se povznesou, když mě porazí?"
    [17]
     1 string data = "O čem to mluvíš?"
    [18]
@@ -57,7 +57,7 @@
    [21]
     1 string data = "(Děti, přísahám, že...)"
    [22]
-    1 string data = "(Přece neumřu kvůli hloupému kameni!)"
+    1 string data = "(Přece neumřu kvůli hloupému šutru!)"
    [23]
     1 string data = "..."
    [24]
@@ -77,11 +77,11 @@
    [31]
     1 string data = "(...)"
    [32]
-    1 string data = "Ty... chceš, abychom odešli, ne?"
+    1 string data = "Přeci... chceš, abychom odešli, ne?"
    [33]
     1 string data = "(Taková drzost...)"
    [34]
-    1 string data = "(TAKOVÁ NEÚCTA!!!)"
+    1 string data = "(TAKOVÁ NESTYDADOST!!!)"
    [35]
     1 string data = "Vemte si láhev z mého stolu a pak VYPADNĚTE Z MÉHO POZEMKU!"
    [36]
@@ -91,16 +91,16 @@
    [38]
     1 string data = "Nebyl to souboj tří proti jedné, vždyť jsi vytvořila-"
    [39]
-    1 string data = "JDĚTE PRYČ!!!"
+    1 string data = "VYPADNÉTE!!!"
    [40]
     1 string data = "Dobrá, získali jsme kámen duší! Doufejme, že není příliš pozdě."
    [41]
     1 string data = "Vydrž Garle, už jdeme."
    [42]
-    1 string data = "Stiskněte <button="Zrušit"> pro hod s Graplou."
+    1 string data = "Stiskněte <button="Zrušit"> pro vrh Zaháku."
    [43]
     1 string data = "Dokáže se přichytit na zachytávací body, nepřátele a šplhatelné povrchy."
    [44]
-    1 string data = "Stiskněte <button="Zrušit"> pro hod s Graplou."
+    1 string data = "Stiskněte <button="Zrušit"> pro vrh Zaháku."
    [45]
     1 string data = "Dokáže se přichytit na zachytávací body, nepřátele a šplhatelné povrchy."
