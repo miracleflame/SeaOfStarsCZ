@@ -35,7 +35,7 @@
    [10]
     1 string data = "Z toho bys mohl mít potíže."
    [11]
-    1 string data = "To byste mě museli naprášit."
+    1 string data = "To byste mě museli napráskat."
    [12]
     1 string data = "Hahaha!"
    [13]
