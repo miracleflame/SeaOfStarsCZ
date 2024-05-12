@@ -91,7 +91,7 @@
    [38]
     1 string data = "Nebyl to souboj tří proti jedné, vždyť jsi vytvořila-"
    [39]
-    1 string data = "VYPADNÉTE!!!"
+    1 string data = "VYPADNĚTE!!!"
    [40]
     1 string data = "Dobrá, získali jsme kámen duší! Doufejme, že není příliš pozdě."
    [41]
