@@ -13,97 +13,97 @@
   1 Array Array (128 items)
    0 int size = 128
    [0]
-    1 string data = "<color=bad>Brother Casugin</color>."
+    1 string data = "<color=bad>Bratře Casugine</color>."
    [1]
-    1 string data = "You seldom leave your post. Did something happen?"
+    1 string data = "Své hlídkovací stanoviště jen tak neopouštíš. Stalo se něco?"
    [2]
-    1 string data = "An unidentified group has managed to break through the seal. One of them used Songster Magic."
+    1 string data = "Skupině neznámých lidí se podařilo proniknout dovnitř. Jeden z nich použil magii Pěvců."
    [3]
-    1 string data = "What!? But how? We were told they couldn't leave the dome!"
+    1 string data = "Cože!? Ale jak? Bylo nám řečeno, že tu kopuli opustit nemůžou!"
    [4]
-    1 string data = "I saw it myself. A sort of glass vessel, moving..."
+    1 string data = "Viděl jsem to na vlastní oči. Jakousi pohybující se postavu ze skla..."
    [5]
-    1 string data = "Oh? Hehehe..."
+    1 string data = "Vážně? Hehehe..."
    [6]
-    1 string data = "What is it, <color=bad>Rachater</color>?"
+    1 string data = "Copak je, <color=bad>Rachatere</color>?"
    [7]
-    1 string data = "Things are getting interesting for once."
+    1 string data = "Konečně se pro jednou něco děje."
    [8]
-    1 string data = "And?"
+    1 string data = "A?"
    [9]
-    1 string data = "I'm thinking maybe I should handle them. A little trap, perhaps?"
+    1 string data = "Přemýšlím o tom, že bych se s nimi šel vypořádat. Třeba pomocí malé pasti?"
    [10]
-    1 string data = "Yes... Swift action may be preferable here..."
+    1 string data = "Ano... Tuto záležitost bychom měli vyřídit rychle..."
    [11]
-    1 string data = "Preposterous! The code clearly states that anyone may attempt-"
+    1 string data = "Nepřípustné! V kodexu jasně stojí, že absolutně kdokoliv se může ucházet o-"
    [12]
-    1 string data = "SILENCE!"
+    1 string data = "TICHO!"
    [13]
-    1 string data = "The Triumvirate of Eminence reigns supreme, and I, <color=bad>Abstarak</color>, am its leader."
+    1 string data = "Triumvirát Eminence tady vládne, a já, <color=bad>Abstarak</color>, stojím v jeho čele."
    [14]
-    1 string data = "You will not question me!"
+    1 string data = "A ty mě zpochybňovat nebudeš!"
    [15]
-    1 string data = "I... I apologize, Great Illuminator."
+    1 string data = "Já... se omlouvám, Velký Iluminátore."
    [16]
-    1 string data = "Rachater. Deal with the intruders."
+    1 string data = Rachatere. Jdi zneškodnit ty vetřelce."
    [17]
-    1 string data = "With pleasure. Hehehe..."
+    1 string data = "S radostí. Hehehe..."
    [18]
-    1 string data = "Did you kill them?"
+    1 string data = "Zabil jsi je?"
    [19]
-    1 string data = "Not quite. Hehehe..."
+    1 string data = "Ne tak úplně. Hehehe..."
    [20]
-    1 string data = "What do you mean, "not quite"?"
+    1 string data = "Jak to myslíš, „ne tak úplně“?"
    [21]
-    1 string data = "They managed to escape the gallows."
+    1 string data = "Podařilo se jim utéct ze žaláře."
    [22]
-    1 string data = "How?"
+    1 string data = "Jak?"
    [23]
     1 string data = "..."
    [24]
-    1 string data = "Their team is truly formidable."
+    1 string data = "Jejich tým je vážně silný."
    [25]
     1 string data = "..."
    [26]
-    1 string data = "And there is one more thing, Great Illuminator. Hehehe..."
+    1 string data = "A stala se ještě jedna věc, Velký Iluminátore. Hehehe..."
    [27]
-    1 string data = "Speak."
+    1 string data = "Mluv."
    [28]
-    1 string data = "Our prisoner has been freed."
+    1 string data = "Osvobodili našeho vězně."
    [29]
-    1 string data = "VERLOT!?"
+    1 string data = "VERLOTA!?"
    [30]
-    1 string data = "Oh, my Saint Eminence!"
+    1 string data = "Ó, má Svatá Eminence!"
    [31]
-    1 string data = "The traps all worked, but the assassin on their team has reflexes like I've never seen..."
+    1 string data = "Všechny pasti fungovaly, ale ta jejich asasínka má neskutečně rychlé reflexy..."
    [32]
     1 string data = "..."
    [33]
-    1 string data = "I'm sorry, there was nothing more I could have done."
+    1 string data = "Je mi líto, nic víc jsem s tím udělat nemohl."
    [34]
-    1 string data = "We went through a lot of trouble to capture Verlot, if he-"
+    1 string data = "Uvěznění Verlota nás stálo mnoho sil, pokud by-"
    [35]
-    1 string data = "Verlot won't do anything."
+    1 string data = "Verlot nic neudělá."
    [36]
-    1 string data = "He lives by the code. His attempt at challenging us has failed, and thus he is compelled to exile himself from the Spires."
+    1 string data = "Řídí se kodexem. Jeho pokus o to nás sesadit selhal, a proto je teď nucen odejít do vyhnanství."
    [37]
-    1 string data = "The others are still coming. What then?"
+    1 string data = "Ti ostatní ale stejně míří sem. Co potom?"
    [38]
-    1 string data = "We defend our titles."
+    1 string data = "Budeme bránit své tituly."
    [39]
     1 string data = "Hehehe..."
    [40]
-    1 string data = "New challengers have bested the spires."
+    1 string data = "Noví vyzyvatelé se dostali až sem."
    [41]
-    1 string data = "The Triumvirate of Eminence acknowledges your presence."
+    1 string data = "Triumvirát Eminence bere vaši přítomnost na vědomí."
    [42]
-    1 string data = "So you're in charge here?"
+    1 string data = "Takže vy jste zdejší vládci?"
    [43]
-    1 string data = "You will address the Great Illuminator by title!"
+    1 string data = "Budete oslovovat Velkého Iluminátora jeho titulem!"
    [44]
-    1 string data = "We didn't come to replace you."
+    1 string data = "Ale my vás nejdeme nahradit."
    [45]
-    1 string data = "Then what is it you seek?"
+    1 string data = "Tak co vás sem přivádí?"
    [46]
     1 string data = "Es'tristae."
    [47]
@@ -113,158 +113,158 @@
    [49]
     1 string data = "Hehehe..."
    [50]
-    1 string data = "Only one possible wrong answer, and you just gave it."
+    1 string data = "Jakákoliv jiná odpověď by byla lepší než tahle."
    [51]
-    1 string data = "Preposterous! It is not the place of anyone to stand in the presence of our God."
+    1 string data = "To je vyloučeno! Nikomu se nepřísluší být v přítomnosti našeho Boha."
    [52]
-    1 string data = "For centuries our people have been its gatekeepers. What you ask is impossible."
+    1 string data = "Náš lid jej střeží už po staletí. To, co žádáte, není možno splnit."
    [53]
-    1 string data = "Please, listen. Whoever put you up to this has gravely misled you."
+    1 string data = "Prosím, vyslechněte mě. Ten, kdo vám tohle všechno zajistil, vás šeredně oklamal."
    [54]
-    1 string data = "Es'tristae is no God. We built it to-"
+    1 string data = "Es'tristae není žádný Bůh. Postavili jsme jej, abychom-"
    [55]
-    1 string data = "SILENCE!"
+    1 string data = "TICHO!"
    [56]
-    1 string data = "Trespassers seek to violate our laws and commune with our God."
+    1 string data = "Narušitelé chtějí zneuctít naše zákony a setkat se s naším Bohem."
    [57]
-    1 string data = "The Triumvirate of Eminence reigns supreme, and I, Abstarak, am its leader."
+    1 string data = "Triumvirát Eminence tady vládne, a já, Abstarak, stojím v jeho čele."
    [58]
-    1 string data = "PREPARE FOR ILLUMINATION!!!"
+    1 string data = "PŘIPRAVTE SE NA OSVÍCENÍ!!!"
    [59]
-    1 string data = "Great Illuminator... I have failed you..."
+    1 string data = "Velký Iluminátore... zklamal jsem vás..."
    [60]
-    1 string data = "So this is it... Hehehehe..."
+    1 string data = "Takže takhle to končí... Hehehehe..."
    [61]
-    1 string data = "Great Eagle... So this is how you choose to thank us?"
+    1 string data = "Velký Orle... Tak takhle se nám ty rozhodneš odvděčit?"
    [62]
     1 string data = "??"
    [63]
-    1 string data = "We gave you flight, and you would repay us with our destruction?"
+    1 string data = "Dali jsme ti tvá křídla a ty nám to oplatíš tím, že nás zničíš?"
    [64]
-    1 string data = "What are you talking about?"
+    1 string data = "O čem to mluvíš?"
    [65]
-    1 string data = "For you to end our lives, after we sacrificed what was required..."
+    1 string data = "O tom, že jsi nás přišel zahubit, přestože jsme obětovali, co bylo třeba..."
    [66]
     1 string data = "!!!"
    [67]
-    1 string data = "Is this irony, or does your cruelty surpass that of your partner?"
+    1 string data = "Zdá se mi to, nebo jsi snad ještě krutější než tvůj partner?"
    [68]
     1 string data = "..."
    [69]
     1 string data = "(Aephorul...)"
    [70]
-    1 string data = "It’s perfect! Thank you, Aephorul!"
+    1 string data = "Perfektní! Děkuju, Aephorule!"
    [71]
-    1 string data = "Good. Perhaps now you can stop rambling about wanting natural flight."
+    1 string data = "Super. Možná bys teď mohl přestat žvanit o tom, jak moc chceš umět létat."
    [72]
-    1 string data = "Hmmm yes, I suppose I could move on to rambling about how great it feels instead."
+    1 string data = "Hmmm asi jo, místo toho bych se mohl přesunout ke žvanění o tom, jak skvělý je to pocit."
    [73]
-    1 string data = "Ha. Just my luck."
+    1 string data = "Ha. Jak jinak."
    [74]
-    1 string data = "Happy birthday, Resh’an. I’m glad you like your gift."
+    1 string data = "Všechno nejlepší, Resh’ane. Jsem rád, že se ti tvůj dárek líbí."
    [75]
-    1 string data = "How did you do it? I thought a transmutation spell like this required a hybrid’s soul."
+    1 string data = "Jak jsi to dokázal? Myslel jsem si, že na takové kouzlo proměny je nutné použít duši hybrida."
    [76]
-    1 string data = "I obviously found a way, but you’ll have to let me keep my secrets if you want more suprises in the future."
+    1 string data = "Jak sám vidíš, způsob jsem našel, ale pokud stojíš v budoucnu o další překvapení, musíš mi dovolit nechat si to pro sebe."
    [77]
-    1 string data = "Hahaha. I suppose that’s fair."
+    1 string data = "Hahaha. Fajn, to zní fér."
    [78]
-    1 string data = "Oh, try this!"
+    1 string data = "Na, dej si!"
    [79]
-    1 string data = "Interesting!"
+    1 string data = "Zajímavé!"
    [80]
-    1 string data = "There’s no taste, but it’s impossibly refreshing."
+    1 string data = "Úplně bez chuti, ale neuvěřitelně osvěžující."
    [81]
-    1 string data = "What do you call it?"
+    1 string data = "Jak té věci říkáš?"
    [82]
-    1 string data = "<color=magic>Iceline</color>. The state of equilibrium between ice and water."
+    1 string data = "<color=magic>Iceline</color>. Rovnovážný stav ledu a vody."
    [83]
-    1 string data = "The final ingredient is the warmth of the drinker's mouth, forcing it to contrast by turning into ice for but a fraction of a second."
+    1 string data = "Na jazyku se rovnováha vychýlí a na okamžik vzniká led."
    [84]
-    1 string data = "But it melts as it tries to freeze, letting you experience a seemingly ethereal temperature."
+    1 string data = "Ten ale vzápětí roztaje, letting you experience a seemingly ethereal temperature."
    [85]
-    1 string data = "Oh, I see where this is going..."
+    1 string data = "Aha, už vím, kam tím míříš..."
    [86]
-    1 string data = "You still have that flask design in mind?"
+    1 string data = "Pořád si chceš vytvořit tu svoji lahvičku?"
    [87]
-    1 string data = "Yes."
+    1 string data = "Ano."
    [88]
-    1 string data = "I’m ready for another attempt at capturing the <color=location>Sands of Time</color>."
+    1 string data = "Jsem připraven se znovu pokusit zachytit <color=location>Písek času</color>."
    [89]
-    1 string data = "Third time's the charm. I will accompany you."
+    1 string data = "Do třetice všeho dobrého. Půjdu s tebou."
    [90]
-    1 string data = "I was hoping you would say that."
+    1 string data = "Doufal jsem, že to řekneš."
    [91]
-    1 string data = "And if you ask nicely, I might let you fly on my back."
+    1 string data = "A jestli hezky poprosíš, můžeš se mi dokonce proletět na zádech."
    [92]
-    1 string data = "Haha! Big if."
+    1 string data = "Haha! Ale jdi ty."
    [93]
-    1 string data = "Another lie..."
+    1 string data = "Další lež..."
    [94]
-    1 string data = "So he made a deal with you?"
+    1 string data = "Takže s vámi uzavřel dohodu?"
    [95]
-    1 string data = "The Fleshmancer? Yes, many of us were sacrificed while he was working on your gift."
+    1 string data = "Fleshmancer? Ano, k tvorbě tvého dárku bylo mnoho z nás obětováno."
    [96]
-    1 string data = "What he offered in exchange... the power of mind magic... and purpose in the worshipping of Es'tristae... It was well worth it."
+    1 string data = "Ale to, co nám nabídl na oplátku... sílu magie mysli... a poslání uctívat Es'tristae... za to definitivn stálo."
    [97]
-    1 string data = "(Aephorul... no...)"
+    1 string data = "(Aephorule... no...)"
    [98]
-    1 string data = "This hurts you?"
+    1 string data = "Tohle tě trápí?"
    [99]
     1 string data = "..."
    [100]
-    1 string data = "Then it brings some measure of peace to know that you are cursed with immortality..."
+    1 string data = "V tom případě mi vědomí, že jsi proklet nesmrtelností, přináší určitý klid..."
    [101]
     1 string data = "Suffer well..."
    [102]
-    1 string data = "What was that about?"
+    1 string data = "Co to všechno mělo znamenat?"
    [103]
-    1 string data = "The Great Eagle."
+    1 string data = "Velký Orel."
    [104]
-    1 string data = "It was a birthday gift from Aephorul, a very long time ago."
+    1 string data = "Před dávnou dobou mi jej daroval Aephorul k narozeninám."
    [105]
-    1 string data = "Back when he was still... himself. Or so I believed."
+    1 string data = "To byl stále ještě... sám sebou. Nebo jsem si to alespoň myslel."
    [106]
-    1 string data = "I’m sorry, Resh’an."
+    1 string data = "To je mi líto, Resh’ane."
    [107]
-    1 string data = "Just one more happy memory ruined. In the grand scheme of things, it's of no concern..."
+    1 string data = "Jen další zničená šťastná vzpomínka. Na té v konečném důsledku nezáleží..."
    [108]
-    1 string data = "But this does imply that his wicked deeds began centuries earlier than I'd assumed..."
+    1 string data = "I když to naznačuje, že jeho podlé činy započaly o staletí dříve, než jsem předpokládal..."
    [109]
-    1 string data = "This changes everything."
+    1 string data = "Tohle mění vše."
    [110]
-    1 string data = "I must go."
+    1 string data = "Musím jít."
    [111]
-    1 string data = "What? But why?"
+    1 string data = "Cože? Ale proč?"
    [112]
-    1 string data = "My calculations were way off. It is imperative that I return to the archives and run more models."
+    1 string data = "Naprosto jsem se spletl ve výpočtech. Je nutné, abych se vrátil do archivu a provedl je znovu."
    [113]
-    1 string data = "You can’t just leave like that, we need your help to fix this!"
+    1 string data = "Nemůžete jen tak odejít, vždyť potřebujeme vaši pomoc!"
    [114]
-    1 string data = "This puppet will help until you've seen this journey through."
+    1 string data = "Tahle loutka vám bude pomáhat, dokud svůj cíl nesplníte."
    [115]
-    1 string data = "Thank you for the companionship. It has been... refreshing."
+    1 string data = "Bylo... příjemné cestovat ve vaší společnosti. Děkuji vám."
    [116]
-    1 string data = "Farewell."
+    1 string data = "Sbohem."
    [117]
     1 string data = "..."
    [118]
-    1 string data = "Just like that, he..."
+    1 string data = "On se prostě jen tak sebral a..."
    [119]
-    1 string data = "Anyone in there?"
+    1 string data = "Je tam někdo?"
    [120]
     1 string data = "..."
    [121]
-    1 string data = "He left like we were nothing to him..."
+    1 string data = "Odešel, jako by mu na nás ani nezáleželo..."
    [122]
-    1 string data = "Whatever. Resh’an played his part and made his choice."
+    1 string data = "Co s tím naděláme. Resh’an se tak sám rozhodl a svou roli sehrál."
    [123]
-    1 string data = "You’re right. We should press on."
+    1 string data = "Máš pravdu. Musíme jít dál."
    [124]
-    1 string data = "B’st?"
+    1 string data = "B’ste?"
    [125]
-    1 string data = "We're almost at Es’tristae. The teleporter at the bottom of the stairs should be functional now."
+    1 string data = "Už jsme skoro u Es’tristae. Teleportér dole u schodů by měl nyní fungovat."
    [126]
     1 string data = "The energy from this pillar tugs at the mind..."
    [127]
-    1 string data = "The statue stands as a display of twisted devotion..."
+    1 string data = "Tato socha představuje zvrácenou oddanost..."
