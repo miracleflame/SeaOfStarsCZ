@@ -17,7 +17,7 @@
    [1]
     1 string data = "Své hlídkovací stanoviště jen tak neopouštíš. Stalo se něco?"
    [2]
-    1 string data = "Skupině neznámých osob se podařilo proniknout dovnitř. Jeden z nich použil magii Pěvců."
+    1 string data = "Skupině neznámých osob se podařilo proniknout dovnitř. Jedna z nich použila magii Pěvců."
    [3]
     1 string data = "Cože!? Ale jak? Bylo nám řečeno, že tu kopuli opustit nemůžou!"
    [4]
@@ -197,7 +197,7 @@
    [91]
     1 string data = "A jestli hezky poprosíš, můžeš se mi dokonce proletět na zádech."
    [92]
-    1 string data = "Haha! Jenom jestli..."
+    1 string data = "Haha! Tak hezky, jo?"
    [93]
     1 string data = "Další lež..."
    [94]
@@ -209,7 +209,7 @@
    [97]
     1 string data = "(Aephorule... ne...)"
    [98]
-    1 string data = "Spůsobuje ti to bolest?"
+    1 string data = "Tohle tě trápí?"
    [99]
     1 string data = "..."
    [100]
