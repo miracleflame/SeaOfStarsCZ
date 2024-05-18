@@ -17,7 +17,7 @@
    [1]
     1 string data = "Své hlídkovací stanoviště jen tak neopouštíš. Stalo se něco?"
    [2]
-    1 string data = "Skupině neznámých lidí se podařilo proniknout dovnitř. Jeden z nich použil magii Pěvců."
+    1 string data = "Skupině neznámých osob se podařilo proniknout dovnitř. Jeden z nich použil magii Pěvců."
    [3]
     1 string data = "Cože!? Ale jak? Bylo nám řečeno, že tu kopuli opustit nemůžou!"
    [4]
@@ -97,7 +97,7 @@
    [41]
     1 string data = "Triumvirát Eminence bere vaši přítomnost na vědomí."
    [42]
-    1 string data = "Takže vy jste zdejší vládci?"
+    1 string data = "Takže vy jste zdejší vládce?"
    [43]
     1 string data = "Budete oslovovat Velkého Iluminátora jeho titulem!"
    [44]
@@ -115,11 +115,11 @@
    [50]
     1 string data = "Jakákoliv jiná odpověď by byla lepší než tahle."
    [51]
-    1 string data = "To je vyloučeno! Nikomu se nepřísluší být v přítomnosti našeho Boha."
+    1 string data = "To je vyloučeno! Nikomu nepřísluší být v přítomnosti našeho Boha."
    [52]
     1 string data = "Náš lid jej střeží už po staletí. To, co žádáte, není možno splnit."
    [53]
-    1 string data = "Prosím, vyslechněte mě. Ten, kdo vám tohle všechno zajistil, vás šeredně oklamal."
+    1 string data = "Prosím, vyslechněte mě. Ten, kdo vám tohle namluvil, vás šeredně oklamal."
    [54]
     1 string data = "Es'tristae není žádný Bůh. Postavili jsme jej, abychom-"
    [55]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Triumvirát Eminence tady vládne, a já, Abstarak, stojím v jeho čele."
    [58]
-    1 string data = "PŘIPRAVTE SE NA OSVÍCENÍ!!!"
+    1 string data = "PŘIPRAVTE SE NA ILUMINACI!!!"
    [59]
     1 string data = "Velký Iluminátore... zklamal jsem vás..."
    [60]
@@ -155,7 +155,7 @@
    [70]
     1 string data = "Perfektní! Děkuju, Aephorule!"
    [71]
-    1 string data = "Super. Možná bys teď mohl přestat žvanit o tom, jak moc chceš umět létat."
+    1 string data = "Dobrá. Možná bys teď mohl přestat žvanit o tom, jak moc chceš umět létat."
    [72]
     1 string data = "Hmmm asi jo, místo toho bych se mohl přesunout ke žvanění o tom, jak skvělý je to pocit."
    [73]
@@ -177,11 +177,11 @@
    [81]
     1 string data = "Jak té věci říkáš?"
    [82]
-    1 string data = "<color=magic>Iceline</color>. Rovnovážný stav ledu a vody."
+    1 string data = "<color=magic>Baledanc</color>. Rovnovážný stav ledu a vody."
    [83]
-    1 string data = "Na jazyku se rovnováha vychýlí a na okamžik vzniká led."
+    1 string data = "Finální složkou je kontrastní teplo v ústech, když se voda na zlomek vteřiny promění v led."
    [84]
-    1 string data = "Ten ale vzápětí roztaje, letting you experience a seemingly ethereal temperature."
+    1 string data = "Ten ale vzápětí roztaje a umožní tím pocítit zdanlivě éterickou teplotu."
    [85]
     1 string data = "Aha, už vím, kam tím míříš..."
    [86]
@@ -189,7 +189,7 @@
    [87]
     1 string data = "Ano."
    [88]
-    1 string data = "Jsem připraven se znovu pokusit zachytit <color=location>Písek času</color>."
+    1 string data = "Jsem připraven znovu se pokusit zachytit <color=location>Písek času</color>."
    [89]
     1 string data = "Do třetice všeho dobrého. Půjdu s tebou."
    [90]
@@ -197,7 +197,7 @@
    [91]
     1 string data = "A jestli hezky poprosíš, můžeš se mi dokonce proletět na zádech."
    [92]
-    1 string data = "Haha! Ale jdi ty."
+    1 string data = "Haha! Jenom jestli..."
    [93]
     1 string data = "Další lež..."
    [94]
@@ -205,17 +205,17 @@
    [95]
     1 string data = "Fleshmancer? Ano, k tvorbě tvého dárku bylo mnoho z nás obětováno."
    [96]
-    1 string data = "Ale to, co nám nabídl na oplátku... sílu magie mysli... a poslání uctívat Es'tristae... za to definitivn stálo."
+    1 string data = "Ale to, co nám nabídl na oplátku... sílu magie mysli... a poslání uctívat Es'tristae... za to rozhodně stálo."
    [97]
-    1 string data = "(Aephorule... no...)"
+    1 string data = "(Aephorule... ne...)"
    [98]
-    1 string data = "Tohle tě trápí?"
+    1 string data = "Spůsobuje ti to bolest?"
    [99]
     1 string data = "..."
    [100]
     1 string data = "V tom případě mi vědomí, že jsi proklet nesmrtelností, přináší určitý klid..."
    [101]
-    1 string data = "Suffer well..."
+    1 string data = "Trp nadále..."
    [102]
     1 string data = "Co to všechno mělo znamenat?"
    [103]
@@ -243,7 +243,7 @@
    [114]
     1 string data = "Tahle loutka vám bude pomáhat, dokud svůj cíl nesplníte."
    [115]
-    1 string data = "Bylo... příjemné cestovat ve vaší společnosti. Děkuji vám."
+    1 string data = "Bylo... osvěžující cestovat ve vaší společnosti. Děkuji vám."
    [116]
     1 string data = "Sbohem."
    [117]
@@ -251,7 +251,7 @@
    [118]
     1 string data = "On se prostě jen tak sebral a..."
    [119]
-    1 string data = "Je tam někdo?"
+    1 string data = "Je někdo doma?"
    [120]
     1 string data = "..."
    [121]
@@ -263,8 +263,8 @@
    [124]
     1 string data = "B’ste?"
    [125]
-    1 string data = "Už jsme skoro u Es’tristae. Teleportér dole u schodů by měl nyní fungovat."
+    1 string data = "Už jsme skoro u Es’tristae. Teleport dole u schodů by měl nyní fungovat."
    [126]
-    1 string data = "The energy from this pillar tugs at the mind..."
+    1 string data = "Energie z tohoto pilíře poutá mysl..."
    [127]
     1 string data = "Tato socha představuje zvrácenou oddanost..."
