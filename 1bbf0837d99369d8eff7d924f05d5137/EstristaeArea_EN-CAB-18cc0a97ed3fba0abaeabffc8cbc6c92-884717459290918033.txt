@@ -13,54 +13,54 @@
   1 Array Array (26 items)
    0 int size = 26
    [0]
-    1 string data = "We made it."
+    1 string data = "Jsme tady."
    [1]
-    1 string data = "Uhh... Is this the release mechanism?"
+    1 string data = "Uhh... Má tohle být spouštěcí mechanismus?"
    [2]
     1 string data = "Rachater..."
    [3]
-    1 string data = "B'st, is there another way?"
+    1 string data = "B'ste, nešlo by to nějak jinak?"
    [4]
     1 string data = "..."
    [5]
-    1 string data = "Step aside."
+    1 string data = "Ustupte stranou."
    [6]
-    1 string data = "Way to go, B'st!"
+    1 string data = "Dobrá práce, B'ste!"
    [7]
-    1 string data = "Did it work?"
+    1 string data = "Podařilo se?"
    [8]
-    1 string data = "Yes. The speedball travel network should be online now."
+    1 string data = "Ano. Rychlodráhová síť by měla být opět v provozu."
    [9]
-    1 string data = "From here we can fast travel to any of the other stations, including the one in <color=location>Sky Base</color>."
+    1 string data = "Odsud se rychle dostaneme do jakékoliv jiné stanice, včetně té na <color=location>Vesmírné základně</color>."
    [10]
-    1 string data = "Man, those things are FAST!"
+    1 string data = "Páni, to byl teda fofr!"
    [11]
-    1 string data = "Hey, Teaks."
+    1 string data = "Ahoj Teaks."
    [12]
-    1 string data = "Hey, how’s it going?"
+    1 string data = "Nazdárek, tak jak se vám daří?"
    [13]
-    1 string data = "We’re making progress, but we just lost Resh’an."
+    1 string data = "Docela dobře, ale před chvílí nás opustil Resh’an."
    [14]
-    1 string data = "What? I can see him right there!"
+    1 string data = "Cože? Vždyť stojí přímo támhle!"
    [15]
-    1 string data = "It’s just an empty puppet. The real him is gone."
+    1 string data = "To je jen prázdná loutka. Skutečný Resh’an je pryč."
    [16]
-    1 string data = "Kind of creepy, kind of cool."
+    1 string data = "Celkem děsivé, ale i dost zajímavé."
    [17]
-    1 string data = "Oh, hello there!"
+    1 string data = "Jé, ahoj!"
    [18]
-    1 string data = "That’s Living Glass!"
+    1 string data = "To je Živé sklo!"
    [19]
-    1 string data = "Nice to meet you, I’m Teaks."
+    1 string data = "Ráda tě poznávám, já jsem Teaks."
    [20]
-    1 string data = "Greetings. My name is B’st."
+    1 string data = "Potěšení je na mé straně. Jmenuji se B’st."
    [21]
-    1 string data = "Hey so, I was exploring near Repine and this speedball thing just opened up."
+    1 string data = "No, takže, jen se tak porozhlížím po Repine a najednou se otevře tahle kabina."
    [22]
-    1 string data = "Was it your doing?"
+    1 string data = "To jste udělali vy?"
    [23]
-    1 string data = "B’st brought power back. We can use it to get to Sky Base."
+    1 string data = "B’st nahodil proud. Teď můžeme odjet na Vesmírnou základnu."
    [24]
-    1 string data = "Oh? I’ll tag along then--I GOTTA see that!"
+    1 string data = "Fakt? Tak to se k vám přidám--To MUSÍM vidět!"
    [25]
-    1 string data = "We must go to Sky Base. The speedball should have power now."
+    1 string data = "Musíme jet na Vesmírnou základnu. Rychlodráha by už měla být v provozu."
