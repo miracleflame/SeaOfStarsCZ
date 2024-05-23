@@ -13,9 +13,9 @@
   1 Array Array (26 items)
    0 int size = 26
    [0]
-    1 string data = "Jsme tady."
+    1 string data = "Dokázali jsme to."
    [1]
-    1 string data = "Uhh... Má tohle být spouštěcí mechanismus?"
+    1 string data = "Á...  Tohle má být spouštěcí mechanismus?"
    [2]
     1 string data = "Rachater..."
    [3]
@@ -31,7 +31,7 @@
    [8]
     1 string data = "Ano. Rychlodráhová síť by měla být opět v provozu."
    [9]
-    1 string data = "Odsud se rychle dostaneme do jakékoliv jiné stanice, včetně té na <color=location>Vesmírné základně</color>."
+    1 string data = "Odsud se rychle dostaneme do jakékoliv jiné stanice, včetně té na <color=location>Nebeské základně</color>."
    [10]
     1 string data = "Páni, to byl teda fofr!"
    [11]
@@ -59,8 +59,8 @@
    [22]
     1 string data = "To jste udělali vy?"
    [23]
-    1 string data = "B’st nahodil proud. Teď můžeme odjet na Vesmírnou základnu."
+    1 string data = "B’st nahodil proud. Teď můžeme odjet na Nebeskou základnu."
    [24]
     1 string data = "Fakt? Tak to se k vám přidám--To MUSÍM vidět!"
    [25]
-    1 string data = "Musíme jet na Vesmírnou základnu. Rychlodráha by už měla být v provozu."
+    1 string data = "Musíme jet na Nebeskou základnu. Rychlodráha by už měla být v provozu."
