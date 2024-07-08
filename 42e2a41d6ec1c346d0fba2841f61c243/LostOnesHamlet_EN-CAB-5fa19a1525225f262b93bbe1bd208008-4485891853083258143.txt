@@ -117,7 +117,7 @@
    [51]
     1 string data = "Seraï..."
    [52]
-    1 string data = "Jsem v pohodě. O to víc je důležité se na Vesmírnou základnu dostat."
+    1 string data = "Jsem v pohodě. O důvod víc, proč se na Vesmírnou základnu dostat."
    [53]
     1 string data = "To by bylo možné pouze rychlodráhou."
    [54]
@@ -347,7 +347,7 @@
    [166]
     1 string data = "Já sám bych Živé sklo nechtěl, ale B'stovi jej přeji."
    [167]
-    1 string data = "Ten, kdo na nás ty experimenty prováděl... nebyl v pořádku... " (popřípadě-... na tom nebyl dobře...)?
+    1 string data = "Ten, kdo na nás ty experimenty prováděl... nebyl v pořádku..."
    [168]
     1 string data = "Snad nechcete jít dovnitř?"
    [169]
