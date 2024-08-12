@@ -37,7 +37,7 @@
    [11]
     1 string data = "That thing we did when Garl was hit by the curse--I feel like I can control it now."
    [12]
-    1 string data = "It’s been growing within me too ever since. I think we're ready."
+    1 string data = "It's been growing within me too ever since. I think we're ready."
    [13]
     1 string data = "The moon, then?"
    [14]

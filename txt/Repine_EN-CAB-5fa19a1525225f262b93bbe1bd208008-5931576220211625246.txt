@@ -25,7 +25,7 @@
    [5]
     1 string data = "Odds increase: drastic."
    [6]
-    1 string data = "What’s the status?"
+    1 string data = "What's the status?"
    [7]
     1 string data = "Moon still sunken."
    [8]
@@ -39,13 +39,13 @@
    [12]
     1 string data = "Fleshmancer activity detected a few days ago."
    [13]
-    1 string data = "Fleshmancer left briefly for another world. Returned with new monster lieutenant named <color=bad>Elysan’darëlle</color>."
+    1 string data = "Fleshmancer left briefly for another world. Returned with new monster lieutenant named <color=bad>Elysan'darëlle</color>."
    [14]
     1 string data = "Erlina..."
    [15]
-    1 string data = "Confrontation with Elysan’darëlle not recommended."
+    1 string data = "Confrontation with Elysan'darëlle not recommended."
    [16]
-    1 string data = "We’ll see about that!"
+    1 string data = "We'll see about that!"
    [17]
     1 string data = "Recommended action: use Solstice Warriors to defeat Dweller of Dread."
    [18]
@@ -75,7 +75,7 @@
    [30]
     1 string data = "Presence confirmed of servants to <color=bad>The Queen That Was</color>. Confrontation likely unavoidable."
    [31]
-    1 string data = "Don’t worry, they can fight."
+    1 string data = "Don't worry, they can fight."
    [32]
     1 string data = "Probe calibrated. Will beep faster to show objects of interest."
    [33]
@@ -101,7 +101,7 @@
    [43]
     1 string data = "Your people..."
    [44]
-    1 string data = "We’re taking this thing down!"
+    1 string data = "We're taking this thing down!"
    [45]
     1 string data = "Solstice Warriors demonstrate emotional investment. Might negatively affect performance."
    [46]
@@ -119,13 +119,13 @@
    [52]
     1 string data = "The Cerulean Expanse is east of Repine."
    [53]
-    1 string data = "Here’s hoping whatever we find there will be able to help..."
+    1 string data = "Here's hoping whatever we find there will be able to help..."
    [54]
     1 string data = "Teaks?"
    [55]
     1 string data = "You go ahead, I want to talk with Cedric."
    [56]
-    1 string data = "I’ll catch up later!"
+    1 string data = "I'll catch up later!"
    [57]
     1 string data = "Look..."
    [58]
@@ -165,7 +165,7 @@
    [75]
     1 string data = "There is now enough data to extrapolate encryption pattern."
    [76]
-    1 string data = "Operation succesful. Printing <color=magic>Cypher</color>."
+    1 string data = "Operation successful. Printing <color=magic>Cypher</color>."
    [77]
     1 string data = "Decryption console offline."
    [78]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "I want a way back to my mind."
    [113]
-    1 string data = "The Dwelller is no more?"
+    1 string data = "The Dweller is no more?"
    [114]
     1 string data = "Get it out of my head..."
    [115]
@@ -283,4 +283,4 @@
    [134]
     1 string data = "...S...SW...SE...S..."
    [135]
-    1 string data = "Sealed using powerful encyption. A <color=magic>Cypher</color> might do the trick."
+    1 string data = "Sealed using powerful encryption. A <color=magic>Cypher</color> might do the trick."

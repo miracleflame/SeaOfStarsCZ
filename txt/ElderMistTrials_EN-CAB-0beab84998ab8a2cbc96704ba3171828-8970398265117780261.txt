@@ -35,9 +35,9 @@
    [10]
     1 string data = "That attack did nothing!"
    [11]
-    1 string data = "A spell would probably do it, but we can’t use them here..."
+    1 string data = "A spell would probably do it, but we can't use them here..."
    [12]
-    1 string data = "Guess that’s the part where “using magic without using magic” comes in."
+    1 string data = "Guess that's the part where “using magic without using magic” comes in."
    [13]
     1 string data = "But how?"
    [14]
@@ -45,7 +45,7 @@
    [15]
     1 string data = "Hey, some <color=magic>little orbs</color> appeared when I attacked."
    [16]
-    1 string data = "Maybe that’s “Live Mana”?"
+    1 string data = "Maybe that's “Live Mana”?"
    [17]
     1 string data = "Could be, I feel a kind of pull towards them."
    [18]
@@ -89,7 +89,7 @@
    [37]
     1 string data = "[MAINCHAR] and [OFFCHAR], I name you <color=good>Solstice Warriors</color>!"
    [38]
-    1 string data = "I knew it! You’re the BEST!"
+    1 string data = "I knew it! You're the BEST!"
    [39]
     1 string data = "Ha! There it is!"
    [40]

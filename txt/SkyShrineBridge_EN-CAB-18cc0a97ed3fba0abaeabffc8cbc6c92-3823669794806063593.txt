@@ -19,7 +19,7 @@
    [2]
     1 string data = "This is how we reach the ones who can grant access to the Sea of Stars."
    [3]
-    1 string data = "It’s way out of reach..."
+    1 string data = "It's way out of reach..."
    [4]
     1 string data = "Did your vision contain anything about how to get to it?"
    [5]

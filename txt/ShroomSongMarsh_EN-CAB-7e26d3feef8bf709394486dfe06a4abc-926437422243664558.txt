@@ -23,19 +23,19 @@
    [4]
     1 string data = "Please, there's no need for that tone."
    [5]
-    1 string data = "Romaya’s evil ways are precisely that. Romaya’s."
+    1 string data = "Romaya's evil ways are precisely that. Romaya's."
    [6]
     1 string data = "I am but a neutral observer in the affairs of this world."
    [7]
     1 string data = "You're a seer, aren't you? Does that mean we're getting a prophecy again?"
    [8]
-    1 string data = "Why, if it ain’t the Warrior Cook!"
+    1 string data = "Why, if it ain't the Warrior Cook!"
    [9]
     1 string data = "I have been expecting you."
    [10]
     1 string data = "Please, eat a fruit from my tree."
    [11]
-    1 string data = "Really? Don’t mind if I do!"
+    1 string data = "Really? Don't mind if I do!"
    [12]
     1 string data = "Just one now."
    [13]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "Pears."
    [15]
-    1 string data = "Well, I would never use pears for cooking, they’re perfect just the way they are!"
+    1 string data = "Well, I would never use pears for cooking, they're perfect just the way they are!"
    [16]
     1 string data = "I knew you were the chosen one."
    [17]
@@ -55,7 +55,7 @@
    [20]
     1 string data = "So..."
    [21]
-    1 string data = "That’s it?"
+    1 string data = "That's it?"
    [22]
     1 string data = "Yes. The threads of fate seldom speak to me about the near future."
    [23]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "..."
    [35]
-    1 string data = "Ah, there it is! <color=magic>Ethereal Occurences Vol. 2</color>."
+    1 string data = "Ah, there it is! <color=magic>Ethereal Occurrences Vol. 2</color>."
    [36]
     1 string data = "Let's see here..."
    [37]
@@ -105,7 +105,7 @@
    [45]
     1 string data = "Among them will be one asking to fight alongside Solstice Warriors."
    [46]
-    1 string data = "Be welcoming, for this entity’s unbreakable will is the key to achieving the one great feat of alchemy that eludes you still."
+    1 string data = "Be welcoming, for this entity's unbreakable will is the key to achieving the one great feat of alchemy that eludes you still."
    [47]
     1 string data = "!!!"
    [48]

@@ -13,19 +13,19 @@
   1 Array Array (179 items)
    0 int size = 179
    [0]
-    1 string data = "Look, someone’s over there!"
+    1 string data = "Look, someone's over there!"
    [1]
     1 string data = "We should ask for directions."
    [2]
     1 string data = "She looks busy..."
    [3]
-    1 string data = "Bah! I’m sure it’s fine!"
+    1 string data = "Bah! I'm sure it's fine!"
    [4]
     1 string data = "Hello! Is there something special about that big rock?"
    [5]
     1 string data = "Yes, come look at this!"
    [6]
-    1 string data = "It’s..."
+    1 string data = "It's..."
    [7]
     1 string data = "(...)"
    [8]
@@ -43,9 +43,9 @@
    [14]
     1 string data = "<color=good>Traveling Historians</color>, of course!"
    [15]
-    1 string data = "Or at least what’s left of them..."
+    1 string data = "Or at least what's left of them..."
    [16]
-    1 string data = "No way! You’re a Traveling Historian?"
+    1 string data = "No way! You're a Traveling Historian?"
    [17]
     1 string data = "Nice to meet you! My name is Garl!"
    [18]
@@ -55,7 +55,7 @@
    [20]
     1 string data = "Hahaha!"
    [21]
-    1 string data = "Nah, [MAINCHAR] and [OFFCHAR] are fun. They’ve just been sealed away to study in the sky for too many years."
+    1 string data = "Nah, [MAINCHAR] and [OFFCHAR] are fun. They've just been sealed away to study in the sky for too many years."
    [22]
     1 string data = "???"
    [23]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "!!!"
    [26]
-    1 string data = "You’re Solstice Warriors!"
+    1 string data = "You're Solstice Warriors!"
    [27]
     1 string data = "I..."
    [28]
@@ -81,59 +81,59 @@
    [33]
     1 string data = "AND ENCOUNTER COUNTLESS FORGOTTEN ARTIFACTS"
    [34]
-    1 string data = "A TRAVELING HISTORIAN’S BEST FRIENDS!"
+    1 string data = "A TRAVELING HISTORIAN'S BEST FRIENDS!"
    [35]
     1 string data = "..."
    [36]
     1 string data = "I mean..."
    [37]
-    1 string data = "Well, someone’s excited."
+    1 string data = "Well, someone's excited."
    [38]
     1 string data = "Haha! And we thought Garl was something!"
    [39]
-    1 string data = "Hey guys, Teaks has an offer for us and I think it’s worth hearing her out."
+    1 string data = "Hey guys, Teaks has an offer for us and I think it's worth hearing her out."
    [40]
-    1 string data = "Sure, what’s up?"
+    1 string data = "Sure, what's up?"
    [41]
     1 string data = "..."
    [42]
-    1 string data = "I’m not sure how to explain it properly. It's about my book..."
+    1 string data = "I'm not sure how to explain it properly. It's about my book..."
    [43]
     1 string data = "??"
    [44]
-    1 string data = "Why don’t you eat with us tonight, Teaks? This place is perfect to set up camp."
+    1 string data = "Why don't you eat with us tonight, Teaks? This place is perfect to set up camp."
    [45]
     1 string data = "Oh, well..."
    [46]
-    1 string data = "Don’t be shy, we’re happy to have you!"
+    1 string data = "Don't be shy, we're happy to have you!"
    [47]
-    1 string data = "Yeah, plus you have to try Garl’s cooking."
+    1 string data = "Yeah, plus you have to try Garl's cooking."
    [48]
     1 string data = "I..."
    [49]
     1 string data = "Okay, thanks!"
    [50]
-    1 string data = "That’s it! One stew coming right up!"
+    1 string data = "That's it! One stew coming right up!"
    [51]
     1 string data = "Thanks again for the food Garl, you really are a pretty good cook."
    [52]
-    1 string data = "Glad you liked it, you’re welcome to join us again anytime!"
+    1 string data = "Glad you liked it, you're welcome to join us again anytime!"
    [53]
-    1 string data = "So, you’re the very last Traveling Historian?"
+    1 string data = "So, you're the very last Traveling Historian?"
    [54]
-    1 string data = "At this point I might as well be the first. It’s been so long since all the <color=magic>Lore Grimoires</color> were burned."
+    1 string data = "At this point I might as well be the first. It's been so long since all the <color=magic>Lore Grimoires</color> were burned."
    [55]
     1 string data = "The what now?"
    [56]
     1 string data = "Lore Grimoires. Every Traveling Historian has one. Or had one, I suppose..."
    [57]
-    1 string data = "They’re enchanted books that write themselves by touching artifacts with stories to tell."
+    1 string data = "They're enchanted books that write themselves by touching artifacts with stories to tell."
    [58]
     1 string data = "Whoa!"
    [59]
-    1 string data = "A Traveling Historian’s duty is to make their Lore Grimoire as full as possible before passing it on to a new recruit."
+    1 string data = "A Traveling Historian's duty is to make their Lore Grimoire as full as possible before passing it on to a new recruit."
    [60]
-    1 string data = "There used to be a guild and a whole bunch of us, but now there’s just this believer here..."
+    1 string data = "There used to be a guild and a whole bunch of us, but now there's just this believer here..."
    [61]
     1 string data = "Which... leads to what I've been meaning to ask..."
    [62]
@@ -141,31 +141,31 @@
    [63]
     1 string data = "Well you see, the best thing a Traveling Historian can ask for is adventurers who keep an eye out for them."
    [64]
-    1 string data = "I don’t have a way to pay you, but..."
+    1 string data = "I don't have a way to pay you, but..."
    [65]
-    1 string data = "If you wouldn’t mind grabbing any artifacts you stumble upon during your adventures, I’d be happy to share stories with you!"
+    1 string data = "If you wouldn't mind grabbing any artifacts you stumble upon during your adventures, I'd be happy to share stories with you!"
    [66]
     1 string data = "Sounds fun, but how will we find you if you're always traveling?"
    [67]
-    1 string data = "Don't worry about it, I’ll just drop by your campfire whenever you're out in the open."
+    1 string data = "Don't worry about it, I'll just drop by your campfire whenever you're out in the open."
    [68]
-    1 string data = "It’s the perfect setting for telling stories!"
+    1 string data = "It's the perfect setting for telling stories!"
    [69]
     1 string data = "Story time by the campfire? Sign me up!"
    [70]
-    1 string data = "Great! Just bring me any artifacts you find, and we’ll see how my Lore Grimoire reacts!"
+    1 string data = "Great! Just bring me any artifacts you find, and we'll see how my Lore Grimoire reacts!"
    [71]
     1 string data = "How many stories do you have so far?"
    [72]
-    1 string data = "Just the one. It was empty when I found it, but that’s okay by me...I plan on discovering enough to fill an entire volume!"
+    1 string data = "Just the one. It was empty when I found it, but that's okay by me...I plan on discovering enough to fill an entire volume!"
    [73]
     1 string data = "That's the spirit!"
    [74]
     1 string data = "This first story wrote itself when I stumbled upon a very old pirate earring."
    [75]
-    1 string data = "That’s when I knew I was holding a real Lore Grimoire. They were thought extinct!"
+    1 string data = "That's when I knew I was holding a real Lore Grimoire. They were thought extinct!"
    [76]
-    1 string data = "What’s the story about?"
+    1 string data = "What's the story about?"
    [77]
     1 string data = "A ghost pirate ship called <color=bad>The Vespertine</color>."
    [78]
@@ -243,7 +243,7 @@
    [114]
     1 string data = "The surface feels fragile. It would probably break if we jumped from high enough."
    [115]
-    1 string data = "The crystal formation emmits a faint sound."
+    1 string data = "The crystal formation emits a faint sound."
    [116]
     1 string data = "Time has made the runes indecipherable."
    [117]
@@ -287,7 +287,7 @@
    [136]
     1 string data = "Be safe out there. I'll be here when you return."
    [137]
-    1 string data = "They’re beautiful. What do you call them?"
+    1 string data = "They're beautiful. What do you call them?"
    [138]
     1 string data = "<color=magic>Time Shards</color>."
    [139]

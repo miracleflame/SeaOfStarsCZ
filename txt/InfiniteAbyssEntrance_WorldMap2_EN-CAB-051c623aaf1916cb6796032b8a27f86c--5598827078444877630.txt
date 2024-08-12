@@ -19,4 +19,4 @@
    [2]
     1 string data = "You can also explore previously inaccessible areas."
    [3]
-    1 string data = "When you feel ready, The Fleshmancer’s castle awaits for the final confrontation."
+    1 string data = "When you feel ready, The Fleshmancer's castle awaits for the final confrontation."

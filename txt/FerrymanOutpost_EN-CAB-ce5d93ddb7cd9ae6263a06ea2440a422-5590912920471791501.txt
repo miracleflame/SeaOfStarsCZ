@@ -55,7 +55,7 @@
    [20]
     1 string data = "Unacceptable are these terms, for the destination a colored flame confirms."
    [21]
-    1 string data = "We don’t have time for this!"
+    1 string data = "We don't have time for this!"
    [22]
     1 string data = "..."
    [23]

@@ -17,13 +17,13 @@
    [1]
     1 string data = "I... I am. And you are?"
    [2]
-    1 string data = "Solstice Warriors. We’re here to confront Malkomud."
+    1 string data = "Solstice Warriors. We're here to confront Malkomud."
    [3]
     1 string data = "My, how wonderful!"
    [4]
     1 string data = "What can you tell us about the situation?"
    [5]
-    1 string data = "Not much I’m afraid."
+    1 string data = "Not much I'm afraid."
    [6]
     1 string data = "I was simply trying to get away from the noise of all this panic, when everyone started cheering as if I was going in to fix the problem."
    [7]
@@ -33,7 +33,7 @@
    [9]
     1 string data = "..."
    [10]
-    1 string data = "Don’t sweat it elder, we got you!"
+    1 string data = "Don't sweat it elder, we got you!"
    [11]
     1 string data = "I certainly hope so."
    [12]
@@ -43,11 +43,11 @@
    [14]
     1 string data = "..."
    [15]
-    1 string data = "Something’s coming!"
+    1 string data = "Something's coming!"
    [16]
-    1 string data = "I doubt it’s the last we’ll see of that one..."
+    1 string data = "I doubt it's the last we'll see of that one..."
    [17]
-    1 string data = "Let’s be on our guard."
+    1 string data = "Let's be on our guard."
    [18]
     1 string data = "You broke into my fort!"
    [19]
@@ -57,13 +57,13 @@
    [21]
     1 string data = "..."
    [22]
-    1 string data = "It’s not fair. <color=good>Rockie</color> can’t know that you’re just playing if I’m not there with her!"
+    1 string data = "It's not fair. <color=good>Rockie</color> can't know that you're just playing if I'm not there with her!"
    [23]
     1 string data = "What is going on?"
    [24]
-    1 string data = "Playing? You’re terrorizing the town!"
+    1 string data = "Playing? You're terrorizing the town!"
    [25]
-    1 string data = "It’s just to play, but no one else is strong enough..."
+    1 string data = "It's just to play, but no one else is strong enough..."
    [26]
     1 string data = "NO ONE EVER UNDERSTANDS!"
    [27]
@@ -85,13 +85,13 @@
    [35]
     1 string data = "Is this why you left your village?"
    [36]
-    1 string data = "Listen Malkomud, you just happened to be born with special powers, and it’s a shame no one was able to guide you through that."
+    1 string data = "Listen Malkomud, you just happened to be born with special powers, and it's a shame no one was able to guide you through that."
    [37]
     1 string data = "..."
    [38]
     1 string data = "Guide me?"
    [39]
-    1 string data = "Everyone just makes fun because I’m not the same. They say “Malkomud can’t dig!”"
+    1 string data = "Everyone just makes fun because I'm not the same. They say “Malkomud can't dig!”"
    [40]
     1 string data = "Well, have you given it a try?"
    [41]
@@ -103,45 +103,45 @@
    [44]
     1 string data = "And when I try they say “Malkomud is not good!” so I give up and then they say “Malkomud is lazy!”"
    [45]
-    1 string data = "I really try but I don’t understand..."
+    1 string data = "I really try but I don't understand..."
    [46]
     1 string data = "So I make a fort and show them!"
    [47]
     1 string data = "Aww..."
    [48]
-    1 string data = "It’s okay Malkomud, you don’t have to do like everyone else."
+    1 string data = "It's okay Malkomud, you don't have to do like everyone else."
    [49]
     1 string data = "Garl is right!"
    [50]
-    1 string data = "Normal doesn’t have to be your thing, you do you!"
+    1 string data = "Normal doesn't have to be your thing, you do you!"
    [51]
     1 string data = "??"
    [52]
-    1 string data = "You’re pretty good with earth magic, aren’t you?"
+    1 string data = "You're pretty good with earth magic, aren't you?"
    [53]
     1 string data = "Yes I love doing magic with earth and rocks!"
    [54]
     1 string data = "But everyone says I must not do it..."
    [55]
-    1 string data = "They just don’t understand yet! I’m sure you could really help them if you wanted!"
+    1 string data = "They just don't understand yet! I'm sure you could really help them if you wanted!"
    [56]
     1 string data = "..."
    [57]
-    1 string data = "Don’t you want to try and do good instead?"
+    1 string data = "Don't you want to try and do good instead?"
    [58]
     1 string data = "They will only make fun because I am bad with digging."
    [59]
     1 string data = "Nah, they just need to see what you can really do!"
    [60]
-    1 string data = "I don’t want to show."
+    1 string data = "I don't want to show."
    [61]
-    1 string data = "It’s okay buddy, take the time you need!"
+    1 string data = "It's okay buddy, take the time you need!"
    [62]
     1 string data = "..."
    [63]
     1 string data = "I can stay in the fort?"
    [64]
-    1 string data = "Well it’s yours, isn’t it?"
+    1 string data = "Well it's yours, isn't it?"
    [65]
     1 string data = "Right guys?"
    [66]
@@ -179,7 +179,7 @@
    [82]
     1 string data = "Wraith Island..."
    [83]
-    1 string data = "Let’s check on the villagers, surely we can use the lift now!"
+    1 string data = "Let's check on the villagers, surely we can use the lift now!"
    [84]
     1 string data = "Oh, you brought power back! I suppose I will be going then."
    [85]
@@ -207,13 +207,13 @@
    [96]
     1 string data = "Thank you again I like you."
    [97]
-    1 string data = "Garl was the first peson to be nice to me. I'm happy I helped but also sad he is gone."
+    1 string data = "Garl was the first person to be nice to me. I'm happy I helped but also sad he is gone."
    [98]
     1 string data = "It is good that Garl is back. He deserved to be back."
    [99]
     1 string data = "And what are the shafts for?"
    [100]
-    1 string data = "Oh, there’s going to be a whole lot of wheat!"
+    1 string data = "Oh, there's going to be a whole lot of wheat!"
    [101]
     1 string data = "But you see, if we just drop it all in there, it should get ground up on its way down and leave us with flour at the bottom."
    [102]
@@ -221,11 +221,11 @@
    [103]
     1 string data = "Yup, we're feeding a firebreather here!"
    [104]
-    1 string data = "It is a big challenge. I don’t know if I can do this."
+    1 string data = "It is a big challenge. I don't know if I can do this."
    [105]
     1 string data = "But I will try for you."
    [106]
-    1 string data = "Thanks, Malkomud, that’s all I ask!"
+    1 string data = "Thanks, Malkomud, that's all I ask!"
    [107]
     1 string data = "So we go now?"
    [108]

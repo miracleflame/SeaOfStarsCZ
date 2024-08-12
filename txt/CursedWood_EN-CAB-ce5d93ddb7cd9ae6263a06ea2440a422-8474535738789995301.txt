@@ -17,7 +17,7 @@
    [1]
     1 string data = "HEY, WAIT!!"
    [2]
-    1 string data = "Gah! Where’s that strength coming from!?"
+    1 string data = "Gah! Where's that strength coming from!?"
    [3]
     1 string data = "Huff... huff..."
    [4]
@@ -27,31 +27,31 @@
    [6]
     1 string data = "But..."
    [7]
-    1 string data = "The Dweller’s grasp is too strong..."
+    1 string data = "The Dweller's grasp is too strong..."
    [8]
     1 string data = "The Captain was right..."
    [9]
-    1 string data = "Can’t we go in? Maybe it’s not too late!"
+    1 string data = "Can't we go in? Maybe it's not too late!"
    [10]
-    1 string data = "No way we’d break that barrier! Even the Headmaster will need the eclipse to get us through."
+    1 string data = "No way we'd break that barrier! Even the Headmaster will need the eclipse to get us through."
    [11]
     1 string data = "So we just... give up?"
    [12]
     1 string data = "..."
    [13]
-    1 string data = "If we die in vain we can’t help anyone."
+    1 string data = "If we die in vain we can't help anyone."
    [14]
     1 string data = "..."
    [15]
-    1 string data = "You’re right."
+    1 string data = "You're right."
    [16]
-    1 string data = "And maybe it won’t be too late by the time you do the cleansing?"
+    1 string data = "And maybe it won't be too late by the time you do the cleansing?"
    [17]
     1 string data = "(...)"
    [18]
     1 string data = "(...)"
    [19]
-    1 string data = "Let’s head back for now, I’ve sure had enough of these woods."
+    1 string data = "Let's head back for now, I've sure had enough of these woods."
    [20]
     1 string data = "Another one already?"
    [21]
@@ -63,7 +63,7 @@
    [24]
     1 string data = "VALERE, HANG ON!!"
    [25]
-    1 string data = "THAT’S NOT FAIR! YOU CAN’T TAKE HIM!!"
+    1 string data = "THAT'S NOT FAIR! YOU CAN'T TAKE HIM!!"
    [26]
     1 string data = "HEY!!!"
    [27]
@@ -79,13 +79,13 @@
    [32]
     1 string data = "..."
    [33]
-    1 string data = "It’s a longshot, but if we hurry we might be able to fetch a <color=magic>soul stone</color>."
+    1 string data = "It's a longshot, but if we hurry we might be able to fetch a <color=magic>soul stone</color>."
    [34]
     1 string data = "A soul stone?"
    [35]
     1 string data = "Enchanted gems that dispel powerful curses."
    [36]
-    1 string data = "<color=bad>Someone</color> on this island uses them to remain free of the Dweller’s grasp."
+    1 string data = "<color=bad>Someone</color> on this island uses them to remain free of the Dweller's grasp."
    [37]
     1 string data = "If we get one, it should consume the mind control spell on your friend."
    [38]
@@ -111,15 +111,15 @@
    [48]
     1 string data = "A mysterious assassin joins the party!"
    [49]
-    1 string data = "If it’s always dark here, how will we know when the eclipse happens?"
+    1 string data = "If it's always dark here, how will we know when the eclipse happens?"
    [50]
-    1 string data = "You’ll know..."
+    1 string data = "You'll know..."
    [51]
     1 string data = "..."
    [52]
     1 string data = "The curse of the Night Shroud is strong, but it won't withstand the eclipse."
    [53]
-    1 string data = "Can’t wait to see that!"
+    1 string data = "Can't wait to see that!"
    [54]
     1 string data = "Any moment now..."
    [55]

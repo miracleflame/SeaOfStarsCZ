@@ -153,7 +153,7 @@
    [69]
     1 string data = "Tock"
    [70]
-    1 string data = "Cukoo Monster"
+    1 string data = "Cuckoo Monster"
    [71]
     1 string data = "Fungtoise"
    [72]
@@ -163,13 +163,13 @@
    [74]
     1 string data = "Firecracker"
    [75]
-    1 string data = "SlingRabbit"
+    1 string data = "Sling Rabbit"
    [76]
     1 string data = "Toadcano"
    [77]
     1 string data = "Drone"
    [78]
-    1 string data = "BigBuggy"
+    1 string data = "Big Buggy"
    [79]
     1 string data = "Hydralion"
    [80]

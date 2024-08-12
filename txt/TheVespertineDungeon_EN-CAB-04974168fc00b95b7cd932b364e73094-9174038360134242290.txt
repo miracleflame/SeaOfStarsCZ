@@ -47,13 +47,13 @@
    [16]
     1 string data = "Alright, <color=bad>Stormcaller</color> has sensed yer presence. I s'pose this makes ya real."
    [17]
-    1 string data = "So you’re the one known as “The Navigator?”"
+    1 string data = "So you're the one known as “The Navigator?”"
    [18]
     1 string data = "<color=good>Hortence</color> be the name. Use it."
    [19]
-    1 string data = "Can’t imagine how y'all ended up here, but it’s a relief someone can finally fight those things."
+    1 string data = "Can't imagine how y'all ended up here, but it's a relief someone can finally fight those things."
    [20]
-    1 string data = "You mean the ghost pirates? Aren’t they..."
+    1 string data = "You mean the ghost pirates? Aren't they..."
    [21]
     1 string data = "My former crewmates? Aye, going along with mutiny'll do ya in like lil' else."
    [22]
@@ -61,7 +61,7 @@
    [23]
     1 string data = "So, your former captain, this Stormcaller-- how can we stop him?"
    [24]
-    1 string data = "If the last couple centuries have taught me anything, it’s that we can't. See, the curse only has two possible outcomes."
+    1 string data = "If the last couple centuries have taught me anything, it's that we can't. See, the curse only has two possible outcomes."
    [25]
     1 string data = "Either Stormcaller gives up, or I let The Vespertine sink, and by the looks of it neither is happening anytime soon."
    [26]
@@ -77,13 +77,13 @@
    [31]
     1 string data = "..."
    [32]
-    1 string data = "Look, if y'all are foolish enough to wag yer swords at him I won’t stop ya, but first his wind barrier needs weakening."
+    1 string data = "Look, if y'all are foolish enough to wag yer swords at him I won't stop ya, but first his wind barrier needs weakening."
    [33]
     1 string data = "Where do we begin?"
    [34]
     1 string data = "There're three lightning rods sending power back to the maelstrom where he channels this never-ending storm."
    [35]
-    1 string data = "Y'all want to confront him, that’s the first step."
+    1 string data = "Y'all want to confront him, that's the first step."
    [36]
     1 string data = "Where are the rods?"
    [37]
@@ -93,11 +93,11 @@
    [39]
     1 string data = "My map should be below decks, in the kitchen past the crew quarters."
    [40]
-    1 string data = "If y'all can fetch it and return alive, I’ll entertain this plan o' yers."
+    1 string data = "If y'all can fetch it and return alive, I'll entertain this plan o' yers."
    [41]
     1 string data = "One map, coming up!"
    [42]
-    1 string data = "That's the map. Let’s return to Hortence."
+    1 string data = "That's the map. Let's return to Hortence."
    [43]
     1 string data = "Hey, y'all're starting to give me hope!"
    [44]
@@ -123,7 +123,7 @@
    [54]
     1 string data = "Free at last..."
    [55]
-    1 string data = "It’s finally over, Hortence!"
+    1 string data = "It's finally over, Hortence!"
    [56]
     1 string data = "Hahaha! Now THAT feels good!"
    [57]

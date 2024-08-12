@@ -41,7 +41,7 @@
    [13]
     1 string data = "Defeat Stormcaller"
    [14]
-    1 string data = "Home"
+    1 string data = "Home sweet home"
    [15]
     1 string data = "Build your own town"
    [16]
@@ -183,7 +183,7 @@
    [84]
     1 string data = "True Solstice Warrior"
    [85]
-    1 string data = "Succesfully achieve all of the Feats"
+    1 string data = "Successfully achieve all of the Feats"
    [86]
     1 string data = "Trophies for Sea of Stars"
    [87]

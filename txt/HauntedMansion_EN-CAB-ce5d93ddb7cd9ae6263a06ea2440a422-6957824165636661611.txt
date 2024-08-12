@@ -25,7 +25,7 @@
    [5]
     1 string data = "<color=bad>The Botanical Horror</color> will pose a challenge, but you have what it takes."
    [6]
-    1 string data = "We won’t fail."
+    1 string data = "We won't fail."
    [7]
     1 string data = "Remember what you learned. Lunar magic against the soul-based ones, and solar magic for those more concrete."
    [8]
@@ -37,17 +37,17 @@
    [11]
     1 string data = "There you are!"
    [12]
-    1 string data = "I can’t fight the Dweller with you, but I’ll do what I can otherwise."
+    1 string data = "I can't fight the Dweller with you, but I'll do what I can otherwise."
    [13]
     1 string data = "Hey, you must be Seraï!"
    [14]
-    1 string data = "I’m Garl! Thanks for the help earlier!"
+    1 string data = "I'm Garl! Thanks for the help earlier!"
    [15]
-    1 string data = "We’re glad to have you back!"
+    1 string data = "We're glad to have you back!"
    [16]
     1 string data = "..."
    [17]
-    1 string data = "Don’t mention it."
+    1 string data = "Don't mention it."
    [18]
     1 string data = "Seraï the assassin joins the party!"
    [19]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "My dear Garl, your courage has been humbling, but you absolutely have to sit this one out."
    [26]
-    1 string data = "No worries, Headmaster. I’ll just watch!"
+    1 string data = "No worries, Headmaster. I'll just watch!"
    [27]
     1 string data = "In position!"
    [28]
@@ -127,7 +127,7 @@
    [56]
     1 string data = "Quick! Obliterate the core!"
    [57]
-    1 string data = "I won’t let you!"
+    1 string data = "I won't let you!"
    [58]
     1 string data = "Seraï!?"
    [59]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Erlina, explain yourself at once!"
    [63]
-    1 string data = "Use the <color=bad>crystal</color> now, Brugaves. I’d rather make this quick."
+    1 string data = "Use the <color=bad>crystal</color> now, Brugaves. I'd rather make this quick."
    [64]
     1 string data = "!!!"
    [65]
@@ -205,31 +205,31 @@
    [95]
     1 string data = "But why? We just defeated the last Dweller!"
    [96]
-    1 string data = "You can’t truly know that."
+    1 string data = "You can't truly know that."
    [97]
-    1 string data = "And don’t you see that absolutely none of this endless conflict is your fault?"
+    1 string data = "And don't you see that absolutely none of this endless conflict is your fault?"
    [98]
-    1 string data = "That doesn’t mean it’s not our responsibility!"
+    1 string data = "That doesn't mean it's not our responsibility!"
    [99]
     1 string data = "Or yours, by the way!"
    [100]
-    1 string data = "It’s not too late, Brugaves! Destroy the core!"
+    1 string data = "It's not too late, Brugaves! Destroy the core!"
    [101]
     1 string data = "I'm sorry Valere. We made our decision."
    [102]
     1 string data = "Why give up now? Some of us could still ascend!"
    [103]
-    1 string data = "Into “Guardian Gods”? Don’t make me laugh!"
+    1 string data = "Into “Guardian Gods”? Don't make me laugh!"
    [104]
     1 string data = "How many centuries were spent suffering in wait for this fake promise?"
    [105]
-    1 string data = "Don’t you think it would have happened by now?"
+    1 string data = "Don't you think it would have happened by now?"
    [106]
     1 string data = "..."
    [107]
     1 string data = "Enough talk! We must complete the ritual before the eclipse subsides."
    [108]
-    1 string data = "NO! YOU CAN’T!"
+    1 string data = "NO! YOU CAN'T!"
    [109]
     1 string data = "Oh, I believe we can."
    [110]
@@ -247,11 +247,11 @@
    [116]
     1 string data = "Headmaster!"
    [117]
-    1 string data = "Hey at least we’re safe for now..."
+    1 string data = "Hey at least we're safe for now..."
    [118]
-    1 string data = "I’m sure the three of you can take on whatever that Dweller of Strife is."
+    1 string data = "I'm sure the three of you can take on whatever that Dweller of Strife is."
    [119]
-    1 string data = "You don’t understand!"
+    1 string data = "You don't understand!"
    [120]
     1 string data = "The Dweller of Strife took everything from us..."
    [121]
@@ -453,7 +453,7 @@
    [219]
     1 string data = "The note says: ''Little juice boxes are for lunch only!''"
    [220]
-    1 string data = "A set of guildelines for those who used to work as servants in the mansion."
+    1 string data = "A set of guidelines for those who used to work as servants in the mansion."
    [221]
     1 string data = "The note says: ''To open the secret passage to the kitchen, just look at the pot in the garden.''"
    [222]

@@ -27,21 +27,21 @@
    [6]
     1 string data = "Haha!"
    [7]
-    1 string data = "Hello, ma’am!"
+    1 string data = "Hello, ma'am!"
    [8]
     1 string data = "Wow! You all look so healthy!"
    [9]
     1 string data = "Is that a sword?"
    [10]
-    1 string data = "Hey, you’re like this other guy!"
+    1 string data = "Hey, you're like this other guy!"
    [11]
     1 string data = "He could shoot tiny little suns!"
    [12]
-    1 string data = "He said he’d save our mom and then he left instead."
+    1 string data = "He said he'd save our mom and then he left instead."
    [13]
     1 string data = "So rude!"
    [14]
-    1 string data = "DON’T BE RUDE, SUNBOY!"
+    1 string data = "DON'T BE RUDE, SUNBOY!"
    [15]
     1 string data = "What is going on here?"
    [16]
@@ -49,15 +49,15 @@
    [17]
     1 string data = "What happened to your mom?"
    [18]
-    1 string data = "She’s down below!"
+    1 string data = "She's down below!"
    [19]
     1 string data = "We love her so much!"
    [20]
-    1 string data = "She says we can’t go and see her because of the monster!"
+    1 string data = "She says we can't go and see her because of the monster!"
    [21]
     1 string data = "So we just stare at her from up here!"
    [22]
-    1 string data = "She’s so pretty!"
+    1 string data = "She's so pretty!"
    [23]
     1 string data = "We used to run around the island."
    [24]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "DO CLOUDS STILL EXIST?"
    [26]
-    1 string data = "Hey, it sounds like they’re talking about the <color=good>Gorilla Matriarch</color>."
+    1 string data = "Hey, it sounds like they're talking about the <color=good>Gorilla Matriarch</color>."
    [27]
     1 string data = "But Teaks said all divine spirits had been destroyed by The Fleshmancer long ago."
    [28]
@@ -81,9 +81,9 @@
    [33]
     1 string data = "We just put a seal on the mountain and pretend like nothing happened?"
    [34]
-    1 string data = "Hey, it’s rude to just talk between yourselves!"
+    1 string data = "Hey, it's rude to just talk between yourselves!"
    [35]
-    1 string data = "DON’T DO THIS!"
+    1 string data = "DON'T DO THIS!"
    [36]
     1 string data = "We will help your mom and get you all back outside!"
    [37]
@@ -93,17 +93,17 @@
    [39]
     1 string data = "We could run around the island again!"
    [40]
-    1 string data = "Or maybe they’ll never return, like our siblings."
+    1 string data = "Or maybe they'll never return, like our siblings."
    [41]
     1 string data = "I think they were eaten by the monster."
    [42]
-    1 string data = "I think they found a nicer room and don’t want to share."
+    1 string data = "I think they found a nicer room and don't want to share."
    [43]
     1 string data = "NOT SHARING IS RUDE!"
    [44]
     1 string data = "We will return. You have our word."
    [45]
-    1 string data = "Let’s end this madness."
+    1 string data = "Let's end this madness."
    [46]
     1 string data = "Gorilla Matriarch! You really are alive!"
    [47]
@@ -111,7 +111,7 @@
    [48]
     1 string data = "What happened to you?"
    [49]
-    1 string data = "I was subjected to The Fleshmancer’s final affront to this world."
+    1 string data = "I was subjected to The Fleshmancer's final affront to this world."
    [50]
     1 string data = "Before leaving, he placed a <color=bad>Seed of Evil</color> in the depths of this mountain and bound me here, so that my cubs would remain in close proximity."
    [51]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "I'm so sorry..."
    [63]
-    1 string data = "There isn’t much that could have been done even if they did prepare a cleansing."
+    1 string data = "There isn't much that could have been done even if they did prepare a cleansing."
    [64]
     1 string data = "We are so deep within the lair, the light from the eclipse would never touch the Dweller to make it vulnerable."
    [65]
@@ -165,7 +165,7 @@
    [75]
     1 string data = "Hang in there, Matriarch."
    [76]
-    1 string data = "Hey, there’s a cub!"
+    1 string data = "Hey, there's a cub!"
    [77]
     1 string data = "Hey there, little guy!"
    [78]
@@ -173,7 +173,7 @@
    [79]
     1 string data = "I want to see my mom."
    [80]
-    1 string data = "She’s just over there! Come, we will take you to her."
+    1 string data = "She's just over there! Come, we will take you to her."
    [81]
     1 string data = "I feel she is this way."
    [82]
@@ -189,11 +189,11 @@
    [87]
     1 string data = "Wait!"
    [88]
-    1 string data = "Why don’t you try us for lunch instead, you creep!"
+    1 string data = "Why don't you try us for lunch instead, you creep!"
    [89]
     1 string data = "The amulet reacted, I can feel the eclipse!"
    [90]
-    1 string data = "Seraï... Whatever you’re planning, please make it quick."
+    1 string data = "Seraï... Whatever you're planning, please make it quick."
    [91]
     1 string data = "Heads up!"
    [92]
@@ -201,11 +201,11 @@
    [93]
     1 string data = "Make way!"
    [94]
-    1 string data = "Sorry I’m late."
+    1 string data = "Sorry I'm late."
    [95]
     1 string data = "Right on, Seraï!"
    [96]
-    1 string data = "Let’s take this thing down."
+    1 string data = "Let's take this thing down."
    [97]
     1 string data = "We did it! Good thinking, Seraï!"
    [98]
@@ -247,7 +247,7 @@
    [116]
     1 string data = "Another seal. Someone tried really hard to contain this..."
    [117]
-    1 string data = "I think they found a nicer room and don’t want to share."
+    1 string data = "I think they found a nicer room and don't want to share."
    [118]
     1 string data = "I think they were eaten by the monster."
    [119]
@@ -255,6 +255,6 @@
    [120]
     1 string data = "We could run around the island again!"
    [121]
-    1 string data = "She says we can’t go and see her because of the monster!"
+    1 string data = "She says we can't go and see her because of the monster!"
    [122]
-    1 string data = "She’s down below!"
+    1 string data = "She's down below!"

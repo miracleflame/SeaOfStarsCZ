@@ -29,7 +29,7 @@
    [7]
     1 string data = "There's got to be a way!"
    [8]
-    1 string data = "Let’s clear what we can. The Dweller must have crashed somewhere, we have to find it."
+    1 string data = "Let's clear what we can. The Dweller must have crashed somewhere, we have to find it."
    [9]
     1 string data = "..."
    [10]
@@ -39,9 +39,9 @@
    [12]
     1 string data = "How big IS this thing?"
    [13]
-    1 string data = "Hey you’re Solstice Warriors, aren’t you?"
+    1 string data = "Hey you're Solstice Warriors, aren't you?"
    [14]
-    1 string data = "We've cleared out the monsters. It’s over for now."
+    1 string data = "We've cleared out the monsters. It's over for now."
    [15]
     1 string data = "The big one flew away!"
    [16]
@@ -49,7 +49,7 @@
    [17]
     1 string data = "Waaaaaah!"
    [18]
-    1 string data = "Don’t worry about it, my friends here are stronger than the big monster!"
+    1 string data = "Don't worry about it, my friends here are stronger than the big monster!"
    [19]
     1 string data = "Really?"
    [20]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "I hope my brother is okay..."
    [26]
-    1 string data = "We can’t stay here! Where are we going to go?"
+    1 string data = "We can't stay here! Where are we going to go?"
    [27]
     1 string data = "We need to find new lives for ourselves!"
    [28]
@@ -73,7 +73,7 @@
    [29]
     1 string data = "We can rebuild!"
    [30]
-    1 string data = "I’d rather move somewhere new!"
+    1 string data = "I'd rather move somewhere new!"
    [31]
     1 string data = "Waaaaaaaah!"
    [32]
@@ -91,13 +91,13 @@
    [38]
     1 string data = "How about the small island to the north-east?"
    [39]
-    1 string data = "Oh, the unclaimed one that’s filled with pine trees? That could work!"
+    1 string data = "Oh, the unclaimed one that's filled with pine trees? That could work!"
    [40]
     1 string data = "Precisely!"
    [41]
-    1 string data = "We know the way, but the Oakum Skiff won’t get us there."
+    1 string data = "We know the way, but the Oakum Skiff won't get us there."
    [42]
-    1 string data = "Gotta hit the open sea for that, so we’ll need a proper ship!"
+    1 string data = "Gotta hit the open sea for that, so we'll need a proper ship!"
    [43]
     1 string data = "Okay, that's a good lead!"
    [44]
@@ -117,7 +117,7 @@
    [51]
     1 string data = "We claim The Vespertine!"
    [52]
-    1 string data = "That’s a negative, matey. Ain’t no pulling that trigger without the Captain’s say so!"
+    1 string data = "That's a negative, matey. Ain't no pulling that trigger without the Captain's say so!"
    [53]
     1 string data = "Keenathan is right. The time has come."
    [54]
@@ -133,9 +133,9 @@
    [59]
     1 string data = "Apologies, Captain."
    [60]
-    1 string data = "It’ll take us there, guaranteed!"
+    1 string data = "It'll take us there, guaranteed!"
    [61]
-    1 string data = "Okay, so what’s the plan? The boat is cursed, isn't it?"
+    1 string data = "Okay, so what's the plan? The boat is cursed, isn't it?"
    [62]
     1 string data = "In fact, that's the easy part!"
    [63]
@@ -155,7 +155,7 @@
    [70]
     1 string data = "The window is short, so we must jump aboard without hesitation."
    [71]
-    1 string data = "All in a day’s work, Captain!"
+    1 string data = "All in a day's work, Captain!"
    [72]
     1 string data = "So pumped for this!"
    [73]
@@ -165,7 +165,7 @@
    [75]
     1 string data = "If we don't make it back, you must find another way to help the villagers find their new land."
    [76]
-    1 string data = "No way, we’ve been prepping for this forever!"
+    1 string data = "No way, we've been prepping for this forever!"
    [77]
     1 string data = "Our end goal remains the same. But for this step, I need you to stay safe. Can you do that for me?"
    [78]

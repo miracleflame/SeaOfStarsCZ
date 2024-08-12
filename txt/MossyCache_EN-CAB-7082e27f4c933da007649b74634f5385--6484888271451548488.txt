@@ -15,4 +15,4 @@
    [0]
     1 string data = "This is it."
    [1]
-    1 string data = "Let's take it to Resh’an!"
+    1 string data = "Let's take it to Resh'an!"

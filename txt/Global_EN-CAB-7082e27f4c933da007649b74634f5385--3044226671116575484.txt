@@ -31,7 +31,7 @@
    [8]
     1 string data = "This one is actually just going to be a vanity item that looks like a gem."
    [9]
-    1 string data = "You'e turned almost every stone. One placeholder reward left!"
+    1 string data = "You've turned almost every stone. One placeholder reward left!"
    [10]
     1 string data = "Congratulations, you found them all! They ACTUALLY do nothing, can you believe it? Have a great day!"
    [11]

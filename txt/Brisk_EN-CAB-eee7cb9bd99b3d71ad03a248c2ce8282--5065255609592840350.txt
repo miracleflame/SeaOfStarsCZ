@@ -33,31 +33,31 @@
    [9]
     1 string data = "First mate <color=good>Yolande Fortwal</color>, at your service. In fact, service is my middle name!"
    [10]
-    1 string data = "We’re a pirate crew searching for the legendary ghost ship. We don’t engage in battle anymore, but back in the day we did it all!"
+    1 string data = "We're a pirate crew searching for the legendary ghost ship. We don't engage in battle anymore, but back in the day we did it all!"
    [11]
     1 string data = "Fetching a remedy in a cavern only to find out the town had burned in the meantime? Check!"
    [12]
-    1 string data = "Being left at one hit point so the big baddie could ‘kill us next time’? Double check!"
+    1 string data = "Being left at one hit point so the big baddie could ‘kill us next time'? Double check!"
    [13]
-    1 string data = "Heck, we’ve even been to jail 'cause four imperial soldiers appeared during dialogue instead ov a random encounter!"
+    1 string data = "Heck, we've even been to jail 'cause four imperial soldiers appeared during dialogue instead ov a random encounter!"
    [14]
     1 string data = "..."
    [15]
     1 string data = "Tough crowd huh?"
    [16]
-    1 string data = "Fine. Let’s do introductions."
+    1 string data = "Fine. Let's do introductions."
    [17]
-    1 string data = "Meet our leader <color=good>Captain Klee’shaë</color>, daughter ov a legendary pirate!"
+    1 string data = "Meet our leader <color=good>Captain Klee'shaë</color>, daughter ov a legendary pirate!"
    [18]
     1 string data = "..."
    [19]
     1 string data = "Pleasure to meet you Captain, we were hoping we could-"
    [20]
-    1 string data = "The one in the back with the oversized shirt, that’s our quartermaster <color=good>Valtraid</color>. He’s the guy that’s good at everything."
+    1 string data = "The one in the back with the oversized shirt, that's our quartermaster <color=good>Valtraid</color>. He's the guy that's good at everything."
    [21]
     1 string data = "Ahoy there!"
    [22]
-    1 string data = "And the tall one’s <color=good>Keenathan</color>, our wind mage. Keeps our sails full so no one has to row."
+    1 string data = "And the tall one's <color=good>Keenathan</color>, our wind mage. Keeps our sails full so no one has to row."
    [23]
     1 string data = "Greetings, adventurers. My name is Keenathan!"
    [24]
@@ -65,11 +65,11 @@
    [25]
     1 string data = "Right."
    [26]
-    1 string data = "In case ya noticed the double eyepatch there, that’s 'cause Keenathan can only do magic while blindfolded."
+    1 string data = "In case ya noticed the double eyepatch there, that's 'cause Keenathan can only do magic while blindfolded."
    [27]
     1 string data = "Discovered his powers as a kid when he put on a pirate costume while he was already wearing a pirate costume."
    [28]
-    1 string data = "Nice to meet you all, I’m [MAINCHAR]. These are my friends [OFFCHAR], Garl and Teaks."
+    1 string data = "Nice to meet you all, I'm [MAINCHAR]. These are my friends [OFFCHAR], Garl and Teaks."
    [29]
     1 string data = "We need to secure passage to Wraith Island in time for the eclipse."
    [30]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "What impeccable timing!"
    [34]
-    1 string data = "Now Captain Klee’shaë here can certainly take y'all to Wraith Island. For a price, ov course."
+    1 string data = "Now Captain Klee'shaë here can certainly take y'all to Wraith Island. For a price, ov course."
    [35]
     1 string data = "..."
    [36]
@@ -89,11 +89,11 @@
    [37]
     1 string data = "If ye can beat Valtraid at arm wrestling ye get to ride for free."
    [38]
-    1 string data = "But if ye lose, ye’ll have to run a little errand for us. Whaddaya say?"
+    1 string data = "But if ye lose, ye'll have to run a little errand for us. Whaddaya say?"
    [39]
     1 string data = "The terms are simple enough."
    [40]
-    1 string data = "I’m not sure we should be making a deal with pirates."
+    1 string data = "I'm not sure we should be making a deal with pirates."
    [41]
     1 string data = "They seem nice to me!"
    [42]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "Fine. Have it yer way."
    [51]
-    1 string data = "When ye’re ready for adventure, come meet us at <color=location>The Humble Boast</color> and we’ll make a deal."
+    1 string data = "When ye're ready for adventure, come meet us at <color=location>The Humble Boast</color> and we'll make a deal."
    [52]
     1 string data = "The Humble Boast?"
    [53]
@@ -127,11 +127,11 @@
    [56]
     1 string data = "Aye aye, Captain!"
    [57]
-    1 string data = "I knew it, there’s a tavern!"
+    1 string data = "I knew it, there's a tavern!"
    [58]
     1 string data = "Kicking back sounds good."
    [59]
-    1 string data = "I’ll go right now to try and meet the chef. See you there!"
+    1 string data = "I'll go right now to try and meet the chef. See you there!"
    [60]
     1 string data = "Talk about a wacky bunch."
    [61]
@@ -139,11 +139,11 @@
    [62]
     1 string data = "To The Humble Boast, then."
    [63]
-    1 string data = "Just like that! You’re a natural!"
+    1 string data = "Just like that! You're a natural!"
    [64]
     1 string data = "Chef, thanks so much, this will really come in handy!"
    [65]
-    1 string data = "Anytime! Reckon I’m the one who should be thanking you for all the tips."
+    1 string data = "Anytime! Reckon I'm the one who should be thanking you for all the tips."
    [66]
     1 string data = "Look at him, already making friends!"
    [67]
@@ -155,9 +155,9 @@
    [70]
     1 string data = "Well look who it is!"
    [71]
-    1 string data = "The deal stands. If ye can’t beat Valtraid at arm wrestling, ya’ll gonna need to fetch an item for us."
+    1 string data = "The deal stands. If ye can't beat Valtraid at arm wrestling, ya'll gonna need to fetch an item for us."
    [72]
-    1 string data = "After which, pirate’s honor, we’ll take ye to Wraith Island."
+    1 string data = "After which, pirate's honor, we'll take ye to Wraith Island."
    [73]
     1 string data = "Do you accept these terms?"
    [74]
@@ -173,9 +173,9 @@
    [79]
     1 string data = "Beautiful!"
    [80]
-    1 string data = "Valtraid, you’re up!"
+    1 string data = "Valtraid, you're up!"
    [81]
-    1 string data = "You guys are too strong, it wouldn’t be fair. I’ll do it."
+    1 string data = "You guys are too strong, it wouldn't be fair. I'll do it."
    [82]
     1 string data = "Plus, arm wrestling a real pirate? How cool is that!"
    [83]
@@ -183,7 +183,7 @@
    [84]
     1 string data = "You got it Valere."
    [85]
-    1 string data = "I’ll be your challenger!"
+    1 string data = "I'll be your challenger!"
    [86]
     1 string data = "..."
    [87]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Captain?"
    [89]
-    1 string data = "We can’t leave without the <color=magic>coin</color>. Go all out."
+    1 string data = "We can't leave without the <color=magic>coin</color>. Go all out."
    [90]
     1 string data = "Aye aye, Captain!"
    [91]
@@ -211,15 +211,15 @@
    [98]
     1 string data = "Cheater!"
    [99]
-    1 string data = "I’m sorry, did I miss the part where we agreed on a no magic shirt rule?"
+    1 string data = "I'm sorry, did I miss the part where we agreed on a no magic shirt rule?"
    [100]
-    1 string data = "Sorry pal, Captain’s orders."
+    1 string data = "Sorry pal, Captain's orders."
    [101]
     1 string data = "Are you kidding? That was awesome!"
    [102]
     1 string data = "..."
    [103]
-    1 string data = "This’ll be my best anecdote for sure!"
+    1 string data = "This'll be my best anecdote for sure!"
    [104]
     1 string data = "Show me again!"
    [105]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "North of Brisk is the abandoned lab of an arcane wizard who died long ago."
    [113]
-    1 string data = "It hasn’t been opened for centuries, but stories say it conceals a <color=magic>Coin of Undeath Accord</color>."
+    1 string data = "It hasn't been opened for centuries, but stories say it conceals a <color=magic>Coin of Undeath Accord</color>."
    [114]
     1 string data = "Why do you want it?"
    [115]
@@ -255,13 +255,13 @@
    [120]
     1 string data = "Fear kept people away all this time... But you look like you can handle yourselves, so it shouldn't be a problem."
    [121]
-    1 string data = "My crew won’t fight, but they’ll get you inside."
+    1 string data = "My crew won't fight, but they'll get you inside."
    [122]
     1 string data = "A bit of magic should do the trick. Keenathan?"
    [123]
     1 string data = "I shall open the entrance to the abandoned wizard lab, or my name is not Keenathan!"
    [124]
-    1 string data = "Ahoy Captain, ain’t ya coming with?"
+    1 string data = "Ahoy Captain, ain't ya coming with?"
    [125]
     1 string data = "I will stay here and make preparations for our departure."
    [126]
@@ -289,13 +289,13 @@
    [137]
     1 string data = "Feel free to try it out now, or we can head to that Wizard Lab right away if ye prefer!"
    [138]
-    1 string data = "Well, y’all gone and done it!"
+    1 string data = "Well, y'all gone and done it!"
    [139]
     1 string data = "Stunning performance, pals!"
    [140]
     1 string data = "I am officially naming you members of our crew."
    [141]
-    1 string data = "No way! So we’re real pirates?"
+    1 string data = "No way! So we're real pirates?"
    [142]
     1 string data = "We fulfilled our end of the deal. Will you take us to Wraith Island now?"
    [143]
@@ -303,13 +303,13 @@
    [144]
     1 string data = "Huzzah!"
    [145]
-    1 string data = "Your boat is huge, I can’t wait to see the kitchen!"
+    1 string data = "Your boat is huge, I can't wait to see the kitchen!"
    [146]
     1 string data = "Hold your horses, son! That there ship ain't ours, no no no."
    [147]
     1 string data = "We be right this way!"
    [148]
-    1 string data = "The Oakum Skiff ain’t much to look at, but it’ll get y'all across the <color=location>Shallowmire</color> to Wraith Island alright!"
+    1 string data = "The Oakum Skiff ain't much to look at, but it'll get y'all across the <color=location>Shallowmire</color> to Wraith Island alright!"
    [149]
     1 string data = "..."
    [150]

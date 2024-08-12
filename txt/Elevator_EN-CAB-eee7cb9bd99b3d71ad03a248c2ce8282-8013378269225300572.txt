@@ -13,7 +13,7 @@
   1 Array Array (9 items)
    0 int size = 9
    [0]
-    1 string data = "And if there’s a tavern there will be a chef, so maybe I can learn a special recipe or something!"
+    1 string data = "And if there's a tavern there will be a chef, so maybe I can learn a special recipe or something!"
    [1]
     1 string data = "Whoa!"
    [2]
@@ -21,7 +21,7 @@
    [3]
     1 string data = "No way!"
    [4]
-    1 string data = "You’ve been wanting to see The Sleeper since you were a kid! How does it feel?"
+    1 string data = "You've been wanting to see The Sleeper since you were a kid! How does it feel?"
    [5]
     1 string data = "Like all my summer days are happening at the same time!"
    [6]

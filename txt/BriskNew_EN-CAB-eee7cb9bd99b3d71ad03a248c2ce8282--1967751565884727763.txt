@@ -121,7 +121,7 @@
    [53]
     1 string data = "B'ST! B'ST! B'ST!"
    [54]
-    1 string data = "And now, directly from the Moorlands, I present to you the <color=magic>BOMB</color>. <color=magic>BOUNCING</color>. <color=magic>BROTHERSSSSS</color>!!"
+    1 string data = "And now, directly from the Moorlands, I present to you the <color=magic>BOMB</color>. <color=magic>BOUNCING</color>. <color=magic>BROTHERSSS</color>!!"
    [55]
     1 string data = "This is gonna be good!"
    [56]
@@ -189,7 +189,7 @@
    [87]
     1 string data = "Now, now. Let the fight... BEGIN!"
    [88]
-    1 string data = "An unprecendented performance!"
+    1 string data = "An unprecedented performance!"
    [89]
     1 string data = "This brings us to the final fight of today's event."
    [90]
@@ -443,7 +443,7 @@
    [214]
     1 string data = "Well, that sure was nice ov 'em!"
    [215]
-    1 string data = "And you repaid this kindess a thousandfold!"
+    1 string data = "And you repaid this kindness a thousandfold!"
    [216]
     1 string data = "As a bit of an elemental mage myself, I must say your work there was quite the impressive feat."
    [217]
@@ -653,7 +653,7 @@
    [319]
     1 string data = "In the end I decided to return from Mirth and help restore the shipyard."
    [320]
-    1 string data = "After eveything is done here, I think I'll go back to Mirth."
+    1 string data = "After everything is done here, I think I'll go back to Mirth."
    [321]
     1 string data = "The place is rather quiet since everyone is busy rebuilding the town."
    [322]

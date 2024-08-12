@@ -23,7 +23,7 @@
    [4]
     1 string data = "Find a boat I suppose."
    [5]
-    1 string data = "To ground level then? There’s only one way we can go from here anyway!"
+    1 string data = "To ground level then? There's only one way we can go from here anyway!"
    [6]
     1 string data = "..."
    [7]

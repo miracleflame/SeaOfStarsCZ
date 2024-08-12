@@ -85,7 +85,7 @@
    [35]
     1 string data = "Destroy these interlopers, and claim your rightful place as ruler of this world."
    [36]
-    1 string data = "COME, <color=bad>ELYSAN’DARËLLE</color>!"
+    1 string data = "COME, <color=bad>ELYSAN'DARËLLE</color>!"
    [37]
     1 string data = "Erlina..."
    [38]
@@ -121,7 +121,7 @@
    [53]
     1 string data = "Hey!"
    [54]
-    1 string data = "They've won. It’s time to leave, Aephorul."
+    1 string data = "They've won. It's time to leave, Aephorul."
    [55]
     1 string data = "!!"
    [56]
@@ -133,7 +133,7 @@
    [59]
     1 string data = "Can you feel it?"
    [60]
-    1 string data = "It’s... coming from so far away..."
+    1 string data = "It's... coming from so far away..."
    [61]
     1 string data = "A <color=bad>World Eater</color>..."
    [62]
@@ -171,7 +171,7 @@
    [78]
     1 string data = "Right."
    [79]
-    1 string data = "It’s been great knowing you! I'll make sure future generations know your story and remember you always!"
+    1 string data = "It's been great knowing you! I'll make sure future generations know your story and remember you always!"
    [80]
     1 string data = "It's been great knowing you as well, Teaks."
    [81]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "You would challenge a God?"
    [112]
-    1 string data = "God!? I told you once you son of a creep, you’re nothing but a loser!"
+    1 string data = "God!? I told you once you son of a creep, you're nothing but a loser!"
    [113]
     1 string data = "And so the fool repeats his mistake..."
    [114]
@@ -273,7 +273,7 @@
    [129]
     1 string data = "Hahaha!"
    [130]
-    1 string data = "Just promise you’ll visit from time to time, okay?"
+    1 string data = "Just promise you'll visit from time to time, okay?"
    [131]
     1 string data = "I... Of course."
    [132]
@@ -307,7 +307,7 @@
    [146]
     1 string data = "Right."
    [147]
-    1 string data = "It’s been great knowing you! I'll make sure future generations know your story and remember you always!"
+    1 string data = "It's been great knowing you! I'll make sure future generations know your story and remember you always!"
    [148]
     1 string data = "It's been great knowing you as well, Teaks."
    [149]
@@ -567,7 +567,7 @@
    [276]
     1 string data = "Analyzing. Please hold."
    [277]
-    1 string data = "Results indicate strong presence of an unknown material consisting of an advanced mix of biotics and cybernectics."
+    1 string data = "Results indicate strong presence of an unknown material consisting of an advanced mix of biotics and cybernetics."
    [278]
     1 string data = "Based on the particles in the air, your attempt at destroying it caused an estimated 0.00005% of its mass to explode."
    [279]
@@ -607,7 +607,7 @@
    [296]
     1 string data = "Amazing footwork!"
    [297]
-    1 string data = "I have played my part. It now falls to you to put and end to this."
+    1 string data = "I have played my part. It now falls to you to put an end to this."
    [298]
     1 string data = "Please be kind to the Summoners in the rooms ahead. Their minds are still addled by Soul Curator's mind control spell, but they will not engage you."
    [299]

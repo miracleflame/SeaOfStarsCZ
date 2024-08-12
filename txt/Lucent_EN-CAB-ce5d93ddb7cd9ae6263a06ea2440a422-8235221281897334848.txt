@@ -31,7 +31,7 @@
    [8]
     1 string data = "..."
    [9]
-    1 string data = "But it’s true!"
+    1 string data = "But it's true!"
    [10]
     1 string data = "Undoubtedly! This will surely come to pass, just as my most recent day trip to Brisk! Oh it was so lovely."
    [11]
@@ -67,17 +67,17 @@
    [26]
     1 string data = "These poor people have been coping for so long."
    [27]
-    1 string data = "It’s like they can’t even deal with reality anymore..."
+    1 string data = "It's like they can't even deal with reality anymore..."
    [28]
-    1 string data = "Good thing we’re here to end this!"
+    1 string data = "Good thing we're here to end this!"
    [29]
     1 string data = "Well, as soon as we have the eclipse."
    [30]
     1 string data = "And backup."
    [31]
-    1 string data = "I’m sure you’ll both do great!"
+    1 string data = "I'm sure you'll both do great!"
    [32]
-    1 string data = "Whoa, Keenathan’s got an accordion!"
+    1 string data = "Whoa, Keenathan's got an accordion!"
    [33]
     1 string data = "Aaaactually young man, this here is a concertina!"
    [34]
@@ -93,9 +93,9 @@
    [39]
     1 string data = "I can leave any time I want!"
    [40]
-    1 string data = "Anytime? Hey, that’s my middle name!"
+    1 string data = "Anytime? Hey, that's my middle name!"
    [41]
-    1 string data = "We live for adventure, and for new horizons. Captain’s word, one day we’ll even sail the Sea ov-"
+    1 string data = "We live for adventure, and for new horizons. Captain's word, one day we'll even sail the Sea ov-"
    [42]
     1 string data = "YOLANDE!"
    [43]
@@ -103,7 +103,7 @@
    [44]
     1 string data = "They could totally go right now!"
    [45]
-    1 string data = "Clearly the only issue is they don’t have a ship yet!"
+    1 string data = "Clearly the only issue is they don't have a ship yet!"
    [46]
     1 string data = "When the going gets tough, we like to play a song."
    [47]
@@ -111,27 +111,27 @@
    [48]
     1 string data = "Hey so, about Garl..."
    [49]
-    1 string data = "Yeah, he can’t fight the Dweller with us."
+    1 string data = "Yeah, he can't fight the Dweller with us."
    [50]
     1 string data = "But do you think we made a mistake?"
    [51]
-    1 string data = "I mean it’s great to have him, it's just..."
+    1 string data = "I mean it's great to have him, it's just..."
    [52]
     1 string data = "I know, I could never forgive myself if we failed to protect him."
    [53]
     1 string data = "No way! You guys are the best!"
    [54]
-    1 string data = "At least he’s having a good time."
+    1 string data = "At least he's having a good time."
    [55]
     1 string data = "Hahaha!"
    [56]
-    1 string data = "I’ve been thinking about the cleansing a lot too..."
+    1 string data = "I've been thinking about the cleansing a lot too..."
    [57]
-    1 string data = "Yeah, I’m sure glad we’re not in charge!"
+    1 string data = "Yeah, I'm sure glad we're not in charge!"
    [58]
     1 string data = "I thought saving the world would be all action and glory, but what these people have endured is all too real..."
    [59]
-    1 string data = "Well, all the more reason to give it all we’ve got, right?"
+    1 string data = "Well, all the more reason to give it all we've got, right?"
    [60]
     1 string data = "..."
    [61]
@@ -143,7 +143,7 @@
    [64]
     1 string data = "Now THAT is scary!"
    [65]
-    1 string data = "Haha! Let’s just try and enjoy the place."
+    1 string data = "Haha! Let's just try and enjoy the place."
    [66]
     1 string data = "Ready to rest?"
    [67]
@@ -153,11 +153,11 @@
    [69]
     1 string data = "A few days of rest later..."
    [70]
-    1 string data = "So you’re really going to buy a ghost ship with the magic coin we fetched?"
+    1 string data = "So you're really going to buy a ghost ship with the magic coin we fetched?"
    [71]
-    1 string data = "That’s the plan!"
+    1 string data = "That's the plan!"
    [72]
-    1 string data = "Hey, after the cleansing here is done we’ll be free to do whatever we want, right?"
+    1 string data = "Hey, after the cleansing here is done we'll be free to do whatever we want, right?"
    [73]
     1 string data = "Maybe we could sail with them for a while!"
    [74]
@@ -173,7 +173,7 @@
    [79]
     1 string data = "Sure has a nice ring to it!"
    [80]
-    1 string data = "You’re more than welcome aboard! Anyway the Captain said that the three of you had-"
+    1 string data = "You're more than welcome aboard! Anyway the Captain said that the three of you had-"
    [81]
     1 string data = "VALTRAID!"
    [82]
@@ -189,7 +189,7 @@
    [87]
     1 string data = "I wish something special occurred for once!"
    [88]
-    1 string data = "Next round’s on me!"
+    1 string data = "Next round's on me!"
    [89]
     1 string data = "Woohoo!"
    [90]
@@ -199,7 +199,7 @@
    [92]
     1 string data = "The Dweller of Woe."
    [93]
-    1 string data = "So it’s true, this poor villager is just going to sleepwalk into the mansion and..."
+    1 string data = "So it's true, this poor villager is just going to sleepwalk into the mansion and..."
    [94]
     1 string data = "..."
    [95]
@@ -207,7 +207,7 @@
    [96]
     1 string data = "Unless."
    [97]
-    1 string data = "Forget it, you can’t save that villager!"
+    1 string data = "Forget it, you can't save that villager!"
    [98]
     1 string data = "Y'alright, Captain? Ain't sounding like yerself!"
    [99]
@@ -215,23 +215,23 @@
    [100]
     1 string data = "Right."
    [101]
-    1 string data = "Now how 'bout ya follow the Captain’s advice here and don’t try anything stupid?"
+    1 string data = "Now how 'bout ya follow the Captain's advice here and don't try anything stupid?"
    [102]
-    1 string data = "We’re going."
+    1 string data = "We're going."
    [103]
-    1 string data = "But you can’t! The barrier is impenetrable, you have to wait for the eclipse!"
+    1 string data = "But you can't! The barrier is impenetrable, you have to wait for the eclipse!"
    [104]
     1 string data = "(??)"
    [105]
-    1 string data = "Well, we won’t sit here while someone is about to be eaten alive!"
+    1 string data = "Well, we won't sit here while someone is about to be eaten alive!"
    [106]
-    1 string data = "You don’t understand, the mind control spell connects the Dweller to its prey."
+    1 string data = "You don't understand, the mind control spell connects the Dweller to its prey."
    [107]
-    1 string data = "You’re not strong enough to stop that villager!"
+    1 string data = "You're not strong enough to stop that villager!"
    [108]
     1 string data = "(Captain??)"
    [109]
-    1 string data = "We’ll see about that. Let’s go [OFFCHAR]."
+    1 string data = "We'll see about that. Let's go [OFFCHAR]."
    [110]
     1 string data = "..."
    [111]
@@ -265,9 +265,9 @@
    [125]
     1 string data = "Absolutely."
    [126]
-    1 string data = "Then we must hurry to the Necromancer’s Lair."
+    1 string data = "Then we must hurry to the Necromancer's Lair."
    [127]
-    1 string data = "With a bit of luck Romaya won’t be home and we can grab a soul stone unnoticed."
+    1 string data = "With a bit of luck Romaya won't be home and we can grab a soul stone unnoticed."
    [128]
     1 string data = "Are necromancers really that dangerous?"
    [129]
@@ -277,17 +277,17 @@
    [131]
     1 string data = "The evil one is a necromancer living on this island, and she is rumored to be the most formidable of the three."
    [132]
-    1 string data = "As to whether or not that makes her more powerful than Solstice Warriors, I hope we won’t have to find out."
+    1 string data = "As to whether or not that makes her more powerful than Solstice Warriors, I hope we won't have to find out."
    [133]
     1 string data = "How can we get there?"
    [134]
     1 string data = "East of Lucent is a <color=good>Ferryman</color> who will take us across the bog if we play our cards right."
    [135]
-    1 string data = "This is the only way to the Necromancer’s Lair."
+    1 string data = "This is the only way to the Necromancer's Lair."
    [136]
     1 string data = "Okay, we have a plan!"
    [137]
-    1 string data = "What’s your name, by the way?"
+    1 string data = "What's your name, by the way?"
    [138]
     1 string data = "..."
    [139]
@@ -297,13 +297,13 @@
    [141]
     1 string data = "..."
    [142]
-    1 string data = "Let’s make haste."
+    1 string data = "Let's make haste."
    [143]
     1 string data = "Garl... We won't fail you, I swear."
    [144]
     1 string data = "So... how does this work?"
    [145]
-    1 string data = "It’s pulsing. Maybe if I just..."
+    1 string data = "It's pulsing. Maybe if I just..."
    [146]
     1 string data = "It worked!"
    [147]
@@ -313,21 +313,21 @@
    [149]
     1 string data = "She left..."
    [150]
-    1 string data = "We didn’t even get to thank her."
+    1 string data = "We didn't even get to thank her."
    [151]
     1 string data = "What a strange character..."
    [152]
     1 string data = "Might as well get comfortable, this could take a while."
    [153]
-    1 string data = "Haha! And then you were all “Well if I don’t get a sword how will I do backflips?”"
+    1 string data = "Haha! And then you were all “Well if I don't get a sword how will I do backflips?”"
    [154]
-    1 string data = "You’re one to talk with your “Bulwark of the innocents” thing, I’m so glad you gave that up."
+    1 string data = "You're one to talk with your “Bulwark of the innocents” thing, I'm so glad you gave that up."
    [155]
     1 string data = "To be fair, we did help a bunch of people already."
    [156]
-    1 string data = "Sure, there’s just no need to act all grand about it!"
+    1 string data = "Sure, there's just no need to act all grand about it!"
    [157]
-    1 string data = "“If we’re ever to ascend, as the solar one I will be the spark!”"
+    1 string data = "“If we're ever to ascend, as the solar one I will be the spark!”"
    [158]
     1 string data = "Oh, stop! I was ten!"
    [159]
@@ -335,7 +335,7 @@
    [160]
     1 string data = "What do you mean?"
    [161]
-    1 string data = "I don’t understand it, it was like a floodgate opened in the pit of my stomach."
+    1 string data = "I don't understand it, it was like a floodgate opened in the pit of my stomach."
    [162]
     1 string data = "Like when we were first learning magic?"
    [163]
@@ -343,19 +343,19 @@
    [164]
     1 string data = "Do you think it was the Dweller?"
    [165]
-    1 string data = "No, it didn’t feel evil, or even bad."
+    1 string data = "No, it didn't feel evil, or even bad."
    [166]
     1 string data = "A response to seeing Garl in danger..."
    [167]
-    1 string data = "But I couldn’t let it in, I feared it would overwhelm me."
+    1 string data = "But I couldn't let it in, I feared it would overwhelm me."
    [168]
     1 string data = "..."
    [169]
     1 string data = "Maybe I could have helped him but..."
    [170]
-    1 string data = "If Seraï hadn’t showed up he..."
+    1 string data = "If Seraï hadn't showed up he..."
    [171]
-    1 string data = "Zale, we’re all safe now. That's all that matters."
+    1 string data = "Zale, we're all safe now. That's all that matters."
    [172]
     1 string data = "I think that was my prophecy."
    [173]
@@ -365,17 +365,17 @@
    [175]
     1 string data = "I think this is what he meant... The thought of losing a loved one."
    [176]
-    1 string data = "I felt the power but I couldn’t actualize it..."
+    1 string data = "I felt the power but I couldn't actualize it..."
    [177]
-    1 string data = "I wouldn’t overthink it. Prophecies are not swayed by the attention we give them."
+    1 string data = "I wouldn't overthink it. Prophecies are not swayed by the attention we give them."
    [178]
-    1 string data = "Aren’t you curious about yours?"
+    1 string data = "Aren't you curious about yours?"
    [179]
     1 string data = "He said I might be able to “create paths on water.” What does that even mean?"
    [180]
     1 string data = "Yeah, talk about cryptic..."
    [181]
-    1 string data = "The way I look at it, it’s going to happen or not, no matter how much sleep I lose over it."
+    1 string data = "The way I look at it, it's going to happen or not, no matter how much sleep I lose over it."
    [182]
     1 string data = "..."
    [183]
@@ -385,11 +385,11 @@
    [185]
     1 string data = "I suppose you and I even each other out, in a way."
    [186]
-    1 string data = "That’s part of why we make a good team."
+    1 string data = "That's part of why we make a good team."
    [187]
     1 string data = "I guess..."
    [188]
-    1 string data = "Or maybe it’s because stealing my live mana helps you show off?"
+    1 string data = "Or maybe it's because stealing my live mana helps you show off?"
    [189]
     1 string data = "Haha! Forget it, you do it way more than I do!"
    [190]
@@ -405,13 +405,13 @@
    [195]
     1 string data = "I just had a reaaally bad dream, you guys."
    [196]
-    1 string data = "You’re safe now buddy, don’t worry about it."
+    1 string data = "You're safe now buddy, don't worry about it."
    [197]
     1 string data = "What happened?"
    [198]
-    1 string data = "Remember how we couldn’t stop that villager from entering the mansion?"
+    1 string data = "Remember how we couldn't stop that villager from entering the mansion?"
    [199]
-    1 string data = "It’s a bit blurry, but yes."
+    1 string data = "It's a bit blurry, but yes."
    [200]
     1 string data = "Well..."
    [201]
@@ -419,27 +419,27 @@
    [202]
     1 string data = "By carving magic gates out of thin air somehow."
    [203]
-    1 string data = "This is too much! Hopefully we’ll meet her again, I’ve GOT to see that!"
+    1 string data = "This is too much! Hopefully we'll meet her again, I've GOT to see that!"
    [204]
     1 string data = "Welcome to the First Stage of Grief, please have a seat and I will be right over!"
    [205]
-    1 string data = "Thank you, innkeeper. We won’t be staying long."
+    1 string data = "Thank you, innkeeper. We won't be staying long."
    [206]
     1 string data = "Why, of course not!"
    [207]
-    1 string data = "Hey, that’s the Headmaster’s voice."
+    1 string data = "Hey, that's the Headmaster's voice."
    [208]
-    1 string data = "They’re here!"
+    1 string data = "They're here!"
    [209]
     1 string data = "Well, look who made it here on time!"
    [210]
     1 string data = "..."
    [211]
-    1 string data = "Hey everyone, it’s so good to see you!"
+    1 string data = "Hey everyone, it's so good to see you!"
    [212]
     1 string data = "The eclipse is upon us, I should provide your briefing."
    [213]
-    1 string data = "We wouldn’t want one of you to end up mind controlled by the Dweller, now, would we?"
+    1 string data = "We wouldn't want one of you to end up mind controlled by the Dweller, now, would we?"
    [214]
     1 string data = "Oh, that happened already!"
    [215]
@@ -455,7 +455,7 @@
    [220]
     1 string data = "(These two, I swear...)"
    [221]
-    1 string data = "No matter, we must leave for the Dweller’s lair at once. I will explain on the way."
+    1 string data = "No matter, we must leave for the Dweller's lair at once. I will explain on the way."
    [222]
     1 string data = "Last chance to make preparations. Let me know when you are ready."
    [223]
@@ -469,9 +469,9 @@
    [227]
     1 string data = "Onwards, to the cleansing!"
    [228]
-    1 string data = "Hmm? Surely you weren’t thinking of coming with us?"
+    1 string data = "Hmm? Surely you weren't thinking of coming with us?"
    [229]
-    1 string data = "Hey, I can fight and I’m a good support!"
+    1 string data = "Hey, I can fight and I'm a good support!"
    [230]
     1 string data = "Dwellers are impervious to all but solstice magic. Your mere presence would be a liability."
    [231]
@@ -479,15 +479,15 @@
    [232]
     1 string data = "What?"
    [233]
-    1 string data = "I’ll know when to step aside, don’t worry!"
+    1 string data = "I'll know when to step aside, don't worry!"
    [234]
     1 string data = "..."
    [235]
-    1 string data = "Make sure you don’t get in the way."
+    1 string data = "Make sure you don't get in the way."
    [236]
     1 string data = "You got it, Headmaster!"
    [237]
-    1 string data = "...Which I didn’t need to hear, given that earnest is my middle name!"
+    1 string data = "...Which I didn't need to hear, given that earnest is my middle name!"
    [238]
     1 string data = "Anyway, then he said he never used any spells on regular monsters, only to use nothing but the most expensive one when he fought a boss!"
    [239]
@@ -501,7 +501,7 @@
    [243]
     1 string data = "He doesn't seem badly hurt, probably just a lot to take in."
    [244]
-    1 string data = "Nothing soup won’t fix!"
+    1 string data = "Nothing soup won't fix!"
    [245]
     1 string data = "NOT THE TWINS!"
    [246]
@@ -517,7 +517,7 @@
    [251]
     1 string data = "I need more time to recover."
    [252]
-    1 string data = "Our enemies must be at The Fleshmancer’s old castle on Mesa Island by now."
+    1 string data = "Our enemies must be at The Fleshmancer's old castle on Mesa Island by now."
    [253]
     1 string data = "Mesa Island is currently unreachable, but I trust a solution will come to me if I meditate."
    [254]
@@ -533,9 +533,9 @@
    [259]
     1 string data = "..."
    [260]
-    1 string data = "Aren’t ye proud? Y'all just saved a lot of people, pals!"
+    1 string data = "Aren't ye proud? Y'all just saved a lot of people, pals!"
    [261]
-    1 string data = "We... A lot has happened, and we’re still catching up..."
+    1 string data = "We... A lot has happened, and we're still catching up..."
    [262]
     1 string data = "Why the long face? Did something UNPREDICTABLE occur?"
    [263]
@@ -547,9 +547,9 @@
    [266]
     1 string data = "..."
    [267]
-    1 string data = "Look, well-meaning is my middle name... I’m sorry, didn’t know it was this bad, I..."
+    1 string data = "Look, well-meaning is my middle name... I'm sorry, didn't know it was this bad, I..."
    [268]
-    1 string data = "It’s okay, Yolande. Just a lot to take in right now."
+    1 string data = "It's okay, Yolande. Just a lot to take in right now."
    [269]
     1 string data = "Well, anything I can do to help, ya let me know, alright?"
    [270]
@@ -699,7 +699,7 @@
    [342]
     1 string data = "Wasn't there one more of you?"
    [343]
-    1 string data = "Now THAT is what I call good music!"
+    1 string data = "Now THAT's what I call good music!"
    [344]
     1 string data = "Is your friend alright? Did he eat something weird in the forest?"
    [345]

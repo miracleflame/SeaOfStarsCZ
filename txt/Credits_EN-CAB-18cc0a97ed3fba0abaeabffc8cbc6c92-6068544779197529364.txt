@@ -73,7 +73,7 @@
    [29]
     1 string data = "Pirate Music Covers"
    [30]
-    1 string data = "Portaits & Menu Icons Illustrator"
+    1 string data = "Portraits & Menu Icons Illustrator"
    [31]
     1 string data = "Dev Apprentice"
    [32]

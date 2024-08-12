@@ -23,7 +23,7 @@
    [4]
     1 string data = "What?"
    [5]
-    1 string data = "There’s a council... thing."
+    1 string data = "There's a council... thing."
    [6]
     1 string data = "I think."
    [7]
@@ -69,7 +69,7 @@
    [27]
     1 string data = "Then speak."
    [28]
-    1 string data = "It’s for my friends here."
+    1 string data = "It's for my friends here."
    [29]
     1 string data = "I want you to grant them access to the <color=magic>Sea of Stars</color>."
    [30]
@@ -139,17 +139,17 @@
    [62]
     1 string data = "What makes you believe we would accept such a proposition?"
    [63]
-    1 string data = "Don’t worry, I’ll make it friendly again!"
+    1 string data = "Don't worry, I'll make it friendly again!"
    [64]
     1 string data = "The Elder Mist once told me that I might "soothe a long tormented soul.""
    [65]
-    1 string data = "This is what he meant, I’m certain of it."
+    1 string data = "This is what he meant, I'm certain of it."
    [66]
     1 string data = "(*mumble* *mumble*)"
    [67]
     1 string data = "That is a tall order. What is your plan?"
    [68]
-    1 string data = "The runes in the Moorlands. I wasn’t sure at first, but now I know what they meant."
+    1 string data = "The runes in the Moorlands. I wasn't sure at first, but now I know what they meant."
    [69]
     1 string data = "There are no more <color=good>Ovates</color>. How, then?"
    [70]
@@ -163,21 +163,21 @@
    [74]
     1 string data = "How will you use Water?"
    [75]
-    1 string data = "<color=magic>Magic Dew</color> to instantly grow the crops I’ll need."
+    1 string data = "<color=magic>Magic Dew</color> to instantly grow the crops I'll need."
    [76]
-    1 string data = "Sea monsters are exctinct."
+    1 string data = "Sea monsters are extinct."
    [77]
     1 string data = "Magic Dew will not manifest without an enchanted scale."
    [78]
-    1 string data = "Don’t worry, I know just the place to find one!"
+    1 string data = "Don't worry, I know just the place to find one!"
    [79]
     1 string data = "How about Fire, then?"
    [80]
     1 string data = "<color=magic>Natural heat</color> from the volcano without a name."
    [81]
-    1 string data = "Presposterous. The <color=bad>lava monster</color> would kill you instantly."
+    1 string data = "Preposterous. The <color=bad>lava monster</color> would kill you instantly."
    [82]
-    1 string data = "It’s okay, my friends are pretty strong."
+    1 string data = "It's okay, my friends are pretty strong."
    [83]
     1 string data = "Earth?"
    [84]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "Sure do! And that volcano will finally have a name: <color=location>Kiln Mountain</color>!"
    [87]
-    1 string data = "(Don’t push your luck, kid...)"
+    1 string data = "(Don't push your luck, kid...)"
    [88]
     1 string data = "(*mumble* *mumble*)"
    [89]
@@ -199,7 +199,7 @@
    [92]
     1 string data = "We will capture <color=magic>Zephyr</color> in a bottle."
    [93]
-    1 string data = "When my creation is complete, I will let it carry the scent to The Sleeper’s nostrils."
+    1 string data = "When my creation is complete, I will let it carry the scent to The Sleeper's nostrils."
    [94]
     1 string data = "And why do you require a volcano-sized oven?"
    [95]
@@ -231,23 +231,23 @@
    [108]
     1 string data = "I have never seen the council so easily swayed..."
    [109]
-    1 string data = "Okay, let’s go back and plan this whole thing."
+    1 string data = "Okay, let's go back and plan this whole thing."
    [110]
-    1 string data = "Hey, what’s your name?"
+    1 string data = "Hey, what's your name?"
    [111]
     1 string data = "<color=good>Puntie</color>! Why do you ask?"
    [112]
     1 string data = "Great, one sec."
    [113]
-    1 string data = "Alright, I don’t have a lot of time so we should split up."
+    1 string data = "Alright, I don't have a lot of time so we should split up."
    [114]
     1 string data = "What?"
    [115]
-    1 string data = "I’m staying with you."
+    1 string data = "I'm staying with you."
    [116]
-    1 string data = "There’s no time. Just trust me, okay?"
+    1 string data = "There's no time. Just trust me, okay?"
    [117]
-    1 string data = "I’m in charge of Earth, anyway. No danger on my path."
+    1 string data = "I'm in charge of Earth, anyway. No danger on my path."
    [118]
     1 string data = "And where is that?"
    [119]
@@ -261,7 +261,7 @@
    [123]
     1 string data = "(...)"
    [124]
-    1 string data = "Anyway. Zale, you’re in charge of Air."
+    1 string data = "Anyway. Zale, you're in charge of Air."
    [125]
     1 string data = "West of here is a skyland you can access using the Wind Key they gave us."
    [126]
@@ -269,7 +269,7 @@
    [127]
     1 string data = "Consider it done."
    [128]
-    1 string data = "Valere, you’ve got Fire."
+    1 string data = "Valere, you've got Fire."
    [129]
     1 string data = "Go through the volcano and defeat the lava monster, then we can redirect the heat and terraform the summit into a giant kiln."
    [130]
@@ -279,7 +279,7 @@
    [132]
     1 string data = "After dropping Valere off at the volcano, get Hortence to take you back to the Sea of Nightmare."
    [133]
-    1 string data = "But please don’t kill Hydralion, we only need one scale."
+    1 string data = "But please don't kill Hydralion, we only need one scale."
    [134]
     1 string data = "Okay."
    [135]
@@ -295,7 +295,7 @@
    [140]
     1 string data = "What about me?"
    [141]
-    1 string data = "Oh I... Well, I assumed you weren’t allowed to help."
+    1 string data = "Oh I... Well, I assumed you weren't allowed to help."
    [142]
     1 string data = "This matter isn't related to a Dweller. I am free to choose."
    [143]
@@ -303,7 +303,7 @@
    [144]
     1 string data = "Well, the four elements are assigned but I guess you can join one of the teams."
    [145]
-    1 string data = "There won’t be any danger on my path though, so who else do you want to help?"
+    1 string data = "There won't be any danger on my path though, so who else do you want to help?"
    [146]
     1 string data = "All three."
    [147]
@@ -321,7 +321,7 @@
    [153]
     1 string data = "Pretty cool, huh?"
    [154]
-    1 string data = "Alright, Zale, I’ll see you over at Kiln Mountain once we have everything."
+    1 string data = "Alright, Zale, I'll see you over at Kiln Mountain once we have everything."
    [155]
     1 string data = "Stay safe, Garl."
    [156]
@@ -331,7 +331,7 @@
    [158]
     1 string data = "I'm alright, don't worry."
    [159]
-    1 string data = "X’tol!"
+    1 string data = "X'tol!"
    [160]
     1 string data = "The skyland is west of this village. Lead the way."
    [161]
@@ -381,7 +381,7 @@
    [183]
     1 string data = "Please gather your group."
    [184]
-    1 string data = "Honorable council. If you could make an exception, I would like to go as Captain Klee’shaë."
+    1 string data = "Honorable council. If you could make an exception, I would like to go as Captain Klee'shaë."
    [185]
     1 string data = "My crew, they..."
    [186]
@@ -391,7 +391,7 @@
    [188]
     1 string data = "Thank you."
    [189]
-    1 string data = "Okay, let’s gather everyone and form a line."
+    1 string data = "Okay, let's gather everyone and form a line."
    [190]
     1 string data = "Present yourselves, travelers!"
    [191]
@@ -405,7 +405,7 @@
    [195]
     1 string data = "Next!"
    [196]
-    1 string data = "Pirate Captain Klee’shaë."
+    1 string data = "Pirate Captain Klee'shaë."
    [197]
     1 string data = "Next!"
    [198]
@@ -423,7 +423,7 @@
    [204]
     1 string data = "Next!"
    [205]
-    1 string data = "Pirate Quartermaster Jack’o Valtraid."
+    1 string data = "Pirate Quartermaster Jack O Valtraid."
    [206]
     1 string data = "Next!"
    [207]

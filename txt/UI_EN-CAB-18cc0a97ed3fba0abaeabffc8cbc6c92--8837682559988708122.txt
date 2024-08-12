@@ -483,278 +483,280 @@
    [234]
     1 string data = "<button="UI_Confirm"> Zkopírovat "
    [235]
-    1 string data = "How to play"
+    1 string data = "<color=red>Požaduje se aktualizace verze hry</color>"	
    [236]
-    1 string data = "Traversal"
+    1 string data = "How to play"
    [237]
-    1 string data = "Souboje"
+    1 string data = "Traversal"
    [238]
-    1 string data = "Přežití"
+    1 string data = "Souboje"
    [239]
-    1 string data = "Wheels"
+    1 string data = "Přežití"
    [240]
-    1 string data = "No data"
+    1 string data = "Wheels"
    [241]
-    1 string data = "Úroveň"
+    1 string data = "No data"
    [242]
-    1 string data = "Čas"
+    1 string data = "Úroveň"
    [243]
-    1 string data = "Uložit"
+    1 string data = "Čas"
    [244]
-    1 string data = "Auto"
+    1 string data = "Uložit"
    [245]
-    1 string data = "Manual"
+    1 string data = "Auto"
    [246]
-    1 string data = "Acknowledgements"
+    1 string data = "Manual"
    [247]
-    1 string data = "This demo would not have been possible without the contribution of over 25 000 backers, for which we are forever grateful. We sincerely hope you will enjoy your time with the early build, and look forward to receiving your feedback. Feel free to spread the word, and invite friends over to our community Discord (discord.gg/sabotagestudio).<br>Thank you <3"
+    1 string data = "Acknowledgements"
    [248]
-    1 string data = "(THIS DEMO WAS ALSO FINANCIALLY SUPPORTED, IN PART, BY QUEBEC CITY'S ENTREPRENEURIAL VISION 2023 PROGRAM)"
+    1 string data = "This demo would not have been possible without the contribution of over 25 000 backers, for which we are forever grateful. We sincerely hope you will enjoy your time with the early build, and look forward to receiving your feedback. Feel free to spread the word, and invite friends over to our community Discord (discord.gg/sabotagestudio).<br>Thank you <3"
    [249]
-    1 string data = "Stew"
+    1 string data = "(THIS DEMO WAS ALSO FINANCIALLY SUPPORTED, IN PART, BY QUEBEC CITY'S ENTREPRENEURIAL VISION 2023 PROGRAM)"
    [250]
-    1 string data = "Snacks"
+    1 string data = "Stew"
    [251]
-    1 string data = "Serums"
+    1 string data = "Snacks"
    [252]
-    1 string data = "Rest"
+    1 string data = "Serums"
    [253]
-    1 string data = "Load"
+    1 string data = "Rest"
    [254]
-    1 string data = "Backpack"
+    1 string data = "Load"
    [255]
-    1 string data = "Recepty"
+    1 string data = "Backpack"
    [256]
-    1 string data = "Ingredience"
+    1 string data = "Recepty"
    [257]
-    1 string data = "Item Name"
+    1 string data = "Ingredience"
    [258]
-    1 string data = "V Inventáři"
-   [259]
-    1 string data = "Cook Qty"
-   [260]
-    1 string data = "Tak fajn, jde se vařit!"
-   [261]
-    1 string data = "Koukněte, něčemu se přiučíte!"
-   [262]
-    1 string data = "Dobrá, tak se na to podíváme..."
-   [263]
-    1 string data = "Tohle se vážně povedlo!"
-   [264]
-    1 string data = "A je to!"
-   [265]
-    1 string data = "Myslím, že takhle to dělával Garl..."
-   [266]
-    1 string data = "Snad to bude dost dobré..."
-   [267]
-    1 string data = "Na tohle nám chybí ingredience!"
-   [268]
-    1 string data = "Tohle teď uvařit nemůžeme!"
-   [269]
-    1 string data = "Na víc jídel nemáme místo!"
-   [270]
-    1 string data = "<button="UI_Confirm"> Cook (Hold)"
-   [271]
-    1 string data = "<button="MoveHorizontal"> Quantity"
-   [272]
-    1 string data = "V Inventáři [množství]"
-   [273]
-    1 string data = "LEVEL UP!"
-   [274]
-    1 string data = "Ally"
-   [275]
-    1 string data = "Party"
-   [276]
-    1 string data = "[TARGET] recovers [HP_TO_GIVE] and [SP_TO_GIVE]"
-   [277]
-    1 string data = "[TARGET] recovers [HP_TO_GIVE]"
-   [278]
-    1 string data = "[TARGET] recovers [SP_TO_GIVE]"
-   [279]
-    1 string data = "[TARGET] recovers from KO state and restore [KO_HEAL_PERCENTAGE] percent of max hp"
-   [280]
-    1 string data = "Cures KO +[KO_HEAL_PERCENTAGE]% hp"
-   [281]
-    1 string data = "Koupit"
-   [282]
-    1 string data = "Prodat"
-   [283]
     1 string data = "Item Name"
-   [284]
+   [259]
     1 string data = "V Inventáři"
-   [285]
-    1 string data = "Cena"
-   [286]
-    1 string data = "<button="UI_Confirm"> Koupit"
-   [287]
-    1 string data = "<button="UI_Confirm"> Prodat"
-   [288]
-    1 string data = "<button="UI_Confirm"> Equip"
-   [289]
-    1 string data = "<button="UI_Back"> Keep"
-   [290]
-    1 string data = "<button="MoveHorizontal"> Množství"
-   [291]
-    1 string data = "Empty"
-   [292]
-    1 string data = "Vyprodáno"
-   [293]
-    1 string data = "Effects"
-   [294]
-    1 string data = "Úvodní obrazovka"
-   [295]
-    1 string data = "<button="Interact"> Cast"
-   [296]
-    1 string data = "<button="Cancel"> Back"
-   [297]
-    1 string data = "<button=MoveHorizontal"> Steer"
-   [298]
-    1 string data = "<button="Interact"> Kick"
-   [299]
-    1 string data = "<button="Interact"> Reel"
-   [300]
-    1 string data = "<button="WindBracelet"> Swap Character"
-   [301]
-    1 string data = "<button="DeployParty"> Utábořit se"
-   [302]
-    1 string data = "<button="Boat_EnterBoat"> Nalodit se"
-   [303]
-    1 string data = "<button="Boat_Accelerate"> Zrychlit"
-   [304]
-    1 string data = "<button="MoveHorizontal"> Steer"
-   [305]
-    1 string data = "<button="UI_PingHud"> Mapa"
-   [306]
-    1 string data = "Max"
-   [307]
-    1 string data = "<button="AdvanceTime"> Advance Time"
-   [308]
-    1 string data = "<button="RewindTime"> Rewind Time"
-   [309]
-    1 string data = "Enabled"
-   [310]
-    1 string data = "COPYRIGHT 2023 SABOTAGE STUDIO"
-   [311]
-    1 string data = "Načítání..."
-   [312]
-    1 string data = "Version [VERSION]"
-   [313]
-    1 string data = "Key Items"
-   [314]
-    1 string data = "Effect"
-   [315]
-    1 string data = "Cargo"
-   [316]
-    1 string data = "<button="UI_Confirm"> Unequip"
-   [317]
-    1 string data = "<button="Interact"> Dig"
-   [318]
-    1 string data = "<button="Interact"> Grab"
-   [319]
-    1 string data = "<button="Interact"> Drop"
-   [320]
-    1 string data = "<button="Cancel"> Back"
-   [321]
-    1 string data = "Do inventáře"
-   [322]
-    1 string data = "Equip now"
-   [323]
+   [260]
+    1 string data = "Cook Qty"
+   [261]
+    1 string data = "Tak fajn, jde se vařit!"
+   [262]
+    1 string data = "Koukněte, něčemu se přiučíte!"
+   [263]
+    1 string data = "Dobrá, tak se na to podíváme..."
+   [264]
+    1 string data = "Tohle se vážně povedlo!"
+   [265]
+    1 string data = "A je to!"
+   [266]
+    1 string data = "Myslím, že takhle to dělával Garl..."
+   [267]
+    1 string data = "Snad to bude dost dobré..."
+   [268]
+    1 string data = "Na tohle nám chybí ingredience!"
+   [269]
+    1 string data = "Tohle teď uvařit nemůžeme!"
+   [270]
+    1 string data = "Na víc jídel nemáme místo!"
+   [271]
+    1 string data = "<button="UI_Confirm"> Cook (Hold)"
+   [272]
+    1 string data = "<button="MoveHorizontal"> Quantity"
+   [273]
+    1 string data = "V Inventáři [množství]"
+   [274]
+    1 string data = "LEVEL UP!"
+   [275]
+    1 string data = "Ally"
+   [276]
+    1 string data = "Party"
+   [277]
+    1 string data = "[TARGET] recovers [HP_TO_GIVE] and [SP_TO_GIVE]"
+   [278]
+    1 string data = "[TARGET] recovers [HP_TO_GIVE]"
+   [279]
+    1 string data = "[TARGET] recovers [SP_TO_GIVE]"
+   [280]
+    1 string data = "[TARGET] recovers from KO state and restore [KO_HEAL_PERCENTAGE] percent of max hp"
+   [281]
+    1 string data = "Cures KO +[KO_HEAL_PERCENTAGE]% hp"
+   [282]
     1 string data = "Koupit"
-   [324]
+   [283]
     1 string data = "Prodat"
+   [284]
+    1 string data = "Item Name"
+   [285]
+    1 string data = "V Inventáři"
+   [286]
+    1 string data = "Cena"
+   [287]
+    1 string data = "<button="UI_Confirm"> Koupit"
+   [288]
+    1 string data = "<button="UI_Confirm"> Prodat"
+   [289]
+    1 string data = "<button="UI_Confirm"> Equip"
+   [290]
+    1 string data = "<button="UI_Back"> Keep"
+   [291]
+    1 string data = "<button="MoveHorizontal"> Množství"
+   [292]
+    1 string data = "Empty"
+   [293]
+    1 string data = "Vyprodáno"
+   [294]
+    1 string data = "Effects"
+   [295]
+    1 string data = "Úvodní obrazovka"
+   [296]
+    1 string data = "<button="Interact"> Cast"
+   [297]
+    1 string data = "<button="Cancel"> Back"
+   [298]
+    1 string data = "<button=MoveHorizontal"> Steer"
+   [299]
+    1 string data = "<button="Interact"> Kick"
+   [300]
+    1 string data = "<button="Interact"> Reel"
+   [301]
+    1 string data = "<button="WindBracelet"> Swap Character"
+   [302]
+    1 string data = "<button="DeployParty"> Utábořit se"
+   [303]
+    1 string data = "<button="Boat_EnterBoat"> Nalodit se"
+   [304]
+    1 string data = "<button="Boat_Accelerate"> Zrychlit"
+   [305]
+    1 string data = "<button="MoveHorizontal"> Steer"
+   [306]
+    1 string data = "<button="UI_PingHud"> Mapa"
+   [307]
+    1 string data = "Max"
+   [308]
+    1 string data = "<button="AdvanceTime"> Advance Time"
+   [309]
+    1 string data = "<button="RewindTime"> Rewind Time"
+   [310]
+    1 string data = "Enabled"
+   [311]
+    1 string data = "COPYRIGHT 2023 SABOTAGE STUDIO"
+   [312]
+    1 string data = "Načítání..."
+   [313]
+    1 string data = "Version [VERSION]"
+   [314]
+    1 string data = "Key Items"
+   [315]
+    1 string data = "Effect"
+   [316]
+    1 string data = "Cargo"
+   [317]
+    1 string data = "<button="UI_Confirm"> Unequip"
+   [318]
+    1 string data = "<button="Interact"> Dig"
+   [319]
+    1 string data = "<button="Interact"> Grab"
+   [320]
+    1 string data = "<button="Interact"> Drop"
+   [321]
+    1 string data = "<button="Cancel"> Back"
+   [322]
+    1 string data = "Do inventáře"
+   [323]
+    1 string data = "Equip now"
+   [324]
+    1 string data = "Koupit"
    [325]
-    1 string data = "Ponechat si"
+    1 string data = "Prodat"
    [326]
-    1 string data = "Previously Equipped"
+    1 string data = "Ponechat si"
    [327]
-    1 string data = "Buy for <color=#FFFFFF>[PRICE]</color> G ?"
+    1 string data = "Previously Equipped"
    [328]
-    1 string data = "Sell for <color=#FFFFFF>[PRICE]</color> G ?"
+    1 string data = "Buy for <color=#FFFFFF>[PRICE]</color> G ?"
    [329]
-    1 string data = "Konec Hry"
+    1 string data = "Sell for <color=#FFFFFF>[PRICE]</color> G ?"
    [330]
-    1 string data = "Úspěchy"
+    1 string data = "Konec Hry"
    [331]
-    1 string data = "Game Data"
+    1 string data = "Úspěchy"
    [332]
-    1 string data = "<button="MoveVertical"> Scroll"
+    1 string data = "Game Data"
    [333]
-    1 string data = "<button="AdvanceTime"> Super Beam"
+    1 string data = "<button="MoveVertical"> Scroll"
    [334]
-    1 string data = "<button="WindBracelet"> Dive"
+    1 string data = "<button="AdvanceTime"> Super Beam"
    [335]
-    1 string data = "Doba hraní"
+    1 string data = "<button="WindBracelet"> Dive"
    [336]
-    1 string data = "Poražení nepřátelé"
+    1 string data = "Doba hraní"
    [337]
-    1 string data = "Počet smrtí"
+    1 string data = "Poražení nepřátelé"
    [338]
-    1 string data = "Gold collected"
+    1 string data = "Počet smrtí"
    [339]
-    1 string data = "Chycené ryby"
+    1 string data = "Gold collected"
    [340]
-    1 string data = "Uvařená jídla"
+    1 string data = "Chycené ryby"
    [341]
-    1 string data = "Opravdu nechcete uložit hru?"
+    1 string data = "Uvařená jídla"
    [342]
-    1 string data = "<button="UI_Back"> Zpět"
+    1 string data = "Opravdu nechcete uložit hru?"
    [343]
-    1 string data = "<button="UI_Confirm"> Přiblížit"
+    1 string data = "<button="UI_Back"> Zpět"
    [344]
-    1 string data = "<button="UI_TertiaryAction"> Oddálit"
+    1 string data = "<button="UI_Confirm"> Přiblížit"
    [345]
-    1 string data = "<button="UI_Confirm"> Ping Parrot"
+    1 string data = "<button="UI_TertiaryAction"> Oddálit"
    [346]
-    1 string data = "<button="MoveAll"> Browse"
+    1 string data = "<button="UI_Confirm"> Ping Parrot"
    [347]
-    1 string data = "B'gawk! Treasure left! Treasure left!"
+    1 string data = "<button="MoveAll"> Browse"
    [348]
-    1 string data = "B'gawk! Conch left! Conch left!"
+    1 string data = "B'gawk! Treasure left! Treasure left!"
    [349]
-    1 string data = "B'gawk! Fishing left! Fishing left!"
+    1 string data = "B'gawk! Conch left! Conch left!"
    [350]
-    1 string data = "B'gawk! Wheels Champion left! Wheels Champion left!"
+    1 string data = "B'gawk! Fishing left! Fishing left!"
    [351]
-    1 string data = "In [LEVEL_NAME]. B'gawk!"
+    1 string data = "B'gawk! Wheels Champion left! Wheels Champion left!"
    [352]
-    1 string data = "All clear! B'gawk!"
+    1 string data = "In [LEVEL_NAME]. B'gawk!"
    [353]
-    1 string data = "Need to progress further first. B'gawk!"
+    1 string data = "All clear! B'gawk!"
    [354]
-    1 string data = "<button="UI_Back"> Přeskočit"
+    1 string data = "Need to progress further first. B'gawk!"
    [355]
-    1 string data = "Píseň #[TRACKID]"
+    1 string data = "<button="UI_Back"> Přeskočit"
    [356]
-    1 string data = "<button="DeployParty">/<button="NextTrack"> Změnit Píseň"
+    1 string data = "Píseň #[TRACKID]"
    [357]
-    1 string data = "<button="WindBracelet"> Náhodná píseň"
+    1 string data = "<button="DeployParty">/<button="NextTrack"> Změnit Píseň"
    [358]
-    1 string data = "Can't carry anymore."
+    1 string data = "<button="WindBracelet"> Náhodná píseň"
    [359]
-    1 string data = "Not enough gold."
+    1 string data = "Can't carry anymore."
    [360]
-    1 string data = "Can't carry any more gold."
+    1 string data = "Not enough gold."
    [361]
-    1 string data = "Can't sell equipped item."
+    1 string data = "Can't carry any more gold."
    [362]
-    1 string data = "<button="Interact"> Climb / Jump"
+    1 string data = "Can't sell equipped item."
    [363]
-    1 string data = "<button="UI_Confirm"> Super Speed"
+    1 string data = "<button="Interact"> Climb / Jump"
    [364]
-    1 string data = "<button="UI_Confirm"> + <button="UI_SkipDialog"> Ultra Speed "
+    1 string data = "<button="UI_Confirm"> Super Speed"
    [365]
-    1 string data = "Hledáte nějaký konkrétní pomník?"
+    1 string data = "<button="UI_Confirm"> + <button="UI_SkipDialog"> Ultra Speed "
    [366]
-    1 string data = "Luana & Solen"
+    1 string data = "Hledáte nějaký konkrétní pomník?"
    [367]
-    1 string data = "Solen & Luana"
+    1 string data = "Luana & Solen"
    [368]
-    1 string data = "World Eater"
+    1 string data = "Solen & Luana"
    [369]
-    1 string data = "TO NEXT"
+    1 string data = "World Eater"
    [370]
-    1 string data = "Some actions functions are not mapped."
+    1 string data = "TO NEXT"
    [371]
-    1 string data = "Edit"
+    1 string data = "Some actions functions are not mapped."
    [372]
+    1 string data = "Edit"
+   [373]
     1 string data = "Default"

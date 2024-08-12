@@ -55,27 +55,27 @@
    [20]
     1 string data = "You can still join us if-"
    [21]
-    1 string data = "Don’t you dare!"
+    1 string data = "Don't you dare!"
    [22]
     1 string data = "Get lost!"
    [23]
     1 string data = "..."
    [24]
-    1 string data = "Let’s go, Brugaves."
+    1 string data = "Let's go, Brugaves."
    [25]
     1 string data = "Yes! This will do."
    [26]
-    1 string data = "I can’t wait to see their faces, haha!"
+    1 string data = "I can't wait to see their faces, haha!"
    [27]
     1 string data = "*Ahem*"
    [28]
     1 string data = "Oh, visitors!"
    [29]
-    1 string data = "Nice to meet you! My name is Garl, and these are my friends [MAINCHAR], [OFFCHAR], Seraï and Resh’an."
+    1 string data = "Nice to meet you! My name is Garl, and these are my friends [MAINCHAR], [OFFCHAR], Seraï and Resh'an."
    [30]
-    1 string data = "Hello, everyone! I’m <color=good>Caël</color>."
+    1 string data = "Hello, everyone! I'm <color=good>Caël</color>."
    [31]
-    1 string data = "I hope it’s not rude to ask, but..."
+    1 string data = "I hope it's not rude to ask, but..."
    [32]
     1 string data = "Are you human?"
    [33]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "..."
    [35]
-    1 string data = "That’s because my friends and I have been ten years old for a VERY long time."
+    1 string data = "That's because my friends and I have been ten years old for a VERY long time."
    [36]
     1 string data = "What do you mean?"
    [37]
@@ -91,27 +91,27 @@
    [38]
     1 string data = "What about it?"
    [39]
-    1 string data = "It doesn’t pass within this castle."
+    1 string data = "It doesn't pass within this castle."
    [40]
-    1 string data = "Or rather, it doesn’t pass within the bodies of its residents."
+    1 string data = "Or rather, it doesn't pass within the bodies of its residents."
    [41]
     1 string data = "We cannot die of natural causes, but we must remain here always."
    [42]
     1 string data = "This time prison has been our home for centuries. If we were to leave, we would instantly age and die."
    [43]
-    1 string data = "So, that’s the gist of it."
+    1 string data = "So, that's the gist of it."
    [44]
-    1 string data = "Whoa, that’s grim..."
+    1 string data = "Whoa, that's grim..."
    [45]
-    1 string data = "It’s okay, we like it here."
+    1 string data = "It's okay, we like it here."
    [46]
     1 string data = "Plus we get to be kids forever. How cool is that?"
    [47]
-    1 string data = "Even though making machines for the bad guys ain’t exactly our preference, it sure beats the alternative."
+    1 string data = "Even though making machines for the bad guys ain't exactly our preference, it sure beats the alternative."
    [48]
     1 string data = "..."
    [49]
-    1 string data = "And what’s the alternative?"
+    1 string data = "And what's the alternative?"
    [50]
     1 string data = "Ask the assassin."
    [51]
@@ -127,11 +127,11 @@
    [56]
     1 string data = "For that you would have to get through that big door leading to the ritual room."
    [57]
-    1 string data = "But in order to do that, you would need to fetch <color=good>The Watchmaker</color>’s master key atop the clock tower."
+    1 string data = "But in order to do that, you would need to fetch <color=good>The Watchmaker</color>'s master key atop the clock tower."
    [58]
     1 string data = "And in order to do that, you would need to break the magic seal on the door leading to the clock tower."
    [59]
-    1 string data = "So, you’re out of luck."
+    1 string data = "So, you're out of luck."
    [60]
     1 string data = "And what makes you think you could take on a Dweller, anyway?"
    [61]
@@ -159,7 +159,7 @@
    [72]
     1 string data = "IT WORKED!"
    [73]
-    1 string data = "CAËL, YOU’RE A GENIUS!"
+    1 string data = "CAËL, YOU'RE A GENIUS!"
    [74]
     1 string data = "What was that?"
    [75]
@@ -175,13 +175,13 @@
    [80]
     1 string data = "You can enter the clock tower now... Just need to get the master key while we finish our preparations."
    [81]
-    1 string data = "The Acolytes are in for a suprise, haha!"
+    1 string data = "The Acolytes are in for a surprise, haha!"
    [82]
     1 string data = "That was SO COOL!"
    [83]
     1 string data = "I wish I could control the light too!"
    [84]
-    1 string data = "Let’s try!"
+    1 string data = "Let's try!"
    [85]
     1 string data = "Come on, we have to finish preparing the device before they return."
    [86]
@@ -277,11 +277,11 @@
    [131]
     1 string data = "Okay, we have a plan."
    [132]
-    1 string data = "You are a bit early, I’m afraid."
+    1 string data = "You are a bit early, I'm afraid."
    [133]
     1 string data = "Good."
    [134]
-    1 string data = "The Dweller of Strife isn’t ready to play just yet."
+    1 string data = "The Dweller of Strife isn't ready to play just yet."
    [135]
     1 string data = "We're taking it down. Step aside, or else!"
    [136]
@@ -291,7 +291,7 @@
    [138]
     1 string data = "Bold, and deluded too!"
    [139]
-    1 string data = "CAËL! Where do you think you’re going?"
+    1 string data = "CAËL! Where do you think you're going?"
    [140]
     1 string data = "Get back to your workshop at once!"
    [141]
@@ -329,17 +329,17 @@
    [157]
     1 string data = "The Solstice Amulet is tingling!"
    [158]
-    1 string data = "Okay, we’ve got the eclipse."
+    1 string data = "Okay, we've got the eclipse."
    [159]
-    1 string data = "Let’s hurry."
+    1 string data = "Let's hurry."
    [160]
     1 string data = "There you are!"
    [161]
-    1 string data = "Caël, what’s the plan?"
+    1 string data = "Caël, what's the plan?"
    [162]
     1 string data = "You just fight this thing as hard as you can and the crystal will absorb some of the energy you unleash."
    [163]
-    1 string data = "Whenever it‘s fully charged, it will fire."
+    1 string data = "Whenever it's fully charged, it will fire."
    [164]
     1 string data = "Understood!"
    [165]
@@ -351,7 +351,7 @@
    [168]
     1 string data = "You bet."
    [169]
-    1 string data = "We can't do much, but we’ll support you however we can."
+    1 string data = "We can't do much, but we'll support you however we can."
    [170]
     1 string data = "I am not touching the Dweller."
    [171]
@@ -367,9 +367,9 @@
    [176]
     1 string data = "[OFFCHAR]!"
    [177]
-    1 string data = "Let’s... keep fighting..."
+    1 string data = "Let's... keep fighting..."
    [178]
-    1 string data = "They can’t do it."
+    1 string data = "They can't do it."
    [179]
     1 string data = "But..."
    [180]
@@ -379,9 +379,9 @@
    [182]
     1 string data = "WELL?"
    [183]
-    1 string data = "There are rules. I can’t touch a Dweller."
+    1 string data = "There are rules. I can't touch a Dweller."
    [184]
-    1 string data = "Hey, that’s not fair! We’ve been nothing but nice to you!"
+    1 string data = "Hey, that's not fair! We've been nothing but nice to you!"
    [185]
     1 string data = "You agreed to my terms."
    [186]
@@ -391,7 +391,7 @@
    [188]
     1 string data = "Oh, you have really done it now!"
    [189]
-    1 string data = "What’s happening?"
+    1 string data = "What's happening?"
    [190]
     1 string data = "Let me do the talking. And whatever happens, DO NOT attract his attention."
    [191]
@@ -403,7 +403,7 @@
    [194]
     1 string data = "I thought we had a deal."
    [195]
-    1 string data = "It wasn’t me."
+    1 string data = "It wasn't me."
    [196]
     1 string data = "Oh, spare me the old excuse."
    [197]
@@ -505,7 +505,7 @@
    [245]
     1 string data = "Then let us make sure you are not needed for a very long time. Go now, follow the Dweller and the Acolytes."
    [246]
-    1 string data = "Valere, it’s not too late if-"
+    1 string data = "Valere, it's not too late if-"
    [247]
     1 string data = "We have nothing to talk about."
    [248]
@@ -553,15 +553,15 @@
    [269]
     1 string data = "Get behind us!"
    [270]
-    1 string data = "An eye for an eye then, Resh’an?"
+    1 string data = "An eye for an eye then, Resh'an?"
    [271]
     1 string data = "..."
    [272]
-    1 string data = "A single hit. That’s the deal."
+    1 string data = "A single hit. That's the deal."
    [273]
-    1 string data = "Why, afraid they can’t take more?"
+    1 string data = "Why, afraid they can't take more?"
    [274]
-    1 string data = "Do your worst! You’re nothing but a loser!"
+    1 string data = "Do your worst! You're nothing but a loser!"
    [275]
     1 string data = "GARL!"
    [276]
@@ -573,17 +573,17 @@
    [279]
     1 string data = "I thought we established that stopping time was impossible..."
    [280]
-    1 string data = "How do you do it, Resh’an?"
+    1 string data = "How do you do it, Resh'an?"
    [281]
-    1 string data = "It isn’t really stopped."
+    1 string data = "It isn't really stopped."
    [282]
-    1 string data = "I had an epiphany while experimenting with timeloops--time could be brought to a near complete stop by creating-"
+    1 string data = "I had an epiphany while experimenting with time loops--time could be brought to a near complete stop by creating-"
    [283]
     1 string data = "An infinitely short recursive sequence. Genius."
    [284]
-    1 string data = "And I suppose these crystals are what is holding the timeloop together?"
+    1 string data = "And I suppose these crystals are what is holding the time loop together?"
    [285]
-    1 string data = "They’re beautiful. What do you call them?"
+    1 string data = "They're beautiful. What do you call them?"
    [286]
     1 string data = "<color=magic>Time Shards</color>."
    [287]
@@ -607,7 +607,7 @@
    [296]
     1 string data = "These Solstice Warriors. Why are you traveling with them?"
    [297]
-    1 string data = "They’re not ready to ascend."
+    1 string data = "They're not ready to ascend."
    [298]
     1 string data = "We will see."
    [299]
@@ -625,11 +625,11 @@
    [305]
     1 string data = "AND SO IS MINE!"
    [306]
-    1 string data = "You know what, I agree. Let’s skip the usual debate."
+    1 string data = "You know what, I agree. Let's skip the usual debate."
    [307]
     1 string data = "But to answer your question: Yes, I do believe these two will drive you out from your current stronghold."
    [308]
-    1 string data = "Oh, don’t make me laugh!"
+    1 string data = "Oh, don't make me laugh!"
    [309]
     1 string data = "Even if they somehow made it across the Sea of Stars, the sorceress would be my champion."
    [310]
@@ -639,7 +639,7 @@
    [312]
     1 string data = "Now would you look at that!"
    [313]
-    1 string data = "Resh’an wants to pit innocent Children of the Solstice against their former mentor, and somehow I’M THE BAD GUY?"
+    1 string data = "Resh'an wants to pit innocent Children of the Solstice against their former mentor, and somehow I'M THE BAD GUY?"
    [314]
     1 string data = "..."
    [315]
@@ -663,13 +663,13 @@
    [324]
     1 string data = "No!"
    [325]
-    1 string data = "Resh’an! Do something!"
+    1 string data = "Resh'an! Do something!"
    [326]
     1 string data = "He took a direct hit and has no innate magic to protect himself."
    [327]
-    1 string data = "Even I can’t help. I’m sorry."
+    1 string data = "Even I can't help. I'm sorry."
    [328]
-    1 string data = "Haha! Who’s the "loser" now, huh?"
+    1 string data = "Haha! Who's the "loser" now, huh?"
    [329]
     1 string data = "You'll be dead in a few moments. Any last words?"
    [330]
@@ -677,7 +677,7 @@
    [331]
     1 string data = "(Garl... no...)"
    [332]
-    1 string data = "WE CAN’T LOSE YOU!!"
+    1 string data = "WE CAN'T LOSE YOU!!"
    [333]
     1 string data = "Huh?.."
    [334]
@@ -695,9 +695,9 @@
    [340]
     1 string data = "The Elder Mist. We have to go right now."
    [341]
-    1 string data = "What? That’s way too far, Garl is dying!"
+    1 string data = "What? That's way too far, Garl is dying!"
    [342]
-    1 string data = "Don’t you see, Valere?"
+    1 string data = "Don't you see, Valere?"
    [343]
     1 string data = "The distance is always short if we fly away."
    [344]
@@ -725,35 +725,35 @@
    [355]
     1 string data = "If leaving the castle wasn't a death sentence for us, we would have attended the ceremony..."
    [356]
-    1 string data = "It’s okay, don’t worry about it."
+    1 string data = "It's okay, don't worry about it."
    [357]
     1 string data = "We need your help, Caël."
    [358]
-    1 string data = "Sure, what’s the situation?"
+    1 string data = "Sure, what's the situation?"
    [359]
-    1 string data = "It’s a long story. Something about a machine."
+    1 string data = "It's a long story. Something about a machine."
    [360]
     1 string data = "Oh I LOVE stories!"
    [361]
     1 string data = "Machines too, in fact."
    [362]
-    1 string data = "Let’s hear it."
+    1 string data = "Let's hear it."
    [363]
-    1 string data = "Back in Seraï’s world..."
+    1 string data = "Back in Seraï's world..."
    [364]
     1 string data = "...And reconnecting the sun and moon is our only chance at taking down the Dweller of Dread."
    [365]
     1 string data = "I see. So that's why we had to make so many condensers..."
    [366]
-    1 string data = "And the Catalyst’s kernel... I never thought I’d get to see it for myself."
+    1 string data = "And the Catalyst's kernel... I never thought I'd get to see it for myself."
    [367]
     1 string data = "I beg your pardon, but that's "AI Core." I have no voluntary ties to the Catalyst."
    [368]
-    1 string data = "We understand you can’t leave this castle, but we were hoping you could find some way to help."
+    1 string data = "We understand you can't leave this castle, but we were hoping you could find some way to help."
    [369]
     1 string data = "There's always a way, but we will need some time..."
    [370]
-    1 string data = "Oh, and I’ll need the Lore Grimoire, too."
+    1 string data = "Oh, and I'll need the Lore Grimoire, too."
    [371]
     1 string data = "Hmm... Just rip out the pages you need. I can't risk being unable to record something while you work!"
    [372]
@@ -761,7 +761,7 @@
    [373]
     1 string data = "Whatever you need. We can take this opportunity to visit some old friends."
    [374]
-    1 string data = "Run along then. We’ll be ready when you return."
+    1 string data = "Run along then. We'll be ready when you return."
    [375]
     1 string data = "Gather around everyone, we have a lot on our plate!"
    [376]
@@ -781,7 +781,7 @@
    [383]
     1 string data = "Please be gentle."
    [384]
-    1 string data = "So you’re saying your only function was attaching souls to machines?"
+    1 string data = "So you're saying your only function was attaching souls to machines?"
    [385]
     1 string data = "Everything was automated. I never understood why I had to be made sentient."
    [386]
@@ -789,23 +789,23 @@
    [387]
     1 string data = "Just another cruel joke..."
    [388]
-    1 string data = "Well, you’re free now. Might be time for a fresh start."
+    1 string data = "Well, you're free now. Might be time for a fresh start."
    [389]
     1 string data = "Oh? This idea is truly pleasing!"
    [390]
     1 string data = "You were right. Everything combined into the missing pieces we were looking for."
    [391]
-    1 string data = "Great. Let’s start building, double-time!"
+    1 string data = "Great. Let's start building, double-time!"
    [392]
     1 string data = "It should only take a few seconds anyway, right?"
    [393]
     1 string data = "Oh... I am not too sure that this is a good idea."
    [394]
-    1 string data = "Come on! It’s for a good cause for once."
+    1 string data = "Come on! It's for a good cause for once."
    [395]
     1 string data = "..."
    [396]
-    1 string data = "You’ve seen the instructions too, there’s no way they’ll be able to reprogram Sky Base on their own."
+    1 string data = "You've seen the instructions too, there's no way they'll be able to reprogram Sky Base on their own."
    [397]
     1 string data = "..."
    [398]
@@ -817,7 +817,7 @@
    [401]
     1 string data = "I... I suppose so..."
    [402]
-    1 string data = "Alright! Plus, our design is pretty slick, you’ll see."
+    1 string data = "Alright! Plus, our design is pretty slick, you'll see."
    [403]
     1 string data = "Load it up!"
    [404]
@@ -859,7 +859,7 @@
    [422]
     1 string data = "Okay. Engage primary function."
    [423]
-    1 string data = "It’s time."
+    1 string data = "It's time."
    [424]
     1 string data = "We can do this!"
    [425]
@@ -881,19 +881,19 @@
    [433]
     1 string data = "(Not too bad all things considered.)"
    [434]
-    1 string data = "(Hey! Don’t do that!)"
+    1 string data = "(Hey! Don't do that!)"
    [435]
     1 string data = "(Haha! Got you!)"
    [436]
     1 string data = "(Hahaha!)"
    [437]
-    1 string data = "I don’t see a release button."
+    1 string data = "I don't see a release button."
    [438]
     1 string data = "Oh, is that the big guy?"
    [439]
     1 string data = "Punch the pod really hard!"
    [440]
-    1 string data = "That’s better!"
+    1 string data = "That's better!"
    [441]
     1 string data = "Vision works perfectly."
    [442]
@@ -907,7 +907,7 @@
    [446]
     1 string data = "Uh... yes?"
    [447]
-    1 string data = "So you’re Caël?"
+    1 string data = "So you're Caël?"
    [448]
     1 string data = "Well... partly?"
    [449]

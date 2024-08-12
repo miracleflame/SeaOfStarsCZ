@@ -13,7 +13,7 @@
   1 Array Array (156 items)
    0 int size = 156
    [0]
-    1 string data = "THE ELDER HASN’T RETURNED!"
+    1 string data = "THE ELDER HASN'T RETURNED!"
    [1]
     1 string data = "<color=bad>MALKOMUD</color> WILL KILL US ALL!"
    [2]
@@ -23,35 +23,35 @@
    [4]
     1 string data = "Well..."
    [5]
-    1 string data = "Of course, they’re Solstice Warriors!"
+    1 string data = "Of course, they're Solstice Warriors!"
    [6]
     1 string data = "Garl!"
    [7]
-    1 string data = "It’s true, no? We should help if we can!"
+    1 string data = "It's true, no? We should help if we can!"
    [8]
-    1 string data = "What’s the matter?"
+    1 string data = "What's the matter?"
    [9]
-    1 string data = "It’s Malkomud, the earth elemental wizard..."
+    1 string data = "It's Malkomud, the earth elemental wizard..."
    [10]
-    1 string data = "We’re just a peaceful little outpost, taking care of the mine’s wind tunnels."
+    1 string data = "We're just a peaceful little outpost, taking care of the mine's wind tunnels."
    [11]
-    1 string data = "It’s our job it is, to keep them unobstructed, so that the wind can play the melody for <color=bad>The Sleeper</color>."
+    1 string data = "It's our job it is, to keep them unobstructed, so that the wind can play the melody for <color=bad>The Sleeper</color>."
    [12]
     1 string data = "!!"
    [13]
-    1 string data = "But now Malkomud has taken over the mines, so we can’t go in anymore."
+    1 string data = "But now Malkomud has taken over the mines, so we can't go in anymore."
    [14]
     1 string data = "And if The Sleeper wakes, it will be THE END OF THE WORLD!"
    [15]
-    1 string data = "What’s more, he clogged the tunnel powering the great elevator’s windmill, so we can’t even go to <color=location>Brisk</color> to ask for help..."
+    1 string data = "What's more, he clogged the tunnel powering the great elevator's windmill, so we can't even go to <color=location>Brisk</color> to ask for help..."
    [16]
-    1 string data = "If this continues, Malkomud’s minions will start pouring out of the mines, and..."
+    1 string data = "If this continues, Malkomud's minions will start pouring out of the mines, and..."
    [17]
     1 string data = "And..."
    [18]
-    1 string data = "It's okay, we’re here to help. What happened next?"
+    1 string data = "It's okay, we're here to help. What happened next?"
    [19]
-    1 string data = "The... the elder went in to try and stop him but, it’s been so long..."
+    1 string data = "The... the elder went in to try and stop him but, it's been so long..."
    [20]
     1 string data = "Where's the entrance?"
    [21]
@@ -69,7 +69,7 @@
    [27]
     1 string data = "THE ELDER WILL RETURN!"
    [28]
-    1 string data = "MALKOMUD WON’T KILL US ALL!"
+    1 string data = "MALKOMUD WON'T KILL US ALL!"
    [29]
     1 string data = "YAY!"
    [30]
@@ -113,7 +113,7 @@
    [49]
     1 string data = "It's got all sorts of people. You're bound to find what you're looking for."
    [50]
-    1 string data = "Oh I can’t wait, there might even be a tavern!"
+    1 string data = "Oh I can't wait, there might even be a tavern!"
    [51]
     1 string data = "Let's try that lift."
    [52]

@@ -143,7 +143,7 @@
    [64]
     1 string data = "Malkomud's clogging the Mine's wind tunnels. We have to do something before The Sleeper wakes up!"
    [65]
-    1 string data = "It's not fair how people have been treating Malkomud. "
+    1 string data = "It's not fair how people have been treating Malkomud."
    [66]
     1 string data = "Good thing we fixed the big lift in the Molekin Outpost--I can't wait to see Brisk!"
    [67]
@@ -161,7 +161,7 @@
    [73]
     1 string data = "The plan worked out pretty good in the end."
    [74]
-    1 string data = "We should rest at the inn"
+    1 string data = "We should rest at the inn."
    [75]
     1 string data = "We should hurry into the woods."
    [76]
@@ -325,7 +325,7 @@
    [155]
     1 string data = "Torment Peak is north of Lake Docarria, on Watcher Island."
    [156]
-    1 string data = "Now that the prism is back on the Watcher statue, you should be able to drive a light beam through it to find the cache Resh'an was talking about. "
+    1 string data = "Now that the prism is back on the Watcher statue, you should be able to drive a light beam through it to find the cache Resh'an was talking about."
    [157]
     1 string data = "Glad that Dweller is behind us now."
    [158]
@@ -367,7 +367,7 @@
    [176]
     1 string data = "It mustn't have been easy, but you did great during the duel."
    [177]
-    1 string data = "We'll be fighting the Dweller soon. I know you can do this! "
+    1 string data = "We'll be fighting the Dweller soon. I know you can do this!"
    [178]
     1 string data = "I don't trust the alchemist yet."
    [179]
@@ -395,7 +395,7 @@
    [190]
     1 string data = "I'll do anything for Garl…"
    [191]
-    1 string data = "That was really something, what you did with the water bridge. "
+    1 string data = "That was really something, what you did with the water bridge."
    [192]
     1 string data = "The strange device just south of Mesa Island. It seems out of reach, but maybe we should look at the small island just below it."
    [193]
@@ -457,7 +457,7 @@
    [221]
     1 string data = "The way to the Sea of Stars has been opened. The way is through the four sunken giants, just north of Wraith Island."
    [222]
-    1 string data = " Seraï's village is to the east of this world, on an island with blue sand."
+    1 string data = "Seraï's village is to the east of this world, on an island with blue sand."
    [223]
     1 string data = "..."
    [224]
@@ -597,7 +597,7 @@
    [291]
     1 string data = "I wouldn't presume to understand the Great Alchemist's mind, but I believe it is he who meant to thank you."
    [292]
-    1 string data = "[MAINCHAR], a word, if I may? "
+    1 string data = "[MAINCHAR], a word, if I may?"
    [293]
     1 string data = "Of course, what's up?"
    [294]

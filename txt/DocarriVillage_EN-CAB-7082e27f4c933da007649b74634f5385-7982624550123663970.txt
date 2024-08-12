@@ -19,7 +19,7 @@
    [2]
     1 string data = "No way we can hold our breath for that long. "
    [3]
-    1 string data = "Well, if it comes down to it, there’s something I’ve been meaning to-"
+    1 string data = "Well, if it comes down to it, there's something I've been meaning to-"
    [4]
     1 string data = "Hey, see that bell over there?"
    [5]
@@ -29,11 +29,11 @@
    [7]
     1 string data = "Right."
    [8]
-    1 string data = "Let’s hit it and see what happens."
+    1 string data = "Let's hit it and see what happens."
    [9]
     1 string data = "Welcome to <color=location>Lake Docarria</color>, travelers."
    [10]
-    1 string data = "Hello! We’re looking for the Oracle of Tides!"
+    1 string data = "Hello! We're looking for the Oracle of Tides!"
    [11]
     1 string data = "Why yes, your coming has been foreseen. Solstice Warriors are always welcome here."
    [12]
@@ -59,7 +59,7 @@
    [22]
     1 string data = "Of course, go for it!"
    [23]
-    1 string data = "I think I’ll do this one!"
+    1 string data = "I think I'll do this one!"
    [24]
     1 string data = "Or maybe this one!"
    [25]
@@ -89,9 +89,9 @@
    [37]
     1 string data = "Absolutely, provided you stay close to one another."
    [38]
-    1 string data = "It’s probably best if you hold onto it then."
+    1 string data = "It's probably best if you hold onto it then."
    [39]
-    1 string data = "I will unlock the lake’s north gate for you. Your destination is to the northwest."
+    1 string data = "I will unlock the lake's north gate for you. Your destination is to the northwest."
    [40]
     1 string data = "Make for the sacred grove, and remember to steer clear of <color=bad>Torment Peak</color>!"
    [41]
@@ -109,7 +109,7 @@
    [47]
     1 string data = "The monster you are hunting has put to shame a sizable force of your order in the past, and now it seems only the two of you remain."
    [48]
-    1 string data = "Still, you would venture into The Fleshmancer’s old castle?"
+    1 string data = "Still, you would venture into The Fleshmancer's old castle?"
    [49]
     1 string data = "Yes. Whatever it takes."
    [50]
@@ -117,7 +117,7 @@
    [51]
     1 string data = "Allow me a moment to commune with the waters, and see what the flow of time is willing to reveal."
    [52]
-    1 string data = "We’re in a hurry, the Dweller of Strife could wake at any moment!"
+    1 string data = "We're in a hurry, the Dweller of Strife could wake at any moment!"
    [53]
     1 string data = "Can you get us onto Mesa Island or not?"
    [54]
@@ -137,7 +137,7 @@
    [61]
     1 string data = "Warrior Cook! Step forward!"
    [62]
-    1 string data = "Hey, that’s exactly-"
+    1 string data = "Hey, that's exactly-"
    [63]
     1 string data = "Step forward!"
    [64]
@@ -169,7 +169,7 @@
    [77]
     1 string data = "At long last, the ones we have been expecting for centuries have come."
    [78]
-    1 string data = "This waterfall is the gateway to our world’s greatest mystery. One that is yours to unveil."
+    1 string data = "This waterfall is the gateway to our world's greatest mystery. One that is yours to unveil."
    [79]
     1 string data = "<color=location>The Tower of Antsudlo</color>."
    [80]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "Of all the possible outcomes, there is not a single one where you defeat the Dweller of Strife in battle."
    [87]
-    1 string data = "But there must be a way! Didn’t you just say we might be able to “alter fate”?"
+    1 string data = "But there must be a way! Didn't you just say we might be able to “alter fate”?"
    [88]
     1 string data = "I do not make the rules, my child. You have had plenty of time to stare at the night inside of you."
    [89]
@@ -209,7 +209,7 @@
    [97]
     1 string data = "(But alas, it appears the problem begets the solution...)"
    [98]
-    1 string data = "We’re still going to try! Isn't there anything you can do to help?"
+    1 string data = "We're still going to try! Isn't there anything you can do to help?"
    [99]
     1 string data = "It is not within my power to help you make it onto Mesa Island."
    [100]

@@ -21,7 +21,7 @@
    [3]
     1 string data = "Now, wait a minute..."
    [4]
-    1 string data = "There’s more to you!"
+    1 string data = "There's more to you!"
    [5]
     1 string data = "!!"
    [6]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "That's not much to go on..."
    [34]
-    1 string data = "Well, seems that necromoancer ain't that much ov the careful type."
+    1 string data = "Well, seems that necromancer ain't that much ov the careful type."
    [35]
     1 string data = "Crew's been seein' her enter some secret passage. Mayhaps she be hidin' a thing or two of relevance there."
    [36]

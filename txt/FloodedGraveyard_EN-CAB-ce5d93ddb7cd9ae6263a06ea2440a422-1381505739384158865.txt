@@ -17,7 +17,7 @@
    [1]
     1 string data = "Should you wish to save your hide, a green flame you must provide!"
    [2]
-    1 string data = "Let’s look around for her lair. Stories say it is "extravagant.""
+    1 string data = "Let's look around for her lair. Stories say it is "extravagant.""
    [3]
     1 string data = "This has to be it."
    [4]

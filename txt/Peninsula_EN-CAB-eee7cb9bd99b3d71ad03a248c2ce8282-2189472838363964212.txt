@@ -37,15 +37,15 @@
    [11]
     1 string data = "With everything happening it seems there will never be time to explain, so..."
    [12]
-    1 string data = "Please don’t tell my crew."
+    1 string data = "Please don't tell my crew."
    [13]
     1 string data = "Seraï, we sort of knew already..."
    [14]
     1 string data = "!?!"
    [15]
-    1 string data = "Then why didn’t you say anything?"
+    1 string data = "Then why didn't you say anything?"
    [16]
-    1 string data = "You’re clearly on our side, it’s all that matters."
+    1 string data = "You're clearly on our side, it's all that matters."
    [17]
     1 string data = "Yeah whatever your reasons are, they must be good."
    [18]
@@ -57,9 +57,9 @@
    [21]
     1 string data = "..."
    [22]
-    1 string data = "I’m sorry, I should have..."
+    1 string data = "I'm sorry, I should have..."
    [23]
-    1 string data = "It’s okay, we're a team now."
+    1 string data = "It's okay, we're a team now."
    [24]
     1 string data = "So you understand claiming The Vespertine won't be as easy as we thought."
    [25]

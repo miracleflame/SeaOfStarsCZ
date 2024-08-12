@@ -13,7 +13,7 @@
   1 Array Array (359 items)
    0 int size = 359
    [0]
-    1 string data = "This place seems huge, but I don’t sense any evil anywhere..."
+    1 string data = "This place seems huge, but I don't sense any evil anywhere..."
    [1]
     1 string data = "It looks so ancient..."
    [2]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "Now, who have you come to commemorate today?"
    [13]
-    1 string data = "Oh, we... aren’t here for that..."
+    1 string data = "Oh, we... aren't here for that..."
    [14]
     1 string data = "Oh?"
    [15]
@@ -49,11 +49,11 @@
    [17]
     1 string data = "You say people have come to live near The Crypt, then?"
    [18]
-    1 string data = "Yes, if that’s okay with you. We really need to make sure they are safe."
+    1 string data = "Yes, if that's okay with you. We really need to make sure they are safe."
    [19]
     1 string data = "Oh, absolutely!"
    [20]
-    1 string data = "Visitors, neighbors, the more the merrier! All I want is for the Crypt’s mementos to be witnessed."
+    1 string data = "Visitors, neighbors, the more the merrier! All I want is for the Crypt's mementos to be witnessed."
    [21]
     1 string data = "This place contains thousands of stones, statues and monuments dedicated to the memory of the early builders and visionaries of this little world of ours."
    [22]
@@ -61,11 +61,11 @@
    [23]
     1 string data = "Feel free to appreciate the place and its monuments at your convenience."
    [24]
-    1 string data = "If there is a specific piece you are looking for and have its coordinates, I’ll be happy to show you to it."
+    1 string data = "If there is a specific piece you are looking for and have its coordinates, I'll be happy to show you to it."
    [25]
     1 string data = "Otherwise, rest assured that this crypt is entirely neutral and optional, so if you would rather move on with your adventures, you can do so right away."
    [26]
-    1 string data = "Don’t be a stranger now!"
+    1 string data = "Don't be a stranger now!"
    [27]
     1 string data = "What were your plans in The Crypt today?"
    [28]
@@ -95,33 +95,33 @@
    [40]
     1 string data = "This memorial doesn't fit here."
    [41]
-    1 string data = "How’s the progress?"
+    1 string data = "How's the progress?"
    [42]
     1 string data = "Pretty good!"
    [43]
-    1 string data = "I’ve been thinking about Yomara’s notes. You know, about the flood."
+    1 string data = "I've been thinking about Yomara's notes. You know, about the flood."
    [44]
-    1 string data = "No worries, I’ll make the big window extra thick!"
+    1 string data = "No worries, I'll make the big window extra thick!"
    [45]
     1 string data = "Well, do you like the central piece?"
    [46]
-    1 string data = "Yes. It’s perfect."
+    1 string data = "Yes. It's perfect."
    [47]
-    1 string data = "How’s the progress?"
+    1 string data = "How's the progress?"
    [48]
     1 string data = "Pretty good!"
    [49]
-    1 string data = "I’ve been thinking about Yomara’s notes. You know, about the flood."
+    1 string data = "I've been thinking about Yomara's notes. You know, about the flood."
    [50]
-    1 string data = "No worries, I’ll make the big window extra thick!"
+    1 string data = "No worries, I'll make the big window extra thick!"
    [51]
     1 string data = "Well, do you like the central piece?"
    [52]
-    1 string data = "Yes. It’s perfect."
+    1 string data = "Yes. It's perfect."
    [53]
     1 string data = "Ha!"
    [54]
-    1 string data = "You’ll be late if you don’t leave soon."
+    1 string data = "You'll be late if you don't leave soon."
    [55]
     1 string data = "Oops! Yeah I guess I should head out."
    [56]
@@ -133,7 +133,7 @@
    [59]
     1 string data = "Are you ready to go, then?"
    [60]
-    1 string data = "Oh yeah, can’t be late!"
+    1 string data = "Oh yeah, can't be late!"
    [61]
     1 string data = "The wall looks rather <color=magic>flimsy</color>..."
    [62]
@@ -197,7 +197,7 @@
    [91]
     1 string data = "This team is awesome. What a blessing."
    [92]
-    1 string data = "I’m so blessed as a community manager. The Sea of Stars community is simply the best, don’t you think?"
+    1 string data = "I'm so blessed as a community manager. The Sea of Stars community is simply the best, don't you think?"
    [93]
     1 string data = "Sorry I can't talk, have to reply to all these comments!"
    [94]
@@ -397,9 +397,9 @@
    [191]
     1 string data = "Hey, are you here for happy hour?"
    [192]
-    1 string data = "*Buddy stares soflty, relieving a tightness in your chest you didn't even know was there.*"
+    1 string data = "*Buddy stares softly, relieving a tightness in your chest you didn't even know was there.*"
    [193]
-    1 string data = "I’m Olivier from Berzerk! I coded mostly under-the-hood stuff but I also managed the publishing of the game. If you are playing, it means we did it! Yay! Hope you enjoy it!"
+    1 string data = "I'm Olivier from Berzerk! I coded mostly under-the-hood stuff but I also managed the publishing of the game. If you are playing, it means we did it! Yay! Hope you enjoy it!"
    [194]
     1 string data = "(I should probably start hooking up the achievements...)"
    [195]
@@ -419,7 +419,7 @@
    [202]
     1 string data = "..."
    [203]
-    1 string data = "Yo! I’m Reece and I play acoustic instruments. I don’t really know how I got here but hot dog am I glad to be a part of this rad game! Also, feel free to mail me a hot dog!"
+    1 string data = "Yo! I'm Reece and I play acoustic instruments. I don't really know how I got here but hot dog am I glad to be a part of this rad game! Also, feel free to mail me a hot dog!"
    [204]
     1 string data = "..."
    [205]
@@ -439,19 +439,19 @@
    [212]
     1 string data = "Have we met before?"
    [213]
-    1 string data = "Well, if we have and you’re about to complain about some time paradox, maybe consider that it was you who just broke the fourth wall."
+    1 string data = "Well, if we have and you're about to complain about some time paradox, maybe consider that it was you who just broke the fourth wall."
    [214]
-    1 string data = "You’re probably not getting a raise either, but the cabinet’s all yours if you wanna knock yourself out."
+    1 string data = "You're probably not getting a raise either, but the cabinet's all yours if you wanna knock yourself out."
    [215]
-    1 string data = "Well, look at you! You’ve made it to the end."
+    1 string data = "Well, look at you! You've made it to the end."
    [216]
     1 string data = "What?"
    [217]
-    1 string data = "You did it all, it’s over."
+    1 string data = "You did it all, it's over."
    [218]
     1 string data = "You just met the actual team, what more do you want?"
    [219]
-    1 string data = "The show’s over, I’m going to bed and so should you."
+    1 string data = "The show's over, I'm going to bed and so should you."
    [220]
     1 string data = "..."
    [221]
@@ -481,7 +481,7 @@
    [233]
     1 string data = "No"
    [234]
-    1 string data = "Are you sure? There’s no cutting me off."
+    1 string data = "Are you sure? There's no cutting me off."
    [235]
     1 string data = "Yes"
    [236]
@@ -501,7 +501,7 @@
    [243]
     1 string data = "..."
    [244]
-    1 string data = "Okay, let’s start slow."
+    1 string data = "Okay, let's start slow."
    [245]
     1 string data = "Congratulations, you defeated all the bosses!"
    [246]
@@ -519,27 +519,27 @@
    [252]
     1 string data = "Ugh, last time I tried being boring I ended up making friends who thought we needed more products using “alpha and omega” in their marketing."
    [253]
-    1 string data = "I’m not about to risk that happening again, so let’s move on to talking in absolutes, shall we?"
+    1 string data = "I'm not about to risk that happening again, so let's move on to talking in absolutes, shall we?"
    [254]
-    1 string data = "To make a good video game, you need to have grass in the first area, lava close to the fake ending, and a secret boss that’s harder than the final boss."
+    1 string data = "To make a good video game, you need to have grass in the first area, lava close to the fake ending, and a secret boss that's harder than the final boss."
    [255]
     1 string data = "Look, I do make the rules. You can either disagree or take some notes."
    [256]
-    1 string data = "For what it’s worth I hope you disagree though, if only for the irony of you standing here right now after having turned every stone."
+    1 string data = "For what it's worth I hope you disagree though, if only for the irony of you standing here right now after having turned every stone."
    [257]
-    1 string data = "If you find me annoying already, just consider that it’s not like healthy sleep schedules come easy for me. Also, I don’t brush my teeth at work after lunch."
+    1 string data = "If you find me annoying already, just consider that it's not like healthy sleep schedules come easy for me. Also, I don't brush my teeth at work after lunch."
    [258]
     1 string data = "I consider myself quite bearable, in fact."
    [259]
-    1 string data = "Anyway, thanks for the warm-up. I’ll be here if you feel like getting real."
+    1 string data = "Anyway, thanks for the warm-up. I'll be here if you feel like getting real."
    [260]
-    1 string data = "Still here? I’ve got more if you want, but it goes a bit deeper."
+    1 string data = "Still here? I've got more if you want, but it goes a bit deeper."
    [261]
     1 string data = "Yes"
    [262]
     1 string data = "No"
    [263]
-    1 string data = "Are you absolutely sure? There’s no cutting me off, and I tend to ramble."
+    1 string data = "Are you absolutely sure? There's no cutting me off, and I tend to ramble."
    [264]
     1 string data = "Yes"
    [265]
@@ -547,35 +547,35 @@
    [266]
     1 string data = "Okay, you asked."
    [267]
-    1 string data = "You know the kind of people who use a niche word they just learned as if everyone knew what it was, but it’s really only so someone will ask them to explain it?"
+    1 string data = "You know the kind of people who use a niche word they just learned as if everyone knew what it was, but it's really only so someone will ask them to explain it?"
    [268]
     1 string data = "That used to get to me, like there was some injustice in people earning points through manipulation and lying by omission."
    [269]
     1 string data = "But let me tell you one perk about getting older: you start seeing the later chapters of some stories, and they have a lot to teach."
    [270]
-    1 string data = "Then one day the realiztion just hit me: A lot of people are part of a race where no one even knows what they’re trying to win."
+    1 string data = "Then one day the realization just hit me: A lot of people are part of a race where no one even knows what they're trying to win."
    [271]
-    1 string data = "And I don’t know what the supposed prize is either, I just know that I don’t want it."
+    1 string data = "And I don't know what the supposed prize is either, I just know that I don't want it."
    [272]
-    1 string data = "It was kind of freeing, to realize that there can’t be anything of substance in a game that doesn’t value integrity."
+    1 string data = "It was kind of freeing, to realize that there can't be anything of substance in a game that doesn't value integrity."
    [273]
     1 string data = "Now, all I feel towards that is slight disappointment when I think of the friendships that could have been."
    [274]
     1 string data = "But nothing too disappointing, just kind of like noticing that the bread contains raisins."
    [275]
-    1 string data = "So that’s what I do now, I avoid raisin bread without engaging, and it’s something I wish I'd started doing decades ago."
+    1 string data = "So that's what I do now, I avoid raisin bread without engaging, and it's something I wish I'd started doing decades ago."
    [276]
-    1 string data = "Are you still with me? I’ll save the rest of the real talk for the final part in case this is your stop."
+    1 string data = "Are you still with me? I'll save the rest of the real talk for the final part in case this is your stop."
    [277]
-    1 string data = "There won’t be any judgement from this side in any case."
+    1 string data = "There won't be any judgement from this side in any case."
    [278]
-    1 string data = "Let’s tone it down by talking about music."
+    1 string data = "Let's tone it down by talking about music."
    [279]
     1 string data = "You ever go to a metal show where the musicians paint their faces?"
    [280]
     1 string data = "I used to think they were just exaggerating their characters to play to the crowd."
    [281]
-    1 string data = "And while I’m sure there’s plenty for whom that’s the reason, it also dawned on me that some probably just need a persona."
+    1 string data = "And while I'm sure there's plenty for whom that's the reason, it also dawned on me that some probably just need a persona."
    [282]
     1 string data = "Something that they can become in order to remove whatever insecurities that would prevent them from engaging in pure expression."
    [283]
@@ -583,15 +583,15 @@
    [284]
     1 string data = "Sort of like how wearing sunglasses can remove the extra layer of social anxiety that comes from eye contact."
    [285]
-    1 string data = "To be honest, I’ve lost count of how many times sunglasses allowed me to say no in public."
+    1 string data = "To be honest, I've lost count of how many times sunglasses allowed me to say no in public."
    [286]
     1 string data = "Anyway, so about those metal shows."
    [287]
-    1 string data = "It’s not lost on me that I might just be imagining all of this, that maybe they all just like the aesthetics and that’s all there is to it."
+    1 string data = "It's not lost on me that I might just be imagining all of this, that maybe they all just like the aesthetics and that's all there is to it."
    [288]
     1 string data = "But they still played an important role in letting me believe in the benefits of personas, and in picturing a viable path to expressing myself."
    [289]
-    1 string data = "If that sounds confusing, the point is that any interpretation of an artist’s work is valid, though it may not represent the artist’s intention."
+    1 string data = "If that sounds confusing, the point is that any interpretation of an artist's work is valid, though it may not represent the artist's intention."
    [290]
     1 string data = "If that still sounds confusing, you could replace painting your face with building a virtual world for all your made up characters to live in."
    [291]
@@ -605,7 +605,7 @@
    [295]
     1 string data = "No"
    [296]
-    1 string data = "Are you absolutely sure? I can’t guarantee it won’t ruin the game for you."
+    1 string data = "Are you absolutely sure? I can't guarantee it won't ruin the game for you."
    [297]
     1 string data = "Yes"
    [298]
@@ -617,9 +617,9 @@
    [301]
     1 string data = "With this whole time traveling business, my memory tends to play tricks on me."
    [302]
-    1 string data = "I don’t remember whether or not we’ve met before, but if we have, you might be wondering how the boy from the well is doing."
+    1 string data = "I don't remember whether or not we've met before, but if we have, you might be wondering how the boy from the well is doing."
    [303]
-    1 string data = "The short answer is that he’s doing better, but I suppose we’re here for the long answer, so let’s do a short recap."
+    1 string data = "The short answer is that he's doing better, but I suppose we're here for the long answer, so let's do a short recap."
    [304]
     1 string data = "The story so far."
    [305]
@@ -641,13 +641,13 @@
    [313]
     1 string data = "And that, in short, is where this story ended five years ago."
    [314]
-    1 string data = "A lot has happened since then, and this journey wouldn’t feel whole without some closure, so here we go. Cloak on, mask off."
+    1 string data = "A lot has happened since then, and this journey wouldn't feel whole without some closure, so here we go. Cloak on, mask off."
    [315]
     1 string data = "It dawned on him somewhere during year two out of five of production. That for all of the sorrow inside him, there was still hate."
    [316]
     1 string data = "Not the externalized kind, but the kind that is directed towards the self. A crippling sense of unworthiness."
    [317]
-    1 string data = "It had festered into a false promise. That with enough effort, something would rise form the ashes at long last."
+    1 string data = "It had festered into a false promise. That with enough effort, something would rise from the ashes at long last."
    [318]
     1 string data = "A belief that the entire world just might be enough for two people to finally see that all along, they'd had someone worth welcoming, worth accepting."
    [319]
@@ -655,7 +655,7 @@
    [320]
     1 string data = "Learning about the notion of healing fantasies completely floored him. His situation ticked all the boxes."
    [321]
-    1 string data = "Life simply didn’t work that way. There could be no "click" moment for abusers, and certainly no travel back in time to set things right."
+    1 string data = "Life simply didn't work that way. There could be no "click" moment for abusers, and certainly no travel back in time to set things right."
    [322]
     1 string data = "All that was left was the future. And while some wounds may heal over time, there were a lot of doors, happy doors, that would remain shut forever."
    [323]
@@ -689,13 +689,13 @@
    [337]
     1 string data = "The foundation she had managed to build within him in the limited time they had spent together during his childhood was carrying him to this day."
    [338]
-    1 string data = "Merci Irène, je t’aime."
+    1 string data = "Merci Irène, je t'aime."
    [339]
     1 string data = "He finally understood that to touch everything with gloves was to touch nothing but gloves. So he took them off, and let the memories flow."
    [340]
     1 string data = "...Riding his bicycle through a puddle of water to mark the road with the wet tire..."
    [341]
-    1 string data = "...Going through the box of popsicles at his friend’s place and trying to see through the wrapper to avoid the orange ones..."
+    1 string data = "...Going through the box of popsicles at his friend's place and trying to see through the wrapper to avoid the orange ones..."
    [342]
     1 string data = "...Feeling so thirsty that he liked to imagine that the first sip only served to give him the energy he needed to chug the glass..."
    [343]
@@ -703,7 +703,7 @@
    [344]
     1 string data = "The place where he could be free. Free to experiment, to learn, to ask, to fail, to persevere, to give up, to overcome, to laugh, to accomplish, to dream."
    [345]
-    1 string data = "He wasn’t just a response, he was someone who understood how to build a sanctuary, and who knew what it was like to need one."
+    1 string data = "He wasn't just a response, he was someone who understood how to build a sanctuary, and who knew what it was like to need one."
    [346]
     1 string data = "There had to be others, people he would never meet, who needed a place like he had known, so he had to make it the best he could."
    [347]
@@ -711,7 +711,7 @@
    [348]
     1 string data = "The sudden realization made him uncomfortable at first, thinking about how vulnerable he had allowed himself to be in front of his teammates over the years."
    [349]
-    1 string data = "But for all his second thoughts there was one thing he couldn’t deny: they were still there."
+    1 string data = "But for all his second thoughts there was one thing he couldn't deny: they were still there."
    [350]
     1 string data = "Each and every one of them listening mindfully every day, plying their craft to help build something they could all be proud of."
    [351]
@@ -721,7 +721,7 @@
    [353]
     1 string data = "With all thoughts of destruction now gone, he set out to complete the project with the intention to create without any hope of recognition."
    [354]
-    1 string data = "The abusers wouldn’t win, not anymore. He was pursuing this because he sincerely wanted to, and he had backup."
+    1 string data = "The abusers wouldn't win, not anymore. He was pursuing this because he sincerely wanted to, and he had backup."
    [355]
     1 string data = "Now with a stronger sense of self, he also took note never to fly so close to the sun again."
    [356]
@@ -729,4 +729,4 @@
    [357]
     1 string data = "Thank you for helping me indulge in some closure, it was much needed."
    [358]
-    1 string data = "I’ll be going now. Papate."
+    1 string data = "I'll be going now. Papate."

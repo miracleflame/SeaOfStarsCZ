@@ -10,8 +10,8 @@
  1 string locCategoryId = "Inventory"
  0 int language = 0
  0 vector strings
-  1 Array Array (849 items)
-   0 int size = 849
+  1 Array Array (852 items)
+   0 int size = 852
    [0]
     1 string data = "Training Sword"
    [1]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Oaken Armor"
    [113]
-    1 string data = "Hardened by crafstmen of a bygone era."
+    1 string data = "Hardened by craftsmen of a bygone era."
    [114]
     1 string data = "Leaf Cape"
    [115]
@@ -517,7 +517,7 @@
    [251]
     1 string data = "~Timed block efficiency +[TIMED_BLOCK_EFFICIENCY], increase damage taken by [FAILED_BLOCK_ADDITIONAL_DAMAGE_PERCENTAGE] when not blocking"
    [252]
-    1 string data = "~Fight end heal percentage"
+    1 string data = "~Fight and heal percentage"
    [253]
     1 string data = "~Heal [FIGHT_END_HEAL_PERCENTAGE] of max hp after a fight"
    [254]
@@ -633,1080 +633,1086 @@
    [309]
     1 string data = "For those who prefer a lighter challenge. Reduces damage taken by <color=magic>30</color>%"
    [310]
-    1 string data = "Apple"
+    1 string data = "Tactician's Mettle"
    [311]
-    1 string data = "Light with a touch of honey."
+    1 string data = "Emphasis on strategy and skill during combat."
    [312]
-    1 string data = "Bone"
+    1 string data = "Enemies have <color=bad>60</color>% damage resistance while casting (locks). Increases player damage taken by <color=bad>35</color>%. Items (snacks) cannot be used in combat. Campfires recover HP up to 50%, and don't recover MP."
    [313]
-    1 string data = "The starting point of most dishes involving sauce."
+    1 string data = "Apple"
    [314]
-    1 string data = "Egg"
+    1 string data = "Light with a touch of honey."
    [315]
-    1 string data = "Easy to learn. Hard to master. Always nutritious."
+    1 string data = "Bone"
    [316]
-    1 string data = "Fine Fish"
+    1 string data = "The starting point of most dishes involving sauce."
    [317]
-    1 string data = "Filletted from higher quality fish."
+    1 string data = "Egg"
    [318]
-    1 string data = "Fine Meat"
+    1 string data = "Easy to learn. Hard to master. Always nutritious."
    [319]
-    1 string data = "Marbled like a dream. Carries the many flavors of the land."
+    1 string data = "Fine Fish"
    [320]
-    1 string data = "Fish"
+    1 string data = "Filletted from higher quality fish."
    [321]
-    1 string data = "Filleted from common fish."
+    1 string data = "Fine Meat"
    [322]
-    1 string data = "Grains"
+    1 string data = "Marbled like a dream. Carries the many flavors of the land."
    [323]
-    1 string data = "Reliable base for carbo-hydrated meals."
+    1 string data = "Fish"
    [324]
-    1 string data = "Lettuce"
+    1 string data = "Filleted from common fish."
    [325]
-    1 string data = "Crisp and refreshing."
+    1 string data = "Grains"
    [326]
-    1 string data = "Maple Syrup"
+    1 string data = "Reliable base for carbo-hydrated meals."
    [327]
-    1 string data = "Underrated yet overpriced."
+    1 string data = "Lettuce"
    [328]
-    1 string data = "Meat"
+    1 string data = "Crisp and refreshing."
    [329]
-    1 string data = "A common protein that fills you up."
+    1 string data = "Maple Syrup"
    [330]
-    1 string data = "Dairy"
+    1 string data = "Underrated yet overpriced."
    [331]
-    1 string data = "Useful to make dough and creamy dishes."
+    1 string data = "Meat"
    [332]
-    1 string data = "Mushroom"
+    1 string data = "A common protein that fills you up."
    [333]
-    1 string data = "Usually found in the corners of damp caverns. Nutty flavor."
+    1 string data = "Dairy"
    [334]
-    1 string data = "Onion"
+    1 string data = "Useful to make dough and creamy dishes."
    [335]
-    1 string data = "Adds depth of flavor when used lightly."
+    1 string data = "Mushroom"
    [336]
-    1 string data = "Peach"
+    1 string data = "Usually found in the corners of damp caverns. Nutty flavor."
    [337]
-    1 string data = "Tastes like a summer day."
+    1 string data = "Onion"
    [338]
-    1 string data = "Bell Pepper"
+    1 string data = "Adds depth of flavor when used lightly."
    [339]
-    1 string data = "Best added late while cooking to preserve crispiness."
+    1 string data = "Peach"
    [340]
-    1 string data = "Potato"
+    1 string data = "Tastes like a summer day."
    [341]
-    1 string data = "Nourishing and easy to grow."
+    1 string data = "Bell Pepper"
    [342]
-    1 string data = "Red Berry"
+    1 string data = "Best added late while cooking to preserve crispiness."
    [343]
-    1 string data = "Common fruit. Juicy and ripe."
+    1 string data = "Potato"
    [344]
-    1 string data = "Seafood"
+    1 string data = "Nourishing and easy to grow."
    [345]
-    1 string data = "The fresher the better."
+    1 string data = "Red Berry"
    [346]
-    1 string data = "Tomato"
+    1 string data = "Common fruit. Juicy and ripe."
    [347]
-    1 string data = "The fruit you eat when the situation calls for vegetables."
+    1 string data = "Seafood"
    [348]
-    1 string data = "Test Ingredient"
+    1 string data = "The fresher the better."
    [349]
-    1 string data = "Test Ingredient Description."
+    1 string data = "Tomato"
    [350]
-    1 string data = "Lunar Trout"
+    1 string data = "The fruit you eat when the situation calls for vegetables."
    [351]
-    1 string data = "a Lunar Trout"
+    1 string data = "Test Ingredient"
    [352]
-    1 string data = "Usually found in the lake near Mooncradle."
+    1 string data = "Test Ingredient Description."
    [353]
     1 string data = "Lunar Trout"
    [354]
-    1 string data = "Crimson Bass"
+    1 string data = "a Lunar Trout"
    [355]
-    1 string data = "a Crimson Bass"
+    1 string data = "Usually found in the lake near Mooncradle."
    [356]
-    1 string data = "A stern fighter that provides a lot to eat."
+    1 string data = "Lunar Trout"
    [357]
     1 string data = "Crimson Bass"
    [358]
-    1 string data = "Man o'War"
+    1 string data = "a Crimson Bass"
    [359]
-    1 string data = "a Man o'War"
+    1 string data = "A stern fighter that provides a lot to eat."
    [360]
-    1 string data = "Manipulate carefully."
+    1 string data = "Crimson Bass"
    [361]
     1 string data = "Man o'War"
    [362]
-    1 string data = "a Bone Pike"
+    1 string data = "a Man o'War"
    [363]
-    1 string data = "Bone Pike"
+    1 string data = "Manipulate carefully."
    [364]
-    1 string data = "a Clockwork Crab"
+    1 string data = "Man o'War"
    [365]
-    1 string data = "Clockwork Crab"
+    1 string data = "a Bone Pike"
    [366]
-    1 string data = "a Cloud Skate"
+    1 string data = "Bone Pike"
    [367]
-    1 string data = "Cloud Skate"
+    1 string data = "a Clockwork Crab"
    [368]
-    1 string data = "a Coil Flounder"
+    1 string data = "Clockwork Crab"
    [369]
-    1 string data = "Coil Flounder"
+    1 string data = "a Cloud Skate"
    [370]
-    1 string data = "a Cybernardl Hermite"
+    1 string data = "Cloud Skate"
    [371]
-    1 string data = "Cybernardl Hermite"
+    1 string data = "a Coil Flounder"
    [372]
-    1 string data = "a Fluorescent Piranha"
+    1 string data = "Coil Flounder"
    [373]
-    1 string data = "Fluorescent Piranha"
+    1 string data = "a Cybernardl Hermite"
    [374]
-    1 string data = "a Ghosturgeon"
+    1 string data = "Cybernardl Hermite"
    [375]
-    1 string data = "Ghosturgeon"
+    1 string data = "a Fluorescent Piranha"
    [376]
-    1 string data = "a Grass Haddock"
+    1 string data = "Fluorescent Piranha"
    [377]
-    1 string data = "Grass Haddock"
+    1 string data = "a Ghosturgeon"
    [378]
-    1 string data = "a Hardshell"
+    1 string data = "Ghosturgeon"
    [379]
-    1 string data = "Hardshell"
+    1 string data = "a Grass Haddock"
    [380]
-    1 string data = "a Laser Burbot"
+    1 string data = "Grass Haddock"
    [381]
-    1 string data = "Laser Burbot"
+    1 string data = "a Hardshell"
    [382]
-    1 string data = "a Lava Koi"
+    1 string data = "Hardshell"
    [383]
-    1 string data = "Lava Koi"
+    1 string data = "a Laser Burbot"
    [384]
-    1 string data = "a Ninja Starfish"
+    1 string data = "Laser Burbot"
    [385]
-    1 string data = "Ninja Starfish"
+    1 string data = "a Lava Koi"
    [386]
-    1 string data = "a Rock Shrimp"
+    1 string data = "Lava Koi"
    [387]
-    1 string data = "Rock Shrimp"
+    1 string data = "a Ninja Starfish"
    [388]
-    1 string data = "a Seakjaw"
+    1 string data = "Ninja Starfish"
    [389]
-    1 string data = "Seakjaw"
+    1 string data = "a Rock Shrimp"
    [390]
-    1 string data = "a Silicium Sponge"
+    1 string data = "Rock Shrimp"
    [391]
-    1 string data = "Silicium Sponge"
+    1 string data = "a Seakjaw"
    [392]
-    1 string data = "a Sky Urchin"
+    1 string data = "Seakjaw"
    [393]
-    1 string data = "Sky Urchin"
+    1 string data = "a Silicium Sponge"
    [394]
-    1 string data = "a Spectral Eel"
+    1 string data = "Silicium Sponge"
    [395]
-    1 string data = "Spectral Eel"
+    1 string data = "a Sky Urchin"
    [396]
-    1 string data = "a Sun Carp"
+    1 string data = "Sky Urchin"
    [397]
-    1 string data = "Sun Carp"
+    1 string data = "a Spectral Eel"
    [398]
-    1 string data = "a Swordfish"
+    1 string data = "Spectral Eel"
    [399]
-    1 string data = "Swordfish"
+    1 string data = "a Sun Carp"
    [400]
-    1 string data = "a Viridian Lobster"
+    1 string data = "Sun Carp"
    [401]
-    1 string data = "Viridian Lobster"
+    1 string data = "a Swordfish"
    [402]
-    1 string data = "Test Snack"
+    1 string data = "Swordfish"
    [403]
-    1 string data = "Test Snack Description."
+    1 string data = "a Viridian Lobster"
    [404]
-    1 string data = "Croustade"
+    1 string data = "Viridian Lobster"
    [405]
-    1 string data = "Cripsy with a mouth watering smell."
+    1 string data = "Test Snack"
    [406]
-    1 string data = "Basic Salad"
+    1 string data = "Test Snack Description."
    [407]
-    1 string data = "Boring but healthy."
+    1 string data = "Croustade"
    [408]
-    1 string data = "Berry Jam"
+    1 string data = "Crispy with a mouth watering smell."
    [409]
-    1 string data = "Sweet and simple."
+    1 string data = "Basic Salad"
    [410]
-    1 string data = "Bouillabaisse"
+    1 string data = "Boring but healthy."
    [411]
-    1 string data = "Even better when you don't have to make it yourself."
+    1 string data = "Berry Jam"
    [412]
-    1 string data = "Braisé"
+    1 string data = "Sweet and simple."
    [413]
-    1 string data = "Slow-cooked in clay to tender perfection."
+    1 string data = "Bouillabaisse"
    [414]
-    1 string data = "Champion Omelette"
+    1 string data = "Even better when you don't have to make it yourself."
    [415]
-    1 string data = "Gets you through the day with unprecedented energy."
+    1 string data = "Braisé"
    [416]
-    1 string data = "Chaudrée"
+    1 string data = "Slow-cooked in clay to tender perfection."
    [417]
-    1 string data = "As good as the pepper you grind into it."
+    1 string data = "Champion's Omelette"
    [418]
-    1 string data = "Mooncradle Fish Pie"
+    1 string data = "Gets you through the day with unprecedented energy."
    [419]
-    1 string data = "An Evermist Island classic."
+    1 string data = "Chaudrée"
    [420]
-    1 string data = "Gourmet Burger"
+    1 string data = "As good as the pepper you grind into it."
    [421]
-    1 string data = "The fancy name takes away the guilt."
+    1 string data = "Mooncradle Fish Pie"
    [422]
-    1 string data = "Hearty Stew"
+    1 string data = "An Evermist Island classic."
    [423]
-    1 string data = "Tastes like home."
+    1 string data = "Gourmet Burger"
    [424]
-    1 string data = "Herbed Filet"
+    1 string data = "The fancy name takes away the guilt."
    [425]
-    1 string data = "Healthy and light."
+    1 string data = "Hearty Stew"
    [426]
-    1 string data = "Lasagna"
+    1 string data = "Tastes like home."
    [427]
-    1 string data = "As good as food gets."
+    1 string data = "Herbed Filet"
    [428]
-    1 string data = "Legendary Feast"
+    1 string data = "Healthy and light."
    [429]
-    1 string data = "Garl's ultimate recipe."
+    1 string data = "Lasagna"
    [430]
-    1 string data = "Mushroom Scramble"
+    1 string data = "As good as food gets."
    [431]
-    1 string data = "More fun to cook than it is to eat."
+    1 string data = "Legendary Feast"
    [432]
-    1 string data = "Mushroom Soup"
+    1 string data = "Garl's ultimate recipe."
    [433]
-    1 string data = "Hearty and comforting."
+    1 string data = "Mushroom Scramble"
    [434]
-    1 string data = "Pain Doré"
+    1 string data = "More fun to cook than it is to eat."
    [435]
-    1 string data = "Also feeds the mind."
+    1 string data = "Mushroom Soup"
    [436]
-    1 string data = "Papillotte"
+    1 string data = "Hearty and comforting."
    [437]
-    1 string data = "A great side dish for campfire cooking beginners."
+    1 string data = "Pain Doré"
    [438]
-    1 string data = "Parfait"
+    1 string data = "Also feeds the mind."
    [439]
-    1 string data = "It's all in the name."
+    1 string data = "Papillote"
    [440]
-    1 string data = "Peach Strudel"
+    1 string data = "A great side dish for campfire cooking beginners."
    [441]
-    1 string data = "Definitely worth the hassle."
+    1 string data = "Parfait"
    [442]
-    1 string data = "Poutine"
+    1 string data = "It's all in the name."
    [443]
-    1 string data = "The only thing better than lasagna."
+    1 string data = "Peach Strudel"
    [444]
-    1 string data = "Pudding Chômeur"
+    1 string data = "Definitely worth the hassle."
    [445]
-    1 string data = "Not sweet enough at first and way too sweet by the end."
+    1 string data = "Poutine"
    [446]
-    1 string data = "Roast Sandwich"
+    1 string data = "The only thing better than lasagna."
    [447]
-    1 string data = "Thin slices of meat in a crispy baguette."
+    1 string data = "Pudding Chômeur"
    [448]
-    1 string data = "Sashimi"
+    1 string data = "Not sweet enough at first and way too sweet by the end."
    [449]
-    1 string data = "As fresh as food can be."
+    1 string data = "Roast Sandwich"
    [450]
-    1 string data = "Soufflé"
+    1 string data = "Thin slices of meat in a crispy baguette."
    [451]
-    1 string data = "Overrated in both complexity and taste."
+    1 string data = "Sashimi"
    [452]
-    1 string data = "Tataki"
+    1 string data = "As fresh as food can be."
    [453]
-    1 string data = "Nothing but the finest ingredients."
+    1 string data = "Soufflé"
    [454]
-    1 string data = "Tartine"
+    1 string data = "Overrated in both complexity and taste."
    [455]
-    1 string data = "Fruit jam on toasted bread."
+    1 string data = "Tataki"
    [456]
-    1 string data = "Tomato Club"
+    1 string data = "Nothing but the finest ingredients."
    [457]
-    1 string data = "Unbeatable when the tomatoes are just right."
+    1 string data = "Tartine"
    [458]
-    1 string data = "Veggie Skewers"
+    1 string data = "Fruit jam on toasted bread."
    [459]
-    1 string data = "Never gets old."
+    1 string data = "Tomato Club"
    [460]
-    1 string data = "Wild Salad"
+    1 string data = "Unbeatable when the tomatoes are just right."
    [461]
-    1 string data = "Fills you up in the healtiest of ways."
+    1 string data = "Veggie Skewers"
    [462]
-    1 string data = "Yakitori Shrimp"
+    1 string data = "Never gets old."
    [463]
-    1 string data = "Proof that simple can be good."
+    1 string data = "Wild Salad"
    [464]
-    1 string data = "Recipe: Chaudrée"
+    1 string data = "Fills you up in the healthiest of ways."
    [465]
-    1 string data = "Teaches how to cook Chaudrée."
+    1 string data = "Yakitori Shrimp"
    [466]
-    1 string data = "Recipe: Mushroom Scramble"
+    1 string data = "Proof that simple can be good."
    [467]
-    1 string data = "Teaches how to cook Mushroom Scramble."
+    1 string data = "Recipe: Chaudrée"
    [468]
-    1 string data = "Recipe: Mushroom Soup"
+    1 string data = "Teaches how to cook Chaudrée."
    [469]
-    1 string data = "Teaches how to cook Mushroom Soup."
+    1 string data = "Recipe: Mushroom Scramble"
    [470]
-    1 string data = "Recipe: Bouillabaisse"
+    1 string data = "Teaches how to cook Mushroom Scramble."
    [471]
-    1 string data = "Teaches how to cook Bouillabaisse."
+    1 string data = "Recipe: Mushroom Soup"
    [472]
-    1 string data = "Recipe: Peach Strudel"
+    1 string data = "Teaches how to cook Mushroom Soup."
    [473]
-    1 string data = "Teaches how to cook Peach Strudel."
+    1 string data = "Recipe: Bouillabaisse"
    [474]
-    1 string data = "Recipe: Parfait"
+    1 string data = "Teaches how to cook Bouillabaisse."
    [475]
-    1 string data = "Teaches how to make Parfait."
+    1 string data = "Recipe: Peach Strudel"
    [476]
-    1 string data = "Recipe: Sashimi"
+    1 string data = "Teaches how to cook Peach Strudel."
    [477]
-    1 string data = "Teaches how to prepare Sashimi."
+    1 string data = "Recipe: Parfait"
    [478]
-    1 string data = "Scroll of Soonrang"
+    1 string data = "Teaches how to make Parfait."
    [479]
-    1 string data = "Teaches combo attack Soonrang."
+    1 string data = "Recipe: Sashimi"
    [480]
-    1 string data = "Scroll of Moon Shiv"
+    1 string data = "Teaches how to prepare Sashimi."
    [481]
-    1 string data = "Teaches combo attack Moon Shiv."
+    1 string data = "Scroll of Soonrang"
    [482]
-    1 string data = "Scroll of X-Strike"
+    1 string data = "Teaches combo attack Soonrang."
    [483]
-    1 string data = "Teaches combo attack X-Strike."
+    1 string data = "Scroll of Moon Shiv"
    [484]
-    1 string data = "Scroll of Arcane Moons"
+    1 string data = "Teaches combo attack Moon Shiv."
    [485]
-    1 string data = "Teaches combo attack Arcane Moons."
+    1 string data = "Scroll of X-Strike"
    [486]
-    1 string data = "Scroll of Mending Light"
+    1 string data = "Teaches combo attack X-Strike."
    [487]
-    1 string data = "Teaches combo move Mending Light."
+    1 string data = "Scroll of Arcane Moons"
    [488]
-    1 string data = "Scroll of Bash Drop"
+    1 string data = "Teaches combo attack Arcane Moons."
    [489]
-    1 string data = "Teaches combo attack Bash Drop."
+    1 string data = "Scroll of Mending Light"
    [490]
-    1 string data = "Scroll of Solar Rain"
+    1 string data = "Teaches combo move Mending Light."
    [491]
-    1 string data = "Teaches combo move Solar Rain."
+    1 string data = "Scroll of Bash Drop"
    [492]
-    1 string data = "Scroll of Item Roulette"
+    1 string data = "Teaches combo attack Bash Drop."
    [493]
-    1 string data = "Teaches combo move Item Roulette."
+    1 string data = "Scroll of Solar Rain"
    [494]
-    1 string data = "Scroll of Conflagrate"
+    1 string data = "Teaches combo move Solar Rain."
    [495]
-    1 string data = "Teaches combo move Conflagrate."
+    1 string data = "Scroll of Item Roulette"
    [496]
-    1 string data = "Scroll of Arcane Barrage"
+    1 string data = "Teaches combo move Item Roulette."
    [497]
-    1 string data = "Teaches combo move Arcane Barrage."
+    1 string data = "Scroll of Conflagrate"
    [498]
-    1 string data = "Empty."
+    1 string data = "Teaches combo move Conflagrate."
    [499]
-    1 string data = "Found [quantity]x <color=magic>[name]</color>!"
+    1 string data = "Scroll of Arcane Barrage"
    [500]
-    1 string data = "Got [quantity]x <color=magic>[name]</color>!"
+    1 string data = "Teaches combo move Arcane Barrage."
    [501]
-    1 string data = "Found equippable trinket <color=magic>[name]</color>!"
+    1 string data = "Empty."
    [502]
-    1 string data = "Found [quantity]x <color=sun>Sunshard</color>!"
+    1 string data = "Found [quantity]x <color=magic>[name]</color>!"
    [503]
-    1 string data = "Found [quantity]x <color=moon>Moonshard</color>!"
+    1 string data = "Got [quantity]x <color=magic>[name]</color>!"
    [504]
-    1 string data = "Mistral Bracelet"
+    1 string data = "Found equippable trinket <color=magic>[name]</color>!"
    [505]
-    1 string data = "Press <button="WindBracelet"> to create concentrated bursts of wind."
+    1 string data = "Found [quantity]x <color=sun>Sunshard</color>!"
    [506]
-    1 string data = "Coral Hammer"
+    1 string data = "Found [quantity]x <color=moon>Moonshard</color>!"
    [507]
-    1 string data = "A legendary hammer attuned to <color=location>The Deep Blue</color>."
+    1 string data = "Mistral Bracelet"
    [508]
-    1 string data = "Cobalt Hammer"
+    1 string data = "Press <button="WindBracelet"> to create concentrated bursts of wind."
    [509]
-    1 string data = "An evolution of the Coral Hammer which can break blue crystals."
+    1 string data = "Coral Hammer"
    [510]
-    1 string data = "Graplou"
+    1 string data = "A legendary hammer attuned to <color=location>The Deep Blue</color>."
    [511]
-    1 string data = "Throw with <button=Cancel>. Can stick to grapple points, enemies, and climbable surfaces."
+    1 string data = "Cobalt Hammer"
    [512]
-    1 string data = "Map"
+    1 string data = "An evolution of the Coral Hammer which can break blue crystals."
    [513]
-    1 string data = "A magic map displaying The Vespertine's surrounding waters."
+    1 string data = "Graplou"
    [514]
-    1 string data = "Red Crystal"
+    1 string data = "Throw with <button=Cancel>. Can stick to grapple points, enemies, and climbable surfaces."
    [515]
-    1 string data = "Expertly carved to focus light beams."
+    1 string data = "Map"
    [516]
-    1 string data = "Blue Crystal"
+    1 string data = "A magic map displaying The Vespertine's surrounding waters."
    [517]
-    1 string data = "Expertly carved to focus light beams."
+    1 string data = "Red Crystal"
    [518]
-    1 string data = "Green Crystal"
-   [519]
     1 string data = "Expertly carved to focus light beams."
+   [519]
+    1 string data = "Blue Crystal"
    [520]
-    1 string data = "Mines Key"
+    1 string data = "Expertly carved to focus light beams."
    [521]
-    1 string data = "A wind emblem is engraved on it."
+    1 string data = "Green Crystal"
    [522]
-    1 string data = "Coin of Undeath Accord"
+    1 string data = "Expertly carved to focus light beams."
    [523]
-    1 string data = "A binding contract for the undead."
+    1 string data = "Mines Key"
    [524]
-    1 string data = "Fine Brush"
+    1 string data = "A wind emblem is engraved on it."
    [525]
-    1 string data = "Painter's tool."
+    1 string data = "Coin of Undeath Accord"
    [526]
-    1 string data = "Rainbow Conch"
+    1 string data = "A binding contract for the undead."
    [527]
-    1 string data = "Might interest a collector."
+    1 string data = "Fine Brush"
    [528]
-    1 string data = "Copper Wheel"
+    1 string data = "Painter's tool."
    [529]
-    1 string data = "A beginner's Wheel. Not even considered to be level 1."
+    1 string data = "Rainbow Conch"
    [530]
-    1 string data = "Bronze Wheel"
+    1 string data = "Might interest a collector."
    [531]
-    1 string data = "A level 1 Wheel."
+    1 string data = "Copper Wheel"
    [532]
-    1 string data = "Silver Wheel"
+    1 string data = "A beginner's Wheel. Not even considered to be level 1."
    [533]
-    1 string data = "A level 2 Wheel."
+    1 string data = "Bronze Wheel"
    [534]
-    1 string data = "Gold Wheel"
+    1 string data = "A level 1 Wheel."
    [535]
-    1 string data = "A level 3 Wheel."
+    1 string data = "Silver Wheel"
    [536]
-    1 string data = "Platinum Wheel"
+    1 string data = "A level 2 Wheel."
    [537]
-    1 string data = "A level 4 Wheel."
+    1 string data = "Gold Wheel"
    [538]
-    1 string data = "Diamond Wheel"
+    1 string data = "A level 3 Wheel."
    [539]
-    1 string data = "A max level Wheel."
+    1 string data = "Platinum Wheel"
    [540]
-    1 string data = "Warrior Figurine"
+    1 string data = "A level 4 Wheel."
    [541]
-    1 string data = "Makes the Warrior class playable in Wheels."
+    1 string data = "Diamond Wheel"
    [542]
-    1 string data = "Mage Figurine"
+    1 string data = "A max level Wheel."
    [543]
-    1 string data = "Makes the Mage class playable in Wheels."
+    1 string data = "Warrior Figurine"
    [544]
-    1 string data = "Assassin Figurine"
+    1 string data = "Makes the Warrior class playable in Wheels."
    [545]
-    1 string data = "Makes the Assassin class playable in Wheels."
+    1 string data = "Mage Figurine"
    [546]
-    1 string data = "Priest Figurine"
+    1 string data = "Makes the Mage class playable in Wheels."
    [547]
-    1 string data = "Makes the Priest class playable in Wheels."
+    1 string data = "Assassin Figurine"
    [548]
-    1 string data = "Engineer Figurine"
+    1 string data = "Makes the Assassin class playable in Wheels."
    [549]
-    1 string data = "Makes the Engineer class playable in Wheels."
+    1 string data = "Priest Figurine"
    [550]
-    1 string data = "Archer Figurine"
+    1 string data = "Makes the Priest class playable in Wheels."
    [551]
-    1 string data = "Makes the Archer class playable in Wheels."
+    1 string data = "Engineer Figurine"
    [552]
-    1 string data = "Gold"
+    1 string data = "Makes the Engineer class playable in Wheels."
    [553]
-    1 string data = "The common currency."
+    1 string data = "Archer Figurine"
    [554]
-    1 string data = "Adventurer's Vest"
+    1 string data = "Makes the Archer class playable in Wheels."
    [555]
-    1 string data = "Thirty adventurers agree, this vest is the best."
+    1 string data = "Gold"
    [556]
-    1 string data = "This is the test shop."
+    1 string data = "The common currency."
    [557]
-    1 string data = "A pleasure seeing customers!"
+    1 string data = "Adventurer's Vest"
    [558]
-    1 string data = "Find anything you like?"
+    1 string data = "Thirty adventurers agree, this vest is the best."
    [559]
-    1 string data = "Welcome to the Equipment Store!"
+    1 string data = "This is the test shop."
    [560]
-    1 string data = "Welcome to the Item Store!"
+    1 string data = "A pleasure seeing customers!"
    [561]
-    1 string data = "Welcome to the Hidden Market!"
+    1 string data = "Find anything you like?"
    [562]
-    1 string data = "Feel free to browse..."
+    1 string data = "Welcome to the Equipment Store!"
    [563]
-    1 string data = "3D printer online."
+    1 string data = "Welcome to the Item Store!"
    [564]
-    1 string data = "Anythin' ye need?"
+    1 string data = "Welcome to the Hidden Market!"
    [565]
-    1 string data = "Docarri Armor"
+    1 string data = "Feel free to browse..."
    [566]
-    1 string data = "Reasonably robust."
+    1 string data = "3D printer online."
    [567]
-    1 string data = "Pearlescent Apron"
+    1 string data = "Anythin' ye need?"
    [568]
-    1 string data = "Pretty, and pretty sturdy."
+    1 string data = "Docarri Armor"
    [569]
-    1 string data = "Leather Pauldrons"
+    1 string data = "Reasonably robust."
    [570]
-    1 string data = "Doesn't cover much, but still better than no protection."
+    1 string data = "Pearlescent Apron"
    [571]
-    1 string data = "Mage-Knight Armor"
+    1 string data = "Pretty, and pretty sturdy."
    [572]
-    1 string data = "A ceremonial robe with magic properties."
+    1 string data = "Leather Pauldrons"
    [573]
-    1 string data = "Crown"
+    1 string data = "Doesn't cover much, but still better than no protection."
    [574]
-    1 string data = "Fits on statues in the Haunted Mansion."
+    1 string data = "Mage-Knight Armor"
    [575]
-    1 string data = "Knight's Helm"
+    1 string data = "A ceremonial robe with magic properties."
    [576]
-    1 string data = "Fits on statues in the Haunted Mansion."
+    1 string data = "Crown"
    [577]
-    1 string data = "~ Hat C"
-   [578]
-    1 string data = "~ Hat C Description"
-   [579]
-    1 string data = "~ Hat D"
-   [580]
-    1 string data = "~ Hat D Description"
-   [581]
-    1 string data = "Cursed Doubloons"
-   [582]
-    1 string data = "Round shaped with a skull in the middle."
-   [583]
-    1 string data = "Got <color=magic>[name]</color>!"
-   [584]
-    1 string data = "Obtained [quantity]x <color=magic>[name]</color>!"
-   [585]
-    1 string data = "~ FrostRuby"
-   [586]
-    1 string data = "~ Transform wind into cold wind with the PushBracelet"
-   [587]
-    1 string data = "Sapphire Key"
-   [588]
-    1 string data = "Likely powers some underwater device."
-   [589]
-    1 string data = "~ Boat Graplou"
-   [590]
-    1 string data = "~ Boat Graplou Description"
-   [591]
-    1 string data = "Yellow Pearl"
-   [592]
-    1 string data = "A pearl found in the water temple of Antsudlo."
-   [593]
-    1 string data = "Purple Pearl"
-   [594]
-    1 string data = "A pearl found in the water temple of Antsudlo."
-   [595]
-    1 string data = "Blue Pearl"
-   [596]
-    1 string data = "A pearl found in the water temple of Antsudlo."
-   [597]
-    1 string data = "Green Pearl"
-   [598]
-    1 string data = "A pearl found in the water temple of Antsudlo."
-   [599]
-    1 string data = "Pink Pearl"
-   [600]
-    1 string data = "A pearl found in the water temple of Antsudlo."
-   [601]
-    1 string data = "Select a key item"
-   [602]
-    1 string data = "Yomara's Key"
-   [603]
-    1 string data = "A key that unlocks the door south of Yomara's cabin."
-   [604]
-    1 string data = "Master Key"
-   [605]
-    1 string data = "Made by The Watchmaker to unlock the big door in Caël's workshop."
-   [606]
-    1 string data = "Vial of Time"
-   [607]
-    1 string data = "Resh'an's alchemy vial made from the sands of time."
-   [608]
-    1 string data = "Seashell"
-   [609]
-    1 string data = "Needs to be infused with magic at the Sacred Grove."
-   [610]
-    1 string data = "Magic Seashell"
-   [611]
-    1 string data = "Lets the bearer breathe underwater."
-   [612]
-    1 string data = "Garden Key"
-   [613]
-    1 string data = "Opens a locked door in the Clockwork Castle."
-   [614]
-    1 string data = "Forbidden Cavern Key"
-   [615]
-    1 string data = "A key found in the forbidden cavern."
-   [616]
-    1 string data = "Hexagonal Slab"
-   [617]
-    1 string data = "Would fit in a hexagonal slot."
-   [618]
-    1 string data = "Triangular Slab"
-   [619]
-    1 string data = "Would fit in a triangular slot."
-   [620]
-    1 string data = "Wind Key"
-   [621]
-    1 string data = "Given by the Sky Council to open the way to the Air Elemental Skyland."
-   [622]
-    1 string data = "Immaculate Pearl"
-   [623]
-    1 string data = "Given by Hortence to summon Hydralion."
-   [624]
-    1 string data = "~ PowerBlockPiecesCell"
-   [625]
-    1 string data = "~ PowerBlockPieces Description"
-   [626]
-    1 string data = "Green Flame"
-   [627]
-    1 string data = "A magical flame burning green. Might interest the Ferryman..."
-   [628]
-    1 string data = "Yellow Flame"
-   [629]
-    1 string data = "A magical flame burning yellow. Might interest the Ferryman..."
-   [630]
-    1 string data = "~ Blue Flame"
-   [631]
-    1 string data = "~ Blue Flame Description"
-   [632]
-    1 string data = "Crane Operator ID Card"
-   [633]
-    1 string data = "Lets the bearer operate the Factory's laser crane."
-   [634]
-    1 string data = "Probe"
-   [635]
-    1 string data = "Programmed by Cedric."
-   [636]
-    1 string data = "Kyber Ore"
-   [637]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
-   [638]
-    1 string data = "Wireplate Sheet"
-   [639]
-    1 string data = "Could probably be used by a machine to make something..."
-   [640]
-    1 string data = "Power Unit"
-   [641]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
-   [642]
-    1 string data = "Kyber Ore"
-   [643]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
-   [644]
-    1 string data = "Blueprint Disc"
-   [645]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
-   [646]
-    1 string data = "Ornate Stone"
-   [647]
-    1 string data = "A weighted stone. Fits a brazier in Zenith Academy."
-   [648]
-    1 string data = "Shiny Pearl"
-   [649]
-    1 string data = "Valuable meant to be sold."
-   [650]
-    1 string data = "Teal Amber Ore"
-   [651]
-    1 string data = "Valuable meant to be sold."
-   [652]
-    1 string data = "Obsidian Ore"
-   [653]
-    1 string data = "Valuable meant to be sold."
-   [654]
-    1 string data = "Obsidian Ingot"
-   [655]
-    1 string data = "Valuable meant to be sold."
-   [656]
-    1 string data = "Sapphire Ore"
-   [657]
-    1 string data = "Valuable meant to be sold."
-   [658]
-    1 string data = "Sapphire Ingot"
-   [659]
-    1 string data = "Valuable meant to be sold."
-   [660]
-    1 string data = "Adamantite Ore"
-   [661]
-    1 string data = "Valuable meant to be sold."
-   [662]
-    1 string data = "Solstice Amulet"
-   [663]
-    1 string data = "Lets the bearer control the Time of Day without having to stand on a Celestial Rune."
-   [664]
-    1 string data = "Crystal Egg"
-   [665]
-    1 string data = "A strange object of worship."
-   [666]
-    1 string data = "Big Jar"
-   [667]
-    1 string data = "Found in the Fleshmancer's Lair."
-   [668]
-    1 string data = "Big Jar"
-   [669]
-    1 string data = "Found in the Fleshmancer's Lair."
-   [670]
-    1 string data = "Big Jar"
-   [671]
-    1 string data = "Found in the Fleshmancer's Lair."
-   [672]
-    1 string data = "Fish?"
-   [673]
-    1 string data = "Fished in the Fleshamancer's Lair."
-   [674]
-    1 string data = "Question Pack #1"
-   [675]
-    1 string data = "Might interest a Quiz Master"
-   [676]
-    1 string data = "Question Pack #2"
-   [677]
-    1 string data = "Might interest a Quiz Master"
-   [678]
-    1 string data = "Question Pack #3"
-   [679]
-    1 string data = "Might interest a Quiz Master"
-   [680]
-    1 string data = "Question Pack #4"
-   [681]
-    1 string data = "Might interest a Quiz Master"
-   [682]
-    1 string data = "Question Pack #5"
-   [683]
-    1 string data = "Might interest a Quiz Master"
-   [684]
-    1 string data = "Question Pack #6"
-   [685]
-    1 string data = "Might interest a Quiz Master"
-   [686]
-    1 string data = "Question Pack #7"
-   [687]
-    1 string data = "Might interest a Quiz Master"
-   [688]
-    1 string data = "Question Pack #8"
-   [689]
-    1 string data = "Might interest a Quiz Master"
-   [690]
-    1 string data = "Question Pack #9"
-   [691]
-    1 string data = "Might interest a Quiz Master"
-   [692]
-    1 string data = "Question Pack #10"
-   [693]
-    1 string data = "Might interest a Quiz Master"
-   [694]
-    1 string data = "Question Pack #11"
-   [695]
-    1 string data = "Might interest a Quiz Master"
-   [696]
-    1 string data = "Solstice Shrine Key A"
-   [697]
-    1 string data = "Found in a Solstice Shrine."
-   [698]
-    1 string data = "Solstice Shrine Key B"
-   [699]
-    1 string data = "Found in a Solstice Shrine."
-   [700]
-    1 string data = "Cookie Jar"
-   [701]
-    1 string data = "From that time Garl snuck into Zenith Academy."
-   [702]
-    1 string data = "Turbo Cookie"
-   [703]
-    1 string data = "Craved by a ghost in Lucent."
-   [704]
-    1 string data = "Golden Watch"
-   [705]
-    1 string data = "Inexplicably swallowed by a fish in the Wizard Lab."
-   [706]
-    1 string data = "<color=magic>golden watch</color>"
-   [707]
-    1 string data = "Shed Key"
-   [708]
-    1 string data = "Probaly unlocks the creepy shed in Lucent..."
-   [709]
-    1 string data = "Turbo Cookie"
-   [710]
-    1 string data = "A strange cookie for ghosts."
-   [711]
-    1 string data = "Ordinary Ghost Sandwich"
-   [712]
-    1 string data = "Ghostly and ordinary."
-   [713]
-    1 string data = "Master Ghost Sandwich"
-   [714]
-    1 string data = "As good as it gets... for a ghost."
-   [715]
-    1 string data = "Bad Ghost Sandwich"
-   [716]
-    1 string data = "As bad as the ingredients sounded in the first place."
-   [717]
-    1 string data = "Golden Watch"
-   [718]
-    1 string data = "Inexplicably swallowed by a fish in the Wizard Lab."
-   [719]
-    1 string data = "Soul Stone"
-   [720]
-    1 string data = "A necromancer artifact capable of dispelling curses."
-   [721]
-    1 string data = "Knight's Sword"
-   [722]
     1 string data = "Fits on statues in the Haunted Mansion."
+   [578]
+    1 string data = "Knight's Helm"
+   [579]
+    1 string data = "Fits on statues in the Haunted Mansion."
+   [580]
+    1 string data = "~ Hat C"
+   [581]
+    1 string data = "~ Hat C Description"
+   [582]
+    1 string data = "~ Hat D"
+   [583]
+    1 string data = "~ Hat D Description"
+   [584]
+    1 string data = "Cursed Doubloons"
+   [585]
+    1 string data = "Round shaped with a skull in the middle."
+   [586]
+    1 string data = "Got <color=magic>[name]</color>!"
+   [587]
+    1 string data = "Obtained [quantity]x <color=magic>[name]</color>!"
+   [588]
+    1 string data = "~ FrostRuby"
+   [589]
+    1 string data = "~ Transform wind into cold wind with the PushBracelet"
+   [590]
+    1 string data = "Sapphire Key"
+   [591]
+    1 string data = "Likely powers some underwater device."
+   [592]
+    1 string data = "~ Boat Graplou"
+   [593]
+    1 string data = "~ Boat Graplou Description"
+   [594]
+    1 string data = "Yellow Pearl"
+   [595]
+    1 string data = "A pearl found in the water temple of Antsudlo."
+   [596]
+    1 string data = "Purple Pearl"
+   [597]
+    1 string data = "A pearl found in the water temple of Antsudlo."
+   [598]
+    1 string data = "Blue Pearl"
+   [599]
+    1 string data = "A pearl found in the water temple of Antsudlo."
+   [600]
+    1 string data = "Green Pearl"
+   [601]
+    1 string data = "A pearl found in the water temple of Antsudlo."
+   [602]
+    1 string data = "Pink Pearl"
+   [603]
+    1 string data = "A pearl found in the water temple of Antsudlo."
+   [604]
+    1 string data = "Select a key item"
+   [605]
+    1 string data = "Yomara's Key"
+   [606]
+    1 string data = "A key that unlocks the door south of Yomara's cabin."
+   [607]
+    1 string data = "Master Key"
+   [608]
+    1 string data = "Made by The Watchmaker to unlock the big door in Caël's workshop."
+   [609]
+    1 string data = "Vial of Time"
+   [610]
+    1 string data = "Resh'an's alchemy vial made from the sands of time."
+   [611]
+    1 string data = "Seashell"
+   [612]
+    1 string data = "Needs to be infused with magic at the Sacred Grove."
+   [613]
+    1 string data = "Magic Seashell"
+   [614]
+    1 string data = "Lets the bearer breathe underwater."
+   [615]
+    1 string data = "Garden Key"
+   [616]
+    1 string data = "Opens a locked door in the Clockwork Castle."
+   [617]
+    1 string data = "Forbidden Cavern Key"
+   [618]
+    1 string data = "A key found in the forbidden cavern."
+   [619]
+    1 string data = "Hexagonal Slab"
+   [620]
+    1 string data = "Would fit in a hexagonal slot."
+   [621]
+    1 string data = "Triangular Slab"
+   [622]
+    1 string data = "Would fit in a triangular slot."
+   [623]
+    1 string data = "Wind Key"
+   [624]
+    1 string data = "Given by the Sky Council to open the way to the Air Elemental Skyland."
+   [625]
+    1 string data = "Immaculate Pearl"
+   [626]
+    1 string data = "Given by Hortence to summon Hydralion."
+   [627]
+    1 string data = "~ PowerBlockPiecesCell"
+   [628]
+    1 string data = "~ PowerBlockPieces Description"
+   [629]
+    1 string data = "Green Flame"
+   [630]
+    1 string data = "A magical flame burning green. Might interest the Ferryman..."
+   [631]
+    1 string data = "Yellow Flame"
+   [632]
+    1 string data = "A magical flame burning yellow. Might interest the Ferryman..."
+   [633]
+    1 string data = "~ Blue Flame"
+   [634]
+    1 string data = "~ Blue Flame Description"
+   [635]
+    1 string data = "Crane Operator ID Card"
+   [636]
+    1 string data = "Lets the bearer operate the Factory's laser crane."
+   [637]
+    1 string data = "Probe"
+   [638]
+    1 string data = "Programmed by Cedric."
+   [639]
+    1 string data = "Kyber Ore"
+   [640]
+    1 string data = "One of the parts needed to print a Kybermesh Battery."
+   [641]
+    1 string data = "Wireplate Sheet"
+   [642]
+    1 string data = "Could probably be used by a machine to make something..."
+   [643]
+    1 string data = "Power Unit"
+   [644]
+    1 string data = "One of the parts needed to print a Kybermesh Battery."
+   [645]
+    1 string data = "Kyber Ore"
+   [646]
+    1 string data = "One of the parts needed to print a Kybermesh Battery."
+   [647]
+    1 string data = "Blueprint Disc"
+   [648]
+    1 string data = "One of the parts needed to print a Kybermesh Battery."
+   [649]
+    1 string data = "Ornate Stone"
+   [650]
+    1 string data = "A weighted stone. Fits a brazier in Zenith Academy."
+   [651]
+    1 string data = "Shiny Pearl"
+   [652]
+    1 string data = "Valuable meant to be sold."
+   [653]
+    1 string data = "Teal Amber Ore"
+   [654]
+    1 string data = "Valuable meant to be sold."
+   [655]
+    1 string data = "Obsidian Ore"
+   [656]
+    1 string data = "Valuable meant to be sold."
+   [657]
+    1 string data = "Obsidian Ingot"
+   [658]
+    1 string data = "Valuable meant to be sold."
+   [659]
+    1 string data = "Sapphire Ore"
+   [660]
+    1 string data = "Valuable meant to be sold."
+   [661]
+    1 string data = "Sapphire Ingot"
+   [662]
+    1 string data = "Valuable meant to be sold."
+   [663]
+    1 string data = "Adamantite Ore"
+   [664]
+    1 string data = "Valuable meant to be sold."
+   [665]
+    1 string data = "Solstice Amulet"
+   [666]
+    1 string data = "Lets the bearer control the Time of Day without having to stand on a Celestial Rune."
+   [667]
+    1 string data = "Crystal Egg"
+   [668]
+    1 string data = "A strange object of worship."
+   [669]
+    1 string data = "Big Jar"
+   [670]
+    1 string data = "Found in the Fleshmancer's Lair."
+   [671]
+    1 string data = "Big Jar"
+   [672]
+    1 string data = "Found in the Fleshmancer's Lair."
+   [673]
+    1 string data = "Big Jar"
+   [674]
+    1 string data = "Found in the Fleshmancer's Lair."
+   [675]
+    1 string data = "Fish?"
+   [676]
+    1 string data = "Fished in the Fleshamancer's Lair."
+   [677]
+    1 string data = "Question Pack #1"
+   [678]
+    1 string data = "Might interest a Quiz Master"
+   [679]
+    1 string data = "Question Pack #2"
+   [680]
+    1 string data = "Might interest a Quiz Master"
+   [681]
+    1 string data = "Question Pack #3"
+   [682]
+    1 string data = "Might interest a Quiz Master"
+   [683]
+    1 string data = "Question Pack #4"
+   [684]
+    1 string data = "Might interest a Quiz Master"
+   [685]
+    1 string data = "Question Pack #5"
+   [686]
+    1 string data = "Might interest a Quiz Master"
+   [687]
+    1 string data = "Question Pack #6"
+   [688]
+    1 string data = "Might interest a Quiz Master"
+   [689]
+    1 string data = "Question Pack #7"
+   [690]
+    1 string data = "Might interest a Quiz Master"
+   [691]
+    1 string data = "Question Pack #8"
+   [692]
+    1 string data = "Might interest a Quiz Master"
+   [693]
+    1 string data = "Question Pack #9"
+   [694]
+    1 string data = "Might interest a Quiz Master"
+   [695]
+    1 string data = "Question Pack #10"
+   [696]
+    1 string data = "Might interest a Quiz Master"
+   [697]
+    1 string data = "Question Pack #11"
+   [698]
+    1 string data = "Might interest a Quiz Master"
+   [699]
+    1 string data = "Solstice Shrine Key A"
+   [700]
+    1 string data = "Found in a Solstice Shrine."
+   [701]
+    1 string data = "Solstice Shrine Key B"
+   [702]
+    1 string data = "Found in a Solstice Shrine."
+   [703]
+    1 string data = "Cookie Jar"
+   [704]
+    1 string data = "From that time Garl snuck into Zenith Academy."
+   [705]
+    1 string data = "Turbo Cookie"
+   [706]
+    1 string data = "Craved by a ghost in Lucent."
+   [707]
+    1 string data = "Golden Watch"
+   [708]
+    1 string data = "Inexplicably swallowed by a fish in the Wizard Lab."
+   [709]
+    1 string data = "<color=magic>golden watch</color>"
+   [710]
+    1 string data = "Shed Key"
+   [711]
+    1 string data = "Probably unlocks the creepy shed in Lucent..."
+   [712]
+    1 string data = "Turbo Cookie"
+   [713]
+    1 string data = "A strange cookie for ghosts."
+   [714]
+    1 string data = "Ordinary Ghost Sandwich"
+   [715]
+    1 string data = "Ghostly and ordinary."
+   [716]
+    1 string data = "Master Ghost Sandwich"
+   [717]
+    1 string data = "As good as it gets... for a ghost."
+   [718]
+    1 string data = "Bad Ghost Sandwich"
+   [719]
+    1 string data = "As bad as the ingredients sounded in the first place."
+   [720]
+    1 string data = "Golden Watch"
+   [721]
+    1 string data = "Inexplicably swallowed by a fish in the Wizard Lab."
+   [722]
+    1 string data = "Soul Stone"
    [723]
-    1 string data = "Recipe: Hearty Stew"
+    1 string data = "A necromancer artifact capable of dispelling curses."
    [724]
-    1 string data = "Teaches how to cook Hearty Stew."
+    1 string data = "Knight's Sword"
    [725]
-    1 string data = "Recipe: Mooncradle Fish Pie"
+    1 string data = "Fits on statues in the Haunted Mansion."
    [726]
-    1 string data = "Teaches how to cook Mooncradle Fish Pie."
+    1 string data = "Recipe: Hearty Stew"
    [727]
-    1 string data = "Valve"
+    1 string data = "Teaches how to cook Hearty Stew."
    [728]
-    1 string data = "A valve found in the water temple Antsudlo."
+    1 string data = "Recipe: Mooncradle Fish Pie"
    [729]
-    1 string data = "Valve"
+    1 string data = "Teaches how to cook Mooncradle Fish Pie."
    [730]
-    1 string data = "A valve found in the water temple Antsudlo."
+    1 string data = "Valve"
    [731]
-    1 string data = "Romaya's Journal"
+    1 string data = "A valve found in the water temple Antsudlo."
    [732]
-    1 string data = "She would not be pleased."
+    1 string data = "Valve"
    [733]
-    1 string data = "AI Core"
+    1 string data = "A valve found in the water temple Antsudlo."
    [734]
-    1 string data = "Found living inside of the infamous Catalyst."
+    1 string data = "Romaya's Journal"
    [735]
-    1 string data = "Aventry Locket"
+    1 string data = "She would not be pleased."
    [736]
-    1 string data = "The item that Romaya infused with magic to control Duke Aventry's ghost."
+    1 string data = "AI Core"
    [737]
-    1 string data = "Joce's Belt Buckle"
+    1 string data = "Found living inside of the infamous Catalyst."
    [738]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Aventry Locket"
    [739]
-    1 string data = "Cog Prototype"
+    1 string data = "The item that Romaya infused with magic to control Duke Aventry's ghost."
    [740]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Joce's Belt Buckle"
    [741]
-    1 string data = "Broken Handle"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [742]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Cog Prototype"
    [743]
-    1 string data = "Aventry Crest"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [744]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Broken Handle"
    [745]
-    1 string data = "Old Coral Vase"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [746]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Aventry Crest"
    [747]
-    1 string data = "Cloudy Shard"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [748]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Old Coral Vase"
    [749]
-    1 string data = "Ancient Molekin Cloak"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [750]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Cloudy Shard"
    [751]
-    1 string data = "Romaya's Hairpin"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [752]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Ancient Molekin Cloak"
    [753]
-    1 string data = "Stone Tablet Piece"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [754]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "Romaya's Hairpin"
    [755]
-    1 string data = "Celestial Willow Leaf"
-   [756]
     1 string data = "<color=teaks>Teaks</color> might get a story from this."
+   [756]
+    1 string data = "Stone Tablet Piece"
    [757]
-    1 string data = "Evermist Shrine Key"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [758]
-    1 string data = "Unlocks the Solstice Shrine on Evermist Island."
+    1 string data = "Celestial Willow Leaf"
    [759]
-    1 string data = "Rainbow Star"
+    1 string data = "<color=teaks>Teaks</color> might get a story from this."
    [760]
-    1 string data = "A mysterious item."
+    1 string data = "Evermist Shrine Key"
    [761]
-    1 string data = "Fishing Dungeon Key"
+    1 string data = "Unlocks the Solstice Shrine on Evermist Island."
    [762]
-    1 string data = "Opens a door in the fishing dungeon."
+    1 string data = "Rainbow Star"
    [763]
-    1 string data = "Hook of Time"
+    1 string data = "A mysterious item."
    [764]
-    1 string data = "A special hook given to Garl by entities known only to him."
+    1 string data = "Fishing Dungeon Key"
    [765]
-    1 string data = "Gilded Invitation"
+    1 string data = "Opens a door in the fishing dungeon."
    [766]
-    1 string data = "A special invitation to dinner at the Golden Pelican."
+    1 string data = "Hook of Time"
    [767]
-    1 string data = "Duke Aventry's Key"
+    1 string data = "A special hook given to Garl by entities known only to him."
    [768]
-    1 string data = "Unlocks the Duke's coffin chest in the Flooded Graveyard."
+    1 string data = "Gilded Invitation"
    [769]
-    1 string data = "Docarri Seal Fragment A"
+    1 string data = "A special invitation to dinner at the Golden Pelican."
    [770]
-    1 string data = "One of three pieces needed to unlock the sealed underwater gate."
+    1 string data = "Duke Aventry's Key"
    [771]
-    1 string data = "Docarri Seal Fragment B"
+    1 string data = "Unlocks the Duke's coffin chest in the Flooded Graveyard."
    [772]
-    1 string data = "One of three pieces needed to unlock the sealed underwater gate."
+    1 string data = "Docarri Seal Fragment A"
    [773]
-    1 string data = "Docarri Seal Fragment C"
-   [774]
     1 string data = "One of three pieces needed to unlock the sealed underwater gate."
+   [774]
+    1 string data = "Docarri Seal Fragment B"
    [775]
-    1 string data = "Fish Key"
+    1 string data = "One of three pieces needed to unlock the sealed underwater gate."
    [776]
-    1 string data = "A key that looks like a fish and moves like fish."
+    1 string data = "Docarri Seal Fragment C"
    [777]
-    1 string data = "Recipe: Croustade"
+    1 string data = "One of three pieces needed to unlock the sealed underwater gate."
    [778]
-    1 string data = "Teaches how to cook Croustade."
+    1 string data = "Fish Key"
    [779]
-    1 string data = "Recipe: Basic Salad"
+    1 string data = "A key that looks like a fish and moves like fish."
    [780]
-    1 string data = "Teaches how to cook Basic Salad."
+    1 string data = "Recipe: Croustade"
    [781]
-    1 string data = "Recipe: Berry Jam"
+    1 string data = "Teaches how to cook Croustade."
    [782]
-    1 string data = "Teaches how to cook Berry Jam."
+    1 string data = "Recipe: Basic Salad"
    [783]
-    1 string data = "Recipe: Braisé"
+    1 string data = "Teaches how to cook Basic Salad."
    [784]
-    1 string data = "Teaches how to cook Braisé."
+    1 string data = "Recipe: Berry Jam"
    [785]
-    1 string data = "Recipe: Champion's Omelette"
+    1 string data = "Teaches how to cook Berry Jam."
    [786]
-    1 string data = "Teaches how to cook Champion's Omelette."
+    1 string data = "Recipe: Braisé"
    [787]
-    1 string data = "Recipe: Gourmet Burger"
+    1 string data = "Teaches how to cook Braisé."
    [788]
-    1 string data = "Teaches how to cook Gourmet Burger"
+    1 string data = "Recipe: Champion's Omelette"
    [789]
-    1 string data = "Recipe: Herbed Filet"
+    1 string data = "Teaches how to cook Champion's Omelette."
    [790]
-    1 string data = "Teaches how to cook Herbed Filet."
+    1 string data = "Recipe: Gourmet Burger"
    [791]
-    1 string data = "Recipe: Legendary Feast"
+    1 string data = "Teaches how to cook Gourmet Burger"
    [792]
-    1 string data = "Teaches how to cook Legendary Feast."
+    1 string data = "Recipe: Herbed Filet"
    [793]
-    1 string data = "Recipe: Lasagna"
+    1 string data = "Teaches how to cook Herbed Filet."
    [794]
-    1 string data = "Teaches how to cook Lasagna."
+    1 string data = "Recipe: Legendary Feast"
    [795]
-    1 string data = "Recipe: Pain Doré"
+    1 string data = "Teaches how to cook Legendary Feast."
    [796]
-    1 string data = "Teaches how to cook Pain Doré."
+    1 string data = "Recipe: Lasagna"
    [797]
-    1 string data = "Recipe: Papillotte"
+    1 string data = "Teaches how to cook Lasagna."
    [798]
-    1 string data = "Teaches how to cook Papillotte."
+    1 string data = "Recipe: Pain Doré"
    [799]
-    1 string data = "Recipe: Poutine"
+    1 string data = "Teaches how to cook Pain Doré."
    [800]
-    1 string data = "Teaches how to cook Poutine."
+    1 string data = "Recipe: Papillote"
    [801]
-    1 string data = "Recipe: Pudding Chômeur"
+    1 string data = "Teaches how to cook Papillote."
    [802]
-    1 string data = "Teaches how to cook Pudding Chômeur."
+    1 string data = "Recipe: Poutine"
    [803]
-    1 string data = "Recipe: Roast Sandwich"
+    1 string data = "Teaches how to cook Poutine."
    [804]
-    1 string data = "Teaches how to cook Roast Sandwich."
+    1 string data = "Recipe: Pudding Chômeur"
    [805]
-    1 string data = "Recipe: Soufflé"
+    1 string data = "Teaches how to cook Pudding Chômeur."
    [806]
-    1 string data = "Teaches how to cook Soufflé."
+    1 string data = "Recipe: Roast Sandwich"
    [807]
-    1 string data = "Recipe: Surf and Turf Tataki"
+    1 string data = "Teaches how to cook Roast Sandwich."
    [808]
-    1 string data = "Teaches how to cook Surf and Turf Tataki."
+    1 string data = "Recipe: Soufflé"
    [809]
-    1 string data = "Recipe: Tartine"
+    1 string data = "Teaches how to cook Soufflé."
    [810]
-    1 string data = "Teaches how to cook Tartine."
+    1 string data = "Recipe: Surf and Turf Tataki"
    [811]
-    1 string data = "Recipe: Tomato Club"
+    1 string data = "Teaches how to cook Surf and Turf Tataki."
    [812]
-    1 string data = "Teaches how to cook Tomato Club."
+    1 string data = "Recipe: Tartine"
    [813]
-    1 string data = "Recipe: Veggie Skewers"
+    1 string data = "Teaches how to cook Tartine."
    [814]
-    1 string data = "Teaches how to cook Veggie Skewers."
+    1 string data = "Recipe: Tomato Club"
    [815]
-    1 string data = "Recipe: Wild Salad"
+    1 string data = "Teaches how to cook Tomato Club."
    [816]
-    1 string data = "Teaches how to prepare Wild Salad."
+    1 string data = "Recipe: Veggie Skewers"
    [817]
-    1 string data = "Recipe: Yakitori Shrimp"
+    1 string data = "Teaches how to cook Veggie Skewers."
    [818]
-    1 string data = "Teaches how to cook Yakitori Shrimp."
+    1 string data = "Recipe: Wild Salad"
    [819]
-    1 string data = "Trader's Signet"
+    1 string data = "Teaches how to prepare Wild Salad."
    [820]
-    1 string data = "Might be of interest to a certain merchant."
+    1 string data = "Recipe: Yakitori Shrimp"
    [821]
-    1 string data = "Data Strip"
+    1 string data = "Teaches how to cook Yakitori Shrimp."
    [822]
-    1 string data = "With enough strips, a Cypher could be created."
+    1 string data = "Trader's Signet"
    [823]
-    1 string data = "Cypher"
+    1 string data = "Might be of interest to a certain merchant."
    [824]
-    1 string data = "Can be used to open the encrypted door in Repine."
+    1 string data = "Data Strip"
    [825]
-    1 string data = "Deployable Wheels Table"
+    1 string data = "With enough strips, a Cypher could be created."
    [826]
-    1 string data = "Bought from The Watchmaker for delivery in Repine."
+    1 string data = "Cypher"
    [827]
-    1 string data = "Moraine's Office Key"
+    1 string data = "Can be used to open the encrypted door in Repine."
    [828]
-    1 string data = "The key to the Headmaster's office in Zenith Academy."
+    1 string data = "Deployable Wheels Table"
    [829]
-    1 string data = "Spa Plans"
+    1 string data = "Bought from The Watchmaker for delivery in Repine."
    [830]
-    1 string data = "Plans for the construction of a spa in Mirth."
+    1 string data = "Moraine's Office Key"
    [831]
-    1 string data = "Inn Plans"
+    1 string data = "The key to the Headmaster's office in Zenith Academy."
    [832]
-    1 string data = "Plans for the construction of an inn in Mirth."
+    1 string data = "Spa Plans"
    [833]
-    1 string data = "Fishing Hut Plans"
+    1 string data = "Plans for the construction of a spa in Mirth."
    [834]
-    1 string data = "Plans for the construction of a fishing hut in Mirth."
+    1 string data = "Inn Plans"
    [835]
-    1 string data = "Shop Plans"
+    1 string data = "Plans for the construction of an inn in Mirth."
    [836]
-    1 string data = "Plans for the construction of a shop in Mirth."
+    1 string data = "Fishing Hut Plans"
    [837]
-    1 string data = "Alumni Token"
+    1 string data = "Plans for the construction of a fishing hut in Mirth."
    [838]
-    1 string data = "A memento of past deeds. Can be sold for 1G."
+    1 string data = "Shop Plans"
    [839]
-    1 string data = "Flimsy Hammer"
+    1 string data = "Plans for the construction of a shop in Mirth."
    [840]
-    1 string data = "Very flimsy."
+    1 string data = "Alumni Token"
    [841]
-    1 string data = "Music Sheet #1"
+    1 string data = "A memento of past deeds. Can be sold for 1G."
    [842]
-    1 string data = "Music Sheet #2"
+    1 string data = "Flimsy Hammer"
    [843]
-    1 string data = "Music Sheet #3"
+    1 string data = "Very flimsy."
    [844]
-    1 string data = "Music Sheet #4"
+    1 string data = "Music Sheet #1"
    [845]
-    1 string data = "Music Sheet #5"
+    1 string data = "Music Sheet #2"
    [846]
-    1 string data = "Music Sheet #6"
+    1 string data = "Music Sheet #3"
    [847]
-    1 string data = "Music Sheet #7"
+    1 string data = "Music Sheet #4"
    [848]
+    1 string data = "Music Sheet #5"
+   [849]
+    1 string data = "Music Sheet #6"
+   [850]
+    1 string data = "Music Sheet #7"
+   [851]
     1 string data = "Yolande will know what to do with this."

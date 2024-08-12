@@ -51,7 +51,7 @@
    [18]
     1 string data = "This has to be what's creating the clouds, but..."
    [19]
-    1 string data = "I’ve never seen anything so intricate."
+    1 string data = "I've never seen anything so intricate."
    [20]
     1 string data = "Cedric. Tell me you've got something."
    [21]
@@ -61,7 +61,7 @@
    [23]
     1 string data = "..."
    [24]
-    1 string data = "I can’t use this!"
+    1 string data = "I can't use this!"
    [25]
     1 string data = "..."
    [26]
@@ -109,7 +109,7 @@
    [47]
     1 string data = "Hmm... So, just a bunch of documentation and intricate designs..."
    [48]
-    1 string data = "There’s nothing in here about operating the console directly."
+    1 string data = "There's nothing in here about operating the console directly."
    [49]
     1 string data = "Tech-savvy engineers may infer core function based on blueprints and schematics."
    [50]
@@ -119,13 +119,13 @@
    [52]
     1 string data = "Hey, how about Caël and his friends at the Clockwork Castle?"
    [53]
-    1 string data = "They’re pretty good at this kind of stuff, right?"
+    1 string data = "They're pretty good at this kind of stuff, right?"
    [54]
     1 string data = "Worth a shot."
    [55]
     1 string data = "It's a lead. Maybe they can hack into the AI Core, too."
    [56]
-    1 string data = "You’re coming with us."
+    1 string data = "You're coming with us."
    [57]
     1 string data = "Please be gentle!"
    [58]
@@ -169,11 +169,11 @@
    [77]
     1 string data = "(Now to disengage the cloud emitters.)"
    [78]
-    1 string data = "(Hey, let's make it rain on The Fleshmancer’s castle while we're at it!)"
+    1 string data = "(Hey, let's make it rain on The Fleshmancer's castle while we're at it!)"
    [79]
     1 string data = "(Haha, that'll ruin his day!)"
    [80]
-    1 string data = "(It will take a while for them to fully disperse, but let’s make sure the first ray of sun hits just right...)"
+    1 string data = "(It will take a while for them to fully disperse, but let's make sure the first ray of sun hits just right...)"
    [81]
     1 string data = "(Aaaaand... done!)"
    [82]
@@ -183,7 +183,7 @@
    [84]
     1 string data = "You did it, Artificer!"
    [85]
-    1 string data = "Haha! I’m the best!"
+    1 string data = "Haha! I'm the best!"
    [86]
     1 string data = "(Hey, do the thing!)"
    [87]
@@ -195,7 +195,7 @@
    [90]
     1 string data = "Arty, thank you so much!"
    [91]
-    1 string data = "Hey, don’t mention it!"
+    1 string data = "Hey, don't mention it!"
    [92]
     1 string data = "It was the right thing to do, plus it got us out of our prison!"
    [93]

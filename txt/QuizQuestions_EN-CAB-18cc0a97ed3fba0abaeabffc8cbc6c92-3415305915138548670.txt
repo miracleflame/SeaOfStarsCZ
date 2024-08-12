@@ -95,7 +95,7 @@
    [40]
     1 string data = "FALSE"
    [41]
-    1 string data = "True or False: The Molekin from Stonemason's Outpost are descended from a long line of elemental mages."
+    1 string data = "True or False: The Molekin from Stonemasons Outpost are descended from a long line of elemental mages."
    [42]
     1 string data = "TRUE"
    [43]
@@ -119,7 +119,7 @@
    [52]
     1 string data = "Rochèvre"
    [53]
-    1 string data = "Bomb Thrower"
+    1 string data = "Srower"
    [54]
     1 string data = "Yolande, Valtraid and Keenathan are part of a pirate crew led by whom?"
    [55]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Graplou"
    [113]
-    1 string data = "Hook Shoot"
+    1 string data = "Hook Shot"
    [114]
     1 string data = "Rope Dart"
    [115]
@@ -269,7 +269,7 @@
    [127]
     1 string data = "Mermaidwizard"
    [128]
-    1 string data = "Mermofwizqard"
+    1 string data = "Mermofwizquard"
    [129]
     1 string data = "Mezomormidard"
    [130]
@@ -485,7 +485,7 @@
    [235]
     1 string data = "Swordfish"
    [236]
-    1 string data = "Fluorescent Piranha"
+    1 string data = "Lunar Trout"
    [237]
     1 string data = "Ninja Starfish"
    [238]
@@ -621,7 +621,7 @@
    [303]
     1 string data = "The Haughty Cormoran"
    [304]
-    1 string data = "How is Big Buggy's special attack called?"
+    1 string data = "What is BigBuggy's special attack called?"
    [305]
     1 string data = "Stalagbite"
    [306]
@@ -665,7 +665,7 @@
    [325]
     1 string data = "Of the following species, which one can NOT be fished on Cerulean Island?"
    [326]
-    1 string data = "Cybernard-l'hermite"
+    1 string data = "Cybernardl'Hermite"
    [327]
     1 string data = "Laser Burbot"
    [328]
@@ -897,7 +897,7 @@
    [441]
     1 string data = "Billowing Strike"
    [442]
-    1 string data = "What was LeJugg's transition when he went from his first to his second form?"
+    1 string data = "What was LeJugg's color transition when he went from his first to his second form?"
    [443]
     1 string data = "From red to blue"
    [444]
@@ -927,7 +927,7 @@
    [456]
     1 string data = "The Portal Frame"
    [457]
-    1 string data = "What was the name of the one in charge of the team that built Es'tristae"
+    1 string data = "What was the name of the one in charge of the team that built Es'tristae?"
    [458]
     1 string data = "X'tol"
    [459]

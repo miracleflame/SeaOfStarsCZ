@@ -15,25 +15,25 @@
    [0]
     1 string data = "My weapon will be something that hits\nreally hard!"
    [1]
-    1 string data = "And I’ll pick a FAST one!"
+    1 string data = "And I'll pick a FAST one!"
    [2]
-    1 string data = "We’ll be unstoppable!"
+    1 string data = "We'll be unstoppable!"
    [3]
-    1 string data = "Imagine all the wonders we’ll find after we leave Evermist Island."
+    1 string data = "Imagine all the wonders we'll find after we leave Evermist Island."
    [4]
     1 string data = "I want to see <color=bad>The Sleeper</color>!"
    [5]
-    1 string data = "What’s that?"
+    1 string data = "What's that?"
    [6]
-    1 string data = "You’ve never heard of The Sleeper?"
+    1 string data = "You've never heard of The Sleeper?"
    [7]
-    1 string data = "Stories say it’s a giant serpent, and it's been sleeping curled up around a mountain since even before there were Traveling Historians to record it."
+    1 string data = "Stories say it's a giant serpent, and it's been sleeping curled up around a mountain since even before there were Traveling Historians to record it."
    [8]
     1 string data = "No way!"
    [9]
-    1 string data = "Sure is, and it’s super dangerous too!"
+    1 string data = "Sure is, and it's super dangerous too!"
    [10]
-    1 string data = "But don't worry it can’t wake up."
+    1 string data = "But don't worry it can't wake up."
    [11]
     1 string data = "Why not?"
    [12]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "I want to see it too!"
    [15]
-    1 string data = "It’s the bell, <color=good>Erlina</color> and <color=good>Brugaves</color> are back!"
+    1 string data = "It's the bell, <color=good>Erlina</color> and <color=good>Brugaves</color> are back!"
    [16]
     1 string data = "Quick, maybe we can catch them before they go to the academy!"
    [17]
@@ -63,13 +63,13 @@
    [24]
     1 string data = "What about you Valere, have you been training too?"
    [25]
-    1 string data = "Every day! I bet I’m stronger than you now!"
+    1 string data = "Every day! I bet I'm stronger than you now!"
    [26]
-    1 string data = "Haha, I’m sure you are. Come here then!"
+    1 string data = "Haha, I'm sure you are. Come here then!"
    [27]
     1 string data = "Yah! Yah!"
    [28]
-    1 string data = "Whoa easy now, I can’t report to the Headmaster if you knock me out!"
+    1 string data = "Whoa easy now, I can't report to the Headmaster if you knock me out!"
    [29]
     1 string data = "!!!"
    [30]
@@ -87,11 +87,11 @@
    [36]
     1 string data = "Can we go too?"
    [37]
-    1 string data = "Believe me, once you enter <color=location>Zenith Academy</color> you’ll wish you hadn’t."
+    1 string data = "Believe me, once you enter <color=location>Zenith Academy</color> you'll wish you hadn't."
    [38]
     1 string data = "..."
    [39]
-    1 string data = "Let’s go Brugaves."
+    1 string data = "Let's go Brugaves."
    [40]
     1 string data = "..."
    [41]
@@ -103,11 +103,11 @@
    [44]
     1 string data = "Want to go to the <color=location>Forbidden Cavern</color> again?"
    [45]
-    1 string data = "We tried already, I can’t open it."
+    1 string data = "We tried already, I can't open it."
    [46]
     1 string data = "Yeah but last time we decided maybe the full moon could make the rune more sensitive."
    [47]
-    1 string data = "I’m sure it’ll work! And Moraine will be so impressed, he’ll take you two in for training right away and then we’ll finally be allowed to leave this island!"
+    1 string data = "I'm sure it'll work! And Moraine will be so impressed, he'll take you two in for training right away and then we'll finally be allowed to leave this island!"
    [48]
     1 string data = "What if he gets mad and delays our training instead?"
    [49]
@@ -117,11 +117,11 @@
    [51]
     1 string data = "I mean, IF I open it."
    [52]
-    1 string data = "Alright, let’s go!"
+    1 string data = "Alright, let's go!"
    [53]
     1 string data = "Make sure to treat the wound and soothe the poor kid."
    [54]
-    1 string data = "He’s not the complaining type, but if the pain seems to return please send for me."
+    1 string data = "He's not the complaining type, but if the pain seems to return please send for me."
    [55]
     1 string data = "Understood, Headmaster."
    [56]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "I..."
    [58]
-    1 string data = "Can’t he come and stay with us?"
+    1 string data = "Can't he come and stay with us?"
    [59]
     1 string data = "How long is very long? Like a week?"
    [60]
@@ -149,17 +149,17 @@
    [67]
     1 string data = "With any luck, it will help you forget any ideas of getting involved with a burden that is not yours to bear."
    [68]
-    1 string data = "Guys! Don’t forget about me!"
+    1 string data = "Guys! Don't forget about me!"
    [69]
     1 string data = "Never!"
    [70]
-    1 string data = "We’ll train really hard, maybe it won’t take so long!"
+    1 string data = "We'll train really hard, maybe it won't take so long!"
    [71]
     1 string data = "Welcome to Zenith Academy."
    [72]
     1 string data = "In this ancient place of knowledge, you will learn everything you need to know in order to become true Solstice Warriors."
    [73]
-    1 string data = "We’ve been waiting for this for so long."
+    1 string data = "We've been waiting for this for so long."
    [74]
     1 string data = "When do we start?"
    [75]
@@ -169,9 +169,9 @@
    [77]
     1 string data = "Welcome to the classroom in the sky."
    [78]
-    1 string data = "Whoa, it’s beautiful!!"
+    1 string data = "Whoa, it's beautiful!!"
    [79]
-    1 string data = "I’m feeling a weird resonance, like when I opened the Forbidden Cavern."
+    1 string data = "I'm feeling a weird resonance, like when I opened the Forbidden Cavern."
    [80]
     1 string data = "Good on you for noticing that."
    [81]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Of the magic you are destined to wield, and the evils it is meant to cleanse."
    [89]
-    1 string data = "We’ll learn how to fight too, right?"
+    1 string data = "We'll learn how to fight too, right?"
    [90]
     1 string data = "Naturally."
    [91]
@@ -251,7 +251,7 @@
    [118]
     1 string data = "BRUGAVES!"
    [119]
-    1 string data = "So you’ll be our trainer?"
+    1 string data = "So you'll be our trainer?"
    [120]
     1 string data = "I wish!"
    [121]
@@ -261,7 +261,7 @@
    [123]
     1 string data = "You bet!"
    [124]
-    1 string data = "That’s what I like to hear!"
+    1 string data = "That's what I like to hear!"
    [125]
     1 string data = "I reckon these should be well suited for the two of you."
    [126]
@@ -273,7 +273,7 @@
    [129]
     1 string data = "Huff.. huff.."
    [130]
-    1 string data = "You got this Valere, don’t give up now!"
+    1 string data = "You got this Valere, don't give up now!"
    [131]
     1 string data = "Never!"
    [132]
@@ -285,7 +285,7 @@
    [135]
     1 string data = "Ninety-nine, one hundred!"
    [136]
-    1 string data = "That’s it for today, you did great!"
+    1 string data = "That's it for today, you did great!"
    [137]
     1 string data = "Phew!"
    [138]
@@ -307,9 +307,9 @@
    [146]
     1 string data = "Hey! You startled me, I almost had it!"
    [147]
-    1 string data = "Now mine’s gone too..."
+    1 string data = "Now mine's gone too..."
    [148]
-    1 string data = "It’s okay, just breathe slowly."
+    1 string data = "It's okay, just breathe slowly."
    [149]
     1 string data = "Try to release only when you feel its current passing in front of you."
    [150]
@@ -345,9 +345,9 @@
    [165]
     1 string data = "Yeah I have no idea what shape to even make..."
    [166]
-    1 string data = "At least the Headmaster said we wouldn’t get it right the first time."
+    1 string data = "At least the Headmaster said we wouldn't get it right the first time."
    [167]
-    1 string data = "(Well, I’m bored.)"
+    1 string data = "(Well, I'm bored.)"
    [168]
     1 string data = "What are you doing?"
    [169]
@@ -359,7 +359,7 @@
    [172]
     1 string data = "So why can't they have a normal life?"
    [173]
-    1 string data = "And you know the three of us can take the one on <color=location>Wraith Island</color>. We don’t need them."
+    1 string data = "And you know the three of us can take the one on <color=location>Wraith Island</color>. We don't need them."
    [174]
     1 string data = "Prudence, Erlina. There is no telling what threats we may face in the future."
    [175]
@@ -381,7 +381,7 @@
    [183]
     1 string data = "But..."
    [184]
-    1 string data = "Let’s just go, Brugaves."
+    1 string data = "Let's just go, Brugaves."
    [185]
     1 string data = "..."
    [186]
@@ -485,7 +485,7 @@
    [235]
     1 string data = "Knowing him I bet he smiled it away the next day."
    [236]
-    1 string data = "Haha, you’re probably right!"
+    1 string data = "Haha, you're probably right!"
    [237]
     1 string data = "We can't let something like this happen ever again."
    [238]
@@ -501,7 +501,7 @@
    [243]
     1 string data = "The sound came from the entrance to the south. Let's check it out!"
    [244]
-    1 string data = "Zale! That’s the one!"
+    1 string data = "Zale! That's the one!"
    [245]
     1 string data = "I can feel it too, hold on!"
    [246]
@@ -513,13 +513,13 @@
    [249]
     1 string data = "No need"
    [250]
-    1 string data = "Timing your hits and blocks is important. Are you sure you don’t want to review this?"
+    1 string data = "Timing your hits and blocks is important. Are you sure you don't want to review this?"
    [251]
     1 string data = "Okay, fine."
    [252]
     1 string data = "Skip"
    [253]
-    1 string data = "Looks like you know what you’re doing!"
+    1 string data = "Looks like you know what you're doing!"
    [254]
     1 string data = "Ready to go through the basics of magic?"
    [255]
@@ -537,7 +537,7 @@
    [261]
     1 string data = "Slides on combat basics can be viewed in the How to Play section of the pause menu."
    [262]
-    1 string data = "Let’s get started. Just attack me now in any order."
+    1 string data = "Let's get started. Just attack me now in any order."
    [263]
     1 string data = "Use <button="MoveHorizontal"> to cycle through available characters."
    [264]
@@ -551,11 +551,11 @@
    [268]
     1 string data = "With proper timing you can increase the damage that you deal, and sometimes even score additional hits."
    [269]
-    1 string data = "Let’s see it."
+    1 string data = "Let's see it."
    [270]
     1 string data = "Press <button="Interact"> as the hit connects to increase damage."
    [271]
-    1 string data = "Good. Let’s see that one more time."
+    1 string data = "Good. Let's see that one more time."
    [272]
     1 string data = "That was too soon. Stay focused, and press as the hit connects."
    [273]
@@ -565,7 +565,7 @@
    [275]
     1 string data = "Now!"
    [276]
-    1 string data = "Ouch! Yeah, that’s the gist of it."
+    1 string data = "Ouch! Yeah, that's the gist of it."
    [277]
     1 string data = "Most of your attacks and spells can be made more potent with proper timing. Some also keep going with more hits until you miss!"
    [278]
@@ -573,7 +573,7 @@
    [279]
     1 string data = "So don't worry about it too much. Just keep on trying and your sense for it will develop over time."
    [280]
-    1 string data = "Okay, now for timing your blocks. Let’s get the little guy in here."
+    1 string data = "Okay, now for timing your blocks. Let's get the little guy in here."
    [281]
     1 string data = "Stay focused, and press <button="Interact"> as the hit connects. The window is short."
    [282]
@@ -593,7 +593,7 @@
    [289]
     1 string data = "Now!"
    [290]
-    1 string data = "That’s how you do it!"
+    1 string data = "That's how you do it!"
    [291]
     1 string data = "Remember to always stay alert. Some patterns will be harder to read than others, sometimes even requiring multiple blocks."
    [292]
@@ -605,21 +605,21 @@
    [295]
     1 string data = "Oh, one more thing."
    [296]
-    1 string data = "When a party member gets knocked out in battle, you’ll need to switch to a more defensive mode."
+    1 string data = "When a party member gets knocked out in battle, you'll need to switch to a more defensive mode."
    [297]
-    1 string data = "KO’d allies will get back up on their own at 50% HP once all the KO stars are gone."
+    1 string data = "KO'd allies will get back up on their own at 50% HP once all the KO stars are gone."
    [298]
     1 string data = "One KO star is removed at the end of each round."
    [299]
     1 string data = "The more you fall during the same battle, the more KO stars there are, so be careful!"
    [300]
-    1 string data = "If all party members go down, it’s game over."
+    1 string data = "If all party members go down, it's game over."
    [301]
     1 string data = "Fight and survive until [OFFCHAR] returns!"
    [302]
     1 string data = "And there you have it."
    [303]
-    1 string data = "Good work today, I’m sure the exam will be a breeze!"
+    1 string data = "Good work today, I'm sure the exam will be a breeze!"
    [304]
     1 string data = "When enemies prepare spells, you must do everything you can to prevent them."
    [305]
@@ -629,7 +629,7 @@
    [307]
     1 string data = "Valere can do blunt damage, and Zale has slicing."
    [308]
-    1 string data = "Let’s see you break this one."
+    1 string data = "Let's see you break this one."
    [309]
     1 string data = "Just like that."
    [310]
@@ -665,9 +665,9 @@
    [325]
     1 string data = "Yeah, you're strong alright..."
    [326]
-    1 string data = "Keep an eye out in your adventures, you’re bound to come across scrolls that will teach you more combos."
+    1 string data = "Keep an eye out in your adventures, you're bound to come across scrolls that will teach you more combos."
    [327]
-    1 string data = "Good luck with the exam, I’m sure you’ll do great."
+    1 string data = "Good luck with the exam, I'm sure you'll do great."
    [328]
     1 string data = "Moraine will see you to the final test. I'm sure you'll do great."
    [329]
@@ -701,9 +701,9 @@
    [343]
     1 string data = "Then let us begin."
    [344]
-    1 string data = "They haven’t even been to the other side of the Forbidden Cavern yet, how could they understand?"
+    1 string data = "They haven't even been to the other side of the Forbidden Cavern yet, how could they understand?"
    [345]
-    1 string data = "So you don’t think we should at least try and explain?"
+    1 string data = "So you don't think we should at least try and explain?"
    [346]
     1 string data = "You've seen how strong they are, <color=good>Wyrd</color> will be a walk in the park."
    [347]
@@ -743,7 +743,7 @@
    [364]
     1 string data = "So that I may use my strength to inspire hope and eradicate evil, I will become a battle monk."
    [365]
-    1 string data = "I chose the staff, for it won’t break no matter how hard I strike."
+    1 string data = "I chose the staff, for it won't break no matter how hard I strike."
    [366]
     1 string data = "Welcome, battle monk."
    [367]
@@ -783,9 +783,9 @@
    [384]
     1 string data = "It is on special days such as this one that the citizens of Mooncradle are reminded of the importance of their duties."
    [385]
-    1 string data = "(Where’s Garl?)"
+    1 string data = "(Where's Garl?)"
    [386]
-    1 string data = "(I don’t see him...)"
+    1 string data = "(I don't see him...)"
    [387]
     1 string data = "Many years ago, [MAINCHAR] and [OFFCHAR] were delivered to us by the Great Eagle."
    [388]
@@ -805,11 +805,11 @@
    [395]
     1 string data = "(This parading is ridiculous.)"
    [396]
-    1 string data = "(Oh, let the villagers have their fun. It’s all they get.)"
+    1 string data = "(Oh, let the villagers have their fun. It's all they get.)"
    [397]
-    1 string data = "(So you’re okay with this now?)"
+    1 string data = "(So you're okay with this now?)"
    [398]
-    1 string data = "(You know I’m not.)"
+    1 string data = "(You know I'm not.)"
    [399]
     1 string data = "Now, cheer with me, as we send these young heroes out across the Forbidden Cavern to meet the Elder Mist!"
    [400]
@@ -833,9 +833,9 @@
    [409]
     1 string data = "Learn how to “use magic without using magic,” and you shall then enter the world as true Solstice Warriors!"
    [410]
-    1 string data = "MAY <color=moon>LUANA</color>’S MIGHT PROTECT YOU!"
+    1 string data = "MAY <color=moon>LUANA</color>'S MIGHT PROTECT YOU!"
    [411]
-    1 string data = "MAY <color=sun>SOLEN</color>’S LIGHT GUIDE YOU!"
+    1 string data = "MAY <color=sun>SOLEN</color>'S LIGHT GUIDE YOU!"
    [412]
     1 string data = "Here. This should keep you fed for a little bit."
    [413]
@@ -855,11 +855,11 @@
    [420]
     1 string data = "(I still can't believe he wants them fighting a Dweller already.)"
    [421]
-    1 string data = "(That's Moraine for you. We weren’t much older the first time.)"
+    1 string data = "(That's Moraine for you. We weren't much older the first time.)"
    [422]
     1 string data = "(Yeah but...)"
    [423]
-    1 string data = "(We’ll find a way.)"
+    1 string data = "(We'll find a way.)"
    [424]
     1 string data = "Safe journeys, and may you cleanse this world!"
    [425]
@@ -871,7 +871,7 @@
    [428]
     1 string data = "Twenty years ago, in the village of Mooncradle..."
    [429]
-    1 string data = "Come on Brugaves! We’re going to miss them if you don’t hurry!"
+    1 string data = "Come on Brugaves! We're going to miss them if you don't hurry!"
    [430]
     1 string data = "Huff.. huff.."
    [431]
@@ -879,7 +879,7 @@
    [432]
     1 string data = "There you are, little ones!"
    [433]
-    1 string data = "We’re too late..."
+    1 string data = "We're too late..."
    [434]
     1 string data = "I wanted to see the <color=good>Headmistress</color> in her battle gear!"
    [435]
@@ -897,9 +897,9 @@
    [441]
     1 string data = "Maybe we should just sit here then, huh?"
    [442]
-    1 string data = "Haha! Don’t forget to do your chores now, hmm?"
+    1 string data = "Haha! Don't forget to do your chores now, hmm?"
    [443]
-    1 string data = "Oh, come on! We don’t even get a break for the eclipse?"
+    1 string data = "Oh, come on! We don't even get a break for the eclipse?"
    [444]
     1 string data = "Not if you want the twins to play with you later."
    [445]
@@ -911,7 +911,7 @@
    [448]
     1 string data = "Whoa, I can feel the magic coursing through me!"
    [449]
-    1 string data = "You mean you don’t always feel it?"
+    1 string data = "You mean you don't always feel it?"
    [450]
     1 string data = "The tingling? No, this is new."
    [451]
@@ -927,9 +927,9 @@
    [456]
     1 string data = "Hey so, when we grow up, will we have to fight big monsters too?"
    [457]
-    1 string data = "That’s the plan for us--just like anyone else born on a solstice."
+    1 string data = "That's the plan for us--just like anyone else born on a solstice."
    [458]
-    1 string data = "Doesn’t that scare you?"
+    1 string data = "Doesn't that scare you?"
    [459]
     1 string data = "Not really. It's not like we will be alone."
    [460]
@@ -939,7 +939,7 @@
    [462]
     1 string data = "Brugaves?"
    [463]
-    1 string data = "Fine, you sleep. I’ll keep watch."
+    1 string data = "Fine, you sleep. I'll keep watch."
    [464]
     1 string data = "A few hours later..."
    [465]
@@ -965,9 +965,9 @@
    [475]
     1 string data = "A few months later, at Zenith Academy..."
    [476]
-    1 string data = "Focus, Brugaves. You will never become strong enough if you don’t develop your innate magic!"
+    1 string data = "Focus, Brugaves. You will never become strong enough if you don't develop your innate magic!"
    [477]
-    1 string data = "I’m trying!"
+    1 string data = "I'm trying!"
    [478]
     1 string data = "Then try harder, you are way too slow!"
    [479]
@@ -1045,11 +1045,11 @@
    [515]
     1 string data = "Oh, are you two joining us?"
    [516]
-    1 string data = "There’s plenty for everyone, but I’m not sure we can show you our secret hideout."
+    1 string data = "There's plenty for everyone, but I'm not sure we can show you our secret hideout."
    [517]
     1 string data = "No time, we have to report to the Headmaster."
    [518]
-    1 string data = "Okay, but please don’t look which way we’re going."
+    1 string data = "Okay, but please don't look which way we're going."
    [519]
     1 string data = "Last one there does the dishes!"
    [520]
@@ -1071,23 +1071,23 @@
    [528]
     1 string data = "..."
    [529]
-    1 string data = "Can’t you see this world is doomed regardless?"
+    1 string data = "Can't you see this world is doomed regardless?"
    [530]
     1 string data = "Moraine never stopped being a mess, and the kids are way too young to be of any help."
    [531]
-    1 string data = "I can’t accept leaving [MAINCHAR] and [OFFCHAR] behind to die like this."
+    1 string data = "I can't accept leaving [MAINCHAR] and [OFFCHAR] behind to die like this."
    [532]
     1 string data = "We will add a condition that they can go and live with you. Wouldn't you like that?"
    [533]
     1 string data = "What if they refuse?"
    [534]
-    1 string data = "The Acolytes need us for the <color=bad>blood moon</color>. They’ll have no choice but to accept."
+    1 string data = "The Acolytes need us for the <color=bad>blood moon</color>. They'll have no choice but to accept."
    [535]
     1 string data = "Not them, I meant-"
    [536]
     1 string data = "Hey, wait!!"
    [537]
-    1 string data = "Let’s pretend for now. We'll talk later."
+    1 string data = "Let's pretend for now. We'll talk later."
    [538]
     1 string data = "..."
    [539]
@@ -1109,7 +1109,7 @@
    [547]
     1 string data = "Like a true Pirate Chef!"
    [548]
-    1 string data = "This adventure won’t be the same without ya, pal."
+    1 string data = "This adventure won't be the same without ya, pal."
    [549]
     1 string data = "May he be remembered for his warm heart, his bravery, and his unrelenting smile."
    [550]
@@ -1129,7 +1129,7 @@
    [557]
     1 string data = "I am glad you liked the kiln."
    [558]
-    1 string data = "I still can’t believe he spent all that time on the platform with just a monocle and a cookie jar."
+    1 string data = "I still can't believe he spent all that time on the platform with just a monocle and a cookie jar."
    [559]
     1 string data = "He sure was a loyal friend."
    [560]
@@ -1155,11 +1155,11 @@
    [570]
     1 string data = "Oh, how exciting!"
    [571]
-    1 string data = "Valere, I think I’m ready."
+    1 string data = "Valere, I think I'm ready."
    [572]
     1 string data = "...I've been thinking about <color=bad>Erlina</color>."
    [573]
-    1 string data = "No matter what kind of Fleshmancer monster she’s become, we have to defeat her."
+    1 string data = "No matter what kind of Fleshmancer monster she's become, we have to defeat her."
    [574]
     1 string data = "Wherever she is..."
    [575]
@@ -1173,11 +1173,11 @@
    [579]
     1 string data = "With innocence lost and purpose reaffirmed, the powers of [MAINCHAR_GODNAME] and [OFFCHAR_GODNAME] start to awaken within [MAINCHAR] and [OFFCHAR]."
    [580]
-    1 string data = "Zale learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-zale-solenslight"> <color=sun>Solen’s Light: Salvation</color>."
+    1 string data = "Zale learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-zale-solenslight"> <color=sun>Solen's Light: Salvation</color>."
    [581]
-    1 string data = "Valere learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-valere-luanasmight"> <color=moon>Luana’s Might: Retribution</color>."
+    1 string data = "Valere learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-valere-luanasmight"> <color=moon>Luana's Might: Retribution</color>."
    [582]
-    1 string data = "So, y’all ready to avenge your friend?"
+    1 string data = "So, y'all ready to avenge your friend?"
    [583]
     1 string data = "We are."
    [584]
@@ -1191,7 +1191,7 @@
    [588]
     1 string data = "Here lies <color=garl>Garl</color>, the Warrior Cook."
    [589]
-    1 string data = "So this is the Warrior Cook’s resting place?"
+    1 string data = "So this is the Warrior Cook's resting place?"
    [590]
     1 string data = "Yes. He always loved this tree."
    [591]
@@ -1205,9 +1205,9 @@
    [595]
     1 string data = "The best."
    [596]
-    1 string data = "Sorry you had to wait all this time, I thought it'd be instanteneous or something."
+    1 string data = "Sorry you had to wait all this time, I thought it'd be instantaneous or something."
    [597]
-    1 string data = "Anwyay, thanks again B'st!"
+    1 string data = "Anyway, thanks again B'st!"
    [598]
     1 string data = "Please don't mention it."
    [599]
@@ -1231,7 +1231,7 @@
    [608]
     1 string data = "Ha! Right on time!"
    [609]
-    1 string data = "Oh come on, don’t be shy now!"
+    1 string data = "Oh come on, don't be shy now!"
    [610]
     1 string data = "Need to rest?"
    [611]

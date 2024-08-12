@@ -25,11 +25,11 @@
    [5]
     1 string data = "No sweat, big guy, demolition is my middle name!"
    [6]
-    1 string data = "Ha ha! That’s what you get, you old ruin!"
+    1 string data = "Ha ha! That's what you get, you old ruin!"
    [7]
     1 string data = "..."
    [8]
-    1 string data = "That’s one way to do it..."
+    1 string data = "That's one way to do it..."
    [9]
     1 string data = "A job well done, mateys!"
    [10]
@@ -37,7 +37,7 @@
    [11]
     1 string data = "[MAINCHAR]'s crew might need a few pointers in there, so I will remain with them for now."
    [12]
-    1 string data = "Sure, can’t hurt to have a mage around."
+    1 string data = "Sure, can't hurt to have a mage around."
    [13]
     1 string data = "Oh I will prove to be a valuable companion, or my name is not Keenathan!"
    [14]
@@ -67,7 +67,7 @@
    [26]
     1 string data = "Look, that's gotta be the coin we need!"
    [27]
-    1 string data = "Alright, there’s our ticket to Wraith Island!"
+    1 string data = "Alright, there's our ticket to Wraith Island!"
    [28]
     1 string data = "Remove the crystal?"
    [29]

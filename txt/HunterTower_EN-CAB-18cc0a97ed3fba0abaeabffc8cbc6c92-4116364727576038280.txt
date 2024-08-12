@@ -53,7 +53,7 @@
    [19]
     1 string data = "Wind magic will help you escape the gallows. Here."
    [20]
-    1 string data = "The code compells me to leave the Spires, but I will not forget this debt."
+    1 string data = "The code compels me to leave the Spires, but I will not forget this debt."
    [21]
     1 string data = "Safe journeys!"
    [22]

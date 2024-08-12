@@ -17,7 +17,7 @@
    [1]
     1 string data = "The hidden city of the Docarri should be somewhere beyond this jungle.\n"
    [2]
-    1 string data = "We’ve got the Coral Hammer, let’s do this!"
+    1 string data = "We've got the Coral Hammer, let's do this!"
    [3]
     1 string data = "YOU!"
    [4]

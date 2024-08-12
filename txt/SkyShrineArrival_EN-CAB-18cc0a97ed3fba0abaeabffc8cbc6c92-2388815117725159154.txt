@@ -21,6 +21,6 @@
    [3]
     1 string data = "This is definitely the place. Let's go!"
    [4]
-    1 string data = "The Air Elemental Skyland is to the nortwest. We should hurry and get Zephyr for Garl."
+    1 string data = "The Air Elemental Skyland is to the northwest. We should hurry and get Zephyr for Garl."
    [5]
     1 string data = "Right... "

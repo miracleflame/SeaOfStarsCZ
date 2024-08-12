@@ -29,7 +29,7 @@
    [7]
     1 string data = "Huff... huff... Win, and celebrate too!"
    [8]
-    1 string data = "And don’t come back!"
+    1 string data = "And don't come back!"
    [9]
     1 string data = "We're close, I can feel it."
    [10]

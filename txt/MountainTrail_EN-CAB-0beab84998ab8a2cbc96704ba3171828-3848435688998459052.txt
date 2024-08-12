@@ -25,7 +25,7 @@
    [5]
     1 string data = "And SEWING!"
    [6]
-    1 string data = "Ha! Yeah I’m sure glad that’s over with."
+    1 string data = "Ha! Yeah I'm sure glad that's over with."
    [7]
     1 string data = "“Apply yourselves, for the will you weave into it shall be your sole defense in times of greatest need!”"
    [8]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "We should prepare to set up camp."
    [13]
-    1 string data = "Let’s split up and search for a good spot."
+    1 string data = "Let's split up and search for a good spot."
    [14]
     1 string data = "Time for some scouting."
    [15]
@@ -49,7 +49,7 @@
    [17]
     1 string data = "Let's try this!"
    [18]
-    1 string data = "<color=good>Brugaves</color> wasn’t kidding, these feel easier to fight already!"
+    1 string data = "<color=good>Brugaves</color> wasn't kidding, these feel easier to fight already!"
    [19]
     1 string data = "Let's see where this leads."
    [20]
@@ -63,9 +63,9 @@
    [24]
     1 string data = "Nothing of note, but the way to the top is definitely through here."
    [25]
-    1 string data = "The sun is setting. Come over, I’ll get a fire going."
+    1 string data = "The sun is setting. Come over, I'll get a fire going."
    [26]
-    1 string data = "I’ll be right there. Can't wait for more tomato clubs..."
+    1 string data = "I'll be right there. Can't wait for more tomato clubs..."
    [27]
     1 string data = "Press <button="Interact"> to unroll rope ladders."
    [28]
@@ -73,7 +73,7 @@
    [29]
     1 string data = "No turning back now, we have to reach the top and meet the Elder Mist."
    [30]
-    1 string data = "Ha! But it doesn’t beat the face you made the first time you tried smashing a sunball!"
+    1 string data = "Ha! But it doesn't beat the face you made the first time you tried smashing a sunball!"
    [31]
     1 string data = "Oh I can still hear the <color=good>Headmaster</color> gloating."
    [32]
@@ -93,13 +93,13 @@
    [39]
     1 string data = "..."
    [40]
-    1 string data = "I’m sorry Valere, I didn’t mean..."
+    1 string data = "I'm sorry Valere, I didn't mean..."
    [41]
-    1 string data = "It's okay, I understand why he wouldn’t want to join us after what happened, it’s just..."
+    1 string data = "It's okay, I understand why he wouldn't want to join us after what happened, it's just..."
    [42]
     1 string data = "I wish he had said goodbye, you know?"
    [43]
-    1 string data = "After ten years of not seeing his face, just to know that he’s alright..."
+    1 string data = "After ten years of not seeing his face, just to know that he's alright..."
    [44]
     1 string data = "And that we're still friends..."
    [45]
@@ -117,11 +117,11 @@
    [51]
     1 string data = "So the <color=good>Elder Mist</color> lives somewhere here, huh? "
    [52]
-    1 string data = "I really hope we’ll get a chance to return to Mooncradle after this."
+    1 string data = "I really hope we'll get a chance to return to Mooncradle after this."
    [53]
-    1 string data = "What if we’re “sent out into the world” right away?"
+    1 string data = "What if we're “sent out into the world” right away?"
    [54]
-    1 string data = "Yeah, I don’t know..."
+    1 string data = "Yeah, I don't know..."
    [55]
     1 string data = "I just wish Garl was here..."
    [56]
@@ -133,31 +133,31 @@
    [59]
     1 string data = "Celestial Willow jam?"
    [60]
-    1 string data = "I’ve got some right here, guys!"
+    1 string data = "I've got some right here, guys!"
    [61]
-    1 string data = "I even picked some mushrooms! You won’t BELIEVE this soup I’ll make!!!"
+    1 string data = "I even picked some mushrooms! You won't BELIEVE this soup I'll make!!!"
    [62]
     1 string data = "!!!"
    [63]
-    1 string data = "Oh, and I found some herbs in the Forbidden Cavern, they’ll do juuust right!"
+    1 string data = "Oh, and I found some herbs in the Forbidden Cavern, they'll do juuust right!"
    [64]
     1 string data = "GARL?!?"
    [65]
-    1 string data = "What? You didn’t really think I was going to let you go on an adventure without me, did you?"
+    1 string data = "What? You didn't really think I was going to let you go on an adventure without me, did you?"
    [66]
     1 string data = "GARL!!!"
    [67]
-    1 string data = "Hahaha! It’s so good to see you two again!"
+    1 string data = "Hahaha! It's so good to see you two again!"
    [68]
     1 string data = "You look so strong now!"
    [69]
-    1 string data = "Hey why didn’t you show up for our departure?"
+    1 string data = "Hey why didn't you show up for our departure?"
    [70]
     1 string data = "Are you kidding? There was absolutely no announcement!"
    [71]
     1 string data = "As soon as I heard everyone gather I went to our hideout to pack my stuff but you left so fast."
    [72]
-    1 string data = "Guys I’m so pumped for this journey, I know all about survival now!"
+    1 string data = "Guys I'm so pumped for this journey, I know all about survival now!"
    [73]
     1 string data = "Fishing, and gathering, and cooking, and-"
    [74]
@@ -165,49 +165,49 @@
    [75]
     1 string data = "..."
    [76]
-    1 string data = "What’s wrong?"
+    1 string data = "What's wrong?"
    [77]
     1 string data = "You... can't actually come with us..."
    [78]
-    1 string data = "We just wanted to say goodbye, we’re on duty now and it’s pretty dangerous."
+    1 string data = "We just wanted to say goodbye, we're on duty now and it's pretty dangerous."
    [79]
-    1 string data = "You can’t mean that!"
+    1 string data = "You can't mean that!"
    [80]
-    1 string data = "We’ve always talked about how we’d all leave together after your training."
+    1 string data = "We've always talked about how we'd all leave together after your training."
    [81]
     1 string data = "..."
    [82]
-    1 string data = "Plus, I spent all those years practising in our little cave. I’m ready!"
+    1 string data = "Plus, I spent all those years practising in our little cave. I'm ready!"
    [83]
     1 string data = "..."
    [84]
-    1 string data = "Look I may not have any special powers like you do, but I’m built strong and I’ve been preparing."
+    1 string data = "Look I may not have any special powers like you do, but I'm built strong and I've been preparing."
    [85]
-    1 string data = "This here is my shield, I’ll be a defensive fighter!"
+    1 string data = "This here is my shield, I'll be a defensive fighter!"
    [86]
     1 string data = "No, a warrior cook!"
    [87]
     1 string data = "Oh yeah?"
    [88]
-    1 string data = "Sure am! And I’ve been reading a lot too!"
+    1 string data = "Sure am! And I've been reading a lot too!"
    [89]
-    1 string data = "See, most of the monsters you’re going to face won’t even be <color=bad>Fleshmancer minions</color>, which means anyone can fight them."
+    1 string data = "See, most of the monsters you're going to face won't even be <color=bad>Fleshmancer minions</color>, which means anyone can fight them."
    [90]
     1 string data = "Are you sure about that?"
    [91]
-    1 string data = "Totally! You haven’t seen any yet, have you?"
+    1 string data = "Totally! You haven't seen any yet, have you?"
    [92]
     1 string data = "No, but-"
    [93]
-    1 string data = "I’ll know when to step aside, don’t worry!"
+    1 string data = "I'll know when to step aside, don't worry!"
    [94]
-    1 string data = "Plus you can’t really travel the world with just a few sandwiches, what were you thinking?"
+    1 string data = "Plus you can't really travel the world with just a few sandwiches, what were you thinking?"
    [95]
-    1 string data = "That’s... yeah..."
+    1 string data = "That's... yeah..."
    [96]
     1 string data = "See? You need me!"
    [97]
-    1 string data = "You just do your Solstice Warrior duties and I’ll keep your bellies full!"
+    1 string data = "You just do your Solstice Warrior duties and I'll keep your bellies full!"
    [98]
     1 string data = "Garl..."
    [99]
@@ -215,7 +215,7 @@
    [100]
     1 string data = "Okay, deal!"
    [101]
-    1 string data = "Oh I’m so happy!!"
+    1 string data = "Oh I'm so happy!!"
    [102]
     1 string data = "No way, this is awesome!!"
    [103]
@@ -225,15 +225,15 @@
    [105]
     1 string data = "Garl the Warrior-Cook joins the party!"
    [106]
-    1 string data = "And so apparently after we meet this Elder Mist, we’ll be able to “use magic without using magic” and be sent out into the world."
+    1 string data = "And so apparently after we meet this Elder Mist, we'll be able to “use magic without using magic” and be sent out into the world."
    [107]
-    1 string data = "That’s all we’ve been told. I guess finding our own way is the final step of training."
+    1 string data = "That's all we've been told. I guess finding our own way is the final step of training."
    [108]
     1 string data = "Our first assignment is to get to "<color=location>Wraith Island</color>” in time for the next eclipse."
    [109]
-    1 string data = "Wow, that’s a lot."
+    1 string data = "Wow, that's a lot."
    [110]
-    1 string data = "Your powers sound so cool though! Can’t wait to see them in action."
+    1 string data = "Your powers sound so cool though! Can't wait to see them in action."
    [111]
     1 string data = "So how about you Garl?"
    [112]
@@ -241,13 +241,13 @@
    [113]
     1 string data = "All I did was train and learn the skills I thought would come in handy."
    [114]
-    1 string data = "Every single day I was hoping to see you come out. I’m sure glad no one told me it would take TEN YEARS!"
+    1 string data = "Every single day I was hoping to see you come out. I'm sure glad no one told me it would take TEN YEARS!"
    [115]
-    1 string data = "Yeah we missed you too. It’s not fair that we were together and you had to do this on your own."
+    1 string data = "Yeah we missed you too. It's not fair that we were together and you had to do this on your own."
    [116]
-    1 string data = "Well we’re all together now, so it doesn’t matter anymore!"
+    1 string data = "Well we're all together now, so it doesn't matter anymore!"
    [117]
-    1 string data = "And I can’t WAIT to explore the world, I want to taste everything!"
+    1 string data = "And I can't WAIT to explore the world, I want to taste everything!"
    [118]
     1 string data = "Hey, this soup is unreal by the way."
    [119]
@@ -255,9 +255,9 @@
    [120]
     1 string data = "Uh-huh. So how much food did you pack?"
    [121]
-    1 string data = "Just enough for a few meals. It’s better to travel light, and there’s ingredients everywhere if you know to look!"
+    1 string data = "Just enough for a few meals. It's better to travel light, and there's ingredients everywhere if you know to look!"
    [122]
-    1 string data = "And who knows what we’ll find? It’s all part of the adventure!"
+    1 string data = "And who knows what we'll find? It's all part of the adventure!"
    [123]
     1 string data = "Why don't you try now [MAINCHAR]?"
    [124]
@@ -275,13 +275,13 @@
    [130]
     1 string data = "Same here."
    [131]
-    1 string data = "And nothing but the stars above us, I’m loving this life already!"
+    1 string data = "And nothing but the stars above us, I'm loving this life already!"
    [132]
-    1 string data = "Garl, I’m really glad you’re here."
+    1 string data = "Garl, I'm really glad you're here."
    [133]
     1 string data = "Haha, I was just about to say that."
    [134]
-    1 string data = "Me too guys, I wouldn’t want to be anywhere else."
+    1 string data = "Me too guys, I wouldn't want to be anywhere else."
    [135]
     1 string data = "Well, goodnight then!"
    [136]
@@ -305,7 +305,7 @@
    [145]
     1 string data = "Is he brave? Or foolish?"
    [146]
-    1 string data = "Hoo! Let’s find out!"
+    1 string data = "Hoo! Let's find out!"
    [147]
     1 string data = "Welcome, young adventurers, to this sacred pond."
    [148]
@@ -337,7 +337,7 @@
    [161]
     1 string data = "You shall henceforth have light in the darkest places, and protection against the minions of The Fleshmancer."
    [162]
-    1 string data = "I don’t feel any different..."
+    1 string data = "I don't feel any different..."
    [163]
     1 string data = "Yeah me neither."
    [164]
@@ -365,7 +365,7 @@
    [175]
     1 string data = "You are ready. Live Mana will start manifesting for you the next time you enter battle. Are you ready for your final test?"
    [176]
-    1 string data = "Elder Mist, I’d like to go with them."
+    1 string data = "Elder Mist, I'd like to go with them."
    [177]
     1 string data = "..."
    [178]
@@ -395,7 +395,7 @@
    [190]
     1 string data = "Consider it a test of your ability to act as a companion to Solstice Warriors."
    [191]
-    1 string data = "I won’t fail!"
+    1 string data = "I won't fail!"
    [192]
     1 string data = "We are ready."
    [193]
@@ -409,7 +409,7 @@
    [197]
     1 string data = "Good morning! The time has come to begin your journey."
    [198]
-    1 string data = "Morning? But it’s the middle of the night!"
+    1 string data = "Morning? But it's the middle of the night!"
    [199]
     1 string data = "Ah yes, I suppose your friends should address that..."
    [200]
@@ -429,7 +429,7 @@
    [207]
     1 string data = "Now concentrate, and bring us the dawn!"
    [208]
-    1 string data = "How did you do that? That’s the coolest thing I've EVER seen!!"
+    1 string data = "How did you do that? That's the coolest thing I've EVER seen!!"
    [209]
     1 string data = "Hoo hoo hoo!"
    [210]
@@ -471,13 +471,13 @@
    [228]
     1 string data = "Zale, it really hurts."
    [229]
-    1 string data = "I’m so sorry, buddy..."
+    1 string data = "I'm so sorry, buddy..."
    [230]
     1 string data = "I feel colder and colder..."
    [231]
     1 string data = "Garl..."
    [232]
-    1 string data = "Hey, we got to fly in the end. That’s pretty good, right?"
+    1 string data = "Hey, we got to fly in the end. That's pretty good, right?"
    [233]
     1 string data = "Haha... GAH!"
    [234]
@@ -487,11 +487,11 @@
    [236]
     1 string data = "You'll go after Erlina and The Fleshmancer?"
    [237]
-    1 string data = "That doesn’t matter right now."
+    1 string data = "That doesn't matter right now."
    [238]
     1 string data = "Seems like they left for a far away place."
    [239]
-    1 string data = "Don’t worry about it, Garl. Just stay with us."
+    1 string data = "Don't worry about it, Garl. Just stay with us."
    [240]
     1 string data = "I wish I could help you get there."
    [241]
@@ -511,15 +511,15 @@
    [248]
     1 string data = "*Cough! Cough!*"
    [249]
-    1 string data = "But it’s too late..."
+    1 string data = "But it's too late..."
    [250]
     1 string data = "If I had just one more day..."
    [251]
-    1 string data = "(Come on, kid! I can’t do it if you don’t ask.)"
+    1 string data = "(Come on, kid! I can't do it if you don't ask.)"
    [252]
     1 string data = "When that moment comes, demand a <color=magic>Flask of Borrowed Time</color>."
    [253]
-    1 string data = "Resh’an! I demand a Flask of Borrowed Time!"
+    1 string data = "Resh'an! I demand a Flask of Borrowed Time!"
    [254]
     1 string data = "Okay, that really hit the spot!"
    [255]
@@ -549,7 +549,7 @@
    [267]
     1 string data = "..."
    [268]
-    1 string data = "It’s okay, I understand."
+    1 string data = "It's okay, I understand."
    [269]
     1 string data = "And I know exactly what to do. First-"
    [270]
@@ -557,21 +557,21 @@
    [271]
     1 string data = "Mhh?"
    [272]
-    1 string data = "You’re just going to act like nothing’s wrong?"
+    1 string data = "You're just going to act like nothing's wrong?"
    [273]
-    1 string data = "I don’t have much time, Valere. I want to make the most of it."
+    1 string data = "I don't have much time, Valere. I want to make the most of it."
    [274]
-    1 string data = "Don’t say that..."
+    1 string data = "Don't say that..."
    [275]
     1 string data = "There might still be a way!"
    [276]
-    1 string data = "There isn’t. I’m sorry."
+    1 string data = "There isn't. I'm sorry."
    [277]
     1 string data = "If you use the time for anything other than the stated purpose, the Borrowed Time will expire instantly."
    [278]
     1 string data = "..."
    [279]
-    1 string data = "Guys, it’s okay."
+    1 string data = "Guys, it's okay."
    [280]
     1 string data = "I already did a lot more than a regular Mooncradle boy has any right to."
    [281]
@@ -579,13 +579,13 @@
    [282]
     1 string data = "..."
    [283]
-    1 string data = "Seeing Garl’s final deed through is what will extend his Borrowed Time the most."
+    1 string data = "Seeing Garl's final deed through is what will extend his Borrowed Time the most."
    [284]
-    1 string data = "You don’t understand!"
+    1 string data = "You don't understand!"
    [285]
-    1 string data = "We can’t lose him!"
+    1 string data = "We can't lose him!"
    [286]
-    1 string data = "It’s too late for that regardless. I just want to help one last time."
+    1 string data = "It's too late for that regardless. I just want to help one last time."
    [287]
     1 string data = "..."
    [288]
@@ -597,17 +597,17 @@
    [291]
     1 string data = "..."
    [292]
-    1 string data = "Come on, it’s this or nothing! Let’s make it count, okay?"
+    1 string data = "Come on, it's this or nothing! Let's make it count, okay?"
    [293]
-    1 string data = "Let’s make it count."
+    1 string data = "Let's make it count."
    [294]
-    1 string data = "Let’s make it count."
+    1 string data = "Let's make it count."
    [295]
-    1 string data = "Alright! Let’s do this."
+    1 string data = "Alright! Let's do this."
    [296]
-    1 string data = "To get you across the Sea of Stars, there’s people we need permission from."
+    1 string data = "To get you across the Sea of Stars, there's people we need permission from."
    [297]
-    1 string data = "We’ll need a bargaining chip, but I know just the thing!"
+    1 string data = "We'll need a bargaining chip, but I know just the thing!"
    [298]
     1 string data = "Where are those people?"
    [299]
@@ -617,15 +617,15 @@
    [301]
     1 string data = "I suppose the flying was a spur of the moment thing?"
    [302]
-    1 string data = "Yeah I’m not too sure how we did that..."
+    1 string data = "Yeah I'm not too sure how we did that..."
    [303]
     1 string data = "The connection took place, but your new powers need more time to grow."
    [304]
-    1 string data = "It’s okay, there’s another way."
+    1 string data = "It's okay, there's another way."
    [305]
-    1 string data = "That mysterious shrine out in the ocean south of Mesa Island... It’s connected somehow."
+    1 string data = "That mysterious shrine out in the ocean south of Mesa Island... It's connected somehow."
    [306]
-    1 string data = "Y'eet can get us closer. Let’s go."
+    1 string data = "Y'eet can get us closer. Let's go."
    [307]
     1 string data = "What could this be?"
    [308]

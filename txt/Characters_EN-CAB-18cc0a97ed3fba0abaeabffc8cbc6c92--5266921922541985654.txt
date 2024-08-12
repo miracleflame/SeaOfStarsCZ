@@ -10,8 +10,8 @@
  1 string locCategoryId = "Characters"
  0 int language = 0
  0 vector strings
-  1 Array Array (179 items)
-   0 int size = 179
+  1 Array Array (180 items)
+   0 int size = 180
    [0]
     1 string data = "Zale"
    [1]
@@ -370,3 +370,5 @@
     1 string data = "Arena Clerk"
    [178]
     1 string data = "Painting"
+   [179]
+    1 string data = "Bob"

@@ -53,7 +53,7 @@
    [19]
     1 string data = "Oh? Surely you know of the <color=bad>evil castle</color> that sits there. It is no place to send a friend."
    [20]
-    1 string data = "That’s still where we are headed."
+    1 string data = "That's still where we are headed."
    [21]
     1 string data = "I will not send friends into danger. I refuse."
    [22]
@@ -83,13 +83,13 @@
    [34]
     1 string data = "Greetings, adventurer."
    [35]
-    1 string data = "Have you met my brothers X’tol and Y'eet?"
+    1 string data = "Have you met my brothers X'tol and Y'eet?"
    [36]
     1 string data = "I can help you get to them in no time, just <color=magic>sail into my mouth</color> and choose a destination!"
    [37]
     1 string data = "..."
    [38]
-    1 string data = "That’s..."
+    1 string data = "That's..."
    [39]
     1 string data = "Okay, that does sound useful."
    [40]

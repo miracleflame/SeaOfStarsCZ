@@ -59,7 +59,7 @@
    [22]
     1 string data = "They fought ever so bravely, but in the end their lives, and their world, were lost. "
    [23]
-    1 string data = "Thus, we arrive at the crux of tonight’s musings: a single question."
+    1 string data = "Thus, we arrive at the crux of tonight's musings: a single question."
    [24]
     1 string data = "How far might they go should fate be given a nudge, and the door that once sat closed were to be <color=good>opened</color>?"
    [25]
@@ -79,13 +79,13 @@
    [32]
     1 string data = "Wait, are you really..."
    [33]
-    1 string data = "Titles are for stories and myths. Please call me Resh’an."
+    1 string data = "Titles are for stories and myths. Please call me Resh'an."
    [34]
-    1 string data = "Resh’an..."
+    1 string data = "Resh'an..."
    [35]
-    1 string data = "That’s even cooler than X’tol!"
+    1 string data = "That's even cooler than X'tol!"
    [36]
-    1 string data = "Wait, so YOU’RE the immortal alchemist?"
+    1 string data = "Wait, so YOU'RE the immortal alchemist?"
    [37]
     1 string data = "I suppose so."
    [38]
@@ -93,11 +93,11 @@
    [39]
     1 string data = "Alchemist, sir, we..."
    [40]
-    1 string data = "Please. Call me Resh’an."
+    1 string data = "Please. Call me Resh'an."
    [41]
-    1 string data = "*Ahem* Resh’an, this is really unexpected."
+    1 string data = "*Ahem* Resh'an, this is really unexpected."
    [42]
-    1 string data = "Yeah we... Can’t you just fix all of this, then?"
+    1 string data = "Yeah we... Can't you just fix all of this, then?"
    [43]
     1 string data = "Unfortunately no. I am bound by a very strict code."
    [44]
@@ -109,11 +109,11 @@
    [47]
     1 string data = "Not to minimize, but you must understand that in the grand scheme of things your reality is simply one of many."
    [48]
-    1 string data = "By fixing your realm, I would unleash <color=bad>Aephorul</color>’s wrath on countless others."
+    1 string data = "By fixing your realm, I would unleash <color=bad>Aephorul</color>'s wrath on countless others."
    [49]
     1 string data = "That is unacceptable."
    [50]
-    1 string data = "Who’s Aephorul?"
+    1 string data = "Who's Aephorul?"
    [51]
     1 string data = "My former associate."
    [52]
@@ -127,7 +127,7 @@
    [56]
     1 string data = "Should he learn of my presence here, however..."
    [57]
-    1 string data = "We’d take him on, he’s nothing but a loser!"
+    1 string data = "We'd take him on, he's nothing but a loser!"
    [58]
     1 string data = "..."
    [59]
@@ -193,7 +193,7 @@
    [89]
     1 string data = "How can you be sure?"
    [90]
-    1 string data = "Aephorul’s tricks always involve big statues."
+    1 string data = "Aephorul's tricks always involve big statues."
    [91]
     1 string data = "??"
    [92]
@@ -203,13 +203,13 @@
    [94]
     1 string data = "Call it what you will, but I recommend you take this task seriously--for it will be very trying."
    [95]
-    1 string data = "Sure, whatever. We’re ready."
+    1 string data = "Sure, whatever. We're ready."
    [96]
     1 string data = "Then go to the northern part of Watcher Island, and perform the cleansing of Torment Peak."
    [97]
     1 string data = "!!"
    [98]
-    1 string data = "Cleansing!? There’s a Dweller here?"
+    1 string data = "Cleansing!? There's a Dweller here?"
    [99]
     1 string data = "Of course. It may be just a prank, but Aephorul played it himself."
    [100]
@@ -219,7 +219,7 @@
    [102]
     1 string data = "..."
    [103]
-    1 string data = "That’s what the Solstice Amulet is really for, isn’t it?"
+    1 string data = "That's what the Solstice Amulet is really for, isn't it?"
    [104]
     1 string data = "Precisely. It may be old, but its magic has yet to fade."
    [105]
@@ -245,11 +245,11 @@
    [115]
     1 string data = "..."
    [116]
-    1 string data = "I thought you couldn’t help directly."
+    1 string data = "I thought you couldn't help directly."
    [117]
     1 string data = "It is but a little nudge. Surely this can stay between us."
    [118]
-    1 string data = "Thanks, Resh’an!"
+    1 string data = "Thanks, Resh'an!"
    [119]
     1 string data = "We'll be back with the Vial of Time."
    [120]
@@ -257,7 +257,7 @@
    [121]
     1 string data = "I will be watching. Good luck."
    [122]
-    1 string data = "Resh’an, we have your vial."
+    1 string data = "Resh'an, we have your vial."
    [123]
     1 string data = "It appears you do, but we should make sure it is not an imitation."
    [124]
@@ -267,7 +267,7 @@
    [126]
     1 string data = "With all your strength."
    [127]
-    1 string data = "Won’t it break?"
+    1 string data = "Won't it break?"
    [128]
     1 string data = "I hope so."
    [129]
@@ -295,7 +295,7 @@
    [140]
     1 string data = "Next, no one other than the four of you can be aware of my true identity."
    [141]
-    1 string data = "You are to refer to me exclusively as Resh’an, and most importantly, never as The Immortal Alchemist."
+    1 string data = "You are to refer to me exclusively as Resh'an, and most importantly, never as The Immortal Alchemist."
    [142]
     1 string data = "You got it! Might want to be extra careful around Teaks, though."
    [143]
@@ -307,15 +307,15 @@
    [146]
     1 string data = "Shall we go, then?"
    [147]
-    1 string data = "Uh, Resh’an?"
+    1 string data = "Uh, Resh'an?"
    [148]
     1 string data = "Yes?"
    [149]
-    1 string data = "You can’t come like this, your robes are all tattered."
+    1 string data = "You can't come like this, your robes are all tattered."
    [150]
     1 string data = "Oh?"
    [151]
-    1 string data = "If you don't want people to know you're immortal, maybe clothes that have been decaying for millennia aren’t the safest bet!"
+    1 string data = "If you don't want people to know you're immortal, maybe clothes that have been decaying for millennia aren't the safest bet!"
    [152]
     1 string data = "Hahaha!"
    [153]

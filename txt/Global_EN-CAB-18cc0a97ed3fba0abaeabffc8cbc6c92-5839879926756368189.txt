@@ -79,7 +79,7 @@
    [32]
     1 string data = "Something meta"
    [33]
-    1 string data = "Somethingn sturdy"
+    1 string data = "Something sturdy"
    [34]
     1 string data = "Something reliable"
    [35]
