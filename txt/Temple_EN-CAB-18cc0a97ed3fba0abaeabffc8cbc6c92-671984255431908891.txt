@@ -161,7 +161,7 @@
    [73]
     1 string data = "Ha. Jak jinak."
    [74]
-    1 string data = "Všechno nejlepší, Resh’ane. Jsem rád, že se ti tvůj dárek líbí."
+    1 string data = "Všechno nejlepší, Resh'ane. Jsem rád, že se ti tvůj dárek líbí."
    [75]
     1 string data = "Jak jsi to dokázal? Myslel jsem si, že na takové kouzlo proměny je nutné použít duši hybrida."
    [76]
@@ -225,7 +225,7 @@
    [105]
     1 string data = "To byl stále ještě... sám sebou. Nebo jsem si to alespoň myslel."
    [106]
-    1 string data = "To je mi líto, Resh’ane."
+    1 string data = "To je mi líto, Resh'ane."
    [107]
     1 string data = "Jen další zničená šťastná vzpomínka. Na té v konečném důsledku nezáleží..."
    [108]
@@ -257,13 +257,13 @@
    [121]
     1 string data = "Odešel, jako by mu na nás ani nezáleželo..."
    [122]
-    1 string data = "Co s tím naděláme. Resh’an se tak sám rozhodl a svou roli sehrál."
+    1 string data = "Co s tím naděláme. Resh'an se tak sám rozhodl a svou roli sehrál."
    [123]
     1 string data = "Máš pravdu. Musíme jít dál."
    [124]
-    1 string data = "B’ste?"
+    1 string data = "B'ste?"
    [125]
-    1 string data = "Už jsme skoro u Es’tristae. Teleport dole u schodů by měl nyní fungovat."
+    1 string data = "Už jsme skoro u Es'tristae. Teleport dole u schodů by měl nyní fungovat."
    [126]
     1 string data = "Energie z tohoto pilíře poutá mysl..."
    [127]

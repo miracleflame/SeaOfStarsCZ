@@ -25,7 +25,7 @@
    [5]
     1 string data = "Speaking o' which, the <color=location>Town ov Lucent</color> should be just ahead."
    [6]
-    1 string data = "We’ll be kicking it back at the local tavern. Can't leave 'til ya take care o' business, anyway."
+    1 string data = "We'll be kicking it back at the local tavern. Can't leave 'til ya take care o' business, anyway."
    [7]
     1 string data = "Yolande, why come here with us if you knew how dangerous it was?"
    [8]
@@ -35,7 +35,7 @@
    [10]
     1 string data = "Right on, Keenathan!"
    [11]
-    1 string data = "Hey, you should come see us at the inn, we’ll be playing some music."
+    1 string data = "Hey, you should come see us at the inn, we'll be playing some music."
    [12]
     1 string data = "You play music!?"
    [13]
@@ -45,17 +45,17 @@
    [15]
     1 string data = "Well, onwards then!"
    [16]
-    1 string data = "Valtraid’s invitation sounds fun. How about we go to the inn and take it easy for a little while?"
+    1 string data = "Valtraid's invitation sounds fun. How about we go to the inn and take it easy for a little while?"
    [17]
-    1 string data = "It’s not like there’s anything more you can do until the others get here."
+    1 string data = "It's not like there's anything more you can do until the others get here."
    [18]
     1 string data = "I suppose we did arrive early..."
    [19]
-    1 string data = "Oh, don’t feel bad! You’ve accomplished so much already."
+    1 string data = "Oh, don't feel bad! You've accomplished so much already."
    [20]
     1 string data = "Plus this cleansing thing, fighting a Dweller must be a pretty big deal."
    [21]
-    1 string data = "Might as well be fully rested, don’t you think?"
+    1 string data = "Might as well be fully rested, don't you think?"
    [22]
     1 string data = "I guess we could take a short break..."
    [23]

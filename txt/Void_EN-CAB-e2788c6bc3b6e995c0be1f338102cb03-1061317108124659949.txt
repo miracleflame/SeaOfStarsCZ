@@ -19,13 +19,13 @@
    [2]
     1 string data = "Yes?"
    [3]
-    1 string data = "Is it true they always fly in on the Warrior Cook’s birthday?"
+    1 string data = "Is it true they always fly in on the Warrior Cook's birthday?"
    [4]
     1 string data = "No one knows for sure."
    [5]
-    1 string data = "Sounds rather poetic though, doesn’t it?"
+    1 string data = "Sounds rather poetic though, doesn't it?"
    [6]
-    1 string data = "Now run along everyone, I must check in on the Crypt’s renovations."
+    1 string data = "Now run along everyone, I must check in on the Crypt's renovations."
    [7]
     1 string data = "Thank you for the story, High Sage!"
    [8]
@@ -35,12 +35,12 @@
    [10]
     1 string data = "Yes?"
    [11]
-    1 string data = "Is it true they always fly in on the Warrior Cook’s birthday?"
+    1 string data = "Is it true they always fly in on the Warrior Cook's birthday?"
    [12]
     1 string data = "Oh, absolutely."
    [13]
-    1 string data = "Quite fitting, don’t you think?"
+    1 string data = "Quite fitting, don't you think?"
    [14]
-    1 string data = "Now run along everyone, I must check in on the Crypt’s renovations."
+    1 string data = "Now run along everyone, I must check in on the Crypt's renovations."
    [15]
     1 string data = "Thank you for the story, High Sage!"

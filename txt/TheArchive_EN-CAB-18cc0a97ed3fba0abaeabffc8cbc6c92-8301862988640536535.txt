@@ -17,7 +17,7 @@
    [1]
     1 string data = "An important trait, to be sure."
    [2]
-    1 string data = "I am Resh’an, an immortal also known asThe Archivist."
+    1 string data = "I am Resh'an, an immortal also known asThe Archivist."
    [3]
     1 string data = "But perhaps you knew that already?"
    [4]

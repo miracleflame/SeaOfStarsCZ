@@ -85,7 +85,7 @@
    [35]
     1 string data = "Co jsi zač?"
    [36]
-    1 string data = "Mé jméno je <color=good>B’st</color>."
+    1 string data = "Mé jméno je <color=good>B'st</color>."
    [37]
     1 string data = "Víš něco o Vesmírné základně?"
    [38]
@@ -133,7 +133,7 @@
    [59]
     1 string data = "Nejjednodušší podoba baterie držící právě tolik energie, aby podpořila poslední snahu zachránit náš svět."
    [60]
-    1 string data = "Nazvali jsme jej <color=good>Es’tristae</color>."
+    1 string data = "Nazvali jsme jej <color=good>Es'tristae</color>."
    [61]
     1 string data = "Ale vchod do Svatosvatých věží je uzavřený. Už jsme zkoušeli všechno."
    [62]
@@ -149,7 +149,7 @@
    [67]
     1 string data = "..."
    [68]
-    1 string data = "B’st a jeho národ jsou zde uvězněni."
+    1 string data = "B'st a jeho národ jsou zde uvězněni."
    [69]
     1 string data = "Jediným důvodem, proč se na místě nerozplynou, je tato kopule."
    [70]
@@ -295,7 +295,7 @@
    [140]
     1 string data = "Svatosvaté věže leží severozápadně odsud. Jdeme."
    [141]
-    1 string data = "B’st se přidává do skupiny!"
+    1 string data = "B'st se přidává do skupiny!"
    [142]
     1 string data = "V téhle kapsli... Tady jsem byl celá ta léta držen..."
    [143]

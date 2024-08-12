@@ -39,11 +39,11 @@
    [12]
     1 string data = "Nazdárek, tak jak se vám daří?"
    [13]
-    1 string data = "Docela dobře, ale před chvílí nás opustil Resh’an."
+    1 string data = "Docela dobře, ale před chvílí nás opustil Resh'an."
    [14]
     1 string data = "Cože? Vždyť stojí přímo támhle!"
    [15]
-    1 string data = "To je jen prázdná loutka. Skutečný Resh’an je pryč."
+    1 string data = "To je jen prázdná loutka. Skutečný Resh'an je pryč."
    [16]
     1 string data = "Celkem děsivé, ale i dost zajímavé."
    [17]
@@ -53,13 +53,13 @@
    [19]
     1 string data = "Ráda tě poznávám, já jsem Teaks."
    [20]
-    1 string data = "Potěšení je na mé straně. Jmenuji se B’st."
+    1 string data = "Potěšení je na mé straně. Jmenuji se B'st."
    [21]
     1 string data = "No, takže, jen se tak porozhlížím po Repine a najednou se otevře tahle kabina."
    [22]
     1 string data = "To jste udělali vy?"
    [23]
-    1 string data = "B’st nahodil proud. Teď můžeme odjet na Vesmírnou základnu."
+    1 string data = "B'st nahodil proud. Teď můžeme odjet na Vesmírnou základnu."
    [24]
     1 string data = "Fakt? Tak to se k vám přidám--To MUSÍM vidět!"
    [25]

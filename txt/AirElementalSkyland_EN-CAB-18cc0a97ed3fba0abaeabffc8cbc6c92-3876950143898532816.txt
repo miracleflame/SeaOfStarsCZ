@@ -45,7 +45,7 @@
    [15]
     1 string data = "Leave it to me."
    [16]
-    1 string data = "That’s it for us, then."
+    1 string data = "That's it for us, then."
    [17]
     1 string data = "I hope the others are okay..."
    [18]

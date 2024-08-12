@@ -17,7 +17,7 @@
    [1]
     1 string data = "The Clockwork Castle."
    [2]
-    1 string data = "The Dweller of Strife is somewhere in there. Let’s find it."
+    1 string data = "The Dweller of Strife is somewhere in there. Let's find it."
    [3]
     1 string data = "You!"
    [4]
@@ -55,10 +55,10 @@
    [20]
     1 string data = "You can still join us if-"
    [21]
-    1 string data = "Don’t you dare!"
+    1 string data = "Don't you dare!"
    [22]
     1 string data = "Go away!"
    [23]
     1 string data = "..."
    [24]
-    1 string data = "Let’s go."
+    1 string data = "Let's go."
