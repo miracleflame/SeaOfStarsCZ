@@ -13,112 +13,112 @@
   1 Array Array (55 items)
    0 int size = 55
    [0]
-    1 string data = "How far from home are we?"
+    1 string data = "Jak daleko od domova asi jsme?"
    [1]
     1 string data = "..."
    [2]
-    1 string data = "INTRUDER ALERT"
+    1 string data = "POZOR: VETŘELCI"
    [3]
-    1 string data = "ENTITIES FROM ANOTHER WORLD HAVE BREACHED THE COMPOUND"
+    1 string data = "DO OBJEKTU PRONIKLY ENTITY Z JINÉHO SVĚTA"
    [4]
-    1 string data = "COMMENCING ELIMINATION"
+    1 string data = "ELIMINACE ZAHÁJENA"
    [5]
-    1 string data = "Watch out!"
+    1 string data = "Pozor!"
    [6]
-    1 string data = "This place seems so advanced..."
+    1 string data = "Vypadá to, že technologie je tady mnohem vyspělejší..."
    [7]
-    1 string data = "There is nothing like this mentioned in any records."
+    1 string data = "O ničem takovém se žádné záznamy nezmiňují."
    [8]
     1 string data = "??"
    [9]
     1 string data = "(...)"
    [10]
-    1 string data = "Welcome to my world."
+    1 string data = "Vítejte v mém světě."
    [11]
-    1 string data = "We desperately need you."
+    1 string data = "Zoufale vás tady potřebujeme."
    [12]
     1 string data = "Seraï..."
    [13]
-    1 string data = "Why didn't you tell us?"
+    1 string data = "Proč jsi nám o ničem neřekla?"
    [14]
-    1 string data = "I couldn't find the words..."
+    1 string data = "Nevěděla jsem jak..."
    [15]
-    1 string data = "Would you have stuck around if you knew?"
+    1 string data = "Byli byste vůbec ochotni pomoct, kdybyste to věděli?"
    [16]
-    1 string data = "Of course! We'd be nowhere without you."
+    1 string data = "Samozřejmě že ano! Bez tebe bychom spoustu věcí nezvládli."
    [17]
-    1 string data = "My world fell to <color=bad>The Fleshmancer</color> a very long time ago."
+    1 string data = "Můj svět už dávno padl do rukou <color=bad>Fleshmancera</color>."
    [18]
-    1 string data = "It's... completely lost..."
+    1 string data = "Je... úplně v troskách..."
    [19]
-    1 string data = "Up above, <color=location>Sky Base</color> produces nasty clouds that prevent sunlight from reaching the surface."
+    1 string data = "Z <color=location>Vesmírné základny</color> na obloze proudí husté mraky, které blokují sluneční světlo."
    [20]
-    1 string data = "And the moon... he sank it into the ocean..."
+    1 string data = "A Měsíc... tak ten potopil do oceánu..."
    [21]
     1 string data = "!!"
    [22]
-    1 string data = "Do you understand?"
+    1 string data = "Víte, co to znamená?"
    [23]
-    1 string data = "The moon and the sun disconnected..."
+    1 string data = "Bez propojení se Sluncem a Měsícem..."
    [24]
-    1 string data = "No more Children of the Solstice..."
+    1 string data = "Se nerodí žádné další Děti Slunovratu..."
    [25]
-    1 string data = "Will you help?"
+    1 string data = "Pomůžete nám?"
    [26]
-    1 string data = "You know we will."
+    1 string data = "Ty víš, že pomůžeme."
    [27]
-    1 string data = "Where do we begin?"
+    1 string data = "Čím začneme?"
    [28]
-    1 string data = "By visiting my home. I have been away for far too long."
+    1 string data = "Návštěvou mého domova. Byla jsem pryč až moc dlouho."
    [29]
-    1 string data = "My people..."
+    1 string data = "Moji lidé..."
    [30]
-    1 string data = "Are they..."
+    1 string data = "A oni jsou..."
    [31]
-    1 string data = "Like me?"
+    1 string data = "Jako já?"
    [32]
-    1 string data = "Yes."
+    1 string data = "Ano."
    [33]
-    1 string data = "One by one, we were turned into cyborgs by the wicked <color=bad>Catalyst</color>, a sentient evil machine..."
+    1 string data = "<color=bad>Catalyst</color>, inteligentní zlý stroj, z nás všech postupně udělal kyborgy..."
    [34]
-    1 string data = "Cursed by immortality in this form, my people linger helplessly while the <color=bad>Dweller of Dread</color> slowly feeds on their souls."
+    1 string data = "A takhle, bez možnosti zemřít, moji lidé bezmocně setrvávají naživu, zatímco jim <color=bad>Dweller of Dread</color> pomalu požírá duše."
    [35]
-    1 string data = "Seraï, I'm so sorry..."
+    1 string data = "Seraï, to je mi tak stašně moc líto..."
    [36]
-    1 string data = "You can help. This is exactly why I left."
+    1 string data = "Vy nám můžete pomoct. Právě proto jsem odešla."
    [37]
-    1 string data = "To find Solstice Warriors. To find you."
+    1 string data = "Abych našla Bojovníky Slunovratu. Abych našla vás."
    [38]
-    1 string data = "If we can remove the clouds, the moon will shine again."
+    1 string data = "Pokud se nám podaří zbavit těch mraků, Měsíc znovu zazáří."
    [39]
-    1 string data = "Then the Dweller of Dread would be made vulnerable."
+    1 string data = "A potom bude Dweller of Dread zranitelný."
    [40]
-    1 string data = "We will cleanse your world. I swear it."
+    1 string data = "My tvůj svět očistíme. To ti přísahám."
    [41]
-    1 string data = "And I swear it too."
+    1 string data = "A já ti to přísahám taky."
    [42]
-    1 string data = "Thank you."
+    1 string data = "Děkuju vám."
    [43]
-    1 string data = "Getting to Sky Base won't be easy, but a lead might have been found while I was away."
+    1 string data = "Dostat se na Vesmírnou základnu nebude snadné, ale mezitím, co jsem byla pryč, mohla být objevena nějaká stopa."
    [44]
-    1 string data = "Let's make for <color=location>Repine</color>, my hometown. I want to show you what we are fighting here."
+    1 string data = "Vydáme se do <color=location>Repine</color>, mého rodného města. Chci vám ukázat, proti čemu tady bojujeme."
    [45]
-    1 string data = "What about The Fleshmancer?"
+    1 string data = "Ale co Fleshmancer?"
    [46]
-    1 string data = "His lair lies on a flying piece of land."
+    1 string data = "Ten má doupě na létajícím ostrově."
    [47]
-    1 string data = "I have absolutely no idea how to get there."
+    1 string data = "Nemám nejmenší tušení, jak se tam dostat."
    [48]
-    1 string data = "Okay, first things first. Let's visit your place."
+    1 string data = "Dobře, všechno pěkně popořádku. Nejdřív navštívíme tvé město."
    [49]
-    1 string data = "Repine is on <color=location>Cerulean Island</color>, east of the exit from here."
+    1 string data = "Repine je na <color=location>Azurovém ostrově</color>, který odsud leží směrem na východ."
    [50]
-    1 string data = "The <color=location>Derelict Factory</color> might pose a challenge, but I suppose we've been through worse."
+    1 string data = "Projít <color=location>Opuštěnou továrnou</color> nám možná dá trochu zabrat, ale řekla bych, že už nás potkaly horší věci."
    [51]
-    1 string data = "Alright. Lead the way."
+    1 string data = "Tak fajn. Pojďme."
    [52]
-    1 string data = "No turning back now."
+    1 string data = "Teď se nikam vracet nebudeme."
    [53]
-    1 string data = "Some advanced technology that seems to be the norm in Seraï's world..."
+    1 string data = "Jakási pokročilá technologie, která se zdá být běžnou součástí Seraïna světa..."
    [54]
-    1 string data = "Some kind of technology displaying shapes made of light."
+    1 string data = "Jakási technologie zobrazující světelné útvary."
