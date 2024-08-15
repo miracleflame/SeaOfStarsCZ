@@ -113,7 +113,7 @@
    [49]
     1 string data = "Hehehe..."
    [50]
-    1 string data = "Jakákoliv jiná odpověď by byla lepší než tahle."
+    1 string data = "Horší odpověď jste si snad vymyslet nemohli."
    [51]
     1 string data = "To je vyloučeno! Nikomu nepřísluší být v přítomnosti našeho Boha."
    [52]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "??"
    [63]
-    1 string data = "Dali jsme ti tvá křídla a ty nám to oplatíš tím, že nás zničíš?"
+    1 string data = "Dali jsme ti tvá křídla a ty nám to oplatíš tak, že nás zničíš?"
    [64]
     1 string data = "O čem to mluvíš?"
    [65]
@@ -161,7 +161,7 @@
    [73]
     1 string data = "Ha. Jak jinak."
    [74]
-    1 string data = "Všechno nejlepší, Resh'ane. Jsem rád, že se ti tvůj dárek líbí."
+    1 string data = "Všechno nejlepší, Resh'ane. Jsem rád, že se ti dárek líbí."
    [75]
     1 string data = "Jak jsi to dokázal? Myslel jsem si, že na takové kouzlo proměny je nutné použít duši hybrida."
    [76]
