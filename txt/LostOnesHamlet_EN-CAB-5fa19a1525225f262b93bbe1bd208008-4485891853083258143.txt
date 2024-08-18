@@ -77,7 +77,7 @@
    [31]
     1 string data = "Zeptáme se jich."
    [32]
-    1 string data = "Vy jste Bojovníci Slunovratu, že ano?"
+    1 string data = "Vy jste Bojovníci Slunovratu, je to tak?"
    [33]
     1 string data = "Jak to víš?"
    [34]
@@ -129,9 +129,9 @@
    [57]
     1 string data = "Obr z kamene a kybernetiky, jenž svírá v rukou kvádr."
    [58]
-    1 string data = "Po odjištění mechanismu blok upustí a vygeneruje tím stejnou energii, jaká byla vynaložena k jeho zvednutí."
+    1 string data = "Po odjištění mechanismu blok upustí a vygeneruje tím stejnou energii, jež byla vynaložena k jeho zvednutí."
    [59]
-    1 string data = "Nejjednodušší podoba baterie držící právě tolik energie, aby podpořila poslední snahu zachránit náš svět."
+    1 string data = "Nejjednodušší podoba baterie držící právě tolik energie, aby podpořila poslední snahu spasit náš svět."
    [60]
     1 string data = "Nazvali jsme jej <color=good>Es'tristae</color>."
    [61]
@@ -297,7 +297,7 @@
    [141]
     1 string data = "B'st se přidává do skupiny!"
    [142]
-    1 string data = "V téhle kapsli... Tady jsem byl celá ta léta držen..."
+    1 string data = "V téhle kapsli... Zde jsem byl celá ta léta držen..."
    [143]
     1 string data = "A tahle..."
    [144]
