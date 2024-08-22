@@ -33,9 +33,9 @@
    [9]
     1 string data = "Tanečník čepele narozený o letním slunovratu.<br>Kráčí po stezce <color=sun>Strážného Boha Solena</color>."
    [10]
-    1 string data = "Mniška narozená o zimním slunovratu.<br>Kráčí po stezce <color=#A4E4FC>Strážného Boha Luana</color>."
+    1 string data = "Mniška narozená o zimním slunovratu.<br>Kráčí po stezce <color=#A4E4FC>Strážné Bohyně Luany</color>."
    [11]
-    1 string data = "Tanečník solární čepele"
+    1 string data = "Solární tanečník čepele"
    [12]
     1 string data = "Lunární mniška"
    [13]
@@ -43,11 +43,11 @@
    [14]
     1 string data = "Asasínka"
    [15]
-    1 string data = "Nesmrtelný Alchymista"
+    1 string data = "Nesmrtelný alchymista"
    [16]
-    1 string data = "Golem z živého skla"
+    1 string data = "Golem z Živého skla"
    [17]
-    1 string data = "Archivářka"
+    1 string data = "Archivář"
    [18]
     1 string data = "Gorilí mládě"
    [19]
@@ -59,11 +59,11 @@
    [22]
     1 string data = "Dokarrijský stařešina"
    [23]
-    1 string data = "Vědma přílivů a odlivů "
+    1 string data = "Věštec přílivů a odlivů "
    [24]
     1 string data = "Dokarrijské dítě"
    [25]
-    1 string data = "Apoštol Kunus'nuku"
+    1 string data = "Apoštolka Kunus'nuku"
    [26]
     1 string data = "Gorilí mláďata"
    [27]
@@ -79,9 +79,9 @@
    [32]
     1 string data = "Vesničan"
    [33]
-    1 string data = "Vesničani"
+    1 string data = "Vesničané"
    [34]
-    1 string data = "Vesnický dítě"
+    1 string data = "Vesnické dítě"
    [35]
     1 string data = "Vesničan 1"
    [36]
@@ -91,7 +91,7 @@
    [38]
     1 string data = "Vesničan 4"
    [39]
-    1 string data = "Baník"
+    1 string data = "Horník"
    [40]
     1 string data = "Wyrd"
    [41]
@@ -123,13 +123,13 @@
    [54]
     1 string data = "Valtraid"
    [55]
-    1 string data = "Kapitán Klii'shaë"
+    1 string data = "Kapitánka Klii'shaë"
    [56]
     1 string data = "Yolanda"
    [57]
     1 string data = "Keenathan"
    [58]
-    1 string data = "Skromná chlouba šéfkuchaře"
+    1 string data = "Šéfkuchař Skromné chlouby"
    [59]
     1 string data = "Kašpar"
    [60]
@@ -137,23 +137,23 @@
    [61]
     1 string data = "Edgar"
    [62]
-    1 string data = "Mecenáš 1"
+    1 string data = "Host 1"
    [63]
-    1 string data = "Mecenáš 2"
+    1 string data = "Host 2"
    [64]
-    1 string data = "Mecenáš 3"
+    1 string data = "Host 3"
    [65]
     1 string data = "Převozník"
    [66]
     1 string data = "Romaya"
    [67]
-    1 string data = "Jedna"
+    1 string data = "Jednička"
    [68]
-    1 string data = "Dva"
+    1 string data = "Dvojka"
    [69]
-    1 string data = "Tři"
+    1 string data = "Trojka"
    [70]
-    1 string data = "Čtyři"
+    1 string data = "Čtyřka"
    [71]
     1 string data = "Vévoda Aventry"
    [72]
@@ -169,7 +169,7 @@
    [77]
     1 string data = "Hospodský"
    [78]
-    1 string data = "Hortenz"
+    1 string data = "Hortenzie"
    [79]
     1 string data = "Kupec"
    [80]
@@ -181,7 +181,7 @@
    [83]
     1 string data = "Vesničan Mirthu 3"
    [84]
-    1 string data = "Kryptochod"
+    1 string data = "Kryptochodec"
    [85]
     1 string data = "Gus"
    [86]
@@ -203,23 +203,23 @@
    [94]
     1 string data = "Caël"
    [95]
-    1 string data = "Hodinář"
+    1 string data = "Hodinářka"
    [96]
     1 string data = "Dítě"
    [97]
-    1 string data = "Dítě 01"
+    1 string data = "Dítě 1"
    [98]
-    1 string data = "Dítě 02"
+    1 string data = "Dítě 2"
    [99]
-    1 string data = "Dítě 03"
+    1 string data = "Dítě 3"
    [100]
-    1 string data = "Dítě 04"
+    1 string data = "Dítě 4"
    [101]
-    1 string data = "Zatracený"
+    1 string data = "Ztracený"
    [102]
-    1 string data = "Zatracený"
+    1 string data = "Ztracený"
    [103]
-    1 string data = "Zatracený "
+    1 string data = "Ztracený "
    [104]
     1 string data = "Člen rady 1"
    [105]
@@ -283,11 +283,11 @@
    [134]
     1 string data = "Žena"
    [135]
-    1 string data = "Papoušek s očima jastraba"
+    1 string data = "Papoušek s ostřížím zrakem"
    [136]
     1 string data = "Stavitel Jirard"
    [137]
-    1 string data = "Vrchní rybař"
+    1 string data = "Vrchní rybář"
    [138]
     1 string data = "Chi"
    [139]
@@ -349,7 +349,7 @@
    [167]
     1 string data = "Anne-Marie"
    [168]
-    1 string data = "Kámo"
+    1 string data = "Buddy"
    [169]
     1 string data = "Olivier"
    [170]
@@ -357,7 +357,7 @@
    [171]
     1 string data = "Reece"
    [172]
-    1 string data = "Obchodník"
+    1 string data = "Obchodnice"
    [173]
     1 string data = "Hráč Kotoučů"
    [174]
@@ -367,7 +367,7 @@
    [176]
     1 string data = "Pan Bedna"
    [177]
-    1 string data = "Pokladník Arény"
+    1 string data = "Pokladní Arény"
    [178]
     1 string data = "Malba"
    [179]
