@@ -31,41 +31,41 @@
    [8]
     1 string data = "B'st"
    [9]
-    1 string data = "A blade dancer born on the Summer Solstice.<br>Walks the path of the <color=sun>Guardian God Solen</color>."
+    1 string data = "Tanečník čepele narozený o letním slunovratu.<br>Kráčí po stezce <color=sun>Strážného Boha Solena</color>."
    [10]
-    1 string data = "A monk born on the Winter Solstice.<br>Walks the path of the <color=#A4E4FC>Guardian Goddess Luana</color>."
+    1 string data = "Mniška narozená o zimním slunovratu.<br>Kráčí po stezce <color=#A4E4FC>Strážného Boha Luana</color>."
    [11]
-    1 string data = "Solar Blade Dancer"
+    1 string data = "Tanečník solární čepele"
    [12]
-    1 string data = "Lunar Monk"
+    1 string data = "Lunární mniška"
    [13]
-    1 string data = "Warrior Cook"
+    1 string data = "Válečný kuchař"
    [14]
-    1 string data = "Assassin"
+    1 string data = "Asasínka"
    [15]
-    1 string data = "Immortal Alchemist"
+    1 string data = "Nesmrtelný Alchymista"
    [16]
-    1 string data = "Living Glass Golem"
+    1 string data = "Golem z živého skla"
    [17]
-    1 string data = "The Archivist"
+    1 string data = "Archivářka"
    [18]
-    1 string data = "Baby Gorilla"
+    1 string data = "Gorilí mládě"
    [19]
-    1 string data = "Gorilla Matriarch"
+    1 string data = "Matriarcha goril"
    [20]
-    1 string data = "Docarri Villager"
+    1 string data = "Dokarrijský vesničan"
    [21]
-    1 string data = "Temple Servant"
+    1 string data = "Služebník chrámu"
    [22]
-    1 string data = "Docarri Elder"
+    1 string data = "Dokarrijský stařešina"
    [23]
-    1 string data = "Oracle of Tides"
+    1 string data = "Vědma přílivů a odlivů "
    [24]
-    1 string data = "Docarri Kid"
+    1 string data = "Dokarrijské dítě"
    [25]
-    1 string data = "Kunus'nuku Acolyte"
+    1 string data = "Apoštol Kunus'nuku"
    [26]
-    1 string data = "Baby Gorillas"
+    1 string data = "Gorilí mláďata"
    [27]
     1 string data = "SaboTeam"
    [28]
@@ -73,119 +73,119 @@
    [29]
     1 string data = "Erlina"
    [30]
-    1 string data = "Headmaster Moraine"
+    1 string data = "Ředitel Moraine"
    [31]
     1 string data = "Moraine"
    [32]
-    1 string data = "Villager"
+    1 string data = "Vesničan"
    [33]
-    1 string data = "Villagers"
+    1 string data = "Vesničani"
    [34]
-    1 string data = "Kid Villager"
+    1 string data = "Vesnický dítě"
    [35]
-    1 string data = "Villager 1"
+    1 string data = "Vesničan 1"
    [36]
-    1 string data = "Villager 2"
+    1 string data = "Vesničan 2"
    [37]
-    1 string data = "Villager 3"
+    1 string data = "Vesničan 3"
    [38]
-    1 string data = "Villager 4"
+    1 string data = "Vesničan 4"
    [39]
-    1 string data = "Miner"
+    1 string data = "Baník"
    [40]
     1 string data = "Wyrd"
    [41]
-    1 string data = "Elder Mist"
+    1 string data = "Stařešina Mist"
    [42]
     1 string data = "???"
    [43]
     1 string data = "Teaks"
    [44]
-    1 string data = "Elder Teaks"
+    1 string data = "Stařešina Teaks"
    [45]
-    1 string data = "Elder Garl"
+    1 string data = "Stařešina Garl"
    [46]
-    1 string data = "Molekin Villager"
+    1 string data = "Molekinský vesničan"
    [47]
-    1 string data = "Molekin Elder"
+    1 string data = "Molekinský stařešina"
    [48]
     1 string data = "Malkomud"
    [49]
-    1 string data = "Brisk Villager 1"
+    1 string data = "Briský vesničan 1"
    [50]
-    1 string data = "Brisk Villager 2"
+    1 string data = "Briský vesničan 2"
    [51]
-    1 string data = "Brisk Villager 3"
+    1 string data = "Briský vesničan 3"
    [52]
-    1 string data = "Brisk Villager 4"
+    1 string data = "Briský vesničan 4"
    [53]
-    1 string data = "Brisk Villager Kid"
+    1 string data = "Briské vesnické dítě"
    [54]
     1 string data = "Valtraid"
    [55]
-    1 string data = "Captain Klee'shaë"
+    1 string data = "Kapitán Klii'shaë"
    [56]
-    1 string data = "Yolande"
+    1 string data = "Yolanda"
    [57]
     1 string data = "Keenathan"
    [58]
-    1 string data = "Humble Boast Chef"
+    1 string data = "Skromná chlouba šéfkuchaře"
    [59]
-    1 string data = "Gaspar"
+    1 string data = "Kašpar"
    [60]
     1 string data = "Lambert"
    [61]
     1 string data = "Edgar"
    [62]
-    1 string data = "Patron 1"
+    1 string data = "Mecenáš 1"
    [63]
-    1 string data = "Patron 2"
+    1 string data = "Mecenáš 2"
    [64]
-    1 string data = "Patron 3"
+    1 string data = "Mecenáš 3"
    [65]
-    1 string data = "Ferryman"
+    1 string data = "Převozník"
    [66]
     1 string data = "Romaya"
    [67]
-    1 string data = "One"
+    1 string data = "Jedna"
    [68]
-    1 string data = "Two"
+    1 string data = "Dva"
    [69]
-    1 string data = "Three"
+    1 string data = "Tři"
    [70]
-    1 string data = "Four"
+    1 string data = "Čtyři"
    [71]
-    1 string data = "Duke Aventry"
+    1 string data = "Vévoda Aventry"
    [72]
-    1 string data = "Ghost"
+    1 string data = "Duch"
    [73]
-    1 string data = "GrumpyGhost"
+    1 string data = "Mrzutý duch"
    [74]
-    1 string data = "Ghost03"
+    1 string data = "Duch 3"
    [75]
-    1 string data = "Ghost04"
+    1 string data = "Duch 4"
    [76]
-    1 string data = "Wanderer"
+    1 string data = "Tulák"
    [77]
-    1 string data = "Innkeeper"
+    1 string data = "Hospodský"
    [78]
-    1 string data = "Hortence"
+    1 string data = "Hortenz"
    [79]
-    1 string data = "Merchant"
+    1 string data = "Kupec"
    [80]
-    1 string data = "Mirth Villager"
+    1 string data = "Vesničan Mirthu"
    [81]
-    1 string data = "Mirth Villager 1"
+    1 string data = "Vesničan Mirthu 1"
    [82]
-    1 string data = "Mirth Villager 2"
+    1 string data = "Vesničan Mirthu 2"
    [83]
-    1 string data = "Mirth Villager 3"
+    1 string data = "Vesničan Mirthu 3"
    [84]
-    1 string data = "Cryptwalker"
+    1 string data = "Kryptochod"
    [85]
     1 string data = "Gus"
    [86]
-    1 string data = "Spirit"
+    1 string data = "Duše"
    [87]
     1 string data = "Khukharr"
    [88]
@@ -195,7 +195,7 @@
    [90]
     1 string data = "Puntie"
    [91]
-    1 string data = "Strolling Minstrel"
+    1 string data = "Potulný básník"
    [92]
     1 string data = "Yomara"
    [93]
@@ -203,39 +203,39 @@
    [94]
     1 string data = "Caël"
    [95]
-    1 string data = "Watchmaker"
+    1 string data = "Hodinář"
    [96]
-    1 string data = "Kid"
+    1 string data = "Dítě"
    [97]
-    1 string data = "Kid 01"
+    1 string data = "Dítě 01"
    [98]
-    1 string data = "Kid 02"
+    1 string data = "Dítě 02"
    [99]
-    1 string data = "Kid 03"
+    1 string data = "Dítě 03"
    [100]
-    1 string data = "Kid 04"
+    1 string data = "Dítě 04"
    [101]
-    1 string data = "Lost One"
+    1 string data = "Zatracený"
    [102]
-    1 string data = "Lost One"
+    1 string data = "Zatracený"
    [103]
-    1 string data = "Lost One "
+    1 string data = "Zatracený "
    [104]
-    1 string data = "Council Member 1"
+    1 string data = "Člen rady 1"
    [105]
-    1 string data = "Council Member 2"
+    1 string data = "Člen rady 2"
    [106]
-    1 string data = "Council Member 3"
+    1 string data = "Člen rady 3"
    [107]
     1 string data = "Wentworth"
    [108]
     1 string data = "Cedric"
    [109]
-    1 string data = "Quiz Master"
+    1 string data = "Pán Kvízů"
    [110]
-    1 string data = "Computer"
+    1 string data = "Počítač"
    [111]
-    1 string data = "AI Core"
+    1 string data = "Jádro AI"
    [112]
     1 string data = "Artificer"
    [113]
@@ -243,7 +243,7 @@
    [114]
     1 string data = "Jirard"
    [115]
-    1 string data = "Guard"
+    1 string data = "Stráž"
    [116]
     1 string data = "Quilliam"
    [117]
@@ -259,39 +259,39 @@
    [122]
     1 string data = "Abstarak"
    [123]
-    1 string data = "Brother Casugin"
+    1 string data = "Bratr Casugin"
    [124]
     1 string data = "Rachater "
    [125]
     1 string data = "Verlot"
    [126]
-    1 string data = "Soul Curator"
+    1 string data = "Kurátor duší"
    [127]
     1 string data = "Elysan'darëlle"
    [128]
-    1 string data = "Cultist"
+    1 string data = "Kultista"
    [129]
     1 string data = "Tsig"
    [130]
     1 string data = "Mirna"
    [131]
-    1 string data = "Chef Bass"
+    1 string data = "Šéfkuchař Bass"
    [132]
-    1 string data = "Everyone"
+    1 string data = "Všichni"
    [133]
-    1 string data = "Man"
+    1 string data = "Muž"
    [134]
-    1 string data = "Woman"
+    1 string data = "Žena"
    [135]
-    1 string data = "Falcon-eyed Parrot"
+    1 string data = "Papoušek s očima jastraba"
    [136]
-    1 string data = "Jirard the Constructionist"
+    1 string data = "Stavitel Jirard"
    [137]
-    1 string data = "Master Fisherman"
+    1 string data = "Vrchní rybař"
    [138]
     1 string data = "Chi"
    [139]
-    1 string data = "Crewmate"
+    1 string data = "Člen posádky"
    [140]
     1 string data = "Croustalion"
    [141]
@@ -349,7 +349,7 @@
    [167]
     1 string data = "Anne-Marie"
    [168]
-    1 string data = "Buddy"
+    1 string data = "Kámo"
    [169]
     1 string data = "Olivier"
    [170]
@@ -357,18 +357,18 @@
    [171]
     1 string data = "Reece"
    [172]
-    1 string data = "Shopkeeper"
+    1 string data = "Obchodník"
    [173]
-    1 string data = "Wheels Player"
+    1 string data = "Hráč Kotoučů"
    [174]
     1 string data = "Edward Roulette"
    [175]
     1 string data = "???"
    [176]
-    1 string data = "Mr. Chest"
+    1 string data = "Pan Bedna"
    [177]
-    1 string data = "Arena Clerk"
+    1 string data = "Pokladník Arény"
    [178]
-    1 string data = "Painting"
+    1 string data = "Malba"
    [179]
     1 string data = "Bob"
