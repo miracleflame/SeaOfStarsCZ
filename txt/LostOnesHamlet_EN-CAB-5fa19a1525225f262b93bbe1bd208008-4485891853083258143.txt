@@ -231,7 +231,7 @@
    [108]
     1 string data = "A já asi začínám chápat, jaké mám štěstí, že jsem znala někoho, na kom mi tak záleželo."
    [109]
-    1 string data = Dává ti to smysl?"
+    1 string data = "Dává ti to smysl?"
    [110]
     1 string data = "..."
    [111]

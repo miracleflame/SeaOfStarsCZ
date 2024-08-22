@@ -45,7 +45,7 @@
    [15]
     1 string data = "Já... se omlouvám, Velký Iluminátore."
    [16]
-    1 string data = Rachatere. Jdi zneškodnit ty vetřelce."
+    1 string data = "Rachatere. Jdi zneškodnit ty vetřelce."
    [17]
     1 string data = "S radostí. Hehehe..."
    [18]
