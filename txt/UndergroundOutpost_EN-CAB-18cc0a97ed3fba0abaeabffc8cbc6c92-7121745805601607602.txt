@@ -17,7 +17,7 @@
    [1]
     1 string data = "..."
    [2]
-    1 string data = "POZOR: VETŘELCI"
+    1 string data = "POPLACH: VETŘELCI"
    [3]
     1 string data = "DO OBJEKTU PRONIKLY ENTITY Z JINÉHO SVĚTA"
    [4]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "Nevěděla jsem jak..."
    [15]
-    1 string data = "Byli byste vůbec ochotni pomoct, kdybyste to věděli?"
+    1 string data = "Chtěli by ste se mnou vůbec ještě něco mít?"
    [16]
     1 string data = "Samozřejmě že ano! Bez tebe bychom spoustu věcí nezvládli."
    [17]
@@ -53,7 +53,7 @@
    [19]
     1 string data = "Z <color=location>Vesmírné základny</color> na obloze proudí husté mraky, které blokují sluneční světlo."
    [20]
-    1 string data = "A Měsíc... tak ten potopil do oceánu..."
+    1 string data = "A Měsíc... Fleshmancer ho potopil do oceánu..."
    [21]
     1 string data = "!!"
    [22]
@@ -73,7 +73,7 @@
    [29]
     1 string data = "Moji lidé..."
    [30]
-    1 string data = "A oni jsou..."
+    1 string data = "I oni jsou..."
    [31]
     1 string data = "Jako já?"
    [32]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "Projít <color=location>Opuštěnou továrnou</color> nám možná dá trochu zabrat, ale řekla bych, že už nás potkaly horší věci."
    [51]
-    1 string data = "Tak fajn. Pojďme."
+    1 string data = "Tak fajn. Veď nás."
    [52]
     1 string data = "Teď se nikam vracet nebudeme."
    [53]
