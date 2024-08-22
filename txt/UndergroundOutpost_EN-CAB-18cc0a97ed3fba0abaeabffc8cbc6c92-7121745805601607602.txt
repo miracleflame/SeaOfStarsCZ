@@ -43,7 +43,7 @@
    [14]
     1 string data = "Nevěděla jsem jak..."
    [15]
-    1 string data = "Chtěli by ste se mnou vůbec ještě něco mít?"
+    1 string data = "Chtěli byste se mnou vůbec ještě něco mít?"
    [16]
     1 string data = "Samozřejmě že ano! Bez tebe bychom spoustu věcí nezvládli."
    [17]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "Projít <color=location>Opuštěnou továrnou</color> nám možná dá trochu zabrat, ale řekla bych, že už nás potkaly horší věci."
    [51]
-    1 string data = "Tak fajn. Veď nás."
+    1 string data = "Tak fajn. Pojďme."
    [52]
     1 string data = "Teď se nikam vracet nebudeme."
    [53]
