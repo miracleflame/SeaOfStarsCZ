@@ -15,53 +15,53 @@
    [0]
     1 string data = "Vítej ve <color=location>Velkém archivu</color>, dobrodruhu. Předpokládám, že tě sem přivedla zvědavost."
    [1]
-    1 string data = "Důležitá črta, to je jisté."
+    1 string data = "Důležitá vlastnost, to je jisté."
    [2]
-    1 string data = "Jsem <color=good>Archivář</color>, nesmrtelný znalec alchymie."
+    1 string data = "Já jsem <color=good>Archivář</color>, nesmrtelný znalec alchymie."
    [3]
-    1 string data = "Ale to už jsi možná věděl?"
+    1 string data = "Nebo to už snad víš?"
    [4]
-    1 string data = "Poté, co jsem strávil tisíciletí katalogizováním mnoha událostí nesčetných časových linií, jsem se rozhodl vrátit se sem, abych si promyslel vše, co jsem viděl."
+    1 string data = "Po tisíciletích strávených zaznamenáváním mnoha událostí nesčetných časových linií jsem se rozhodl sem vrátit, abych si promyslel vše, co jsem viděl."
    [5]
-    1 string data = "Při svých úvahách o příbězích, které naplňují tyto knihy a svitky, jsem nedávno prozřel."
+    1 string data = "Při svých úvahách o příbězích, jimiž jsou vyplněny tyto knihy a svitky, jsem nedávno prozřel."
    [6]
-    1 string data = "Zdá se, že jsem ve svém spěchu možná přehlédl právě to, v co jsem doufal, že najdu."
+    1 string data = "Zdá se, že jsem ve spěchu možná přehlédl právě to, co jsem doufal, že najdu."
    [7]
-    1 string data = "A tak je tu jeden zvláštní příběh, ke kterému se chci vrátit. Příběh, který si zaslouží svědectví."
+    1 string data = "A tak je tu jeden zvláštní příběh, ke kterému se chci vrátit. Příběh, který si zaslouží diváka."
    [8]
-    1 string data = "A pokud Mlhy Času dovolí drobnou změnu, věřím, že <color=magic>paprsek naděje</color>, který se kdysi nabízel, může ještě vykvést."
+    1 string data = "A pokud Mlhy času dovolí drobnou změnu, věřím, že <color=magic>záblesk naděje</color>, který se kdysi nabízel, může ještě vykvést."
    [9]
     1 string data = "Tak kráčej dnes v noci se mnou a prozkoumáme příběh plný velkých dobrodružství."
    [10]
     1 string data = "O kouzlech a zradě, o přátelství a zázracích."
    [11]
-    1 string data = "Ale hlavně příběh o hrdinství."
+    1 string data = "Ale především, příběh o hrdinství."
    [12]
     1 string data = "Takový, který, jak věřím, nabídne cenné poznatky při hledání rozuzlení tísně <color=bad>Fleshmancera</color>."
    [13]
-    1 string data = "Teď jsem zůstal trochu ztracen mezi všemi těmi časovými liniemi a jejich jemnými variacemi..."
+    1 string data = "Teď se trochu ztrácím mezi všemi těmi časovými liniemi a jejich drobnými variacemi..."
    [14]
-    1 string data = "Ale vím právě o té, která by byla perfektním výchozím bodem."
+    1 string data = "Ale vím právě o takové, která by byla perfektním výchozím bodem."
    [15]
     1 string data = "Podívejme se, co zde najdeme..."
    [16]
     1 string data = "Ach, ano!"
    [17]
-    1 string data = "Náš příběh začíná ve světě, který před několika generacemi navštívil Fleshmancer, jež způsobil mnoho rozvratu a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
+    1 string data = "Náš příběh začíná ve světě, který před několika generacemi navštívil Fleshmancer, jenž způsobil mnoho chaosu a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [18]
-    1 string data = "Kdesi na <color=location>Ostrově Véčné Mlhy</color> se dvě statečné <color=good>Děti Slunovratu</color> vydávají na cestu, aby se setkali s nesmrtelným duchem."
+    1 string data = "Kdesi na <color=location>Ostrově Věčné mlhy</color> se dvě statečné <color=good>Děti Slunovratu</color> vydávají na cestu, aby se setkaly s nesmrtelným duchem."
    [19]
-    1 string data = "Na to, aby se stali plnohodnotnými <color=good>Válečníky Slunovratu</color>, se budou muset naučit "používat magii bez použití magie"..."
+    1 string data = "Na to, aby se staly plnohodnotnými <color=good>Bojovníky Slunovratu</color>, se budou muset naučit "používat magii bez použití magie"..."
    [20]
     1 string data = "Jejich úsilí ve věži se ukázalo jako statečné, ale bohužel, jak osud chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
    [21]
-    1 string data = "Navzdory veškerému úsilí, které tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na Ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače Světa."
+    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na Ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače světů."
    [22]
-    1 string data = "Bojovali statečně, ale nakonec přišli o své životy i svůj svět. "
+    1 string data = "Bojovali statečně, ale nakonec přišli o život i o svůj svět. "
    [23]
     1 string data = "A tak se dostáváme k jádru dnešních úvah - k jediné otázce."
    [24]
-    1 string data = "Jak daleko by dokázali zajít, kdybychom osud trochu postrčili a dveře, které kdysi bývaly zavřené, <color=good>otevřeli</color>?"
+    1 string data = "Jak daleko by se dostali, kdybychom osud trochu postrčili a dveře, které kdysi bývaly zavřené, <color=good>otevřeli</color>?"
    [25]
     1 string data = "Pojďme to zjistit."
    [26]
