@@ -13,57 +13,57 @@
   1 Array Array (177 items)
    0 int size = 177
    [0]
-    1 string data = "Welcome to the <color=location>Great Archives</color>, adventurer. I suppose curiosity brought you here."
+    1 string data = "Vítej ve <color=location>Velkém archivu</color>, dobrodruhu. Předpokládám, že tě sem přivedla zvědavost."
    [1]
-    1 string data = "An important trait, to be sure."
+    1 string data = "Důležitá črta, to je jisté."
    [2]
-    1 string data = "I am <color=good>The Archivist</color>, an immortal versed in the ways of alchemy."
+    1 string data = "Jsem <color=good>Archivář</color>, nesmrtelný znalec alchymie."
    [3]
-    1 string data = "But perhaps you knew that already?"
+    1 string data = "Ale to už jsi možná věděl?"
    [4]
-    1 string data = "After spending millennia cataloging the many events of countless timelines, I decided to return here to mull over everything I had seen."
+    1 string data = "Poté, co jsem strávil tisíciletí katalogizováním mnoha událostí nesčetných časových linií, jsem se rozhodl vrátit se sem, abych si promyslel vše, co jsem viděl."
    [5]
-    1 string data = "In my musings about the stories that fill these books and scrolls, I had a recent epiphany."
+    1 string data = "Při svých úvahách o příbězích, které naplňují tyto knihy a svitky, jsem nedávno prozřel."
    [6]
-    1 string data = "It seems that in my haste, I may have overlooked the very thing I was hoping to find."
+    1 string data = "Zdá se, že jsem ve svém spěchu možná přehlédl právě to, v co jsem doufal, že najdu."
    [7]
-    1 string data = "As such, there is one special story I wish to revisit. One deserving of a witness."
+    1 string data = "A tak je tu jeden zvláštní příběh, ke kterému se chci vrátit. Příběh, který si zaslouží svědectví."
    [8]
-    1 string data = "And should the Mists of Time allow a slight alteration, I believe the <color=magic>ray of hope</color> that was once offered may yet bloom."
+    1 string data = "A pokud Mlhy Času dovolí drobnou změnu, věřím, že <color=magic>paprsek naděje</color>, který se kdysi nabízel, může ještě vykvést."
    [9]
-    1 string data = "So walk with me tonight, and we will explore a tale of high adventure."
+    1 string data = "Tak kráčej dnes v noci se mnou a prozkoumáme příběh plný velkých dobrodružství."
    [10]
-    1 string data = "Of magic and deceit, of friendship and wonder."
+    1 string data = "O kouzlech a zradě, o přátelství a zázracích."
    [11]
-    1 string data = "But mostly, a tale of heroism."
+    1 string data = "Ale hlavně příběh o hrdinství."
    [12]
-    1 string data = "One that, I believe, will offer valuable insight in the search for a resolution to the throes of <color=bad>The Fleshmancer</color>."
+    1 string data = "Takový, který, jak věřím, nabídne cenné poznatky při hledání rozuzlení tísně <color=bad>Fleshmancera</color>."
    [13]
-    1 string data = "Now I remain a bit lost amidst all these timelines, and all their subtle variations..."
+    1 string data = "Teď jsem zůstal trochu ztracen mezi všemi těmi časovými liniemi a jejich jemnými variacemi..."
    [14]
-    1 string data = "But I know just the one to make for a perfect starting point."
+    1 string data = "Ale vím právě o té, která by byla perfektním výchozím bodem."
    [15]
-    1 string data = "Let us see what we find in there..."
+    1 string data = "Podívejme se, co zde najdeme..."
    [16]
-    1 string data = "Ah, yes!"
+    1 string data = "Ach, ano!"
    [17]
-    1 string data = "Our story begins in a world visited by The Fleshmancer generations prior, causing much turmoil and leaving a mark that has yet to be fully cleansed."
+    1 string data = "Náš příběh začíná ve světě, který před několika generacemi navštívil Fleshmancer, jež způsobil mnoho rozvratu a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [18]
-    1 string data = "Somewhere on <color=location>Evermist Island</color>, two brave <color=good>Children of the Solstice</color> are on their way to meet with an immortal spirit."
+    1 string data = "Kdesi na <color=location>Ostrově Véčné Mlhy</color> se dvě statečné <color=good>Děti Slunovratu</color> vydávají na cestu, aby se setkali s nesmrtelným duchem."
    [19]
-    1 string data = "In order to become fully fledged <color=good>Solstice Warriors</color>, they will need to learn how to "use magic without using magic"..."
+    1 string data = "Na to, aby se stali plnohodnotnými <color=good>Válečníky Slunovratu</color>, se budou muset naučit "používat magii bez použití magie"..."
    [20]
-    1 string data = "Their efforts in the tower proved valiant but alas, as fate would have it when these events first occurred, the mysterious door remained <color=bad>firmly shut</color>."
+    1 string data = "Jejich úsilí ve věži se ukázalo jako statečné, ale bohužel, jak osud chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
    [21]
-    1 string data = "Despite their best efforts in the face of this setback, our heroes were unable to reach Mesa Island in time, and the Dweller of Strife turned into a World Eater."
+    1 string data = "Navzdory veškerému úsilí, které tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na Ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače Světa."
    [22]
-    1 string data = "They fought ever so bravely, but in the end their lives, and their world, were lost. "
+    1 string data = "Bojovali statečně, ale nakonec přišli o své životy i svůj svět. "
    [23]
-    1 string data = "Thus, we arrive at the crux of tonight's musings: a single question."
+    1 string data = "A tak se dostáváme k jádru dnešních úvah - k jediné otázce."
    [24]
-    1 string data = "How far might they go should fate be given a nudge, and the door that once sat closed were to be <color=good>opened</color>?"
+    1 string data = "Jak daleko by dokázali zajít, kdybychom osud trochu postrčili a dveře, které kdysi bývaly zavřené, <color=good>otevřeli</color>?"
    [25]
-    1 string data = "Let us find out."
+    1 string data = "Pojďme to zjistit."
    [26]
     1 string data = "Come in."
    [27]
