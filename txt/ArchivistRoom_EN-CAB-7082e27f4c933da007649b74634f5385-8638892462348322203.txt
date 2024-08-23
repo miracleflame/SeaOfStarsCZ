@@ -37,23 +37,23 @@
    [11]
     1 string data = "Ale především, příběh o hrdinství."
    [12]
-    1 string data = "Takový, který, jak věřím, nabídne cenné poznatky při hledání rozuzlení tísně <color=bad>Fleshmancera</color>."
+    1 string data = "Věřím, že právě tento příběh nabídne cenné poznatky pro nalezení řešení soužení <color=bad>Fleshmancera</color>."
    [13]
     1 string data = "Teď se trochu ztrácím mezi všemi těmi časovými liniemi a jejich drobnými variacemi..."
    [14]
-    1 string data = "Ale vím právě o takové, která by byla perfektním výchozím bodem."
+    1 string data = "Ale vím přesně o takové, která by byla perfektním výchozím bodem."
    [15]
     1 string data = "Podívejme se, co zde najdeme..."
    [16]
     1 string data = "Ach, ano!"
    [17]
-    1 string data = "Náš příběh začíná ve světě, který před několika generacemi navštívil Fleshmancer, jenž způsobil mnoho chaosu a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
+    1 string data = "Náš příběh začíná ve světě, který před několika generacemi Fleshmancer navštívil, způsobil tam obrovský chaos a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [18]
     1 string data = "Kdesi na <color=location>Ostrově Věčné mlhy</color> se dvě statečné <color=good>Děti Slunovratu</color> vydávají na cestu, aby se setkaly s nesmrtelným duchem."
    [19]
     1 string data = "Na to, aby se staly plnohodnotnými <color=good>Bojovníky Slunovratu</color>, se budou muset naučit "používat magii bez použití magie"..."
    [20]
-    1 string data = "Jejich úsilí ve věži se ukázalo jako statečné, ale bohužel, jak osud chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
+    1 string data = "Ve věži sice prokázali statečné úsilí, ale jak to osud k jejich smůle chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
    [21]
     1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na Ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače světů."
    [22]
