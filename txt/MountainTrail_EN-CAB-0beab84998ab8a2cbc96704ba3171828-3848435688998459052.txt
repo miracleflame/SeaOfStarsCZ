@@ -13,642 +13,642 @@
   1 Array Array (320 items)
    0 int size = 320
    [0]
-    1 string data = "Alright, we made it to the <color=location>Mountain Trail</color>!"
+    1 string data = "Tak jo, dorazili jsme na <color=location>Horskou stezku</color>!"
    [1]
-    1 string data = "So far so good."
+    1 string data = "Zatím dobrý."
    [2]
-    1 string data = "So the <color=good>Elder Mist</color> lives somewhere here, huh? "
+    1 string data = "Takže <color=dobrá>stařešina Opar</color> prý bydlí někde tady, jo? "
    [3]
-    1 string data = "Do you think it's just another test?"
+    1 string data = "Myslíš, že je to jenom další test?"
    [4]
-    1 string data = "Could be, but it sure beats sitting at the academy."
+    1 string data = "Může být, ale pořád lepší než vysedávat na akademii."
    [5]
-    1 string data = "And SEWING!"
+    1 string data = "A TKÁT!"
    [6]
-    1 string data = "Ha! Yeah I'm sure glad that's over with."
+    1 string data = "Ha! Jo, jsem ráda, že už to mám za sebou."
    [7]
-    1 string data = "“Apply yourselves, for the will you weave into it shall be your sole defense in times of greatest need!”"
+    1 string data = ""Vzchopte se, neboť vůle, kterou do ní vetkáte, bude vaší jedinou obranou v dobách největší nouze!""
    [8]
-    1 string data = "“While the lessons taught here may appear to be lost on you, something deep inside is compelled to learn.”"
+    1 string data = ""I když se může zdát, že lekce, které zde učíme, jsou pro vás k ničemu, něco hluboko uvnitř vás je odhodláno učit se.""
    [9]
     1 string data = "Hahaha!"
    [10]
     1 string data = "Hahaha!"
    [11]
-    1 string data = "Hey the sun will be setting soon."
+    1 string data = "Hele, slunce bude brzy zapadat."
    [12]
-    1 string data = "We should prepare to set up camp."
+    1 string data = "Měli bychom se připravit rozbít tábor."
    [13]
-    1 string data = "Let's split up and search for a good spot."
+    1 string data = "Rozdělme se a podívejme se po dobrém místě."
    [14]
-    1 string data = "Time for some scouting."
+    1 string data = "Je čas na trochu skautingu."
    [15]
-    1 string data = "I'm coming through!"
+    1 string data = "Jedu!"
    [16]
-    1 string data = "Ouch! Tough one, huh?"
+    1 string data = "Au! Težké, co?"
    [17]
-    1 string data = "Let's try this!"
+    1 string data = "Zkusme tohle!"
    [18]
-    1 string data = "<color=good>Brugaves</color> wasn't kidding, these feel easier to fight already!"
+    1 string data = "<color=good>Brugaves</color> nekecal, s těmahle už se bojuje líp!"
    [19]
-    1 string data = "Let's see where this leads."
+    1 string data = "Pojďme se podívat, kam to povede."
    [20]
-    1 string data = "Ouch! Tough one, huh?"
+    1 string data = "Au! Težké, co?"
    [21]
-    1 string data = "Let's try this!"
+    1 string data = "Zkusme tohle!"
    [22]
-    1 string data = "[MAINCHAR], found anything?"
+    1 string data = "[MAINCHAR], máš něco?"
    [23]
-    1 string data = "Just a dead end. How about you?"
+    1 string data = "Jenom slepá ulička. A co ty?"
    [24]
-    1 string data = "Nothing of note, but the way to the top is definitely through here."
+    1 string data = "Nic, co by stálo za řeč, ale cesta nahoru vede určitě tudy."
    [25]
-    1 string data = "The sun is setting. Come over, I'll get a fire going."
+    1 string data = "Slunce zapadá. Pojď sem, rozdělám oheň."
    [26]
-    1 string data = "I'll be right there. Can't wait for more tomato clubs..."
+    1 string data = "Hned tam budu. Nemůžu se dočkat dalších rajčat..."
    [27]
-    1 string data = "Press <button="Interact"> to unroll rope ladders."
+    1 string data = "Stiskněte <button="Interact"> pro odvinutí provazových žebříků."
    [28]
-    1 string data = "[OFFCHAR]'s got this side covered. I should head to the right."
+    1 string data = "[OFFCHAR] má tuto stranu pokrytou. Měli bychom se vydat doprava."
    [29]
-    1 string data = "No turning back now, we have to reach the top and meet the Elder Mist."
+    1 string data = "Teď už není cesty zpět, musíme se dostat na vrchol a setkat se se stařešinou Oparem."
    [30]
-    1 string data = "Ha! But it doesn't beat the face you made the first time you tried smashing a sunball!"
+    1 string data = "Ha! Stejně to nepřekoná ten výraz, cos měl, když ses poprvé pokusil rozbít sluneční kouli!"
    [31]
-    1 string data = "Oh I can still hear the <color=good>Headmaster</color> gloating."
+    1 string data = "Jo, pořád slyším, jak se <color=good>Ředitel</color> škodolibě řehní."
    [32]
-    1 string data = "“As I said, whether by paying attention in class, or by recklessly attempting to hit a projectile with your open palm, you WILL learn the first rule of solar magic.”"
+    1 string data = ""Jak jsem řekl, ať už tím, že budeš dávat pozor na hodině, nebo tím, že se budeš bezmyšlenkovitě pokoušet zasáhnout projektil otevřenou dlaní, ZARUČENĚ se naučíš první pravidlo solární magie.""
    [33]
-    1 string data = "To be fair, you did learn."
+    1 string data = "Abychom mu dali za pravdu, naučil ses ho."
    [34]
-    1 string data = "Oh yeah, that one only took once."
+    1 string data = "No jo, a to na první pokus."
    [35]
-    1 string data = "You ever miss those years?"
+    1 string data = "Stýská se ti někdy po těch letech?"
    [36]
-    1 string data = "Before training, just being kids. Always daydreaming and getting in trouble."
+    1 string data = "Než jsme začali trénovat, jenom být dětma... Pořád zasněni a pořád v problémech."
    [37]
     1 string data = "..."
    [38]
-    1 string data = "And making mistakes..."
+    1 string data = "A dělat chyby..."
    [39]
     1 string data = "..."
    [40]
-    1 string data = "I'm sorry Valere, I didn't mean..."
+    1 string data = "Omlouvám se Valere, nechtěl jsem..."
    [41]
-    1 string data = "It's okay, I understand why he wouldn't want to join us after what happened, it's just..."
+    1 string data = "To je v pořádku, já chápu, proč se k nám nechtěl přidat po tom, co se stalo, jen..."
    [42]
-    1 string data = "I wish he had said goodbye, you know?"
+    1 string data = "Kéž by se rozloučil, víš?"
    [43]
-    1 string data = "After ten years of not seeing his face, just to know that he's alright..."
+    1 string data = "Po deseti letech, co jsem neviděl jeho tvář, by stačilo pouze vědět, že je v pořádku..."
    [44]
-    1 string data = "And that we're still friends..."
+    1 string data = "A že jsme pořád přátelé..."
    [45]
     1 string data = "..."
    [46]
-    1 string data = "Why did we have to get ahead of ourselves anyway?"
+    1 string data = "Proč jsme vlastně museli předbíhat?"
    [47]
-    1 string data = "Oh, <color=good>Garl</color>..."
+    1 string data = "Ach, <color=good>Garle</color>..."
    [48]
-    1 string data = "Ten years ago, in the village of Mooncradle..."
+    1 string data = "Před deseti lety, ve vesnici Měsíční kolíska..."
    [49]
-    1 string data = "Alright, we made it to the <color=location>Mountain Trail</color>!"
+    1 string data = "Tak jo, dorazili jsme na <color=location>Horskou stezku</color>!"
    [50]
-    1 string data = "So far so good."
+    1 string data = "Zatím dobrý."
    [51]
-    1 string data = "So the <color=good>Elder Mist</color> lives somewhere here, huh? "
+    1 string data = "Takže <color=dobrá>stařešina Opar</color> prý bydlí někde tady, jo? "
    [52]
-    1 string data = "I really hope we'll get a chance to return to Mooncradle after this."
+    1 string data = "Opravdu doufám, že po tomhle budeme mít možnost vrátit se do Měsíční kolísky."
    [53]
-    1 string data = "What if we're “sent out into the world” right away?"
+    1 string data = "Co když nás hned "pošlou do světa"?"
    [54]
-    1 string data = "Yeah, I don't know..."
+    1 string data = "No, já nevím..."
    [55]
-    1 string data = "I just wish Garl was here..."
+    1 string data = "Kéž by tu byl Garl..."
    [56]
-    1 string data = "We could certainly use some Celestial Willow jam to go with this awful bread."
+    1 string data = "K tomuhle příšernému chlebu by se nám určitě hodila trocha marmelády z Nebeské vrby."
    [57]
-    1 string data = "Hahaha! The dream!"
+    1 string data = "Hahaha! To by byl sen!"
    [58]
     1 string data = "?"
    [59]
-    1 string data = "Celestial Willow jam?"
+    1 string data = "Marmeláda z Nebeské vrby?"
    [60]
-    1 string data = "I've got some right here, guys!"
+    1 string data = "Trochu ji sebou mám, lidi!"
    [61]
-    1 string data = "I even picked some mushrooms! You won't BELIEVE this soup I'll make!!!"
+    1 string data = "Dokonce jsem nasbíral nějaké houby! Neuvěříte, jakou polévku uvařím!!!"
    [62]
     1 string data = "!!!"
    [63]
-    1 string data = "Oh, and I found some herbs in the Forbidden Cavern, they'll do juuust right!"
+    1 string data = "Jo, a v Zakázané Jeskyni jsem našel nějaké bylinky, ty budou tak akorát!"
    [64]
-    1 string data = "GARL?!?"
+    1 string data = "GARLE?!?"
    [65]
-    1 string data = "What? You didn't really think I was going to let you go on an adventure without me, did you?"
+    1 string data = "Copak? Snad jste si nemysleli, že vás nechám vyrazit na dobrodružství beze mě?"
    [66]
-    1 string data = "GARL!!!"
+    1 string data = "GARLE!!!"
    [67]
-    1 string data = "Hahaha! It's so good to see you two again!"
+    1 string data = "Hahaha! Tak rádi tě zas vidíme!"
    [68]
-    1 string data = "You look so strong now!"
+    1 string data = "Vypadáš teď tak silně!"
    [69]
-    1 string data = "Hey why didn't you show up for our departure?"
+    1 string data = "Hele, proč ses neukázal na našem odjezdu?"
    [70]
-    1 string data = "Are you kidding? There was absolutely no announcement!"
+    1 string data = "Děláš si srandu? Vůbec nic nebylo ohlášeno!"
    [71]
-    1 string data = "As soon as I heard everyone gather I went to our hideout to pack my stuff but you left so fast."
+    1 string data = "Jakmile jsem slyšel, že se všichni sešli, vyrazil jsem do našeho úkrytu, abych si sbalil věci, ale vy jste odešli tak rychle."
    [72]
-    1 string data = "Guys I'm so pumped for this journey, I know all about survival now!"
+    1 string data = "Lidi, jsem na tuhle cestu tak nabušený, že už vím všechno o přežití!"
    [73]
-    1 string data = "Fishing, and gathering, and cooking, and-"
+    1 string data = "Rybaření, a sběr, a vaření, a-"
    [74]
     1 string data = "..."
    [75]
     1 string data = "..."
    [76]
-    1 string data = "What's wrong?"
+    1 string data = "Co se děje?"
    [77]
-    1 string data = "You... can't actually come with us..."
+    1 string data = "Ty... vlastně nemůžeš jít s námi..."
    [78]
-    1 string data = "We just wanted to say goodbye, we're on duty now and it's pretty dangerous."
+    1 string data = "Jen jsme se chtěli rozloučit, máme teď službu a je to dost nebezpečné."
    [79]
-    1 string data = "You can't mean that!"
+    1 string data = "To nemůžete myslet vážně!"
    [80]
-    1 string data = "We've always talked about how we'd all leave together after your training."
+    1 string data = "Vždycky jsme mluvili o tom, že po vašem výcviku odejdeme všichni společně."
    [81]
     1 string data = "..."
    [82]
-    1 string data = "Plus, I spent all those years practising in our little cave. I'm ready!"
+    1 string data = "Navíc jsem všechny ty roky strávil cvičením v naší malé jeskyni. Jsem připraven!"
    [83]
     1 string data = "..."
    [84]
-    1 string data = "Look I may not have any special powers like you do, but I'm built strong and I've been preparing."
+    1 string data = "Hele, možná nemám žádné zvláštní schopnosti jako ty, ale jsem silně stavěný a připravoval jsem se na to."
    [85]
-    1 string data = "This here is my shield, I'll be a defensive fighter!"
+    1 string data = "Tohle je můj štít, budu obranný bojovník!"
    [86]
-    1 string data = "No, a warrior cook!"
+    1 string data = "Ne, válečný kuchař!"
    [87]
-    1 string data = "Oh yeah?"
+    1 string data = "Jo?"
    [88]
-    1 string data = "Sure am! And I've been reading a lot too!"
+    1 string data = "Jasně že jo! A taky jsem hodně četl!"
    [89]
-    1 string data = "See, most of the monsters you're going to face won't even be <color=bad>Fleshmancer minions</color>, which means anyone can fight them."
+    1 string data = "Hele, většina nestvůr, kterým budete čelit, ani nebudou <color=bad>Fleshmancerovi přisluhovači</color>, což znamená, že s nimi může bojovat kdokoli."
    [90]
-    1 string data = "Are you sure about that?"
+    1 string data = "Jsi si tím jistý?"
    [91]
-    1 string data = "Totally! You haven't seen any yet, have you?"
+    1 string data = "Rozhodně! Ještě jste žádné neviděli, že ne?"
    [92]
-    1 string data = "No, but-"
+    1 string data = "Ne, ale..."
    [93]
-    1 string data = "I'll know when to step aside, don't worry!"
+    1 string data = "Budu vědět, kdy mám ustoupit, nemějte strach!"
    [94]
-    1 string data = "Plus you can't really travel the world with just a few sandwiches, what were you thinking?"
+    1 string data = "Navíc s pár sendviči opravdu nemůžete procestovat celý svět, co vás to napadlo?"
    [95]
-    1 string data = "That's... yeah..."
+    1 string data = "To je... jo..."
    [96]
-    1 string data = "See? You need me!"
+    1 string data = "Vidíš? Potřebujete mě!"
    [97]
-    1 string data = "You just do your Solstice Warrior duties and I'll keep your bellies full!"
+    1 string data = "Vy si jen plňte své povinnosti Bojovníků Slunovratu a já se postarám, abyste měli plná břicha!"
    [98]
-    1 string data = "Garl..."
+    1 string data = "Garle..."
    [99]
-    1 string data = "Deal?"
+    1 string data = "Platí?"
    [100]
-    1 string data = "Okay, deal!"
+    1 string data = "Dobře, platí!"
    [101]
-    1 string data = "Oh I'm so happy!!"
+    1 string data = "Já jsem tak šťastný!!"
    [102]
-    1 string data = "No way, this is awesome!!"
+    1 string data = "Není možné, jak to je úžasné!!"
    [103]
     1 string data = "Hahaha!"
    [104]
-    1 string data = "Alright, I'll start the kettle. We have so much catching up to do!"
+    1 string data = "Dobře, postavím na vodu. Musíme toho ještě tolik dohnat!"
    [105]
-    1 string data = "Garl the Warrior-Cook joins the party!"
+    1 string data = "Garl, válečný kuchař, se připojil k parte!"
    [106]
-    1 string data = "And so apparently after we meet this Elder Mist, we'll be able to “use magic without using magic” and be sent out into the world."
+    1 string data = "A až se setkáme se stařesinou Oparem, budeme umět "používat magii bez použití magie" a budeme vysláni do světa."
    [107]
-    1 string data = "That's all we've been told. I guess finding our own way is the final step of training."
+    1 string data = "To je vše, co nám bylo řečeno. Myslím, že najít si vlastní cestu je posledním krokem výcviku."
    [108]
-    1 string data = "Our first assignment is to get to "<color=location>Wraith Island</color>” in time for the next eclipse."
+    1 string data = "Naším prvním úkolem je dostat se na "<color=location>Wraithský ostrov</color>" včas před příštím zatměním."
    [109]
-    1 string data = "Wow, that's a lot."
+    1 string data = "Páni, to je hodně."
    [110]
-    1 string data = "Your powers sound so cool though! Can't wait to see them in action."
+    1 string data = "Vaše schopnosti se zdaj být husté! Nemůžu se dočkat, až je uvidím v akci."
    [111]
-    1 string data = "So how about you Garl?"
+    1 string data = "A co ty, Garle?"
    [112]
-    1 string data = "Oh, it was pretty uneventful to be honest."
+    1 string data = "No, upřímně řečeno, bylo to docela nezáživné."
    [113]
-    1 string data = "All I did was train and learn the skills I thought would come in handy."
+    1 string data = "Neustále jsem jenom cvičil a učil se dovednostem, které by se podle mě mohli hodit."
    [114]
-    1 string data = "Every single day I was hoping to see you come out. I'm sure glad no one told me it would take TEN YEARS!"
+    1 string data = "Každý jeden den jsem doufal, že vás uvidím vycházet. Jsem opravdu rád, že mi nikdo neřekl, že to bude trvat DESET LET!"
    [115]
-    1 string data = "Yeah we missed you too. It's not fair that we were together and you had to do this on your own."
+    1 string data = "Jo, taky jsi nám chyběl. Není fér, že jsme byli spolu a ty jsi to musel zvládnout sám."
    [116]
-    1 string data = "Well we're all together now, so it doesn't matter anymore!"
+    1 string data = "No, teď jsme všichni spolu, takže už je to jedno!"
    [117]
-    1 string data = "And I can't WAIT to explore the world, I want to taste everything!"
+    1 string data = "A já se nemůžu DOČKAT, až budu objevovat svět, chci všechno ochutnat!"
    [118]
-    1 string data = "Hey, this soup is unreal by the way."
+    1 string data = "Hele, ta polívka je mimochodem neskutečná."
    [119]
-    1 string data = "Right?"
+    1 string data = "Že?"
    [120]
-    1 string data = "Uh-huh. So how much food did you pack?"
+    1 string data = "Mhm. Tak kolik jídla jste si zabalili?"
    [121]
-    1 string data = "Just enough for a few meals. It's better to travel light, and there's ingredients everywhere if you know to look!"
+    1 string data = "Jen tolik, aby to stačilo na pár porcí. Je lepší cestovat nalehko, a suroviny jsou všude, když víš, kde hledat!"
    [122]
-    1 string data = "And who knows what we'll find? It's all part of the adventure!"
+    1 string data = "A kdo ví, co najdeme? To všechno patří k dobrodružství!"
    [123]
-    1 string data = "Why don't you try now [MAINCHAR]?"
+    1 string data = "Co kdybys to hned zkusil [MAINCHAR]?"
    [124]
-    1 string data = "See that bush right there? It's full of juicy berries, all you have to do is pick them!"
+    1 string data = "Vidíš ten keř támhle? Je plný šťavnatých bobulí, stačí je jen natrhat!"
    [125]
-    1 string data = "See? You're a natural!"
+    1 string data = "Vidíš? Jsi rozený talent!"
    [126]
-    1 string data = "We can eat that jam later when we need to heal up."
+    1 string data = "Tu marmeládu můžeme sníst později, až se budeme potřebovat uzdravit."
    [127]
-    1 string data = "Thanks for the tips Garl, that's going to come in handy for sure."
+    1 string data = "Díky za tipy, Garle, to se bude určitě hodit."
    [128]
-    1 string data = "Don't mention it!"
+    1 string data = "To nestojí za řeč!"
    [129]
-    1 string data = "Hey I'm ready for some sleep."
+    1 string data = "Hele, jsem připraven trochu se vyspat."
    [130]
-    1 string data = "Same here."
+    1 string data = "To samé i já."
    [131]
-    1 string data = "And nothing but the stars above us, I'm loving this life already!"
+    1 string data = "A nic než hvězdy nad námi, už teď miluju tenhle život!"
    [132]
-    1 string data = "Garl, I'm really glad you're here."
+    1 string data = "Garle, jsem opravdu rád, že jsi tady."
    [133]
-    1 string data = "Haha, I was just about to say that."
+    1 string data = "Haha, zrovna jsem to chtěl říct."
    [134]
-    1 string data = "Me too guys, I wouldn't want to be anywhere else."
+    1 string data = "Já taky, lidi, nechtěl bych být nikde jinde."
    [135]
-    1 string data = "Well, goodnight then!"
+    1 string data = "Tak dobrou noc!"
    [136]
-    1 string data = "Perfect, now we'll make some jam with the berries you picked."
+    1 string data = "Perfektní, teď si uděláme marmeládu z těch bobulí, co jste nasbírali."
    [137]
-    1 string data = "Just interact with the campfire and get ready to cook!"
+    1 string data = "Už jen použijte oheň a připravte se na vaření!"
    [138]
-    1 string data = "Good morning!"
+    1 string data = "Dobré ráno!"
    [139]
-    1 string data = "You all ready to go? I'm excited to see what this Elder Mist looks like!"
+    1 string data = "Jste všichni připraveni vyrazit? Už se těším, až uvidím, jak vypadá ten stařešina Opar!"
    [140]
-    1 string data = "Should be straight up. Let's keep hiking."
+    1 string data = "Mělo by to být rovnou nahoru. Pokračujme v túře."
    [141]
-    1 string data = "Hoo hoo hoo..."
+    1 string data = "Hu hu hu..."
    [142]
-    1 string data = "Hoo..."
+    1 string data = "Húúú..."
    [143]
-    1 string data = "Two Children of the Solstice have come for their rite of passage, but I also sense one who does not belong here."
+    1 string data = "Dvě děti slunovratu přišly na svůj obřad přechodu, ale cítím také jednoho, který sem nepatří."
    [144]
     1 string data = "..."
    [145]
-    1 string data = "Is he brave? Or foolish?"
+    1 string data = "Je statečný? Nebo blázen?"
    [146]
-    1 string data = "Hoo! Let's find out!"
+    1 string data = "Hú! Pojďme to zjistit!"
    [147]
-    1 string data = "Welcome, young adventurers, to this sacred pond."
+    1 string data = "Vítejte, mladí dobrodruzi, u tohoto posvátného rybníka."
    [148]
-    1 string data = "Nice to meet you, Elder Mist! My name is Garl!"
+    1 string data = "Rád tě poznávám, stařešino Opare! Jmenuji se Garl!"
    [149]
-    1 string data = "My, what a gregarious one you are."
+    1 string data = "Jé, ty jsi ale družný."
    [150]
-    1 string data = "Enthusiasm is certainly welcome in this place of meditation, but its rites are not meant for the common folk."
+    1 string data = "Nadšení je na tomto místě rozjímání jistě vítáno, ale zdejší obřady nejsou určeny pro běžné lidi."
    [151]
     1 string data = "..."
    [152]
-    1 string data = "Children of the Solstice, step forward!"
+    1 string data = "Děti slunovratu, přistupte!"
    [153]
-    1 string data = "Hoo..."
+    1 string data = "Hú..."
    [154]
-    1 string data = "Hoo hoo hoo!"
+    1 string data = "Hú hú hú!"
    [155]
-    1 string data = "It seems you show great potential indeed!"
+    1 string data = "Zdá se, že máte opravdu velký potenciál!"
    [156]
-    1 string data = "Have you weaved your will into celestial fabrics?"
+    1 string data = "Utkali jste svou vůli do nebeských tkanin?"
    [157]
-    1 string data = "We have, Elder Mist."
+    1 string data = "Ano, stařešino Opare."
    [158]
-    1 string data = "Then come closer, and let them be imbued by the sacred pond's magic!"
+    1 string data = "Tak pojďte blíž a nechte je prostoupit magií posvátného jezírka!"
    [159]
-    1 string data = "Hoo! A tremendous resonance!"
+    1 string data = "Hú! Ohromná rezonance!"
    [160]
-    1 string data = "Wear them with purpose, for they will augment your innate magic."
+    1 string data = "Noste je se zřetelem, neboť posílí vaši vrozenou magii."
    [161]
-    1 string data = "You shall henceforth have light in the darkest places, and protection against the minions of The Fleshmancer."
+    1 string data = "Od nynějška budete mít světlo i v těch nejtemnějších místech a ochranu před přisluhovači Fleshmancera."
    [162]
-    1 string data = "I don't feel any different..."
+    1 string data = "Necítím se jinak..."
    [163]
-    1 string data = "Yeah me neither."
+    1 string data = "Jo, já taky ne."
    [164]
-    1 string data = "Hoo! Rest assured, the ability to <color=magic>use magic without using magic</color> has taken root in you indeed!"
+    1 string data = "Hú! Ujišťuji vás, že schopnost <color=magic>používat magii bez použití magie</color> ve vás skutečně zakořenila!"
    [165]
-    1 string data = "What does that even mean?"
+    1 string data = "Co to vůbec znamená?"
    [166]
-    1 string data = "And how does it work?"
+    1 string data = "A jak to funguje?"
    [167]
-    1 string data = "It arises from need."
+    1 string data = "Pramení z nouze."
    [168]
-    1 string data = "In the many battles that await you, victory will often demand the use of more offensive magic than one can sustain through spells alone."
+    1 string data = "V mnoha bitvách, které vás čekají, si vítězství často vyžádá použití většího množství útočné magie, než kolik si člověk může zajistit jen pomocí kouzel."
    [169]
-    1 string data = "That is why attunement to <color=magic>Live Mana</color> is paramount."
+    1 string data = "Proto je nezbytné naladit se na <color=magic>Živou manu</color>."
    [170]
-    1 string data = "Live Mana?"
+    1 string data = "Živou manu?"
    [171]
-    1 string data = "Hoo!"
+    1 string data = "Hú!"
    [172]
-    1 string data = "It allows your attacks to draw from the magic bestowed upon you at birth."
+    1 string data = "Díky ní mohou vaše útoky čerpat z magie, která vám byla souzena při narození."
    [173]
-    1 string data = "And judging by the resonance you create, this power should even extend to your traveling companions."
+    1 string data = "A soudě podle rezonance, kterou vytváříte, by se tato moc měla rozšířit i na vaše společníky na cestách."
    [174]
     1 string data = "!!"
    [175]
-    1 string data = "You are ready. Live Mana will start manifesting for you the next time you enter battle. Are you ready for your final test?"
+    1 string data = "Jste připraveni. Živá mana se pro vás začne manifestovat, až příště vstoupíte do bitvy. Jste připraveni na závěrečnou zkoušku?"
    [176]
-    1 string data = "Elder Mist, I'd like to go with them."
+    1 string data = "Stařešino Opare, rád bych šel s nimi."
    [177]
     1 string data = "..."
    [178]
-    1 string data = "Hoo..."
+    1 string data = "Hú..."
    [179]
-    1 string data = "The Elder Mist Trials have never been undertaken by anyone but aspiring Solstice Warriors."
+    1 string data = "Zkoušky Stařešiny Opara nikdy nepodstoupil nikdo jiný než aspirující Bojovníci Slunovratu."
    [180]
-    1 string data = "But I want to go with them, please!"
+    1 string data = "Ale já chci jít s nimi, prosím!"
    [181]
-    1 string data = "Interesting, you are the first of the common folk to ever make such a request..."
+    1 string data = "Zajímavé, jsi první z běžného lidu, kdo kdy vznesl takovou žádost..."
    [182]
     1 string data = "..."
    [183]
-    1 string data = "(He sure is a peculiar one...)"
+    1 string data = "(Ten je ale svérázný...)"
    [184]
-    1 string data = "(No doubt limited when it comes to combat, but the warmth of his heart...)"
+    1 string data = "(V boji je bezpochyby omezený, ale vřelost jeho srdce...)"
    [185]
-    1 string data = "(Could he bring <color=good>it</color> back?)"
+    1 string data = "(Dokázal by <color=good>to</good> přivést zpět?)"
    [186]
     1 string data = "..."
    [187]
-    1 string data = "(Perhaps we should try to find out.)"
+    1 string data = "(Možná bychom se to měli pokusit zjistit.)"
    [188]
-    1 string data = "I will allow it!"
+    1 string data = "Dovolím to!"
    [189]
-    1 string data = "Alright! Thanks, Elder Mist!"
+    1 string data = "Dobře! Díky, stařešino Opare!"
    [190]
-    1 string data = "Consider it a test of your ability to act as a companion to Solstice Warriors."
+    1 string data = "Považuj to za zkoušku tvých schopností působit jako společník Bojovníků Slunovratu."
    [191]
-    1 string data = "I won't fail!"
+    1 string data = "Nezklamu vás!"
    [192]
-    1 string data = "We are ready."
+    1 string data = "Jsme připraveni."
    [193]
-    1 string data = "Then close your eyes, and take a deep breath..."
+    1 string data = "Pak zavřete oči a zhluboka se nadechněte..."
    [194]
-    1 string data = "Close your eyes and go to the Elder Mist Trials?"
+    1 string data = "Zavřít oči a jít na Zkoušky stařešinu Opara?"
    [195]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [196]
-    1 string data = "No"
+    1 string data = "Ne"
    [197]
-    1 string data = "Good morning! The time has come to begin your journey."
+    1 string data = "Dobré ráno! Nastal čas vyrazit na vaši cestu."
    [198]
-    1 string data = "Morning? But it's the middle of the night!"
+    1 string data = "Dobré ráno? Ale vždyť je půlnoc!"
    [199]
-    1 string data = "Ah yes, I suppose your friends should address that..."
+    1 string data = "Ach ano, předpokládám, že by to měli vyřešit tví přátelé..."
    [200]
-    1 string data = "Address what?"
+    1 string data = "Co vyřešit?"
    [201]
-    1 string data = "Bring us the dawn!"
+    1 string data = "Přivolat nám úsvit!"
    [202]
-    1 string data = "We can do that?"
+    1 string data = "To dokážeme?"
    [203]
-    1 string data = "Hoo! All it takes is for you to stand on a <color=magic>Celestial Rune</color>."
+    1 string data = "Hú! Stačí, když se postavíš na <color=magic>Nebeskou runu</color>."
    [204]
-    1 string data = "And... then what?"
+    1 string data = "A... co pak?"
    [205]
-    1 string data = "Something inside of you knows already."
+    1 string data = "Něco uvnitř tebe už to ví."
    [206]
-    1 string data = "Right this way."
+    1 string data = "Tudy."
    [207]
-    1 string data = "Now concentrate, and bring us the dawn!"
+    1 string data = "Teď se soustřeď a přivolej nám úsvit!"
    [208]
-    1 string data = "How did you do that? That's the coolest thing I've EVER seen!!"
+    1 string data = "Jak se ti to povedlo? To je ta nejúžasnější věc, jakou jsem KDY viděl!!!"
    [209]
-    1 string data = "Hoo hoo hoo!"
+    1 string data = "Hú hú hú!"
    [210]
-    1 string data = "That part is always easier by simply going for it."
+    1 string data = "Tahle část je vždycky jednodušší, když se do toho prostě pustíš."
    [211]
-    1 string data = "Now, in your travels, you will sometimes find mechanisms and seals powered by magical <color=magic>runes that react to the time of day</color>."
+    1 string data = "Dobrá, na svých cestách občas narazíte na mechanismy a pečetě poháněné magickými <color=magic>runami, které reagují na denní dobu</color>."
    [212]
-    1 string data = "They were put into place by Solstice Warriors who came before you."
+    1 string data = "Byly umístěny Bojovníkmi Slunovratu, kteří přišli před vámi."
    [213]
-    1 string data = "Some conceal artifacts meant to help future members of the order such as yourselves, while others seal away evils that were too powerful to confront."
+    1 string data = "Některé ukrývají artefakty, jež mají pomáhat budoucím členům řádu, jako jste vy, zatímco jiné zadrželi zlo, které bylo příliš mocné na to, abychom se mu postavili."
    [214]
-    1 string data = "Whether or not to look for these artifacts and challenges will be <color=magic>entirely up to you</color>."
+    1 string data = "Zda budete po těchto artefaktech a výzvách pátrat, či nikoli, bude <color=magic>záležet pouze na vás</color>".
    [215]
-    1 string data = "Now, your journey can begin."
+    1 string data = "Nyní může vaše cesta začít."
    [216]
-    1 string data = "Come and meet me beyond this chasm."
+    1 string data = "Pojďte, setkáme se za touto propastí."
    [217]
     1 string data = "..."
    [218]
-    1 string data = "How do we get across?"
+    1 string data = "Jak se dostaneme na druhou stranu?"
    [219]
-    1 string data = "By using your powers, of course!"
+    1 string data = "Pomocí svých schopností, samozřejmě!"
    [220]
-    1 string data = "Meet me on the other side, and as a farewell gift I will share with you what I could read in the Mists of Time."
+    1 string data = "Setkáme se na druhé straně a já se s vámi na rozloučenou podělím o to, co jsem si mohl přečíst v Mlhách času."
    [221]
-    1 string data = "Use <button="AdvanceTime"> and <button="RewindTime"> while standing on celestial runes to change the Time of Day."
+    1 string data = "Podržte <button="AdvanceTime"> a <button="RewindTime">, když stojíte na nebeských runách, abyste změnili Čas dne."
    [222]
-    1 string data = "Try using the crystal to charge the smaller rune on the ground above and see what happens!"
+    1 string data = "Zkuste pomocí krystalu nabít menší runu na plošine nad sebou a uvidíte, co se stane!"
    [223]
-    1 string data = "The engraving has worn out, but it definitely mentions a rite of passage for <color=good>Children of the Solstice</color>."
+    1 string data = "Rytina je již zašlá, ale určitě se na ní zmiňuje obřad přechodu pro <color=good>Děti Slunovratu</color>."
    [224]
-    1 string data = "The Elder Mist..."
+    1 string data = "Stařešino Opare..."
    [225]
-    1 string data = "Does it feel any better?"
+    1 string data = "Už je to lepší?"
    [226]
-    1 string data = "I..."
+    1 string data = "Já..."
    [227]
-    1 string data = "Not really..."
+    1 string data = "Ani ne..."
    [228]
-    1 string data = "Zale, it really hurts."
+    1 string data = "Zale, vážně to bolí."
    [229]
-    1 string data = "I'm so sorry, buddy..."
+    1 string data = "Je mi to moc líto, kamaráde..."
    [230]
-    1 string data = "I feel colder and colder..."
+    1 string data = "Cítím se čím dál chladnější..."
    [231]
-    1 string data = "Garl..."
+    1 string data = "Garle..."
    [232]
-    1 string data = "Hey, we got to fly in the end. That's pretty good, right?"
+    1 string data = "Hele, nakonec jsme létali. To je docela dobrý, ne?"
    [233]
     1 string data = "Haha... GAH!"
    [234]
-    1 string data = "Try not to talk."
+    1 string data = "Snaž se nemluvit."
    [235]
-    1 string data = "So..."
+    1 string data = "Takže..."
    [236]
-    1 string data = "You'll go after Erlina and The Fleshmancer?"
+    1 string data = "Půjdete po Erlině a Fleshmancerovi?"
    [237]
-    1 string data = "That doesn't matter right now."
+    1 string data = "Na tom teď nezáleží."
    [238]
-    1 string data = "Seems like they left for a far away place."
+    1 string data = "Vypadá to, že odešli někam hodně daleko."
    [239]
-    1 string data = "Don't worry about it, Garl. Just stay with us."
+    1 string data = "Netrap se tím, Garle. Jen zůstaň s námi."
    [240]
-    1 string data = "I wish I could help you get there."
+    1 string data = "Kéž bych vám mohl pomoci dostat se tam."
    [241]
-    1 string data = "I wish I could help you one last time..."
+    1 string data = "Kéž bych vám mohl naposledy pomoci..."
    [242]
-    1 string data = "Hoo..."
+    1 string data = "Hú..."
    [243]
-    1 string data = "When death is near, the unresolved chapters of one's prophecy beckon."
+    1 string data = "Když je smrt na blízku, vynáří se nevyřešené kapitoly onoho proroctví."
    [244]
-    1 string data = "The way to help may be in there. Allow me."
+    1 string data = "Cesta pro pomoc může být právě támhle. Dovolte."
    [245]
-    1 string data = "[MAINCHAR], I just... I had a vision."
+    1 string data = "[MAINCHAR], já právě... bylo to vidění."
    [246]
-    1 string data = "I think I know how to help you go after them."
+    1 string data = "Myslím, že vím, jak vám pomoci, abyste šli po nich."
    [247]
-    1 string data = "Thank you, Elder Mist. I understand now... the <color=magic>Sea of Stars</color>..."
+    1 string data = "Děkuji, stařešino Opare. Teď už to chápu... <color=magic>Moře hvězd</color>..."
    [248]
-    1 string data = "*Cough! Cough!*"
+    1 string data = "*Kašel! Kašel!*"
    [249]
-    1 string data = "But it's too late..."
+    1 string data = "Ale už je pozdě..."
    [250]
-    1 string data = "If I had just one more day..."
+    1 string data = "Kdybych tak měl ještě jeden den..."
    [251]
-    1 string data = "(Come on, kid! I can't do it if you don't ask.)"
+    1 string data = "(No tak, chlapče! Nemůžu to udělat, když se nezeptáš.)"
    [252]
-    1 string data = "When that moment comes, demand a <color=magic>Flask of Borrowed Time</color>."
+    1 string data = "Až ta chvíle nadejde, vyžádej si <color=magic>baňku Vypůjčeného času</color>."
    [253]
-    1 string data = "Resh'an! I demand a Flask of Borrowed Time!"
+    1 string data = "Resh'ane! Žádám o baňku Vypůjčeného času!"
    [254]
-    1 string data = "Okay, that really hit the spot!"
+    1 string data = "Tak to opravdu dobře padlo!"
    [255]
-    1 string data = "I feel as if-"
+    1 string data = "Mám pocit, že..."
    [256]
     1 string data = "GAH!!"
    [257]
-    1 string data = "*cough cough*"
+    1 string data = "*kašel kašel*"
    [258]
     1 string data = "!!"
    [259]
     1 string data = "Aughhh..."
    [260]
-    1 string data = "Huh? "
+    1 string data = "Ha? "
    [261]
-    1 string data = "Hey, I'm..."
+    1 string data = "Hej, já jsem..."
    [262]
-    1 string data = "Listen carefully, Garl."
+    1 string data = "Poslouchej pozorně, Garle."
    [263]
-    1 string data = "The ethereal feeling you are experiencing is a side effect of Borrowed Time."
+    1 string data = "Éterický pocit, který teď zažíváš, je vedlejším účinkem Vypůjčeného času."
    [264]
-    1 string data = "The potion's magic worked only because you had clarity of purpose."
+    1 string data = "Kouzlo lektvaru fungovalo jen proto, že jsi měl jasný záměr."
    [265]
-    1 string data = "You currently exist in-between realities. Borrowed Time will keep you here until your deed is done, but you must understand."
+    1 string data = "V současné době existuješ mezi realitami. Vypůjčený čas tě zde udrží, dokud nebude tvůj čin dokonán, ale musíš pochopit..."
    [266]
-    1 string data = "You will still die in the end. That cannot be changed."
+    1 string data = "Nakonec stejně zemřeš. To nelze změnit."
    [267]
     1 string data = "..."
    [268]
-    1 string data = "It's okay, I understand."
+    1 string data = "To je v pořádku, rozumím."
    [269]
-    1 string data = "And I know exactly what to do. First-"
+    1 string data = "A vím přesně, co mám dělat. Nejprve..."
    [270]
-    1 string data = "Garl!"
+    1 string data = "Garle!"
    [271]
     1 string data = "Mhh?"
    [272]
-    1 string data = "You're just going to act like nothing's wrong?"
+    1 string data = "Ty se budeš chovat, jako by se nic nedělo?"
    [273]
-    1 string data = "I don't have much time, Valere. I want to make the most of it."
+    1 string data = "Nemám moc času, Valerie. Chci ho využít co nejlépe."
    [274]
-    1 string data = "Don't say that..."
+    1 string data = "To neříkej..."
    [275]
-    1 string data = "There might still be a way!"
+    1 string data = "Ještě by to mohlo jít!"
    [276]
-    1 string data = "There isn't. I'm sorry."
+    1 string data = "Nemohlo. Je mi líto."
    [277]
-    1 string data = "If you use the time for anything other than the stated purpose, the Borrowed Time will expire instantly."
+    1 string data = "Pokud čas použiješ k jinému než stanovenému účelu, Vypůjčený čas okamžitě vyprší."
    [278]
     1 string data = "..."
    [279]
-    1 string data = "Guys, it's okay."
+    1 string data = "Lidi, to je v pořádku."
    [280]
-    1 string data = "I already did a lot more than a regular Mooncradle boy has any right to."
+    1 string data = "Už jsem toho udělal mnohem víc, než na co má normální kluk z Měsíční kolébky právo."
    [281]
-    1 string data = "All I want is one last adventure with you."
+    1 string data = "Chci pouze poslední dobrodružství s vámi."
    [282]
     1 string data = "..."
    [283]
-    1 string data = "Seeing Garl's final deed through is what will extend his Borrowed Time the most."
+    1 string data = "Provádění Garlova posledního činu je to, co nejvíce prodlouží jeho Vypůjčený čas."
    [284]
-    1 string data = "You don't understand!"
+    1 string data = "Vy tomu nerozumíte!"
    [285]
-    1 string data = "We can't lose him!"
+    1 string data = "Nemůžeme ho ztratit!"
    [286]
-    1 string data = "It's too late for that regardless. I just want to help one last time."
+    1 string data = "Na to už je stejně pozdě. Chci vám jen naposledy pomoct."
    [287]
     1 string data = "..."
    [288]
-    1 string data = "Can you do this for me?"
+    1 string data = "Můžete to pro mě udělat?"
    [289]
     1 string data = "..."
    [290]
-    1 string data = "Please, it's my final wish. You only ever get one of those!"
+    1 string data = "Prosím, je to mé poslední přání. Tohle má každý jenom jedno!"
    [291]
     1 string data = "..."
    [292]
-    1 string data = "Come on, it's this or nothing! Let's make it count, okay?"
+    1 string data = "No tak, buď tohle, nebo nic! Tak ať to stojí za to, ano?"
    [293]
-    1 string data = "Let's make it count."
+    1 string data = "Ať to stojí za to."
    [294]
-    1 string data = "Let's make it count."
+    1 string data = "Ať to stojí za to."
    [295]
-    1 string data = "Alright! Let's do this."
+    1 string data = "Tak jo! Jdeme na to."
    [296]
-    1 string data = "To get you across the Sea of Stars, there's people we need permission from."
+    1 string data = "Abychom tě dostali přes Moře hvězd, potřebujeme povolení od některých lidí."
    [297]
-    1 string data = "We'll need a bargaining chip, but I know just the thing!"
+    1 string data = "Budeme potřebovat něco na výměnu, ale já o něčem takovém vím!"
    [298]
-    1 string data = "Where are those people?"
+    1 string data = "Kde jsou ti lidé?"
    [299]
-    1 string data = "Way up!"
+    1 string data = "Úplne nahoře!"
    [300]
     1 string data = "??"
    [301]
-    1 string data = "I suppose the flying was a spur of the moment thing?"
+    1 string data = "Předpokládám, že to létání byla jen záležitost okamihu?"
    [302]
-    1 string data = "Yeah I'm not too sure how we did that..."
+    1 string data = "Jo, nemám jasno, jak se nám to povedlo..."
    [303]
-    1 string data = "The connection took place, but your new powers need more time to grow."
+    1 string data = "Spojení se uskutečnilo, ale vaše nové schopnosti vyžadují více času na růst."
    [304]
-    1 string data = "It's okay, there's another way."
+    1 string data = "To je v pořádku, existuje i jiná cesta."
    [305]
-    1 string data = "That mysterious shrine out in the ocean south of Mesa Island... It's connected somehow."
+    1 string data = "Ta tajemná svatyně v oceánu jižně od ostrova Mesa... Nějak to souvisí."
    [306]
-    1 string data = "Y'eet can get us closer. Let's go."
+    1 string data = "Y'eet nás může dostat blíž. Pojďme."
    [307]
-    1 string data = "What could this be?"
+    1 string data = "Co by to mohlo být?"
    [308]
-    1 string data = "([MAINCHAR_GODNAME] and [OFFCHAR_GODNAME]. You have come a long way on this journey.)"
+    1 string data = "([MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]. Na této cestě jste ušli dlouhou cestu.").
    [309]
-    1 string data = "(Weapons of great power have manifested in the Dream World. Prove yourselves worthy, and claim them as your own.)"
+    1 string data = "(Ve Světě snů se projevily zbraně velké moci. Prokažte, že jste jich hodni, a prohlaste je za své.")
    [310]
-    1 string data = "(This challenge is for the two of you alone. Are you ready to face me one last time?)"
+    1 string data = "(Tato výzva je určena pouze vám dvěma. Jste připraveni se mi naposledy postavit?")
    [311]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [312]
-    1 string data = "No"
+    1 string data = "Ne"
    [313]
-    1 string data = "(Then close your eyes.)"
+    1 string data = "(Pak zavřete oči.)"
    [314]
-    1 string data = "(Then return once you feel prepared.)"
+    1 string data = "(Pak se vraťte, jakmile se budete cítit připraveni.)"
    [315]
-    1 string data = "Go to sleep?"
+    1 string data = "Jít spát?"
    [316]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [317]
-    1 string data = "No"
+    1 string data = "Ne"
    [318]
-    1 string data = "Everyone ate and slept better that night than they had since the fight against the Dweller of Strife..."
+    1 string data = "Tu noc se všichni najedli a vyspali lépe než od dob boje s Obyvatelem sváru..."
    [319]
-    1 string data = "Hey there! Were you looking for anything in particular?"
+    1 string data = "Ahoj! Hledáte něco konkrétního?"
