@@ -103,7 +103,7 @@
    [44]
     1 string data = "Aha! Za těmi sutinami je díra. Čas se tím probourat!"
    [45]
-    1 string data = "Hm, co teď?"
+    1 string data = "Tak se na to podívejme."
    [46]
     1 string data = "Je to celé ucpané troskami..."
    [47]
@@ -153,7 +153,7 @@
    [69]
     1 string data = "Vidím, že jste svou část dohody nakonec opravdu splnili."
    [70]
-    1 string data = "Vraťte se, odkud jste přišli, vy zloduši, these minds are not yours to twist!"
+    1 string data = "Vraťte se, odkud jste přišli, vy zloduši, tyhle mysle nepatří vám, abyste je mohli pokroutit!"
    [71]
     1 string data = "Oh, je snad tenhle stařík nervózní?"
    [72]
@@ -215,11 +215,11 @@
    [100]
     1 string data = "Ještě není pozdě, Brugavesi! Znič to jádro!"
    [101]
-    1 string data = "Je mi líto, Valere. My už jsme se rozhodli."
+    1 string data = "Je mi líto, Valerie. My už jsme se rozhodli."
    [102]
     1 string data = "Proč to vzdáváte teď? Někteří z nás stále ještě mohou být povzneseni!"
    [103]
-    1 string data = "Povzneseni na „Strážné Bohy“? Nebuď směšná!"
+    1 string data = "Povzneseni na "Strážné Bohy"? Nebuď směšná!"
    [104]
     1 string data = "Kolik staletí se marně čekalo na splnění toho falešného slibu?"
    [105]
@@ -259,7 +259,7 @@
    [122]
     1 string data = "..."
    [123]
-    1 string data = "Ale Elder Mist řekl..."
+    1 string data = "Ale Mlžný střešina říkal..."
    [124]
     1 string data = "..."
    [125]
@@ -275,21 +275,21 @@
    [130]
     1 string data = "Doufám, že víte, co děláte..."
    [131]
-    1 string data = "Alright, it's snack time!"
+    1 string data = "Dobrá, je čas na svačinu!"
    [132]
-    1 string data = "Just give me a few minutes."
+    1 string data = "Dejte mi jen chvilku."
    [133]
-    1 string data = "You got this, Garl!"
+    1 string data = "To zvládneš, Garle!"
    [134]
-    1 string data = "Aaaaand done! We should go see that ghost now."
+    1 string data = "Aaaaa hotovo! Měli bychom se jít podívat na toho ducha."
    [135]
-    1 string data = "We didn't check all the ingredients yet. Let's keep searching."
+    1 string data = "Ještě jsme neskontrolovali všechny ingredience. Hledejme dál."
    [136]
     1 string data = "Sklep mají na starost Erlina a Brugaves. My hledáme taneční sál a zahradu."
    [137]
     1 string data = "Nemůžeme ostatní zklamat. Do tanečního sálu, potom na zahradu."
    [138]
-    1 string data = "Vypadá to, že na dně toho květináče je spínač. Zmáčknout jej?"
+    1 string data = "Vypadá to, že na dně toho květináče je spínač. Zmáčknu ho?"
    [139]
     1 string data = "Ano"
    [140]
@@ -307,7 +307,7 @@
    [146]
     1 string data = "Vy jste nám přišli na pomoc? To byste si měli prohlédnout louč nalevo od krbu..."
    [147]
-    1 string data = "Completely blocked from this side."
+    1 string data = "Z této strany je to úplne zatarasené."
    [148]
     1 string data = "Stýská se mi po Lucentu."
    [149]
@@ -315,7 +315,7 @@
    [150]
     1 string data = "Když se to stalo, zrovna jsme přímo tady večeřeli."
    [151]
-    1 string data = "Jednoho dne jsem se vzbudil a Noční pokryv už tady byl."
+    1 string data = "Jednoho dne jsem se vzbudil a Noční závoj už tady byl."
    [152]
     1 string data = "Nejdřív vám řeknou, ať vyjádříte svůj názor, a potom jste podle nich mrzout..."
    [153]
@@ -327,37 +327,37 @@
    [156]
     1 string data = "Ne"
    [157]
-    1 string data = "Rytíř má na hlavě korunu. Vzít ji?"
+    1 string data = "Rytíř má na hlavě korunu. Vezmu ji?"
    [158]
     1 string data = "Vzít korunu"
    [159]
     1 string data = "Ničeho se nedotýkat"
    [160]
-    1 string data = "Rytíř má na hlavě přilbu rytíře. Vzít ji?"
+    1 string data = "Rytíř má na hlavě přilbu rytíře. Vezmu ji?"
    [161]
     1 string data = "Vzít přilbu rytíře"
    [162]
     1 string data = "Ničeho se nedotýkat"
    [163]
-    1 string data = "Král má na hlavě korunu. Vzít ji?"
+    1 string data = "Král má na hlavě korunu. Vezmu ji?"
    [164]
     1 string data = "Vzít korunu"
    [165]
     1 string data = "Ničeho se nedotýkat"
    [166]
-    1 string data = "Král má na hlavě přilbu rytíře. Vzít ji?"
+    1 string data = "Král má na hlavě přilbu rytíře. Vezmu ji?"
    [167]
     1 string data = "Vzít přilbu rytíře"
    [168]
     1 string data = "Ničeho se nedotýkat"
    [169]
-    1 string data = "Let's see what we have here."
+    1 string data = "Podívejme se, copak tu máme."
    [170]
-    1 string data = "Hepar : [INGREDIENT_A_COUNT], dust : [INGREDIENT_B_COUNT], sugar : [INGREDIENT_C_COUNT], rust : [INGREDIENT_D_COUNT], slices of dread : [INGREDIENT_E_COUNT]."
+    1 string data = "Hepar : [INGREDIENT_A_COUNT], prach : [INGREDIENT_B_COUNT], cukr : [INGREDIENT_C_COUNT], hrze : [INGREDIENT_D_COUNT], plátky hrůzy : [INGREDIENT_E_COUNT]."
    [171]
-    1 string data = "I have a feeling the quantities are not exactly right."
+    1 string data = "Něco mi říká, že ty množstva nejsou celkem přesne."
    [172]
-    1 string data = "Want me to start cooking?"
+    1 string data = "Mám začít vařit?"
    [173]
     1 string data = "Ano"
    [174]
@@ -365,21 +365,21 @@
    [175]
     1 string data = "Začít znovu"
    [176]
-    1 string data = "The Master Sandwich recipe requires two parts hepar, four parts dust, three parts sugar and one part rust."
+    1 string data = "Recept na Mistrovský sendvič vyžaduje dva díly heparu, čtyři díly prachu, tři díly cukru a jeden díl rzi."
    [177]
-    1 string data = "All between two slices of dread."
+    1 string data = "Vše mezi dvěma plátky hrůzy."
    [178]
-    1 string data = "The jar says "Hepar". How many drops should we take?"
+    1 string data = "Na sklenici je napsáno "Hepar". Kolik kapek si máme vzít?"
    [179]
-    1 string data = "This counter is full of dust. How many pinches should we take?"
+    1 string data = "Na této lince je plno prachu. Kolik špetek bychom si měli vzít?"
    [180]
-    1 string data = "Sugar. How many cubes should we take?"
+    1 string data = "Cukr. Kolik kostek si máme vzít?"
    [181]
-    1 string data = "A rusty rod. How many times should we scrape it?"
+    1 string data = "Rezavá tyč. Kolikrát bychom ji měli oškrábat?"
    [182]
-    1 string data = ""Loaf of Dread". How many slices should we cut?"
+    1 string data = ""Bochník hrůzy". Kolik plátků máme nakrájet?"
    [183]
-    1 string data = "None"
+    1 string data = "Nic"
    [184]
     1 string data = "1"
    [185]
@@ -391,7 +391,7 @@
    [188]
     1 string data = "Ahoj. Vy teda vypadáte divně, jste snad naživu nebo co?"
    [189]
-    1 string data = "Ahoj, hledáme taneční sál. Věděla bys, kde je?"
+    1 string data = "Ahoj, příteli, hledáme taneční sál. Věděla bys, kde je?"
    [190]
     1 string data = "Hm? Ano, je někde za těmihle dveřmi."
    [191]
@@ -399,11 +399,11 @@
    [192]
     1 string data = "Platí! Jaký by sis přála?"
    [193]
-    1 string data = "Můj oblíbený je dost jednoduchý. Two parts hepar, four parts dust. Three parts sugar, and one part rust!"
+    1 string data = "Můj oblíbený je dost jednoduchý. Dva díly heparu, čtyři díly prachu. Tři díly cukru a jeden díl rzi!"
    [194]
     1 string data = "..."
    [195]
-    1 string data = "Between two slices of dread, of course!"
+    1 string data = "Mezi dva plátky hrůzy, přirozeně!"
    [196]
     1 string data = "Jasně..."
    [197]
@@ -413,23 +413,23 @@
    [199]
     1 string data = "Recept je na lince, pokud byste ho potřebovali."
    [200]
-    1 string data = "And please hurry, I'm STARVING!"
+    1 string data = "A prosím, pospěšte si, UMÍRÁM hlady!"
    [201]
-    1 string data = "Did you make my sandwich?"
+    1 string data = "Udělali jste mi sendvič?"
    [202]
-    1 string data = "Let's EAT!"
+    1 string data = "Pojďme JÍST!"
    [203]
-    1 string data = "Oooooh that is one good sandwich! Here's a little extra for your trouble."
+    1 string data = "Oooooh, to je ale dobrý sendvič! Tady máte něco extra za vaši námahu."
    [204]
-    1 string data = "Not exactly what I was hoping for, but I guess it will do. Here's a little something for you."
+    1 string data = "Není to přesně to, v co jsem doufal, ale asi to bude stačit. Tady máte něco extra."
    [205]
-    1 string data = "Eww! Did you put some vegetables in there or something? Well, it's still a sandwich, I guess..."
+    1 string data = "Fuj! Dali jste tam nějakou zeleninu nebo tak něco? No, pořád je to sendvič, že ano..."
    [206]
-    1 string data = "A deal's a deal. The ballroom is through the library behind me. Just crown the king and you're basically there!"
+    1 string data = "Dohoda je dohoda. Taneční sál je přes knihovnu za mnou. Stačí korunovat krále a jsi v podstatě tam!"
    [207]
-    1 string data = "We have to make the sandwich. The recipe is on the counter if you need."
+    1 string data = "Musíme udělat sendvič. Recept je na lince, kdyby byl potřeba."
    [208]
-    1 string data = "I'll get this going. Do you mind gathering the ingredients?"
+    1 string data = "Já to rozjedu. Mohli byste posbírat ingredience?"
    [209]
     1 string data = "Děsivé..."
    [210]
@@ -441,20 +441,20 @@
    [213]
     1 string data = "V tomto sídle jsou další ztracené duše, co vám mohou pomoci, ale neukážou se, dokud budou poblíž zlí duchové."
    [214]
-    1 string data = "Need anything?"
+    1 string data = "Potřebujete něco?"
    [215]
-    1 string data = "Sealed shut."
+    1 string data = "Pevně zavřeno."
    [216]
     1 string data = "Jen nějaké staré zaprášené knihy."
    [217]
-    1 string data = "This book is full of boring old records from past tenants."
+    1 string data = "Tato kniha je plná nudných starých záznamů od minulých nájemníků."
    [218]
     1 string data = "Tady už dlouho nikdo neuklízel..."
    [219]
-    1 string data = "Ve vzkazu stojí: „Krabičky džusu podávat pouze s obědem!“"
+    1 string data = "Ve vzkazu stojí: "Krabičky džusu podávat pouze s obědem!""
    [220]
     1 string data = "Seznam instrukcí pro služebnictvo, které pracovalo v tomto sídle."
    [221]
-    1 string data = "Ve vzkazu stojí: „K otevření tajné chodby do kuchyně se podívejte do květináče na zahradě.“"
+    1 string data = "Ve vzkazu stojí: "K otevření tajné chodby do kuchyně se podívejte do květináče na zahradě.""
    [222]
     1 string data = "Tak zašlá, že by ji snad šlo rozdrolit pouhým pohledem."
