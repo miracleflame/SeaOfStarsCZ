@@ -17,7 +17,7 @@
    [1]
     1 string data = "Zatím dobrý."
    [2]
-    1 string data = "Takže <color=dobrá>stařešina Mlha</color> prý bydlí někde tady, jo? "
+    1 string data = "Takže <color=good>stařešina Mlha</color> prý bydlí někde tady, jo?"
    [3]
     1 string data = "Myslíš, že je to jenom další test?"
    [4]
@@ -43,21 +43,21 @@
    [14]
     1 string data = "Je čas na trochu skautingu."
    [15]
-    1 string data = "Jedu!"
+    1 string data = "Procházím tudy!"
    [16]
-    1 string data = "Au! Težké, co?"
+    1 string data = "Au! Tvrďák, co?"
    [17]
-    1 string data = "Zkusme tohle!"
+    1 string data = "Sleduj tohle!"
    [18]
     1 string data = "<color=good>Brugaves</color> nekecal, s těmahle už se bojuje líp!"
    [19]
     1 string data = "Pojďme se podívat, kam to povede."
    [20]
-    1 string data = "Au! Težké, co?"
+    1 string data = "Au! Tvrďák, co?"
    [21]
-    1 string data = "Zkusme tohle!"
+    1 string data = "Sleduj tohle!"
    [22]
-    1 string data = "[MAINCHAR], máš něco?"
+    1 string data = "[MAINCHAR], našels něco?"
    [23]
     1 string data = "Jenom slepá ulička. A co ty?"
    [24]
@@ -99,7 +99,7 @@
    [42]
     1 string data = "Kéž by se rozloučil, víš?"
    [43]
-    1 string data = "Po deseti letech, co jsem neviděl jeho tvář, by stačilo pouze vědět, že je v pořádku..."
+    1 string data = "Po deseti letech, co jsem neviděla jeho tvář, by stačilo pouze vědět, že je v pořádku..."
    [44]
     1 string data = "A že jsme pořád přátelé..."
    [45]

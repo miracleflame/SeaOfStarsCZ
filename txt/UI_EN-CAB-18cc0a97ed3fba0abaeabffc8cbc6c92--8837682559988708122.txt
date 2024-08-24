@@ -10,8 +10,8 @@
  1 string locCategoryId = "UI"
  0 int language = 0
  0 vector strings
-  1 Array Array (373 items)
-   0 int size = 373
+  1 Array Array (374 items)
+   0 int size = 374
    [0]
     1 string data = "Stiskněte <button="TitleScreenStart">"
    [1]
