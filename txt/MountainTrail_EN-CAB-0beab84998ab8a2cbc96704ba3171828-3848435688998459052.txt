@@ -17,7 +17,7 @@
    [1]
     1 string data = "Zatím dobrý."
    [2]
-    1 string data = "Takže <color=dobrá>stařešina Opar</color> prý bydlí někde tady, jo? "
+    1 string data = "Takže <color=dobrá>stařešina Mlha</color> prý bydlí někde tady, jo? "
    [3]
     1 string data = "Myslíš, že je to jenom další test?"
    [4]
@@ -71,7 +71,7 @@
    [28]
     1 string data = "[OFFCHAR] má tuto stranu pokrytou. Měli bychom se vydat doprava."
    [29]
-    1 string data = "Teď už není cesty zpět, musíme se dostat na vrchol a setkat se se stařešinou Oparem."
+    1 string data = "Teď už není cesty zpět, musíme se dostat na vrchol a setkat se se stařešinou Mlhou."
    [30]
     1 string data = "Ha! Stejně to nepřekoná ten výraz, cos měl, když ses poprvé pokusil rozbít sluneční kouli!"
    [31]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "Zatím dobrý."
    [51]
-    1 string data = "Takže <color=dobrá>stařešina Opar</color> prý bydlí někde tady, jo? "
+    1 string data = "Takže <color=dobrá>stařešina Mlha</color> prý bydlí někde tady, jo? "
    [52]
     1 string data = "Opravdu doufám, že po tomhle budeme mít možnost vrátit se do Měsíční kolísky."
    [53]
@@ -225,7 +225,7 @@
    [105]
     1 string data = "Garl, válečný kuchař, se připojil k parte!"
    [106]
-    1 string data = "A až se setkáme se stařesinou Oparem, budeme umět "používat magii bez použití magie" a budeme vysláni do světa."
+    1 string data = "A až se setkáme se stařesinou Mlhou, budeme umět "používat magii bez použití magie" a budeme vysláni do světa."
    [107]
     1 string data = "To je vše, co nám bylo řečeno. Myslím, že najít si vlastní cestu je posledním krokem výcviku."
    [108]
@@ -291,7 +291,7 @@
    [138]
     1 string data = "Dobré ráno!"
    [139]
-    1 string data = "Jste všichni připraveni vyrazit? Už se těším, až uvidím, jak vypadá ten stařešina Opar!"
+    1 string data = "Jste všichni připraveni vyrazit? Už se těším, až uvidím, jak vypadá ten stařešina Mlha!"
    [140]
     1 string data = "Mělo by to být rovnou nahoru. Pokračujme v túře."
    [141]
@@ -309,7 +309,7 @@
    [147]
     1 string data = "Vítejte, mladí dobrodruzi, u tohoto posvátného rybníka."
    [148]
-    1 string data = "Rád tě poznávám, stařešino Opare! Jmenuji se Garl!"
+    1 string data = "Rád tě poznávám, stařešino Mlho! Jmenuji se Garl!"
    [149]
     1 string data = "Jé, ty jsi ale družný."
    [150]
@@ -327,7 +327,7 @@
    [156]
     1 string data = "Utkali jste svou vůli do nebeských tkanin?"
    [157]
-    1 string data = "Ano, stařešino Opare."
+    1 string data = "Ano, stařešino Mlho."
    [158]
     1 string data = "Tak pojďte blíž a nechte je prostoupit magií posvátného jezírka!"
    [159]
@@ -365,13 +365,13 @@
    [175]
     1 string data = "Jste připraveni. Živá mana se pro vás začne manifestovat, až příště vstoupíte do bitvy. Jste připraveni na závěrečnou zkoušku?"
    [176]
-    1 string data = "Stařešino Opare, rád bych šel s nimi."
+    1 string data = "Stařešino Mlho, rád bych šel s nimi."
    [177]
     1 string data = "..."
    [178]
     1 string data = "Hú..."
    [179]
-    1 string data = "Zkoušky Stařešiny Opara nikdy nepodstoupil nikdo jiný než aspirující Bojovníci Slunovratu."
+    1 string data = "Zkoušky Stařešiny Mlhu nikdy nepodstoupil nikdo jiný než aspirující Bojovníci Slunovratu."
    [180]
     1 string data = "Ale já chci jít s nimi, prosím!"
    [181]
@@ -391,7 +391,7 @@
    [188]
     1 string data = "Dovolím to!"
    [189]
-    1 string data = "Dobře! Díky, stařešino Opare!"
+    1 string data = "Dobře! Díky, stařešino Mlho!"
    [190]
     1 string data = "Považuj to za zkoušku tvých schopností působit jako společník Bojovníků Slunovratu."
    [191]
@@ -401,7 +401,7 @@
    [193]
     1 string data = "Pak zavřete oči a zhluboka se nadechněte..."
    [194]
-    1 string data = "Zavřít oči a jít na Zkoušky stařešinu Opara?"
+    1 string data = "Zavřít oči a jít na Zkoušky stařešinu Mlhu?"
    [195]
     1 string data = "Ano"
    [196]
@@ -461,7 +461,7 @@
    [223]
     1 string data = "Rytina je již zašlá, ale určitě se na ní zmiňuje obřad přechodu pro <color=good>Děti Slunovratu</color>."
    [224]
-    1 string data = "Stařešino Opare..."
+    1 string data = "Stařešino Mlho..."
    [225]
     1 string data = "Už je to lepší?"
    [226]
@@ -507,7 +507,7 @@
    [246]
     1 string data = "Myslím, že vím, jak vám pomoci, abyste šli po nich."
    [247]
-    1 string data = "Děkuji, stařešino Opare. Teď už to chápu... <color=magic>Moře hvězd</color>..."
+    1 string data = "Děkuji, stařešino Mlho. Teď už to chápu... <color=magic>Moře hvězd</color>..."
    [248]
     1 string data = "*Kašel! Kašel!*"
    [249]
