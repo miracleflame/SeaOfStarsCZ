@@ -13,145 +13,145 @@
   1 Array Array (303 items)
    0 int size = 303
    [0]
-    1 string data = "Attack"
+    1 string data = "Útok"
    [1]
-    1 string data = "Skills"
+    1 string data = "Dovednosti"
    [2]
-    1 string data = "Recharge"
+    1 string data = "Dobít"
    [3]
-    1 string data = "Swap"
+    1 string data = "Výměna"
    [4]
-    1 string data = "Items"
+    1 string data = "Předměty"
    [5]
-    1 string data = "Combo"
+    1 string data = "Kombo"
    [6]
-    1 string data = "Combo"
+    1 string data = "Kombo"
    [7]
-    1 string data = "Hold Rune"
+    1 string data = "Podržet runu"
    [8]
-    1 string data = "Heal"
+    1 string data = "Léčit"
    [9]
-    1 string data = "Basic Attack (MP +3)"
+    1 string data = "Základní útok (BM +3)"
    [10]
-    1 string data = "Solar Attack (MP +3)"
+    1 string data = "Sluneční útok (BM +3)"
    [11]
-    1 string data = "Lunar Attack (MP +3)"
+    1 string data = "Měsíční útok (BM +3)"
    [12]
-    1 string data = "Focus on Lunar Rune to increase party damage."
+    1 string data = "Zaměřte se na lunární runu, abyste zvýšili poškození skupiny."
    [13]
-    1 string data = "Heal party."
+    1 string data = "Léčit partu."
    [14]
-    1 string data = "Boost"
+    1 string data = "Posílení"
    [15]
-    1 string data = "Healing light"
+    1 string data = "Léčivé světlo"
    [16]
-    1 string data = "Restores HP to a single ally."
+    1 string data = "Obnovuje BŽ jednomu spojenci."
    [17]
-    1 string data = "Press <button="Interact"> near the end to boost."
+    1 string data = "Stiskněte <button="Interact"> ke konci pro posílení."
    [18]
-    1 string data = "Nourish"
+    1 string data = "Výživa"
    [19]
-    1 string data = "Garl throws a snack at a friend (medium heal)."
+    1 string data = "Garl hodí příteli svačinu (střední léčení)."
    [20]
-    1 string data = "Hurl"
+    1 string data = "Vrhnout"
    [21]
-    1 string data = "Garl hurls an enemy to another position, if possible."
+    1 string data = "Garl prohodí nepřítele na jinou pozici, pokud je to možné."
    [22]
-    1 string data = "Got [XP_AMOUNT] experience point(s)!"
+    1 string data = "Získáno [XP_AMOUNT] zkušenostních bodů!"
    [23]
-    1 string data = "Found [GOLD_AMOUNT] gold!"
+    1 string data = "Nalezeno [GOLD_AMOUNT] zlata!"
    [24]
-    1 string data = "Got [XP_AMOUNT] experience point(s) and [GOLD_AMOUNT] gold!"
+    1 string data = "Získáno [XP_AMOUNT] bodů zkušeností a [GOLD_AMOUNT] zlata!"
    [25]
-    1 string data = "Solstice Strike"
+    1 string data = "Úder Slunovratu"
    [26]
-    1 string data = "Dual attack. Each regenerate 3MP."
+    1 string data = "Duální útok. Každý regeneruje 3MP."
    [27]
-    1 string data = "Cooker Surprise"
+    1 string data = "Hrnec překvapení"
    [28]
-    1 string data = "Area damage."
+    1 string data = "Plošné poškození."
    [29]
-    1 string data = "Press <button="Interact"> on throw to boost."
+    1 string data = "Stiskněte <button="Interact"> při hodu pro posílení."
    [30]
-    1 string data = "Garl learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-garl-cookersurprise"> <color=magic>Cooker Surprise</color>!"
+    1 string data = "Garl se naučil bojovou dovednost <sprite="dialog-inventory-icons" name="icn-skills-garl-cookersurprise"> <color=magic>Hrnec překvapení</color>!"
    [31]
-    1 string data = "Solen's Light: Salvation"
+    1 string data = "Solenovo světlo: Spása"
    [32]
-    1 string data = "Zale's ultimate attack."
+    1 string data = "Zaleův ultimátní útok."
    [33]
-    1 string data = "Luana's Might: Retribution"
+    1 string data = "Luanina moc: Odplata"
    [34]
-    1 string data = "Valere's ultimate attack."
+    1 string data = "Valériin ultimátní útok."
    [35]
-    1 string data = "Vespertine Cannons"
+    1 string data = "Kanóny Večernice"
    [36]
-    1 string data = "Seraï's ultimate attack."
+    1 string data = "Seraïn ultimátní útok."
    [37]
-    1 string data = "Sleeper's Fury"
+    1 string data = "Spáčova zuřivost"
    [38]
-    1 string data = "Garl's ultimate attack."
+    1 string data = "Garlův ultimátní útok."
    [39]
-    1 string data = "Altered B'st "
+    1 string data = "Změněný B'st"
    [40]
-    1 string data = "Bst's ultimate attack."
+    1 string data = "B'stův ultimátní útok."
    [41]
-    1 string data = "Ultimate"
+    1 string data = "Ultimátní útok"
    [42]
-    1 string data = "Arcane Moons"
+    1 string data = "Arkánové měsíce"
    [43]
-    1 string data = "Arcane and Lunar magic damage to all targets."
+    1 string data = "Arkánové a měsíční magické poškození všem cílům"
    [44]
-    1 string data = "Press on crash."
+    1 string data = "Stiskněte při pádu."
    [45]
-    1 string data = "Valere and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-arcanemoon"> <color="magic">Arcane Moons</color>!"
+    1 string data = "Valerie a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcanemoon"> <color="magic">Srpy měsíce</color>!"
    [46]
-    1 string data = "Elbow Drop"
+    1 string data = "Loketní kapka"
    [47]
-    1 string data = "Moderate Blunt and Arcane damage to a single target."
+    1 string data = "Střední Tupé a Arkánové poškození jednoho cíle."
    [48]
-    1 string data = "Press <button="Interact"> when bouncing on the ground to gain more height."
+    1 string data = "Stiskněte <button="Interact"> při odrazu od země, abyste získali větší výšku."
    [49]
-    1 string data = "Warble"
+    1 string data = "Trilkovat"
    [50]
-    1 string data = "Inspires the target, curing KO'd state and healing slightly."
+    1 string data = "Inspiruje cíl, vyléčí stav KO a mírně ho vyléčí."
    [51]
-    1 string data = "Press <button="Interact"> near the end for a boost."
+    1 string data = "Stiskněte <button="Interact"> ke konci pro posílení."
    [52]
-    1 string data = "Power Smash"
+    1 string data = "Mocná rána"
    [53]
-    1 string data = "Arcane damage to a single target. Can be timed for bonus AoE damage."
+    1 string data = "Arkánové poškození jednoho cíle. Lze načasovat pro získání bonusového plošného poškození."
    [54]
-    1 string data = "Press <button="Interact"> on smash for bonus AoE damage."
+    1 string data = "Stiskněte <button="Interact"> při dopadu rány pro bonusové plošné poškození."
    [55]
-    1 string data = "Moonrock"
+    1 string data = "Měsíční kámen"
    [56]
-    1 string data = "Blunt, Arcane and Moon damage to a single target."
+    1 string data = "Tupé, arkánové a měsíční poškození jednomu cíli."
    [57]
-    1 string data = "Press <button="Interact"> when Valere's hit connects."
+    1 string data = "Stiskněte <button="Interact">, když se Valerův zásah spojí."
    [58]
-    1 string data = "Valere and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Moonrock</color>!"
+    1 string data = "Valere a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Měsíční kámen</color>!"
    [59]
-    1 string data = "HurlSmash"
+    1 string data = "Vrhorána"
    [60]
-    1 string data = "Garl hurls an enemy for B'st to power smash."
+    1 string data = "Garl vrhne nepřítele, aby B'st mohl provést Mocnou ránu."
    [61]
-    1 string data = "Press <button="Interact"> when Garl throws, and again when B'st's hit connects."
+    1 string data = "Stiskněte <button="Interact">, když Garl vrhá, a znovu, když se B'stův zásah spojí."
    [62]
-    1 string data = "Garl and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-hurlsmash"> <color="magic">Hurl Smash</color>!"
+    1 string data = "Garl a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-hurlsmash"> <color="magic">Vrhorána</color>!"
    [63]
-    1 string data = "Arcane Sun"
+    1 string data = "Arkánové Slunce"
    [64]
-    1 string data = "Arcane and Solar magic damage to a single target. Can be timed for bonus AoE."
+    1 string data ="Arkánové a sluneční magické poškození jednoho cíle. Lze načasovat pro získání bonusového plošného poškození."
    [65]
-    1 string data = "Press <button="Interact"> as B'st's hit connects."
+    1 string data = "Stiskněte <button="Interact">, jakmile se spojí zásah B'sta."
    [66]
-    1 string data = "Zale and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-arcanesun"> <color="magic">Arcane Sun</color>!"
+    1 string data = "Zale a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcanesun"> <color="magic">Arkánové Slunce</color>!"
    [67]
-    1 string data = "Elbow Loop"
+    1 string data = "Loketní smyčka"
    [68]
-    1 string data = "Single target Blunt, Venom and Arcane damage."
+    1 string data = "Poškození jednoho cíle tupým, jedovatým a arkánovým typem."
    [69]
-    1 string data = "Press <button="Interact"> when bouncing on the ground to gain more height."
+    1 string data = "Stiskněte <button="Interact"> při odrazu od země, abyste získali větší výšku."
    [70]
     1 string data = "Seraï and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-elbowloop"> <color="magic">Elbow Loop</color>!"
    [71]
