@@ -327,7 +327,7 @@
    [156]
     1 string data = "V rámci komunitních výhod zveřejňujeme milníky hráčů v Deníku dobrodruha, který je viditelný pro všechny na našem serveru. Je to jen pro zábavu, ale pokud si přejete, můžeme to pro vás vypnout."
    [157]
-    1 řetězec data = "(můžete to také později změnit v nastaveních)"
+    1 string data = "(můžete to také později změnit v nastaveních)"
    [158]
     1 string data = "Vypnout"
    [159]
