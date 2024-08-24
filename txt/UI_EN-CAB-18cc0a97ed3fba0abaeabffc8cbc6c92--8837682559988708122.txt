@@ -325,13 +325,13 @@
    [155]
     1 string data = "Události Discordu"
    [156]
-    1 string data = "V rámci komunitních výhod zveřejňujeme milníky hráčů v Deníku dobrodruha, který je viditelný pro všechny na našem serveru. Je to jen pro zábavu, ale pokud si přejete, můžeme to pro vás vypnout.“
+    1 string data = "V rámci komunitních výhod zveřejňujeme milníky hráčů v Deníku dobrodruha, který je viditelný pro všechny na našem serveru. Je to jen pro zábavu, ale pokud si přejete, můžeme to pro vás vypnout."
    [157]
-    1 řetězec data = "(můžete to také později změnit v nastaveních)“
+    1 řetězec data = "(můžete to také později změnit v nastaveních)"
    [158]
-    1 string data = "Vypnout“
+    1 string data = "Vypnout"
    [159]
-    1 string data = "Jistě, zní to zábavně“
+    1 string data = "Jistě, zní to zábavně"
    [160]
     1 string data = "Pauznout"
    [161]
@@ -355,21 +355,21 @@
    [170]
     1 string data = "Konec"
    [171]
-    1 string data = "<color=#3cc9ff>Základní akce a statistiky:</color> Během boje můžete pomocí <button=“Combat_ChangeCharacterLeft"> & <button=“Combat_ChangeCharacterRight"> vybrat, která z vašich postav půjde první, a pak provést útok nebo dovednost. Dovednosti vyžadují BD, které se regenerují při každém provedení základního útoku. BŽ jsou Body Života.“
+    1 string data = "<color=#3cc9ff>Základní akce a statistiky:</color> Během boje můžete pomocí <button="Combat_ChangeCharacterLeft"> & <button="Combat_ChangeCharacterRight"> vybrat, která z vašich postav půjde první, a pak provést útok nebo dovednost. Dovednosti vyžadují BD, které se regenerují při každém provedení základního útoku. BŽ jsou Body Života."
    [172]
-    1 string data = "<color=#3cc9ff>Načasování úderů, bloků a dovedností:</color> Výsledek prakticky každé bojové akce lze ovlivnit stisknutím <button=“Interact"> ve správný okamžik. Díky cviku a šikovnosti můžete zvýšit způsobené poškození a zároveň tlumit příchozí útoky a kouzla.“
+    1 string data = "<color=#3cc9ff>Načasování úderů, bloků a dovedností:</color> Výsledek prakticky každé bojové akce lze ovlivnit stisknutím <button="Interact"> ve správný okamžik. Díky cviku a šikovnosti můžete zvýšit způsobené poškození a zároveň tlumit příchozí útoky a kouzla."
    [173]
-    1 string data = "<color=#3cc9ff>Živá mana / Posílení:</color> Základní útoky generují částečky živé many, které lze koncentrovat do výbojů, jež posílí vaši další akci. Jste připraveni seslat velké kouzlo a chcete, aby mělo sílu, nebo si přejete, aby vaše fyzické útoky způsobovaly dodatečné magické poškození? Sešlete posílení pomocí <button="Combat_SuckMana“>.“
+    1 string data = "<color=#3cc9ff>Živá mana / Posílení:</color> Základní útoky generují částečky živé many, které lze koncentrovat do výbojů, jež posílí vaši další akci. Jste připraveni seslat velké kouzlo a chcete, aby mělo sílu, nebo si přejete, aby vaše fyzické útoky způsobovaly dodatečné magické poškození? Sešlete posílení pomocí <button="Combat_SuckMana">."
    [174]
-    1 string data = "<color=#3cc9ff>Zámky kouzel:</color> U přípravy nepřátelských kouzel se zobrazí zámky, které lze prolomit poškozením přidruženého typu, čímž se kouzlo oslabí. Vynulováním zámků je kouzlo zrušeno, čímž družina získá Pomocný Bod. Některé z vašich dovedností mohou využít PB k označení spoluhráče, aby získal extra ránu!“
+    1 string data = "<color=#3cc9ff>Zámky kouzel:</color> U přípravy nepřátelských kouzel se zobrazí zámky, které lze prolomit poškozením přidruženého typu, čímž se kouzlo oslabí. Vynulováním zámků je kouzlo zrušeno, čímž družina získá Pomocný Bod. Některé z vašich dovedností mohou využít PB k označení spoluhráče, aby získal extra ránu!"
    [175]
-    1 string data = "<color=#3cc9ff>Pohyb:</color> Dali jsme dohromady ovladání postavy s bohatou sadou pohybů. Nejste vázáni na mřížku, takže při průzkumu nezapomeňte hojně používat <button="Interact“>. Zvedání se, skákání do vody, plavání, šplhání nebo chůze po římsách. Jděte do toho.“
+    1 string data = "<color=#3cc9ff>Pohyb:</color> Dali jsme dohromady ovladání postavy s bohatou sadou pohybů. Nejste vázáni na mřížku, takže při průzkumu nezapomeňte hojně používat <button="Interact">. Zvedání se, skákání do vody, plavání, šplhání nebo chůze po římsách. Jděte do toho."
    [176]
-    1 string data = "<color=#3cc9ff>Sběr / Odpočinek:</color> Existuje pouze jeden způsob, jak vyléčit družinu mimo boj: odpočinek. Hledejte bobule a houby, aby ste si připravili pokrmy, k tomu <sprite="ui-icons“ name="stan“> je potřeba založit tábor. Otevřete herní nabídku <button="Player_GameMenu“> a najděte příkaz Odpočinek.“.
+    1 string data = "<color=#3cc9ff>Sběr / Odpočinek:</color> Existuje pouze jeden způsob, jak vyléčit družinu mimo boj: odpočinek. Hledejte bobule a houby, aby ste si připravili pokrmy, k tomu <sprite="ui-icons" name="stan"> je potřeba založit tábor. Otevřete herní nabídku <button="Player_GameMenu"> a najděte příkaz Odpočinek.".
    [177]
-    1 string data = "<color=#3cc9ff>Truhly a vybavení:</color> Při putování mimo vyšlapané cesty můžete najít truhly. Truhly mohou obsahovat buď krystaly, které lze utratit za vylepšení zbraní a zbroje, nebo použitelné ozdoby.“
+    1 string data = "<color=#3cc9ff>Truhly a vybavení:</color> Při putování mimo vyšlapané cesty můžete najít truhly. Truhly mohou obsahovat buď krystaly, které lze utratit za vylepšení zbraní a zbroje, nebo použitelné ozdoby."
    [178]
-    1 string data = "<color=#3cc9ff>Ozdoby:</color> Drobnosti vám umožní změnit přístup k boji, od obtížnosti přes užitečnost až po riziko/odměnu za načasované zásahy. I když jich v této ukázce není mnoho, doufáme, že vám přiblíží jejich potenciál. Před vybavením si o nich přečtěte a kéž najdete ten, který vám bude nejlépe vyhovovat!“
+    1 string data = "<color=#3cc9ff>Ozdoby:</color> Drobnosti vám umožní změnit přístup k boji, od obtížnosti přes užitečnost až po riziko/odměnu za načasované zásahy. I když jich v této ukázce není mnoho, doufáme, že vám přiblíží jejich potenciál. Před vybavením si o nich přečtěte a kéž najdete ten, který vám bude nejlépe vyhovovat!"
    [179]
     1 string data = "<button="UI_Back"> Zpět"
    [180]
