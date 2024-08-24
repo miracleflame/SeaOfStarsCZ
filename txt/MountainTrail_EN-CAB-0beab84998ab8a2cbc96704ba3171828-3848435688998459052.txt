@@ -27,9 +27,9 @@
    [6]
     1 string data = "Ha! Jo, jsem ráda, že už to mám za sebou."
    [7]
-    1 string data = ""Vzchopte se, neboť vůle, kterou do ní vetkáte, bude vaší jedinou obranou v dobách největší nouze!""
+    1 string data = "„Vzchopte se, neboť vůle, kterou do ní vetkáte, bude vaší jedinou obranou v dobách největší nouze!“"
    [8]
-    1 string data = ""I když se může zdát, že lekce, které zde učíme, jsou pro vás k ničemu, něco hluboko uvnitř vás je odhodláno učit se.""
+    1 string data = "„I když se může zdát, že lekce, které se zde učíte, vás příliš nezajímají, něco hluboko uvnitř vás je odhodláno se učit.“"
    [9]
     1 string data = "Hahaha!"
    [10]
@@ -41,7 +41,7 @@
    [13]
     1 string data = "Rozdělme se a podívejme se po dobrém místě."
    [14]
-    1 string data = "Je čas na trochu skautingu."
+    1 string data = "Je čas to tady trochu prozkoumat."
    [15]
     1 string data = "Procházím tudy!"
    [16]
@@ -57,7 +57,7 @@
    [21]
     1 string data = "Sleduj tohle!"
    [22]
-    1 string data = "[MAINCHAR], našels něco?"
+    1 string data = "[MAINCHAR], jak jsi na tom s hledáním?"
    [23]
     1 string data = "Jenom slepá ulička. A co ty?"
    [24]
@@ -65,27 +65,27 @@
    [25]
     1 string data = "Slunce zapadá. Pojď sem, rozdělám oheň."
    [26]
-    1 string data = "Hned tam budu. Nemůžu se dočkat dalších rajčat..."
+    1 string data = "Hned tam budu. Nemůžu se dočkat dalších rajčatových sendvičů..."
    [27]
     1 string data = "Stiskněte <button="Interact"> pro odvinutí provazových žebříků."
    [28]
-    1 string data = "[OFFCHAR] má tuto stranu pokrytou. Měli bychom se vydat doprava."
+    1 string data = "[OFFCHAR] to na téhle straně už prozkoumává. Já se mám vydat doprava."
    [29]
     1 string data = "Teď už není cesty zpět, musíme se dostat na vrchol a setkat se se Mlžným stařešinou."
    [30]
-    1 string data = "Ha! Stejně to nepřekoná ten výraz, cos měl, když ses poprvé pokusil rozbít sluneční kouli!"
+    1 string data = "Ha! Stejně to nepřekoná tvůj výraz, když ses poprvé pokusil rozbít sluneční kouli!"
    [31]
-    1 string data = "Jo, pořád slyším, jak se <color=good>Ředitel</color> škodolibě řehní."
+    1 string data = "Jo, pořád slyším, jak se <color=good>ředitel</color> škodolibě řehní."
    [32]
-    1 string data = ""Jak jsem řekl, ať už tím, že budeš dávat pozor na hodině, nebo tím, že se budeš bezmyšlenkovitě pokoušet zasáhnout projektil otevřenou dlaní, ZARUČENĚ se naučíš první pravidlo solární magie.""
+    1 string data = "„Jak jsem řekl, ať už tím, že budeš dávat pozor na hodině, nebo tím, že se budeš bezmyšlenkovitě pokoušet zasáhnout projektil otevřenou dlaní, se pravidlo číslo jedna solární magie ZARUČENĚ naučíš.“"
    [33]
     1 string data = "Abychom mu dali za pravdu, naučil ses ho."
    [34]
-    1 string data = "No jo, a to na první pokus."
+    1 string data = "No jo, na to mi jeden pokus stačil."
    [35]
     1 string data = "Stýská se ti někdy po těch letech?"
    [36]
-    1 string data = "Než jsme začali trénovat, jenom být dětma... Pořád zasněni a pořád v problémech."
+    1 string data = "Než jsme začali trénovat, jenom být dětma... Pořád zasnění a pořád v problémech."
    [37]
     1 string data = "..."
    [38]
@@ -105,11 +105,11 @@
    [45]
     1 string data = "..."
    [46]
-    1 string data = "Proč jsme vlastně museli předbíhat?"
+    1 string data = "Proč jsme se vlastně museli tak unáhlit?"
    [47]
     1 string data = "Ach, <color=good>Garle</color>..."
    [48]
-    1 string data = "Před deseti lety, ve vesnici Měsíční kolíska..."
+    1 string data = "Před deseti lety, ve vesnici Měsíční Kolébka..."
    [49]
     1 string data = "Tak jo, dorazili jsme na <color=location>Horskou stezku</color>!"
    [50]
@@ -117,29 +117,29 @@
    [51]
     1 string data = "Takže <color=dobrá>Mlžný stařešina</color> prý bydlí někde tady, jo? "
    [52]
-    1 string data = "Opravdu doufám, že po tomhle budeme mít možnost vrátit se do Měsíční kolísky."
+    1 string data = "Opravdu doufám, že po tomhle budeme mít možnost vrátit se do Měsíční Kolébky."
    [53]
-    1 string data = "Co když nás hned "pošlou do světa"?"
+    1 string data = "Co když nás hned „pošlou do světa“?"
    [54]
     1 string data = "No, já nevím..."
    [55]
     1 string data = "Kéž by tu byl Garl..."
    [56]
-    1 string data = "K tomuhle příšernému chlebu by se nám určitě hodila trocha marmelády z Nebeské vrby."
+    1 string data = "K tomuhle příšernému chlebu by se nám určitě hodila trocha džemu z Nebeské vrby."
    [57]
     1 string data = "Hahaha! To by byl sen!"
    [58]
     1 string data = "?"
    [59]
-    1 string data = "Marmeláda z Nebeské vrby?"
+    1 string data = "Džem z Nebeské vrby?"
    [60]
-    1 string data = "Trochu ji sebou mám, lidi!"
+    1 string data = "Trochu ho s sebou mám, lidi!"
    [61]
     1 string data = "Dokonce jsem nasbíral nějaké houby! Neuvěříte, jakou polévku uvařím!!!"
    [62]
     1 string data = "!!!"
    [63]
-    1 string data = "Jo, a v Zakázané Jeskyni jsem našel nějaké bylinky, ty budou tak akorát!"
+    1 string data = "Jo, a v Zakázané jeskyni jsem našel nějaké bylinky, ty budou tak akorát!"
    [64]
     1 string data = "GARLE?!?"
    [65]
@@ -147,19 +147,19 @@
    [66]
     1 string data = "GARLE!!!"
    [67]
-    1 string data = "Hahaha! Tak rádi tě zas vidíme!"
+    1 string data = "Hahaha! Tak rád vás dva zase vidím!"
    [68]
-    1 string data = "Vypadáš teď tak silně!"
+    1 string data = "Vypadáte teď tak silně!"
    [69]
-    1 string data = "Hele, proč ses neukázal na našem odjezdu?"
+    1 string data = "Hele, proč ses neukázal při našem odchodu?"
    [70]
     1 string data = "Děláš si srandu? Vůbec nic nebylo ohlášeno!"
    [71]
-    1 string data = "Jakmile jsem slyšel, že se všichni sešli, vyrazil jsem do našeho úkrytu, abych si sbalil věci, ale vy jste odešli tak rychle."
+    1 string data = "Jakmile jsem slyšel, že se všichni sešli, vyrazil jsem do našeho úkrytu, abych si sbalil věci, ale vy jste tak rychle odešli."
    [72]
-    1 string data = "Lidi, jsem na tuhle cestu tak nabušený, že už vím všechno o přežití!"
+    1 string data = "Lidi, z téhle cesty jsem fakt nadšený, teď už vím všechno o přežití!"
    [73]
-    1 string data = "Rybaření, a sběr, a vaření, a-"
+    1 string data = "Rybaření a sběr a vaření, a-"
    [74]
     1 string data = "..."
    [75]
@@ -167,13 +167,13 @@
    [76]
     1 string data = "Co se děje?"
    [77]
-    1 string data = "Ty... vlastně nemůžeš jít s námi..."
+    1 string data = "Ty... vlastně s námi jít nemůžeš..."
    [78]
     1 string data = "Jen jsme se chtěli rozloučit, máme teď službu a je to dost nebezpečné."
    [79]
     1 string data = "To nemůžete myslet vážně!"
    [80]
-    1 string data = "Vždycky jsme mluvili o tom, že po vašem výcviku odejdeme všichni společně."
+    1 string data = "Vždycky jsme mluvili o tom, jak po vašem výcviku odejdeme všichni společně."
    [81]
     1 string data = "..."
    [82]
@@ -181,7 +181,7 @@
    [83]
     1 string data = "..."
    [84]
-    1 string data = "Hele, možná nemám žádné zvláštní schopnosti jako ty, ale jsem silně stavěný a připravoval jsem se na to."
+    1 string data = "Hele, možná nemám žádné zvláštní schopnosti jako vy, ale jsem silně stavěný a připravoval jsem se na to."
    [85]
     1 string data = "Tohle je můj štít, budu obranný bojovník!"
    [86]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Jasně že jo! A taky jsem hodně četl!"
    [89]
-    1 string data = "Hele, většina nestvůr, kterým budete čelit, ani nebudou <color=bad>Fleshmancerovi přisluhovači</color>, což znamená, že s nimi může bojovat kdokoli."
+    1 string data = "Víte, většina nestvůr, kterým budete čelit, ani nebudou <color=bad>Fleshmancerovi přisluhovači</color>, což znamená, že s nimi může bojovat kdokoliv."
    [90]
     1 string data = "Jsi si tím jistý?"
    [91]
@@ -199,7 +199,7 @@
    [92]
     1 string data = "Ne, ale..."
    [93]
-    1 string data = "Budu vědět, kdy mám ustoupit, nemějte strach!"
+    1 string data = "Budu vědět, kdy se mám držet stranou, nemějte strach!"
    [94]
     1 string data = "Navíc s pár sendviči opravdu nemůžete procestovat celý svět, co vás to napadlo?"
    [95]
@@ -215,31 +215,31 @@
    [100]
     1 string data = "Dobře, platí!"
    [101]
-    1 string data = "Já jsem tak šťastný!!"
+    1 string data = "Oh, jsem tak šťastná!!"
    [102]
-    1 string data = "Není možné, jak to je úžasné!!"
+    1 string data = "To snad ne, to je paráda!!"
    [103]
     1 string data = "Hahaha!"
    [104]
     1 string data = "Dobře, postavím na vodu. Musíme toho ještě tolik dohnat!"
    [105]
-    1 string data = "Garl, válečný kuchař, se připojil k parte!"
+    1 string data = "Válečný kuchař Garl se přidává do skupiny!"
    [106]
-    1 string data = "A až se setkáme se Mlžným stařešinou, budeme umět "používat magii bez použití magie" a budeme vysláni do světa."
+    1 string data = "A až se setkáme s Mlžným stařešinou, budeme prý umět "používat magii bez použití magie" a budeme vysláni do světa."
    [107]
     1 string data = "To je vše, co nám bylo řečeno. Myslím, že najít si vlastní cestu je posledním krokem výcviku."
    [108]
-    1 string data = "Naším prvním úkolem je dostat se na "<color=location>Wraithský ostrov</color>" včas před příštím zatměním."
+    1 string data = "Naším prvním úkolem je dostat se na "<color=location>Přízračný ostrov</color>" včas před příštím zatměním."
    [109]
-    1 string data = "Páni, to je hodně."
+    1 string data = "Páni, máte toho hodně."
    [110]
-    1 string data = "Vaše schopnosti se zdaj být husté! Nemůžu se dočkat, až je uvidím v akci."
+    1 string data = "Vaše schopnosti zní dost hustě! Nemůžu se dočkat, až je uvidím v akci."
    [111]
     1 string data = "A co ty, Garle?"
    [112]
-    1 string data = "No, upřímně řečeno, bylo to docela nezáživné."
+    1 string data = "No, upřímně řečeno, moc se toho nedělo."
    [113]
-    1 string data = "Neustále jsem jenom cvičil a učil se dovednostem, které by se podle mě mohli hodit."
+    1 string data = "Neustále jsem jenom cvičil a učil se dovednostem, které by se podle mě mohly hodit."
    [114]
     1 string data = "Každý jeden den jsem doufal, že vás uvidím vycházet. Jsem opravdu rád, že mi nikdo neřekl, že to bude trvat DESET LET!"
    [115]
@@ -249,45 +249,45 @@
    [117]
     1 string data = "A já se nemůžu DOČKAT, až budu objevovat svět, chci všechno ochutnat!"
    [118]
-    1 string data = "Hele, ta polívka je mimochodem neskutečná."
+    1 string data = "Hele, ta polévka je mimochodem neskutečná."
    [119]
-    1 string data = "Že?"
+    1 string data = "Že jo?"
    [120]
-    1 string data = "Mhm. Tak kolik jídla jste si zabalili?"
+    1 string data = "Mhm. Tak kolik jídla sis vzal s sebou?"
    [121]
-    1 string data = "Jen tolik, aby to stačilo na pár porcí. Je lepší cestovat nalehko, a suroviny jsou všude, když víš, kde hledat!"
+    1 string data = "Jen tolik, aby to stačilo na pár porcí. Je lepší cestovat nalehko a suroviny jsou všude, když víš, kde hledat!"
    [122]
     1 string data = "A kdo ví, co najdeme? To všechno patří k dobrodružství!"
    [123]
-    1 string data = "Co kdybys to hned zkusil [MAINCHAR]?"
+    1 string data = "Co to zkusit hned teď, [MAINCHAR]?"
    [124]
     1 string data = "Vidíš ten keř támhle? Je plný šťavnatých bobulí, stačí je jen natrhat!"
    [125]
     1 string data = "Vidíš? Jsi rozený talent!"
    [126]
-    1 string data = "Tu marmeládu můžeme sníst později, až se budeme potřebovat uzdravit."
+    1 string data = "Ten džem můžeme sníst později, až se budeme potřebovat uzdravit."
    [127]
     1 string data = "Díky za tipy, Garle, to se bude určitě hodit."
    [128]
-    1 string data = "To nestojí za řeč!"
+    1 string data = "Nemáš zač!"
    [129]
     1 string data = "Hele, jsem připraven trochu se vyspat."
    [130]
-    1 string data = "To samé i já."
+    1 string data = "Já taky."
    [131]
-    1 string data = "A nic než hvězdy nad námi, už teď miluju tenhle život!"
+    1 string data = "Spát jen s hvězdami nad námi, tenhle život miluju už teď!"
    [132]
     1 string data = "Garle, jsem opravdu rád, že jsi tady."
    [133]
-    1 string data = "Haha, zrovna jsem to chtěl říct."
+    1 string data = "Haha, zrovna jsem to chtěla říct."
    [134]
     1 string data = "Já taky, lidi, nechtěl bych být nikde jinde."
    [135]
     1 string data = "Tak dobrou noc!"
    [136]
-    1 string data = "Perfektní, teď si uděláme marmeládu z těch bobulí, co jste nasbírali."
+    1 string data = "Perfektní, teď si z těch nasbíraných bobulí uděláme džem."
    [137]
-    1 string data = "Už jen použijte oheň a připravte se na vaření!"
+    1 string data = "Jen použij oheň a připrav se na vaření!"
    [138]
     1 string data = "Dobré ráno!"
    [139]
@@ -299,7 +299,7 @@
    [142]
     1 string data = "Húúú..."
    [143]
-    1 string data = "Dvě děti slunovratu přišly na svůj obřad přechodu, ale cítím také jednoho, který sem nepatří."
+    1 string data = "Dvě Děti Slunovratu přišly na svůj obřad přechodu, ale cítím také někoho, kdo sem nepatří."
    [144]
     1 string data = "..."
    [145]
@@ -307,9 +307,9 @@
    [146]
     1 string data = "Hú! Pojďme to zjistit!"
    [147]
-    1 string data = "Vítejte, mladí dobrodruzi, u tohoto posvátného rybníka."
+    1 string data = "Vítejte, mladí dobrodruzi, v tomto posvátném rybníku."
    [148]
-    1 string data = "Rád tě poznávám, Mlžný stařešino! Jmenuji se Garl!"
+    1 string data = "Rád vás poznávám, Mlžný stařešino! Jmenuji se Garl!"
    [149]
     1 string data = "Jé, ty jsi ale družný."
    [150]
@@ -325,11 +325,11 @@
    [155]
     1 string data = "Zdá se, že máte opravdu velký potenciál!"
    [156]
-    1 string data = "Utkali jste svou vůli do nebeských tkanin?"
+    1 string data = "Vetkaly jste svou vůli do nebeských tkanin?"
    [157]
     1 string data = "Ano, Mlžný stařešino."
    [158]
-    1 string data = "Tak pojďte blíž a nechte je prostoupit magií posvátného jezírka!"
+    1 string data = "Tak pojďte blíž a nechte je prostoupit magií posvátného rybníku!"
    [159]
     1 string data = "Hú! Ohromná rezonance!"
    [160]
@@ -337,7 +337,7 @@
    [161]
     1 string data = "Od nynějška budete mít světlo i v těch nejtemnějších místech a ochranu před přisluhovači Fleshmancera."
    [162]
-    1 string data = "Necítím se jinak..."
+    1 string data = "Necítím se nějak jinak..."
    [163]
     1 string data = "Jo, já taky ne."
    [164]
@@ -383,7 +383,7 @@
    [184]
     1 string data = "(V boji je bezpochyby omezený, ale vřelost jeho srdce...)"
    [185]
-    1 string data = "(Dokázal by <color=good>to</good> přivést zpět?)"
+    1 string data = "(Dokázal by <color=good>jej</good> přivést zpět?)"
    [186]
     1 string data = "..."
    [187]
@@ -393,37 +393,37 @@
    [189]
     1 string data = "Dobře! Díky, Mlžný stařešino!"
    [190]
-    1 string data = "Považuj to za zkoušku tvých schopností působit jako společník Bojovníků Slunovratu."
+    1 string data = "Považuj to za zkoušku svých schopností působit jako společník Bojovníků Slunovratu."
    [191]
     1 string data = "Nezklamu vás!"
    [192]
     1 string data = "Jsme připraveni."
    [193]
-    1 string data = "Pak zavřete oči a zhluboka se nadechněte..."
+    1 string data = "Pak tedy zavřete oči a zhluboka se nadechněte..."
    [194]
-    1 string data = "Zavřít oči a jít na Zkoušky Mlžného stařešinu?"
+    1 string data = "Zavřít oči a jít na Zkoušky Mlžného stařešiny?"
    [195]
     1 string data = "Ano"
    [196]
     1 string data = "Ne"
    [197]
-    1 string data = "Dobré ráno! Nastal čas vyrazit na vaši cestu."
+    1 string data = "Dobré ráno! Nastal čas vyrazit na cestu."
    [198]
-    1 string data = "Dobré ráno? Ale vždyť je půlnoc!"
+    1 string data = "Dobré ráno? Ale vždyť je noc!"
    [199]
     1 string data = "Ach ano, předpokládám, že by to měli vyřešit tví přátelé..."
    [200]
-    1 string data = "Co vyřešit?"
+    1 string data = "Vyřešit co?"
    [201]
     1 string data = "Přivolat nám úsvit!"
    [202]
     1 string data = "To dokážeme?"
    [203]
-    1 string data = "Hú! Stačí, když se postavíš na <color=magic>Nebeskou runu</color>."
+    1 string data = "Hú! Stačí, když se postavíte na <color=magic>Nebeskou runu</color>."
    [204]
-    1 string data = "A... co pak?"
+    1 string data = "A... co potom?"
    [205]
-    1 string data = "Něco uvnitř tebe už to ví."
+    1 string data = "Něco uvnitř vás už to ví."
    [206]
     1 string data = "Tudy."
    [207]
@@ -437,11 +437,11 @@
    [211]
     1 string data = "Dobrá, na svých cestách občas narazíte na mechanismy a pečetě poháněné magickými <color=magic>runami, které reagují na denní dobu</color>."
    [212]
-    1 string data = "Byly umístěny Bojovníkmi Slunovratu, kteří přišli před vámi."
+    1 string data = "Byly umístěny Bojovníky Slunovratu, kteří přišli před vámi."
    [213]
-    1 string data = "Některé ukrývají artefakty, jež mají pomáhat budoucím členům řádu, jako jste vy, zatímco jiné zadrželi zlo, které bylo příliš mocné na to, abychom se mu postavili."
+    1 string data = "Některé ukrývají artefakty, jež mají pomáhat budoucím členům řádu, jako jste vy, zatímco jiné zadržují zlo, které bylo příliš mocné na to, abychom se mu postavili."
    [214]
-    1 string data = "Zda budete po těchto artefaktech a výzvách pátrat, či nikoli, bude <color=magic>záležet pouze na vás</color>".
+    1 string data = "Zda budete po těchto artefaktech a výzvách pátrat, či nikoliv, bude <color=magic>záležet pouze na vás</color>".
    [215]
     1 string data = "Nyní může vaše cesta začít."
    [216]
@@ -453,13 +453,13 @@
    [219]
     1 string data = "Pomocí svých schopností, samozřejmě!"
    [220]
-    1 string data = "Setkáme se na druhé straně a já se s vámi na rozloučenou podělím o to, co jsem si mohl přečíst v Mlhách času."
+    1 string data = "Setkáme se na druhé straně a já se s vámi na rozloučenou podělím o to, co jsem mohl vyčíst v Mlhách času."
    [221]
     1 string data = "Podržte <button="AdvanceTime"> a <button="RewindTime">, když stojíte na nebeských runách, abyste změnili Čas dne."
    [222]
-    1 string data = "Zkuste pomocí krystalu nabít menší runu na plošine nad sebou a uvidíte, co se stane!"
+    1 string data = "Zkuste pomocí krystalu nabít menší runu na plošině nad sebou a uvidíte, co se stane!"
    [223]
-    1 string data = "Rytina je již zašlá, ale určitě se na ní zmiňuje obřad přechodu pro <color=good>Děti Slunovratu</color>."
+    1 string data = "Rytina je již zašlá, ale určitě je na ní zmíněn obřad přechodu pro <color=good>Děti Slunovratu</color>."
    [224]
     1 string data = "Mlžný stařešino..."
    [225]
@@ -473,11 +473,11 @@
    [229]
     1 string data = "Je mi to moc líto, kamaráde..."
    [230]
-    1 string data = "Cítím se čím dál chladnější..."
+    1 string data = "Je mi čím dál tím větší zima..."
    [231]
     1 string data = "Garle..."
    [232]
-    1 string data = "Hele, nakonec jsme létali. To je docela dobrý, ne?"
+    1 string data = "Hele, nakonec jsme letěli. To je docela dobrý, ne?"
    [233]
     1 string data = "Haha... GAH!"
    [234]
@@ -499,17 +499,17 @@
    [242]
     1 string data = "Hú..."
    [243]
-    1 string data = "Když je smrt na blízku, vynáří se nevyřešené kapitoly onoho proroctví."
+    1 string data = "Když je smrt nablízku, vynoří se nevyřešené kapitoly proroctví."
    [244]
-    1 string data = "Cesta pro pomoc může být právě támhle. Dovolte."
+    1 string data = "Způsob, jak pomoci, může být právě v nich. Dovolte."
    [245]
     1 string data = "[MAINCHAR], já právě... bylo to vidění."
    [246]
-    1 string data = "Myslím, že vím, jak vám pomoci, abyste šli po nich."
+    1 string data = "Myslím, že vím, jak vám pomoci, abyste po nich mohli jít."
    [247]
     1 string data = "Děkuji, Mlžný stařešino. Teď už to chápu... <color=magic>Moře hvězd</color>..."
    [248]
-    1 string data = "*Kašel! Kašel!*"
+    1 string data = "*kašel*"
    [249]
     1 string data = "Ale už je pozdě..."
    [250]
@@ -527,17 +527,17 @@
    [256]
     1 string data = "GAH!!"
    [257]
-    1 string data = "*kašel kašel*"
+    1 string data = "*kašel*"
    [258]
     1 string data = "!!"
    [259]
     1 string data = "Aughhh..."
    [260]
-    1 string data = "Ha? "
+    1 string data = "Hm? "
    [261]
     1 string data = "Hej, já jsem..."
    [262]
-    1 string data = "Poslouchej pozorně, Garle."
+    1 string data = "Pozorně poslouchej, Garle."
    [263]
     1 string data = "Éterický pocit, který teď zažíváš, je vedlejším účinkem Vypůjčeného času."
    [264]
@@ -573,13 +573,13 @@
    [279]
     1 string data = "Lidi, to je v pořádku."
    [280]
-    1 string data = "Už jsem toho udělal mnohem víc, než na co má normální kluk z Měsíční kolébky právo."
+    1 string data = "Už jsem toho udělal mnohem víc, než na co má normální kluk z Měsíční Kolébky právo."
    [281]
     1 string data = "Chci pouze poslední dobrodružství s vámi."
    [282]
     1 string data = "..."
    [283]
-    1 string data = "Provádění Garlova posledního činu je to, co nejvíce prodlouží jeho Vypůjčený čas."
+    1 string data = "Provedení Garlova posledního činu je to, co nejvíce prodlouží jeho Vypůjčený čas."
    [284]
     1 string data = "Vy tomu nerozumíte!"
    [285]
@@ -593,7 +593,7 @@
    [289]
     1 string data = "..."
    [290]
-    1 string data = "Prosím, je to mé poslední přání. Tohle má každý jenom jedno!"
+    1 string data = "Prosím, je to mé poslední přání. To má každý jenom jedno!"
    [291]
     1 string data = "..."
    [292]
@@ -605,7 +605,7 @@
    [295]
     1 string data = "Tak jo! Jdeme na to."
    [296]
-    1 string data = "Abychom tě dostali přes Moře hvězd, potřebujeme povolení od některých lidí."
+    1 string data = "Abychom vás dostali přes Moře hvězd, potřebujeme povolení od jistých lidí."
    [297]
     1 string data = "Budeme potřebovat něco na výměnu, ale já o něčem takovém vím!"
    [298]
@@ -615,9 +615,9 @@
    [300]
     1 string data = "??"
    [301]
-    1 string data = "Předpokládám, že to létání byla jen záležitost okamihu?"
+    1 string data = "Předpokládám, že to létání byla jen záležitost okamžihu?"
    [302]
-    1 string data = "Jo, nemám jasno, jak se nám to povedlo..."
+    1 string data = "Jo, nevím jistě, jak se nám to povedlo..."
    [303]
     1 string data = "Spojení se uskutečnilo, ale vaše nové schopnosti vyžadují více času na růst."
    [304]
@@ -629,9 +629,9 @@
    [307]
     1 string data = "Co by to mohlo být?"
    [308]
-    1 string data = "([MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]. Na této cestě jste ušli dlouhou cestu.").
+    1 string data = "([MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]. Ušli jste dlouhou cestu.").
    [309]
-    1 string data = "(Ve Světě snů se projevily zbraně velké moci. Prokažte, že jste jich hodni, a prohlaste je za své.")
+    1 string data = "(Ve Světě snů se objevily zbraně velké moci. Prokažte, že jste jich hodni, a prohlaste je za své.")
    [310]
     1 string data = "(Tato výzva je určena pouze vám dvěma. Jste připraveni se mi naposledy postavit?")
    [311]
