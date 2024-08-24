@@ -15,7 +15,7 @@
    [0]
     1 string data = "Zale"
    [1]
-    1 string data = "Valere"
+    1 string data = "Valerie"
    [2]
     1 string data = "Solen"
    [3]
@@ -95,7 +95,7 @@
    [40]
     1 string data = "Wyrd"
    [41]
-    1 string data = "Stařešina Mist"
+    1 string data = "Mlžný stařešina"
    [42]
     1 string data = "???"
    [43]

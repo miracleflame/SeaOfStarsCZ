@@ -27,13 +27,13 @@
    [6]
     1 string data = "Not really, I just know deep down that we have everything we need."
    [7]
-    1 string data = "Valere?"
+    1 string data = "Valerie?"
    [8]
     1 string data = "<color=magic>Paths on water</color>..."
    [9]
     1 string data = "Huh??"
    [10]
-    1 string data = "Way to go, Valere!"
+    1 string data = "Way to go, Valerie!"
    [11]
     1 string data = "Quite impressive. How did you know?"
    [12]

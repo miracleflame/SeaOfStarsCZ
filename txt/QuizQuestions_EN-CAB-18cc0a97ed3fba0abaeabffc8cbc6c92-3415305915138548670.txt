@@ -81,7 +81,7 @@
    [33]
     1 string data = "Mooncradle"
    [34]
-    1 string data = "When is Valere's birthday?"
+    1 string data = "When is Valerie's birthday?"
    [35]
     1 string data = "Summer Solstice"
    [36]
@@ -355,7 +355,7 @@
    [170]
     1 string data = "7"
    [171]
-    1 string data = "Without any equipment, how much MP does Valere's Lunar Shield cost?"
+    1 string data = "Without any equipment, how much MP does Valerie's Lunar Shield cost?"
    [172]
     1 string data = "9"
    [173]
@@ -371,7 +371,7 @@
    [178]
     1 string data = "FALSE"
    [179]
-    1 string data = "True or False: Without any equipment, Seraï's Venom Flurry and Valere's Moonerang have the same MP cost."
+    1 string data = "True or False: Without any equipment, Seraï's Venom Flurry and Valerie's Moonerang have the same MP cost."
    [180]
     1 string data = "TRUE"
    [181]
@@ -503,9 +503,9 @@
    [244]
     1 string data = "Resh'an and Zale"
    [245]
-    1 string data = "Seraï and Valere"
+    1 string data = "Seraï and Valerie"
    [246]
-    1 string data = "Valere and Resh'an"
+    1 string data = "Valerie and Resh'an"
    [247]
     1 string data = "Garl and Resh'an"
    [248]

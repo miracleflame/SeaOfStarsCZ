@@ -127,9 +127,9 @@
    [56]
     1 string data = "Tupé, arkánové a měsíční poškození jednomu cíli."
    [57]
-    1 string data = "Stiskněte <button="Interact">, když se Valerův zásah spojí."
+    1 string data = "Stiskněte <button="Interact">, když se Valeriin zásah spojí."
    [58]
-    1 string data = "Valere a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Měsíční kámen</color>!"
+    1 string data = "Valerie a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Měsíční kámen</color>!"
    [59]
     1 string data = "Vrhorána"
    [60]
@@ -177,7 +177,7 @@
    [81]
     1 string data = "Press <button="Interact"> as the hit connects."
    [82]
-    1 string data = "Valere and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Moon Shiv</color>!"
+    1 string data = "Valerie and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Moon Shiv</color>!"
    [83]
     1 string data = "Venom Bomb"
    [84]
@@ -233,7 +233,7 @@
    [109]
     1 string data = "Press late to add a moon."
    [110]
-    1 string data = "~ Valere and Garl learned combo skill Lunar Bulwark!"
+    1 string data = "~ Valerie and Garl learned combo skill Lunar Bulwark!"
    [111]
     1 string data = "Bash Drop"
    [112]
@@ -241,7 +241,7 @@
    [113]
     1 string data = "Press <button="Interact"> as the hit connects."
    [114]
-    1 string data = "Valere and Garl learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Bash Drop</color>!"
+    1 string data = "Valerie and Garl learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Bash Drop</color>!"
    [115]
     1 string data = "Ebb"
    [116]
@@ -285,7 +285,7 @@
    [135]
     1 string data = "Lunar magic projectile that can bounce to multiple targets."
    [136]
-    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valere</color> to keep going."
+    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valerii</color> to keep going."
    [137]
     1 string data = "Press <button="Interact"> to deflect!"
    [138]
@@ -303,7 +303,7 @@
    [144]
     1 string data = "Press <button="Interact"> late to increase healing done."
    [145]
-    1 string data = "Valere learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-valere-lunarshield"> <color="magic">Lunar Shield</color>!"
+    1 string data = "Valerie learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-valere-lunarshield"> <color="magic">Lunar Shield</color>!"
    [146]
     1 string data = "Mending Light"
    [147]
@@ -317,7 +317,7 @@
    [151]
     1 string data = "Lunar and Solar magic projectile that can bounce to multiple targets."
    [152]
-    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valere</color> to keep going."
+    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valerii</color> to keep going."
    [153]
     1 string data = "[MAINCHAR] and [OFFCHAR] learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Soonrang</color>!"
    [154]

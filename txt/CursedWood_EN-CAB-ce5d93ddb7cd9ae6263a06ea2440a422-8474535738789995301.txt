@@ -61,7 +61,7 @@
    [23]
     1 string data = "GARL!? NO!"
    [24]
-    1 string data = "VALERE, HANG ON!!"
+    1 string data = "Valerie, HANG ON!!"
    [25]
     1 string data = "THAT'S NOT FAIR! YOU CAN'T TAKE HIM!!"
    [26]
@@ -125,7 +125,7 @@
    [55]
     1 string data = "!?"
    [56]
-    1 string data = "Valere?"
+    1 string data = "Valerie?"
    [57]
     1 string data = "The time has come!"
    [58]

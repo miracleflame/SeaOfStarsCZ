@@ -269,7 +269,7 @@
    [127]
     1 string data = "Consider it done."
    [128]
-    1 string data = "Valere, you've got Fire."
+    1 string data = "Valerie, you've got Fire."
    [129]
     1 string data = "Go through the volcano and defeat the lava monster, then we can redirect the heat and terraform the summit into a giant kiln."
    [130]
@@ -277,7 +277,7 @@
    [131]
     1 string data = "Seraï, that leaves Water."
    [132]
-    1 string data = "After dropping Valere off at the volcano, get Hortence to take you back to the Sea of Nightmare."
+    1 string data = "After dropping Valerie off at the volcano, get Hortence to take you back to the Sea of Nightmare."
    [133]
     1 string data = "But please don't kill Hydralion, we only need one scale."
    [134]
@@ -291,7 +291,7 @@
    [138]
     1 string data = "So, first, those who will use the boat."
    [139]
-    1 string data = "Valere and Seraï, please stand in front of Puntie here."
+    1 string data = "Valerie and Seraï, please stand in front of Puntie here."
    [140]
     1 string data = "What about me?"
    [141]
@@ -311,7 +311,7 @@
    [148]
     1 string data = "This guy is good!"
    [149]
-    1 string data = "Okay, Valere, now say "Khukharr.""
+    1 string data = "Okay, Valerie, now say "Khukharr.""
    [150]
     1 string data = "..."
    [151]

@@ -181,7 +181,7 @@
    [83]
     1 string data = "We'll do our best... in your memory."
    [84]
-    1 string data = "It's time to go, Valere."
+    1 string data = "It's time to go, Valerie."
    [85]
     1 string data = "..."
    [86]
@@ -317,7 +317,7 @@
    [151]
     1 string data = "We'll do our best... in your memory."
    [152]
-    1 string data = "It's time to go, Valere."
+    1 string data = "It's time to go, Valerie."
    [153]
     1 string data = "..."
    [154]
@@ -543,7 +543,7 @@
    [264]
     1 string data = "Since we are taking out the trash, do you reckon we can destroy this <color=bad>portal</color>?"
    [265]
-    1 string data = "Valere?"
+    1 string data = "Valerie?"
    [266]
     1 string data = "With pleasure."
    [267]

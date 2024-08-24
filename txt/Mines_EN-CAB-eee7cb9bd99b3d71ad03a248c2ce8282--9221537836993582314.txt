@@ -229,6 +229,6 @@
    [107]
     1 string data = "So we go now?"
    [108]
-    1 string data = "Yeah, Valere will have cleared the volcano by the time we get there."
+    1 string data = "Yeah, Valerie will have cleared the volcano by the time we get there."
    [109]
     1 string data = "Hey there! Need something for the road?"

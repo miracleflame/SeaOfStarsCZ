@@ -37,7 +37,7 @@
    [11]
     1 string data = "Fine."
    [12]
-    1 string data = "Last chance to surrender, Valere."
+    1 string data = "Last chance to surrender, Valerie."
    [13]
     1 string data = "Forget it!"
    [14]

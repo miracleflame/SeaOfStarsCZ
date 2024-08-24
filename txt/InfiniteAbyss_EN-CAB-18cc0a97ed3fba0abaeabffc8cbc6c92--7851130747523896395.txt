@@ -29,7 +29,7 @@
    [7]
     1 string data = "You did it..."
    [8]
-    1 string data = "Haha! Valere, we just took down a Dweller--no eclipse!"
+    1 string data = "Haha! Valerie, we just took down a Dweller--no eclipse!"
    [9]
     1 string data = "This power... I didn't doubt for a moment that we could do it..."
    [10]

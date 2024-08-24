@@ -45,7 +45,7 @@
    [15]
     1 string data = "Zkus rozevřít dlaň a soustředit se."
    [16]
-    1 string data = "To zvládneš Valere!"
+    1 string data = "To zvládneš Valerie!"
    [17]
     1 string data = "VĚDĚL JSEM TO!!!"
    [18]
@@ -175,7 +175,7 @@
    [80]
     1 string data = "Za pokus nic nedáme."
    [81]
-    1 string data = "Valere?"
+    1 string data = "Valerie?"
    [82]
     1 string data = "Zní to jako něco velkého. Připrav se!"
    [83]

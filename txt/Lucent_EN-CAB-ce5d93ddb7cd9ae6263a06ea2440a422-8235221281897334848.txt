@@ -331,7 +331,7 @@
    [158]
     1 string data = "Oh, stop! I was ten!"
    [159]
-    1 string data = "Valere, something happened when he got mind controlled..."
+    1 string data = "Valerie, something happened when he got mind controlled..."
    [160]
     1 string data = "What do you mean?"
    [161]

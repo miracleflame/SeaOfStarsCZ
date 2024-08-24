@@ -399,7 +399,7 @@
    [192]
     1 string data = "The strange device just south of Mesa Island. It seems out of reach, but maybe we should look at the small island just below it."
    [193]
-    1 string data = "The place should be up there, after we use the shrine Valere gave us access to."
+    1 string data = "The place should be up there, after we use the shrine Valerie gave us access to."
    [194]
     1 string data = "It'll take some convincing, but I have an idea."
    [195]
@@ -413,7 +413,7 @@
    [199]
     1 string data = "Stay strong, Zale. You will see your friend again before his time is up."
    [200]
-    1 string data = "Take heart, Valere. Your friend's time isn't up just yet."
+    1 string data = "Take heart, Valerie. Your friend's time isn't up just yet."
    [201]
     1 string data = "..."
    [202]

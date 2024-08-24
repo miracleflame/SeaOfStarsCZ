@@ -181,7 +181,7 @@
    [83]
     1 string data = "Fine, but go easy on the poor fella."
    [84]
-    1 string data = "You got it Valere."
+    1 string data = "You got it Valerie."
    [85]
     1 string data = "I'll be your challenger!"
    [86]

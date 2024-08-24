@@ -203,7 +203,7 @@
    [94]
     1 string data = "Ale tvůj život... Tak dlouhou dobu si ani neumím představit..."
    [95]
-    1 string data = "Chápu-li to správně, tebe a Valere čeká to samé."
+    1 string data = "Chápu-li to správně, tebe a Valerii čeká to samé."
    [96]
     1 string data = "Já..."
    [97]
@@ -215,7 +215,7 @@
    [100]
     1 string data = "Haha, to určitě jo."
    [101]
-    1 string data = "Promiň, Valere, nechtěla jsem..."
+    1 string data = "Promiň, Valerie, nechtěla jsem..."
    [102]
     1 string data = "Ale ne, to nevadí."
    [103]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "Dává."
    [112]
-    1 string data = "Díky, Valere. Tohle pomohlo i mně."
+    1 string data = "Díky, Valerie. Tohle pomohlo i mně."
    [113]
     1 string data = "Garl prostě umí zvednout náladu, i když tu není."
    [114]

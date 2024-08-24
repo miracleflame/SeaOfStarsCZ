@@ -65,7 +65,7 @@
    [25]
     1 string data = "Garl!"
    [26]
-    1 string data = "I'm okay, Valere. Just need a moment here."
+    1 string data = "I'm okay, Valerie. Just need a moment here."
    [27]
     1 string data = "Gah..."
    [28]
@@ -197,7 +197,7 @@
    [91]
     1 string data = "Have to finish this."
    [92]
-    1 string data = "Valere, please tell Malkomud to cut the lava flow."
+    1 string data = "Valerie, please tell Malkomud to cut the lava flow."
    [93]
     1 string data = "Gah... Zale, I need Zephyr now."
    [94]

@@ -61,7 +61,7 @@
    [23]
     1 string data = "Come closer Zale, open your palm and concentrate."
    [24]
-    1 string data = "What about you Valere, have you been training too?"
+    1 string data = "What about you Valerie, have you been training too?"
    [25]
     1 string data = "Every day! I bet I'm stronger than you now!"
    [26]
@@ -267,13 +267,13 @@
    [126]
     1 string data = "Zale received <sprite="dialog-inventory-icons" name="icn-inventory-sunblade"> <color=magic>Training Sword</color>."
    [127]
-    1 string data = "Valere received <sprite="dialog-inventory-icons" name="icn-inventory-moonstaff"> <color=magic>Training Staff</color>."
+    1 string data = "Valerie received <sprite="dialog-inventory-icons" name="icn-inventory-moonstaff"> <color=magic>Training Staff</color>."
    [128]
     1 string data = "Alright, let's get to work!"
    [129]
     1 string data = "Huff.. huff.."
    [130]
-    1 string data = "You got this Valere, don't give up now!"
+    1 string data = "You got this Valerie, don't give up now!"
    [131]
     1 string data = "Never!"
    [132]
@@ -627,7 +627,7 @@
    [306]
     1 string data = "Simpler spells will only demand normal attacks."
    [307]
-    1 string data = "Valere can do blunt damage, and Zale has slicing."
+    1 string data = "Valerie can do blunt damage, and Zale has slicing."
    [308]
     1 string data = "Let's see you break this one."
    [309]
@@ -635,7 +635,7 @@
    [310]
     1 string data = "Now, some spells will also demand magic damage to break."
    [311]
-    1 string data = "You can control your projectiles now, so let's give it a shot. Zale for sun, and Valere for Moon."
+    1 string data = "You can control your projectiles now, so let's give it a shot. Zale for sun, and Valerie for Moon."
    [312]
     1 string data = "Well done. Now, you can sense your MP is a bit low, right?"
    [313]
@@ -737,7 +737,7 @@
    [361]
     1 string data = "Welcome, blade dancer."
    [362]
-    1 string data = "Come on Valere! I did it now it's your turn!"
+    1 string data = "Come on Valerie! I did it now it's your turn!"
    [363]
     1 string data = "*Ahem*"
    [364]
@@ -1003,9 +1003,9 @@
    [494]
     1 string data = "Read the name!"
    [495]
-    1 string data = "<color=moon>Valere</color>!"
+    1 string data = "<color=moon>Valerie</color>!"
    [496]
-    1 string data = "Welcome, Valere. May Luana's might protect you!"
+    1 string data = "Welcome, Valerie. May Luana's might protect you!"
    [497]
     1 string data = "MAY LUANA'S MIGHT PROTECT YOU!"
    [498]
@@ -1037,7 +1037,7 @@
    [511]
     1 string data = "Haha, now we're talking!"
    [512]
-    1 string data = "Keep it up, Valere!"
+    1 string data = "Keep it up, Valerie!"
    [513]
     1 string data = "Ya! Ya!"
    [514]
@@ -1155,7 +1155,7 @@
    [570]
     1 string data = "Oh, how exciting!"
    [571]
-    1 string data = "Valere, I think I'm ready."
+    1 string data = "Valerie, I think I'm ready."
    [572]
     1 string data = "...I've been thinking about <color=bad>Erlina</color>."
    [573]
@@ -1175,7 +1175,7 @@
    [580]
     1 string data = "Zale learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-zale-solenslight"> <color=sun>Solen's Light: Salvation</color>."
    [581]
-    1 string data = "Valere learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-valere-luanasmight"> <color=moon>Luana's Might: Retribution</color>."
+    1 string data = "Valerie learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-valere-luanasmight"> <color=moon>Luana's Might: Retribution</color>."
    [582]
     1 string data = "So, y'all ready to avenge your friend?"
    [583]

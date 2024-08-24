@@ -513,11 +513,11 @@
    [249]
     1 string data = "TO RESH'AN AND B'ST!"
    [250]
-    1 string data = "And finally, to ­Valere and Zale, for getting me out of Mooncradle and letting me travel the world to encounter countless wonders."
+    1 string data = "And finally, to ­Valerie and Zale, for getting me out of Mooncradle and letting me travel the world to encounter countless wonders."
    [251]
     1 string data = "But most importantly, for being the best friends anyone could ask for."
    [252]
-    1 string data = "TO VALERE AND ZALE!"
+    1 string data = "TO VALERIE AND ZALE!"
    [253]
     1 string data = "On this warm evening, the abundance of food and good times with his loved ones gave Garl an epiphany."
    [254]

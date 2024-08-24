@@ -27,7 +27,7 @@
    [6]
     1 string data = "That one was not taken willingly."
    [7]
-    1 string data = "Valere, please hear me out."
+    1 string data = "Valerie, please hear me out."
    [8]
     1 string data = "Step aside right now!"
    [9]
@@ -347,7 +347,7 @@
    [166]
     1 string data = "We'll clear the way now. Good luck, Solstice Warriors."
    [167]
-    1 string data = "Ready, Valere?"
+    1 string data = "Ready, Valerie?"
    [168]
     1 string data = "You bet."
    [169]
@@ -505,7 +505,7 @@
    [245]
     1 string data = "Then let us make sure you are not needed for a very long time. Go now, follow the Dweller and the Acolytes."
    [246]
-    1 string data = "Valere, it's not too late if-"
+    1 string data = "Valerie, it's not too late if-"
    [247]
     1 string data = "We have nothing to talk about."
    [248]
@@ -697,7 +697,7 @@
    [341]
     1 string data = "What? That's way too far, Garl is dying!"
    [342]
-    1 string data = "Don't you see, Valere?"
+    1 string data = "Don't you see, Valerie?"
    [343]
     1 string data = "The distance is always short if we fly away."
    [344]

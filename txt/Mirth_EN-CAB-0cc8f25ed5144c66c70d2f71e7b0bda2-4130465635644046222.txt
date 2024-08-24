@@ -165,7 +165,7 @@
    [75]
     1 string data = "But there has to be a way!"
    [76]
-    1 string data = "I'm sorry, Valere. If the miracle we need exists, it is not documented within our walls..."
+    1 string data = "I'm sorry, Valerie. If the miracle we need exists, it is not documented within our walls..."
    [77]
     1 string data = "Then we hunt it down and give it all we've got!"
    [78]
@@ -217,7 +217,7 @@
    [101]
     1 string data = "Zale and I are not giving up."
    [102]
-    1 string data = "My dear Valere, I had a hunch you would say that."
+    1 string data = "My dear Valerie, I had a hunch you would say that."
    [103]
     1 string data = "So you are adamant on trying to reach The Fleshmancer's old castle and taking a shot at that thing?"
    [104]
@@ -369,7 +369,7 @@
    [177]
     1 string data = "And who is the lucky one?"
    [178]
-    1 string data = "Valere"
+    1 string data = "Valerie"
    [179]
     1 string data = "Zale"
    [180]
@@ -383,11 +383,11 @@
    [184]
     1 string data = "I wish you a most relaxing session."
    [185]
-    1 string data = "Valere went into a deep meditation and reflected upon the challenges ahead."
+    1 string data = "Valerie went into a deep meditation and reflected upon the challenges ahead."
    [186]
     1 string data = "After a while, she noticed that the tension in her right shoulder was gone."
    [187]
-    1 string data = "Valere's ATK increased by 9!"
+    1 string data = "Valerie's ATK increased by 9!"
    [188]
     1 string data = "Zale wished the springs had been slightly hotter, but his upper back still felt tremendous relief."
    [189]

@@ -37,7 +37,7 @@
    [11]
     1 string data = "Thank you, Elder Mist."
    [12]
-    1 string data = "Valere. Approach."
+    1 string data = "Valerie. Approach."
    [13]
     1 string data = "(When the time comes, you will be the one to <color=magic>create paths on water</color>.)"
    [14]
