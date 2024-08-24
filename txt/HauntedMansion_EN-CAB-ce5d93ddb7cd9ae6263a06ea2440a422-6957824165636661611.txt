@@ -13,267 +13,267 @@
   1 Array Array (223 items)
    0 int size = 223
    [0]
-    1 string data = "Erlina and Brugaves, you will clear the basement."
+    1 string data = "Erlino, Brugavesi, vy pročistíte sklep."
    [1]
-    1 string data = "Do be careful. <color=bad>The Glutton</color> is a fearsome foe."
+    1 string data = "Buďte však opatrní. <color=bad>Žrout</color> je mocný nepřítel."
    [2]
-    1 string data = "We'll see about that."
+    1 string data = "To se ještě uvidí."
    [3]
     1 string data = "..."
    [4]
-    1 string data = "[MAINCHAR] and [OFFCHAR], you will cleanse the ballroom and make your way to the gardens."
+    1 string data = "[MAINCHAR], [OFFCHAR], vy budete mít na starost taneční sál a následně se vydáte na zahradu."
    [5]
-    1 string data = "<color=bad>The Botanical Horror</color> will pose a challenge, but you have what it takes."
+    1 string data = "Porazit <color=bad>Zahradní zrůdu</color> nebude snadné, ale vy na to schopnosti máte."
    [6]
-    1 string data = "We won't fail."
+    1 string data = "Neselžeme."
    [7]
-    1 string data = "Remember what you learned. Lunar magic against the soul-based ones, and solar magic for those more concrete."
+    1 string data = "Pamatujte, co jste se naučili. Měsíční magii proti přízračným nepřátelům a sluneční proti těm hmotnějším."
    [8]
-    1 string data = "I am heading upstairs to start working on the final seal."
+    1 string data = "Já budu nahoře pracovat na prolomení poslední bariéry."
    [9]
-    1 string data = "Join me when you are done, and we will rid the world of the Dweller of Woe once and for all."
+    1 string data = "Až budete hotovi, připojte se ke mně a společně zbavíme svět Dweller of Woe jednou provždy."
    [10]
-    1 string data = "Godspeed, Solstice Warriors!"
+    1 string data = "Hodně štěstí, Bojovníci Slunovratu!"
    [11]
-    1 string data = "There you are!"
+    1 string data = "Tak tady tě máme!"
    [12]
-    1 string data = "I can't fight the Dweller with you, but I'll do what I can otherwise."
+    1 string data = "Já s Dwellerem bojovat nemůžu, ale jinak vám pomůžu, jak to jen půjde."
    [13]
-    1 string data = "Hey, you must be Seraï!"
+    1 string data = "Ahoj, ty musíš být Seraï!"
    [14]
-    1 string data = "I'm Garl! Thanks for the help earlier!"
+    1 string data = "Já jsem Garl! Díky, žes nám předtím pomohla!"
    [15]
-    1 string data = "We're glad to have you back!"
+    1 string data = "Jsme rádi, že jsi zpátky!"
    [16]
     1 string data = "..."
    [17]
-    1 string data = "Don't mention it."
+    1 string data = "Nemáte zač."
    [18]
-    1 string data = "Seraï the assassin joins the party!"
+    1 string data = "Asasínka Seraï se přidává do skupiny!"
    [19]
     1 string data = "Use the <color=magic>Order</color> command in the game menu, or <color=magic>Swap</color> command in battle to change your party's composition!"
    [20]
-    1 string data = "Alright, we accomplished our part of the mission."
+    1 string data = "Dobrá, náš úkol v této misi jsme splnili."
    [21]
-    1 string data = "Let's regroup with the others."
+    1 string data = "Pojďme se vrátit k ostatním."
    [22]
-    1 string data = "The Dweller is yours. Good luck."
+    1 string data = "Dweller je váš. Zlomte vaz."
    [23]
-    1 string data = "Good work taking down the Botanical Horror."
+    1 string data = "Porazili jste Zahradní zrůdu, dobrá práce."
    [24]
-    1 string data = "The Dweller of Woe is behind this barrier. Join me now!"
+    1 string data = "Dweller of Woe je za touto bariérou. Všichni se mnou!"
    [25]
-    1 string data = "My dear Garl, your courage has been humbling, but you absolutely have to sit this one out."
+    1 string data = "Milý Garle, tvá odvaha je sice obdivuhodná, ale tento souboj opravdu budeš muset vynechat."
    [26]
-    1 string data = "No worries, Headmaster. I'll just watch!"
+    1 string data = "Žádný strach, řediteli. Budu se jenom dívat!"
    [27]
-    1 string data = "In position!"
+    1 string data = "Na místa!"
    [28]
-    1 string data = "The rune I prepared will force the Dweller of Woe to materialize. I will have to maintain focus for it to be vulnerable."
+    1 string data = "Runa, kterou jsem připravil, donutí Dweller of Woe se zjevit. Budu se muset neustále soustředit, aby byla zranitelná."
    [29]
-    1 string data = "I trust you to keep me alive and take down this spawn of evil!"
+    1 string data = "Věřím, že mě ochráníte a to zlé stvoření skolíte!"
    [30]
-    1 string data = "You can do it!"
+    1 string data = "Držím vám palce!"
    [31]
-    1 string data = "It comes! Brace yourselves, and do not be fooled by its appearance. It is immensely powerful!"
+    1 string data = "Je tady! Buďte připraveni a nenechte se oklamat jejím vzhledem. Je nesmírně mocná!"
    [32]
-    1 string data = "This is pointless! It won't even show its true form!"
+    1 string data = "Tohle k ničemu nevede! Ani neukázala skutečnou podobu!"
    [33]
-    1 string data = "So much for that rune."
+    1 string data = "Ta runa nám teda opravdu pomohla."
    [34]
     1 string data = " ..."
    [35]
-    1 string data = "The preparations were done properly. We just need more direct light from the eclipse."
+    1 string data = "Připravil jsem ji správně. Potřebujeme jen více přímého světla ze zatmění."
    [36]
-    1 string data = "Garl! Get up onto the roof and find a way to let more light in. Now!"
+    1 string data = "Garle! Vyšplhej na střechu a najdi způsob, jak sem dostat víc světla. A rychle!"
    [37]
-    1 string data = "I... okay, I'm on it!"
+    1 string data = "Já... dobře, jdu na to!"
    [38]
-    1 string data = "Alright, I won't let them down. There's got to be a ladder here somewhere..."
+    1 string data = "Fajn, nezklamu je. Někde tady bude žebřík..."
    [39]
-    1 string data = "I have to get up on the rooftop and bring more light for them!"
+    1 string data = "Musím se dostat na střechu a pustit jim dovnitř víc světla!"
    [40]
-    1 string data = "I know I've seen a ladder in this corridor!"
+    1 string data = "Vím, že jsem v téhle chodbě viděl žebřík!"
    [41]
-    1 string data = "So far so good. Now to find a breach or something."
+    1 string data = "Zatím dobrý. Teď jen najít nějakou trhlinu."
    [42]
-    1 string data = "Too solid... got to keep looking."
+    1 string data = "Tohle jen tak nepovolí... musím hledat jinde."
    [43]
-    1 string data = "This isn't it. Come on, Garl, your friends need you!"
+    1 string data = "To není ono. No tak, Garle, přátelé tě potřebují!"
    [44]
-    1 string data = "Alright! There's an opening behind this debris. Time to smash through!"
+    1 string data = "Aha! Za těmi sutinami je díra. Čas se tím probourat!"
    [45]
-    1 string data = "Let's see now."
+    1 string data = "Hm, co teď?"
    [46]
-    1 string data = "It's all clogged up with rubble..."
+    1 string data = "Je to celé ucpané troskami..."
    [47]
-    1 string data = "Arf! Too heavy for me..."
+    1 string data = "Uf! Tohle sám neuzvednu..."
    [48]
-    1 string data = "Can't give up now. Think, Garl, think!"
+    1 string data = "Teď to vzdát nemůžu. Přemýšlej, Garle, přemýšlej!"
    [49]
-    1 string data = "Oh! That thing Yolande told me about gunpowder... Maybe if I just..."
+    1 string data = "Mám to! Cože mi to Yolanda řekla o střelném prachu... Možná, když..."
    [50]
-    1 string data = "I bet this will do juuuust right!"
+    1 string data = "Tohle by mělo stačit tak akorát!"
    [51]
-    1 string data = "Okay! Better find cover."
+    1 string data = "Hotovo! A teď se honem ukrýt."
    [52]
-    1 string data = "Haha, it worked! That's bound to come in handy later, too!"
+    1 string data = "Haha, vyšlo to! Tohle se mi určitě bude hodit!"
    [53]
-    1 string data = "What the!? He could have warned us before pulling something like that!"
+    1 string data = "Co to!? Mohl nás třeba varovat, než se pustí do něčeho takového!"
    [54]
-    1 string data = "He did it!"
+    1 string data = "Zvládl to!"
    [55]
-    1 string data = "Perfect! The Dweller is showing it's true form. Let us finish this!"
+    1 string data = "Výborně! Dweller ukazuje svůj pravý vzhled. Dokončeme to!"
    [56]
-    1 string data = "Quick! Obliterate the core!"
+    1 string data = "Rychle! Zničte to jádro!"
    [57]
-    1 string data = "I won't let you!"
+    1 string data = "Na to zapomeňte!"
    [58]
     1 string data = "Seraï!?"
    [59]
-    1 string data = "Drop your weapon right now!"
+    1 string data = "Odhoď zbraň! Hned!"
    [60]
-    1 string data = "TELL THEM WHAT Y-"
+    1 string data = "ŘEKNĚTE JIM, CO-"
    [61]
     1 string data = "!!"
    [62]
-    1 string data = "Erlina, explain yourself at once!"
+    1 string data = "Erlino, okamžitě mi vysvětli, co to má znamenat!"
    [63]
-    1 string data = "Use the <color=bad>crystal</color> now, Brugaves. I'd rather make this quick."
+    1 string data = "Použij ten <color=bad>krystal</color>, Brugavesi. Chci to mít radši rychle za sebou."
    [64]
     1 string data = "!!!"
    [65]
-    1 string data = "BRUGAVES, DON'T!"
+    1 string data = "BRUGAVESI, OPOVAŽ SE!"
    [66]
     1 string data = "..."
    [67]
-    1 string data = "We tried reasoning with you. You left us no other option."
+    1 string data = "Snažili jsme se s vámi rozumně domluvit, ale nedal jste nám na vybranou."
    [68]
-    1 string data = "Do it."
+    1 string data = "Udělej to."
    [69]
-    1 string data = "So, you really did hold up your end of the bargain after all."
+    1 string data = "Vidím, že jste svou část dohody nakonec opravdu splnili."
    [70]
-    1 string data = "Go back from where you came fiends, these minds are not yours to twist!"
+    1 string data = "Vraťte se, odkud jste přišli, vy zloduši, these minds are not yours to twist!"
    [71]
-    1 string data = "Oh, is the old man tense?"
+    1 string data = "Oh, je snad tenhle stařík nervózní?"
    [72]
-    1 string data = "Tense, and confused too!"
+    1 string data = "Nervózní, a ještě k tomu zmatený!"
    [73]
-    1 string data = "What do you want!?"
+    1 string data = "Co chcete!?"
    [74]
-    1 string data = "Why, the very same thing as your two former friends here."
+    1 string data = "No přece úplně to samé, co chtějí tady tví bývalí přátelé."
    [75]
-    1 string data = "For those born during a solstice to live free..."
+    1 string data = "Svobodu pro ty, kteří se narodili o slunovratu..."
    [76]
-    1 string data = "Are they not forced to train?"
+    1 string data = "Copak nejsou nuceni k výcviku?"
    [77]
-    1 string data = "Train, and fight horrors too!"
+    1 string data = "K výcviku, a ještě k tomu bojovat s nestvůrami!"
    [78]
-    1 string data = "Liars! You worship The Fleshmancer!"
+    1 string data = "Lháři! Uctíváte Fleshmancera!"
    [79]
-    1 string data = "Without Solstice Warriors the world would be doomed!"
+    1 string data = "Bez Bojovníků Slunovratu je svět odsouzen k zániku!"
    [80]
     1 string data = "..."
    [81]
-    1 string data = "This meets our conditions."
+    1 string data = "Naše podmínky jsou tedy splněny."
    [82]
-    1 string data = "Erlina... why?"
+    1 string data = "Erlino... proč?"
    [83]
     1 string data = "..."
    [84]
-    1 string data = "We took the deal. All they asked was for us to conjure a blood moon."
+    1 string data = "Přistoupili jsme na jejich dohodu. Jediné, co od nás chtějí, je vyvolat krvavý Měsíc."
    [85]
-    1 string data = "And then there will be no more of this nonsense."
+    1 string data = "A pak bude se všemi těmihle nesmysly konec."
    [86]
     1 string data = "!!"
    [87]
     1 string data = "..."
    [88]
-    1 string data = "The blood moon... and a Dweller core!?!"
+    1 string data = "Krvavý měsíc... s jádrem Dwellera!?!"
    [89]
-    1 string data = "NO!!"
+    1 string data = "NE!!"
    [90]
-    1 string data = "My, you catch on quick!"
+    1 string data = "No tedy, dochází ti to rychle!"
    [91]
-    1 string data = "At long last, the Dweller of Strife will be resurrected."
+    1 string data = "Dweller of Strife bude konečně oživen."
    [92]
-    1 string data = "Resurrected, and made stronger too!"
+    1 string data = "Oživen, a ještě k tomu posílen!"
    [93]
-    1 string data = "Brugaves, how are you okay with this!?"
+    1 string data = "Brugavesi, jak s něčím takovým vůbec můžeš souhlasit!?"
    [94]
-    1 string data = "Have you ever wondered what it would feel like for your life to be your own?"
+    1 string data = "Přemýšlel jsi někdy nad tím, jaké by to asi bylo, mít život ve vlastních rukou?"
    [95]
-    1 string data = "But why? We just defeated the last Dweller!"
+    1 string data = "Ale proč? Právě teď jsme porazili jediného zbývajícího Dwellera!"
    [96]
-    1 string data = "You can't truly know that."
+    1 string data = "To nemůžeš vědět jistě."
    [97]
-    1 string data = "And don't you see that absolutely none of this endless conflict is your fault?"
+    1 string data = "A uvědomujete si, že za tenhle věčný konflikt nenesete vůbec žádnou vinu?"
    [98]
-    1 string data = "That doesn't mean it's not our responsibility!"
+    1 string data = "To neznamená, že v něm nemáme žádnou zodpovědnost!"
    [99]
-    1 string data = "Or yours, by the way!"
+    1 string data = "A to mimochodem platí i pro vás!"
    [100]
-    1 string data = "It's not too late, Brugaves! Destroy the core!"
+    1 string data = "Ještě není pozdě, Brugavesi! Znič to jádro!"
    [101]
-    1 string data = "I'm sorry Valere. We made our decision."
+    1 string data = "Je mi líto, Valere. My už jsme se rozhodli."
    [102]
-    1 string data = "Why give up now? Some of us could still ascend!"
+    1 string data = "Proč to vzdáváte teď? Někteří z nás stále ještě mohou být povzneseni!"
    [103]
-    1 string data = "Into “Guardian Gods”? Don't make me laugh!"
+    1 string data = "Povzneseni na „Strážné Bohy“? Nebuď směšná!"
    [104]
-    1 string data = "How many centuries were spent suffering in wait for this fake promise?"
+    1 string data = "Kolik staletí se marně čekalo na splnění toho falešného slibu?"
    [105]
-    1 string data = "Don't you think it would have happened by now?"
+    1 string data = "Nemyslíš, že by se to za celou tu dobu už jinak muselo stát?"
    [106]
     1 string data = "..."
    [107]
-    1 string data = "Enough talk! We must complete the ritual before the eclipse subsides."
+    1 string data = "Dost bylo řečí! Musíme dokončit rituál, než zatmění pomine."
    [108]
-    1 string data = "NO! YOU CAN'T!"
+    1 string data = "NE! TO NEMŮŽETE!"
    [109]
-    1 string data = "Oh, I believe we can."
+    1 string data = "Já bych řekla, že můžeme."
    [110]
-    1 string data = "Can, and will too!"
+    1 string data = "Můžeme a taky to uděláme!"
    [111]
-    1 string data = "The time has come to resurrect the Dweller of Strife."
+    1 string data = "Nadešel čas oživit Dweller of Strife."
    [112]
-    1 string data = "Now, give us the blood moon!"
+    1 string data = "A teď nám vyvolejte krvavý Měsíc!"
    [113]
     1 string data = "!!"
    [114]
-    1 string data = "No..."
+    1 string data = "Ne..."
    [115]
-    1 string data = "NOOO!!!"
+    1 string data = "NEEE!!!"
    [116]
-    1 string data = "Headmaster!"
+    1 string data = "Řediteli!"
    [117]
-    1 string data = "Hey at least we're safe for now..."
+    1 string data = "Hele, aspoň jsme prozatím v bezpečí..."
    [118]
-    1 string data = "I'm sure the three of you can take on whatever that Dweller of Strife is."
+    1 string data = "A myslím si, že vy tři si s tím Dweller of Strife určitě poradíte."
    [119]
-    1 string data = "You don't understand!"
+    1 string data = "Ty to nechápeš!"
    [120]
-    1 string data = "The Dweller of Strife took everything from us..."
+    1 string data = "Dweller of Strife nás připravil o všechno..."
    [121]
-    1 string data = "More than two dozen Solstice Warriors, and yet..."
+    1 string data = "O víc než dva tucty Bojovníků Slunovratu, a přesto..."
    [122]
     1 string data = "..."
    [123]
-    1 string data = "But the Elder Mist said..."
+    1 string data = "Ale Elder Mist řekl..."
    [124]
     1 string data = "..."
    [125]
-    1 string data = "How could they..."
+    1 string data = "Jak jenom mohli..."
    [126]
-    1 string data = "Headmaster!"
+    1 string data = "Řediteli!"
    [127]
-    1 string data = "Let's hurry back."
+    1 string data = "Musíme se vrátit."
    [128]
-    1 string data = "Thank you for clearing the evil spirits, it sure feels warmer now."
+    1 string data = "Děkuji, že jste to tady očistili od zlých duchů, je tu najednou mnohem příjemněji."
    [129]
-    1 string data = "Are you going to the gardens to fight the Botanical Horror?"
+    1 string data = "Vy jdete bojovat se Zahradní zrůdou?"
    [130]
-    1 string data = "I hope you know what you're doing..."
+    1 string data = "Doufám, že víte, co děláte..."
    [131]
     1 string data = "Alright, it's snack time!"
    [132]
@@ -285,71 +285,71 @@
    [135]
     1 string data = "We didn't check all the ingredients yet. Let's keep searching."
    [136]
-    1 string data = "Erlina and Brugaves are in charge of the basement. Let's find the ballroom and gardens."
+    1 string data = "Sklep mají na starost Erlina a Brugaves. My hledáme taneční sál a zahradu."
    [137]
-    1 string data = "We can't let the others down. To the ballroom, then the gardens."
+    1 string data = "Nemůžeme ostatní zklamat. Do tanečního sálu, potom na zahradu."
    [138]
-    1 string data = "There seems to be a switch at the bottom of the pot. Press it?"
+    1 string data = "Vypadá to, že na dně toho květináče je spínač. Zmáčknout jej?"
    [139]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [140]
-    1 string data = "No"
+    1 string data = "Ne"
    [141]
-    1 string data = "This side of the wall feels brittle. Let's see if we can break through."
+    1 string data = "Ta zeď z téhle strany nevypadá moc pevně. Možná se nám ji podaří prorazit."
    [142]
-    1 string data = "That did it! Should be a useful shortcut."
+    1 string data = "A je to! Z toho bude dobrá zkratka."
    [143]
-    1 string data = "It's locked."
+    1 string data = "Zamčeno."
    [144]
-    1 string data = "Just a bookshelf."
+    1 string data = "Jen police na knihy."
    [145]
-    1 string data = "Over generations, the evil presence has fully engulfed these rooms and halls."
+    1 string data = "Jak šel čas, zlé síly dočista pohltily tyto pokoje a chodby."
    [146]
-    1 string data = "Are you here to help? Then perhaps you should take a look at the torch left of the fireplace..."
+    1 string data = "Vy jste nám přišli na pomoc? To byste si měli prohlédnout louč nalevo od krbu..."
    [147]
     1 string data = "Completely blocked from this side."
    [148]
-    1 string data = "I miss Lucent."
+    1 string data = "Stýská se mi po Lucentu."
    [149]
-    1 string data = "I'd steer clear of the maze if I were you. The Botanical Horror devours all."
+    1 string data = "Být vámi, tak se tomu bludišti vyhnu. Zahradní zrůda každého sežere."
    [150]
-    1 string data = "We were having dinner right here when it happened."
+    1 string data = "Když se to stalo, zrovna jsme přímo tady večeřeli."
    [151]
-    1 string data = "I woke up one day, and the Night Shroud was just there."
+    1 string data = "Jednoho dne jsem se vzbudil a Noční pokryv už tady byl."
    [152]
-    1 string data = "First they tell you to speak your mind, then they call you grumpy..."
+    1 string data = "Nejdřív vám řeknou, ať vyjádříte svůj názor, a potom jste podle nich mrzout..."
    [153]
-    1 string data = "Eternity is NOT FAIR!"
+    1 string data = "Věčnost NENÍ FÉR!"
    [154]
-    1 string data = "Enter the secret passage?"
+    1 string data = "Vstoupit do tajné chodby?"
    [155]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [156]
-    1 string data = "No"
+    1 string data = "Ne"
    [157]
-    1 string data = "The Knight is wearing a Crown. Take it?"
+    1 string data = "Rytíř má na hlavě korunu. Vzít ji?"
    [158]
-    1 string data = "Take the Crown"
+    1 string data = "Vzít korunu"
    [159]
-    1 string data = "Don't touch anything"
+    1 string data = "Ničeho se nedotýkat"
    [160]
-    1 string data = "The Knight is wearing a Knight's Helm. Take it?"
+    1 string data = "Rytíř má na hlavě přilbu rytíře. Vzít ji?"
    [161]
-    1 string data = "Take the Knight's Helm"
+    1 string data = "Vzít přilbu rytíře"
    [162]
-    1 string data = "Don't touch anything"
+    1 string data = "Ničeho se nedotýkat"
    [163]
-    1 string data = "The King is wearing a Crown. Take it?"
+    1 string data = "Král má na hlavě korunu. Vzít ji?"
    [164]
-    1 string data = "Take the Crown"
+    1 string data = "Vzít korunu"
    [165]
-    1 string data = "Don't touch anything"
+    1 string data = "Ničeho se nedotýkat"
    [166]
-    1 string data = "The King is wearing a Knight's Helm. Take it?"
+    1 string data = "Král má na hlavě přilbu rytíře. Vzít ji?"
    [167]
-    1 string data = "Take the Knight's Helm"
+    1 string data = "Vzít přilbu rytíře"
    [168]
-    1 string data = "Don't touch anything"
+    1 string data = "Ničeho se nedotýkat"
    [169]
     1 string data = "Let's see what we have here."
    [170]
@@ -359,11 +359,11 @@
    [172]
     1 string data = "Want me to start cooking?"
    [173]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [174]
-    1 string data = "No"
+    1 string data = "Ne"
    [175]
-    1 string data = "Start over"
+    1 string data = "Začít znovu"
    [176]
     1 string data = "The Master Sandwich recipe requires two parts hepar, four parts dust, three parts sugar and one part rust."
    [177]
@@ -389,29 +389,29 @@
    [187]
     1 string data = "4"
    [188]
-    1 string data = "Hello there. You look strange, are you alive or something?"
+    1 string data = "Ahoj. Vy teda vypadáte divně, jste snad naživu nebo co?"
    [189]
-    1 string data = "Hey friend, we're looking for the ballroom. Do you know where it is?"
+    1 string data = "Ahoj, hledáme taneční sál. Věděla bys, kde je?"
    [190]
-    1 string data = "Oh? Yes, it's somewhere beyond this door."
+    1 string data = "Hm? Ano, je někde za těmihle dveřmi."
    [191]
-    1 string data = "Tell you what, you make me a sandwich and I'll open the door for you."
+    1 string data = "Víte vy co, když mi uděláte sendvič, otevřu vám je."
    [192]
-    1 string data = "Deal! How do you like yours?"
+    1 string data = "Platí! Jaký by sis přála?"
    [193]
-    1 string data = "My favorite is pretty simple. Two parts hepar, four parts dust. Three parts sugar, and one part rust!"
+    1 string data = "Můj oblíbený je dost jednoduchý. Two parts hepar, four parts dust. Three parts sugar, and one part rust!"
    [194]
     1 string data = "..."
    [195]
     1 string data = "Between two slices of dread, of course!"
    [196]
-    1 string data = "Okay..."
+    1 string data = "Jasně..."
    [197]
-    1 string data = "Where can we find these ingredients?"
+    1 string data = "Kde můžeme tyhle ingredience najít?"
    [198]
-    1 string data = "Oh, the kitchen has it all. Let me get the door for you."
+    1 string data = "Oh, všechny jsou v kuchyni. Otevřu vám ji."
    [199]
-    1 string data = "The recipe's on the counter if you need it."
+    1 string data = "Recept je na lince, pokud byste ho potřebovali."
    [200]
     1 string data = "And please hurry, I'm STARVING!"
    [201]
@@ -431,30 +431,30 @@
    [208]
     1 string data = "I'll get this going. Do you mind gathering the ingredients?"
    [209]
-    1 string data = "Spooky..."
+    1 string data = "Děsivé..."
    [210]
-    1 string data = "This chair feels very cold..."
+    1 string data = "Tahle židle je velmi chladná..."
    [211]
-    1 string data = "Thank you for getting rid of those evil spirits!"
+    1 string data = "Děkuji vám, že jste se zbavili těch zlých duchů!"
    [212]
-    1 string data = "Here, you can use this fire if you need to rest."
+    1 string data = "Jestli chcete, můžete si odpočinout tady u krbu."
    [213]
-    1 string data = "There are other lost souls in this mansion who can help you, but they won't come out while evil spirits are around."
+    1 string data = "V tomto sídle jsou další ztracené duše, co vám mohou pomoci, ale neukážou se, dokud budou poblíž zlí duchové."
    [214]
     1 string data = "Need anything?"
    [215]
     1 string data = "Sealed shut."
    [216]
-    1 string data = "Just some dusty old books."
+    1 string data = "Jen nějaké staré zaprášené knihy."
    [217]
     1 string data = "This book is full of boring old records from past tenants."
    [218]
-    1 string data = "This place hasn't been cleaned in a while..."
+    1 string data = "Tady už dlouho nikdo neuklízel..."
    [219]
-    1 string data = "The note says: ''Little juice boxes are for lunch only!''"
+    1 string data = "Ve vzkazu stojí: „Krabičky džusu podávat pouze s obědem!“"
    [220]
-    1 string data = "A set of guidelines for those who used to work as servants in the mansion."
+    1 string data = "Seznam instrukcí pro služebnictvo, které pracovalo v tomto sídle."
    [221]
-    1 string data = "The note says: ''To open the secret passage to the kitchen, just look at the pot in the garden.''"
+    1 string data = "Ve vzkazu stojí: „K otevření tajné chodby do kuchyně se podívejte do květináče na zahradě.“"
    [222]
-    1 string data = "So dusty it feels like it might decompose just by looking at it."
+    1 string data = "Tak zašlá, že by ji snad šlo rozdrolit pouhým pohledem."
