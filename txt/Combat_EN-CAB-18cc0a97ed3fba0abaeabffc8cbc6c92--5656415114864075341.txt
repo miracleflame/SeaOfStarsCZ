@@ -57,7 +57,7 @@
    [21]
     1 string data = "Garl prohodí nepřítele na jinou pozici, pokud je to možné."
    [22]
-    1 string data = "Získáno [XP_AMOUNT] zkušenostních bodů!"
+    1 string data = "Získáno [XP_AMOUNT] bodů zkušeností!"
    [23]
     1 string data = "Nalezeno [GOLD_AMOUNT] zlata!"
    [24]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "Luanina moc: Odplata"
    [34]
-    1 string data = "Valériin ultimátní útok."
+    1 string data = "Valeriin ultimátní útok."
    [35]
     1 string data = "Kanóny Večernice"
    [36]
@@ -101,17 +101,17 @@
    [43]
     1 string data = "Arkánové a měsíční magické poškození všem cílům"
    [44]
-    1 string data = "Stiskněte při pádu."
+    1 string data = "Stiskněte při srážce."
    [45]
-    1 string data = "Valerie a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcanemoon"> <color="magic">Srpy měsíce</color>!"
+    1 string data = "Valerie a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcanemoon"> <color="magic">Arkánové měsíce</color>!"
    [46]
-    1 string data = "Loketní kapka"
+    1 string data = "Loketní úder"
    [47]
-    1 string data = "Střední Tupé a Arkánové poškození jednoho cíle."
+    1 string data = "Střední tupé a arkánové poškození jednoho cíle."
    [48]
     1 string data = "Stiskněte <button="Interact"> při odrazu od země, abyste získali větší výšku."
    [49]
-    1 string data = "Trilkovat"
+    1 string data = "Trylkovat"
    [50]
     1 string data = "Inspiruje cíl, vyléčí stav KO a mírně ho vyléčí."
    [51]
@@ -167,7 +167,7 @@
    [76]
     1 string data = "Garl si vybere náhodný předmět se speciálním efektem."
    [77]
-    1 string data = "Stiskněte <button=interact> pro výběr položky."
+    1 string data = "Stiskněte <button=interact> pro výběr předmětu."
    [78]
     1 string data = "Garl a Seraï se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-itemroulette"> <color="magic">Ruleta</color>!"
    [79]
@@ -207,7 +207,7 @@
    [96]
     1 string data = "Arkánové a sluneční magické poškození (více zásahů)."
    [97]
-    1 string data = "Zatočte ohnivý sloup pomocí <button="MoveAll">!"
+    1 string data = "Řiďte ohnivý sloup pomocí <button="MoveAll">!"
    [98]
     1 string data = "Zale a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-conflagrate"> <color="magic">Podpal</color>!"
    [99]
@@ -235,13 +235,13 @@
    [110]
     1 string data = "~ Valerie a Garl se naučili kombo dovednost Lunární val!"
    [111]
-    1 string data = "Kapkoplesk"
+    1 string data = "Rána shora"
    [112]
-    1 string data = "Mírné tupé poškození proti jednomu cíli."
+    1 string data = "Střední tupé poškození proti jednomu cíli."
    [113]
     1 string data = "Stiskněte <button="Interact">, jakmile se zásah spojí."
    [114]
-    1 string data = "Valerie a Garl se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Kapkoplesk</color>!"
+    1 string data = "Valerie a Garl se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Rána shora</color>!"
    [115]
     1 string data = "Odliv"
    [116]
@@ -255,7 +255,7 @@
    [120]
     1 string data = "Pohov"
    [121]
-    1 string data = "Uděluje arkánní poškození a zároveň stahuje nepřátele k sobě."
+    1 string data = "Uděluje arkánové poškození a zároveň přitahuje nepřátele k sobě."
    [122]
     1 string data = "Velký orel"
    [123]
@@ -285,13 +285,13 @@
    [135]
     1 string data = "Měsíční magický projektil, který se může odrazit k více cílům."
    [136]
-    1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne cíl<color=moon>Valerii</color>, aby pokračoval."
+    1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne <color=moon>Valerii</color>, aby pokračoval."
    [137]
     1 string data = "Stiskněte <button="Interact">, abyste ho odrazili!"
    [138]
     1 string data = "Stiskněte <button="Interact">, abyste kopli!"
    [139]
-    1 string data = "Srpový oblouk"
+    1 string data = "Srpkový oblouk"
    [140]
     1 string data = "Zasáhne nepřátele v oblouku."
    [141]
@@ -301,17 +301,17 @@
    [143]
     1 string data = "Miniaturní měsíce, z nichž každý chrání spojence před jedním zásahem a mírně léčí."
    [144]
-    1 string data = "Stiskněte <button="Interact"> později, abyste zvýšili počet provedených léčení."
+    1 string data = "Stiskněte <button="Interact"> později pro větší léčení."
    [145]
     1 string data = "Valerie se naučila bojovou dovednost <sprite="dialog-inventory-icons" name="icn-skills-valere-lunarshield"> <color="magic">Lunární štít</color>!"
    [146]
-    1 string data = "Léčivé světlo"
+    1 string data = "Ozdravné světlo"
    [147]
     1 string data = "Obnovuje BŽ všem spojencům."
    [148]
     1 string data = "Stiskněte <button="Interact"> ke konci pro posílení."
    [149]
-    1 string data = "[MAINCHAR] a [OFFCHAR] se naučily kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Léčivé světlo</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Ozdravné světlo</color>!"
    [150]
     1 string data = "Slunarang"
    [151]
@@ -319,7 +319,7 @@
    [152]
     1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne <color=moon>Valerii</color>, aby pokračoval."
    [153]
-    1 string data = "[MAINCHAR] a [OFFCHAR] se naučily kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Slunarang</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Slunarang</color>!"
    [154]
     1 string data = "Hrom"
    [155]
@@ -333,7 +333,7 @@
    [159]
     1 string data = "Ostrá sprcha"
    [160]
-    1 string data = "Beran"
+    1 string data = "Vrazit"
    [161]
     1 string data = "+AP"
    [162]
@@ -361,11 +361,11 @@
    [173]
     1 string data = "Meč a paže Mlžného stařešiny se cítí lépe."
    [174]
-    1 string data = "Namíchaná slabina: Slunce"
+    1 string data = "Promíchat slabinu: Slunce"
    [175]
-    1 string data = "Namíchaná slabina: Měsíc"
+    1 string data = "Promíchat slabinu: Měsíc"
    [176]
-    1 string data = "Namíchaná slabina: Fyzikální"
+    1 string data = "Promíchat slabinu: Fyzikální"
    [177]
     1 string data = "Léčivá mlha"
    [178]
@@ -381,7 +381,7 @@
    [183]
     1 string data = "Stalagštip"
    [184]
-    1 string data = "Čirá kvapka"
+    1 string data = "Shození jantaru"
    [185]
     1 string data = "Bombardace"
    [186]
@@ -401,9 +401,9 @@
    [193]
     1 string data = "Arkánová singularita"
    [194]
-    1 string data = "Turnádo"
+    1 string data = "Točnádo"
    [195]
-    1 string data = "Brkostřela"
+    1 string data = "Ostnostřela"
    [196]
     1 string data = "Felfire Rain"
    [197]
@@ -411,11 +411,11 @@
    [198]
     1 string data = "Dezorientace"
    [199]
-    1 string data = "Dobře umístěný kop, který opozdí akci nepřítele."
+    1 string data = "Dobře mířený kop, který opozdí akci nepřítele."
    [200]
     1 string data = "Stiskněte <button="Interact"> při zásahu pro zvýšení poškození."
    [201]
-    1 string data = "Chrum chrum"
+    1 string data = "Chramst chramst"
    [202]
     1 string data = "Odrazy zrcadla"
    [203]
@@ -425,7 +425,7 @@
    [205]
     1 string data = "Přízračné kosy"
    [206]
-    1 string data = "Palte"
+    1 string data = "Oheň"
    [207]
     1 string data = "Bublopád"
    [208]
@@ -469,7 +469,7 @@
    [227]
     1 string data = "Tackle"
    [228]
-    1 string data = "Brkostřela"
+    1 string data = "Ostnostřela"
    [229]
     1 string data = "Spěch"
    [230]
@@ -517,7 +517,7 @@
    [251]
     1 string data = "Krach"
    [252]
-    1 string data = "Oční louč"
+    1 string data = "Oční paprsek"
    [253]
     1 string data = "Rozkoule"
    [254]
@@ -527,19 +527,19 @@
    [256]
     1 string data = "Pánevníctvo"
    [257]
-    1 string data = "Laserové zatmění"
+    1 string data = "Laser zatmění"
    [258]
     1 string data = "Chláchol"
    [259]
     1 string data = "Sinferno"
    [260]
-    1 string data = "Chrum"
+    1 string data = "Chramst"
    [261]
     1 string data = "Pohled hrůzy"
    [262]
     1 string data = "Křížová palba"
    [263]
-    1 string data = "Kladivětrák"
+    1 string data = "Rychlá palba"
    [264]
     1 string data = "Výstřel"
    [265]
@@ -571,11 +571,11 @@
    [278]
     1 string data = "Ruletová pěst"
    [279]
-    1 string data = "Cejch Pyramidy"
+    1 string data = "Spalující pyramida"
    [280]
     1 string data = "Léčivý déšť"
    [281]
-    1 string data = "Cejch loučem"
+    1 string data = "Spalující paprsek"
    [282]
     1 string data = "Lunčáky"
    [283]
@@ -593,7 +593,7 @@
    [289]
     1 string data = "Krystalový dotek"
    [290]
-    1 string data = "Zesyp"
+    1 string data = "Roztříštění"
    [291]
     1 string data = "Vysání života"
    [292]
@@ -603,7 +603,7 @@
    [294]
     1 string data = "Petarada"
    [295]
-    1 string data = "Trón z masa"
+    1 string data = "Trůn z masa"
    [296]
     1 string data = "Bachor"
    [297]
@@ -611,7 +611,7 @@
    [298]
     1 string data = "Super Sclout"
    [299]
-    1 string data = "Bohyni zbraní došla munice!"
+    1 string data = "Bohyně zbraní nemá munici!"
    [300]
     1 string data = "Sonická bolest"
    [301]
