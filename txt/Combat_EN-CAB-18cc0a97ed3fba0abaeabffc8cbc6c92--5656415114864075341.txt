@@ -141,7 +141,7 @@
    [63]
     1 string data = "Arkánové Slunce"
    [64]
-    1 string data ="Arkánové a sluneční magické poškození jednoho cíle. Lze načasovat pro získání bonusového plošného poškození."
+    1 string data = "Arkánové a sluneční magické poškození jednoho cíle. Lze načasovat pro získání bonusového plošného poškození."
    [65]
     1 string data = "Stiskněte <button="Interact">, jakmile se spojí zásah B'sta."
    [66]
@@ -153,468 +153,468 @@
    [69]
     1 string data = "Stiskněte <button="Interact"> při odrazu od země, abyste získali větší výšku."
    [70]
-    1 string data = "Seraï and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-elbowloop"> <color="magic">Elbow Loop</color>!"
+    1 string data = "Seraï a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-elbowloop"> <color="magic">Loketní smyčka</color>!"
    [71]
-    1 string data = "Bottle Punch"
+    1 string data = "Lahvová pěst"
    [72]
-    1 string data = "High damage vs one target."
+    1 string data = "Vysoké poškození proti jednomu cíli."
    [73]
-    1 string data = "Press <button="Interact"> as the hit connects."
+    1 string data = "Stiskněte <button="Interact">, jakmile se zásah spojí."
    [74]
-    1 string data = "Resh'an and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-bottlepunch"> <color="magic">Bottle Punch</color>!"
+    1 string data = "Resh'an a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-bottlepunch"> <color="magic">Lahvová pěst</color>!"
    [75]
-    1 string data = "Item Roulette"
+    1 string data = "Ruleta"
    [76]
-    1 string data = "Garl picks a random item for a special effect."
+    1 string data = "Garl si vybere náhodný předmět se speciálním efektem."
    [77]
-    1 string data = "Press <button=interact> to select item."
+    1 string data = "Stiskněte <button=interact> pro výběr položky."
    [78]
-    1 string data = "Garl and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-itemroulette"> <color="magic">Item Roulette</color>!"
+    1 string data = "Garl a Seraï se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-itemroulette"> <color="magic">Ruleta</color>!"
    [79]
-    1 string data = "Moon Shiv"
+    1 string data = "Měsíční kudla"
    [80]
-    1 string data = "High damage vs one target."
+    1 string data = "Vysoké poškození proti jednomu cíli."
    [81]
-    1 string data = "Press <button="Interact"> as the hit connects."
+    1 string data = "Stiskněte <button="Interact">, jakmile se zásah spojí."
    [82]
-    1 string data = "Valerie and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Moon Shiv</color>!"
+    1 string data = "Valerie a Seraï se naučily kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Měsíční kudla</color>!"
    [83]
-    1 string data = "Venom Bomb"
+    1 string data = "Jedová bomba"
    [84]
-    1 string data = "Area damage."
+    1 string data = "Plošné poškození."
    [85]
-    1 string data = "Press <button="Interact"> on throw to boost."
+    1 string data = "Stiskněte <button="Interact"> při hodu pro posílení."
    [86]
-    1 string data = "Garl and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-poisonbomb"> <color="magic">Venom Bomb</color>!"
+    1 string data = "Garl a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-poisonbomb"> <color="magic">Venom Bomb</color>!"
    [87]
-    1 string data = "Solar Rain"
+    1 string data = "Solární déšť"
    [88]
-    1 string data = "Sun damage that hits all enemies."
+    1 string data = "Sluneční poškození, které zasáhne všechny nepřátele."
    [89]
-    1 string data = "Hold <button="Interact"> for power!"
+    1 string data = "Podržte <button="Interact"> pro sílu!"
    [90]
-    1 string data = "Zale and Garl learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-solarrain"> <color="magic">Solar Rain</color>!"
+    1 string data = "Zale a Garl se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-solarrain"> <color="magic">Solární déšť</color>!"
    [91]
-    1 string data = "Dash Strike"
+    1 string data = "Řetězový úder"
    [92]
-    1 string data = "Sword and Sun damage that hits all enemies."
+    1 string data = "Poškození mečem a sluncem, které zasáhne všechny nepřátele."
    [93]
-    1 string data = "Press <button="Interact"> late to ignite sun runes."
+    1 string data = "Stiskněte <button="Interact"> později, abyste zapálili sluneční runy."
    [94]
-    1 string data = "Zale learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-zale-dashstrike"> <color="magic">Dash Strike</color>!"
+    1 string data = "Zale se naučil bojovou dovednost <sprite="dialog-inventory-icons" name="icn-skills-zale-dashstrike"> <color="magic">Řetězový úder</color>!"
    [95]
-    1 string data = "Conflagrate"
+    1 string data = "Podpal"
    [96]
-    1 string data = "Arcane and Solar magic damage (multi hit)."
+    1 string data = "Arkánové a sluneční magické poškození (více zásahů)."
    [97]
-    1 string data = "Steer fire column with <button="MoveAll">!"
+    1 string data = "Zatočte ohnivý sloup pomocí <button="MoveAll">!"
    [98]
-    1 string data = "Zale and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-conflagrate"> <color="magic">Conflagrate</color>!"
+    1 string data = "Zale a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-conflagrate"> <color="magic">Podpal</color>!"
    [99]
-    1 string data = "X-Strike"
+    1 string data = "Zásah do X"
    [100]
-    1 string data = "Sword, Sun and Venom damage that hits all enemies."
+    1 string data = "Poškození mečem, sluncem a jedem, které zasáhne všechny nepřátele."
    [101]
-    1 string data = "Press <button="Interact"> late to ignite sun runes."
+    1 string data = "Stiskněte <button="Interact"> později, abyste zapálili sluneční runy."
    [102]
-    1 string data = "Zale and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-xstrike"> <color="magic">X-Strike</color>!"
+    1 string data = "Zale a Seraï se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-xstrike"> <color="magic">Úder do X</color>!"
    [103]
-    1 string data = "Arcane Barrage"
+    1 string data = "Arkánová palba"
    [104]
-    1 string data = "Multiple arcane hits on a single target that also delays its turn."
+    1 string data = "Vícenásobný arkánový úder na jeden cíl, který zároveň zpozdí jeho tah."
    [105]
-    1 string data = "Press <button="Interact"> to kick potions at the target."
+    1 string data = "Stisknutím <button="Interact"> odkopněte lektvary na cíl."
    [106]
-    1 string data = "Seraï and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-arcane-barage"> <color="magic">Arcane Barrage</color>!"
+    1 string data = "Seraï a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcane-barage"> <color="magic">Arkánová palba</color>!"
    [107]
-    1 string data = "Lunar Bulwark"
+    1 string data = "Lunární val"
    [108]
-    1 string data = "Protective moons shield all allies."
+    1 string data = "Ochranné měsíce kryjí všechny spojence."
    [109]
-    1 string data = "Press late to add a moon."
+    1 string data = "Stiskněte později pro přidání měsíce."
    [110]
-    1 string data = "~ Valerie and Garl learned combo skill Lunar Bulwark!"
+    1 string data = "~ Valerie a Garl se naučili kombo dovednost Lunární val!"
    [111]
-    1 string data = "Bash Drop"
+    1 string data = "Kapkoplesk"
    [112]
-    1 string data = "Moderate Blunt damage vs one target."
+    1 string data = "Mírné tupé poškození proti jednomu cíli."
    [113]
-    1 string data = "Press <button="Interact"> as the hit connects."
+    1 string data = "Stiskněte <button="Interact">, jakmile se zásah spojí."
    [114]
-    1 string data = "Valerie and Garl learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Bash Drop</color>!"
+    1 string data = "Valerie a Garl se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Kapkoplesk</color>!"
    [115]
-    1 string data = "Ebb"
+    1 string data = "Odliv"
    [116]
-    1 string data = "Removes a random lock on the target. +1 lock if timed."
+    1 string data = "Odstraní náhodný zámek na cíli. +1 zámek za načasování."
    [117]
-    1 string data = "Venom Flask (MP +3)"
+    1 string data = "Baňka jedu (BM +3)"
    [118]
     1 string data = "Petrichor"
    [119]
-    1 string data = "Soothing mist heals the party."
+    1 string data = "Uklidňující mlha vyléčí družinu."
    [120]
-    1 string data = "Abeyance"
+    1 string data = "Pohov"
    [121]
-    1 string data = "Deals arcane damage while pulling enemies together."
+    1 string data = "Uděluje arkánní poškození a zároveň stahuje nepřátele k sobě."
    [122]
-    1 string data = "The Great Eagle"
+    1 string data = "Velký orel"
    [123]
-    1 string data = "Resh'an's ultimate attack."
+    1 string data = "Resh'anův ultimátní útok."
    [124]
-    1 string data = "Eclipse"
+    1 string data = "Zatmění"
    [125]
-    1 string data = "Moon"
+    1 string data = "Měsíc"
    [126]
-    1 string data = "Sun"
+    1 string data = "Slunce"
    [127]
-    1 string data = "SP Cost [COST]"
+    1 string data = "Stojí [COST] SP"
    [128]
-    1 string data = "AP Cost"
+    1 string data = "Cena AP"
    [129]
-    1 string data = "Great"
+    1 string data = "Skvělé"
    [130]
-    1 string data = "Perfect!"
+    1 string data = "Perfektní!"
    [131]
-    1 string data = "Sunball"
+    1 string data = "Sluneční koule"
    [132]
-    1 string data = "Solar magic projectile that splashes to nearby targets."
+    1 string data = "Sluneční magický projektil, který dopadá na blízké cíle."
    [133]
-    1 string data = "Hold <button="Interact"> for power!"
+    1 string data = "Podržte <button="Interact"> pro sílu!"
    [134]
-    1 string data = "Moonerang"
+    1 string data = "Lunarang"
    [135]
-    1 string data = "Lunar magic projectile that can bounce to multiple targets."
+    1 string data = "Měsíční magický projektil, který se může odrazit k více cílům."
    [136]
-    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valerii</color> to keep going."
+    1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne cíl<color=moon>Valerii</color>, aby pokračoval."
    [137]
-    1 string data = "Press <button="Interact"> to deflect!"
+    1 string data = "Stiskněte <button="Interact">, abyste ho odrazili!"
    [138]
-    1 string data = "Press <button="Interact"> to kick!"
+    1 string data = "Stiskněte <button="Interact">, abyste kopli!"
    [139]
-    1 string data = "Crescent Arc"
+    1 string data = "Srpový oblouk"
    [140]
-    1 string data = "Smashes enemies in an arc."
+    1 string data = "Zasáhne nepřátele v oblouku."
    [141]
-    1 string data = "Press <button="Interact"> on hit for additional damage."
+    1 string data = "Stiskněte <button="Interact"> při zásahu pro další poškození."
    [142]
-    1 string data = "Lunar Shield"
+    1 string data = "Lunární štít"
    [143]
-    1 string data = "Miniature moons each protect allies from a single hit and heal slightly."
+    1 string data = "Miniaturní měsíce, z nichž každý chrání spojence před jedním zásahem a mírně léčí."
    [144]
-    1 string data = "Press <button="Interact"> late to increase healing done."
+    1 string data = "Stiskněte <button="Interact"> později, abyste zvýšili počet provedených léčení."
    [145]
-    1 string data = "Valerie learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-valere-lunarshield"> <color="magic">Lunar Shield</color>!"
+    1 string data = "Valerie se naučila bojovou dovednost <sprite="dialog-inventory-icons" name="icn-skills-valere-lunarshield"> <color="magic">Lunární štít</color>!"
    [146]
-    1 string data = "Mending Light"
+    1 string data = "Léčivé světlo"
    [147]
-    1 string data = "Restores HP to all allies."
+    1 string data = "Obnovuje BŽ všem spojencům."
    [148]
-    1 string data = "Press <button="Interact"> near the end to boost."
+    1 string data = "Stiskněte <button="Interact"> ke konci pro posílení."
    [149]
-    1 string data = "[MAINCHAR] and [OFFCHAR] learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Mending Light</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučily kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Léčivé světlo</color>!"
    [150]
-    1 string data = "Soonrang"
+    1 string data = "Slunarang"
    [151]
-    1 string data = "Lunar and Solar magic projectile that can bounce to multiple targets."
+    1 string data = "Lunární a solární magický projektil, který se může odrazit na více cílů."
    [152]
-    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valerii</color> to keep going."
+    1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne <color=moon>Valerii</color>, aby pokračoval."
    [153]
-    1 string data = "[MAINCHAR] and [OFFCHAR] learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Soonrang</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučily kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Slunarang</color>!"
    [154]
-    1 string data = "Thunder"
+    1 string data = "Hrom"
    [155]
-    1 string data = "Heal"
+    1 string data = "Léčení"
    [156]
-    1 string data = "Summon"
+    1 string data = "Vyvolat"
    [157]
-    1 string data = "Flesh Shield"
+    1 string data = "Masový štít"
    [158]
-    1 string data = "Multishoot"
+    1 string data = "Multistřela"
    [159]
-    1 string data = "Spike Shower"
+    1 string data = "Ostrá sprcha"
    [160]
-    1 string data = "Ram"
+    1 string data = "Beran"
    [161]
     1 string data = "+AP"
    [162]
     1 string data = "AP"
    [163]
-    1 string data = "VULNERABLE!"
+    1 string data = "SENZITIVNÍ!"
    [164]
-    1 string data = "Resist"
+    1 string data = "Odolává"
    [165]
-    1 string data = "Shielded"
+    1 string data = "Ochráněn"
    [166]
     1 string data = "<button="Combat_ChangeCharacterRight">"
    [167]
     1 string data = "<button="Combat_ChangeCharacterLeft">"
    [168]
-    1 string data = "Acid Bug Bombs"
+    1 string data = "Broučí bomby s jedem"
    [169]
-    1 string data = "Tantrum"
+    1 string data = "Záchvat"
    [170]
-    1 string data = "Elder Mist's sword is feeling better"
+    1 string data = "Meč Mlžného stařešiny se cítí lépe."
    [171]
-    1 string data = "Sword Active: Counter Slash"
+    1 string data = "Meč aktivován: Protisek"
    [172]
-    1 string data = "Elder Mist's arm is feeling better."
+    1 string data = "Paže Mlžného stařešiny se cítí lépe."
    [173]
-    1 string data = "Elder Mist's sword and arm are feeling better."
+    1 string data = "Meč a paže Mlžného stařešiny se cítí lépe."
    [174]
-    1 string data = "Shuffle weakness: Sun"
+    1 string data = "Namíchaná slabina: Slunce"
    [175]
-    1 string data = "Shuffle weakness: Moon"
+    1 string data = "Namíchaná slabina: Měsíc"
    [176]
-    1 string data = "Shuffle weakness: Physical"
+    1 string data = "Namíchaná slabina: Fyzikální"
    [177]
-    1 string data = "Healing Mist"
+    1 string data = "Léčivá mlha"
    [178]
-    1 string data = "Heal"
+    1 string data = "Léčení"
    [179]
-    1 string data = "Group Heal"
+    1 string data = "Skupinové léčení"
    [180]
-    1 string data = "Energy Release"
+    1 string data = "Vypuštění energie"
    [181]
-    1 string data = "Select position"
+    1 string data = "Vyberte pozici"
    [182]
-    1 string data = "Confirm selection"
+    1 string data = "Potvrďte výběr"
    [183]
-    1 string data = "Stalagbite"
+    1 string data = "Stalagštip"
    [184]
-    1 string data = "Teal Drop"
+    1 string data = "Čirá kvapka"
    [185]
-    1 string data = "Bombs Away"
+    1 string data = "Bombardace"
    [186]
-    1 string data = "Salamanger"
+    1 string data = "Salamamok"
    [187]
-    1 string data = "Shovel Might"
+    1 string data = "Mocná lopata"
    [188]
-    1 string data = "Geobress"
+    1 string data = "Geobreze"
    [189]
-    1 string data = "Detonate"
+    1 string data = "Detonace"
    [190]
-    1 string data = "Boomsplosion"
+    1 string data = "Bumploze"
    [191]
-    1 string data = "Bubble Drop"
+    1 string data = "Bublopád"
    [192]
-    1 string data = "Shapeshift"
+    1 string data = "Tvárnění"
    [193]
-    1 string data = "Arcane singularity"
+    1 string data = "Arkánová singularita"
    [194]
-    1 string data = "Tournade"
+    1 string data = "Turnádo"
    [195]
-    1 string data = "Quillshot"
+    1 string data = "Brkostřela"
    [196]
     1 string data = "Felfire Rain"
    [197]
-    1 string data = "Necromancy"
+    1 string data = "Necromancie"
    [198]
-    1 string data = "Disorient"
+    1 string data = "Dezorientace"
    [199]
-    1 string data = "A well placed kick that delays an enemy's action."
+    1 string data = "Dobře umístěný kop, který opozdí akci nepřítele."
    [200]
-    1 string data = "Press <button="Interact"> on hit to boost damage."
+    1 string data = "Stiskněte <button="Interact"> při zásahu pro zvýšení poškození."
    [201]
-    1 string data = "Chomp Chomp"
+    1 string data = "Chrum chrum"
    [202]
-    1 string data = "Mirror Images"
+    1 string data = "Odrazy zrcadla"
    [203]
-    1 string data = "Soul Spikes"
+    1 string data = "Hroty duše"
    [204]
-    1 string data = "Pain"
+    1 string data = "Bolest"
    [205]
-    1 string data = "Spectral Scythes"
+    1 string data = "Přízračné kosy"
    [206]
-    1 string data = "Fire"
+    1 string data = "Palte"
    [207]
-    1 string data = "Bubble Drop"
+    1 string data = "Bublopád"
    [208]
-    1 string data = "Thunder"
+    1 string data = "Hrom"
    [209]
-    1 string data = "Phase Shiv"
+    1 string data = "Fázová kudla"
    [210]
-    1 string data = "Teleports to backstab the target with a venom-coated blade."
+    1 string data = "Teleportuje se a bodne cíl do zad jedem potaženou čepelí."
    [211]
-    1 string data = "Venom Flurry"
+    1 string data = "Jedová metelice"
    [212]
-    1 string data = "Venomous darts hit all enemies."
+    1 string data = "Jedovaté šipky zasáhnou všechny nepřátele."
    [213]
-    1 string data = "Press <button="Interact"> on throw to keep going!"
+    1 string data = "Stiskněte <button="Interact"> při hodu, abyste pokračovali!"
    [214]
-    1 string data = "Chain Lightning"
+    1 string data = "Řetězový blesk"
    [215]
-    1 string data = "Ruler of Tides"
+    1 string data = "Vládce přílivů a odlivů"
    [216]
-    1 string data = "Soul Rend"
+    1 string data = "Štěpení duše"
    [217]
     1 string data = "Cacstorm"
    [218]
-    1 string data = "Slurp Kiss"
+    1 string data = "Slintavý polibek"
    [219]
-    1 string data = "Tar Spikeball"
+    1 string data = "Smolná bodlina"
    [220]
-    1 string data = "V-Attack"
+    1 string data = "Útok do V"
    [221]
-    1 string data = "Todome"
+    1 string data = "Todom"
    [222]
-    1 string data = "Snowball Crash"
+    1 string data = "Koulovaná"
    [223]
-    1 string data = "Clone"
+    1 string data = "Klonování"
    [224]
-    1 string data = "Icicle"
+    1 string data = "Rampouch"
    [225]
-    1 string data = "Funguspike"
+    1 string data = "Funguhrot"
    [226]
-    1 string data = "Mirror Attack"
+    1 string data = "Zrcadlový útok"
    [227]
     1 string data = "Tackle"
    [228]
-    1 string data = "Quillshot"
+    1 string data = "Brkostřela"
    [229]
-    1 string data = "Haste"
+    1 string data = "Spěch"
    [230]
     1 string data = "Spin Tackle"
    [231]
-    1 string data = "Paincone"
+    1 string data = "Kornaut"
    [232]
-    1 string data = "Throw Leaves"
+    1 string data = "Zalistění"
    [233]
-    1 string data = "Burrow Bomb"
+    1 string data = "Zahrabaná bomba"
    [234]
-    1 string data = "Items"
+    1 string data = "Předměty"
    [235]
-    1 string data = "Combos"
+    1 string data = "Komba"
    [236]
-    1 string data = "Skills"
+    1 string data = "Dovednosti"
    [237]
-    1 string data = "Torblado"
+    1 string data = "Čepeládo"
    [238]
-    1 string data = "Pebble Arc"
+    1 string data = "Kamínkový oblouk"
    [239]
     1 string data = "Tremor"
    [240]
-    1 string data = "Hex Shield"
+    1 string data = "Hexa štít"
    [241]
     1 string data = "Power Tackle"
    [242]
-    1 string data = "Tectonics"
+    1 string data = "Tektonika"
    [243]
-    1 string data = "Bubble Drop"
+    1 string data = "Bublopád"
    [244]
-    1 string data = "Ruler of Tides"
+    1 string data = "Vládce přílivů a odlivů"
    [245]
-    1 string data = "Call Drones"
+    1 string data = "Povolání dronů"
    [246]
-    1 string data = "Taser Grip"
+    1 string data = "Taserový úchop"
    [247]
-    1 string data = "Power Shot"
+    1 string data = "Silový výstřel"
    [248]
-    1 string data = "Photon Salvo"
+    1 string data = "Fotonová salva"
    [249]
-    1 string data = "Plasma Saws"
+    1 string data = "Plazmopily"
    [250]
-    1 string data = "Heat Spin"
+    1 string data = "Horkotoč"
    [251]
-    1 string data = "Crash"
+    1 string data = "Krach"
    [252]
-    1 string data = "Eye Beam"
+    1 string data = "Oční louč"
    [253]
-    1 string data = "Split Ball"
+    1 string data = "Rozkoule"
    [254]
-    1 string data = "Mirage"
+    1 string data = "Přelud"
    [255]
-    1 string data = "Flourishing Death"
+    1 string data = "Výživná smrt"
    [256]
-    1 string data = "Pan Handling"
+    1 string data = "Pánevníctvo"
    [257]
-    1 string data = "Eclipse Laser"
+    1 string data = "Laserové zatmění"
    [258]
-    1 string data = "Soothe"
+    1 string data = "Chláchol"
    [259]
     1 string data = "Sinferno"
    [260]
-    1 string data = "Chomp"
+    1 string data = "Chrum"
    [261]
-    1 string data = "Dread Stare"
+    1 string data = "Pohled hrůzy"
    [262]
-    1 string data = "Cross Shot"
+    1 string data = "Křížová palba"
    [263]
-    1 string data = "Fan the hammer"
+    1 string data = "Kladivětrák"
    [264]
-    1 string data = "The Shot"
+    1 string data = "Výstřel"
    [265]
-    1 string data = "Spincut"
+    1 string data = "Rotařez"
    [266]
-    1 string data = "Telepounce"
+    1 string data = "Telepazour"
    [267]
-    1 string data = "YinkeYank"
+    1 string data = "YinkYank"
    [268]
-    1 string data = "L-Orb"
+    1 string data = "L-koule"
    [269]
-    1 string data = "True Terror"
+    1 string data = "Pravý teror"
    [270]
-    1 string data = "Stitch-a-Fiend"
+    1 string data = "Ohavosteh"
    [271]
-    1 string data = "Call Helpers"
+    1 string data = "Povolat pomocníky"
    [272]
-    1 string data = "Direct"
+    1 string data = "Usměrnění"
    [273]
     1 string data = "Sulsul"
    [274]
-    1 string data = "Mend Mind"
+    1 string data = "Lék na mysl"
    [275]
-    1 string data = "Get zook'd"
+    1 string data = "Zooknutí"
    [276]
-    1 string data = "Bone Cage"
+    1 string data = "Kostiklec"
    [277]
-    1 string data = "Bone Pillar"
+    1 string data = "Kostisloup"
    [278]
-    1 string data = "Roulette Punch"
+    1 string data = "Ruletová pěst"
    [279]
-    1 string data = "Searing Pyramid"
+    1 string data = "Cejch Pyramidy"
    [280]
-    1 string data = "Healing Rain"
+    1 string data = "Léčivý déšť"
    [281]
-    1 string data = "Searing Beam"
+    1 string data = "Cejch loučem"
    [282]
-    1 string data = "Moonchakus"
+    1 string data = "Lunčáky"
    [283]
-    1 string data = "Sunchakus"
+    1 string data = "Slunčáky"
    [284]
-    1 string data = "Time for friends!"
+    1 string data = "Čas na přátelé!"
    [285]
-    1 string data = "Time for a snack!"
+    1 string data = "Čas na svačinu!"
    [286]
-    1 string data = "Time for... MAYHEM!!"
+    1 string data = "Čas na... SMRŠŤ!!!"
    [287]
-    1 string data = "Telekinesis Crash"
+    1 string data = "Telekinetický náraz"
    [288]
-    1 string data = "The Pyramid"
+    1 string data = "Pyramida"
    [289]
-    1 string data = "Crystal Touch"
+    1 string data = "Krystalový dotek"
    [290]
-    1 string data = "Shatter"
+    1 string data = "Zesyp"
    [291]
-    1 string data = "Life Leech"
+    1 string data = "Vysání života"
    [292]
-    1 string data = "Tail Active: Counter Whip"
+    1 string data = "Chvost Activní: Protibič"
    [293]
-    1 string data = "Kondo Throwdown"
+    1 string data = "Kondo Shazování"
    [294]
-    1 string data = "Petarade"
+    1 string data = "Petarada"
    [295]
-    1 string data = "Throne of Flesh"
+    1 string data = "Trón z masa"
    [296]
-    1 string data = "Maw"
+    1 string data = "Bachor"
    [297]
     1 string data = "Selapeleshot sur le jelakelestrap"
    [298]
     1 string data = "Super Sclout"
    [299]
-    1 string data = "Gun Goddess' bullets are gone!"
+    1 string data = "Bohyni zbraní došla munice!"
    [300]
-    1 string data = "Sonic Pain"
+    1 string data = "Sonická bolest"
    [301]
-    1 string data = "Belly Drop"
+    1 string data = "Bříchopád"
    [302]
-    1 string data = "PWR"
+    1 string data = "Síla"
