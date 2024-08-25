@@ -353,7 +353,7 @@
    [169]
     1 string data = "Podívejme se, copak tu máme."
    [170]
-    1 string data = "Hepar : [INGREDIENT_A_COUNT], prach : [INGREDIENT_B_COUNT], cukr : [INGREDIENT_C_COUNT], hrze : [INGREDIENT_D_COUNT], plátky hrůzy : [INGREDIENT_E_COUNT]."
+    1 string data = "Hepar : [INGREDIENT_A_COUNT], prach : [INGREDIENT_B_COUNT], cukr : [INGREDIENT_C_COUNT], hrze : [INGREDIENT_D_COUNT], plátky ječiva : [INGREDIENT_E_COUNT]."
    [171]
     1 string data = "Něco mi říká, že ty množstva nejsou celkem přesne."
    [172]
@@ -367,7 +367,7 @@
    [176]
     1 string data = "Recept na Mistrovský sendvič vyžaduje dva díly heparu, čtyři díly prachu, tři díly cukru a jeden díl rzi."
    [177]
-    1 string data = "Vše mezi dvěma plátky hrůzy."
+    1 string data = "Vše mezi dvěma plátky ječiva."
    [178]
     1 string data = "Na sklenici je napsáno "Hepar". Kolik kapek si máme vzít?"
    [179]
@@ -377,7 +377,7 @@
    [181]
     1 string data = "Rezavá tyč. Kolikrát bychom ji měli oškrábat?"
    [182]
-    1 string data = ""Bochník hrůzy". Kolik plátků máme nakrájet?"
+    1 string data = ""Bochník ječiva". Kolik plátků máme nakrájet?"
    [183]
     1 string data = "Nic"
    [184]
@@ -403,7 +403,7 @@
    [194]
     1 string data = "..."
    [195]
-    1 string data = "Mezi dva plátky hrůzy, přirozeně!"
+    1 string data = "Mezi dva plátky ječiva, přirozeně!"
    [196]
     1 string data = "Jasně..."
    [197]
