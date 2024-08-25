@@ -283,7 +283,7 @@
    [134]
     1 string data = "Aaaaa hotovo! Měli bychom se jít podívat na toho ducha."
    [135]
-    1 string data = "Ještě jsme neskontrolovali všechny ingredience. Hledejme dál."
+    1 string data = "Ještě jsme nezkontrolovali všechny ingredience. Hledejme dál."
    [136]
     1 string data = "Sklep mají na starost Erlina a Brugaves. My hledáme taneční sál a zahradu."
    [137]
@@ -353,9 +353,9 @@
    [169]
     1 string data = "Podívejme se, copak tu máme."
    [170]
-    1 string data = "Hepar : [INGREDIENT_A_COUNT], prach : [INGREDIENT_B_COUNT], cukr : [INGREDIENT_C_COUNT], hrze : [INGREDIENT_D_COUNT], plátky ječiva : [INGREDIENT_E_COUNT]."
+    1 string data = "Hepar : [INGREDIENT_A_COUNT], prach : [INGREDIENT_B_COUNT], cukr : [INGREDIENT_C_COUNT], rez : [INGREDIENT_D_COUNT], plátky ječiva : [INGREDIENT_E_COUNT]."
    [171]
-    1 string data = "Něco mi říká, že ty množstva nejsou celkem přesne."
+    1 string data = "Něco mi říká, že ta množství nejsou úplně přesně."
    [172]
     1 string data = "Mám začít vařit?"
    [173]
@@ -421,11 +421,11 @@
    [203]
     1 string data = "Oooooh, to je ale dobrý sendvič! Tady máte něco extra za vaši námahu."
    [204]
-    1 string data = "Není to přesně to, v co jsem doufal, ale asi to bude stačit. Tady máte něco extra."
+    1 string data = "Není to přesně to, v co jsem doufala, ale asi to bude stačit. Tady máte něco extra."
    [205]
     1 string data = "Fuj! Dali jste tam nějakou zeleninu nebo tak něco? No, pořád je to sendvič, že ano..."
    [206]
-    1 string data = "Dohoda je dohoda. Taneční sál je přes knihovnu za mnou. Stačí korunovat krále a jsi v podstatě tam!"
+    1 string data = "Dohoda je dohoda. Taneční sál je přes knihovnu za mnou. Stačí korunovat krále a jste v podstatě tam!"
    [207]
     1 string data = "Musíme udělat sendvič. Recept je na lince, kdyby byl potřeba."
    [208]
