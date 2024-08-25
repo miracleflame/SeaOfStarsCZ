@@ -159,7 +159,7 @@
    [72]
     1 string data = "Lidi, z téhle cesty jsem fakt nadšený, teď už vím všechno o přežití!"
    [73]
-    1 string data = "Rybaření a sběr a vaření, a-"
+    1 string data = "O rybaření, o sběru, o vaření, a-"
    [74]
     1 string data = "..."
    [75]
@@ -189,7 +189,7 @@
    [87]
     1 string data = "Jo?"
    [88]
-    1 string data = "Jasně že jo! A taky jsem hodně četl!"
+    1 string data = "Jasně, že jo! A taky jsem hodně četl!"
    [89]
     1 string data = "Víte, většina nestvůr, kterým budete čelit, ani nebudou <color=bad>Fleshmancerovi přisluhovači</color>, což znamená, že s nimi může bojovat kdokoliv."
    [90]
@@ -461,7 +461,7 @@
    [223]
     1 string data = "Rytina je již zašlá, ale určitě je na ní zmíněn obřad přechodu pro <color=good>Děti Slunovratu</color>."
    [224]
-    1 string data = "Mlžný stařešino..."
+    1 string data = "Mlžný stařešina..."
    [225]
     1 string data = "Už je to lepší?"
    [226]
@@ -503,7 +503,7 @@
    [244]
     1 string data = "Způsob, jak pomoci, může být právě v nich. Dovolte."
    [245]
-    1 string data = "[MAINCHAR], já právě... bylo to vidění."
+    1 string data = "[MAINCHAR], já právě... byla to vize."
    [246]
     1 string data = "Myslím, že vím, jak vám pomoci, abyste po nich mohli jít."
    [247]
@@ -615,7 +615,7 @@
    [300]
     1 string data = "??"
    [301]
-    1 string data = "Předpokládám, že to létání byla jen záležitost okamžihu?"
+    1 string data = "Předpokládám, že to létání byla jen záležitost okamžiku?"
    [302]
     1 string data = "Jo, nevím jistě, jak se nám to povedlo..."
    [303]
