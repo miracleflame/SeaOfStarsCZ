@@ -13,7 +13,7 @@
   1 Array Array (177 items)
    0 int size = 177
    [0]
-    1 string data = "Vítej ve <color=location>Velkém archivu</color>, dobrodruhu. Předpokládám, že tě sem přivedla zvědavost."
+    1 string data = "Vítej ve <color=location>Velkých archivech</color>, dobrodruhu. Předpokládám, že tě sem přivedla zvědavost."
    [1]
     1 string data = "Důležitá vlastnost, to je jisté."
    [2]

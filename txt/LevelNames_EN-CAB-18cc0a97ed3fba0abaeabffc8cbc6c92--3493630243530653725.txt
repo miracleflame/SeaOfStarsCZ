@@ -15,248 +15,248 @@
    [0]
     1 string data = "???"
    [1]
-    1 string data = "Great Archives"
+    1 string data = "Velké archivy"
    [2]
-    1 string data = "Jungle Path"
+    1 string data = "Stezka džunglí"
    [3]
-    1 string data = "Docarri Village"
+    1 string data = "Docarrijská vesnice"
    [4]
-    1 string data = "Watcher Island"
+    1 string data = "Strážcův ostrov"
    [5]
-    1 string data = "Sleeper Island"
+    1 string data = "Spáčův ostrov"
    [6]
-    1 string data = "Amazon Temple"
+    1 string data = "Amazonský chrám"
    [7]
-    1 string data = "Jungle Ruins"
+    1 string data = "Ruiny džungle"
    [8]
-    1 string data = "Mossy Cache"
+    1 string data = "Mechová skrýš"
    [9]
-    1 string data = "Torment Peak"
+    1 string data = "Mučivý vrch"
    [10]
-    1 string data = "Sealed Entrance"
+    1 string data = "Zapečetěný vchod"
    [11]
-    1 string data = "Evermist Island"
+    1 string data = "Ostrov věčné mlhy"
    [12]
-    1 string data = "Mooncradle"
+    1 string data = "Měsíční Kolébka "
    [13]
-    1 string data = "Forbidden Cavern"
+    1 string data = "Zakázaná jeskyně"
    [14]
-    1 string data = "Sunglow Lake"
+    1 string data = "Jezero sluneční záře"
    [15]
-    1 string data = "Solstice Shrine"
+    1 string data = "Svatyně Slunovratu"
    [16]
-    1 string data = "Mountain Trail"
+    1 string data = "Horská stezka"
    [17]
-    1 string data = "Elder Mist Trials"
+    1 string data = "Zkoušky Mlžného stařešiny"
    [18]
-    1 string data = "X'tol's Landing"
+    1 string data = "X'tolův přístav"
    [19]
-    1 string data = "Moorlands"
+    1 string data = "Mokřady"
    [20]
-    1 string data = "Stonemasons Outpost"
+    1 string data = "Kamenolom"
    [21]
-    1 string data = "Wind Tunnel Mines"
+    1 string data = "Doly Větrných tunelů"
    [22]
-    1 string data = "Windy Loch"
+    1 string data = "Větrné jezero"
    [23]
-    1 string data = "Coral Cascades"
+    1 string data = "Korálové kaskády"
    [24]
-    1 string data = "Port Town of Brisk"
+    1 string data = "Přístaviště Brisk"
    [25]
-    1 string data = "Abandoned Wizard's Lab"
+    1 string data = "Opuštěná laboratoř čaroděje"
    [26]
-    1 string data = "Elevator"
+    1 string data = "Výtah"
    [27]
-    1 string data = "Wraith Island Docks"
+    1 string data = "Přístav na Ostrově přízraků"
    [28]
-    1 string data = "Town of Lucent"
+    1 string data = "Město Lucent"
    [29]
-    1 string data = "Haunted Mansion"
+    1 string data = "Strašidelné sídlo"
    [30]
-    1 string data = "Ferryman's Vigil"
+    1 string data = "Převozníkova bdělost"
    [31]
-    1 string data = "Flooded Graveyard"
+    1 string data = "Zatopený hřbitov"
    [32]
-    1 string data = "Necromancer's Lair"
+    1 string data = "Nekromantovo doupě"
    [33]
-    1 string data = "The Vespertine"
+    1 string data = "Večernice"
    [34]
-    1 string data = "Sea of Nightmare"
+    1 string data = "Moře noční můry"
    [35]
-    1 string data = "Sea of Nightmare"
+    1 string data = "Moře noční můry"
    [36]
-    1 string data = "Sea of Nightmare"
+    1 string data = "Moře noční můry"
    [37]
-    1 string data = "Maelstrom Point"
+    1 string data = "Vodní vír"
    [38]
-    1 string data = "Cursed Woods"
+    1 string data = "Prokletý les"
    [39]
-    1 string data = "Mirth"
+    1 string data = "Veselí"
    [40]
-    1 string data = "New Land"
+    1 string data = "Nová země"
    [41]
-    1 string data = "Ancient Crypt"
+    1 string data = "Starobylá krypta"
    [42]
     1 string data = "Antsudlo"
    [43]
-    1 string data = "Glacial Peak"
+    1 string data = "Ledovcový vrch"
    [44]
-    1 string data = "Mesa Hike"
+    1 string data = "Výšlap na Mesa"
    [45]
-    1 string data = "Autumn Hills"
+    1 string data = "Podzimní kopce"
    [46]
-    1 string data = "Songshroom Marsh"
+    1 string data = "Bažina zpěvných hub"
    [47]
-    1 string data = "Crone's Estate"
+    1 string data = "Babiznin pozemek"
    [48]
-    1 string data = "Clockwork Castle"
+    1 string data = "Hodinářský zámek"
    [49]
-    1 string data = "Hiker's Rest"
+    1 string data = "Odpočívadlo"
    [50]
-    1 string data = "Sky Shrine"
+    1 string data = "Nebeská svatyně"
    [51]
-    1 string data = "Cloud Kingdom"
+    1 string data = "Oblačné království"
    [52]
-    1 string data = "Underground Base"
+    1 string data = "Podzemní základna"
    [53]
-    1 string data = "Lavish Lake"
+    1 string data = "Skvostné jezero"
    [54]
-    1 string data = "Lake Docarria"
+    1 string data = "Jezero Docarria"
    [55]
-    1 string data = "Trek to the center of the world"
+    1 string data = "Putování do středu světa"
    [56]
-    1 string data = "The Sea of Stars"
+    1 string data = "Moře hvězd"
    [57]
-    1 string data = "Air Elemental Skyland"
+    1 string data = "Nebeská země vzdušného živlu"
    [58]
-    1 string data = "Skybound Lagoon"
+    1 string data = "Laguna na nebesích"
    [59]
-    1 string data = "Derelict Factory"
+    1 string data = "Zpustlá továrna"
    [60]
-    1 string data = "Repine"
+    1 string data = "Repot"
    [61]
-    1 string data = "Cerulean Reservoir"
+    1 string data = "Cerulský rezervoár"
    [62]
-    1 string data = "Cerulean Expanse"
+    1 string data = "Cerulská pustina"
    [63]
-    1 string data = "Lost Ones Hamlet"
+    1 string data = "Hamlet ztracených"
    [64]
-    1 string data = "Sky Base"
+    1 string data = "Vesmírná základna"
    [65]
-    1 string data = "Sacrosanct Spires"
+    1 string data = "Svatosvaté věže"
    [66]
-    1 string data = "Hunting Fields"
+    1 string data = "Lovecká pole"
    [67]
-    1 string data = "Sacrosanct Spires"
+    1 string data = "Svatosvaté věže"
    [68]
-    1 string data = "Infinite Abyss"
+    1 string data = "Nekonečná hlubina"
    [69]
-    1 string data = "Fleshmancer's Lair"
+    1 string data = "Fleshmancerovo doupě"
    [70]
-    1 string data = "Solstice Shrine"
+    1 string data = "Svatyně slunovratu"
    [71]
-    1 string data = "Solstice Shrine"
+    1 string data = "Svatyně slunovratu"
    [72]
-    1 string data = "Solstice Shrine"
+    1 string data = "Svatyně slunovratu"
    [73]
-    1 string data = "Solstice Shrine"
+    1 string data = "Svatyně slunovratu"
    [74]
-    1 string data = "Sunken Docarri Ruins"
+    1 string data = "Potopené Docarrijské ruiny"
    [75]
-    1 string data = "Sunken Docarri Ruins"
+    1 string data = "Potopené Docarrijské ruiny"
    [76]
-    1 string data = "Sunken Docarri Ruins"
+    1 string data = "Potopené Docarrijské ruiny"
    [77]
-    1 string data = "Sealed Docarri Ruins"
+    1 string data = "Potopené Docarrijské ruiny"
    [78]
-    1 string data = "Half-Sunken Tower"
+    1 string data = "Polopotopená věž"
    [79]
-    1 string data = "Seat of the Triumvirate"
+    1 string data = "Sídlo triumvirátu"
    [80]
-    1 string data = "Es'tristae's Lookout"
+    1 string data = "Rozhledna Es'tristae"
    [81]
-    1 string data = "Sunken Docarri Ruins"
+    1 string data = "Potopené Docarrijské ruiny"
    [82]
-    1 string data = "Sunken Docarri Ruins"
+    1 string data = "Potopené Docarrijské ruiny"
    [83]
-    1 string data = "Sunken Docarri Ruins"
+    1 string data = "Potopené Docarrijské ruiny"
    [84]
-    1 string data = "The Vespertine"
+    1 string data = "Večernice"
    [85]
-    1 string data = "Sea of Nightmare"
+    1 string data = "Moře nočních můr"
    [86]
     1 string data = "???"
    [87]
-    1 string data = "Cerulean Island"
+    1 string data = "Cerulský ostrov"
    [88]
-    1 string data = "Stillpond Island"
+    1 string data = "Ostrov nehybného rybníku"
    [89]
-    1 string data = "Fleshmancer's Lair"
+    1 string data = "Fleshmancerovo doupě"
    [90]
-    1 string data = "Infinite Abyss"
+    1 string data = "Nekonečná hlubina"
    [91]
-    1 string data = "Basalt Island"
+    1 string data = "Čedičový ostrov"
    [92]
-    1 string data = "Mesa Island"
+    1 string data = "Ostrov Mesa"
    [93]
-    1 string data = "Sacrosanct Spires"
+    1 string data = "Svatosvaté věže"
    [94]
-    1 string data = "Way to the Sea of Stars"
+    1 string data = "Cesta k Moři hvězd"
    [95]
-    1 string data = "Settlers Island"
+    1 string data = "Ostrov osadníků"
    [96]
-    1 string data = "Sky Base"
+    1 string data = "Vesmírná základna"
    [97]
-    1 string data = "Skylands"
+    1 string data = "Nebeská země"
    [98]
-    1 string data = "Solstice Shrine Island"
+    1 string data = "Ostrov svatyně lunovratu"
    [99]
-    1 string data = "Solstice Shrine Island"
+    1 string data = "Ostrov svatyně lunovratu"
    [100]
-    1 string data = "Solstice Shrine Island"
+    1 string data = "Ostrov svatyně lunovratu"
    [101]
-    1 string data = "Speedball Network Station"
+    1 string data = "Stanice Rychlodráhy"
    [102]
     1 string data = "???"
    [103]
-    1 string data = "Wraith Island"
+    1 string data = "Ostrov přízraků"
    [104]
-    1 string data = "Bamboo Creek"
+    1 string data = "Bambusová zátoka"
    [105]
-    1 string data = "Glacial Peak"
+    1 string data = "Ledovcový vrch"
    [106]
-    1 string data = "Sulfuric Basin"
+    1 string data = "Sirná kotlina"
    [107]
-    1 string data = "Kiln Mountain"
+    1 string data = "Hora Pec"
    [108]
-    1 string data = "Lake Turquoise"
+    1 string data = "Tyrkysové jezero"
    [109]
-    1 string data = "Peninsula"
+    1 string data = "Poloostrov"
    [110]
-    1 string data = "Throne of The Queen That Was"
+    1 string data = "Trůn královny, jež byla"
    [111]
-    1 string data = "Romaya's Secret Passage"
+    1 string data = "Romayin tajný průchod"
    [112]
-    1 string data = "Romaya's Secret Passage"
+    1 string data = "Romayin tajný průchod"
    [113]
-    1 string data = "Sacred Grove"
+    1 string data = "Posvátný háj"
    [114]
-    1 string data = "Settler's Rest"
+    1 string data = "Osadníkův odpočinek"
    [115]
-    1 string data = "Skyward Shrine"
+    1 string data = "Nebeská svatyně"
    [116]
-    1 string data = "Skyward Shrine Bridge"
+    1 string data = "Most Nebeské svatyně"
    [117]
-    1 string data = "Speedball Network Station"
+    1 string data = "Stanice Rychlodráhy"
    [118]
-    1 string data = "Watcher's Pond"
+    1 string data = "Strážcův rybník"
    [119]
-    1 string data = "Haunted Creek"
+    1 string data = "Strašidelná zátoka"
    [120]
-    1 string data = "Evermist Island's Landing"
+    1 string data = "Prístav Ostrova věčné mlhy"
    [121]
-    1 string data = "Home World"
+    1 string data = "Domovský svět"
    [122]
-    1 string data = "Seraï's World"
+    1 string data = "Seraïin svět"
    [123]
-    1 string data = "World Map"
+    1 string data = "Mapa světa"
