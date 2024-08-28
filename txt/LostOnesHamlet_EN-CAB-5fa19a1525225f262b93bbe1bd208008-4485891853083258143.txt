@@ -167,7 +167,7 @@
    [76]
     1 string data = "Dokážete to?"
    [77]
-    1 string data = "(Živé sklo...)"
+    1 string data = "(Živoucí sklo...)"
    [78]
     1 string data = "(Možná bych to měl zkusit ještě jednou?)"
    [79]
@@ -253,7 +253,7 @@
    [119]
     1 string data = "Ano, tohle postačí."
    [120]
-    1 string data = "Živé sklo se zhmotní pouze pro duši obdařenou neochvějným odhodláním."
+    1 string data = "Živoucí sklo se zhmotní pouze pro duši obdařenou neochvějným odhodláním."
    [121]
     1 string data = "Naposledy se tě ptám: Jsi si naprosto jistý, že o něco takového stojíš?"
    [122]
@@ -331,7 +331,7 @@
    [158]
     1 string data = "Ne, ty nejprve řekni, jakou mám barvu já!"
    [159]
-    1 string data = "Hm, takže Živé sklo?"
+    1 string data = "Hm, takže Živoucí sklo?"
    [160]
     1 string data = "No tak, jakou mám barvu?"
    [161]
@@ -345,7 +345,7 @@
    [165]
     1 string data = "Cožpak neví, že jsme tu uvězněni?"
    [166]
-    1 string data = "Já sám bych Živé sklo nechtěl, ale B'stovi jej přeji."
+    1 string data = "Já sám bych Živoucí sklo nechtěl, ale B'stovi jej přeji."
    [167]
     1 string data = "Ten, kdo na nás ty experimenty prováděl... nebyl v pořádku..."
    [168]

@@ -49,7 +49,7 @@
    [17]
     1 string data = "Jé, ahoj!"
    [18]
-    1 string data = "To je Živé sklo!"
+    1 string data = "To je Živoucí sklo!"
    [19]
     1 string data = "Ráda tě poznávám, já jsem Teaks."
    [20]
