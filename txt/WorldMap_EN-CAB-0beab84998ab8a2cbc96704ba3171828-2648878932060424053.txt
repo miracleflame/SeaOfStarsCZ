@@ -13,4 +13,4 @@
   1 Array Array (1 items)
    0 int size = 1
    [0]
-    1 string data = "Can't go back now, we have to meet <color=good>The Elder Mist</color>."
+    1 string data = "Teď se nemůžeme vrátit, musíme najít <color=good>Mlžného stařešinu</color>."
