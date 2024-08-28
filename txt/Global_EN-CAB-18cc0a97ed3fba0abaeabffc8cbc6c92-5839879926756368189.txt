@@ -47,90 +47,90 @@
    [16]
     1 string data = "[MemorialPrefix] [MemorialText][MemorialSuffix]"
    [17]
-    1 string data = "Speedball Travel Network online. Select your destination."
+    1 string data = "Rychlodráhová síť je v provozu. Vyberte cíl cesty."
    [18]
-    1 string data = "Repine"
+    1 string data = "Repot"
    [19]
     1 string data = "Es'tristae"
    [20]
-    1 string data = "Sky Base"
+    1 string data = "Vesmírná základna"
    [21]
-    1 string data = "Sea of Stars entrance"
+    1 string data = "Vstup do Moře hvězd"
    [22]
-    1 string data = "~ Something shiny"
+    1 string data = "~ Něco blískavého"
    [23]
-    1 string data = "Something social"
+    1 string data = "Něco společenského"
    [24]
-    1 string data = "Something bountiful"
+    1 string data = "Něco štědrého"
    [25]
-    1 string data = "Something transactional"
+    1 string data = "Něco transakčního"
    [26]
-    1 string data = "Something relaxing"
+    1 string data = "Něco relaxačního"
    [27]
-    1 string data = "Something shrewd"
+    1 string data = "Něco mazaného"
    [28]
-    1 string data = "Something interesting"
+    1 string data = "Něco zajímavého"
    [29]
-    1 string data = "Something useful"
+    1 string data = "Něco užitečného"
    [30]
-    1 string data = "Something potent"
+    1 string data = "Něco účinného"
    [31]
-    1 string data = "Something healthy"
+    1 string data = "Něco zdravého"
    [32]
-    1 string data = "Something meta"
+    1 string data = "Něco meta"
    [33]
-    1 string data = "Something sturdy"
+    1 string data = "Něco pevného"
    [34]
-    1 string data = "Something reliable"
+    1 string data = "Něco spolehlivého"
    [35]
-    1 string data = "Something alacritous"
+    1 string data = "Něco alakritického"
    [36]
-    1 string data = "Something flimsy"
+    1 string data = "Něco chatrného"
    [37]
-    1 string data = "Want to play some <color=magic>Wheels</color>?"
+    1 string data = "Chceš si zahrát <color=magic>Kotouče</color>?"
    [38]
-    1 string data = "Casual game"
+    1 string data = "Nenáročná hra"
    [39]
-    1 string data = "Champion game"
+    1 string data = "Hra o šampiona"
    [40]
-    1 string data = "Maybe later"
+    1 string data = "Možná později"
    [41]
-    1 string data = "We can play Champion again, but you've already beaten me so there won't be any big reward this time."
+    1 string data = "Můžeme si znovu zahrát o šampiona, ale už jsi mě porazil, takže tentokrát nebude žádná velká odměna."
    [42]
-    1 string data = "Woah, a tie!"
+    1 string data = "Fíha, remíza!"
    [43]
-    1 string data = "Hey, you won! Congratulations, here's your prize!"
+    1 string data = "Hej, výhra je tvá! Gratuluju, tady máš odměnu!"
    [44]
-    1 string data = "You won!"
+    1 string data = "Jsi vítez"
    [45]
-    1 string data = "I win!"
+    1 string data = "Jsem vítěz!"
    [46]
-    1 string data = "Oh, quitting already?"
+    1 string data = "Už se vzdáváš?"
    [47]
-    1 string data = "This is a <color=magic>Wheels</color> table! Anyone with their own Wheel and at least two figurines can play!"
+    1 string data = "Tohle je stůl na <color=magic>Kotouče</color>! Hrát může každý, kdo má vlastní Kotouče a alespoň dvě figurky!"
    [48]
-    1 string data = "Music beats everything, and nothing beats music!"
+    1 string data = "Muzika je to nejvíc a nic není víc než muzika!"
    [49]
-    1 string data = "The whistle player is the real star here."
+    1 string data = "Hráč na píšťalku je zde pravou hvězdou."
    [50]
-    1 string data = "How do you like our tunes?"
+    1 string data = "Jak se vám líbí naše písničky?"
    [51]
-    1 string data = "New music sheets, aye? Give em' here!"
+    1 string data = "Nové noty, aye? Dejte je sem!"
    [52]
-    1 string data = "Bardcore is the way to go!"
+    1 string data = "Bardcore teď válí!"
    [53]
-    1 string data = "Y'all enjoying the show?"
+    1 string data = "Líbí se vám naše show?"
    [54]
-    1 string data = "Happy to supplement yer game of Wheels with some music!"
+    1 string data = "S radostí doprovodíme vaši hru Kotoučů trochou muziky!"
    [55]
-    1 string data = "I'm feeling this, pal!"
+    1 string data = "Tohle je mazec, kamaráde!"
    [56]
-    1 string data = "Keenathan's too good at this."
+    1 string data = "Keenathan je v tomhle borec."
    [57]
-    1 string data = "Notice how I spin it?"
+    1 string data = "Všimli jste si, jak jsem to roztočil?"
    [58]
-    1 string data = "Aye, this be the one thing I love more than sailin'!"
+    1 string data = "Jo, tohle jediné miluju víc než plavbu!"
    [59]
-    1 string data = "Never felt more alive!"
+    1 string data = "Nikdy jsem se necítil víc živ!"
    [60]
-    1 string data = "Betcha we're the only band with a ghost in it."
+    1 string data = "Vsadím se, že jsme jediná kapela, která má ducha."
