@@ -43,7 +43,7 @@
    [14]
     1 string data = "Kámen nekromanta"
    [15]
-    1 string data = "Dweller bědy"
+    1 string data = "Dweller bídy"
    [16]
     1 string data = "Kataklyzma"
    [17]
@@ -59,7 +59,7 @@
    [22]
     1 string data = "Za vodopádem"
    [23]
-    1 string data = "Ledovcová túra"
+    1 string data = "Výšlap na Ledovec"
    [24]
     1 string data = "Dweller muk"
    [25]
@@ -67,7 +67,7 @@
    [26]
     1 string data = "Spící obr"
    [27]
-    1 string data = "Kopce záměrů"
+    1 string data = "Kopce záměru"
    [28]
     1 string data = "Babizna z bažin"
    [29]
@@ -91,14 +91,14 @@
    [38]
     1 string data = "Kult ptačích lidí"
    [39]
-    1 string data = "Zabít mraky"
+    1 string data = "Proti mrakům"
    [40]
     1 string data = "Zpátky v domovském světě"
    [41]
-    1 string data = "Umělec"
+    1 string data = "Artificer"
    [42]
     1 string data = "Dweller hrůzy"
    [43]
-    1 string data = "Osudová hodina"
+    1 string data = "Osudná hodina"
    [44]
     1 string data = "Vymáhání"
