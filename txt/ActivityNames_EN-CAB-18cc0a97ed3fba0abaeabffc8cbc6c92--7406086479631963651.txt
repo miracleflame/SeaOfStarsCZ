@@ -37,7 +37,7 @@
    [11]
     1 string data = "Pirátská čest"
    [12]
-    1 string data = "Cesta na Ostrov přízraků"
+    1 string data = "Výprava na Ostrov přízraků"
    [13]
     1 string data = "Kvílení Banshee"
    [14]
