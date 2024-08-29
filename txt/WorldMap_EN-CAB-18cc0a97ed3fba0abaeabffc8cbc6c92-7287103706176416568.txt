@@ -31,7 +31,7 @@
    [8]
     1 string data = "Zale. Předstup."
    [9]
-    1 string data = "(Abys dosáhl svého plného potenciálu, budeš muset nejprve <color=magic>uvidět noc, která je v tobě</color>.")"
+    1 string data = "(Abys dosáhl svého plného potenciálu, budeš muset nejprve <color=magic>pohlédnout do noci, která je v tobě</color>.")"
    [10]
     1 string data = "..."
    [11]
@@ -141,11 +141,11 @@
    [63]
     1 string data = "Použijte <button=AdvanceTime>a<button=RewindTime> na mapě světa, abyste odhalili tajnou oblast!"
    [64]
-    1 string data = "Co to je?"
+    1 string data = "Co je to?"
    [65]
     1 string data = "Nemám tušení, vypadá to jako obří hranol."
    [66]
-    1 string data = "Támleta věž lopí na dně oceánu. Tudydle neprojdem!"
+    1 string data = "Tám'leta věž lopí na dně oceánu. Tudydle neprojdem!"
    [67]
     1 string data = "Cestovat do domovského světa?"
    [68]
@@ -171,7 +171,7 @@
    [78]
     1 string data = "Pořád se plavím, pořád zametám."
    [79]
-    1 string data = "Jenom řeším něco, o co mě Yolanda požádala."
+    1 string data = "Jenom řeším něco, o co mě požádala Yolanda."
    [80]
     1 string data = "Všichni odvádíte dobrou práci. Máte mou přízeň!"
    [81]
@@ -193,7 +193,7 @@
    [89]
     1 string data = "Máme moc pěknou loď. Jen s ní musíme dobře zacházet!"
    [90]
-    1 string data = "Na Večernici se mi to líbí - vždycky se najde něco, co je potřeba opravit!"
+    1 string data = "Líbí se mi tady na Večernici - vždycky se najde něco, co je potřeba opravit!"
    [91]
     1 string data = "Loď je ve špičkové kondici!"
    [92]
@@ -201,7 +201,7 @@
    [93]
     1 string data = "Teaks je opravdu dobrá pohádkářka!"
    [94]
-    1 string data = "Vážně mám těd pocit, že plachtění je mým pravým posláním, už se nikdy nechci vrátit domů."
+    1 string data = "Vážně mám těd pocit, že plavba je mým pravým posláním, už se nikdy nechci vrátit domů."
    [95]
     1 string data = "Hortence mě začal vyučovat základy navigace. Chci se naučit víc!"
    [96]
