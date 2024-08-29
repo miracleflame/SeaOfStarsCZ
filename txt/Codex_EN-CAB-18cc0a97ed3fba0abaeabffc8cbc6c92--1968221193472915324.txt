@@ -13,170 +13,170 @@
   1 Array Array (84 items)
    0 int size = 84
    [0]
-    1 string data = "General"
+    1 string data = "Obecné"
    [1]
-    1 string data = "Combat initiates when your party leader collides with an enemy or one of their projectiles. It is <color=menuhighlight>turn-based</color> with <color=menuhighlight>no time bars</color>, letting you strategize and execute at your own pace."
+    1 string data = "Boj se spustí, když se vůdce vaší družiny srazí s nepřítelem nebo s jeho projektilem. Probíhá <color=menuhighlight>tahovo</color> bez <color=menuhighlight>časového omezení</color>, což vám umožňuje taktizovat a provádět akce svým vlastním tempem."
    [2]
-    1 string data = "Timing Hits"
+    1 string data = "Časování zásahů"
    [3]
-    1 string data = "Your attacks and skills can be enhanced by <color=menuhighlight>pressing <button="Interact"> at the right time</color> to increase damage, healing, or score additional hits. Timing your hits is <color=menuhighlight>not mandatory</color>, just think of it as a bonus to shoot for!"
+    1 string data = "Své útoky a dovednosti můžete vylepšit <color=menuhighlight>stisknutím <button="Interact"> ve správný čas</color> a zvýšit tak poškození, léčení nebo uštědřit další zásahy. Načasování zásahů není <color=menuhighlight>povinné</color>, berte to jen jako bonus, o který se můžete pokusit!"
    [4]
-    1 string data = "Timing Blocks"
+    1 string data = "Časování bloků"
    [5]
-    1 string data = "Enemy attacks and skills can be mitigated by <color=menuhighlight>pressing <button="Interact"> at the right time</color> to reduce their damage. Timing your blocks is <color=menuhighlight>not mandatory</color>, just think of it as a bonus to shoot for!"
+    1 string data = "Nepřátelské útoky a dovednosti lze zmírnit <color=menuhighlight>stisknutím <button="Interact"> ve správný čas</color>, čímž se sníží jejich poškození. Načasování bloků není <color=menuhighlight>povinné</color>, berte to jen jako bonus, o který se můžete pokusit!"
    [6]
-    1 string data = "Skills"
+    1 string data = "Dovednosti"
    [7]
-    1 string data = "Skills are special actions that cost <color=menuhighlight>MP</color>. From multi-target attacks to healing spells, they offer different ways of approaching combat and dealing <color=menuhighlight>magic damage of specific types</color>. Can be enhanced as <color=menuhighlight>timed hits</color>."
+    1 string data = "Dovednosti jsou speciální akce, které stojí <color=menuhighlight>BM</color>. Nabízejí různé způsoby, jak přistupovat k boji a způsobovat <color=menuhighlight>magické poškození určitého typu</color>, od útoků na více cílů až po léčivá kouzla. Mohou být vylepšeny <color=menuhighlight>časovanými zásahy</color>."
    [8]
-    1 string data = "MP Regeneration"
+    1 string data = "Regenerace BM"
    [9]
-    1 string data = "Regular attacks <color=menuhighlight>recover 3MP</color>. You should not hesitate to use special skills even when you are not fighting a boss, for attacking with a full MP bar is a waste of <color=menuhighlight>regeneration</color>."
+    1 string data = "Běžné útoky <color=menuhighlight>obnovují 3 BM</color>. Neměli byste se zdráhat používat speciální dovednosti, i když nebojujete s bossem, protože útočit s plným proužkem BM je plýtvání <color=menuhighlight>regenerací</color>."
    [10]
-    1 string data = "Items"
+    1 string data = "Předměty"
    [11]
-    1 string data = "Items (carry limit 10) are snacks <color=menuhighlight>cooked while camping</color> or <color=menuhighlight>bought at shops</color>. Whether you need to recover some <color=menuhighlight>HP</color> but can't afford a spell, or need <color=menuhighlight>MP</color> but don't have time to attack for regen, it might be time for a snack!"
+    1 string data = "Předměty (limit nosnosti 10) jsou svačiny <color=menuhighlight>připravené při kempování</color> nebo <color=menuhighlight>zakoupené v obchodech</color>. Možná je čas na svačinu, ať už potřebujete obnovit trochu<color=menuhighlight>BŽ</color>, no nemůžete si dovolit kouzlo, nebo potřebujete <color=menuhighlight>BM</color>, ale nemáte čas zaútočit s regenerací!"
    [12]
-    1 string data = "Boosting with Live Mana"
+    1 string data = "Posílení pomocí Živé many"
    [13]
-    1 string data = "Regular attacks generate <color=menuhighlight>Live Mana</color> charges. Hold <button="Combat_Boost"> and press <button="Interact"> to <color=menuhighlight>absorb</color> Live Mana and <color=menuhighlight>Boost</color> your next battle action with a portion of your <color=menuhighlight>Magic Attack</color>."
+    1 string data = "Běžné útoky generují <color=menuhighlight>Částečky živé many</color>. Podržte <button="Combat_Boost"> a stiskněte <button="Interact">, abyste <color=menuhighlight>absorbovali</color> Živou manu a <color=menuhighlight>obohatili</color> svou další bojovou akci o typ svého <color=menuhighlight>magického útoku</color>."
    [14]
-    1 string data = "Breaking Locks"
+    1 string data = "Lámání Zámků"
    [15]
-    1 string data = "Enemies mounting special attacks will display a bar with <color=menuhighlight>locks</color>. Deal <color=menuhighlight>damage of the relevant types</color> to break these locks and weaken the enemy's action, or <color=menuhighlight>cancel</color> it altogether by breaking all locks."
+    1 string data = "Nad nepřáteli, kteří připravují speciální útoky, se zobrazí pruh se <color=menuhighlight>Zámky</color>. Uštědřete <color=menuhighlight>poškození příslušného typu</color>, abyste tyto Zámky prolomili a oslabili nepřátelskou akci, nebo ji <color=menuhighlight>zrušili</color> úplně tím, že prolomíte všechny Zámky."
    [16]
-    1 string data = "Combos"
+    1 string data = "Komba"
    [17]
-    1 string data = "Combos are <color=menuhighlight>powerful dual attacks</color> that can only be executed by spending <color=menuhighlight>Combo Points</color>. While most battle actions build Combo Points, <color=menuhighlight>breaking locks</color> is by far the most efficient."
+    1 string data = "Komba jsou <color=menuhighlight>silné dvojútoky</color>, které lze provést pouze vynaložením <color=menuhighlight>kombo bodů</color>. Většina bojových akcí sice vytváří kombo body, ale <color=menuhighlight>rozbití Zámků</color> je zdaleka nejefektivnější."
    [18]
-    1 string data = "Vulnerabilities and Resists"
+    1 string data = "Senzitivnost a Odolnost"
    [19]
-    1 string data = "Some enemies are <color=menuhighlight>vulnerable</color> to certain damage types, while others have <color=menuhighlight>resistances</color> to others. There are a total of 6 damage types, though only 4 appear in the early game: <color=menuhighlight>Blunt</color>, <color=menuhighlight>Sword</color>, <color=menuhighlight>Moon</color> and <color=menuhighlight>Sun</color>."
+    1 string data = "Někteří nepřátelé jsou <color=menuhighlight>Senzitivní</color> vůči určitým typům poškození, zatímco jiní mají <color=menuhighlight>Odolnost</color> vůči jiným. Existuje celkem 6 typů poškození, ačkoli na začátku hry se objevují pouze 4: <color=menuhighlight>Tupé</color>, <color=menuhighlight>Ostré</color>, <color=menuhighlight>Měsíční</color> a <color=menuhighlight>Sluneční</color>".
    [20]
-    1 string data = "Swapping Characters"
+    1 string data = "Přepínaní postav"
    [21]
-    1 string data = "After taking action, your characters are on cooldown until your whole party has acted. While available, they can act in the <color=menuhighlight>order of your choice</color>. Use <button="Left"> / <button="Right"> to cycle through <color=menuhighlight>available characters</color>."
+    1 string data = "Po provedení akce jsou vaše postavy v cooldownu, dokud celá vaše družina neprovede akci. Dokud jsou k dispozici, mohou jednat v <color=menuhighlight>pořadí, které si zvolíte</color>. Pomocí <button="Left"> / <button="Right"> můžete přepínat mezi <color=menuhighlight>dostupnými postavami</color>."
    [22]
-    1 string data = "Save Points"
+    1 string data = "Místo k uložení"
    [23]
-    1 string data = "Save Points are represented as a <color=menuhighlight>big tome on a pedestal</color>, and can be found throughout the game. <color=menuhighlight>Campsites</color> always have a Save Point."
+    1 string data = "Místa k uložení jsou znázorněna jako <color=menuhighlight>velká kniha podstavci</color> a lze je nalézt v celé hře. <color=menuhighlight>Tábořiště</color> mají vždy jedno Místo k uložení."
    [24]
-    1 string data = "Shops"
+    1 string data = "Obchody"
    [25]
-    1 string data = "Mostly located in villages, <color=menuhighlight>merchants sell</color> equipment, cooking ingredients and snacks. They can also <color=menuhighlight>buy</color> any valuables you found or items you want to part with."
+    1 string data = "Většinou ve vesnicích, <color=menuhighlight>obchodníci prodávají</color> vybavení, suroviny na kuchtění a svačiny. Mohou také <color=menuhighlight>odkoupit</color> jakékoli cennosti, které jste našli, nebo předměty, s nimiž se chcete rozloučit."
    [26]
-    1 string data = "Camping"
+    1 string data = "Kempování"
    [27]
-    1 string data = "Camping is a free action that lets you <color=menuhighlight>cook</color> items for later, and <color=menuhighlight>rest</color> to fully heal your party. It is available at <color=menuhighlight>campfire sites</color> in different areas, and through the <color=menuhighlight>game menu while out on the World Map</color>."
+    1 string data = "Kempování je volně dostupná akce, která vám umožní <color=menuhighlight>ukuchtit si</color> svačinu na později a <color=menuhighlight>odpočívat</color>, abyste plně uzdravili svou družinu. Lze ji provést na <color=menuhighlight>ohništi</color> v různých oblastech a prostřednictvím <color=menuhighlight>herní nabídky při pobytu na mapě světa</color>."
    [28]
-    1 string data = "Cooking"
+    1 string data = "Kuchtění"
    [29]
-    1 string data = "You can <color=menuhighlight>cook</color> (carry limit 10) by interacting with a <color=menuhighlight>campfire</color>. Hold <button="Interact"> to prepare the snack of your choice for later. Provided you have the required <color=menuhighlight>ingredients</color>, of course!"
+    1 string data = "<color=menuhighlight>Kuchtit</color> (limit nosnosti 10) můžete interakcí s <color=menuhighlight>ohništěm</color>. Podržením <button="Interakce"> si připravíte svačiny na později dle vlastního výběru. Samozřejmě za předpokladu, že máte potřebné <color=menuhighlight>suroviny</color>!".
    [30]
-    1 string data = "Fishing"
+    1 string data = "Rybaření"
    [31]
-    1 string data = "To start fishing, press <button="Interact"> at the edge of the <color=menuhighlight>dock</color> near a <color=menuhighlight>fishing lake</color>. Most Fishing Lakes are directly on the <color=menuhighlight>World Map</color>."
+    1 string data = "Chcete-li začít rybařit, stiskněte <button="Interact"> na okraji <color=menuhighlight>mola</color> poblíž <color=menuhighlight>rybníku</color>. Většina rybníků se nachází přímo na <color=menuhighlight>Mapě světa</color>."
    [32]
-    1 string data = "Fishing - Line Casting"
+    1 string data = "Rybaření - nahazování"
    [33]
-    1 string data = "Press <button="Interact"> to <color=menuhighlight>cast</color>. Casting is always at full power. While airborne, <color=menuhighlight>steer</color> the bobber with <button="MoveHorizontal"> and press <button="Interact"> to <color=menuhighlight>kick</color> it into the water."
+    1 string data = "Stiskněte <button="Interact"> abyste <color=menuhighlight>nahodili</color>. Nahazování probíhá vždy na plný výkon. Během letu <color=menuhighlight>usměrněte</color> plovák pomocí <button="MoveHorizontal"> a stisknutím <button="Interact"> jej <color=menuhighlight>strhnete</color> do vody."
    [34]
-    1 string data = "Fishing - Hook & Reel"
+    1 string data = "Rybaření - záběr a navíjení"
    [35]
-    1 string data = "If the bobber touches water close to a fish, it's a <color=menuhighlight>hook</color>! While hooked, <color=menuhighlight>steer</color> the fish with <button="MoveHorizontal"> and press and hold <button="Interact"> to <color=menuhighlight>reel while it is in the zone</color>."
+    1 string data = "Pokud se plovák nachází v blízkosti ryby, ta <color=menuhighlight>zabere</color>! Když ryba bere, <color=menuhighlight>řidíte</color> ji do stran pomocí <button="MoveHorizontal"> a stisknutím a podržením <button="Interact"> ji <color=menuhighlight>navíjíte, dokud je v zóně</color>."
    [36]
-    1 string data = "Fishing - Reel & Catch"
+    1 string data = "Rybaření - Navinutí a úlovek"
    [37]
-    1 string data = "Be careful not to reel outside of the zone, otherwise the line will <color=bad>break</color>. Reel the fish all the way to the dock and it's a <color=menuhighlight>catch</color>!"
+    1 string data = "Dávejte pozor, abyste nenavíjeli mimo zónu, jinak se vlasec <color=špatná>přetrhne</color>. Navíjejte rybu až k molu, kde jí <color=menuhighlight>ulovíte</color>!"
    [38]
-    1 string data = "Non-combat Healing"
+    1 string data = "Léčení mimo boj"
    [39]
-    1 string data = "If you need to heal outside of combat and there are no campsites nearby, you can access your magic <color=menuhighlight>skills</color> through the game menu, or eat a <color=menuhighlight>snack</color> from your inventory."
+    1 string data = "Pokud se potřebujete léčit mimo boj a v okolí není žádné tábořiště, můžete se přes herní menu dostat ke svým magickým <color=menuhighlight>dovednostem</color> nebo sníst <color=menuhighlight>svačinu</color> z batohu."
    [40]
-    1 string data = "Relics"
+    1 string data = "Relikvie"
    [41]
-    1 string data = "The relic menu offers ways to <color=menuhighlight>customize the experience</color>. If you prefer lighter combat, it might be a good idea to activate the <color=magic>Amulet of Storytelling</color> relic, for example."
+    1 string data = "Nabídka relikvií nabízí způsoby, jak si <color=menuhighlight>přizpůsobit zážitek</color>. Pokud dáváte přednost lehčímu boji, možná by bylo dobré aktivovat například relikvii <color=magic>Amulet vyprávění</color>."
    [42]
-    1 string data = "Movement"
+    1 string data = "Pohyb"
    [43]
-    1 string data = "Use <button="MoveAll"> to <color=menuhighlight>run</color> around."
+    1 string data = "Použijte <button="MoveAll"> k <color=menuhighlight>běhání</color>."
    [44]
-    1 string data = "Climbing"
+    1 string data = "Šplhání"
    [45]
-    1 string data = "While facing a <color=menuhighlight>climbable surface</color>, press <button="Interact"> to <color=menuhighlight>snap on</color>, then <button="MoveVertical"> to climb away."
+    1 string data = "Když stojíte čelem k <color=menuhighlight>šplhatelnému povrchu</color>, stiskněte <button="Interact"> abyste se <color=menuhighlight>přichytili</color>, poté <button="MoveVertical"> abyste se z něj pustili."
    [46]
-    1 string data = "Hoisting"
+    1 string data = "Zvedání sa"
    [47]
-    1 string data = "While facing a <color=menuhighlight>ledge</color> of one, two or three units above you, press <button="Interact"> to <color=menuhighlight>hoist</color> up onto it."
+    1 string data = "Když stojíte čelem k <color=menuhighlight>římse</color> zhruba půl metra nad hlavou, stiskněte <button="Interact">, abyste se na ní <color=menuhighlight>vyzvedli</color>."
    [48]
-    1 string data = "Jumping Off Ledges"
+    1 string data = "Skákání z římsy"
    [49]
-    1 string data = "While facing a <color=menuhighlight>ledge</color> leading to a <color=menuhighlight>clear ground surface</color> below, press <button="Interact"> to <color=menuhighlight>jump</color> down."
+    1 string data = "Zatímco stojíte čelem k <color=menuhighlight>římse</color> ce vede <color=menuhighlight>o úroveň níž</color> pod vámi, stiskněte <button="Interact"> abyste <color=menuhighlight>seskočili</color> dolů."
    [50]
-    1 string data = "Swimming"
+    1 string data = "Plavání"
    [51]
-    1 string data = "Use <button="MoveAll"> to enter and exit <color=menuhighlight>bodies of water</color> and <color=menuhighlight>swim</color> around."
+    1 string data = "Pomocí <button="MoveAll"> vstupujte/vystupujte z/do <color=menuhighlight>vodních ploch</color> a <color=menuhighlight>plavte</color> kolem."
    [52]
-    1 string data = "Mistral Bracelet"
+    1 string data = "Náramek Mistral"
    [53]
-    1 string data = "Press <button="WindBracelet"> to shoot bursts of wind that can <color=menuhighlight>push blocks</color>."
+    1 string data = "Stisknutím <button="WindBracelet"> vrháte nápory větru, které mohou <color=menuhighlight>odstrčit bloky</color>."
    [54]
-    1 string data = "Overview"
+    1 string data = "Přehled"
    [55]
-    1 string data = "Wheels is a <color=menuhighlight>clockwork battler</color> where each player controls two <color=menuhighlight>Heroes</color>. Match <color=menuhighlight>Energy</color> to make your Heroes attack and bring the enemy <color=menuhighlight>Crown</color>'s HP to zero!"
+    1 string data = "Kotouče jsou <color=menuhighlight>mechanická desková hra</color>, ve které každý hráč ovládá dva <color=menuhighlight>Hrdiny</color>. Sbírejte <color=menuhighlight>Energii</color> aby vaši hrdinové konali a snížili BŽ nepřátelské <color=menuhighlight>Koruny</color> na nulu!"
    [56]
-    1 string data = "Table & Player Wheel"
+    1 string data = "Stůl a hráčovy kotouče"
    [57]
-    1 string data = "The table has a set of four <color=menuhighlight>default Wheels</color> on either side, completed by each players' <color=menuhighlight>Player Wheel</color>. Each side also displays its respective players' HP (Crown) and Heroes (figurines)."
+    1 string data = "Stůl má na protějších stranách sadu čtyř <color=menuhighlight>přednastavených kotoučů</color>, které doplňují <color=menuhighlight>hráčovy kotouče</color>. Na každé straně jsou také zobrazeny BŽ (Koruny) a hrdinové (figurky)."
    [58]
-    1 string data = "Spinning the Wheels"
+    1 string data = "Roztáčení kotoučů"
    [59]
-    1 string data = "Players get up to three <color=menuhighlight>spins</color> per round. Spin with <button="AdvanceTime">. Wheels can be <color=menuhighlight>browsed</color> with <button="MoveHorizontal"> and <color=menuhighlight>locked</color>/<color=menuhighlight>unlocked</color> with <button="Interact"> in between spins."
+    1 string data = "Hráči <color=menuhighlight>roztáčí</color> kotouče třikrát za kolo. Roztočte kotouče pomocí <button="AdvanceTime">. Kotouče lze <color=menuhighlight>procházet</color> pomocí <button="MoveHorizontal"> a <color=menuhighlight>zamykat</color>/<color=menuhighlight>odemykat</color> pomocí <button="Interact"> mezi jednotlivými roztáčkami."
    [60]
-    1 string data = "Energy"
+    1 string data = "Energie"
    [61]
-    1 string data = "For a Hero to <color=menuhighlight>act</color>, its action rod must be lowered by matching the associated Energy. <color=menuhighlight>Square</color> Energy is for the <color=menuhighlight>left Hero</color>, while <color=menuhighlight>Diamond</color> is for the <color=menuhighlight>right Hero</color>. Energy is matched in "3oak+" fashion (3=1, 4=2, 5=3, 6=4, and so on)."
+    1 string data = "Aby mohl hrdina <color=menuhighlight>konat</color>, musí jeho akční tyč klesnout sbíráním odpovídajíci Energie. <color=menuhighlight>Čtvercová</color> Energie je pro <color=menuhighlight>levého hrdinu</color>, zatímco <color=menuhighlight>Piková</color> je pro <color=menuhighlight>pravého hrdinu</color>. Energie se přiřazuje použe pro trojice a víc (3=1 pokles, 4=2 poklesy, 5=3 poklesy, 6=4 atd.)."
    [62]
-    1 string data = "Bulwark"
+    1 string data = "Hradba"
    [63]
-    1 string data = "The <color=menuhighlight>Bulwark</color> protects the Crown. It can be <color=menuhighlight>raised</color> to resist up to <color=menuhighlight>5</color> points of damage, and is raised by <color=menuhighlight>matching hammers</color> in "3oak+" fashion (3=1, 4=2, 5=3, 6=4, and so on)."
+    1 string data = "<color=menuhighlight>Hradba</color> chrání Korunu. Může být <color=menuhighlight>zvednuta</color> na takou úroveň, aby odolala až <color=menuhighlight>pěti</color> bodům poškození, a zvedá se pomocí <color=menuhighlight>odpovídajících kladiv</color> způsobem trojice a víc (3=1 zvednutí, 4=2 zvednutí, 5=3 zvednutí, 6=4 atd.)."
    [64]
-    1 string data = "Evolving Heroes"
+    1 string data = "Vývoj hrdinů"
    [65]
-    1 string data = "Heroes <color=menuhighlight>evolve</color> when they have enough XP. Heroes gain 1XP for each tile with a <color=menuhighlight>blue background</color> matching their Energy type (1=1, no 3oak rule), and gain 2XP whenever they <color=menuhighlight>act</color>. Heroes always start off at the <color=menuhighlight>Bronze</color> tier and can each evolve to <color=menuhighlight>Silver</color> and <color=menuhighlight>Gold</color>."
+    1 string data = "Hrdinové <color=menuhighlight>se vyvíjejí</color>, když mají dostatek XP. Hrdinové získávají 1XP za každou destičku s <color=menuhighlight>modrým pozadím</color> odpovídajícím jejich typu energie (1=1, bez pravidla trojic) a získávají 2XP, kdykoli <color=menuhighlight>konají</color>. Hrdinové vždy začínají na <color=menuhighlight>Bronzové</color> úrovni a každý z nich se může vyvinout na <color=menuhighlight>Stříbrnou</color> a <color=menuhighlight>Zlatou</color>."
    [66]
-    1 string data = "Bombs"
+    1 string data = "Bomby"
    [67]
-    1 string data = "Filling the XP bar on a Gold Hero will spawn a <color=menuhighlight>Bomb</color> dealing <color=menuhighlight>2</color> damage directly to the opponent's Crown, disregarding their Bulwark."
+    1 string data = "Naplnění XP lišty na zlatém hrdinovi vyvolá <color=menuhighlight>Bombu</color>, která způsobí <color=menuhighlight>2</color> poškození přímo na Koruně soupeře a nebere ohled na jeho hradbu."
    [68]
-    1 string data = "Heroes"
+    1 string data = "Hrdinové"
    [69]
-    1 string data = "Each Hero has its own <color=menuhighlight>strengths</color> and <color=menuhighlight>weaknesses</color>. There is a total of <color=menuhighlight>six</color> playable Heroes: Warrior, Mage, Archer, Engineer, Assassin, and Priest."
+    1 string data = "Každý hrdina má své <color=menuhighlight>silné stránky</color> a <color=menuhighlight>slabé stránky</color>. Hratelných hrdinů je celkem <color=menuhighlight>šest</color>: Válečník, Mág, Lučištník, Inženýr, Asasín a Kněz."
    [70]
-    1 string data = "Warrior"
+    1 string data = "Válečník"
    [71]
-    1 string data = "A steady and moderately fast damage dealer. Since damage doesn't carry over, this one is easily blocked by the Bulwark."
+    1 string data = "Stabilní a středně rychlý rozdavač poškození. Jelikož se poškození nepřenáší ponad Hradbu, je tento útok snadno blokován."
    [72]
-    1 string data = "Mage"
+    1 string data = "Mág"
    [73]
-    1 string data = "Attacks twice. The first fireball is at the ground level and easily blocked by the Bulwark, while the second fireball flies at a height of 6 units, guaranteeing a hit on the Crown even if the Bulwark is maxed out."
+    1 string data = "Útočí dvakrát. První ohnivá koule je na úrovni země a snadno ji blokuje Hradba, zatímco druhá ohnivá koule letí ve výšce, což zaručuje zásah Koruny, i když je Hradba na nejvyšší úrovni."
    [74]
-    1 string data = "Archer"
+    1 string data = "Lučištník"
    [75]
-    1 string data = "Strong against Crown (<sprite="dialog-generic-icons" name="wheels-main-damage">), weak against Bulwark (<sprite="dialog-generic-icons" name="wheels-wall-damage">). The arrow flies at a height of 3 units, hitting the Crown when the Bulwark is at 2 or less."
+    1 string data = "Silný proti Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">), slabý proti Hradbě (<sprite="dialog-generic-icons" name="wheels-wall-damage">). Šíp letí ve výšce 3 jednotek a zasáhne Korunu, jen když je Hradba ve výšce 2 nebo méně."
    [76]
-    1 string data = "Engineer"
+    1 string data = "Inženýr"
    [77]
-    1 string data = "Strong against Bulwark (<sprite="dialog-generic-icons" name="wheels-wall-damage">), weak against Crown (<sprite="dialog-generic-icons" name="wheels-main-damage">). As a bonus, the engineer raises its team's Bulwark by 2 units whenever it acts."
+    1 string data = "Silný proti Hradbě (<sprite="dialog-generic-icons" name="wheels-wall-damage">), slabý proti Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">). Jako bonus inženýr zvýší ochranný val svého týmu o 2 jednotky, kdykoli koná."
    [78]
-    1 string data = "Assassin"
+    1 string data = "Asasín"
    [79]
-    1 string data = "Specialist Hero. Attacks delay the opponent's Hero (<sprite="dialog-generic-icons" name="wheels-energy-damage">) with the least amount of energy left before acting. Also deals low damage to the Crown (<sprite="dialog-generic-icons" name="wheels-main-damage">) directly, disregarding Bulwark."
+    1 string data = "Hrdina specialista. Útočí se zpožděním na soupeřova hrdinu (<sprite="dialog-generic-icons" name="kola-energie-poškození">), kterému ke konání zbývá nejméně energie. Rovněž způsobuje nízké poškození přímo Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">), přičemž nebere ohled na Hradbu."
    [80]
-    1 string data = "Priest"
+    1 string data = "Kněz"
    [81]
-    1 string data = "Support Hero. Heals its team's Crown (<sprite="dialog-generic-icons" name="wheels-healing">), and gives energy to its fellow Hero (<sprite="dialog-generic-icons" name="wheels-energy">)."
+    1 string data = "Podpůrný hrdina. Léčí korunu svého týmu (<sprite="dialog-generic-icons" name="wheels-healing">) a dodává energii svému spolubojovníkovi (<sprite="dialog-generic-icons" name="wheels-energy">)."
    [82]
-    1 string data = "Champions and progression"
+    1 string data = "Šampioni a postup"
    [83]
-    1 string data = "The Wheels journey begins with a Bronze Wheel and only the Warrior and Mage as playable Heroes. Rumors say that those who <color=menuhighlight>unlock</color> all <color=menuhighlight>six Heroes</color> and the <color=menuhighlight>Platinum Wheel</color> may challenge The Watchmaker herself!"
+    1 string data = "Cesta Kotoučů začíná s Bronzovým kotoučem a pouze s Válečníkem a Mágem jako hratelnými Hrdiny. Povídá se, že ti, kteří <color=menuhighlight>odemknou</color> všech <color=menuhighlight>šest Hrdinů</color> a <color=menuhighlight>Platinový kotouč</color>, mohou vyzvat samotného Hodináře!"

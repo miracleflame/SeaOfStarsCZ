@@ -197,7 +197,7 @@
    [91]
     1 string data = "Řetězový úder"
    [92]
-    1 string data = "Poškození mečem a sluncem, které zasáhne všechny nepřátele."
+    1 string data = "Ostré a sluneční poškození, které zasáhne všechny nepřátele."
    [93]
     1 string data = "Stiskněte <button="Interact"> později, abyste zapálili sluneční runy."
    [94]
@@ -213,7 +213,7 @@
    [99]
     1 string data = "Zásah do X"
    [100]
-    1 string data = "Poškození mečem, sluncem a jedem, které zasáhne všechny nepřátele."
+    1 string data = "Ostré, sluneční a jedovaté poškození, které zasáhne všechny nepřátele."
    [101]
     1 string data = "Stiskněte <button="Interact"> později, abyste zapálili sluneční runy."
    [102]
@@ -315,7 +315,7 @@
    [150]
     1 string data = "Slunarang"
    [151]
-    1 string data = "Lunární a solární magický projektil, který se může odrazit na více cílů."
+    1 string data = "Mesíčný a slunečný magický projektil, který se může odrazit na více cílů."
    [152]
     1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne <color=moon>Valerii</color>, aby pokračoval."
    [153]
