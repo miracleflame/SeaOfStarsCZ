@@ -17,7 +17,7 @@
    [1]
     1 string data = "[RewardText]"
    [2]
-    1 string data = "You can't carry anymore meals."
+    1 string data = "Víc svačin neuneseme."
    [3]
     1 string data = "Hey there, looks like this is your first time booting the demo."
    [4]
@@ -95,41 +95,41 @@
    [40]
     1 string data = "Možná později"
    [41]
-    1 string data = "Můžeme si znovu zahrát o šampiona, ale už jsi mě porazil, takže tentokrát nebude žádná velká odměna."
+    1 string data = "Můžeme si znovu zahrát o šampiona, ale už jste mě porazili, takže tentokrát nebude žádná velká odměna."
    [42]
     1 string data = "Fíha, remíza!"
    [43]
-    1 string data = "Hej, výhra je tvá! Gratuluju, tady máš odměnu!"
+    1 string data = "Hej, výhra je vaše! Gratuluju, tady máte odměnu!"
    [44]
-    1 string data = "Jsi vítez"
+    1 string data = "Zvítězili jste!"
    [45]
-    1 string data = "Jsem vítěz!"
+    1 string data = "Zvítězil jsem!"
    [46]
-    1 string data = "Už se vzdáváš?"
+    1 string data = "Už se vzdáváte?"
    [47]
     1 string data = "Tohle je stůl na <color=magic>Kotouče</color>! Hrát může každý, kdo má vlastní Kotouče a alespoň dvě figurky!"
    [48]
-    1 string data = "Muzika je to nejvíc a nic není víc než muzika!"
+    1 string data = "Muzika je to nejvíc a nic než muzika není víc!"
    [49]
-    1 string data = "Hráč na píšťalku je zde pravou hvězdou."
+    1 string data = "Ten, co hrá na píšťalku, je zde pravou hvězdou."
    [50]
     1 string data = "Jak se vám líbí naše písničky?"
    [51]
     1 string data = "Nové noty, aye? Dejte je sem!"
    [52]
-    1 string data = "Bardcore teď válí!"
+    1 string data = "Bardcore teď frčí!"
    [53]
     1 string data = "Líbí se vám naše show?"
    [54]
     1 string data = "S radostí doprovodíme vaši hru Kotoučů trochou muziky!"
    [55]
-    1 string data = "Tohle je mazec, kamaráde!"
+    1 string data = "Tohle je mazec, kamarádi!"
    [56]
     1 string data = "Keenathan je v tomhle borec."
    [57]
     1 string data = "Všimli jste si, jak jsem to roztočil?"
    [58]
-    1 string data = "Jo, tohle jediné miluju víc než plavbu!"
+    1 string data = "Aye, tohle jediné miluju víc než plavbu!"
    [59]
     1 string data = "Nikdy jsem se necítil víc živ!"
    [60]
