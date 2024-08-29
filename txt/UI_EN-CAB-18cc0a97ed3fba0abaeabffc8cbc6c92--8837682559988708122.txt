@@ -169,7 +169,7 @@
    [77]
     1 string data = "<button="UI_TertiaryAction"> Recept / Detaily"
    [78]
-    1 string data = "<button="UI_Confirm"> Použi"
+    1 string data = "<button="UI_Confirm"> Použít"
    [79]
     1 string data = "<button="MoveHorizontal"> Dovednosti"
    [80]
@@ -219,7 +219,7 @@
    [102]
     1 string data = "Hlasitost Mluvení"
    [103]
-    1 string data = "Upravte hlasitost pomocí <button="UI_Left"> a <button="UI_Right">"
+    1 string data = "Upravit hlasitost pomocí <button="UI_Left"> a <button="UI_Right">"
    [104]
     1 string data = "Jas"
    [105]
@@ -527,7 +527,7 @@
    [256]
     1 string data = "Recepty"
    [257]
-    1 string data = "Ingredience"
+    1 string data = "Suroviny"
    [258]
     1 string data = "Název předmětu"
    [259]
@@ -535,7 +535,7 @@
    [260]
     1 string data = "Připravit"
    [261]
-    1 string data = "Tak fajn, jde se vařit!"
+    1 string data = "Tak fajn, jde se kuchtit!"
    [262]
     1 string data = "Koukněte, něčemu se přiučíte!"
    [263]
@@ -549,13 +549,13 @@
    [267]
     1 string data = "Snad to bude dost dobré..."
    [268]
-    1 string data = "Na tohle nám chybí ingredience!"
+    1 string data = "Na tohle nám chybí suroviny!"
    [269]
-    1 string data = "Tohle teď uvařit nemůžeme!"
+    1 string data = "Tohle teď ukuchtit nemůžeme!"
    [270]
     1 string data = "Na víc jídel nemáme místo!"
    [271]
-    1 string data = "<button="UI_Confirm"> Připrav (Podrž)"
+    1 string data = "<button="UI_Confirm"> Kuchtit (Podrž)"
    [272]
     1 string data = "<button="MoveHorizontal"> Počet"
    [273]
@@ -565,7 +565,7 @@
    [275]
     1 string data = "Společník"
    [276]
-    1 string data = "Parta"
+    1 string data = "Družina"
    [277]
     1 string data = "[TARGET] obnoví [HP_TO_GIVE] a [SP_TO_GIVE]"
    [278]
@@ -611,7 +611,7 @@
    [298]
     1 string data = "<button=MoveHorizontal"> Zatoč"
    [299]
-    1 string data = "<button="Interact"> Kopni"
+    1 string data = "<button="Interact"> Strhni"
    [300]
     1 string data = "<button="Interact"> Naviň"
    [301]
@@ -623,7 +623,7 @@
    [304]
     1 string data = "<button="Boat_Accelerate"> Zrychlit"
    [305]
-    1 string data = "<button="MoveHorizontal"> Zatoč"
+    1 string data = "<button="MoveHorizontal"> Zatočit"
    [306]
     1 string data = "<button="UI_PingHud"> Mapa"
    [307]
@@ -667,7 +667,7 @@
    [326]
     1 string data = "Ponechat si"
    [327]
-    1 string data = "Previously Equipped"
+    1 string data = "Původně vybaveno"
    [328]
     1 string data = "Kup za <color=#FFFFFF>[PRICE]</color> Z ?"
    [329]
