@@ -131,7 +131,7 @@
    [58]
     1 string data = "Roztáčení kotoučů"
    [59]
-    1 string data = "Hráči <color=menuhighlight>roztáčí</color> kotouče třikrát za kolo. Roztočte kotouče pomocí <button="AdvanceTime">. Kotouče lze <color=menuhighlight>procházet</color> pomocí <button="MoveHorizontal"> a <color=menuhighlight>zamykat</color>/<color=menuhighlight>odemykat</color> pomocí <button="Interact"> mezi jednotlivými roztáčkami."
+    1 string data = "Hráči <color=menuhighlight>roztáčí</color> kotouče třikrát za kolo. Roztočte kotouče pomocí <button="AdvanceTime">. Kotouče lze <color=menuhighlight>procházet</color> pomocí <button="MoveHorizontal"> a <color=menuhighlight>upevnit</color>/<color=menuhighlight>odemykat</color> pomocí <button="Interact"> mezi jednotlivými roztáčkami."
    [60]
     1 string data = "Energie"
    [61]
@@ -151,25 +151,25 @@
    [68]
     1 string data = "Hrdinové"
    [69]
-    1 string data = "Každý hrdina má své <color=menuhighlight>silné stránky</color> a <color=menuhighlight>slabé stránky</color>. Hratelných hrdinů je celkem <color=menuhighlight>šest</color>: Válečník, Mág, Lučištník, Inženýr, Asasín a Kněz."
+    1 string data = "Každý hrdina má své <color=menuhighlight>silné stránky</color> a <color=menuhighlight>slabé stránky</color>. Hratelných hrdinů je celkem <color=menuhighlight>šest</color>: Válečník, Čaroděj, Lukostřelec, Stavitel, Vrah a Kněz."
    [70]
     1 string data = "Válečník"
    [71]
     1 string data = "Stabilní a středně rychlý rozdavač poškození. Jelikož se poškození nepřenáší ponad Hradbu, je tento útok snadno blokován."
    [72]
-    1 string data = "Mág"
+    1 string data = "Čaroděj"
    [73]
     1 string data = "Útočí dvakrát. První ohnivá koule je na úrovni země a snadno ji blokuje Hradba, zatímco druhá ohnivá koule letí ve výšce, což zaručuje zásah Koruny, i když je Hradba na nejvyšší úrovni."
    [74]
-    1 string data = "Lučištník"
+    1 string data = "Lukostřelec"
    [75]
     1 string data = "Silný proti Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">), slabý proti Hradbě (<sprite="dialog-generic-icons" name="wheels-wall-damage">). Šíp letí ve výšce 3 jednotek a zasáhne Korunu, jen když je Hradba ve výšce 2 nebo méně."
    [76]
-    1 string data = "Inženýr"
+    1 string data = "Stavitel"
    [77]
-    1 string data = "Silný proti Hradbě (<sprite="dialog-generic-icons" name="wheels-wall-damage">), slabý proti Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">). Jako bonus inženýr zvýší ochranný val svého týmu o 2 jednotky, kdykoli koná."
+    1 string data = "Silný proti Hradbě (<sprite="dialog-generic-icons" name="wheels-wall-damage">), slabý proti Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">). Jako bonus Stavitel zvýší ochranný val svého týmu o 2 jednotky, kdykoli koná."
    [78]
-    1 string data = "Asasín"
+    1 string data = "Vrah"
    [79]
     1 string data = "Hrdina specialista. Útočí se zpožděním na soupeřova hrdinu (<sprite="dialog-generic-icons" name="kola-energie-poškození">), kterému ke konání zbývá nejméně energie. Rovněž způsobuje nízké poškození přímo Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">), přičemž nebere ohled na Hradbu."
    [80]
@@ -179,4 +179,4 @@
    [82]
     1 string data = "Šampioni a postup"
    [83]
-    1 string data = "Cesta Kotoučů začíná s Bronzovým kotoučem a pouze s Válečníkem a Mágem jako hratelnými Hrdiny. Povídá se, že ti, kteří <color=menuhighlight>odemknou</color> všech <color=menuhighlight>šest Hrdinů</color> a <color=menuhighlight>Platinový kotouč</color>, mohou vyzvat samotného Hodináře!"
+    1 string data = "Cesta Kotoučů začíná s Bronzovým kotoučem a pouze s Válečníkem a Čarodějem jako hratelnými Hrdiny. Povídá se, že ti, kteří <color=menuhighlight>odemknou</color> všech <color=menuhighlight>šest Hrdinů</color> a <color=menuhighlight>Platinový kotouč</color>, mohou vyzvat samotného Hodináře!"
