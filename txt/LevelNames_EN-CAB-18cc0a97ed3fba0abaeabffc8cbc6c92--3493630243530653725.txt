@@ -15,7 +15,7 @@
    [0]
     1 string data = "???"
    [1]
-    1 string data = "Velké archivy"
+    1 string data = "Velký archiv"
    [2]
     1 string data = "Stezka džunglí"
    [3]
@@ -49,7 +49,7 @@
    [17]
     1 string data = "Zkoušky Mlžného stařešiny"
    [18]
-    1 string data = "X'tolův přístav"
+    1 string data = "X'tolova přistávací plocha"
    [19]
     1 string data = "Mokřady"
    [20]
@@ -61,23 +61,23 @@
    [23]
     1 string data = "Korálové kaskády"
    [24]
-    1 string data = "Přístaviště Brisk"
+    1 string data = "Přístavní město Brisk"
    [25]
     1 string data = "Opuštěná laboratoř čaroděje"
    [26]
     1 string data = "Výtah"
    [27]
-    1 string data = "Přístav na Ostrově přízraků"
+    1 string data = "Přístav na Přízračném ostrově"
    [28]
     1 string data = "Město Lucent"
    [29]
     1 string data = "Strašidelné sídlo"
    [30]
-    1 string data = "Převozníkova bdělost"
+    1 string data = "Převozníkova hlídka"
    [31]
     1 string data = "Zatopený hřbitov"
    [32]
-    1 string data = "Nekromantovo doupě"
+    1 string data = "Doupě nekromantky"
    [33]
     1 string data = "Večernice"
    [34]
@@ -109,7 +109,7 @@
    [47]
     1 string data = "Babiznin pozemek"
    [48]
-    1 string data = "Hodinářský zámek"
+    1 string data = "Mechanický hrad"
    [49]
     1 string data = "Odpočívadlo"
    [50]
@@ -135,11 +135,11 @@
    [60]
     1 string data = "Repot"
    [61]
-    1 string data = "Cerulský rezervoár"
+    1 string data = "Azurová vodní nádrž"
    [62]
-    1 string data = "Cerulská pustina"
+    1 string data = "Azurová pustina"
    [63]
-    1 string data = "Hamlet ztracených"
+    1 string data = "Vesnice Ztracených"
    [64]
     1 string data = "Vesmírná základna"
    [65]
@@ -153,13 +153,13 @@
    [69]
     1 string data = "Fleshmancerovo doupě"
    [70]
-    1 string data = "Svatyně slunovratu"
+    1 string data = "Svatyně Slunovratu"
    [71]
-    1 string data = "Svatyně slunovratu"
+    1 string data = "Svatyně Slunovratu"
    [72]
-    1 string data = "Svatyně slunovratu"
+    1 string data = "Svatyně Slunovratu"
    [73]
-    1 string data = "Svatyně slunovratu"
+    1 string data = "Svatyně Slunovratu"
    [74]
     1 string data = "Potopené Docarrijské ruiny"
    [75]
@@ -171,7 +171,7 @@
    [78]
     1 string data = "Polopotopená věž"
    [79]
-    1 string data = "Sídlo triumvirátu"
+    1 string data = "Sídlo Triumvirátu"
    [80]
     1 string data = "Rozhledna Es'tristae"
    [81]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "???"
    [87]
-    1 string data = "Cerulský ostrov"
+    1 string data = "Azurový ostrov"
    [88]
     1 string data = "Ostrov nehybného rybníku"
    [89]
@@ -209,19 +209,19 @@
    [97]
     1 string data = "Nebeská země"
    [98]
-    1 string data = "Ostrov svatyně lunovratu"
+    1 string data = "Ostrov svatyně Slunovratu"
    [99]
-    1 string data = "Ostrov svatyně lunovratu"
+    1 string data = "Ostrov svatyně Slunovratu"
    [100]
-    1 string data = "Ostrov svatyně lunovratu"
+    1 string data = "Ostrov svatyně Slunovratu"
    [101]
     1 string data = "Stanice Rychlodráhy"
    [102]
     1 string data = "???"
    [103]
-    1 string data = "Ostrov přízraků"
+    1 string data = "Přízračný ostrov"
    [104]
-    1 string data = "Bambusová zátoka"
+    1 string data = "Bambusový potok"
    [105]
     1 string data = "Ledovcový vrch"
    [106]
@@ -253,7 +253,7 @@
    [119]
     1 string data = "Strašidelná zátoka"
    [120]
-    1 string data = "Prístav Ostrova věčné mlhy"
+    1 string data = "Přistávací plocha Ostrova věčné mlhy"
    [121]
     1 string data = "Domovský svět"
    [122]
