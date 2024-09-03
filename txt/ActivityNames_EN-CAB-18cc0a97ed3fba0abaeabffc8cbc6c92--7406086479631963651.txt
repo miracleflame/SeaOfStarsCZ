@@ -41,9 +41,9 @@
    [13]
     1 string data = "Kvílení Banshee"
    [14]
-    1 string data = "Kámen nekromanta"
+    1 string data = "Kámen nekromantky"
    [15]
-    1 string data = "Dweller bídy"
+    1 string data = "Dweller žalu"
    [16]
     1 string data = "Kataklyzma"
    [17]
@@ -75,7 +75,7 @@
    [30]
     1 string data = "Dweller sváru"
    [31]
-    1 string data = "Ve vypůjčeném čase"
+    1 string data = "Na vypůjčený čas"
    [32]
     1 string data = "Království v oblacích"
    [33]
@@ -101,4 +101,4 @@
    [43]
     1 string data = "Osudná hodina"
    [44]
-    1 string data = "Vymáhání"
+    1 string data = "Navrácení"
