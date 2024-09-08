@@ -13,7 +13,7 @@
   1 Array Array (177 items)
    0 int size = 177
    [0]
-    1 string data = "Vítej ve <color=location>Velkých archivech</color>, dobrodruhu. Předpokládám, že tě sem přivedla zvědavost."
+    1 string data = "Vítej ve <color=location>Velkém archivu</color>, dobrodruhu. Předpokládám, že tě sem přivedla zvědavost."
    [1]
     1 string data = "Důležitá vlastnost, to je jisté."
    [2]
@@ -55,7 +55,7 @@
    [20]
     1 string data = "Ve věži sice prokázali statečné úsilí, ale jak to osud k jejich smůle chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
    [21]
-    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na Ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače světů."
+    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače světů."
    [22]
     1 string data = "Bojovali statečně, ale nakonec přišli o život i o svůj svět. "
    [23]
@@ -65,304 +65,304 @@
    [25]
     1 string data = "Pojďme to zjistit."
    [26]
-    1 string data = "Come in."
+    1 string data = "Vstupte."
    [27]
-    1 string data = "What is this place?"
+    1 string data = "Co je tohle za místo?"
    [28]
-    1 string data = "Smells musty!"
+    1 string data = "Páchne to tu dost zatuchle!"
    [29]
-    1 string data = "Good evening, and welcome to The Great Archives."
+    1 string data = "Dobrý večer, vítejte ve Velkém archivu."
    [30]
-    1 string data = "Please excuse the mess, I tend to get absorbed in my work."
+    1 string data = "Prosím, omluvte ten nepořádek, mám tendenci se zcela ponořit do práce."
    [31]
     1 string data = "!!"
    [32]
-    1 string data = "Wait, are you really..."
+    1 string data = "Tak moment, vy jste opravdu..."
    [33]
-    1 string data = "Titles are for stories and myths. Please call me Resh'an."
+    1 string data = "Tituly patří do příběhů a mýtů. Prosím, říkejte mi Resh'an."
    [34]
     1 string data = "Resh'an..."
    [35]
-    1 string data = "That's even cooler than X'tol!"
+    1 string data = "To zní ještě líp než X'tol!"
    [36]
-    1 string data = "Wait, so YOU'RE the immortal alchemist?"
+    1 string data = "Počkat, takže to VY jste ten nesmrtelný alchymista?"
    [37]
-    1 string data = "I suppose so."
+    1 string data = "Asi tomu tak bude."
    [38]
-    1 string data = "Un-REAL!"
+    1 string data = "Neskutečné!"
    [39]
-    1 string data = "Alchemist, sir, we..."
+    1 string data = "Alchymisto, pane, my..."
    [40]
-    1 string data = "Please. Call me Resh'an."
+    1 string data = "Prosím. Říkejte mi Resh'an."
    [41]
-    1 string data = "*Ahem* Resh'an, this is really unexpected."
+    1 string data = "*Ehm* Resh'ane, tohle jsme opravdu nečekali."
    [42]
-    1 string data = "Yeah we... Can't you just fix all of this, then?"
+    1 string data = "Jo, my... Nemůžete to teda všechno napravit?"
    [43]
-    1 string data = "Unfortunately no. I am bound by a very strict code."
+    1 string data = "To bohužel nepůjde. Musím se držet velmi přísných pravidel."
    [44]
     1 string data = "..."
    [45]
-    1 string data = "There are no words to express the suffering that would ensue were I to take matters into my own hands."
+    1 string data = "Utrpení, které by nastalo, pokud bych vzal věci do vlastních rukou, se nedá slovy popsat."
    [46]
-    1 string data = "Worse than a Dweller turning into a World Eater?"
+    1 string data = "Bylo by to horší než Dweller, co se promění v Požírače světů?"
    [47]
-    1 string data = "Not to minimize, but you must understand that in the grand scheme of things your reality is simply one of many."
+    1 string data = "Nechci to zlehčovat, ale musíte si uvědomit, že v širší perspektivě je vaše realita jen jednou z mnoha."
    [48]
-    1 string data = "By fixing your realm, I would unleash <color=bad>Aephorul</color>'s wrath on countless others."
+    1 string data = "Kdybych ji měl zachránit, seslal bych <color=bad>Aephorulův</color> hněv na bezpočet dalších."
    [49]
-    1 string data = "That is unacceptable."
+    1 string data = "To nemohu dopustit."
    [50]
-    1 string data = "Who's Aephorul?"
+    1 string data = "Kdo je Aephorul?"
    [51]
-    1 string data = "My former associate."
+    1 string data = "Můj bývalý společník."
    [52]
-    1 string data = "Where your people call me The Immortal Alchemist, they refer to Aephorul as The Fleshmancer."
+    1 string data = "Zatímco mě vaši lidé znají jako Nesmrtelného alchymistu, Aephorulovi říkají Fleshmancer."
    [53]
     1 string data = "!!"
    [54]
-    1 string data = "Is he hiding somewhere here too?"
+    1 string data = "On se tady taky někde schovává?"
    [55]
-    1 string data = "Your world is safe, at least in this regard. Aephorul left a long time ago."
+    1 string data = "Váš svět je v bezpečí, alespoň v tomto ohledu. Aephorul už dávno odešel."
    [56]
-    1 string data = "Should he learn of my presence here, however..."
+    1 string data = "Pokud by se ovšem dozvěděl o mé přítomnosti zde..."
    [57]
-    1 string data = "We'd take him on, he's nothing but a loser!"
+    1 string data = "My bychom se mu postavili, není nic jiného než břídil!"
    [58]
     1 string data = "..."
    [59]
-    1 string data = "Now, it appears time is of the essence."
+    1 string data = "A vypadá to, že nemáme času nazbyt."
    [60]
-    1 string data = "We need to get onto Mesa Island. Can you help?"
+    1 string data = "Potřebujeme se dostat na ostrov Mesa. Pomůžete nám?"
    [61]
-    1 string data = "I might. But first, we must determine whether or not you can help yourselves."
+    1 string data = "Možná ano. Nejprve ale musíme zjistit, zdali jste si schopni pomoct sami."
    [62]
-    1 string data = "We know how to fight!"
+    1 string data = "Bojovat my umíme!"
    [63]
-    1 string data = "Of course you do, but this matter is about whether you truly are who I am hoping you are."
+    1 string data = "To samozřejmě umíte, jde o to, jestli jste opravdu těmi, ve které jsem doufal."
    [64]
-    1 string data = "For now I would send you to a remote location where, encased in the ice, lies a long lost <color=magic>artifact</color>."
+    1 string data = "Prozatím vás pošlu na vzdálené místo, kde se v ledu nachází dlouho ztracený <color=magic>artefakt</color>."
    [65]
-    1 string data = "What kind of artifact?"
+    1 string data = "Jaký artefakt?"
    [66]
-    1 string data = "I will say no more at this time. If letting you in here was the proper course of action, its power will call to you."
+    1 string data = "Víc vám teď neprozradím. Pokud bylo mé rozhodnutí pustit vás sem správné, jeho moc vám o sobě dá vědět."
    [67]
-    1 string data = "This portal leads to where it went forgotten."
+    1 string data = "Tento portál vede tam, kde ten artefakt leží zapomenut."
    [68]
-    1 string data = "Recover the artifact. Then I shall entertain this plan of yours."
+    1 string data = "Přineste jej zpět a poté ten váš plán zvážím."
    [69]
-    1 string data = "You have returned. Congratulations."
+    1 string data = "Vy jste se vrátili. Gratuluji."
    [70]
-    1 string data = "Will you help us get to Mesa Island now?"
+    1 string data = "A teď už nám na ostrov Mesa pomůžete?"
    [71]
-    1 string data = "You were just there a few moments ago."
+    1 string data = "Před chvílí jste tam byli."
    [72]
     1 string data = "!!"
    [73]
-    1 string data = "Is this the way then? We just go back and hike down the mountain?"
+    1 string data = "Takže to uděláme takhle? Vrátíme se a prostě z té hory sejdeme?"
    [74]
-    1 string data = "Hiking Glacial Peak on foot? Only an animal would do that."
+    1 string data = "Sejít pěšky z Ledovcového vrchu? To by udělalo jenom zvíře."
    [75]
     1 string data = "..."
    [76]
-    1 string data = "Will you accept one final challenge?"
+    1 string data = "Přijmete jednu poslední výzvu?"
    [77]
-    1 string data = "If you succeed, I promise I will help."
+    1 string data = "Uspějete-li, slibuji, že vám pomůžu."
    [78]
-    1 string data = "We're in a hurry! You said-"
+    1 string data = "My tady spěcháme! Říkal jste-"
    [79]
-    1 string data = "I know, I know. Hear me out."
+    1 string data = "Já vím, já vím. Poslouchejte."
    [80]
-    1 string data = "The only way to remove the barrier is to wake the giant stone head."
+    1 string data = "Jediný způsob, jak odstranit bariéru, je vzbudit obří kamennou hlavu."
    [81]
-    1 string data = "I can make the potion for you, but brewing it requires centuries of maceration."
+    1 string data = "Na to vám mohu uvařit lektvar, ale ten by vyžadoval staletí luhování."
    [82]
-    1 string data = "Centuries? That's useless!"
+    1 string data = "Staletí? To je nám k ničemu!"
    [83]
-    1 string data = "That is why I need you to recover my personal alchemy bottle, the <color=magic>Vial of Time</color>."
+    1 string data = "A právě proto od vás potřebuji, abyste získali zpět mou osobní alchymistickou lahvičku, <color=magic>Baňku času</color>."
    [84]
-    1 string data = "Within it, I can control time itself. Bring it back to me and I will prepare what you need in mere seconds."
+    1 string data = "Uvnitř ní mohu ovládat samotný čas. Přineste mi ji a já vám připravím to, co potřebujete, za pouhých pár sekund."
    [85]
-    1 string data = "No way..."
+    1 string data = "Páni..."
    [86]
-    1 string data = "Alright, where can we find your Vial of Time?"
+    1 string data = "Dobře, tak kde můžeme tu vaši Baňku času najít?"
    [87]
-    1 string data = "Aephorul hid it somewhere on Watcher Island a long time ago."
+    1 string data = "Aephorul ji před dávnou dobou schoval někde na Strážcově ostrově."
    [88]
-    1 string data = "All I know for certain is that the giant statue from which the island got its name is the key."
+    1 string data = "Určitě vím jen jedinou věc. Ta obří socha, podle níž nese ostrov své jméno, je klíč."
    [89]
-    1 string data = "How can you be sure?"
+    1 string data = "Jak si tím můžete být tak jistý?"
    [90]
-    1 string data = "Aephorul's tricks always involve big statues."
+    1 string data = "Aephorulovy lsti jsou vždy doprovázeny velkými sochami."
    [91]
     1 string data = "??"
    [92]
-    1 string data = "Eventually, I figured he would have to stop if I never recovered my vial, but here we are in need of it."
+    1 string data = "Nakonec jsem došel k závěru, že bude muset přestat, pokud svou baňku nikdy nezískám zpět, ale nyní ji potřebujeme."
    [93]
-    1 string data = "This is ridiculous."
+    1 string data = "To má být vtip?"
    [94]
-    1 string data = "Call it what you will, but I recommend you take this task seriously--for it will be very trying."
+    1 string data = "Nazývej to, jak chceš, ale radím ti, abys tento úkol brala vážně--bude velice náročný."
    [95]
-    1 string data = "Sure, whatever. We're ready."
+    1 string data = "Fajn, jak chcete. Jsme připraveni."
    [96]
-    1 string data = "Then go to the northern part of Watcher Island, and perform the cleansing of Torment Peak."
+    1 string data = "Vydejte se tedy na sever Strážcova ostrova a proveďte očištění Mučivého vrchu."
    [97]
     1 string data = "!!"
    [98]
-    1 string data = "Cleansing!? There's a Dweller here?"
+    1 string data = "Očištění!? Tady je nějaký Dweller?"
    [99]
-    1 string data = "Of course. It may be just a prank, but Aephorul played it himself."
+    1 string data = "Samozřejmě. Jde sice jenom o žert, ale Aephorul jej zavinil sám."
    [100]
-    1 string data = "But, without their powers augmented by..."
+    1 string data = "No ale když nebudou mít posílené schopnosti díky..."
    [101]
-    1 string data = "Yes?"
+    1 string data = "Ano?"
    [102]
     1 string data = "..."
    [103]
-    1 string data = "That's what the Solstice Amulet is really for, isn't it?"
+    1 string data = "V tom nám pomůže ten Amulet Slunovratu, ne?"
    [104]
-    1 string data = "Precisely. It may be old, but its magic has yet to fade."
+    1 string data = "Přesně tak. Možná je starý, ale jeho magie ještě úplně nevyprchala."
    [105]
-    1 string data = "Face the Dweller of Torment with conviction, and the amulet will resonate."
+    1 string data = "S odvahou čelte Dweller of Torment a ten amulet bude rezonovat."
    [106]
-    1 string data = "The power to conjure an eclipse..."
+    1 string data = "Schopnost vyvolat zatmění..."
    [107]
-    1 string data = "Alright, we can do this."
+    1 string data = "Dobře, tohle zvládneme."
    [108]
-    1 string data = "Torment Peak afflicts the mind in devilish ways, but you deserve a fighting chance. Here."
+    1 string data = "Mučivý vrch postihuje mysl prohnaným způsobem, ale vy si proti tomu zasloužíte dostat šanci. Tady máte."
    [109]
-    1 string data = "Go on, drink."
+    1 string data = "Do toho, pijte."
    [110]
-    1 string data = "What is it?"
+    1 string data = "Co je to?"
    [111]
-    1 string data = "One dose of Tethered Mind Potion for each of you."
+    1 string data = "Jedna dávka lektvaru Ukotvené mysli pro každého z vás."
    [112]
-    1 string data = "Come on now, bottoms up."
+    1 string data = "No tak, až do dna."
    [113]
-    1 string data = "I don't feel any different."
+    1 string data = "Cítím se pořád stejně."
    [114]
-    1 string data = "And thanks to this potion, you will be able to say the same after spending time in that wicked place."
+    1 string data = "A díky tomuto lektvaru budeš moci po návratu z toho hrozivého místa pronést totéž."
    [115]
     1 string data = "..."
    [116]
-    1 string data = "I thought you couldn't help directly."
+    1 string data = "A prý že nám nemůžete pomáhat přímo."
    [117]
-    1 string data = "It is but a little nudge. Surely this can stay between us."
+    1 string data = "Jde jen o malé postrčení. To určitě může zůstat mezi námi."
    [118]
-    1 string data = "Thanks, Resh'an!"
+    1 string data = "Díky, Resh'ane!"
    [119]
-    1 string data = "We'll be back with the Vial of Time."
+    1 string data = "Vrátíme se s vaší Baňkou času."
    [120]
-    1 string data = "Feel free to use this portal for quick travel between here and Lake Docarria."
+    1 string data = "Tento portál můžete využívat k rychlému přesunu k jezeru Docarria a zpět."
    [121]
-    1 string data = "I will be watching. Good luck."
+    1 string data = "Budu vás sledovat. Hodně štěstí."
    [122]
-    1 string data = "Resh'an, we have your vial."
+    1 string data = "Resh'ane, máme vaši baňku."
    [123]
-    1 string data = "It appears you do, but we should make sure it is not an imitation."
+    1 string data = "Zdá se, že ano, ale musíme se ujistit, není-li to napodobenina."
    [124]
-    1 string data = "Garl, would you kindly throw it at the wall?"
+    1 string data = "Garle, mohl bys s ní prosím hodit o zeď?"
    [125]
-    1 string data = "I..."
+    1 string data = "Já..."
    [126]
-    1 string data = "With all your strength."
+    1 string data = "Vší silou."
    [127]
-    1 string data = "Won't it break?"
+    1 string data = "A nerozbije se?"
    [128]
-    1 string data = "I hope so."
+    1 string data = "Doufám, že ano."
    [129]
-    1 string data = "Well, okay."
+    1 string data = "No tak dobře."
    [130]
-    1 string data = "Whoa!!"
+    1 string data = "Páni!!"
    [131]
-    1 string data = "Vial of Time, oh how I've missed you."
+    1 string data = "Baňko času, jak jsi mi jen chyběla."
    [132]
-    1 string data = "Thank you for recovering my most prized possession. You have shown much bravery."
+    1 string data = "Děkuji vám za znovuzískání mého nejcennějšího majetku. Prokázali jste velkou statečnost."
    [133]
-    1 string data = "You better hold up your end of the bargain now. No more errands!"
+    1 string data = "A teď už splňte, co jste nám slíbil. Už nás pro nic neposílejte!"
    [134]
-    1 string data = "Oh make no mistake, I am coming with you."
+    1 string data = "Nebuďte na omylu, budu vás doprovázet."
    [135]
     1 string data = "!!"
    [136]
-    1 string data = "But my code is strict, so there are rules."
+    1 string data = "Ale svých zásad se pevně držím, a proto jsou tu určitá pravidla."
    [137]
-    1 string data = "First, I may assist in battle but it is not my place to win for you."
+    1 string data = "Zaprvé, mohu vám pomáhat v boji, ale nečekejte, že za vás budu vyhrávat."
    [138]
-    1 string data = "As such I will match your power, but never exceed it."
+    1 string data = "Má moc tedy bude s tou vaší rovnocenná a nikdy ji nepředčí."
    [139]
-    1 string data = "Wait, you're really going to-"
+    1 string data = "Počkat, vy se k nám fakt-"
    [140]
-    1 string data = "Next, no one other than the four of you can be aware of my true identity."
+    1 string data = "Zadruhé, nikdo jiný kromě vás čtyř nesmí znát mou pravou totožnost."
    [141]
-    1 string data = "You are to refer to me exclusively as Resh'an, and most importantly, never as The Immortal Alchemist."
+    1 string data = "Budete o mně mluvit pouze jako o Resh'anovi a nikoliv jako o Nesmrtelném alchymistovi."
    [142]
-    1 string data = "You got it! Might want to be extra careful around Teaks, though."
+    1 string data = "Jasně! Ale asi si budete muset dávat dobrý pozor na Teaks."
    [143]
-    1 string data = "Lastly, and most importantly, I am under no circumstances allowed to fight a Dweller."
+    1 string data = "A zatřetí to nejdůležitější, za žádných okolností mi není dovoleno bojovat s Dwellerem."
    [144]
-    1 string data = "If a confrontation occurs with the Dweller of Strife, that fight will be yours and yours alone."
+    1 string data = "Dojde-li ke střetu s Dweller of Strife, zúčastníte se jej jen vy sami."
    [145]
-    1 string data = "Understood."
+    1 string data = "Rozumíme."
    [146]
-    1 string data = "Shall we go, then?"
+    1 string data = "Půjdeme tedy?"
    [147]
-    1 string data = "Uh, Resh'an?"
+    1 string data = "Um, Resh'ane?"
    [148]
-    1 string data = "Yes?"
+    1 string data = "Ano?"
    [149]
-    1 string data = "You can't come like this, your robes are all tattered."
+    1 string data = "Takhle nikam nemůžete, máte úplně potrhané šaty."
    [150]
-    1 string data = "Oh?"
+    1 string data = "Hm?"
    [151]
-    1 string data = "If you don't want people to know you're immortal, maybe clothes that have been decaying for millennia aren't the safest bet!"
+    1 string data = "Jestli nechcete, aby se někdo o vaší nesmrtelnosti dozvěděl, tak oblečení, co už se několik tisíciletí rozpadá, není ta nejlepší volba!"
    [152]
     1 string data = "Hahaha!"
    [153]
-    1 string data = "Fair enough."
+    1 string data = "Dobrá, máš pravdu."
    [154]
     1 string data = "!!"
    [155]
-    1 string data = "Better?"
+    1 string data = "Lepší?"
    [156]
-    1 string data = "Totally!"
+    1 string data = "Mnohem lepší!"
    [157]
-    1 string data = "Then lead the way. Mesa Island is to the northeast.The one with a giant stone head."
+    1 string data = "Then lead the way. K ostrovu Mesa je to severovýchodním směrem. Je to ten s obří kamennou hlavou."
    [158]
-    1 string data = "Resh'an The Immortal Alchemist joins the party!"
+    1 string data = "Nesmrtelný alchymista Resh'an se přidává do skupiny!"
    [159]
-    1 string data = "And so it was that [MAINCHAR] and [OFFCHAR] were sent off to begin their journey, with their best friend the warrior-cook in tow."
+    1 string data = "A tímto byli [MAINCHAR] a [OFFCHAR] v doprovodu svého nejlepšího přítele, válečného kuchaře, vysláni na začátek své cesty."
    [160]
-    1 string data = "In their quest to get to Wraith Island in time for the eclipse, they would soon come to grips with two very powerful wizards."
+    1 string data = "Při snaze dostat se na Přízračný ostrov, než nastane zatmění, se brzy vypořádají se dvěma mocnými čaroději."
    [161]
-    1 string data = "One by anger beset, the other of life bereft..."
+    1 string data = "Jeden je trápen zlostí, druhý zcela bez života..."
    [162]
-    1 string data = "By overcoming the dead wizard's illusions, our heroes have secured passage to Wraith Island in time for the eclipse."
+    1 string data = "Překonáním iluzí mrtvého čaroděje si naši hrdinové zajistili plavbu na Přízračný ostrov, než nastane zatmění."
    [163]
-    1 string data = "In this place where the night is everlasting and the dead still live, they brace themselves to fight the last known Dweller."
+    1 string data = "Na místě, kde je noc věčná a mrtví ožívají, se připravují na souboj s posledním známým Dwellerem."
    [164]
-    1 string data = "While evil forces prepare to play their hand, fear is set to strike very close to home..."
+    1 string data = "Zatímco síly zla vyčkávají na správný okamžik, strach udeří na citlivé místo..."
    [165]
-    1 string data = "With the resurrection of the Dweller of Strife announcing a reign of terror thought forever gone, hope appears slim for a world with only three Solstice Warriors left."
+    1 string data = "Proti oživenému Dweller of Strife ohlašujícímu návrat teroru, jenž byl považován za minulost, má svět, na němž zbyli pouze tři Bojovníci Slunovratu, zdánlivě mizivou šanci."
    [166]
-    1 string data = "The veil of lies now lifted and part of their innocence left behind, our heroes head back to Brisk while their Headmaster searches for a way to reach Mesa Island."
+    1 string data = "Nyní, když je závoj lží odkryt a kus jejich nevinnosti pryč, se naši hrdinové vrací do Brisku, zatímco jejich ředitel hledá způsob, jak se dostat na ostrov Mesa."
    [167]
-    1 string data = "Committed to helping the cataclysm survivors, they will soon dive headfirst into the eye of the storm to confront a legendary ancient curse..."
+    1 string data = "Odhodláni pomoci přeživším katastrofy, zanedlouho se vrhnou střemhlav do středu bouře, aby čelili legendární starodávné kletbě..."
    [168]
-    1 string data = "Thus, the Town of Mirth was founded, while those who preferred to stay in Brisk worked on restoring it to its former beauty."
+    1 string data = "A tak bylo založeno město Veselí, zatímco lidé, kteří upřednostnili zůstat v Brisku, pracovali na obnovení jeho původní krásy."
    [169]
-    1 string data = "While down but certainly not out, [MAINCHAR], [OFFCHAR], Garl and Seraï set sail for Watcher Island in hopes of finding the Oracle of Tides."
+    1 string data = "While down but certainly not out, [MAINCHAR], [OFFCHAR], Garl a Seraï vyplouvají na Strážcův ostrov v naději, že najdou Věštce přílivů a odlivů."
    [170]
-    1 string data = "Should their will prove strong enough, the chapters yet to be written would soon unfold..."
+    1 string data = "Bude-li jejich vůle dostatečně silná, brzy se odehrají doposud nenapsané kapitoly..."
    [171]
-    1 string data = "Return to Docarri Village?"
+    1 string data = "Vrátit se k jezeru Docarria?"
    [172]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [173]
-    1 string data = "No"
+    1 string data = "Ne"
    [174]
-    1 string data = "Return to Glacial Peak?"
+    1 string data = "Vrátit se na Ledovcový vrch?"
    [175]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [176]
-    1 string data = "No"
+    1 string data = "Ne"
