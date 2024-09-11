@@ -83,7 +83,7 @@
    [34]
     1 string data = "Resh'an..."
    [35]
-    1 string data = "To zní ještě líp než X'tol!"
+    1 string data = "To zní ještě hustěji než X'tol!"
    [36]
     1 string data = "Počkat, takže to VY jste ten nesmrtelný alchymista?"
    [37]
@@ -127,7 +127,7 @@
    [56]
     1 string data = "Pokud by se ovšem dozvěděl o mé přítomnosti zde..."
    [57]
-    1 string data = "My bychom se mu postavili, není nic jiného než břídil!"
+    1 string data = "My bychom se mu postavili, není nic jiného než ničema!"
    [58]
     1 string data = "..."
    [59]
@@ -165,7 +165,7 @@
    [75]
     1 string data = "..."
    [76]
-    1 string data = "Přijmete jednu poslední výzvu?"
+    1 string data = "Přijmete ještě poslední výzvu?"
    [77]
     1 string data = "Uspějete-li, slibuji, že vám pomůžu."
    [78]
@@ -223,7 +223,7 @@
    [104]
     1 string data = "Přesně tak. Možná je starý, ale jeho magie ještě úplně nevyprchala."
    [105]
-    1 string data = "S odvahou čelte Dweller of Torment a ten amulet bude rezonovat."
+    1 string data = "S odvahou čelte Dwellerovi muk a ten amulet bude rezonovat."
    [106]
     1 string data = "Schopnost vyvolat zatmění..."
    [107]
@@ -277,7 +277,7 @@
    [131]
     1 string data = "Baňko času, jak jsi mi jen chyběla."
    [132]
-    1 string data = "Děkuji vám za znovuzískání mého nejcennějšího majetku. Prokázali jste velkou statečnost."
+    1 string data = "Děkuji vám za znovunalezení mého nejcennějšího majetku. Prokázali jste velkou statečnost."
    [133]
     1 string data = "A teď už splňte, co jste nám slíbil. Už nás pro nic neposílejte!"
    [134]
@@ -297,11 +297,11 @@
    [141]
     1 string data = "Budete o mně mluvit pouze jako o Resh'anovi a nikoliv jako o Nesmrtelném alchymistovi."
    [142]
-    1 string data = "Jasně! Ale asi si budete muset dávat dobrý pozor na Teaks."
+    1 string data = "Jasně! Asi bychom si měli dávat dobrý pozor kolem Teaks."
    [143]
     1 string data = "A zatřetí to nejdůležitější, za žádných okolností mi není dovoleno bojovat s Dwellerem."
    [144]
-    1 string data = "Dojde-li ke střetu s Dweller of Strife, zúčastníte se jej jen vy sami."
+    1 string data = "Dojde-li ke střetu s Dwellerem sváru, zúčastníte se jej jen vy sami."
    [145]
     1 string data = "Rozumíme."
    [146]
@@ -315,17 +315,17 @@
    [150]
     1 string data = "Hm?"
    [151]
-    1 string data = "Jestli nechcete, aby se někdo o vaší nesmrtelnosti dozvěděl, tak oblečení, co už se několik tisíciletí rozpadá, není ta nejlepší volba!"
+    1 string data = "Jestli chcete, aby se nikdo o vaší nesmrtelnosti nedozvěděl, tak oblečení, co už se několik tisíciletí rozpadá, tomu nenapomůže!"
    [152]
     1 string data = "Hahaha!"
    [153]
-    1 string data = "Dobrá, máš pravdu."
+    1 string data = "Něco na tom bude."
    [154]
     1 string data = "!!"
    [155]
     1 string data = "Lepší?"
    [156]
-    1 string data = "Mnohem lepší!"
+    1 string data = "Rozhodně!"
    [157]
     1 string data = "Then lead the way. K ostrovu Mesa je to severovýchodním směrem. Je to ten s obří kamennou hlavou."
    [158]
@@ -343,7 +343,7 @@
    [164]
     1 string data = "Zatímco síly zla vyčkávají na správný okamžik, strach udeří na citlivé místo..."
    [165]
-    1 string data = "Proti oživenému Dweller of Strife ohlašujícímu návrat teroru, jenž byl považován za minulost, má svět, na němž zbyli pouze tři Bojovníci Slunovratu, zdánlivě mizivou šanci."
+    1 string data = "Svět, na němž zbyli pouze tři Bojovníci Slunovratu, má zdánlivě mizivou šanci po vzkříšení Dwellere sváru jenž zvěstuje návrat teroru považovaného navždy za minulost."
    [166]
     1 string data = "Nyní, když je závoj lží odkryt a kus jejich nevinnosti pryč, se naši hrdinové vrací do Brisku, zatímco jejich ředitel hledá způsob, jak se dostat na ostrov Mesa."
    [167]
@@ -351,7 +351,7 @@
    [168]
     1 string data = "A tak bylo založeno město Veselí, zatímco lidé, kteří upřednostnili zůstat v Brisku, pracovali na obnovení jeho původní krásy."
    [169]
-    1 string data = "While down but certainly not out, [MAINCHAR], [OFFCHAR], Garl a Seraï vyplouvají na Strážcův ostrov v naději, že najdou Věštce přílivů a odlivů."
+    1 string data = "Sklíčení avšak pořád odhodláni, [MAINCHAR], [OFFCHAR], Garl a Seraï vyplouvají na Strážcův ostrov v naději, že najdou Věštce přílivů a odlivů."
    [170]
     1 string data = "Bude-li jejich vůle dostatečně silná, brzy se odehrají doposud nenapsané kapitoly..."
    [171]
