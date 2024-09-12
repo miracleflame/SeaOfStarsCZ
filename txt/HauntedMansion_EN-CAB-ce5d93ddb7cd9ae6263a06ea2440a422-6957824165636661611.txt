@@ -153,7 +153,7 @@
    [69]
     1 string data = "Vidím, že jste svou část dohody nakonec opravdu splnili."
    [70]
-    1 string data = "Vraťte se, odkud jste přišli, vy zloduši, tyhle mysle nepatří vám, abyste je mohli pokroutit!"
+    1 string data = "Vraťte se, odkud jste přišli, vy zloduši, nepřísluší vám ovlivňovat cizí zájmy!"
    [71]
     1 string data = "Oh, je snad tenhle stařík nervózní?"
    [72]
