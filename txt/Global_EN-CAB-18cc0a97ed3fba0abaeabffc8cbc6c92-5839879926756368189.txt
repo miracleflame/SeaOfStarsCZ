@@ -57,7 +57,7 @@
    [21]
     1 string data = "Vstup do Moře hvězd"
    [22]
-    1 string data = "~ Něco blískavého"
+    1 string data = "~ Něco blýskavého"
    [23]
     1 string data = "Něco společenského"
    [24]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "Něco spolehlivého"
    [35]
-    1 string data = "Něco alakritického"
+    1 string data = "Něco rychlého"
    [36]
     1 string data = "Něco chatrného"
    [37]
@@ -107,11 +107,11 @@
    [46]
     1 string data = "Už se vzdáváte?"
    [47]
-    1 string data = "Tohle je stůl na <color=magic>Kotouče</color>! Hrát může každý, kdo má vlastní Kotouče a alespoň dvě figurky!"
+    1 string data = "Tohle je stůl na <color=magic>Kotouče</color>! Hrát může každý, kdo má vlastní Kotouč a alespoň dvě figurky!"
    [48]
     1 string data = "Muzika je to nejvíc a nic než muzika není víc!"
    [49]
-    1 string data = "Ten, co hrá na píšťalku, je zde pravou hvězdou."
+    1 string data = "Ten, co hraje na píšťalku, je zde pravou hvězdou."
    [50]
     1 string data = "Jak se vám líbí naše písničky?"
    [51]
@@ -127,10 +127,10 @@
    [56]
     1 string data = "Keenathan je v tomhle borec."
    [57]
-    1 string data = "Všimli jste si, jak jsem to roztočil?"
+    1 string data = "Všimli jste si, jak jsem ji roztočil?"
    [58]
     1 string data = "Aye, tohle jediné miluju víc než plavbu!"
    [59]
-    1 string data = "Nikdy jsem se necítil víc živ!"
+    1 string data = "Nikdy jsem se necítila víc živa!"
    [60]
     1 string data = "Vsadím se, že jsme jediná kapela, která má ducha."
