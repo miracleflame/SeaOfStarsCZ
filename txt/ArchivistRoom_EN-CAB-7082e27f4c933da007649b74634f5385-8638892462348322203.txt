@@ -343,7 +343,7 @@
    [164]
     1 string data = "Zatímco síly zla vyčkávají na správný okamžik, strach udeří na citlivé místo..."
    [165]
-    1 string data = "Svět, na němž zbyli pouze tři Bojovníci Slunovratu, má zdánlivě mizivou šanci po vzkříšení Dwellere sváru jenž zvěstuje návrat teroru považovaného navždy za minulost."
+    1 string data = "Svět, na němž zbyli pouze tři Bojovníci Slunovratu, má zdánlivě mizivou šanci po vzkříšení Dwellere sváru, jenž zvěstuje návrat teroru považovaného navždy za minulost."
    [166]
     1 string data = "Nyní, když je závoj lží odkryt a kus jejich nevinnosti pryč, se naši hrdinové vrací do Brisku, zatímco jejich ředitel hledá způsob, jak se dostat na ostrov Mesa."
    [167]
@@ -351,7 +351,7 @@
    [168]
     1 string data = "A tak bylo založeno město Veselí, zatímco lidé, kteří upřednostnili zůstat v Brisku, pracovali na obnovení jeho původní krásy."
    [169]
-    1 string data = "Sklíčení avšak pořád odhodláni, [MAINCHAR], [OFFCHAR], Garl a Seraï vyplouvají na Strážcův ostrov v naději, že najdou Věštce přílivů a odlivů."
+    1 string data = "Sklíčení, avšak pořád odhodláni, [MAINCHAR], [OFFCHAR], Garl a Seraï vyplouvají na Strážcův ostrov v naději, že najdou Věštce přílivů a odlivů."
    [170]
     1 string data = "Bude-li jejich vůle dostatečně silná, brzy se odehrají doposud nenapsané kapitoly..."
    [171]
