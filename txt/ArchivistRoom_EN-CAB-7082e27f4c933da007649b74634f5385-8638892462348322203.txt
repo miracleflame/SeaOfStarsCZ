@@ -127,7 +127,7 @@
    [56]
     1 string data = "Pokud by se ovšem dozvěděl o mé přítomnosti zde..."
    [57]
-    1 string data = "My bychom se mu postavili, není nic jiného než ničema!"
+    1 string data = "My bychom se mu postavili, není nic víc než ubožák!"
    [58]
     1 string data = "..."
    [59]
