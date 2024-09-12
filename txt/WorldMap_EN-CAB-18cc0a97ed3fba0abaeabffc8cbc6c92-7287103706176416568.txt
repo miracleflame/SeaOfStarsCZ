@@ -27,7 +27,7 @@
    [6]
     1 string data = "Nechte se tedy vyprovodit. Ale nejprve vaše proroctví."
    [7]
-    1 string data = "Budu je říkat přímo vašim myslím, protože jsou jen a jen vaše."
+    1 string data = "Sdělím je přímo vašim myslím, protože jsou jen a jen vaše."
    [8]
     1 string data = "Zale. Předstup."
    [9]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "Valerie. Přistup blíž."
    [13]
-    1 string data = "(Až přijde čas, budeš to ty, kdo <color=magic>stvoří cesty na vodě</color>.")"
+    1 string data = "(Až přijde čas, budeš to ty, kdo <color=magic>vytvoří cesty na vodě</color>.")"
    [14]
     1 string data = "..."
    [15]
@@ -61,13 +61,13 @@
    [23]
     1 string data = "Dobře, udělám, co bude v mých silách!"
    [24]
-    1 string data = "Nyní víš vše, co jsem tě mohl naučit."
+    1 string data = "Nyní víte vše, co jsem vás mohl naučit."
    [25]
     1 string data = "Posílám vás na <color=location>Spáčův ostrov</color>, kde vás čeká osudové setkání s <color=good>posádkou</color>, která má namířeno za dobrodružstvím."
    [26]
-    1 string data = "Spřátelte se s nimi a oni vám pomohou <color=magic>doplout na Spáčův ostrov včas před dalším zatměním</color>."
+    1 string data = "Spřátelte se s nimi a oni vám pomohou <color=magic>doplout na Přízračný ostrov včas před dalším zatměním</color>."
    [27]
-    1 string data = "Chcete-li aktivovat tohoto Obra, dejte mu jméno <color=dobrý>X'tol</color> a on vás vyšle na Spáčův ostrov."
+    1 string data = "Chcete-li aktivovat tohoto Obra, dejte mu jméno <color=good>X'tol</color> a on vás vyšle na Spáčův ostrov."
    [28]
     1 string data = "Chcete-li se sem vrátit, jednoduše přistupte k X'tolu a vyslovte jméno tohoto, jež je-"
    [29]
@@ -97,7 +97,7 @@
    [41]
     1 string data = "Puntie"
    [42]
-    1 string data = "Potřebujete trochu nakopnout"
+    1 string data = "Potřebujete trochu nakopnout?"
    [43]
     1 string data = "Y'eet"
    [44]
@@ -131,7 +131,7 @@
    [58]
     1 string data = "Khukharr!"
    [59]
-    1 string data = "Jít na základnu Molekin?"
+    1 string data = "Jít do Kamenolomu?"
    [60]
     1 string data = "Ostrov se nachází severovýchodně od Brisku. Nezapomeňte použít mapu v případě potřeby!"
    [61]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "Nemám tušení, vypadá to jako obří hranol."
    [66]
-    1 string data = "Tám'leta věž lopí na dně oceánu. Tudydle neprojdem!"
+    1 string data = "Tám'leta věž čupí na dně oceánu. Tudydle neprojdem!"
    [67]
     1 string data = "Cestovat do domovského světa?"
    [68]
@@ -153,7 +153,7 @@
    [69]
     1 string data = "Ne"
    [70]
-    1 string data = "Cestovat do Seraïinho světa?"
+    1 string data = "Cestovat do Seraïina světa?"
    [71]
     1 string data = "Ano"
    [72]
@@ -161,11 +161,11 @@
    [73]
     1 string data = "Jsem rád, že jsem se přidal k posádce - ten vzduch je pořád báječný!"
    [74]
-    1 string data = "Jsem trochu šoufl. Hádám se brzo dostanu na mořské nohy!"
+    1 string data = "Je mi trochu šoufl. Doufám, že si na pobyt na lodi brzy zvyknu!"
    [75]
     1 string data = "Moře hvězd byla neuvěřitelná jízda. Teď jsem se svým rozhodnutím ještě spokojenější, než když jsem se prvně připojil!"
    [76]
-    1 string data = "Myslím, že jsem se konečně postavil na své mořské nohy!"
+    1 string data = "Myslím, že jsem si konečně zvyknul na tuhle loď!"
    [77]
     1 string data = "Zametání je práce na plný úvazek. Ve chvíli, kdy skončím, se vyplatí začít znovu!"
    [78]
@@ -173,7 +173,7 @@
    [79]
     1 string data = "Jenom řeším něco, o co mě požádala Yolanda."
    [80]
-    1 string data = "Všichni odvádíte dobrou práci. Máte mou přízeň!"
+    1 string data = "Všichni odvádíte dobrou práci. Máte mou podporu!"
    [81]
     1 string data = "Spousta starého harampádí, které můžeme, ale taky nemusíme potřebovat. Valtraid říká, že to zvládnu vyřídit sám!"
    [82]
@@ -183,11 +183,11 @@
    [84]
     1 string data = "No tak, kde to bylo..."
    [85]
-    1 string data = "Yolanda je nejlepší šéfová, jakou jsem kdy měl."
+    1 string data = "Yolanda je nejlepší šéfová, jakou jsem kdy měla."
    [86]
     1 string data = "Makám, makám."
    [87]
-    1 string data = "Keenathanovu koncertinu bych mohl poslouchat celý den!"
+    1 string data = "Keenathanovu koncertinu bych mohla poslouchat celý den!"
    [88]
     1 string data = "Seraïin svět působí tak nějak děsivě, nemyslíš?"
    [89]
@@ -199,23 +199,23 @@
    [92]
     1 string data = "Máme veškeré zásoby, co potřebujeme."
    [93]
-    1 string data = "Teaks je opravdu dobrá pohádkářka!"
+    1 string data = "Teaks je opravdu dobrá vypravěčka!"
    [94]
-    1 string data = "Vážně mám těd pocit, že plavba je mým pravým posláním, už se nikdy nechci vrátit domů."
+    1 string data = "Vážně mám těď pocit, že plavba je mým pravým posláním, už se nikdy nechci vrátit domů."
    [95]
-    1 string data = "Hortence mě začal vyučovat základy navigace. Chci se naučit víc!"
+    1 string data = "Hortenzie mě začala vyučovat základy mořeplavby. Chci se naučit víc!"
    [96]
     1 string data = "Croustalion si užívá nejlepší chvíle svého života."
    [97]
-    1 string data = "Croustalion má utěšený sen."
+    1 string data = "Croustalion má příjemný sen."
    [98]
     1 string data = "Croustalion řeší složitý problém."
    [99]
-    1 string data = "Croustalion přemýšlí o B'st."
+    1 string data = "Croustalion přemýšlí o B'stovi."
    [100]
-    1 string data = "Croustalion se snaží poznat svou oblíbenou svačinu."
+    1 string data = "Croustalion se snaží rozhodnout o své oblíbené svačině."
    [101]
-    1 string data = "Croustalion si připravuje své denní dobrozdání."
+    1 string data = "Croustalion si připravuje svůj denní projev vděčnosti."
    [102]
     1 string data = "Croustalion se nechává unášet příjemnou vzpomínkou."
    [103]
