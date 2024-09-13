@@ -201,7 +201,7 @@
    [93]
     1 string data = "Teaks je opravdu dobrá vypravěčka!"
    [94]
-    1 string data = "Vážně mám těď pocit, že plavba je mým pravým posláním, už se nikdy nechci vrátit domů."
+    1 string data = "Vážně mám teď pocit, že plavba je mým pravým posláním, už se nikdy nechci vrátit domů."
    [95]
     1 string data = "Hortenzie mě začala vyučovat základy mořeplavby. Chci se naučit víc!"
    [96]
