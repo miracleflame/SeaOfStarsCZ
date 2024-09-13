@@ -127,7 +127,7 @@
    [56]
     1 string data = "Keenathan je v tomhle borec."
    [57]
-    1 string data = "Všimli jste si, jak jsem ji roztočil?"
+    1 string data = "Všimli jste si, jak jsem to roztočil?"
    [58]
     1 string data = "Aye, tohle jediné miluju víc než plavbu!"
    [59]
