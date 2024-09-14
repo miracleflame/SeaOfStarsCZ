@@ -123,13 +123,13 @@
    [54]
     1 string data = "Vidím, že jste stejně vynalézaví, jako jste lehkovážní."
    [55]
-    1 string data = "Řediteli! Garl potřebuje pomoc!"
+    1 string data = "Pane řediteli! Garl potřebuje pomoc!"
    [56]
     1 string data = "Je to... lepší..."
    [57]
     1 string data = "Garl se potřebuje především nezabývat záležitostmi Bojovníků Slunovratu, stejně jako každý jiný, kdo se v Mooncradle narodil jako běžné dítě!"
    [58]
-    1 string data = "Je mi to vážně líto, řediteli. Celé to byl můj nápad..."
+    1 string data = "Je mi to vážně líto, pane řediteli. Celé to byl můj nápad..."
    [59]
     1 string data = "Hele!"
    [60]
