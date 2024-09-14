@@ -15,7 +15,7 @@
    [0]
     1 string data = "Stiskněte <button="TitleScreenStart">"
    [1]
-    1 string data = "Sea of Stars má dva hlavní hrdiny. Zvolte toho, který povede skupinu.<br><color=#8C9BAC>(Toto rozhodnutí nemá vliv na příběh a může být později změněno.)</color>"
+    1 string data = "Sea of Stars má dva hlavní hrdiny. Zvolte toho, který povede družinu.<br><color=#8C9BAC>(Toto rozhodnutí nemá vliv na příběh a může být později změněno.)</color>"
    [2]
     1 string data = "Ano"
    [3]
@@ -61,7 +61,7 @@
    [23]
     1 string data = "Pořadí"
    [24]
-    1 string data = "Měňit pořadí členů skupiny."
+    1 string data = "Měňit pořadí členů družiny."
    [25]
     1 string data = "Pokrmy"
    [26]
@@ -175,9 +175,9 @@
    [80]
     1 string data = "<button="MoveHorizontal"> Komba"
    [81]
-    1 string data = "<button="MoveVertical"> Posuň"
+    1 string data = "<button="MoveVertical"> Posunout"
    [82]
-    1 string data = "<button="UI_Confirm"> Vyměň"
+    1 string data = "<button="UI_Confirm"> Vyměnit"
    [83]
     1 string data = "Chcete uložit váš postup?"
    [84]
@@ -225,9 +225,9 @@
    [105]
     1 string data = "Upravit jas pomocí <button="UI_Left"> a <button="UI_Right">"
    [106]
-    1 string data = "Rozlíšení Obrazovky"
+    1 string data = "Rozlišení Obrazovky"
    [107]
-    1 string data = "Upravit rozlíšení obrazovky"
+    1 string data = "Upravit rozlišení obrazovky"
    [108]
     1 string data = "Režim Obrazovky"
    [109]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "VSync"
    [113]
-    1 string data = "Synchronizovat renderování s obnovovancí frekvencí obrazovky."
+    1 string data = "Synchronizovat renderování s obnovovací frekvencí obrazovky."
    [114]
     1 string data = "Aplikovat změny"
    [115]
@@ -247,13 +247,13 @@
    [116]
     1 string data = "Celá Obrazovka"
    [117]
-    1 string data = "V Okne"
+    1 string data = "V Okně"
    [118]
-    1 string data = "Exkluzívně"
+    1 string data = "Exkluzivně"
    [119]
     1 string data = "Velikost Okna"
    [120]
-    1 string data = "Zdetegovaná obnovovací frekvence se zdá být nižší než odporučených 60hz. Pro optimální zážitek si prosím ověrte nastavení monitora."
+    1 string data = "Zdetekována obnovovací frekvence se zdá být nižší než doporučených 60hz. Pro optimální zážitek si prosím ověřte nastavení monitoru."
    [121]
     1 string data = "Interakce"
    [122]
@@ -275,13 +275,13 @@
    [130]
     1 string data = "Čas Dne (Zpět)"
    [131]
-    1 string data = "Posuň Nahoru"
+    1 string data = "Posunout Nahoru"
    [132]
-    1 string data = "Posuň Dolů"
+    1 string data = "Posunout Dolů"
    [133]
-    1 string data = "Posuň Doprava"
+    1 string data = "Posunout Doprava"
    [134]
-    1 string data = "Posuň Doleva"
+    1 string data = "Posunout Doleva"
    [135]
     1 string data = "Potvrdit"
    [136]
@@ -457,7 +457,7 @@
    [221]
     1 string data = "Kopírování..."
    [222]
-    1 string data = "Kam skopírovat?"
+    1 string data = "Kam zkopírovat?"
    [223]
     1 string data = "Smazat tuto pozici?"
    [224]
@@ -467,7 +467,7 @@
    [226]
     1 string data = "Vytvořit Novou Hru + na této pozici?"
    [227]
-    1 string data = "Existuje novší autopozice."
+    1 string data = "Existuje novější autopozice."
    [228]
     1 string data = "<button="UI_SecondaryAction"> Smazat"
    [229]
@@ -495,7 +495,7 @@
    [240]
     1 string data = "Kotouče"
    [241]
-    1 string data = "Žádné data"
+    1 string data = "Žádná data"
    [242]
     1 string data = "Úroveň"
    [243]
@@ -591,7 +591,7 @@
    [288]
     1 string data = "<button="UI_Confirm"> Prodat"
    [289]
-    1 string data = "<button="UI_Confirm"> Vybav"
+    1 string data = "<button="UI_Confirm"> Vybavit"
    [290]
     1 string data = "<button="UI_Back"> Ponechat"
    [291]
@@ -609,13 +609,13 @@
    [297]
     1 string data = "<button="Cancel"> Zpět"
    [298]
-    1 string data = "<button=MoveHorizontal"> Zatoč"
+    1 string data = "<button=MoveHorizontal"> Zatočit"
    [299]
-    1 string data = "<button="Interact"> Strhni"
+    1 string data = "<button="Interact"> Strhnnout"
    [300]
-    1 string data = "<button="Interact"> Naviň"
+    1 string data = "<button="Interact"> Navinout"
    [301]
-    1 string data = "<button="WindBracelet"> Prohoď postavy"
+    1 string data = "<button="WindBracelet"> Prohodit postavy"
    [302]
     1 string data = "<button="DeployParty"> Utábořit se"
    [303]
@@ -647,19 +647,19 @@
    [316]
     1 string data = "Náklad"
    [317]
-    1 string data = "<button="UI_Confirm"> Odlož"
+    1 string data = "<button="UI_Confirm"> Odložit"
    [318]
-    1 string data = "<button="Interact"> Kopej"
+    1 string data = "<button="Interact"> Kopat"
    [319]
-    1 string data = "<button="Interact"> Uchop"
+    1 string data = "<button="Interact"> Uchopit"
    [320]
-    1 string data = "<button="Interact"> Upusť"
+    1 string data = "<button="Interact"> Upustit"
    [321]
     1 string data = "<button="Cancel"> Zpět"
    [322]
     1 string data = "Do inventáře"
    [323]
-    1 string data = "Vybav se teď"
+    1 string data = "Vybavit se teď"
    [324]
     1 string data = "Koupit"
    [325]
@@ -669,9 +669,9 @@
    [327]
     1 string data = "Původně vybaveno"
    [328]
-    1 string data = "Kup za <color=#FFFFFF>[PRICE]</color> Z ?"
+    1 string data = "Koupit za <color=#FFFFFF>[PRICE]</color> Z ?"
    [329]
-    1 string data = "Prodej za <color=#FFFFFF>[PRICE]</color> Z ?"
+    1 string data = "Prodat za <color=#FFFFFF>[PRICE]</color> Z ?"
    [330]
     1 string data = "Konec Hry"
    [331]
@@ -679,11 +679,11 @@
    [332]
     1 string data = "Údaje hraní"
    [333]
-    1 string data = "<button="MoveVertical"> Skroluj"
+    1 string data = "<button="MoveVertical"> Skrolovat"
    [334]
-    1 string data = "<button="AdvanceTime"> Super Louč"
+    1 string data = "<button="AdvanceTime"> Super Paprsek"
    [335]
-    1 string data = "<button="WindBracelet"> Ponor"
+    1 string data = "<button="WindBracelet"> Vyhnout se"
    [336]
     1 string data = "Doba hraní"
    [337]
@@ -717,11 +717,11 @@
    [351]
     1 string data = "B'waak! Zůstal Šampion Kotoučů! Zůstal Šampion Kotoučů!"
    [352]
-    1 string data = "V [LEVEL_NAME]. B'waak!"
+    1 string data = "V lokaci [LEVEL_NAME]. B'waak!"
    [353]
     1 string data = "Vše čisto! B'waak!"
    [354]
-    1 string data = "Nedřív třeba postoupit dál. B'waak!"
+    1 string data = "Nejdřív je třeba postoupit dál. B'waak!"
    [355]
     1 string data = "<button="UI_Back"> Přeskočit"
    [356]
