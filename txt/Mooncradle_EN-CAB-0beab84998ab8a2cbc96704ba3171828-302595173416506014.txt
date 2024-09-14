@@ -13,21 +13,21 @@
   1 Array Array (691 items)
    0 int size = 691
    [0]
-    1 string data = "Má zbraň bude něco takového, co udeří\nopravdu tvrdě!"
+    1 string data = "Má zbraň bude něco takového, co udeří opravdu tvrdě!"
    [1]
     1 string data = "A já si vyberu takovou, co bude RYCHLÁ!"
    [2]
     1 string data = "Budeme nezastavitelní!"
    [3]
-    1 string data = "Představ si všechny ty divy, které objevíme, až opustíme Ostrov věčné mlhy."
+    1 string data = "Jen si představte všechny ty divy, které objevíme, až opustíme Ostrov věčné mlhy."
    [4]
     1 string data = "Chci vidět <color=bad>Spáče</color>!"
    [5]
     1 string data = "Cože to?"
    [6]
-    1 string data = "Ty jsi nikdy neslyšel o Spáči?"
+    1 string data = "Ty jsi nikdy neslyšela o Spáči?"
    [7]
-    1 string data = "Pověsti říkají, že je to obrovský drak, který spí stočený kolem hory již z dob, kdy ještě neexistovali cestující historici, kteří by to zaznamenali."
+    1 string data = "Podle pověstí je to obrovský drak, který spí stočený kolem hory již od dob, kdy ještě neexistovali Potulní historici, kteří by to zaznamenali."
    [8]
     1 string data = "Kecáš!"
    [9]
@@ -37,7 +37,7 @@
    [11]
     1 string data = "Proč ne?"
    [12]
-    1 string data = "Patrně jsou v hoře otvory, kterými fouká vítr, a tím hraje melodii, která ho udržuje ve spánku."
+    1 string data = "Prý jsou v hoře otvory, kterými fouká vítr, a tím hraje melodii, která ho udržuje ve spánku."
    [13]
     1 string data = "Páni..."
    [14]
@@ -47,7 +47,7 @@
    [16]
     1 string data = "Rychle, třeba je dohoníme dřív, než půjdou do akademie!"
    [17]
-    1 string data = "Hej, počekejte!!!"
+    1 string data = "Hej, počkejte!!!"
    [18]
     1 string data = "Tady jste!"
    [19]
@@ -85,13 +85,13 @@
    [35]
     1 string data = "Hned to bude, pane řediteli."
    [36]
-    1 string data = "Můžeme jít také?"
+    1 string data = "Můžeme jít taky?"
    [37]
     1 string data = "Věřte mi, že až jednou vstoupíte do <color=location>Akademie zenitu</color>, budete litovat, že jste si to dřív nerozmysleli."
    [38]
     1 string data = "..."
    [39]
-    1 string data = "Pojďme, Brugave."
+    1 string data = "Pojďme, Brugavesi."
    [40]
     1 string data = "..."
    [41]
@@ -105,9 +105,9 @@
    [45]
     1 string data = "Už jsme to zkoušeli, nedokážu ji otevřít."
    [46]
-    1 string data = "Jo, ale posledně jsme se dohodli, že by možná úplněk mohl zesílit citlivost runy."
+    1 string data = "Jo, ale posledně jsme se shodli na tom, že by možná úplněk mohl zesílit citlivost runy."
    [47]
-    1 string data = "Jsem si jistý, že to bude fungovat! A na ředitele Morenu to udělá takový dojem, že vás dva hned vezme do výcviku a pak konečně budeme moct opustit tenhle ostrov!"
+    1 string data = "Jsem si jistý, že to bude fungovat! A na ředitele Moraina to udělá takový dojem, že vás dva hned vezme do výcviku a pak konečně budeme moct opustit tenhle ostrov!"
    [48]
     1 string data = "A co když se naštve a náš výcvik místo toho odloží?"
    [49]
@@ -119,13 +119,13 @@
    [52]
     1 string data = "Dobře, jdeme na to!"
    [53]
-    1 string data = "Nezapomeňte ošetřit ránu a ukonejšit to ubohé dítě."
+    1 string data = "Nezapomeňte ošetřit ránu a to ubohé dítě ukonejšit."
    [54]
-    1 string data = "Není z těch, co si stěžují, ale kdyby se zdálo, že se bolest vrací, pošlete pro mě, prosím."
+    1 string data = "On není někdo, kdo by naříkal, ale kdyby se zdálo, že se bolest vrací, pošlete pro mě, prosím."
    [55]
-    1 string data = "Rozumíme, pane řediteli."
+    1 string data = "Rozumím, pane řediteli."
    [56]
-    1 string data = "Svého přítele neuvidíte velmi dlouho. Pokud máte pár slov na rozloučenou, proneste je teď."
+    1 string data = "Svého přítele velmi dlouho neuvidíte. Pokud máte pár slov na rozloučenou, proneste je teď."
    [57]
     1 string data = "Já..."
    [58]
@@ -135,17 +135,17 @@
    [60]
     1 string data = "Ach, ta nedočkavost mládí."
    [61]
-    1 string data = "Trvá roky, než se pořádně vycvičí Bojovníci Slunovratu."
+    1 string data = "Trvá roky, než se Bojovníci Slunovratu dostatečně vycvičí."
    [62]
     1 string data = "ROKY!?!"
    [63]
-    1 string data = "V žádném případě!"
+    1 string data = "To nemyslíte vážně!"
    [64]
     1 string data = "Ale..."
    [65]
-    1 string data = "Vaši přátelé se mají co učit."
+    1 string data = "Tví přátelé se mají co učit."
    [66]
-    1 string data = "Doporučuji ti využít tento čas k zamyšlení nad tím, co se dnes stalo."
+    1 string data = "Doporučuji ti využít tento čas k zamyšlení se nad tím, co se dnes stalo."
    [67]
     1 string data = "S trochou štěstí se ti podaří hodit za hlavu všechny nápady, jak se zaplést s břemenem, které ti nenáleží."
    [68]
@@ -173,11 +173,11 @@
    [79]
     1 string data = "Cítím podivné chvění, jako když jsem otevřela Zakázanou jeskyni."
    [80]
-    1 string data = "Dobře, že sis toho všimla."
+    1 string data = "Je dobře, že sis toho všimla."
    [81]
     1 string data = "Být blíž ke hvězdám pomáhá novým rekrutům obeznámit se s jejich <color=magic>vnitřní magií</color>."
    [82]
-    1 string data = "Svědčí to o velkém potenciálu, že jsi to pocítila už dříve. U Zalea také, podle toho, co mi řekla Erlina."
+    1 string data = "To, že jsi to pocítila už dříve, svědčí o velkém potenciálu. U Zalea také, podle toho, co mi řekla Erlina."
    [83]
     1 string data = "Ale, byl to jen malý výboj."
    [84]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "O magii, kterou jste předurčeni ovládat, a o zlu, které má očistit."
    [89]
-    1 string data = "Naučíme se také bojovat, že?"
+    1 string data = "Bojovat se naučíme taky, že jo?"
    [90]
     1 string data = "Přirozeně."
    [91]
@@ -203,13 +203,13 @@
    [94]
     1 string data = "A mohu vás ujistit, že také je."
    [95]
-    1 string data = "Přesto povinný úkol."
+    1 string data = "Přesto jde o povinný úkol."
    [96]
-    1 string data = "Všichni, kdo chtějí vstoupit do našemu řádu, začínají tím, že svou vůli vetkají do očarovaného kusu látky, stuhy Bojovníka Slunovratu."
+    1 string data = "Všichni, kdo mají vstoupit do našeho řádu, začínají tím, že svou vůli vetkají do očarovaného kusu látky, odznaku Bojovníka Slunovratu."
    [97]
     1 string data = "Je to jejich nejcennější vlastnictví, které zaručuje světlo na nejtemnějších místech a určitou ochranu před přisluhovači <color=bad>Fleshmancera</color>."
    [98]
-    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi, trénovat, dokud si nebudete cítit své končetiny, a pak ještě víc trénovat."
+    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi, trénovat, dokud nebudete cítit své končetiny, a pak ještě víc trénovat."
    [99]
     1 string data = "Jakmile vaše tělo i mysl dozrají potenciálem, vytvoříte <color=magic>magický kus látky</color> hodný samotných hvězd."
    [100]
@@ -217,7 +217,7 @@
    [101]
     1 string data = "Tkát..."
    [102]
-    1 string data = "Chápu, že to není to, v co jsi doufal, ale je to to, co se od tebe prozatím vyžaduje."
+    1 string data = "Chápu, že to není to, v co jsi doufal, ale je to něco, co se od tebe prozatím vyžaduje."
    [103]
     1 string data = "Roky tkaní..."
    [104]
