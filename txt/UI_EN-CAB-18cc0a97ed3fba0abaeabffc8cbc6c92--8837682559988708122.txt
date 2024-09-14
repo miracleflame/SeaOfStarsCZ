@@ -253,7 +253,7 @@
    [119]
     1 string data = "Velikost Okna"
    [120]
-    1 string data = "Zdetekována obnovovací frekvence se zdá být nižší než doporučených 60hz. Pro optimální zážitek si prosím ověřte nastavení monitoru."
+    1 string data = "Zdetekovaná obnovovací frekvence se zdá být nižší než doporučených 60hz. Pro optimální zážitek si prosím ověřte nastavení monitoru."
    [121]
     1 string data = "Interakce"
    [122]
