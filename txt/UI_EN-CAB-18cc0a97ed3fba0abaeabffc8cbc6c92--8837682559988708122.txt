@@ -349,7 +349,7 @@
    [167]
     1 string data = "Ovládání"
    [168]
-    1 string data = "Zpět na úvodní obrazovku"
+    1 string data = "Na úvodní obrazovku"
    [169]
     1 string data = "Vzdát se"
    [170]
