@@ -165,7 +165,7 @@
    [75]
     1 string data = "Králik Sling"
    [76]
-    1 string data = "Vulva"
+    1 string data = "Sopucha"
    [77]
     1 string data = "Dron"
    [78]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "Mchanická ohavnost"
    [112]
-    1 string data = "Elyzej'darëlle"
+    1 string data = "Elysan'darëlle"
    [113]
     1 string data = "Krabolo"
    [114]
