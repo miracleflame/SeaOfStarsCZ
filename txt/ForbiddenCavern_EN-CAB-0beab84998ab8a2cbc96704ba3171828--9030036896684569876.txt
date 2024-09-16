@@ -75,7 +75,7 @@
    [30]
     1 string data = "Myslel jsem si, že na Mlžném ostrově je bezpečno."
    [31]
-    1 string data = "Asi to platí jenom pro Mooncradle..."
+    1 string data = "Asi to platí jenom pro Měsíční Kolébku..."
    [32]
     1 string data = "Měli bychom se vrátit, vypadají nebezpečně."
    [33]
@@ -127,7 +127,7 @@
    [56]
     1 string data = "Je to... lepší..."
    [57]
-    1 string data = "Garl se potřebuje především nezabývat záležitostmi Bojovníků Slunovratu, stejně jako každý jiný, kdo se v Mooncradle narodil jako běžné dítě!"
+    1 string data = "Garl se potřebuje především nezabývat záležitostmi Bojovníků Slunovratu, stejně jako každý jiný, kdo se v Měsíční Kolébce narodil jako běžné dítě!"
    [58]
     1 string data = "Je mi to vážně líto, pane řediteli. Celé to byl můj nápad..."
    [59]

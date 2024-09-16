@@ -205,7 +205,7 @@
    [95]
     1 string data = "Jazyk"
    [96]
-    1 string data = "Report pádů hry"
+    1 string data = "Hlášení pádů hry"
    [97]
     1 string data = "Celková Hlasitost"
    [98]

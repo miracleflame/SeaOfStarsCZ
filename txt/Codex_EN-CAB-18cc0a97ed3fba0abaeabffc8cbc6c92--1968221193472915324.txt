@@ -27,15 +27,15 @@
    [6]
     1 string data = "Dovednosti"
    [7]
-    1 string data = "Dovednosti jsou speciální akce, které stojí <color=menuhighlight>BM</color>. Nabízejí různé způsoby, jak přistupovat k boji a způsobovat <color=menuhighlight>magické poškození určitého typu</color>, od útoků na více cílů až po léčivá kouzla. Mohou být vylepšeny <color=menuhighlight>časovanými zásahy</color>."
+    1 string data = "Dovednosti jsou speciální akce, které stojí <color=menuhighlight>BM (Body Many)</color>. Nabízejí různé způsoby, jak přistupovat k boji a způsobovat <color=menuhighlight>magické poškození určitého typu</color>, od útoků na více cílů až po léčivá kouzla. Mohou být vylepšeny <color=menuhighlight>časovanými zásahy</color>."
    [8]
-    1 string data = "Regenerace BM"
+    1 string data = "Regenerace Bodů Many"
    [9]
     1 string data = "Běžné útoky <color=menuhighlight>obnovují 3 BM</color>. Neměli byste se zdráhat používat speciální dovednosti, i když nebojujete s bossem, protože útočit s plným proužkem BM je plýtvání <color=menuhighlight>regenerací</color>."
    [10]
     1 string data = "Předměty"
    [11]
-    1 string data = "Předměty (limit nosnosti 10) jsou svačiny <color=menuhighlight>připravené při kempování</color> nebo <color=menuhighlight>zakoupené v obchodech</color>. Možná je čas na svačinu, když potřebujete obnovit trochu <color=menuhighlight>BŽ</color>, ale nemůžete si dovolit kouzlo nebo potřebujete <color=menuhighlight>BM</color>, ale nemáte čas zaútočit pro regeneraci!"
+    1 string data = "Předměty (limit nosnosti 10) jsou svačiny <color=menuhighlight>připravené při kempování</color> nebo <color=menuhighlight>zakoupené v obchodech</color>. Možná je čas na svačinu, když potřebujete obnovit trochu <color=menuhighlight>Bodů Života</color>, ale nemůžete si dovolit kouzlo nebo potřebujete <color=menuhighlight>Bodů Many</color>, ale nemáte čas zaútočit pro regeneraci!"
    [12]
     1 string data = "Posílení pomocí Živé many"
    [13]
@@ -85,7 +85,7 @@
    [35]
     1 string data = "Pokud se plovák nachází v blízkosti ryby, ta <color=menuhighlight>zabere</color>! Když ryba bere, <color=menuhighlight>řidíte</color> ji do stran pomocí <button="MoveHorizontal"> a stisknutím a podržením <button="Interact"> ji <color=menuhighlight>navíjíte, dokud je v zóně</color>."
    [36]
-    1 string data = "Rybaření - Navinutí a úlovek"
+    1 string data = "Rybaření - navinutí a úlovek"
    [37]
     1 string data = "Dávejte pozor, abyste nenavíjeli mimo zónu, jinak se vlasec <color=bad>přetrhne</color>. Navíjejte rybu až k molu, kde ji <color=menuhighlight>ulovíte</color>!"
    [38]
@@ -97,7 +97,7 @@
    [41]
     1 string data = "Menu relikvií nabízí způsoby, jak si <color=menuhighlight>přizpůsobit zážitek ze hry</color>. Pokud dáváte přednost lehčímu boji, možná by bylo dobré aktivovat například relikvii <color=magic>Amulet vyprávění</color>."
    [42]
-    1 string data = "Pohyb"
+    1 string data = "Běhání"
    [43]
     1 string data = "Použijte <button="MoveAll"> k <color=menuhighlight>běhání</color>."
    [44]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "Plavání"
    [51]
-    1 string data = "Pomocí <button="MoveAll"> vstupujte/vystupujte z/do <color=menuhighlight>vodních ploch</color> a <color=menuhighlight>plavte</color> kolem."
+    1 string data = "Pomocí <button="MoveAll"> vstupujete/vystupujete z/do <color=menuhighlight>vodních ploch</color> a <color=menuhighlight>plavete</color> kolem."
    [52]
     1 string data = "Náramek Mistral"
    [53]

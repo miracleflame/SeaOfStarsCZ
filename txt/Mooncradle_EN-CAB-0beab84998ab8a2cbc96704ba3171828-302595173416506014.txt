@@ -213,7 +213,7 @@
    [99]
     1 string data = "Jakmile vaše tělo i mysl dozrají potenciálem, vytvoříte <color=magic>magický kus látky</color> hodný samotných hvězd."
    [100]
-    1 string data = "Poté budete vysláni za hranice Zakázané jeskyně, abyste se setkali s <color=dobrá>Mlžným stařešinou</color>, neboť pouze on může oficiálně udělit titul Bojovníka Slunovratu."
+    1 string data = "Poté budete vysláni za hranice Zakázané jeskyně, abyste se setkali s <color=good>Mlžným stařešinou</color>, neboť pouze on může oficiálně udělit titul Bojovníka Slunovratu."
    [101]
     1 string data = "Tkát..."
    [102]

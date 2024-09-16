@@ -1123,7 +1123,7 @@
    [554]
     1 string data = "Makes the Archer class playable in Wheels."
    [555]
-    1 string data = "Gold"
+    1 string data = "Zlato"
    [556]
     1 string data = "The common currency."
    [557]
