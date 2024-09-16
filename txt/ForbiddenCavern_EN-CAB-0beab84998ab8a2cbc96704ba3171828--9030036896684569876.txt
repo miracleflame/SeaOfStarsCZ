@@ -73,7 +73,7 @@
    [29]
     1 string data = "Támhle jsou <color=bad>příšery</color>, schovejte se!"
    [30]
-    1 string data = "Myslel jsem si, že na Mlžném ostrově je bezpečno."
+    1 string data = "Myslel jsem si, že na Ostrově věčné mlhy je bezpečno."
    [31]
     1 string data = "Asi to platí jenom pro Měsíční Kolébku..."
    [32]
