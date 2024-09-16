@@ -49,7 +49,7 @@
    [17]
     1 string data = "Náš příběh začíná ve světě, který před několika generacemi Fleshmancer navštívil, způsobil tam obrovský chaos a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [18]
-    1 string data = "Kdesi na <color=location>Ostrově Věčné mlhy</color> se dvě statečné <color=good>Děti Slunovratu</color> vydávají na cestu, aby se setkaly s nesmrtelným duchem."
+    1 string data = "Kdesi na <color=location>Ostrově věčné mlhy</color> se dvě statečné <color=good>Děti Slunovratu</color> vydávají na cestu, aby se setkaly s nesmrtelným duchem."
    [19]
     1 string data = "Na to, aby se staly plnohodnotnými <color=good>Bojovníky Slunovratu</color>, se budou muset naučit "používat magii bez použití magie"..."
    [20]
