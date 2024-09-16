@@ -27,7 +27,7 @@
    [6]
     1 string data = "Lebkion"
    [7]
-    1 string data = "Akolyta Kunus'nuku"
+    1 string data = "Apoštolka Kunus'nuku"
    [8]
     1 string data = "Tsiklop"
    [9]
@@ -45,7 +45,7 @@
    [15]
     1 string data = "Tern"
    [16]
-    1 string data = "Mlžný střešina"
+    1 string data = "Mlžný stařešina"
    [17]
     1 string data = "Ruka Mlžného stařešiny"
    [18]
@@ -69,7 +69,7 @@
    [27]
     1 string data = "Křišťálový tulipán"
    [28]
-    1 string data = "Arkanová stráž"
+    1 string data = "Arkánová stráž"
    [29]
     1 string data = "Pyros"
    [30]
@@ -79,7 +79,7 @@
    [32]
     1 string data = "Mralovec"
    [33]
-    1 string data = "Botanický horor"
+    1 string data = "Zahradní zrůda"
    [34]
     1 string data = "Horní květina"
    [35]
@@ -131,9 +131,9 @@
    [58]
     1 string data = "GooGoon"
    [59]
-    1 string data = "Akolyta jednička"
+    1 string data = "Akolyta Jednička"
    [60]
-    1 string data = "Akolyta trojka"
+    1 string data = "Akolyta Trojka"
    [61]
     1 string data = "Rochecrossidere"
    [62]
@@ -149,7 +149,7 @@
    [67]
     1 string data = "Houbový rytíř"
    [68]
-    1 string data = "Travasin"
+    1 string data = "Trávasín"
    [69]
     1 string data = "Tock"
    [70]
@@ -163,7 +163,7 @@
    [74]
     1 string data = "Petarďák"
    [75]
-    1 string data = "Králik Sling"
+    1 string data = "Králík Sling"
    [76]
     1 string data = "Sopucha"
    [77]
@@ -225,17 +225,17 @@
    [105]
     1 string data = "Švec"
    [106]
-    1 string data = "Kurátor duše"
+    1 string data = "Kurátor duší"
    [107]
-    1 string data = "Klec z kostí"
+    1 string data = "Kostiklec"
    [108]
-    1 string data = "Sloup z kostí"
+    1 string data = "Kostisloup"
    [109]
     1 string data = "LeJugg"
    [110]
     1 string data = "Mermofděj"
    [111]
-    1 string data = "Mchanická ohavnost"
+    1 string data = "Mechanická ohavnost"
    [112]
     1 string data = "Elysan'darëlle"
    [113]
@@ -255,4 +255,4 @@
    [120]
     1 string data = "OAF"
    [121]
-    1 string data = "Katalizátor"
+    1 string data = "Catalyst"
