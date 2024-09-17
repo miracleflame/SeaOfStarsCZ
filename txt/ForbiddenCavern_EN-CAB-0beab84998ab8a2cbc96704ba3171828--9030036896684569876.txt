@@ -45,7 +45,7 @@
    [15]
     1 string data = "Zkus rozevřít dlaň a soustředit se."
    [16]
-    1 string data = "To zvládneš Valerie!"
+    1 string data = "To zvládneš, Valerie!"
    [17]
     1 string data = "VĚDĚL JSEM TO!!!"
    [18]
@@ -69,7 +69,7 @@
    [27]
     1 string data = "Tohle je fakt paráda, tak pojďme!"
    [28]
-    1 string data = "Poběž [MAINCHAR], chci vidět tu jeskyni!"
+    1 string data = "Poběž, [MAINCHAR], chci vidět tu jeskyni!"
    [29]
     1 string data = "Támhle jsou <color=bad>příšery</color>, schovejte se!"
    [30]
