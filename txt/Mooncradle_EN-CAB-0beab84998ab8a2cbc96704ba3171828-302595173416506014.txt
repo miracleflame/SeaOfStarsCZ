@@ -169,7 +169,7 @@
    [77]
     1 string data = "Vítejte v nebeské učebně."
    [78]
-    1 string data = "Páni, to je krása!!!"
+    1 string data = "Teda, to je krása!!!"
    [79]
     1 string data = "Cítím podivné chvění, jako když jsem otevřela Zakázanou jeskyni."
    [80]
@@ -193,7 +193,7 @@
    [89]
     1 string data = "Bojovat se naučíme taky, že jo?"
    [90]
-    1 string data = "Přirozeně."
+    1 string data = "Pochopitelně."
    [91]
     1 string data = "Budete trávit dny tréninkem a studiem, ale především tkaním."
    [92]
@@ -209,7 +209,7 @@
    [97]
     1 string data = "Je to jejich nejcennější vlastnictví, které zaručuje světlo na nejtemnějších místech a určitou ochranu před přisluhovači <color=bad>Fleshmancera</color>."
    [98]
-    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi, trénovat, dokud nebudete cítit své končetiny, a pak ještě víc trénovat."
+    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi, trénovat, dokud nebudete cítit své končetiny, a pak trénovat ještě víc."
    [99]
     1 string data = "Jakmile vaše tělo i mysl dozrají potenciálem, vytvoříte <color=magic>magický kus látky</color> hodný samotných hvězd."
    [100]
