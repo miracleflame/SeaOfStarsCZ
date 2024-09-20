@@ -47,13 +47,13 @@
    [16]
     1 string data = "Samozřejmě že ano! Bez tebe bychom spoustu věcí nezvládli."
    [17]
-    1 string data = "Můj svět už dávno padl do rukou <color=bad>Fleshmancera</color>."
+    1 string data = "Můj svět už dávno padl do rukou <color=bad>Karnimanta</color>."
    [18]
     1 string data = "Je... úplně v troskách..."
    [19]
     1 string data = "Z <color=location>Vesmírné základny</color> na obloze proudí husté mraky, které blokují sluneční světlo."
    [20]
-    1 string data = "A Měsíc... Fleshmancer ho potopil do oceánu..."
+    1 string data = "A Měsíc... Karnimant ho potopil do oceánu..."
    [21]
     1 string data = "!!"
    [22]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "<color=bad>Catalyst</color>, inteligentní zlý stroj, z nás všech postupně udělal kyborgy..."
    [34]
-    1 string data = "A takhle, bez možnosti zemřít, moji lidé bezmocně setrvávají naživu, zatímco jim <color=bad>Dweller of Dread</color> pomalu požírá duše."
+    1 string data = "A takhle, bez možnosti zemřít, moji lidé bezmocně setrvávají naživu, zatímco jim <color=bad>Přiživovač hrůzy</color> pomalu požírá duše."
    [35]
     1 string data = "Seraï, to je mi tak stašně moc líto..."
    [36]
@@ -91,7 +91,7 @@
    [38]
     1 string data = "Pokud se nám podaří zbavit těch mraků, Měsíc znovu zazáří."
    [39]
-    1 string data = "A potom bude Dweller of Dread zranitelný."
+    1 string data = "A potom bude Přiživovač hrůzy zranitelný."
    [40]
     1 string data = "My tvůj svět očistíme. To ti přísahám."
    [41]
@@ -103,7 +103,7 @@
    [44]
     1 string data = "Vydáme se do <color=location>Repine</color>, mého rodného města. Chci vám ukázat, proti čemu tady bojujeme."
    [45]
-    1 string data = "Ale co Fleshmancer?"
+    1 string data = "Ale co Karnimant?"
    [46]
     1 string data = "Ten má doupě na létajícím ostrově."
    [47]

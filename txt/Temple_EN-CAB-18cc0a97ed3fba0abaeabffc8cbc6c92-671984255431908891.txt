@@ -203,7 +203,7 @@
    [94]
     1 string data = "Takže s vámi uzavřel dohodu?"
    [95]
-    1 string data = "Fleshmancer? Ano, k tvorbě tvého dárku bylo mnoho z nás obětováno."
+    1 string data = "Karnimant? Ano, k tvorbě tvého dárku bylo mnoho z nás obětováno."
    [96]
     1 string data = "Ale to, co nám nabídl na oplátku... sílu magie mysli... a poslání uctívat Es'tristae... za to rozhodně stálo."
    [97]

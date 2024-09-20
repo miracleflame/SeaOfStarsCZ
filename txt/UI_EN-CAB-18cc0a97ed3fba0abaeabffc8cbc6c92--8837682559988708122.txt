@@ -355,7 +355,7 @@
    [170]
     1 string data = "Konec"
    [171]
-    1 string data = "<color=#3cc9ff>Základní akce a statistiky:</color> Během boje můžete pomocí <button="Combat_ChangeCharacterLeft"> & <button="Combat_ChangeCharacterRight"> vybrat, která z vašich postav půjde první, a pak provést útok nebo dovednost. Dovednosti vyžadují BD, které se regenerují při každém provedení základního útoku. BŽ jsou Body Života."
+    1 string data = "<color=#3cc9ff>Základní akce a statistiky:</color> Během souboje můžete pomocí <button="Combat_ChangeCharacterLeft"> & <button="Combat_ChangeCharacterRight"> vybrat, která z vašich postav půjde první, a pak provést útok nebo dovednost. Dovednosti vyžadují BD, které se regenerují při každém provedení základního útoku. BŽ jsou Body Života."
    [172]
     1 string data = "<color=#3cc9ff>Načasování úderů, bloků a dovedností:</color> Výsledek prakticky každé bojové akce lze ovlivnit stisknutím <button="Interact"> ve správný okamžik. Díky cviku a šikovnosti můžete zvýšit způsobené poškození a zároveň tlumit příchozí útoky a kouzla."
    [173]
@@ -365,7 +365,7 @@
    [175]
     1 string data = "<color=#3cc9ff>Pohyb:</color> Dali jsme dohromady ovladání postavy s bohatou sadou pohybů. Nejste vázáni na mřížku, takže při průzkumu nezapomeňte hojně používat <button="Interact">. Zvedání se, skákání do vody, plavání, šplhání nebo chůze po římsách. Jděte do toho."
    [176]
-    1 string data = "<color=#3cc9ff>Sběr / Odpočinek:</color> Existuje pouze jeden způsob, jak vyléčit družinu mimo boj: odpočinek. Hledejte bobule a houby, aby ste si připravili pokrmy, k tomu <sprite="ui-icons" name="stan"> je potřeba založit tábor. Otevřete herní nabídku <button="Player_GameMenu"> a najděte příkaz Odpočinek.".
+    1 string data = "<color=#3cc9ff>Sběr / Odpočinek:</color> Existuje pouze jeden způsob, jak vyléčit družinu mimo souboj: odpočinek. Hledejte bobule a houby, aby ste si připravili pokrmy, k tomu <sprite="ui-icons" name="stan"> je potřeba založit tábor. Otevřete herní nabídku <button="Player_GameMenu"> a najděte příkaz Odpočinek.".
    [177]
     1 string data = "<color=#3cc9ff>Truhly a vybavení:</color> Při putování mimo vyšlapané cesty můžete najít truhly. Truhly mohou obsahovat buď krystaly, které lze utratit za vylepšení zbraní a zbroje, nebo použitelné ozdoby."
    [178]

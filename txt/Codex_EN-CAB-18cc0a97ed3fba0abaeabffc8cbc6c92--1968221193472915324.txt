@@ -15,7 +15,7 @@
    [0]
     1 string data = "Obecné"
    [1]
-    1 string data = "Boj se spustí, když se vůdce vaší družiny srazí s nepřítelem nebo s jeho projektilem. Probíhá <color=menuhighlight>tahově</color> bez <color=menuhighlight>časového omezení</color>, což vám umožňuje taktizovat a provádět akce svým vlastním tempem."
+    1 string data = "Souboj se spustí, když se vůdce vaší družiny srazí s nepřítelem nebo s jeho projektilem. Probíhá <color=menuhighlight>tahově</color> bez <color=menuhighlight>časového omezení</color>, což vám umožňuje taktizovat a provádět akce svým vlastním tempem."
    [2]
     1 string data = "Časování zásahů"
    [3]
@@ -51,7 +51,7 @@
    [18]
     1 string data = "Senzitivnost a Odolnost"
    [19]
-    1 string data = "Někteří nepřátelé jsou <color=menuhighlight>Senzitivní</color> vůči určitým typům poškození, zatímco jiní mají <color=menuhighlight>Odolnost</color> vůči jiným. Existuje celkem 6 typů poškození, ačkoli na začátku hry se objevují pouze 4: <color=menuhighlight>Tupé</color>, <color=menuhighlight>Ostré</color>, <color=menuhighlight>Měsíční</color> a <color=menuhighlight>Sluneční</color>".
+    1 string data = "Někteří nepřátelé jsou <color=menuhighlight>Senzitivní</color> vůči určitým typům poškození, zatímco jiní mají <color=menuhighlight>Odolnost</color> vůči jiným. Existuje celkem 6 typů poškození, ačkoli na začátku hry se objevují pouze 4: <color=menuhighlight>Tupé</color>, <color=menuhighlight>Sečné</color>, <color=menuhighlight>Měsíční</color> a <color=menuhighlight>Sluneční</color>".
    [20]
     1 string data = "Přepínaní postav"
    [21]
@@ -89,9 +89,9 @@
    [37]
     1 string data = "Dávejte pozor, abyste nenavíjeli mimo zónu, jinak se vlasec <color=bad>přetrhne</color>. Navíjejte rybu až k molu, kde ji <color=menuhighlight>ulovíte</color>!"
    [38]
-    1 string data = "Léčení mimo boj"
+    1 string data = "Léčení mimo souboj"
    [39]
-    1 string data = "Pokud se potřebujete léčit mimo boj a v okolí není žádné tábořiště, můžete se přes herní menu dostat ke svým magickým <color=menuhighlight>dovednostem</color> nebo sníst <color=menuhighlight>svačinu</color> z batohu."
+    1 string data = "Pokud se potřebujete léčit mimo souboj a v okolí není žádné tábořiště, můžete se přes herní menu dostat ke svým magickým <color=menuhighlight>dovednostem</color> nebo sníst <color=menuhighlight>svačinu</color> z batohu."
    [40]
     1 string data = "Relikvie"
    [41]

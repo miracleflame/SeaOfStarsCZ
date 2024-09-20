@@ -151,7 +151,7 @@
    [68]
     1 string data = "Nekonečná hlubina"
    [69]
-    1 string data = "Fleshmancerovo doupě"
+    1 string data = "Karnimantovo doupě"
    [70]
     1 string data = "Svatyně Slunovratu"
    [71]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Ostrov nehybného rybníku"
    [89]
-    1 string data = "Fleshmancerovo doupě"
+    1 string data = "Karnimantovo doupě"
    [90]
     1 string data = "Nekonečná hlubina"
    [91]

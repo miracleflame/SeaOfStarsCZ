@@ -191,7 +191,7 @@
    [88]
     1 string data = "Jasně, že jo! A taky jsem hodně četl!"
    [89]
-    1 string data = "Víte, většina nestvůr, kterým budete čelit, ani nebudou <color=bad>Fleshmancerovi přisluhovači</color>, což znamená, že s nimi může bojovat kdokoliv."
+    1 string data = "Víte, většina nestvůr, kterým budete čelit, ani nebudou <color=bad>Karnimantovi přisluhovači</color>, což znamená, že s nimi může bojovat kdokoliv."
    [90]
     1 string data = "Jsi si tím jistý?"
    [91]
@@ -335,7 +335,7 @@
    [160]
     1 string data = "Noste je se zřetelem, neboť posílí vaši vrozenou magii."
    [161]
-    1 string data = "Od nynějška budete mít světlo i v těch nejtemnějších místech a ochranu před přisluhovači Fleshmancera."
+    1 string data = "Od nynějška budete mít světlo i v těch nejtemnějších místech a ochranu před přisluhovači Karnimanta."
    [162]
     1 string data = "Necítím se nějak jinak..."
    [163]
@@ -485,7 +485,7 @@
    [235]
     1 string data = "Takže..."
    [236]
-    1 string data = "Půjdete po Erlině a Fleshmancerovi?"
+    1 string data = "Půjdete po Erlině a Karnimantovi?"
    [237]
     1 string data = "Na tom teď nezáleží."
    [238]

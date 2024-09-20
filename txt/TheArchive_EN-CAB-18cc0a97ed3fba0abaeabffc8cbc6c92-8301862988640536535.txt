@@ -37,7 +37,7 @@
    [11]
     1 string data = "Ale hlavně příběh o hrdinství."
    [12]
-    1 string data = "Takový, který, jak věřím, nabídne neocenitelný vhled při hledání řešení pro soužení Fleshmancera."
+    1 string data = "Takový, který, jak věřím, nabídne neocenitelný vhled při hledání řešení pro soužení Karnimanta."
    [13]
     1 string data = "Nyní, s tolika časovými liniemi a mnoha podobnostmi mezi nimi, jsem zřejmě ztratil přehled o konkrétní knize, kterou jsem hledal."
    [14]
@@ -55,7 +55,7 @@
    [20]
     1 string data = "Ach, ano..."
    [21]
-    1 string data = "Náš příběh začíná ve světě, který před dekádami navštívil Fleshmancer, jež způsobil mnoho rozvratu a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
+    1 string data = "Náš příběh začíná ve světě, který před dekádami navštívil Karnimant, jež způsobil mnoho rozvratu a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [22]
     1 string data = "Kdesi na Ostrově Věčné Mlhy jsou naši dva hrdinové na cestě za živým duchem, který je naučí, jak "používat magii, aniž by použili magii"..."
 

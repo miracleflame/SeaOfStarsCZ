@@ -43,7 +43,7 @@
    [14]
     1 string data = "Kámen nekromantky"
    [15]
-    1 string data = "Dweller žalu"
+    1 string data = "Přiživovač žalu"
    [16]
     1 string data = "Kataklyzma"
    [17]
@@ -61,7 +61,7 @@
    [23]
     1 string data = "Výšlap na Ledovec"
    [24]
-    1 string data = "Dweller muk"
+    1 string data = "Přiživovač muk"
    [25]
     1 string data = "Baňka času"
    [26]
@@ -73,7 +73,7 @@
    [29]
     1 string data = "Hodinářský rébus"
    [30]
-    1 string data = "Dweller sváru"
+    1 string data = "Přiživovač sváru"
    [31]
     1 string data = "Na vypůjčený čas"
    [32]
@@ -97,7 +97,7 @@
    [41]
     1 string data = "Artificer"
    [42]
-    1 string data = "Dweller hrůzy"
+    1 string data = "Přiživovač hrůzy"
    [43]
     1 string data = "Osudná hodina"
    [44]

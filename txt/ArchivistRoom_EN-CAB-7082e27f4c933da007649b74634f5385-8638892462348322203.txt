@@ -37,7 +37,7 @@
    [11]
     1 string data = "Ale především, příběh o hrdinství."
    [12]
-    1 string data = "Věřím, že právě tento příběh nabídne cenné poznatky pro nalezení řešení soužení <color=bad>Fleshmancera</color>."
+    1 string data = "Věřím, že právě tento příběh nabídne cenné poznatky pro nalezení řešení soužení <color=bad>Karnimanta</color>."
    [13]
     1 string data = "Teď se trochu ztrácím mezi všemi těmi časovými liniemi a jejich drobnými variacemi..."
    [14]
@@ -47,7 +47,7 @@
    [16]
     1 string data = "Ach, ano!"
    [17]
-    1 string data = "Náš příběh začíná ve světě, který před několika generacemi Fleshmancer navštívil, způsobil tam obrovský chaos a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
+    1 string data = "Náš příběh začíná ve světě, který před několika generacemi Karnimant navštívil, způsobil tam obrovský chaos a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [18]
     1 string data = "Kdesi na <color=location>Ostrově věčné mlhy</color> se dvě statečné <color=good>Děti Slunovratu</color> vydávají na cestu, aby se setkaly s nesmrtelným duchem."
    [19]
@@ -105,7 +105,7 @@
    [45]
     1 string data = "Utrpení, které by nastalo, pokud bych vzal věci do vlastních rukou, se nedá slovy popsat."
    [46]
-    1 string data = "Bylo by to horší než Dweller, co se promění v Požírače světů?"
+    1 string data = "Bylo by to horší než Přiživovač, co se promění v Požírače světů?"
    [47]
     1 string data = "Nechci to zlehčovat, ale musíte si uvědomit, že v širší perspektivě je vaše realita jen jednou z mnoha."
    [48]
@@ -117,7 +117,7 @@
    [51]
     1 string data = "Můj bývalý společník."
    [52]
-    1 string data = "Zatímco mě vaši lidé znají jako Nesmrtelného alchymistu, Aephorulovi říkají Fleshmancer."
+    1 string data = "Zatímco mě vaši lidé znají jako Nesmrtelného alchymistu, Aephorulovi říkají Karnimant."
    [53]
     1 string data = "!!"
    [54]
@@ -209,7 +209,7 @@
    [97]
     1 string data = "!!"
    [98]
-    1 string data = "Očištění!? Tady je nějaký Dweller?"
+    1 string data = "Očištění!? Tady je nějaký Přiživovač?"
    [99]
     1 string data = "Samozřejmě. Jde sice jenom o žert, ale Aephorul jej zavinil sám."
    [100]
@@ -223,7 +223,7 @@
    [104]
     1 string data = "Přesně tak. Možná je starý, ale jeho magie ještě úplně nevyprchala."
    [105]
-    1 string data = "S odvahou čelte Dwellerovi muk a ten amulet bude rezonovat."
+    1 string data = "S odvahou čelte Přiživovačovi muk a ten amulet bude rezonovat."
    [106]
     1 string data = "Schopnost vyvolat zatmění..."
    [107]
@@ -299,9 +299,9 @@
    [142]
     1 string data = "Jasně! Asi bychom si měli dávat dobrý pozor kolem Teaks."
    [143]
-    1 string data = "A zatřetí to nejdůležitější, za žádných okolností mi není dovoleno bojovat s Dwellerem."
+    1 string data = "A zatřetí to nejdůležitější, za žádných okolností mi není dovoleno bojovat s Přiživovačem."
    [144]
-    1 string data = "Dojde-li ke střetu s Dwellerem sváru, zúčastníte se jej jen vy sami."
+    1 string data = "Dojde-li ke střetu s Přiživovačem sváru, zúčastníte se jej jen vy sami."
    [145]
     1 string data = "Rozumíme."
    [146]
@@ -339,11 +339,11 @@
    [162]
     1 string data = "Překonáním iluzí mrtvého čaroděje si naši hrdinové zajistili plavbu na Přízračný ostrov, než nastane zatmění."
    [163]
-    1 string data = "Na místě, kde je noc věčná a mrtví ožívají, se připravují na souboj s posledním známým Dwellerem."
+    1 string data = "Na místě, kde je noc věčná a mrtví ožívají, se připravují na souboj s posledním známým Přiživovačem."
    [164]
     1 string data = "Zatímco síly zla vyčkávají na správný okamžik, strach udeří na citlivé místo..."
    [165]
-    1 string data = "Svět, na němž zbyli pouze tři Bojovníci Slunovratu, má zdánlivě mizivou šanci po vzkříšení Dwellere sváru, jenž zvěstuje návrat teroru považovaného navždy za minulost."
+    1 string data = "Svět, na němž zbyli pouze tři Bojovníci Slunovratu, má zdánlivě mizivou šanci po vzkříšení Přiživovače sváru, jenž zvěstuje návrat teroru považovaného navždy za minulost."
    [166]
     1 string data = "Nyní, když je závoj lží odkryt a kus jejich nevinnosti pryč, se naši hrdinové vrací do Brisku, zatímco jejich ředitel hledá způsob, jak se dostat na ostrov Mesa."
    [167]
