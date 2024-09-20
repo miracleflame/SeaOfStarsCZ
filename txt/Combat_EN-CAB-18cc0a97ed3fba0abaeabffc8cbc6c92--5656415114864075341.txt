@@ -127,7 +127,7 @@
    [56]
     1 string data = "Tupé, arkánové a měsíční poškození jednomu cíli."
    [57]
-    1 string data = "Stiskněte <button="Interact">, když se Valeriin zásah spojí."
+    1 string data = "Stiskněte <button="Interact">, když Valeriin zásah dopadne."
    [58]
     1 string data = "Valerie a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Měsíční kámen</color>!"
    [59]
@@ -135,7 +135,7 @@
    [60]
     1 string data = "Garl vrhne nepřítele, aby B'st mohl provést Mocnou ránu."
    [61]
-    1 string data = "Stiskněte <button="Interact">, když Garl vrhá, a znovu, když se B'stův zásah spojí."
+    1 string data = "Stiskněte <button="Interact">, když Garl vrhá, a znovu, když B'stův zásah dopadne."
    [62]
     1 string data = "Garl a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-hurlsmash"> <color="magic">Vrhorána</color>!"
    [63]
@@ -143,7 +143,7 @@
    [64]
     1 string data = "Arkánové a sluneční magické poškození jednoho cíle. Lze načasovat pro získání bonusového plošného poškození."
    [65]
-    1 string data = "Stiskněte <button="Interact">, jakmile se spojí zásah B'sta."
+    1 string data = "Stiskněte <button="Interact">, jakmile dopadne zásah B'sta."
    [66]
     1 string data = "Zale a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcanesun"> <color="magic">Arkánové Slunce</color>!"
    [67]
@@ -159,7 +159,7 @@
    [72]
     1 string data = "Vysoké poškození proti jednomu cíli."
    [73]
-    1 string data = "Stiskněte <button="Interact">, jakmile se zásah spojí."
+    1 string data = "Stiskněte <button="Interact">, jakmile zásah dopadne."
    [74]
     1 string data = "Resh'an a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-bottlepunch"> <color="magic">Lahvová pěst</color>!"
    [75]
@@ -175,7 +175,7 @@
    [80]
     1 string data = "Vysoké poškození proti jednomu cíli."
    [81]
-    1 string data = "Stiskněte <button="Interact">, jakmile se zásah spojí."
+    1 string data = "Stiskněte <button="Interact">, jakmile zásah dopadne."
    [82]
     1 string data = "Valerie a Seraï se naučily kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Měsíční kudla</color>!"
    [83]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Střední tupé poškození proti jednomu cíli."
    [113]
-    1 string data = "Stiskněte <button="Interact">, jakmile se zásah spojí."
+    1 string data = "Stiskněte <button="Interact">, jakmile zásah dopadne."
    [114]
     1 string data = "Valerie a Garl se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Rána shora</color>!"
    [115]

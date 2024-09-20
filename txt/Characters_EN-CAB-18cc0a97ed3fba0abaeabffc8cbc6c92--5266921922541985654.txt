@@ -237,7 +237,7 @@
    [111]
     1 string data = "Jádro AI"
    [112]
-    1 string data = "Artificer"
+    1 string data = "Artifik"
    [113]
     1 string data = "LeJugg"
    [114]

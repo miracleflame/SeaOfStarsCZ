@@ -21,7 +21,7 @@
    [3]
     1 string data = "Tvoření hrdinů"
    [4]
-    1 string data = "Den promoce"
+    1 string data = "Den maturity"
    [5]
     1 string data = "Zakázaná jeskyně"
    [6]
@@ -95,7 +95,7 @@
    [40]
     1 string data = "Zpátky v domovském světě"
    [41]
-    1 string data = "Artificer"
+    1 string data = "Artifik"
    [42]
     1 string data = "Přiživovač hrůzy"
    [43]
