@@ -87,7 +87,7 @@
    [36]
     1 string data = "Můžeme jít taky?"
    [37]
-    1 string data = "Věřte mi, že až jednou vstoupíte do <color=location>Akademie zenitu</color>, budete litovat, že jste si to dřív nerozmysleli."
+    1 string data = "Věřte mi, že až jednou vstoupíte do <color=location>Akademie Zenit</color>, budete litovat, že jste si to dřív nerozmysleli."
    [38]
     1 string data = "..."
    [39]
@@ -155,7 +155,7 @@
    [70]
     1 string data = "Budeme trénovat opravdu tvrdě a možná to nebude trvat tak dlouho!"
    [71]
-    1 string data = "Vítejte na Akademii zenitu."
+    1 string data = "Vítejte na Akademii Zenit."
    [72]
     1 string data = "Na tomto starobylém místě vědění se naučíte vše, co potřebujete vědět, abyste se stali skutečnými Bojovníky Slunovratu."
    [73]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "(Nejspíš je to tak pro ně nejlepší.)"
    [87]
-    1 string data = "Během mnoha let, které strávíte na Akademii zenitu, se naučíte o povinnostech, které náleží Bojovníkům Slunovratu."
+    1 string data = "Během mnoha let, které strávíte na Akademii Zenit, se naučíte o povinnostech, které náleží Bojovníkům Slunovratu."
    [88]
     1 string data = "O magii, kterou jste předurčeni ovládat, a o zlu, které má očistit."
    [89]
@@ -681,193 +681,193 @@
    [333]
     1 string data = "Brzy nastane čas, abyste se vydali na cestu za <color=good>Mlžným stařešinou</color>."
    [334]
-    1 string data = "Ale než se k tomu dostaneme, má pro vás Akademie zenitu ještě jednu výzvu."
+    1 string data = "Ale než se k tomu dostaneme, má pro vás Akademie Zenit ještě jednu výzvu."
    [335]
-    1 string data = "Oh, our visitors just arrived! Perfect timing."
+    1 string data = "Podívejme, naši návštěvníci právě dorazili! Perfektní načasování."
    [336]
-    1 string data = "My, you've both grown pretty strong!"
+    1 string data = "Panejo, oba jste pěkně zesílili!"
    [337]
-    1 string data = "Hey, it's good to see you!"
+    1 string data = "Čaute, rádi vás vidíme!"
    [338]
-    1 string data = "Erlina and Brugaves are here to help you <color=magic>review the basics of combat</color>."
+    1 string data = "Erlina a Brugaves jsou zde, aby vám pomohli <color=magic>probrat základy boje</color>."
    [339]
-    1 string data = "Check in with them, then it will be time for your final test."
+    1 string data = "Až si to projdete, pak přijde čas na vaši závěrečnou zkoušku."
    [340]
-    1 string data = "Are you ready for the final test, then?"
+    1 string data = "Jste tedy připraveni na závěrečnou zkoušku?"
    [341]
-    1 string data = "We're ready!"
+    1 string data = "Jsme připraveni!"
    [342]
-    1 string data = "Not yet..."
+    1 string data = "Ještě ne..."
    [343]
-    1 string data = "Then let us begin."
+    1 string data = "Tak tedy započneme."
    [344]
-    1 string data = "They haven't even been to the other side of the Forbidden Cavern yet, how could they understand?"
+    1 string data = "Ještě ani nebyli na druhé straně Zakázané jeskyně, jak by tomu mohli rozumět?"
    [345]
-    1 string data = "So you don't think we should at least try and explain?"
+    1 string data = "Říkáš, že bychom se to neměli alespoň pokusit vysvětlit?"
    [346]
-    1 string data = "You've seen how strong they are, <color=good>Wyrd</color> will be a walk in the park."
+    1 string data = "Viděla jsi, jak jsou silní, <color=good>Wyrd</color> bude pro ně procházka růžovým sadem."
    [347]
     1 string data = "..."
    [348]
-    1 string data = "Let's see them off, then..."
+    1 string data = "Koukneme se tedy na ně..."
    [349]
-    1 string data = "The big day has finally come."
+    1 string data = "Konečně nastal ten velký den."
    [350]
-    1 string data = "Over the years, Zenith Academy has tested you in many ways."
+    1 string data = "V průběhu let vás Akademie Zenit prověřila mnoha způsoby."
    [351]
-    1 string data = "It will now test you one last time."
+    1 string data = "Nyní vás vyzkouší naposledy."
    [352]
-    1 string data = "Have you prepared your vows?"
+    1 string data = "Připravili jste si své přísahy?"
    [353]
-    1 string data = "Yes, Headmaster."
+    1 string data = "Ano, pane řediteli."
    [354]
-    1 string data = "Yes, Headmaster."
+    1 string data = "Ano, pane řediteli."
    [355]
-    1 string data = "Then speak them now."
+    1 string data = "Tak je proneste nyní."
    [356]
-    1 string data = "You go first Zale."
+    1 string data = "Jdi první, Zale."
    [357]
-    1 string data = "Hmm okay."
+    1 string data = "Hmm, dobře."
    [358]
-    1 string data = "*Ahem*"
+    1 string data = "*Ehm*"
    [359]
-    1 string data = "So that I may use my agility to cleanse this world and protect my companions, I will enter the world as a blade dancer."
+    1 string data = "Se záměrem používat svou hbitost k očištění tohoto světa a k ochraně svých společníků, vstoupím do světa jako tanečník čepele."
    [360]
-    1 string data = "I chose the curved blade as it will not hinder my speed or reflexes."
+    1 string data = "Zvoli jsem si prohnutou čepel, protože mě nebude omezovat v rychlosti ani v reflexech."
    [361]
-    1 string data = "Welcome, blade dancer."
+    1 string data = "Vítej, tanečníku čepele."
    [362]
-    1 string data = "Come on Valerie! I did it now it's your turn!"
+    1 string data = "Jdi, Valerie! Dokázal jsem to, teď je řada na tobě!"
    [363]
-    1 string data = "*Ahem*"
+    1 string data = "*Ehm*"
    [364]
-    1 string data = "So that I may use my strength to inspire hope and eradicate evil, I will become a battle monk."
+    1 string data = "Se záměrem používat svou sílu k podněcování naděje a k vymýcení zla se stanu mniškou bojovnicí."
    [365]
-    1 string data = "I chose the staff, for it won't break no matter how hard I strike."
+    1 string data = "Zvolila jsem si hůl, protože se nezlomí, ať udeřím jakkoli tvrdě."
    [366]
-    1 string data = "Welcome, battle monk."
+    1 string data = "Vítej, mniško bojovnice."
    [367]
-    1 string data = "Today you must demonstrate mastery of everything Zenith Academy has taught you. Your final challenge awaits below."
+    1 string data = "Dnes musíte prokázat mistrovství ve všem, co vás Akademie Zenit naučila. Dole na vás čeká poslední výzva."
    [368]
-    1 string data = "Please step aside."
+    1 string data = "Ustupte prosím stranou."
    [369]
-    1 string data = "Oh, before I forget. Here is a little something to keep your health full."
+    1 string data = "Ach, než zapomenu. Tady máte malou drobnost, abyste si udrželi zdraví."
    [370]
-    1 string data = "Now, with faith in your abilities and purpose in your actions, take the leap."
+    1 string data = "Nyní, s vírou ve své schopnosti a cílevědomostí ve svém jednání, uskutečněte skok."
    [371]
-    1 string data = "And return as the new recruits of our order!"
+    1 string data = "A vraťte se jako noví členové našeho řádu!"
    [372]
-    1 string data = "I'm ready [MAINCHAR]."
+    1 string data = "Jsem připraven [MAINCHAR]."
    [373]
-    1 string data = "Let's just go for it."
+    1 string data = "Jdeme na to."
    [374]
-    1 string data = "Exam mode engaged. Brace yourselves."
+    1 string data = "Zkouškový režim zahájen. Držte se."
    [375]
-    1 string data = "Congratulations, you have been trained well. Return now to your Headmaster."
+    1 string data = "Gratuluji, byli jste dobře vyškoleni. Nyní se vraťte ke svému řediteli."
    [376]
-    1 string data = "Congratulations, [MAINCHAR] and [OFFCHAR]! You have learned everything Zenith Academy had to teach you."
+    1 string data = "Blahopřeju vám, [MAINCHAR] a [OFFCHAR]! Naučili jste se vše, co vás Akademie Zenit mohla naučit."
    [377]
     1 string data = "Ha!"
    [378]
-    1 string data = "We did it!"
+    1 string data = "Dokázali jsme to!"
    [379]
-    1 string data = "In record time, too."
+    1 string data = "A to v rekordním čase."
    [380]
-    1 string data = "You must now learn of our ultimate power, the ability to "use magic without using magic.""
+    1 string data = "Nyní se musíte naučit naši ultimátní moc, schopnost "používat magii bez použití magie.""
    [381]
     1 string data = "??"
    [382]
-    1 string data = "But that knowledge is for the Elder Mist to impart."
+    1 string data = "Ale toto poznání vám musí předat Mlžný stařešina."
    [383]
-    1 string data = "Come, the villagers have gathered to celebrate your departure!"
+    1 string data = "Pojďte, vesničané se shromáždili, aby oslavili váš odchod!"
    [384]
-    1 string data = "It is on special days such as this one that the citizens of Mooncradle are reminded of the importance of their duties."
+    1 string data = "Právě o zvláštních dnech, jako je tento, si obyvatelé Měsíční kolébky připomínají důležitost svých povinností."
    [385]
-    1 string data = "(Where's Garl?)"
+    1 string data = "(Kde je Garl?)"
    [386]
-    1 string data = "(I don't see him...)"
+    1 string data = "(Nevidím ho...)"
    [387]
-    1 string data = "Many years ago, [MAINCHAR] and [OFFCHAR] were delivered to us by the Great Eagle."
+    1 string data = "Před mnoha lety nám [MAINCHAR] a [OFFCHAR] doručil Velký orel."
    [388]
-    1 string data = "Deliveries on two solstices in a row to boot!"
+    1 string data = "Doručení o dvou slunovratech po sobě, aby toho nebylo málo!"
    [389]
-    1 string data = "A very rare occurrence!"
+    1 string data = "Velmi vzácná událost!"
    [390]
-    1 string data = "Oh, I remember! Gran was so happy to get to meet two more before she passed!"
+    1 string data = "Pamatuji si to! Babička byla tak šťastná, že se setkala s dalšími dvěma, než zesnula!"
    [391]
-    1 string data = "I miss Gran..."
+    1 string data = "Chybí mi babička..."
    [392]
-    1 string data = "All of you have come together to nurture and protect them, just like your ancestors have done for so many Children of the Solstice before."
+    1 string data = "Všichni jste se semkli, abyste se o ně starali a chránili je, stejně jako to dělali vaši předkové pro tolik Dětí Slunovratu předtím."
    [393]
-    1 string data = "[MAINCHAR] and [OFFCHAR]!"
+    1 string data = "[MAINCHAR] a [OFFCHAR]!"
    [394]
-    1 string data = "Step forward, so that the good people of Mooncradle might gaze upon those who will soon join the ranks of the Solstice Warriors!"
+    1 string data = "Předstupte, aby dobrý lid Měsíční kolébky mohl pohlédnout na ty, jenž brzy vstoupí do řad Bojovníků Slunovratu!"
    [395]
-    1 string data = "(This parading is ridiculous.)"
+    1 string data = "(Tohle předvádění je směšné.)"
    [396]
-    1 string data = "(Oh, let the villagers have their fun. It's all they get.)"
+    1 string data = "(Jen ať se vesničané pobaví. Nic jiného nemají.)"
    [397]
-    1 string data = "(So you're okay with this now?)"
+    1 string data = "(Takže tobě tohle vyhovuje?)"
    [398]
-    1 string data = "(You know I'm not.)"
+    1 string data = "(Víš, že ne.)"
    [399]
-    1 string data = "Now, cheer with me, as we send these young heroes out across the Forbidden Cavern to meet the Elder Mist!"
+    1 string data = "A teď se mnou jásejte, protože posíláme tyto mladé hrdiny napříč Zakázanou jeskyní vstříc Mlžnému stařešinovi!"
    [400]
-    1 string data = "Hurray!"
+    1 string data = "Hurá!"
    [401]
-    1 string data = "To the gate!"
+    1 string data = "K bráně!"
    [402]
-    1 string data = "What do we do? I want to see Garl before leaving!"
+    1 string data = "Co budeme dělat? Chci vidět Garla, než odejdeme!"
    [403]
-    1 string data = "I guess we have to play along for now."
+    1 string data = "Myslím, že prozatím musíme pokračovat podle pravidel."
    [404]
-    1 string data = "Fingers crossed that we can come back after meeting this Elder Mist..."
+    1 string data = "Držme si palce, abychom se mohli vrátit po setkání s tím Mlžným stařešinou..."
    [405]
-    1 string data = "Fingers and toes."
+    1 string data = "Palce i pěsti."
    [406]
-    1 string data = "[MAINCHAR], [OFFCHAR], you must undertake this journey on your own now."
+    1 string data = "[MAINCHAR], [OFFCHAR], tuto pouť musíte nyní podniknout samy."
    [407]
-    1 string data = "We will not fail, Headmaster."
+    1 string data = "Nezklameme, pane řediteli."
    [408]
-    1 string data = "Go now, through the Forbidden Cavern and atop the Mountain Trail, to seek audience with the Elder Mist."
+    1 string data = "Jděte nyní skrze Zakázanou jeskyni a na vrchol Horské stezky, abyste požádali o audienci u Mlžného stařešiny."
    [409]
-    1 string data = "Learn how to "use magic without using magic," and you shall then enter the world as true Solstice Warriors!"
+    1 string data = "Naučte se "používat magii bez použití magie" a pak vstoupíte do světa jako praví Bojovníci Slunovratu!"
    [410]
-    1 string data = "MAY <color=moon>LUANA</color>'S MIGHT PROTECT YOU!"
+    1 string data = "AŤ VÁS <color=moon>LUANINA</color>MOC OCHRAŇUJE!"
    [411]
-    1 string data = "MAY <color=sun>SOLEN</color>'S LIGHT GUIDE YOU!"
+    1 string data = "AŤ VÁS <color=sun>SOLENOVO</color>SVĚTLO PROVÁZÍ!"
    [412]
-    1 string data = "Here. This should keep you fed for a little bit."
+    1 string data = "Berte. Tohle by vás mělo na chvíli nasytit."
    [413]
-    1 string data = "And if your adventure feels a little tough, you could take a look at these."
+    1 string data = "A pokud se vám dobrodružství bude zdát trochu náročné, můžete se podívat na tyhle."
    [414]
-    1 string data = "You just received your first two <color=magic>Relics</color>! Find them in the Relic section of the Game Menu (accessible with <button="Player_GameMenu">) to adjust your experience!"
+    1 string data = "Právě jste obdrželi své první dvě <color=magic>Relikvie</color>! Naleznete je v sekci Relikvie v herním menu (přístupné pomocí <button="Player_GameMenu">) a přizpůsobíte si tak svůj zážitek ze hry!"
    [415]
-    1 string data = "Whether you prefer a lighter challenge, or are looking to push yourself to the max, Relics offer a range of options. There's bound to be more to find!"
+    1 string data = "Ať už dáváte přednost lehčí výzvě, nebo se chcete vyburcovat k maximálnímu výkonu, Relikvie nabízejí celou řadu možností. Určitě jich objevíte víc!" 
    [416]
-    1 string data = "Remember to keep an eye out for <color=good>merchants</color>. Selling any <color=magic>valuables</color> you find will keep you well fed, and well equipped!"
+    1 string data = "Nezapomeňte se dívat po <color=good>obchodnících</color>. Prodej <color=magic>cenností</color>, které najdete, vás dobře nasytí i vybaví!"
    [417]
-    1 string data = "Now, wherever your adventures take you, you must remember your first assignment."
+    1 string data = "Ať už vás nyní vaše dobrodružství zavedou kamkoliv, nesmíte zapomenout na svůj prvotní úkol."
    [418]
-    1 string data = "After the Elder Mist sends you out into the world, you must secure passage to <color=location>Wraith Island</color> in time for the next eclipse."
+    1 string data = "Poté, co vás Mlžný stařešina vyšle do světa, musíte si včas zajistit cestu na <color=location>Přízračný ostrov</color>, než nastane příští zatmění."
    [419]
-    1 string data = "And do keep on training, for a dire cleansing awaits us."
+    1 string data = "A pokračujte v tréninku, protože nás čeká krutá očista."
    [420]
-    1 string data = "(I still can't believe he wants them fighting a Dweller already.)"
+    1 string data = "(Pořád nemůžu uvěřit, že říďo po nich chce, aby bojovali s Přiživovačem.)"
    [421]
-    1 string data = "(That's Moraine for you. We weren't much older the first time.)"
+    1 string data = "(Pro tebe Moraine. Poprvé jsme nebyli o moc starší.)"
    [422]
-    1 string data = "(Yeah but...)"
+    1 string data = "(Jo, ale...)"
    [423]
-    1 string data = "(We'll find a way.)"
+    1 string data = "(Najdeme způsob.)"
    [424]
-    1 string data = "Safe journeys, and may you cleanse this world!"
+    1 string data = "Šťastnou cestu a nechť očistíte tento svět!"
    [425]
-    1 string data = "MAY YOU CLEANSE THIS WORLD!"
+    1 string data = "NECHŤ OČISTÍTE TENTO SVĚT!"
    [426]
-    1 string data = "MAY YOU CLEANSE THIS WORLD!"
+    1 string data = "NECHŤ OČISTÍTE TENTO SVĚT!"
    [427]
-    1 string data = "MAY YOU CLEANSE THIS WORLD!"
+    1 string data = "NECHŤ OČISTÍTE TENTO SVĚT!"
    [428]
     1 string data = "Twenty years ago, in the village of Mooncradle..."
    [429]
