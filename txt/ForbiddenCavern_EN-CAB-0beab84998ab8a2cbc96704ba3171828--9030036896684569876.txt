@@ -53,9 +53,9 @@
    [19]
     1 string data = "..."
    [20]
-    1 string data = "Zvládla jsem to..."
+    1 string data = "Dokázala jsem to..."
    [21]
-    1 string data = "KONEČNĚ JSEM TO ZVLÁDLA!!!"
+    1 string data = "KONEČNĚ JSEM TO DOKÁZALA!!!"
    [22]
     1 string data = "Takže... co teď?"
    [23]
@@ -125,7 +125,7 @@
    [55]
     1 string data = "Pane řediteli! Garl potřebuje pomoc!"
    [56]
-    1 string data = "Je to... lepší..."
+    1 string data = "To je... lepší..."
    [57]
     1 string data = "Garl se potřebuje především nezabývat záležitostmi Bojovníků Slunovratu, stejně jako každý jiný, kdo se v Měsíční Kolébce narodil jako běžné dítě!"
    [58]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "Ten den zemřelo přes dvacet Bojovníků Slunovratu a my to máme jen tak přijmout?"
    [66]
-    1 string data = "Byla to ode mě hloupost. Už hrdinkou být nechci."
+    1 string data = "Byla to ode mě hloupost. Už nechci být hrdinkou."
    [67]
     1 string data = "Já jsem se hrdinou nikdy stát nechtěl..."
    [68]
@@ -177,7 +177,7 @@
    [81]
     1 string data = "Valerie?"
    [82]
-    1 string data = "Zní to jako něco velkého. Připrav se!"
+    1 string data = "To zní jako něco velkého. Připrav se!"
    [83]
     1 string data = "NÁŠ PRVNÍ VELKÝ ÚSPĚCH!"
    [84]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "Horská stezka by už neměla být příliš daleko."
    [87]
-    1 string data = "[MAINCHAR], je tady <color=magic>ohniště</color>. Měli bychom si trochu odpočinout a výlečit se, dokud je to možné."
+    1 string data = "[MAINCHAR], je tady <color=magic>ohniště</color>. Měli bychom si trochu odpočinout a výlečit se, dokud máme možnost."
    [88]
     1 string data = "Zamčeno."
    [89]
@@ -195,6 +195,6 @@
    [90]
     1 string data = "Tam se teď nedostaneme. Pojďme se tu porozhlédnout."
    [91]
-    1 string data = "Hele, tenhle svítící svitek vypadá zajímavě, měli bychom si ho prohlédnout."
+    1 string data = "Hele, tenhle zářící svitek vypadá zajímavě, měli bychom si ho prohlédnout."
    [92]
     1 string data = "Použijte svitek z inventáře, abyste se naučili nové kombo."
