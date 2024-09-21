@@ -25,7 +25,7 @@
    [5]
     1 string data = "Tady máte!"
    [6]
-    1 string data = "Páni, to bylo hrozně dobré!"
+    1 string data = "Mňam, to bylo hrozně dobré!"
    [7]
     1 string data = "Jo, beze srandy!"
    [8]
@@ -33,7 +33,7 @@
    [9]
     1 string data = "To je tím džemem. Použil jsem na něj trochu mízy z <color=magic>Nebeské vrby</color>."
    [10]
-    1 string data = "Z toho bys mohl mít potíže."
+    1 string data = "Z toho bys mohl mít průšvih."
    [11]
     1 string data = "To byste mě museli napráskat."
    [12]
@@ -125,7 +125,7 @@
    [55]
     1 string data = "Pane řediteli! Garl potřebuje pomoc!"
    [56]
-    1 string data = "To je... lepší..."
+    1 string data = "Je to... lepší..."
    [57]
     1 string data = "Garl se potřebuje především nezabývat záležitostmi Bojovníků Slunovratu, stejně jako každý jiný, kdo se v Měsíční Kolébce narodil jako běžné dítě!"
    [58]
@@ -147,7 +147,7 @@
    [66]
     1 string data = "Byla to ode mě hloupost. Už nechci být hrdinkou."
    [67]
-    1 string data = "Já jsem se hrdinou nikdy stát nechtěl..."
+    1 string data = "Já jsem se hrdinou nechtěl stát nikdy..."
    [68]
     1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se neučím dost rychle. Je mi z toho prostě nanic."
    [69]
