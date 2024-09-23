@@ -45,7 +45,7 @@
    [15]
     1 string data = "Chtěli byste se mnou vůbec ještě něco mít?"
    [16]
-    1 string data = "Samozřejmě že ano! Bez tebe bychom spoustu věcí nezvládli."
+    1 string data = "Samozřejmě že ano! Bez tebe bychom nic nedokázali."
    [17]
     1 string data = "Můj svět už dávno padl do rukou <color=bad>Karnimanta</color>."
    [18]
@@ -101,7 +101,7 @@
    [43]
     1 string data = "Dostat se na Vesmírnou základnu nebude snadné, ale mezitím, co jsem byla pryč, mohla být objevena nějaká stopa."
    [44]
-    1 string data = "Vydáme se do <color=location>Repine</color>, mého rodného města. Chci vám ukázat, proti čemu tady bojujeme."
+    1 string data = "Vydáme se do <color=location>Repotu</color>, mého rodného města. Chci vám ukázat, proti čemu tady bojujeme."
    [45]
     1 string data = "Ale co Karnimant?"
    [46]
@@ -111,9 +111,9 @@
    [48]
     1 string data = "Dobře, všechno pěkně popořádku. Nejdřív navštívíme tvé město."
    [49]
-    1 string data = "Repine je na <color=location>Azurovém ostrově</color>, který odsud leží směrem na východ."
+    1 string data = "Repot je na <color=location>Azurovém ostrově</color>, který odsud leží směrem na východ."
    [50]
-    1 string data = "Projít <color=location>Opuštěnou továrnou</color> nám možná dá trochu zabrat, ale řekla bych, že už nás potkaly horší věci."
+    1 string data = "Projít <color=location>Zpustlou továrnou</color> nám možná dá trochu zabrat, ale řekla bych, že už nás potkaly horší věci."
    [51]
     1 string data = "Tak fajn. Pojďme."
    [52]
