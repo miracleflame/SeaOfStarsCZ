@@ -205,11 +205,11 @@
    [95]
     1 string data = "Fajn, jak chcete. Jsme připraveni."
    [96]
-    1 string data = "Vydejte se tedy na sever Strážcova ostrova a proveďte očištění Mučivého vrchu."
+    1 string data = "Vydejte se tedy na sever Strážcova ostrova a proveďte očistu Mučivého vrchu."
    [97]
     1 string data = "!!"
    [98]
-    1 string data = "Očištění!? Tady je nějaký Přiživovač?"
+    1 string data = "Očistu!? Tady je nějaký Přiživovač?"
    [99]
     1 string data = "Samozřejmě. Jde sice jenom o žert, ale Aephorul jej zavinil sám."
    [100]
@@ -223,7 +223,7 @@
    [104]
     1 string data = "Přesně tak. Možná je starý, ale jeho magie ještě úplně nevyprchala."
    [105]
-    1 string data = "S odvahou čelte Přiživovačovi muk a ten amulet bude rezonovat."
+    1 string data = "S odvahou čelte Přiživovači muk a ten amulet bude rezonovat."
    [106]
     1 string data = "Schopnost vyvolat zatmění..."
    [107]
