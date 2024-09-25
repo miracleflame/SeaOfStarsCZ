@@ -49,9 +49,9 @@
    [17]
     1 string data = "Komba jsou <color=menuhighlight>silné dvojútoky</color>, které lze provést pouze vynaložením <color=menuhighlight>kombo bodů</color>. Většina bojových akcí sice vytváří kombo body, ale <color=menuhighlight>rozbití Zámků</color> je zdaleka nejefektivnější."
    [18]
-    1 string data = "Senzitivnost a Odolnost"
+    1 string data = "Slabiny a Odolnosti"
    [19]
-    1 string data = "Někteří nepřátelé jsou <color=menuhighlight>Senzitivní</color> vůči určitým typům poškození, zatímco jiní mají <color=menuhighlight>Odolnost</color> vůči jiným. Existuje celkem 6 typů poškození, ačkoli na začátku hry se objevují pouze 4: <color=menuhighlight>Tupé</color>, <color=menuhighlight>Sečné</color>, <color=menuhighlight>Měsíční</color> a <color=menuhighlight>Sluneční</color>".
+    1 string data = "Někteří nepřátelé mají <color=menuhighlight>Slabiny</color> vůči určitým typům poškození, zatímco jiní mají <color=menuhighlight>Odolnosti</color> vůči jiným. Existuje celkem 6 typů poškození, ačkoli na začátku hry se objevují pouze 4: <color=menuhighlight>Tupé</color>, <color=menuhighlight>Sečné</color>, <color=menuhighlight>Měsíční</color> a <color=menuhighlight>Sluneční</color>".
    [20]
     1 string data = "Přepínaní postav"
    [21]
