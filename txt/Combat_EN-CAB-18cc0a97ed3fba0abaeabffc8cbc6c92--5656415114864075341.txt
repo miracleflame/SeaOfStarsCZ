@@ -65,7 +65,7 @@
    [25]
     1 string data = "Úder Slunovratu"
    [26]
-    1 string data = "Duální útok. Každý regeneruje 3MP."
+    1 string data = "Duální útok. Oběma regeneruje 3 BM."
    [27]
     1 string data = "Hrnec překvapení"
    [28]

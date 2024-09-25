@@ -207,7 +207,7 @@
    [96]
     1 string data = "Všichni, kdo mají vstoupit do našeho řádu, začínají tím, že svou vůli vetkají do očarovaného kusu látky, odznaku Bojovníka Slunovratu."
    [97]
-    1 string data = "Je to jejich nejcennější vlastnictví, které zaručuje světlo na nejtemnějších místech a určitou ochranu před přisluhovači <color=bad>Fleshmancera</color>."
+    1 string data = "Je to jejich nejcennější vlastnictví, které zaručuje světlo na nejtemnějších místech a určitou ochranu před přisluhovači <color=bad>Karnimanta</color>."
    [98]
     1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi, trénovat, dokud nebudete cítit své končetiny, a pak trénovat ještě víc."
    [99]
@@ -321,7 +321,7 @@
    [153]
     1 string data = "TŘI!"
    [154]
-    1 string data = "Myslím, že jsem to ucítil!"
+    1 string data = "Myslím, že jsem to ucítila!"
    [155]
     1 string data = "Lechtá to!"
    [156]
@@ -341,7 +341,7 @@
    [163]
     1 string data = "Tak pohyb."
    [164]
-    1 string data = "...a ‚utkat magický kus látky hodný samotných hvězd‘ je zajistě obtížný úkol."
+    1 string data = "...a "utkat magický kus látky hodný samotných hvězd" je zajistě obtížný úkol."
    [165]
     1 string data = "Jo, nemám ponětí, jakej tvar mám vůbec udělat..."
    [166]
@@ -365,7 +365,7 @@
    [175]
     1 string data = "[MAINCHAR] a [OFFCHAR] byly přivedeny do Měsíční kolébky <color=good>Velkým orlem</color>. Řediteli nepřísluší zpochybňovat takové záležitosti a nepřísluší to ani tobě."
    [176]
-    1 string data = "Kdy už toho bude dost? Co taká<color=good>Moyara</color>? A co <color=good>dvojčata</color>?"
+    1 string data = "Kdy už toho bude dost? Co taká <color=good>Moyara</color>? A co <color=good>dvojčata</color>?"
    [177]
     1 string data = "BRUGAVESI!"
    [178]
@@ -373,7 +373,7 @@
    [179]
     1 string data = "Tento rozhovor je u konce."
    [180]
-    1 string data = "Budou zde studovat, zatímco ty budeš pokračovat ve svém vyšetřování."
+    1 string data = "Budou zde studovat, zatímco vy budete pokračovat ve svém vyšetřování."
    [181]
     1 string data = "U prvního zatmění po dokončení jejich výcviku se k nám připojí na <color=magic>očistu</color>."
    [182]
@@ -483,7 +483,7 @@
    [234]
     1 string data = "Alespoň je, zdá se, v pořádku. Po tom, co se stalo v Zakázané jeskyni..."
    [235]
-    1 string data = "Jak ho znám, vsadím se, že už další den se smál."
+    1 string data = "Jak ho znám, vsadím se, že už na další den se smál."
    [236]
     1 string data = "Haha, asi máš pravdu!"
    [237]
@@ -537,7 +537,7 @@
    [261]
     1 string data = "Snímky o základech souboje si můžete prohlédnout v sekci Jak hrát v nabídce Pauzy."
    [262]
-    1 string data = "Začněme. Prostě teď na mě zaútoč v libovolném pořadí."
+    1 string data = "Začněme. Prostě teď na mě zaútočte v libovolném pořadí."
    [263]
     1 string data = "Pomocí <button="MoveHorizontal"> můžete přepínat mezi dostupnými postavami."
    [264]
@@ -581,7 +581,7 @@
    [283]
     1 string data = "Při správném načasování můžete blokováním snížit poškození jakéhokoli příchozího útoku nebo kouzla."
    [284]
-    1 string data = "Připrav se!"
+    1 string data = "Připravte se!"
    [285]
     1 string data = "Stiskněte <button="Interact">, jakmile zásah dopadne, abyste snížili utržené poškození."
    [286]
@@ -615,7 +615,7 @@
    [300]
     1 string data = "Pokud padnou všichni členové družiny, hra končí."
    [301]
-    1 string data = "Bojuj a přežij, dokud se nevrátí [OFFCHAR]!"
+    1 string data = "Bojujte a přežijte, dokud se nevrátí [OFFCHAR]!"
    [302]
     1 string data = "Tak to má být."
    [303]
@@ -629,7 +629,7 @@
    [307]
     1 string data = "Valerie může způsobovat tupé poškození a Zale umí sečné."
    [308]
-    1 string data = "Podíváme se, jak prolomíš toto."
+    1 string data = "Podíváme se, jak prolomíte toto."
    [309]
     1 string data = "Přesně tak."
    [310]
@@ -661,15 +661,15 @@
    [323]
     1 string data = "Komba nestojí žádné BM a po bitvě se vynulují, takže byste nikdy neměli váhat s jejich použitím."
    [324]
-    1 string data = "Moraine mi řekl, že jste si vyvinuli své první kombo útoky. Ukaž mi svůj."
+    1 string data = "Moraine mi řekl, že jste si vyvinuli svůj první kombo útok. Ukažte mi ho."
    [325]
     1 string data = "Jo, tomu říkám síla..."
    [326]
     1 string data = "Při svých dobrodružstvích se pozorně dívejte, určitě narazíte na svitky, které vás naučí další komba."
    [327]
-    1 string data = "Hodně štěstí při zkoušce, určitě si povedeš skvěle."
+    1 string data = "Hodně štěstí při zkoušce, určitě si povedete skvěle."
    [328]
-    1 string data = "Moraine tě doprovodí k závěrečné zkoušce. Určitě si povedeš skvěle."
+    1 string data = "Moraine vás doprovodí k závěrečné zkoušce. Určitě si povedete skvěle."
    [329]
     1 string data = "Pane řediteli, myslíme si, že jsme připraveni."
    [330]
@@ -757,7 +757,7 @@
    [371]
     1 string data = "A vraťte se jako noví členové našeho řádu!"
    [372]
-    1 string data = "Jsem připraven [MAINCHAR]."
+    1 string data = "Připraveni, [MAINCHAR]?"
    [373]
     1 string data = "Jdeme na to."
    [374]
@@ -787,7 +787,7 @@
    [386]
     1 string data = "(Nevidím ho...)"
    [387]
-    1 string data = "Před mnoha lety nám [MAINCHAR] a [OFFCHAR] doručil Velký orel."
+    1 string data = "Před mnoha lety nám [MAINCHAR] a [OFFCHAR] byli doručeni Velkým orlem."
    [388]
     1 string data = "Doručení o dvou slunovratech po sobě, aby toho nebylo málo!"
    [389]
@@ -833,9 +833,9 @@
    [409]
     1 string data = "Naučte se "používat magii bez použití magie" a pak vstoupíte do světa jako praví Bojovníci Slunovratu!"
    [410]
-    1 string data = "AŤ VÁS <color=moon>LUANINA</color>MOC OCHRAŇUJE!"
+    1 string data = "AŤ VÁS <color=moon>LUANINA</color> MOC OCHRAŇUJE!"
    [411]
-    1 string data = "AŤ VÁS <color=sun>SOLENOVO</color>SVĚTLO PROVÁZÍ!"
+    1 string data = "AŤ VÁS <color=sun>SOLENOVO</color> SVĚTLO PROVÁZÍ!"
    [412]
     1 string data = "Berte. Tohle by vás mělo na chvíli nasytit."
    [413]
@@ -859,7 +859,7 @@
    [422]
     1 string data = "(Jo, ale...)"
    [423]
-    1 string data = "(Najdeme způsob.)"
+    1 string data = "(Poradíme si.)"
    [424]
     1 string data = "Šťastnou cestu a nechť očistíte tento svět!"
    [425]

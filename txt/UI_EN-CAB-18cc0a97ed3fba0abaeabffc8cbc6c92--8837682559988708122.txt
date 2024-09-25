@@ -567,13 +567,13 @@
    [276]
     1 string data = "Družina"
    [277]
-    1 string data = "[TARGET] obnoví [HP_TO_GIVE] a [SP_TO_GIVE]"
+    1 string data = "[TARGET] získá [HP_TO_GIVE] a [SP_TO_GIVE]"
    [278]
-    1 string data = "[TARGET] obnoví [HP_TO_GIVE]"
+    1 string data = "[TARGET] získá [HP_TO_GIVE]"
    [279]
-    1 string data = "[TARGET] obnoví [SP_TO_GIVE]"
+    1 string data = "[TARGET] získá [SP_TO_GIVE]"
    [280]
-    1 string data = "[TARGET] obnoví z KO stavu a obnoví [KO_HEAL_PERCENTAGE] procent maxima BŽ"
+    1 string data = "[TARGET] se dostane z KO stavu a získá [KO_HEAL_PERCENTAGE] procent maxima BŽ"
    [281]
     1 string data = "Vyléčí KO +[KO_HEAL_PERCENTAGE]% BŽ"
    [282]
