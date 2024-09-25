@@ -39,7 +39,7 @@
    [12]
     1 string data = "Posílení pomocí Živé many"
    [13]
-    1 string data = "Běžné útoky generují <color=menuhighlight>Částečky živé many</color>. Podržte <button="Combat_Boost"> a stiskněte <button="Interact">, abyste <color=menuhighlight>absorbovali</color> Živou manu a <color=menuhighlight>obohatili</color> svou další bojovou akci o typ svého <color=menuhighlight>magického útoku</color>."
+    1 string data = "Běžné útoky generují <color=menuhighlight>Částice živé many</color>. Podržte <button="Combat_Boost"> a stiskněte <button="Interact">, abyste <color=menuhighlight>absorbovali</color> Živou manu a <color=menuhighlight>obohatili</color> svou další bojovou akci o typ svého <color=menuhighlight>magického útoku</color>."
    [14]
     1 string data = "Lámání Zámků"
    [15]

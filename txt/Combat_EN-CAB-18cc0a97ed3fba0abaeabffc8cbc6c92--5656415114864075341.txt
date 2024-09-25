@@ -339,9 +339,9 @@
    [162]
     1 string data = "AP"
    [163]
-    1 string data = "SENZITIVNÍ!"
+    1 string data = "SLABINA!"
    [164]
-    1 string data = "Odolává"
+    1 string data = "ODOLNOST"
    [165]
     1 string data = "Ochráněn"
    [166]
