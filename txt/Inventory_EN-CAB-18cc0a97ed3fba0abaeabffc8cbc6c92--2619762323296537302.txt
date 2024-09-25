@@ -13,437 +13,437 @@
   1 Array Array (852 items)
    0 int size = 852
    [0]
-    1 string data = "Training Sword"
+    1 string data = "Cvičný meč"
    [1]
-    1 string data = "Mostly made of wood."
+    1 string data = "Z velké části ze dřeva."
    [2]
-    1 string data = "Solstice Warrior Garb"
+    1 string data = "Oděv Bojovníka Slunovratu"
    [3]
-    1 string data = "Weaved in official Solstice Warrior colors and infused with solar magic."
+    1 string data = "Utkaný v tradičních barvách Bojovníků Slunovratu a prostoupený sluneční magií."
    [4]
-    1 string data = "Training Staff"
+    1 string data = "Cvičná hůl"
    [5]
-    1 string data = "Good grip. Cheap materials."
+    1 string data = "Dobrý úchop. Levné provedení."
    [6]
-    1 string data = "Solstice Warrior Garb"
+    1 string data = "Oděv Bojovnice Slunovratu"
    [7]
-    1 string data = "Weaved in official Solstice Warrior colors and infused with lunar magic."
+    1 string data = "Utkaný v tradičních barvách Bojovníků Slunovratu a prostoupený měsíční magií."
    [8]
-    1 string data = "Cauldron Lid"
+    1 string data = "Poklička z kotle"
    [9]
-    1 string data = "Makeshift weapon with sentimental value."
+    1 string data = "Provizorní zbraň se sentimentální hodnotou."
    [10]
-    1 string data = "Woolen Apron"
+    1 string data = "Vlněná zástěra"
    [11]
-    1 string data = "Offers protection while cooking (and fighting)."
+    1 string data = "Poskytuje ochranu při vaření (a mimochodem v boji)."
    [12]
-    1 string data = "Calcite Lid"
+    1 string data = "Kalcitová poklička"
    [13]
-    1 string data = "Surprisingly sturdy."
+    1 string data = "Překvapivě bytelná."
    [14]
-    1 string data = "Silver Daggers"
+    1 string data = "Stříbrné dýky"
    [15]
-    1 string data = "Light and precise."
+    1 string data = "Lehké a přesné."
    [16]
-    1 string data = "Shimmering Daggers"
+    1 string data = "Třpytivé dýky"
    [17]
-    1 string data = "Increases damage dealt to <color=bad>undead</color> by 10%."
+    1 string data = "Zvyšují poškození způsobené <color=bad>nemrtvým</color> o 10%."
    [18]
-    1 string data = "Shimmering Staff"
+    1 string data = "Třpytivá hůl"
    [19]
-    1 string data = "Increases damage dealt to <color=bad>undead</color> by 10%."
+    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 10%."
    [20]
-    1 string data = "Shimmering Sword"
+    1 string data = "Třpytivý meč"
    [21]
-    1 string data = "Increases damage dealt to <color=bad>undead</color> by 10%."
+    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 10%."
    [22]
-    1 string data = "Coral Sword"
+    1 string data = "Korálový meč"
    [23]
-    1 string data = "Handcrafted by Docarri artisans."
+    1 string data = "Ruční výroba dokarrijských řemeslníků."
    [24]
-    1 string data = "Coral Daggers"
+    1 string data = "Korálové dýky"
    [25]
-    1 string data = "Handcrafted by Docarri artisans."
+    1 string data = "Ruční výroba dokarrijských řemeslníků."
    [26]
-    1 string data = "Coral Staff"
+    1 string data = "Korálová hůl"
    [27]
-    1 string data = "Handcrafted by Docarri artisans."
+    1 string data = "Ruční výroba dokarrijských řemeslníků."
    [28]
-    1 string data = "Phosphorite Lid"
+    1 string data = "Fosforová poklička"
    [29]
-    1 string data = "Carved out of hardened sediment."
+    1 string data = "Vytesáno ze zpevněného sedimentu."
    [30]
-    1 string data = "Phantom Daggers"
+    1 string data = "Fantómové dýky"
    [31]
-    1 string data = "Sharp blades emitting a faint eerie noise."
+    1 string data = "Ostré čepele vyluzující nepatrný děsivý zvuk."
    [32]
-    1 string data = "Withered Cork"
+    1 string data = "Seschlý korek"
    [33]
-    1 string data = "In need of replacement."
+    1 string data = "Potřebuje vyměnit."
    [34]
-    1 string data = "Maple Cork"
+    1 string data = "Javorový korek"
    [35]
-    1 string data = "Heavy for its size."
+    1 string data = "Na svou velikost je těžký."
    [36]
-    1 string data = "Bamboo Slicer"
+    1 string data = "Bambusový kráječ"
    [37]
-    1 string data = "Sharp with a greenish hue."
+    1 string data = "Ostrý se zelenkavým odstínem."
    [38]
-    1 string data = "Shroomy Shivs"
+    1 string data = "Houbové kudly"
    [39]
-    1 string data = "Increases potency of venom attacks."
+    1 string data = "Zvyšují účinnost útoků jedem."
    [40]
-    1 string data = "Ornate Bo"
+    1 string data = "Zdobená Bo"
    [41]
-    1 string data = "Perfectly balanced."
+    1 string data = "Dokonale vyvážená."
    [42]
-    1 string data = "Sturdy Cog"
+    1 string data = "Bytelné ozubené kolo"
    [43]
-    1 string data = "Could power a gigantic clock, and probably did."
+    1 string data = "Mohlo by pohánět obří hodiny a pravděpodobně i pohánělo."
    [44]
-    1 string data = "Cloud Sword"
+    1 string data = "Oblačný meč"
    [45]
-    1 string data = "Sounds famous."
+    1 string data = "Také přesláven jako Cloudův meč."
    [46]
-    1 string data = "Igneous Staff"
+    1 string data = "Žhavá hůl"
    [47]
-    1 string data = "Made from hardened magma."
+    1 string data = "Vyrobena ze ztvrdlého magmatu."
    [48]
-    1 string data = "Truesilver Daggers"
+    1 string data = "Dýky z pravého stříbra"
    [49]
-    1 string data = "Stolen from pirates of old."
+    1 string data = "Ukradené starým pirátům."
    [50]
-    1 string data = "Cypress Cork"
+    1 string data = "Cyperský korek"
    [51]
-    1 string data = "Smells like a peaceful retreat."
+    1 string data = "Voní jako na poklidném útočišti."
    [52]
-    1 string data = "Kybersteel Blade"
+    1 string data = "Čepel z kyberoceli"
    [53]
-    1 string data = "Hardened by a cybernetics forge operating at absolute zero."
+    1 string data = "Kalené v kybernetické výhni při absolutní nule."
    [54]
-    1 string data = "Adamantine Staff"
+    1 string data = "Adamantinová hůl"
    [55]
-    1 string data = "Perfectly shaped by advanced machines."
+    1 string data = "Perfektně tvarovaná vyspělými stroji."
    [56]
-    1 string data = "Kybersteel Daggers"
+    1 string data = "Dýky z kyberoceli"
    [57]
-    1 string data = "Could even cut through diamond."
+    1 string data = "Dokážou proříznout i diamant."
    [58]
-    1 string data = "Walnut Cork"
+    1 string data = "Ořechový korek"
    [59]
-    1 string data = "A rare find in Seraï's world."
+    1 string data = "Vzácný nález ve světě Seraï."
    [60]
-    1 string data = "Plasma Blade"
+    1 string data = "Plazmová čepel"
    [61]
-    1 string data = "So sharp it emits a faint sound."
+    1 string data = "Tak ostrá, že vyluzuje jemný zvuk."
    [62]
-    1 string data = "Neobsidian Staff"
+    1 string data = "Neobsidiánová hůl"
    [63]
-    1 string data = "Stops resonating when firmly held."
+    1 string data = "Přestane rezonovat, až když se pevně sevře."
    [64]
-    1 string data = "Plasma Daggers"
+    1 string data = "Plazmové dýky"
    [65]
-    1 string data = "So sharp they emit a faint sound."
+    1 string data = "Tak ostré, že vyluzují jemný zvuk."
    [66]
-    1 string data = "Rosewood Cork"
+    1 string data = "Palisandrový korek"
    [67]
-    1 string data = "Lovely scent."
+    1 string data = "Krásná vůně."
    [68]
-    1 string data = "Firmament's Edge"
+    1 string data = "Ostří nebeské klenby"
    [69]
-    1 string data = "Cuts even the very air it slashes through."
+    1 string data = "Rozřízne i samotný vzduch, který protne."
    [70]
-    1 string data = "Earthshine Staff"
+    1 string data = "Hůl Zemské záře"
    [71]
-    1 string data = "Could shatter any surface."
+    1 string data = "Dokáže roztříštit jakýkoli povrch."
    [72]
-    1 string data = "Apogee Daggers"
+    1 string data = "Apogenní dýky"
    [73]
-    1 string data = "Safe only in the agile hands of a master."
+    1 string data = "Bezpečné pouze v hbitých rukou mistra."
    [74]
-    1 string data = "Salix Cork"
+    1 string data = "Korek z vrby Salix"
    [75]
-    1 string data = "Discarded by Aephorul after one of his experiments."
+    1 string data = "Odhozen Aephorulem po jednom z jeho experimentů."
    [76]
-    1 string data = "Sun Blade"
+    1 string data = "Sluneční čepel"
    [77]
-    1 string data = "The legendary sword of the Guardian God Solen."
+    1 string data = "Legendární meč strážného boha Solena."
    [78]
-    1 string data = "Moon Bo"
+    1 string data = "Měsíčná Bo"
    [79]
-    1 string data = "The legendary staff of the Guardian Goddess Luana."
+    1 string data = "Legendární hůl strážní bohyně Luany."
    [80]
-    1 string data = "Mooncradle Boy's Lid"
+    1 string data = "Poklička chlapce z Měsíční Kolébky"
    [81]
-    1 string data = "A trusty weapon for one who fights with spirit."
+    1 string data = "Spolehlivá zbraň pro toho, kdo bojuje s duší."
    [82]
-    1 string data = "Star Shards"
+    1 string data = "Hvězdné střepy"
    [83]
-    1 string data = "Legendary daggers crafted from the tears of a fallen monarch."
+    1 string data = "Legendární dýky vyrobené ze slz padlého monarchy."
    [84]
-    1 string data = "Aetherwood Cork"
+    1 string data = "Aetherwoodsky korek"
    [85]
-    1 string data = "Resh'an's handcrafted finishing touch for the Vial of Time."
+    1 string data = "Resh'anova ruční úprava pro Baňku času."
    [86]
-    1 string data = "Chipped Glass Fist"
+    1 string data = "Ulomená skleněná pěst"
    [87]
-    1 string data = "Living Glass balled into a fist."
+    1 string data = "Živoucí sklo stočené do pěsti."
    [88]
-    1 string data = "Flawed Glass Fist"
+    1 string data = "Prasklá skleněná pěst"
    [89]
-    1 string data = "Living Glass balled into a fist."
+    1 string data = "Živoucí sklo stočené do pěsti."
    [90]
-    1 string data = "Glass Fist"
+    1 string data = "Skleněná pěst"
    [91]
-    1 string data = "Living Glass balled into a fist."
+    1 string data = "Živoucí sklo stočené do pěsti."
    [92]
-    1 string data = "Flawless Glass Fist"
+    1 string data = "Bezvadná skleněná pěst"
    [93]
-    1 string data = "Living Glass balled into a fist."
+    1 string data = "Živoucí sklo stočené do pěstit."
    [94]
-    1 string data = "Perfect Glass Fist"
+    1 string data = "Dokonalá skleněná pěst"
    [95]
-    1 string data = "Living Glass balled into a fist."
+    1 string data = "Živoucí sklo stočené do pěsti."
    [96]
-    1 string data = "Basic Armor"
+    1 string data = "Základní zbroj"
    [97]
-    1 string data = "Predictable in a good way."
+    1 string data = "Předvídatelné v dobrém slova smyslu."
    [98]
-    1 string data = "Miner's Smock"
+    1 string data = "Hornická halena"
    [99]
-    1 string data = "A worker's apron."
+    1 string data = "Zástěra pro dělníky."
    [100]
-    1 string data = "Pirate Garb"
+    1 string data = "Pirátský oděv"
    [101]
-    1 string data = "Probably used."
+    1 string data = "Pravděpodobně užíváno."
    [102]
-    1 string data = "Spectral Cape"
+    1 string data = "Přízračný plášť"
    [103]
-    1 string data = "Appears to have a will of its own."
+    1 string data = "Zdá se, že má vlastní vůli."
    [104]
-    1 string data = "Bone Armor"
+    1 string data = "Kostěná zbroj"
    [105]
-    1 string data = "Cold but reliable."
+    1 string data = "Chladná, ale spolehlivá."
    [106]
-    1 string data = "Revenant Armor"
+    1 string data = "Zbroj revenanta"
    [107]
-    1 string data = "Was worn by its owner long after death."
+    1 string data = "Byla nošena svým majitelem dlouho po smrti."
    [108]
-    1 string data = "Thalassic Cloak"
+    1 string data = "Thalaský plášť"
    [109]
-    1 string data = "Magicked into existence by a wizard of old."
+    1 string data = "Vyčarován do existence čarodějem z dávných časů."
    [110]
-    1 string data = "Tattered Cape"
+    1 string data = "Roztrhaný plášť"
    [111]
-    1 string data = "Enchanted to appear to be in mint condition."
+    1 string data = "Očarován tak, aby vypadal jako v bezvadném stavu."
    [112]
-    1 string data = "Oaken Armor"
+    1 string data = "Dubová zbroj"
    [113]
-    1 string data = "Hardened by craftsmen of a bygone era."
+    1 string data = "Vytvrzelé řemeslníky z dávných dob."
    [114]
-    1 string data = "Leaf Cape"
+    1 string data = "Listový plášť"
    [115]
-    1 string data = "Brimming with ancient magic."
+    1 string data = "Překypující starobylou magií."
    [116]
-    1 string data = "Sky Armor"
+    1 string data = "Nebeská zbroj"
    [117]
-    1 string data = "Feels both heavy and light."
+    1 string data = "Působí těžce i lehce."
    [118]
-    1 string data = "Volcanic Armor"
+    1 string data = "Sopečná zbroj"
    [119]
-    1 string data = "Great protection for those who can bear the weight."
+    1 string data = "Skvělá ochrana pro ty, kteří unesou její váhu."
    [120]
-    1 string data = "Azure Cape"
+    1 string data = "Azurový plášť"
    [121]
-    1 string data = "Seemingly alive with dreamlike patterns."
+    1 string data = "Zdánlivě oživlý se snovými vzory."
    [122]
-    1 string data = "Wireplate Armor"
+    1 string data = "Drátěná zbroj"
    [123]
-    1 string data = "Embraces the wearer's body with impossible accuracy."
+    1 string data = "Padne nositelovi s neskutečnou přesností."
    [124]
-    1 string data = "Pliantshell Vest"
+    1 string data = "Skořepinová vesta"
    [125]
-    1 string data = "A seemingly sentient material that becomes soft as cloth when protection isn't needed."
+    1 string data = "Patrně vnímavý materiál, který změkne na látku, když není potřeba ochrany."
    [126]
-    1 string data = "Dull Simulacrum"
+    1 string data = "Tupé simulakrum"
    [127]
-    1 string data = "Reflects the light slightly."
+    1 string data = "Jemně odráží světlo."
    [128]
-    1 string data = "Sparkmesh Armor"
+    1 string data = "Prskavcová zbroj"
    [129]
-    1 string data = "A sturdy miracle of technology."
+    1 string data = "Robustní zázrak technologie."
    [130]
-    1 string data = "Sparkmesh Cape"
+    1 string data = "Prskavcový plášť"
    [131]
-    1 string data = "A flexible miracle of technology."
+    1 string data = "Flexibilní zázrak technologie."
    [132]
-    1 string data = "Cloudy Simulacrum"
+    1 string data = "Oblačné simulakrum"
    [133]
-    1 string data = "Has a subtle shine to it."
+    1 string data = "Má nepatrný odlesk."
    [134]
-    1 string data = "Eclipse Armor"
+    1 string data = "Zbroj Zatmění"
    [135]
-    1 string data = "The Solstice Warrior's ultimate protection."
+    1 string data = "Ultimátní ochrana Bojovníka Slunovratu."
    [136]
-    1 string data = "Cosmic Cape"
+    1 string data = "Kosmický plášť"
    [137]
-    1 string data = "Inlaid with ethereal patterns."
+    1 string data = "Vykládaný éterickými vzory."
    [138]
-    1 string data = "Vitric Simulacrum"
+    1 string data = "Skelnaté simulakrum"
    [139]
-    1 string data = "Settles Living Glass in perfect harmony."
+    1 string data = "Usazuje živoucí sklo do naprosté harmonie."
    [140]
-    1 string data = "Garl's Apron"
+    1 string data = "Garlova zástěra"
    [141]
-    1 string data = "Handcrafted in a realm unknown using materials unknown."
+    1 string data = "Ručně vyrobeno v neznámé říši z neznámých materiálů."
    [142]
-    1 string data = "Squire Sword"
+    1 string data = "Meč panoše"
    [143]
-    1 string data = "For those looking for a humble start."
+    1 string data = "Pro ty, kteří hledají skromný začátek."
    [144]
-    1 string data = "Copper Staff"
+    1 string data = "Měděná hůl"
    [145]
-    1 string data = "Sturdy and light."
+    1 string data = "Bytelná a lehká."
    [146]
-    1 string data = "Silver Sword"
+    1 string data = "Stříbrný meč"
    [147]
-    1 string data = "Sharp and made of silver."
+    1 string data = "Ostrý a vyrobený ze stříbra."
    [148]
-    1 string data = "Teal Amber Staff"
+    1 string data = "Tyrkysovo-jantarová hůl"
    [149]
-    1 string data = "Handmade by the Molekin stonemasons."
+    1 string data = "Ruční výroba kameníků z Molekinu."
    [150]
-    1 string data = "Rock Lid"
+    1 string data = "Skalní poklička"
    [151]
-    1 string data = "Requires a firm grip."
+    1 string data = "Postrádá pevné madlo."
    [152]
-    1 string data = "Obsidian Cauldron Lid"
+    1 string data = "Obsidiánová poklička na kotel"
    [153]
-    1 string data = "A work of art from another land."
+    1 string data = "Umělecké dílo z jiné země."
    [154]
-    1 string data = "Scrimshawed Sword"
+    1 string data = "Vyřezávaný meč"
    [155]
-    1 string data = "The result of a femur and a lot of free time."
+    1 string data = "Produkt stehenní kosti a spousty volného času."
    [156]
-    1 string data = "Osseous Staff"
+    1 string data = "Kostěná hůl"
    [157]
-    1 string data = "Signature weapon of warriors long passed."
+    1 string data = "Podpisová zbraň dávno zesnulých válečníků."
    [158]
-    1 string data = "Amulet of Storytelling"
+    1 string data = "Amulet vypravěčství"
    [159]
-    1 string data = "For a lighter challenge, doubles max HP and auto-heals up to [FIGHT_END_MINIMUM_HEAL_PERCENTAGE] after combat."
+    1 string data = "Pro snadnější výzvu, zdvojnásobuje maximální BŽ a po boji automaticky léčí až do [FIGHT_END_MINIMUM_HEAL_PERCENTAGE]."
    [160]
-    1 string data = "Eye of Yomara"
+    1 string data = "Oko Yomary"
    [161]
-    1 string data = "Displays weaknesses, resistances and non-boss enemy HP in combat."
+    1 string data = "Zobrazuje v souboji slabiny, odolnosti a BŽ nepřítele, který není bossem."
    [162]
-    1 string data = "Gambler's Earring"
+    1 string data = "Náušnice hazardního hráče"
    [163]
-    1 string data = "Expert mode: Max HP [HP_AMOUNT]. 2x bonus to timed hits and blocks."
+    1 string data = "Režim pro experty: Maximální BŽ [HP_AMOUNT]. 2x bonus k načasovaným zásahům a blokům."
    [164]
-    1 string data = "Enchanted Chain-Link"
+    1 string data = "Očarovaný řetízek"
    [165]
-    1 string data = "Start combat with [ASSIST_POINT_AMOUNT] available."
+    1 string data = "Boj začíná s [ASSIST_POINT_AMOUNT]."
    [166]
-    1 string data = "Lucent Crystal"
+    1 string data = "Zářivý krystal"
    [167]
-    1 string data = "Generates one more boost charge when initiating combat (attack or Graplou)."
+    1 string data = "Při zahájení souboje zahákem generuje jednu částici Živé many navíc."
    [168]
-    1 string data = "Mage-knight Scarf"
+    1 string data = "Šátek mága-rytíře"
    [169]
-    1 string data = "Remove Physical Attack and convert 75% to Magic Attack. No SP regen after battle."
+    1 string data = "Odstraňuje fyzický útok a 75 % převádí na magický útok. Po boji se neobnovují SP."
    [170]
     1 string data = "Osmosis Ring"
    [171]
-    1 string data = "Timing blocks regenerates 2 SP per block."
+    1 string data = "Časování bloků regeneruje 2 SP za blok."
    [172]
-    1 string data = "Leeching Thorn"
+    1 string data = "Saví trn"
    [173]
-    1 string data = "Normal attacks heal for [HEAL_PERCENTAGE] of damage done."
+    1 string data = "Normální útoky léčí [HEAL_PERCENTAGE] způsobeného poškození."
    [174]
-    1 string data = "Abacus"
+    1 string data = "Abakus"
    [175]
-    1 string data = "Displays non-boss enemies HP in combat."
+    1 string data = "Zobrazuje HP nepřátel v soboji krom bossů."
    [176]
-    1 string data = "Power Belt"
+    1 string data = "Silový opasek"
    [177]
-    1 string data = "Attack Power +[STAT]"
+    1 string data = "Útočná síla +[STAT]"
    [178]
-    1 string data = "Green Leaf"
+    1 string data = "Zelený list"
    [179]
-    1 string data = "Max HP +[HP_AMOUNT]."
+    1 string data = "Max BŽ +[HP_AMOUNT]."
    [180]
-    1 string data = "Evergreen Leaf"
+    1 string data = "Ihličí"
    [181]
-    1 string data = "Max HP +[HP_AMOUNT]."
+    1 string data = "Max BŽ +[HP_AMOUNT]."
    [182]
-    1 string data = "Blue Leaf"
+    1 string data = "Modrý list"
    [183]
-    1 string data = "Max MP + 5."
+    1 string data = "Max BM + 5."
    [184]
-    1 string data = "Arcane Amulet"
+    1 string data = "Arkánový amulet"
    [185]
-    1 string data = "Magic DEF +[STAT]"
+    1 string data = "Magická obrana +[STAT]"
    [186]
-    1 string data = "Dextrous Bangle"
+    1 string data = "Náramek hbitosti"
    [187]
-    1 string data = "Increases bonus from timing hits and blocks by 10%."
+    1 string data = "Zvyšuje bonus z načasování zásahů a bloků o 10%."
    [188]
-    1 string data = "Shimmering Shard"
+    1 string data = "Třpytivý střep"
    [189]
-    1 string data = "Increases damage dealt to <color=bad>undead</color> by 15%."
+    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 15%."
    [190]
-    1 string data = "Enchanted Scarf"
+    1 string data = "Očarovaný šátek"
    [191]
-    1 string data = "Magic Attack +5."
+    1 string data = "Magický útok +5."
    [192]
-    1 string data = "Solstice Sash"
+    1 string data = "Šerpa Slunovratu"
    [193]
-    1 string data = "Magic Attack +7."
+    1 string data = "Magický útok +7."
    [194]
-    1 string data = "Assassin's Pin"
+    1 string data = "Vrahův špendlík"
    [195]
-    1 string data = "DEF -20. ATK +10."
+    1 string data = "Obrana -20. Útok +10."
    [196]
-    1 string data = "Heliacal Earrings"
+    1 string data = "Heliaktické náušnice"
    [197]
-    1 string data = "M. ATK +10. Sunball does full damage to splash targets."
+    1 string data = "Magický útok +10. Sluneční koule způsobuje okolním cílům plné poškození."
    [198]
-    1 string data = "Moonstone Bracer"
+    1 string data = "Spona s měsíčním kamenem"
    [199]
-    1 string data = "M. ATK +10. Lunar Shield costs -2 MP."
+    1 string data = "Magický útok +10. Lunární štít stojí -2 BM."
    [200]
-    1 string data = "Celestial Ray"
+    1 string data = "Nebeský paprsek"
    [201]
-    1 string data = "M. ATK +5. Regular attacks regenerate +1 MP."
+    1 string data = "Magický útok +5. Běžné útoky regenerují +1 BM."
    [202]
-    1 string data = "Signet of Clarity"
+    1 string data = "Pečeť jasnosti"
    [203]
-    1 string data = "Skills cost -1 MP."
+    1 string data = "Dovednosti stojí -1 BM."
    [204]
-    1 string data = "Solstice Mage Ring"
+    1 string data = "Prsten Mága Slunovratu"
    [205]
-    1 string data = "Party members recover 1 MP when they time a block."
+    1 string data = "Členové družiny získají 1 BM, když načasují blok."
    [206]
-    1 string data = "Spirit of Ninja"
+    1 string data = "Duch nindži"
    [207]
-    1 string data = "Combo Points build 10% faster."
+    1 string data = "Kombo body se vytvářejí o 10 % rychleji."
    [208]
-    1 string data = "Magic Pocket"
+    1 string data = "Magická kapsa"
    [209]
-    1 string data = "The first item used during a round won't spend the character's turn."
+    1 string data = "První předmět použitý během kola nestojí akci postavy."
    [210]
-    1 string data = "Nano Injector"
+    1 string data = "Nano vstřikovač"
    [211]
-    1 string data = "An implant for Seraï that removes one star from allies entering KO state."
+    1 string data = "Implantát pro Seraï, který odstraňuje jednu hvězdičku z KO stavu spojenců."
    [212]
-    1 string data = "Cornucopia"
+    1 string data = "Roh hojnosti"
    [213]
-    1 string data = "Party max HP +20."
+    1 string data = "Všem +20 BŽ."
    [214]
-    1 string data = "Reaper's Mercy"
+    1 string data = "Milost Smrtě"
    [215]
-    1 string data = "While HP is above 50%, killing blows leave the target at 1HP instead."
+    1 string data = "Dokud jsou BŽ vyšší než 50%, fatální údery zanechají cíli s 1 BŽ."
    [216]
     1 string data = "~Heal some HP when blocking"
    [217]
@@ -529,115 +529,115 @@
    [257]
     1 string data = "~Party Max HP+[HP_AMOUNT] and auto-heal to [FIGHT_END_MINIMUM_HEAL_PERCENTAGE] after each fight"
    [258]
-    1 string data = "Amulet of Storytelling"
+    1 string data = "Amulet vyprávění"
    [259]
-    1 string data = "For those who prefer a lighter challenge."
+    1 string data = "Pro ty, kteří preferují lehčí výzvu."
    [260]
-    1 string data = "Max HP +[HP_AMOUNT] and auto-heal after combat."
+    1 string data = "Max BŽ +[HP_AMOUNT] a automatické uzdravení po boji."
    [261]
-    1 string data = "Artful Gambit"
+    1 string data = "Umělecký gambit"
    [262]
-    1 string data = "A mystical and dangerous relic. For the daring only."
+    1 string data = "Mystická a nebezpečná relikvie. Pouze pro odvážné."
    [263]
-    1 string data = "HP [HP_AMOUNT]. Enemies are invincible while casting. Timed blocks reduce damage to <color=magic>1</color>. Timed hits bonus damage x<color=magic>2</color>."
+    1 string data = "BŽ [HP_AMOUNT]. Nepřátelé jsou při čarování nezranitelní. Časované bloky snižují poškození na <color=magic>1</color>. Při načasování zásahu <color=magic>2x</color> bonusové poškození."
    [264]
-    1 string data = "Available only in New Game+ mode."
+    1 string data = "Dostupné pouze v režimu Nová hra+."
    [265]
-    1 string data = "Sequent Flare"
+    1 string data = "Sekvenční světlice"
    [266]
-    1 string data = "Clearer confirmation for successful timed hits and blocks."
+    1 string data = "Zřetelnější potvrzení úspěšně načasovaných zásahů a bloků."
    [267]
-    1 string data = "Successfully timing hits and blocks causes a star flare to fly out of the character for a clear-as-day confirmation that the input was properly timed. Recommended for those preferring stronger feedback, or while closing in on the mastery of certain moves."
+    1 string data = "Úspěšné načasování zásahů a bloků způsobí, že z postavy vyletí hvězdná světlice, aby jasně potvrdila správné načasování. Doporučeno těm, kteří dávají přednost výrazné zpětné vazbě, nebo se učí preciznosti."
    [268]
-    1 string data = "Stereofilament Line"
+    1 string data = "Vlasec ze stereofilamentu"
    [269]
-    1 string data = "Fishing rod upgrade."
+    1 string data = "Vylepšení rybářského prutu."
    [270]
-    1 string data = "Made of sturdy material to offer more leeway when reeling in a stubborn catch. Can take more damage before breaking."
+    1 string data = "Vyrobeno z pevného materiálu, který nabízí více vůle při navíjení zarputilého úlovku. Snese víc poškození, než se přetrhne."
    [271]
-    1 string data = "Mithreel Rod"
+    1 string data = "Mithreelův prut"
    [272]
-    1 string data = "Fishing rod upgrade."
+    1 string data = "Vylepšení rybářského prutu."
    [273]
-    1 string data = "A sturdier fishing rod that carries so much power it intimidates the catch, causing its stamina to deplete faster."
+    1 string data = "Pevnější rybářský prut, který má tolik síly, že vyděsí úlovek a způsobí rychlejší vyčerpání jeho výdrže."
    [274]
-    1 string data = "Bearing Reel"
+    1 string data = "Ložiskový naviják"
    [275]
-    1 string data = "Fishing rod upgrade."
+    1 string data = "Vylepšení rybářského prutu."
    [276]
-    1 string data = "Easier to spin and never jams. Increases reeling speed."
+    1 string data = "Snadněji se navíjí a nikdy se nezasekává. Zvyšuje rychlost navíjení."
    [277]
-    1 string data = "Truestrike Pendant"
+    1 string data = "Přívěsek pravého úderu"
    [278]
-    1 string data = "Negates enemy defense bonus while casting."
+    1 string data = "Neguje bonus k obraně nepřítele při čarování."
    [279]
-    1 string data = "Removes the <color=magic>20</color>% damage resistance enemies have while casting (locks)."
+    1 string data = "Odstraňuje <color=magic>20</color>% odolnosti proti poškození, kterou mají nepřátelé při čarování (zámky)."
    [280]
-    1 string data = "Double Edge"
+    1 string data = "Dvojité ostří"
    [281]
-    1 string data = "Increases damage in certain situations."
+    1 string data = "Zvyšuje poškození v určitých situacích."
    [282]
-    1 string data = "Increases enemy defense bonus while casting (locks). Decreases enemy defense while not casting (no locks)."
+    1 string data = "Zvyšuje bonus k obraně nepřítele při čarování (zámky) avšak snižuje obranu nepřítele když nečaruje (bez zámků)."
    [283]
-    1 string data = "Tome of Knowledge"
+    1 string data = "Svazek znalostí"
    [284]
-    1 string data = "Increases XP gained."
+    1 string data = "Zvyšuje získané zkušenosti."
    [285]
-    1 string data = "Tome containing techniques to optimize one's learning ability and general growth. Increases XP gained by <color=magic>20</color>%"
+    1 string data = "Svazek popisuje techniky pro optimalizaci schopnosti učení a celkového růstu. Zvyšuje získané body zkušenosti o <color=magic>20%</color>"
    [286]
-    1 string data = "Falcon-eyed Parrot"
+    1 string data = "Papoušek se sokolíma očima"
    [287]
-    1 string data = "Helps finding remaining treasure."
+    1 string data = "Pomáhá najít zbývající poklady."
    [288]
-    1 string data = "Adds a treasure hunting parrot to the Vespertine. Can be prompted while consulting the Map for hints of things left to find."
+    1 string data = "Přidá na Večernici papouška, který hledá poklady. Může být dotazován při nahlížení do mapy pro nápovědu k věcem, které zbývá najít."
    [289]
-    1 string data = "Salient Sails"
+    1 string data = "Vyduté plachty"
    [290]
-    1 string data = "Increases sailing speed."
+    1 string data = "Zvyšuje rychlost plavby."
    [291]
-    1 string data = "Proudly made using Brisk's secret techniques, and allegedly enchanted with a magic charm. Salient Sails increase sailing speed by <color=magic>20</color>%"
+    1 string data = "Hrdě vyrobeno pomocí Briskových tajných technik a údajně očarováno magickým zaklínadlem. Vyduté plachty zvyšují rychlost plavby o <color=magic>20%</color>"
    [292]
-    1 string data = "Gold Tooth"
+    1 string data = "Zlatý zub"
    [293]
-    1 string data = "Price reduction in all shops."
+    1 string data = "Snížení cen ve všech obchodech."
    [294]
-    1 string data = "The memento of a legendary haggler known to all merchants. Prompts a <color=magic>10</color>% price reduction in shops."
+    1 string data = "Memento legendárního smlouvače, kterého znají všichni obchodníci. Způsobuje <color=magic>10%</color> snížení cen v obchodech."
    [295]
-    1 string data = "Sixth Sense"
+    1 string data = "Šestý smysl"
    [296]
-    1 string data = "Chance of automatically timing blocks."
+    1 string data = "Šance na automatické načasování bloků."
    [297]
-    1 string data = "In a shared state of higher focus, party members have a <color=magic>35</color>% chance to block incoming attacks. Safety layer that still allows the player to time blocks on their own."
+    1 string data = "V kolektivním stavu vyšší koncentrace mají členové party <color=magic>35%</color> šanci blokovat příchozí útoky. Pojistka, která stále umožňuje hráči, aby bloky načasoval sám."
    [298]
-    1 string data = "Adamant Shard"
+    1 string data = "Střep adamantu"
    [299]
-    1 string data = "Ensures double hits on regular attacks."
+    1 string data = "Zajišťuje dvojité zásahy při běžných útocích."
    [300]
-    1 string data = "Regular attacks time themselves automatically. Guarantees extra hits for lock-breaking, but reduces bonus damage from timing the hit by <color=magic>50</color>%."
+    1 string data = "Regulérní útoky se automaticky načasují. Zaručuje extra zásah pro prolomení zámku, ale snižuje bonusové poškození z načasování zásahu o <color=magic>50%</color>."
    [301]
-    1 string data = "Hidden Pockets"
+    1 string data = "Skryté kapsy"
    [302]
-    1 string data = "Allows more snacks to be carried."
+    1 string data = "Umožňuje nosit více svačin."
    [303]
-    1 string data = "More carrying space lets the party 15 snacks, up from 10."
+    1 string data = "Větší prostor pro přenášení umožňuje nosit 15 svačin, oproti 10."
    [304]
-    1 string data = "Dubious Dare"
+    1 string data = "Pochybná odvaha"
    [305]
-    1 string data = "Increases damage taken."
+    1 string data = "Zvyšuje přijaté poškození."
    [306]
-    1 string data = "For those who prefer grittier combat, demanding more strategy and timing skill. Increases damage taken by <color=bad>40</color>%"
+    1 string data = "Pro ty, kteří dávají přednost drsnějšímu boji, který vyžaduje více strategie a schopnosti načasování. Zvyšuje přijaté poškození o <color=bad>40%</color>."
    [307]
-    1 string data = "Guardian Aura"
+    1 string data = "Aura ochránce"
    [308]
-    1 string data = "Decreases damage taken."
+    1 string data = "Snižuje přijaté poškození."
    [309]
-    1 string data = "For those who prefer a lighter challenge. Reduces damage taken by <color=magic>30</color>%"
+    1 string data = "Pro ty, kteří dávají přednost lehčí výzvě. Snižuje přijaté poškození o <color=magic>30%</color>"
    [310]
-    1 string data = "Tactician's Mettle"
+    1 string data = "Taktikův důvtip"
    [311]
-    1 string data = "Emphasis on strategy and skill during combat."
+    1 string data = "Důraz na strategii a dovednosti během boje."
    [312]
-    1 string data = "Enemies have <color=bad>60</color>% damage resistance while casting (locks). Increases player damage taken by <color=bad>35</color>%. Items (snacks) cannot be used in combat. Campfires recover HP up to 50%, and don't recover MP."
+    1 string data = "Nepřátelé mají <color=bad>60%</color> odolnost proti poškození počas čarování (zámky). Zvyšuje poškození způsobené hráči o <color=bad>35%</color>. Předměty (svačinu) nelze používat v boji. Táborové ohniště obnovují BŽ jen do 50%, BM neobnovují."
    [313]
     1 string data = "Apple"
    [314]
