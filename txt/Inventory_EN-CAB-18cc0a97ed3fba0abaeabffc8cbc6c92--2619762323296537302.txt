@@ -69,21 +69,21 @@
    [27]
     1 string data = "Ruční výroba dokarrijských řemeslníků."
    [28]
-    1 string data = "Fosforová poklička"
+    1 string data = "Fosforitová poklička"
    [29]
     1 string data = "Vytesáno ze zpevněného sedimentu."
    [30]
-    1 string data = "Fantómové dýky"
+    1 string data = "Fantomové dýky"
    [31]
     1 string data = "Ostré čepele vyluzující nepatrný děsivý zvuk."
    [32]
-    1 string data = "Seschlý korek"
+    1 string data = "Seschlá zátka"
    [33]
     1 string data = "Potřebuje vyměnit."
    [34]
-    1 string data = "Javorový korek"
+    1 string data = "Javorová zátka"
    [35]
-    1 string data = "Na svou velikost je těžký."
+    1 string data = "Na svou velikost je těžká."
    [36]
     1 string data = "Bambusový kráječ"
    [37]
@@ -103,25 +103,25 @@
    [44]
     1 string data = "Oblačný meč"
    [45]
-    1 string data = "Také přesláven jako Cloudův meč."
+    1 string data = "Také proslaven jako Cloudův meč."
    [46]
     1 string data = "Žhavá hůl"
    [47]
-    1 string data = "Vyrobena ze ztvrdlého magmatu."
+    1 string data = "Vyrobena ze zatvrdlého magmatu."
    [48]
     1 string data = "Dýky z pravého stříbra"
    [49]
-    1 string data = "Ukradené starým pirátům."
+    1 string data = "Ukradené pirátům z dávných dob."
    [50]
-    1 string data = "Cyperský korek"
+    1 string data = "Cypřišová zátka"
    [51]
-    1 string data = "Voní jako na poklidném útočišti."
+    1 string data = "Voní jako poklidné útočiště."
    [52]
     1 string data = "Čepel z kyberoceli"
    [53]
-    1 string data = "Kalené v kybernetické výhni při absolutní nule."
+    1 string data = "Kalená v kybernetické kovárně při absolutní nule."
    [54]
-    1 string data = "Adamantinová hůl"
+    1 string data = "Nerozbitná hůl"
    [55]
     1 string data = "Perfektně tvarovaná vyspělými stroji."
    [56]
@@ -129,15 +129,15 @@
    [57]
     1 string data = "Dokážou proříznout i diamant."
    [58]
-    1 string data = "Ořechový korek"
+    1 string data = "Ořešáková zátka"
    [59]
-    1 string data = "Vzácný nález ve světě Seraï."
+    1 string data = "V Seraïně světě vzácný nález."
    [60]
     1 string data = "Plazmová čepel"
    [61]
     1 string data = "Tak ostrá, že vyluzuje jemný zvuk."
    [62]
-    1 string data = "Neobsidiánová hůl"
+    1 string data = "Neoobsidiánová hůl"
    [63]
     1 string data = "Přestane rezonovat, až když se pevně sevře."
    [64]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "Tak ostré, že vyluzují jemný zvuk."
    [66]
-    1 string data = "Palisandrový korek"
+    1 string data = "Palisandrová zátka"
    [67]
     1 string data = "Krásná vůně."
    [68]
@@ -153,39 +153,39 @@
    [69]
     1 string data = "Rozřízne i samotný vzduch, který protne."
    [70]
-    1 string data = "Hůl Zemské záře"
+    1 string data = "Hůl zemské záře"
    [71]
-    1 string data = "Dokáže roztříštit jakýkoli povrch."
+    1 string data = "Dokáže roztříštit jakýkoliv povrch."
    [72]
-    1 string data = "Apogenní dýky"
+    1 string data = "Špičkové dýky"
    [73]
-    1 string data = "Bezpečné pouze v hbitých rukou mistra."
+    1 string data = "Bezpečné pouze ve hbitých rukou mistra."
    [74]
-    1 string data = "Korek z vrby Salix"
+    1 string data = "Vrbová zátka"
    [75]
-    1 string data = "Odhozen Aephorulem po jednom z jeho experimentů."
+    1 string data = "Vyhozena Aephorulem po jednom z jeho experimentů."
    [76]
     1 string data = "Sluneční čepel"
    [77]
-    1 string data = "Legendární meč strážného boha Solena."
+    1 string data = "Legendární meč Strážného Boha Solena."
    [78]
-    1 string data = "Měsíčná Bo"
+    1 string data = "Měsíční Bo"
    [79]
-    1 string data = "Legendární hůl strážní bohyně Luany."
+    1 string data = "Legendární hůl Strážné Bohyně Luany."
    [80]
     1 string data = "Poklička chlapce z Měsíční Kolébky"
    [81]
-    1 string data = "Spolehlivá zbraň pro toho, kdo bojuje s duší."
+    1 string data = "Spolehlivá zbraň pro toho, kdo bojuje s odvahou."
    [82]
     1 string data = "Hvězdné střepy"
    [83]
-    1 string data = "Legendární dýky vyrobené ze slz padlého monarchy."
+    1 string data = "Legendární dýky vyrobené ze slz padlé vládkyně."
    [84]
-    1 string data = "Aetherwoodsky korek"
+    1 string data = "Aetherwoodská zátka"
    [85]
-    1 string data = "Resh'anova ruční úprava pro Baňku času."
+    1 string data = "Resh'anova ručně vyrobená poslední úprava pro Baňku času."
    [86]
-    1 string data = "Ulomená skleněná pěst"
+    1 string data = "Oprýskaná skleněná pěst"
    [87]
     1 string data = "Živoucí sklo stočené do pěsti."
    [88]
@@ -199,7 +199,7 @@
    [92]
     1 string data = "Bezvadná skleněná pěst"
    [93]
-    1 string data = "Živoucí sklo stočené do pěstit."
+    1 string data = "Živoucí sklo stočené do pěsti."
    [94]
     1 string data = "Dokonalá skleněná pěst"
    [95]
@@ -215,7 +215,7 @@
    [100]
     1 string data = "Pirátský oděv"
    [101]
-    1 string data = "Pravděpodobně užíváno."
+    1 string data = "Pravděpodobně použitý."
    [102]
     1 string data = "Přízračný plášť"
    [103]
@@ -235,7 +235,7 @@
    [110]
     1 string data = "Roztrhaný plášť"
    [111]
-    1 string data = "Očarován tak, aby vypadal jako v bezvadném stavu."
+    1 string data = "Očarován tak, aby vypadal jako nový."
    [112]
     1 string data = "Dubová zbroj"
    [113]
@@ -261,11 +261,11 @@
    [123]
     1 string data = "Padne nositelovi s neskutečnou přesností."
    [124]
-    1 string data = "Skořepinová vesta"
+    1 string data = "Poddajná vesta"
    [125]
     1 string data = "Patrně vnímavý materiál, který změkne na látku, když není potřeba ochrany."
    [126]
-    1 string data = "Tupé simulakrum"
+    1 string data = "Vybledlé simulakrum"
    [127]
     1 string data = "Jemně odráží světlo."
    [128]
@@ -277,7 +277,7 @@
    [131]
     1 string data = "Flexibilní zázrak technologie."
    [132]
-    1 string data = "Oblačné simulakrum"
+    1 string data = "Zakalené simulakrum"
    [133]
     1 string data = "Má nepatrný odlesk."
    [134]
@@ -311,11 +311,11 @@
    [148]
     1 string data = "Tyrkysovo-jantarová hůl"
    [149]
-    1 string data = "Ruční výroba kameníků z Molekinu."
+    1 string data = "Ruční výroba molekinských kameníků."
    [150]
-    1 string data = "Skalní poklička"
+    1 string data = "Kamenná poklička"
    [151]
-    1 string data = "Postrádá pevné madlo."
+    1 string data = "Vyžaduje pevný úchop."
    [152]
     1 string data = "Obsidiánová poklička na kotel"
    [153]
@@ -329,13 +329,13 @@
    [157]
     1 string data = "Podpisová zbraň dávno zesnulých válečníků."
    [158]
-    1 string data = "Amulet vypravěčství"
+    1 string data = "Amulet vyprávění"
    [159]
     1 string data = "Pro snadnější výzvu, zdvojnásobuje maximální BŽ a po boji automaticky léčí až do [FIGHT_END_MINIMUM_HEAL_PERCENTAGE]."
    [160]
     1 string data = "Oko Yomary"
    [161]
-    1 string data = "Zobrazuje v souboji slabiny, odolnosti a BŽ nepřítele, který není bossem."
+    1 string data = "Zobrazuje v souboji slabiny, odolnosti a BŽ nepřátel, kteří nejsou bossové."
    [162]
     1 string data = "Náušnice hazardního hráče"
    [163]
@@ -345,9 +345,9 @@
    [165]
     1 string data = "Boj začíná s [ASSIST_POINT_AMOUNT]."
    [166]
-    1 string data = "Zářivý krystal"
+    1 string data = "Krystal z Lucentu"
    [167]
-    1 string data = "Při zahájení souboje zahákem generuje jednu částici Živé many navíc."
+    1 string data = "Při zahájení souboje Zahákem generuje jednu částici Živé many navíc."
    [168]
     1 string data = "Šátek mága-rytíře"
    [169]
@@ -357,9 +357,9 @@
    [171]
     1 string data = "Časování bloků regeneruje 2 SP za blok."
    [172]
-    1 string data = "Saví trn"
+    1 string data = "Savý trn"
    [173]
-    1 string data = "Normální útoky léčí [HEAL_PERCENTAGE] způsobeného poškození."
+    1 string data = "Normální útoky léčí o [HEAL_PERCENTAGE] způsobeného poškození."
    [174]
     1 string data = "Abakus"
    [175]
@@ -373,7 +373,7 @@
    [179]
     1 string data = "Max BŽ +[HP_AMOUNT]."
    [180]
-    1 string data = "Ihličí"
+    1 string data = "Jehličí"
    [181]
     1 string data = "Max BŽ +[HP_AMOUNT]."
    [182]
@@ -401,7 +401,7 @@
    [193]
     1 string data = "Magický útok +7."
    [194]
-    1 string data = "Vrahův špendlík"
+    1 string data = "Vrahova jehlice"
    [195]
     1 string data = "Obrana -20. Útok +10."
    [196]
@@ -409,7 +409,7 @@
    [197]
     1 string data = "Magický útok +10. Sluneční koule způsobuje okolním cílům plné poškození."
    [198]
-    1 string data = "Spona s měsíčním kamenem"
+    1 string data = "Chránič z měsíčního kamene"
    [199]
     1 string data = "Magický útok +10. Lunární štít stojí -2 BM."
    [200]
@@ -441,9 +441,9 @@
    [213]
     1 string data = "Všem +20 BŽ."
    [214]
-    1 string data = "Milost Smrtě"
+    1 string data = "Milost Smrti"
    [215]
-    1 string data = "Dokud jsou BŽ vyšší než 50%, fatální údery zanechají cíli s 1 BŽ."
+    1 string data = "Dokud jsou BŽ vyšší než 50%, fatální údery zanechají cíl s 1 BŽ."
    [216]
     1 string data = "~Heal some HP when blocking"
    [217]
@@ -553,7 +553,7 @@
    [269]
     1 string data = "Vylepšení rybářského prutu."
    [270]
-    1 string data = "Vyrobeno z pevného materiálu, který nabízí více vůle při navíjení zarputilého úlovku. Snese víc poškození, než se přetrhne."
+    1 string data = "Vyrobeno z pevného materiálu, který nabízí více volnosti při navíjení zarputilého úlovku. Snese víc poškození, než se přetrhne."
    [271]
     1 string data = "Mithreelův prut"
    [272]
@@ -585,7 +585,7 @@
    [285]
     1 string data = "Svazek popisuje techniky pro optimalizaci schopnosti učení a celkového růstu. Zvyšuje získané body zkušenosti o <color=magic>20%</color>"
    [286]
-    1 string data = "Papoušek se sokolíma očima"
+    1 string data = "Papoušek s ostřížím zrakem"
    [287]
     1 string data = "Pomáhá najít zbývající poklady."
    [288]
@@ -637,7 +637,7 @@
    [311]
     1 string data = "Důraz na strategii a dovednosti během boje."
    [312]
-    1 string data = "Nepřátelé mají <color=bad>60%</color> odolnost proti poškození počas čarování (zámky). Zvyšuje poškození způsobené hráči o <color=bad>35%</color>. Předměty (svačinu) nelze používat v boji. Táborové ohniště obnovují BŽ jen do 50%, BM neobnovují."
+    1 string data = "Nepřátelé mají <color=bad>60%</color> odolnost proti poškození během čarování (zámky). Zvyšuje poškození způsobené hráči o <color=bad>35%</color>. Předměty (svačiny) nelze používat v boji. Táborové ohniště obnovují BŽ jen do 50%, BM neobnovují."
    [313]
     1 string data = "Apple"
    [314]
