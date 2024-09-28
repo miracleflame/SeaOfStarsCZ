@@ -605,7 +605,7 @@
    [295]
     1 string data = "Úvodní obrazovka"
    [296]
-    1 string data = "<button="Interact"> Kouzlo"
+    1 string data = "<button="Interact"> Nahodit"
    [297]
     1 string data = "<button="Cancel"> Zpět"
    [298]
@@ -647,7 +647,7 @@
    [316]
     1 string data = "Náklad"
    [317]
-    1 string data = "<button="UI_Confirm"> Odložit"
+    1 string data = "<button="UI_Confirm"> Sundat"
    [318]
     1 string data = "<button="Interact"> Kopat"
    [319]
@@ -753,7 +753,7 @@
    [369]
     1 string data = "Požírač Světů"
    [370]
-    1 string data = "K DALŠÍMU"
+    1 string data = "ZBÝVÁ"
    [371]
     1 string data = "Některé akce nejsou namapovány."
    [372]

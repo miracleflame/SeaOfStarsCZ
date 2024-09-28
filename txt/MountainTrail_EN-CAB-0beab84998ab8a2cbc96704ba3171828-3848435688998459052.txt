@@ -115,7 +115,7 @@
    [50]
     1 string data = "Zatím dobrý."
    [51]
-    1 string data = "Takže <color=dobrá>Mlžný stařešina</color> prý bydlí někde tady, jo? "
+    1 string data = "Takže <color=good>Mlžný stařešina</color> prý bydlí někde tady, jo? "
    [52]
     1 string data = "Opravdu doufám, že po tomhle budeme mít možnost vrátit se do Měsíční Kolébky."
    [53]
@@ -169,7 +169,7 @@
    [77]
     1 string data = "Ty... vlastně s námi jít nemůžeš..."
    [78]
-    1 string data = "Jen jsme se chtěli rozloučit, máme teď službu a je to dost nebezpečné."
+    1 string data = "Jen jsme se chtěli rozloučit, jsme ve službě a je to dost nebezpečné."
    [79]
     1 string data = "To nemůžete myslet vážně!"
    [80]
@@ -199,7 +199,7 @@
    [92]
     1 string data = "Ne, ale..."
    [93]
-    1 string data = "Budu vědět, kdy se mám držet stranou, nemějte strach!"
+    1 string data = "Budu vědět, kdy se mám držet stranou, bez obav!"
    [94]
     1 string data = "Navíc s pár sendviči opravdu nemůžete procestovat celý svět, co vás to napadlo?"
    [95]
@@ -265,7 +265,7 @@
    [125]
     1 string data = "Vidíš? Jsi rozený talent!"
    [126]
-    1 string data = "Ten džem můžeme sníst později, až se budeme potřebovat uzdravit."
+    1 string data = "Ten džem můžeme sníst později, až budeme potřebovat posilnit ducha."
    [127]
     1 string data = "Díky za tipy, Garle, to se bude určitě hodit."
    [128]
@@ -275,7 +275,7 @@
    [130]
     1 string data = "Já taky."
    [131]
-    1 string data = "Spát jen s hvězdami nad námi, tenhle život miluju už teď!"
+    1 string data = "Spát jen s hvězdami nad hlavou, tenhle život miluju už teď!"
    [132]
     1 string data = "Garle, jsem opravdu rád, že jsi tady."
    [133]
@@ -371,7 +371,7 @@
    [178]
     1 string data = "Hú..."
    [179]
-    1 string data = "Zkoušky Mlžného stařešiny nikdy nepodstoupil nikdo jiný než aspirující Bojovníci Slunovratu."
+    1 string data = "Zkoušky Mlžného stařešiny nikdy nepodstoupil nikdo jiný než aspiranti na Bojovníků Slunovratu."
    [180]
     1 string data = "Ale já chci jít s nimi, prosím!"
    [181]
@@ -383,7 +383,7 @@
    [184]
     1 string data = "(V boji je bezpochyby omezený, ale vřelost jeho srdce...)"
    [185]
-    1 string data = "(Dokázal by <color=good>jej</good> přivést zpět?)"
+    1 string data = "(Dokázal by <color=good>jej</color> přivést zpět?)"
    [186]
     1 string data = "..."
    [187]

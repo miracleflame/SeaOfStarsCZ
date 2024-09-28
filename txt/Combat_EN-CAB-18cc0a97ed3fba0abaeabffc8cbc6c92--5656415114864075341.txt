@@ -103,7 +103,7 @@
    [44]
     1 string data = "Stiskněte při srážce."
    [45]
-    1 string data = "Valerie a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcanemoon"> <color="magic">Arkánové měsíce</color>!"
+    1 string data = "Valerie a Resh'an se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-arcanemoon"> <color="magic">Arkánové měsíce</color>!"
    [46]
     1 string data = "Loketní úder"
    [47]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Stiskněte <button="Interact">, když Valeriin zásah dopadne."
    [58]
-    1 string data = "Valerie a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Měsíční kámen</color>!"
+    1 string data = "Valerie a B'st se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Měsíční kámen</color>!"
    [59]
     1 string data = "Vrhorána"
    [60]
@@ -137,7 +137,7 @@
    [61]
     1 string data = "Stiskněte <button="Interact">, když Garl vrhá, a znovu, když B'stův zásah dopadne."
    [62]
-    1 string data = "Garl a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-hurlsmash"> <color="magic">Vrhorána</color>!"
+    1 string data = "Garl a B'st se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-hurlsmash"> <color="magic">Vrhorána</color>!"
    [63]
     1 string data = "Arkánové Slunce"
    [64]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "Stiskněte <button="Interact">, jakmile dopadne zásah B'sta."
    [66]
-    1 string data = "Zale a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcanesun"> <color="magic">Arkánové Slunce</color>!"
+    1 string data = "Zale a B'st se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-arcanesun"> <color="magic">Arkánové Slunce</color>!"
    [67]
     1 string data = "Loketní smyčka"
    [68]
@@ -153,7 +153,7 @@
    [69]
     1 string data = "Stiskněte <button="Interact"> při odrazu od země, abyste získali větší výšku."
    [70]
-    1 string data = "Seraï a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-elbowloop"> <color="magic">Loketní smyčka</color>!"
+    1 string data = "Seraï a B'st se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-elbowloop"> <color="magic">Loketní smyčka</color>!"
    [71]
     1 string data = "Lahvová pěst"
    [72]
@@ -161,7 +161,7 @@
    [73]
     1 string data = "Stiskněte <button="Interact">, jakmile zásah dopadne."
    [74]
-    1 string data = "Resh'an a B'st se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-bottlepunch"> <color="magic">Lahvová pěst</color>!"
+    1 string data = "Resh'an a B'st se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-bottlepunch"> <color="magic">Lahvová pěst</color>!"
    [75]
     1 string data = "Ruleta"
    [76]
@@ -169,7 +169,7 @@
    [77]
     1 string data = "Stiskněte <button=interact> pro výběr předmětu."
    [78]
-    1 string data = "Garl a Seraï se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-itemroulette"> <color="magic">Ruleta</color>!"
+    1 string data = "Garl a Seraï se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-itemroulette"> <color="magic">Ruleta</color>!"
    [79]
     1 string data = "Měsíční kudla"
    [80]
@@ -177,7 +177,7 @@
    [81]
     1 string data = "Stiskněte <button="Interact">, jakmile zásah dopadne."
    [82]
-    1 string data = "Valerie a Seraï se naučily kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Měsíční kudla</color>!"
+    1 string data = "Valerie a Seraï se naučily kombo <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Měsíční kudla</color>!"
    [83]
     1 string data = "Jedová bomba"
    [84]
@@ -185,7 +185,7 @@
    [85]
     1 string data = "Stiskněte <button="Interact"> při hodu pro posílení."
    [86]
-    1 string data = "Garl a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-poisonbomb"> <color="magic">Venom Bomb</color>!"
+    1 string data = "Garl a Resh'an se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-poisonbomb"> <color="magic">Venom Bomb</color>!"
    [87]
     1 string data = "Solární déšť"
    [88]
@@ -193,7 +193,7 @@
    [89]
     1 string data = "Podržte <button="Interact"> pro sílu!"
    [90]
-    1 string data = "Zale a Garl se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-solarrain"> <color="magic">Solární déšť</color>!"
+    1 string data = "Zale a Garl se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-solarrain"> <color="magic">Solární déšť</color>!"
    [91]
     1 string data = "Řetězový úder"
    [92]
@@ -209,7 +209,7 @@
    [97]
     1 string data = "Řiďte ohnivý sloup pomocí <button="MoveAll">!"
    [98]
-    1 string data = "Zale a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-conflagrate"> <color="magic">Podpal</color>!"
+    1 string data = "Zale a Resh'an se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-conflagrate"> <color="magic">Podpal</color>!"
    [99]
     1 string data = "Zásah do X"
    [100]
@@ -217,7 +217,7 @@
    [101]
     1 string data = "Stiskněte <button="Interact"> později, abyste zapálili sluneční runy."
    [102]
-    1 string data = "Zale a Seraï se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-xstrike"> <color="magic">Úder do X</color>!"
+    1 string data = "Zale a Seraï se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-xstrike"> <color="magic">Úder do X</color>!"
    [103]
     1 string data = "Arkánová palba"
    [104]
@@ -225,7 +225,7 @@
    [105]
     1 string data = "Stisknutím <button="Interact"> odkopněte lektvary na cíl."
    [106]
-    1 string data = "Seraï a Resh'an se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-arcane-barage"> <color="magic">Arkánová palba</color>!"
+    1 string data = "Seraï a Resh'an se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-arcane-barage"> <color="magic">Arkánová palba</color>!"
    [107]
     1 string data = "Lunární val"
    [108]
@@ -233,7 +233,7 @@
    [109]
     1 string data = "Stiskněte později pro přidání měsíce."
    [110]
-    1 string data = "~ Valerie a Garl se naučili kombo dovednost Lunární val!"
+    1 string data = "~ Valerie a Garl se naučili kombo Lunární val!"
    [111]
     1 string data = "Rána shora"
    [112]
@@ -241,7 +241,7 @@
    [113]
     1 string data = "Stiskněte <button="Interact">, jakmile zásah dopadne."
    [114]
-    1 string data = "Valerie a Garl se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Rána shora</color>!"
+    1 string data = "Valerie a Garl se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Rána shora</color>!"
    [115]
     1 string data = "Odliv"
    [116]
@@ -311,7 +311,7 @@
    [148]
     1 string data = "Stiskněte <button="Interact"> ke konci pro posílení."
    [149]
-    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Ozdravné světlo</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Ozdravné světlo</color>!"
    [150]
     1 string data = "Slunarang"
    [151]
@@ -319,7 +319,7 @@
    [152]
     1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne <color=moon>Valerii</color>, aby pokračoval."
    [153]
-    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo dovednost <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Slunarang</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Slunarang</color>!"
    [154]
     1 string data = "Hrom"
    [155]
@@ -333,7 +333,7 @@
    [159]
     1 string data = "Ostrá sprcha"
    [160]
-    1 string data = "Vrazit"
+    1 string data = "Náraz"
    [161]
     1 string data = "+AP"
    [162]
