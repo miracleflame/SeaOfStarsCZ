@@ -121,7 +121,7 @@
    [53]
     1 string data = "Kalená v kybernetické kovárně při absolutní nule."
    [54]
-    1 string data = "Nerozbitná hůl"
+    1 string data = "Adamantová hůl"
    [55]
     1 string data = "Perfektně tvarovaná vyspělými stroji."
    [56]
@@ -167,11 +167,11 @@
    [76]
     1 string data = "Sluneční čepel"
    [77]
-    1 string data = "Legendární meč Strážného Boha Solena."
+    1 string data = "Legendární meč Solena, Božského Ochránce."
    [78]
     1 string data = "Měsíční Bo"
    [79]
-    1 string data = "Legendární hůl Strážné Bohyně Luany."
+    1 string data = "Legendární hůl Luany, Božské Ochránkyně."
    [80]
     1 string data = "Poklička chlapce z Měsíční Kolébky"
    [81]
@@ -359,7 +359,7 @@
    [172]
     1 string data = "Savý trn"
    [173]
-    1 string data = "Normální útoky léčí o [HEAL_PERCENTAGE] způsobeného poškození."
+    1 string data = "Normální útok vyléčí [HEAL_PERCENTAGE] hodnoty poškození způsobeného nepřátelům."
    [174]
     1 string data = "Abakus"
    [175]
