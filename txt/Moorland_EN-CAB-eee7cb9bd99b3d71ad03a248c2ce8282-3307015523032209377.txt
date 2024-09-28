@@ -13,189 +13,189 @@
   1 Array Array (179 items)
    0 int size = 179
    [0]
-    1 string data = "Look, someone's over there!"
+    1 string data = "Koukejte, támhle někdo je!"
    [1]
-    1 string data = "We should ask for directions."
+    1 string data = "Měli bychom se zeptat na cestu."
    [2]
-    1 string data = "She looks busy..."
+    1 string data = "Vypadá dost zaměstnaně..."
    [3]
-    1 string data = "Bah! I'm sure it's fine!"
+    1 string data = "Ale! Určitě se zlobit nebude!"
    [4]
-    1 string data = "Hello! Is there something special about that big rock?"
+    1 string data = "Ahoj! Je tenhle velký kámen něčím zvláštní?"
    [5]
-    1 string data = "Yes, come look at this!"
+    1 string data = "To se ví, podívej se zblízka!"
    [6]
-    1 string data = "It's..."
+    1 string data = "To je..."
    [7]
     1 string data = "(...)"
    [8]
-    1 string data = "(This looks like...)"
+    1 string data = "(To vypadá jako...)"
    [9]
-    1 string data = "(Nah, must be my imagination.)"
+    1 string data = "(Ne, to se mi jenom zdálo.)"
    [10]
-    1 string data = "*Ahem*, so, what are those?"
+    1 string data = "*Ehm*, takže, co je to?"
    [11]
-    1 string data = "Fascinating is what they are!"
+    1 string data = "Je to fascinující!"
    [12]
-    1 string data = "These runes are the oldest form of writing known to us."
+    1 string data = "Tyhle runy jsou ten nejstarší typ písma, který známe."
    [13]
-    1 string data = "Who's us?"
+    1 string data = "A kdo jste to ti "vy"?"
    [14]
-    1 string data = "<color=good>Traveling Historians</color>, of course!"
+    1 string data = "No přece <color=good>Potulní historici</color>!"
    [15]
-    1 string data = "Or at least what's left of them..."
+    1 string data = "Nebo aspoň to, co z nich zbylo..."
    [16]
-    1 string data = "No way! You're a Traveling Historian?"
+    1 string data = "No to snad ne! Ty jsi Potulná historička?"
    [17]
-    1 string data = "Nice to meet you! My name is Garl!"
+    1 string data = "Rád tě poznávám! Jmenuju se Garl!"
    [18]
-    1 string data = "Nice to meet you too! I'm Teaks."
+    1 string data = "Taky tě ráda poznávám! Jsem Teaks."
    [19]
-    1 string data = "So, are your friends always this quiet?"
+    1 string data = "To jsou tvoji kámoši vždycky takhle zamlklí?"
    [20]
     1 string data = "Hahaha!"
    [21]
-    1 string data = "Nah, [MAINCHAR] and [OFFCHAR] are fun. They've just been sealed away to study in the sky for too many years."
+    1 string data = "Ne, s Valerií a Zaleem je zábava. Oni jenom strávili příliš mnoho let zavření na obloze kvůli tréninku."
    [22]
     1 string data = "???"
    [23]
-    1 string data = "(Magic hair...)"
+    1 string data = "(Kouzelné vlasy...)"
    [24]
-    1 string data = "(Enchanted cloth pieces...)"
+    1 string data = "(Očarované kusy látky...)"
    [25]
     1 string data = "!!!"
    [26]
-    1 string data = "You're Solstice Warriors!"
+    1 string data = "Vy jste Bojovníci Slunovratu!"
    [27]
-    1 string data = "I..."
+    1 string data = "Já..."
    [28]
-    1 string data = "We..."
+    1 string data = "My..."
    [29]
-    1 string data = "I KNEW IT!"
+    1 string data = "JÁ TO VĚDĚLA!"
    [30]
-    1 string data = "ADVENTUROUS SPIRITS"
+    1 string data = "DOBRODRUŽNÉ POVAHY"
    [31]
-    1 string data = "FEARSOME IN BATTLE"
+    1 string data = "UDATNÍ V BOJI"
    [32]
-    1 string data = "FATED TO UNRAVEL MYSTERIES UNKNOWN"
+    1 string data = "JE JIM SOUZENO ODHALIT VELKÉ ZÁHADY"
    [33]
-    1 string data = "AND ENCOUNTER COUNTLESS FORGOTTEN ARTIFACTS"
+    1 string data = "A NARAZIT NA SPOUSTU ZAPOMENUTÝCH ARTEFAKTŮ"
    [34]
-    1 string data = "A TRAVELING HISTORIAN'S BEST FRIENDS!"
+    1 string data = "NEJLEPŠÍ PŘÁTELÉ, JAKÉ MŮŽE POTULNÝ HISTORIK MÍT!"
    [35]
     1 string data = "..."
    [36]
-    1 string data = "I mean..."
+    1 string data = "Teda..."
    [37]
-    1 string data = "Well, someone's excited."
+    1 string data = "No, ta nadšením přímo srší."
    [38]
-    1 string data = "Haha! And we thought Garl was something!"
+    1 string data = "Haha! A my jsme si mysleli, že v tomhle Garla nikdo nepřekoná!"
    [39]
-    1 string data = "Hey guys, Teaks has an offer for us and I think it's worth hearing her out."
+    1 string data = "Hej lidi, Teaks má pro nás jednu nabídku a myslím, že bude stát za to ji vyslechnout."
    [40]
-    1 string data = "Sure, what's up?"
+    1 string data = "Fajn, o co jde?"
    [41]
     1 string data = "..."
    [42]
-    1 string data = "I'm not sure how to explain it properly. It's about my book..."
+    1 string data = "Nevím, jak bych vám to pořádně vysvětlila. Týká se to mojí knihy..."
    [43]
     1 string data = "??"
    [44]
-    1 string data = "Why don't you eat with us tonight, Teaks? This place is perfect to set up camp."
+    1 string data = "Nechceš s námi dneska povečeřet, Teaks? Tohle místo je pro táboření jako stvořené."
    [45]
-    1 string data = "Oh, well..."
+    1 string data = "Um, no..."
    [46]
-    1 string data = "Don't be shy, we're happy to have you!"
+    1 string data = "Nemusíš se stydět, budeme rádi, když se přidáš!"
    [47]
-    1 string data = "Yeah, plus you have to try Garl's cooking."
+    1 string data = "Jo, a navíc musíš ochutnat Garlovo jídlo."
    [48]
-    1 string data = "I..."
+    1 string data = "Já..."
    [49]
-    1 string data = "Okay, thanks!"
+    1 string data = "Tak jo, díky!"
    [50]
-    1 string data = "That's it! One stew coming right up!"
+    1 string data = "Domluveno! Těšte se na ragú!"
    [51]
-    1 string data = "Thanks again for the food Garl, you really are a pretty good cook."
+    1 string data = "Ještě jednou díky za to jídlo, Garle, vařit umíš fakt výborně."
    [52]
-    1 string data = "Glad you liked it, you're welcome to join us again anytime!"
+    1 string data = "Jsem rád, že ti chutnalo. Můžeš se k nám připojit, kdykoliv budeš chtít!"
    [53]
-    1 string data = "So, you're the very last Traveling Historian?"
+    1 string data = "Takže ty jsi z Potulných historiků ta úplně poslední?"
    [54]
-    1 string data = "At this point I might as well be the first. It's been so long since all the <color=magic>Lore Grimoires</color> were burned."
+    1 string data = "V současné době by se snad dalo říct, že jsem první. Už je to hrozně dávno, co byly všechny <color=magic>Příběhové grimoáry</color> spáleny."
    [55]
-    1 string data = "The what now?"
+    1 string data = "Příběhové co?"
    [56]
-    1 string data = "Lore Grimoires. Every Traveling Historian has one. Or had one, I suppose..."
+    1 string data = "Grimoáry. Každý Potulný historik má svůj vlastní. Nebo spíš měl..."
    [57]
-    1 string data = "They're enchanted books that write themselves by touching artifacts with stories to tell."
+    1 string data = "Jsou to očarované knihy, co se píšou samy po styku s artefakty, ke kterým se váže nějaký příběh."
    [58]
     1 string data = "Whoa!"
    [59]
-    1 string data = "A Traveling Historian's duty is to make their Lore Grimoire as full as possible before passing it on to a new recruit."
+    1 string data = "Potulní historici mají poslání své příběhové grimoáry co nejvíce vyplnit, než je předají dál nováčkům."
    [60]
-    1 string data = "There used to be a guild and a whole bunch of us, but now there's just this believer here..."
+    1 string data = "Dříve nás býval celý cech, ale v současnosti se o to zajímám jako jediná..."
    [61]
-    1 string data = "Which... leads to what I've been meaning to ask..."
+    1 string data = "A právě proto... jsem vás chtěla o něco požádat..."
    [62]
-    1 string data = "Shoot."
+    1 string data = "Povídej."
    [63]
-    1 string data = "Well you see, the best thing a Traveling Historian can ask for is adventurers who keep an eye out for them."
+    1 string data = "No, víte, pro Potulné historiky je splněný sen znát dobrodruhy, kteří pro ně prozkoumávají."
    [64]
-    1 string data = "I don't have a way to pay you, but..."
+    1 string data = "Nemám vám jak zaplatit, ale..."
    [65]
-    1 string data = "If you wouldn't mind grabbing any artifacts you stumble upon during your adventures, I'd be happy to share stories with you!"
+    1 string data = "Jestli vám nebude vadit sbírat artefakty, na které při svých dobrodružstvích narazíte, s radostí se s vámi o jejich příběhy podělím!"
    [66]
-    1 string data = "Sounds fun, but how will we find you if you're always traveling?"
+    1 string data = "To zní jako zábava, ale jak tě najdeme, když pořád cestuješ?"
    [67]
-    1 string data = "Don't worry about it, I'll just drop by your campfire whenever you're out in the open."
+    1 string data = "Nebojte, já se vždycky stavím u vašeho ohniště, když budete někde tábořit."
    [68]
-    1 string data = "It's the perfect setting for telling stories!"
+    1 string data = "To je dokonalá příležitost k vyprávění příběhů!"
    [69]
-    1 string data = "Story time by the campfire? Sign me up!"
+    1 string data = "Příběhy u táboráku? Tak to si rád poslechnu!"
    [70]
-    1 string data = "Great! Just bring me any artifacts you find, and we'll see how my Lore Grimoire reacts!"
+    1 string data = "Paráda! Prostě mi ty nalezené artefakty přineste a uvidíme, co na to můj Příběhový grimoár!"
    [71]
-    1 string data = "How many stories do you have so far?"
+    1 string data = "Kolik příběhů zatím máš?"
    [72]
-    1 string data = "Just the one. It was empty when I found it, but that's okay by me...I plan on discovering enough to fill an entire volume!"
+    1 string data = "Jenom jeden. Grimoár byl prázdný, když jsem ho našla, ale to mi nevadí...Plánuju objevit dost k popsání celého svazku!"
    [73]
-    1 string data = "That's the spirit!"
+    1 string data = "To je ale elán!"
    [74]
-    1 string data = "This first story wrote itself when I stumbled upon a very old pirate earring."
+    1 string data = "První příběh se napsal, když jsem narazila na velmi starou pirátskou náušnici."
    [75]
-    1 string data = "That's when I knew I was holding a real Lore Grimoire. They were thought extinct!"
+    1 string data = "V tu chvíli mi bylo jasné, že v rukou držím pravý Příběhový grimoár. Věřilo se, že jsou nadobro pryč!"
    [76]
-    1 string data = "What's the story about?"
+    1 string data = "O čem ten příběh je?"
    [77]
-    1 string data = "A ghost pirate ship called <color=bad>The Vespertine</color>."
+    1 string data = "O přízračné pirátské lodi jménem <color=bad>Večernice</color>."
    [78]
     1 string data = "Oooooh!"
    [79]
-    1 string data = "I can read it for you if you want, feel free to ask!"
+    1 string data = "Klidně vám ho přečtu, jestli chcete, stačí říct!"
    [80]
-    1 string data = "Goodnight folks!"
+    1 string data = "Dobrou, lidi!"
    [81]
-    1 string data = "I didn't even know Traveling Historians were a thing. I wonder how many of them there used to be."
+    1 string data = "Ani jsem nevěděl, že existuje něco jako Potulní historici. Zajímalo by mě, kolik jich kdysi bývalo."
    [82]
-    1 string data = "Story time by the campfire? Sign me up!"
+    1 string data = "Příběhy u táboráku? Tak to si rád poslechnu!"
    [83]
-    1 string data = "A boat ride to Wraith Island?"
+    1 string data = "Jízda lodí na Přízračný ostrov?"
    [84]
-    1 string data = "That might be a challenge given the situation with the lift..."
+    1 string data = "To asi půjde těžko, jestli se nevyřeší ten problém s výtahem..."
    [85]
     1 string data = "??"
    [86]
-    1 string data = "Probably nothing you can't figure out."
+    1 string data = "Ale vy už nejspíš něco vymyslíte."
    [87]
-    1 string data = "Which way is it?"
+    1 string data = "Kudy se tam dostaneme?"
    [88]
-    1 string data = "East of here, along the path."
+    1 string data = "Půjdete na východ, po téhle cestě."
    [89]
-    1 string data = "Mind if I stick around for now? We have the same destination."
+    1 string data = "Nevadí, když půjdu s vámi? Stejně mám namířeno tam, kam vy."
    [90]
-    1 string data = "The more the merrier!"
+    1 string data = "Čím víc, tím líp!"
    [91]
-    1 string data = "Teaks joins the cargo!"
+    1 string data = "Teaks se přidává do nákladu!"
    [92]
     1 string data = "So you are willing to hear us out this time?"
    [93]
@@ -233,13 +233,13 @@
    [109]
     1 string data = "<sprite="dialog-generic-icons" name="arrow-east">  Stonemason Outpost\n<sprite="dialog-generic-icons" name="arrow-south-west">  Fishing Lake"
    [110]
-    1 string data = "Mountains're nice."
+    1 string data = "Mám rád hory."
    [111]
-    1 string data = "This's the life."
+    1 string data = "To je život."
    [112]
-    1 string data = "Mountains're nice."
+    1 string data = "Mám rád hory."
    [113]
-    1 string data = "Man, you're nosy. Here, take this."
+    1 string data = "Vy jste teda dost vlezlí. Vemte si tohle."
    [114]
     1 string data = "The surface feels fragile. It would probably break if we jumped from high enough."
    [115]
