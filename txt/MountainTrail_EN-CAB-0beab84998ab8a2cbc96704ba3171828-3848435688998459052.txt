@@ -169,7 +169,7 @@
    [77]
     1 string data = "Ty... vlastně s námi jít nemůžeš..."
    [78]
-    1 string data = "Jen jsme se chtěli rozloučit, jsme ve službě a je to dost nebezpečné."
+    1 string data = "Jen jsme se chtěli rozloučit, jsme teď ve službě a je to dost nebezpečné."
    [79]
     1 string data = "To nemůžete myslet vážně!"
    [80]
@@ -199,7 +199,7 @@
    [92]
     1 string data = "Ne, ale..."
    [93]
-    1 string data = "Budu vědět, kdy se mám držet stranou, bez obav!"
+    1 string data = "Bez obav, budu vědět, kdy se mám držet stranou!"
    [94]
     1 string data = "Navíc s pár sendviči opravdu nemůžete procestovat celý svět, co vás to napadlo?"
    [95]
@@ -371,7 +371,7 @@
    [178]
     1 string data = "Hú..."
    [179]
-    1 string data = "Zkoušky Mlžného stařešiny nikdy nepodstoupil nikdo jiný než aspiranti na Bojovníků Slunovratu."
+    1 string data = "Zkoušky Mlžného stařešiny nikdy nepodstoupil nikdo jiný než aspiranti na Bojovníky Slunovratu."
    [180]
     1 string data = "Ale já chci jít s nimi, prosím!"
    [181]
