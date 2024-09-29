@@ -173,13 +173,13 @@
    [79]
     1 string data = "Kupec"
    [80]
-    1 string data = "Vesničan Mirthu"
+    1 string data = "Vesničan Veselí"
    [81]
-    1 string data = "Vesničan Mirthu 1"
+    1 string data = "Vesničan Veselí 1"
    [82]
-    1 string data = "Vesničan Mirthu 2"
+    1 string data = "Vesničan Veselí 2"
    [83]
-    1 string data = "Vesničan Mirthu 3"
+    1 string data = "Vesničan Veselí 3"
    [84]
     1 string data = "Kryptochodec"
    [85]
@@ -365,7 +365,7 @@
    [175]
     1 string data = "???"
    [176]
-    1 string data = "Pan Bedna"
+    1 string data = "Pan Truhla"
    [177]
     1 string data = "Pokladní Arény"
    [178]
