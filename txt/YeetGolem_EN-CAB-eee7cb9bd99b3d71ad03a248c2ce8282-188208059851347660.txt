@@ -13,18 +13,18 @@
   1 Array Array (8 items)
    0 int size = 8
    [0]
-    1 string data = "No way, that was AWESOME!"
+    1 string data = "No teda, to bylo ÚŽASNÝ!"
    [1]
-    1 string data = "The Elder Mist wasn't kidding. What a ride. "
+    1 string data = "Mlžný stařešina si nedělal legraci. Skvělá jízda."
    [2]
-    1 string data = "Who knew the world was so big!?"
+    1 string data = "Koho by jen napadlo, že svět je tak velký!?"
    [3]
-    1 string data = "So, what now?"
+    1 string data = "Takže, co teď?"
    [4]
-    1 string data = "Find a boat I suppose."
+    1 string data = "Asi si musíme najít nějakou loď."
    [5]
-    1 string data = "To ground level then? There's only one way we can go from here anyway!"
+    1 string data = "Sestoupíme teda až k moři? Stejně odsud nikam jinam jít nemůžem!"
    [6]
     1 string data = "..."
    [7]
-    1 string data = "X'tol is inactive. Too bad we don't have a name to give it..."
+    1 string data = "X'tol je neaktivní. Škoda, že nemáme žádné jméno, které bychom mu mohli zadat..."
