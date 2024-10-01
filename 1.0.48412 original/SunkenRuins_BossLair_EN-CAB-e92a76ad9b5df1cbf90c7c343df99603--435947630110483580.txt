@@ -1,0 +1,36 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "SunkenRuins_BossLair_EN"
+ 1 string locCategoryId = "SunkenRuins/SunkenRuins_BossLair"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (11 items)
+   0 int size = 11
+   [0]
+    1 string data = "Empty."
+   [1]
+    1 string data = "It's empty..."
+   [2]
+    1 string data = "Hey, are you in there? What was the point of all this?"
+   [3]
+    1 string data = "..."
+   [4]
+    1 string data = "What a waste of time."
+   [5]
+    1 string data = "Surely the Great Alchemist had good reasons to lead us here. Getting rid of this threat, perhaps?"
+   [6]
+    1 string data = "Really!? He just had it on him this whole time!?"
+   [7]
+    1 string data = "Hahaha! Always so full of surprises!"
+   [8]
+    1 string data = "..."
+   [9]
+    1 string data = "Let's just go."
+   [10]
+    1 string data = "Looks like three keys of some sort are needed."

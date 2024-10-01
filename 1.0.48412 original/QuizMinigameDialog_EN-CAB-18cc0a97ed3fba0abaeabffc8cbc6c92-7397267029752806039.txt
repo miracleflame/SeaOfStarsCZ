@@ -1,0 +1,82 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "QuizMinigameDialog_EN"
+ 1 string locCategoryId = "QuizMinigameDialog"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (34 items)
+   0 int size = 34
+   [0]
+    1 string data = "Gooooood evening everyone, and welcome to the Quiz Show with our contestant [MAINCHAR]!"
+   [1]
+    1 string data = "Here we are again, tonight only, with [MAINCHAR] for Trivia Time!"
+   [2]
+    1 string data = "Welcome all, to tonight's event featuring none other than [MAINCHAR]!"
+   [3]
+    1 string data = "That answer is CORRECT!"
+   [4]
+    1 string data = "Precisely!"
+   [5]
+    1 string data = "Score one for [MAINCHAR]!"
+   [6]
+    1 string data = "Uh oh! We've got a WRONG answer here!"
+   [7]
+    1 string data = "Ooooh, unfortunately, that's not what we were looking for."
+   [8]
+    1 string data = "Incorrect!"
+   [9]
+    1 string data = "It appears you are out of tries.Thank you for playing!"
+   [10]
+    1 string data = "Oh, you are good! Here's a little something for that impressive performance."
+   [11]
+    1 string data = "Alright, next question!"
+   [12]
+    1 string data = "Okay, let's try this one!"
+   [13]
+    1 string data = "Listen carefully now!"
+   [14]
+    1 string data = "Oh, this one's easy!"
+   [15]
+    1 string data = "[TeaksAnswerText]"
+   [16]
+    1 string data = "Do you want to play?"
+   [17]
+    1 string data = "Yes"
+   [18]
+    1 string data = "No"
+   [19]
+    1 string data = "And we have a winner! Congratulations!"
+   [20]
+    1 string data = "[QuestionText]"
+   [21]
+    1 string data = "[ChoiceText1]"
+   [22]
+    1 string data = "[ChoiceText2]"
+   [23]
+    1 string data = "[ChoiceText3]"
+   [24]
+    1 string data = "Want to play again?"
+   [25]
+    1 string data = "Yes"
+   [26]
+    1 string data = "Maybe later"
+   [27]
+    1 string data = "Aaaaaand GAME! As you can see, it's very simple. I ask some questions, and you do your best to answer them. If you win, you get a prize!"
+   [28]
+    1 string data = "Oh, there's also a "call on your friend" thing, but I'll just let you experiment with that yourself!"
+   [29]
+    1 string data = "We've got a couple of <color=magic>question packs</color>, but rumor has it there are more of them to be found! If you find any, be sure to <color=magic>bring them to me</color> and we'll play, alright?"
+   [30]
+    1 string data = "Okay, that's it for today, then! Thanks for playing, and I'll see YOU next time!"
+   [31]
+    1 string data = "This is it, folks! [MAINCHAR] has completed all of the questions packs and is officially LORE MASTER!!!"
+   [32]
+    1 string data = "You have earned the ultimate prize. Congratulations!"
+   [33]
+    1 string data = "Thank you for playing, and please feel free to drop by if you want to try some of the packs again!"

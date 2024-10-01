@@ -1,0 +1,76 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Docks_EN"
+ 1 string locCategoryId = "WraithIsland/Docks"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (31 items)
+   0 int size = 31
+   [0]
+    1 string data = "This place is gloomy..."
+   [1]
+    1 string data = "All part of the curse 'round here!"
+   [2]
+    1 string data = "Headmaster Moraine calls it the "<color=bad>Night Shroud</color>." It's an old Fleshmancer curse that prevents any sunlight from reaching the island."
+   [3]
+    1 string data = "So even after you defeat the Dweller..."
+   [4]
+    1 string data = "Yeah there ain't no fixing that one. But hey, it's a living!"
+   [5]
+    1 string data = "Speaking o' which, the <color=location>Town ov Lucent</color> should be just ahead."
+   [6]
+    1 string data = "We'll be kicking it back at the local tavern. Can't leave 'til ya take care o' business, anyway."
+   [7]
+    1 string data = "Yolande, why come here with us if you knew how dangerous it was?"
+   [8]
+    1 string data = "We be trusting the Captain, and seems the Captain be trusting y'all."
+   [9]
+    1 string data = "If our adventure is to end here, I say so be it. We will have remained loyal to the end, and seen that much more of the world."
+   [10]
+    1 string data = "Right on, Keenathan!"
+   [11]
+    1 string data = "Hey, you should come see us at the inn, we'll be playing some music."
+   [12]
+    1 string data = "You play music!?"
+   [13]
+    1 string data = "Aye! Captain wants us to practice cheering up the places we visit."
+   [14]
+    1 string data = "..."
+   [15]
+    1 string data = "Well, onwards then!"
+   [16]
+    1 string data = "Valtraid's invitation sounds fun. How about we go to the inn and take it easy for a little while?"
+   [17]
+    1 string data = "It's not like there's anything more you can do until the others get here."
+   [18]
+    1 string data = "I suppose we did arrive early..."
+   [19]
+    1 string data = "Oh, don't feel bad! You've accomplished so much already."
+   [20]
+    1 string data = "Plus this cleansing thing, fighting a Dweller must be a pretty big deal."
+   [21]
+    1 string data = "Might as well be fully rested, don't you think?"
+   [22]
+    1 string data = "I guess we could take a short break..."
+   [23]
+    1 string data = "Alright! Let's make for Lucent!"
+   [24]
+    1 string data = "Town of Lucent <sprite="dialog-generic-icons" name="arrow-east">\nDocks <sprite="dialog-generic-icons" name="arrow-west">"
+   [25]
+    1 string data = "Ready to set sail?"
+   [26]
+    1 string data = "Yes"
+   [27]
+    1 string data = "No"
+   [28]
+    1 string data = "Want to go back to Brisk?"
+   [29]
+    1 string data = "Yes"
+   [30]
+    1 string data = "No"

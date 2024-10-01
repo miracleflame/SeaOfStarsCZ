@@ -1,0 +1,136 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Global_EN"
+ 1 string locCategoryId = "Global"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (61 items)
+   0 int size = 61
+   [0]
+    1 string data = "[RewardText]"
+   [1]
+    1 string data = "[RewardText]"
+   [2]
+    1 string data = "You can't carry anymore meals."
+   [3]
+    1 string data = "Hey there, looks like this is your first time booting the demo."
+   [4]
+    1 string data = "There are two things we need to get out of the way before leaving you to it forever."
+   [5]
+    1 string data = "First, here's a quick pop-up about Discord integration."
+   [6]
+    1 string data = "So it shall be. Now, just one last thing : the Pre-alpha Content Agreement."
+   [7]
+    1 string data = "While the audio-visual assets and gameplay mechanics included here represent the spirit of the game, we still have a long way to go."
+   [8]
+    1 string data = "About two years, to be precise."
+   [9]
+    1 string data = "This means a lot has yet to happen in order to fine tune controls, rendering, difficulty, polish and overall balancing."
+   [10]
+    1 string data = "By playing this early rendition, you understand that it is but a first pass on a larger vision."
+   [11]
+    1 string data = "You agree to partake in good faith, and awareness that all systems will be mindfully catered to until we are ready to call Sea of Stars finished."
+   [12]
+    1 string data = "While feedback is both welcome and expected, final judgement should be reserved for the official release in 2023."
+   [13]
+    1 string data = "That being said, you are more than welcome to stream, screenshot, record, review, or otherwise capture and share footage of your experience with this early build."
+   [14]
+    1 string data = "With sincere hope that it will bring you entertainment and joy, we made a game for you."
+   [15]
+    1 string data = "Safe journeys, and all the best!<br>-Saboteam"
+   [16]
+    1 string data = "[MemorialPrefix] [MemorialText][MemorialSuffix]"
+   [17]
+    1 string data = "Speedball Travel Network online. Select your destination."
+   [18]
+    1 string data = "Repine"
+   [19]
+    1 string data = "Es'tristae"
+   [20]
+    1 string data = "Sky Base"
+   [21]
+    1 string data = "Sea of Stars entrance"
+   [22]
+    1 string data = "~ Something shiny"
+   [23]
+    1 string data = "Something social"
+   [24]
+    1 string data = "Something bountiful"
+   [25]
+    1 string data = "Something transactional"
+   [26]
+    1 string data = "Something relaxing"
+   [27]
+    1 string data = "Something shrewd"
+   [28]
+    1 string data = "Something interesting"
+   [29]
+    1 string data = "Something useful"
+   [30]
+    1 string data = "Something potent"
+   [31]
+    1 string data = "Something healthy"
+   [32]
+    1 string data = "Something meta"
+   [33]
+    1 string data = "Something sturdy"
+   [34]
+    1 string data = "Something reliable"
+   [35]
+    1 string data = "Something alacritous"
+   [36]
+    1 string data = "Something flimsy"
+   [37]
+    1 string data = "Want to play some <color=magic>Wheels</color>?"
+   [38]
+    1 string data = "Casual game"
+   [39]
+    1 string data = "Champion game"
+   [40]
+    1 string data = "Maybe later"
+   [41]
+    1 string data = "We can play Champion again, but you've already beaten me so there won't be any big reward this time."
+   [42]
+    1 string data = "Woah, a tie!"
+   [43]
+    1 string data = "Hey, you won! Congratulations, here's your prize!"
+   [44]
+    1 string data = "You won!"
+   [45]
+    1 string data = "I win!"
+   [46]
+    1 string data = "Oh, quitting already?"
+   [47]
+    1 string data = "This is a <color=magic>Wheels</color> table! Anyone with their own Wheel and at least two figurines can play!"
+   [48]
+    1 string data = "Music beats everything, and nothing beats music!"
+   [49]
+    1 string data = "The whistle player is the real star here."
+   [50]
+    1 string data = "How do you like our tunes?"
+   [51]
+    1 string data = "New music sheets, aye? Give em' here!"
+   [52]
+    1 string data = "Bardcore is the way to go!"
+   [53]
+    1 string data = "Y'all enjoying the show?"
+   [54]
+    1 string data = "Happy to supplement yer game of Wheels with some music!"
+   [55]
+    1 string data = "I'm feeling this, pal!"
+   [56]
+    1 string data = "Keenathan's too good at this."
+   [57]
+    1 string data = "Notice how I spin it?"
+   [58]
+    1 string data = "Aye, this be the one thing I love more than sailin'!"
+   [59]
+    1 string data = "Never felt more alive!"
+   [60]
+    1 string data = "Betcha we're the only band with a ghost in it."

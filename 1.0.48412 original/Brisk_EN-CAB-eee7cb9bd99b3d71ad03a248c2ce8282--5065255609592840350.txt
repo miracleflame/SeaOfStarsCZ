@@ -1,0 +1,666 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Brisk_EN"
+ 1 string locCategoryId = "SleeperIsland/Brisk"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (326 items)
+   0 int size = 326
+   [0]
+    1 string data = "We made it! Just look at this place!!"
+   [1]
+    1 string data = "All done, Captain! The signposts should lead them straight to us."
+   [2]
+    1 string data = "Be on the lookout. We can't miss them."
+   [3]
+    1 string data = "Can do Captain, lookout is my middle name!"
+   [4]
+    1 string data = "We will find suitable adventurers for this quest, or my name is not Keenathan!"
+   [5]
+    1 string data = "Hey, this group looks like they can sail."
+   [6]
+    1 string data = "Greetings, is this your boat?"
+   [7]
+    1 string data = "Avast, strangers!"
+   [8]
+    1 string data = "You got anything to say to the Captain, you say it to me!"
+   [9]
+    1 string data = "First mate <color=good>Yolande Fortwal</color>, at your service. In fact, service is my middle name!"
+   [10]
+    1 string data = "We're a pirate crew searching for the legendary ghost ship. We don't engage in battle anymore, but back in the day we did it all!"
+   [11]
+    1 string data = "Fetching a remedy in a cavern only to find out the town had burned in the meantime? Check!"
+   [12]
+    1 string data = "Being left at one hit point so the big baddie could ‘kill us next time'? Double check!"
+   [13]
+    1 string data = "Heck, we've even been to jail 'cause four imperial soldiers appeared during dialogue instead ov a random encounter!"
+   [14]
+    1 string data = "..."
+   [15]
+    1 string data = "Tough crowd huh?"
+   [16]
+    1 string data = "Fine. Let's do introductions."
+   [17]
+    1 string data = "Meet our leader <color=good>Captain Klee'shaë</color>, daughter ov a legendary pirate!"
+   [18]
+    1 string data = "..."
+   [19]
+    1 string data = "Pleasure to meet you Captain, we were hoping we could-"
+   [20]
+    1 string data = "The one in the back with the oversized shirt, that's our quartermaster <color=good>Valtraid</color>. He's the guy that's good at everything."
+   [21]
+    1 string data = "Ahoy there!"
+   [22]
+    1 string data = "And the tall one's <color=good>Keenathan</color>, our wind mage. Keeps our sails full so no one has to row."
+   [23]
+    1 string data = "Greetings, adventurers. My name is Keenathan!"
+   [24]
+    1 string data = "..."
+   [25]
+    1 string data = "Right."
+   [26]
+    1 string data = "In case ya noticed the double eyepatch there, that's 'cause Keenathan can only do magic while blindfolded."
+   [27]
+    1 string data = "Discovered his powers as a kid when he put on a pirate costume while he was already wearing a pirate costume."
+   [28]
+    1 string data = "Nice to meet you all, I'm [MAINCHAR]. These are my friends [OFFCHAR], Garl and Teaks."
+   [29]
+    1 string data = "We need to secure passage to Wraith Island in time for the eclipse."
+   [30]
+    1 string data = "Ahoy, Captain! Seems to me these two be Solstice Warriors!"
+   [31]
+    1 string data = "..."
+   [32]
+    1 string data = "Aye... seems that... be the case."
+   [33]
+    1 string data = "What impeccable timing!"
+   [34]
+    1 string data = "Now Captain Klee'shaë here can certainly take y'all to Wraith Island. For a price, ov course."
+   [35]
+    1 string data = "..."
+   [36]
+    1 string data = "Shall we make a deal?"
+   [37]
+    1 string data = "If ye can beat Valtraid at arm wrestling ye get to ride for free."
+   [38]
+    1 string data = "But if ye lose, ye'll have to run a little errand for us. Whaddaya say?"
+   [39]
+    1 string data = "The terms are simple enough."
+   [40]
+    1 string data = "I'm not sure we should be making a deal with pirates."
+   [41]
+    1 string data = "They seem nice to me!"
+   [42]
+    1 string data = "Doesn't feel like you have much of a choice..."
+   [43]
+    1 string data = "Oh sure, go ahead and refuse the call so we can all pretend it might not happen."
+   [44]
+    1 string data = "Keep it safe and predictable!"
+   [45]
+    1 string data = "Any other tropes you had in mind for yer journey?"
+   [46]
+    1 string data = "How about buying linear upgrades from every single town where blacksmiths are somehow increasingly more capable the further up north they live?"
+   [47]
+    1 string data = "..."
+   [48]
+    1 string data = "And who ov course happen to live in a shed despite selling daggers at 25 000 Gold a pop!"
+   [49]
+    1 string data = "..."
+   [50]
+    1 string data = "Fine. Have it yer way."
+   [51]
+    1 string data = "When ye're ready for adventure, come meet us at <color=location>The Humble Boast</color> and we'll make a deal."
+   [52]
+    1 string data = "The Humble Boast?"
+   [53]
+    1 string data = "Local tavern. Just follow the docks."
+   [54]
+    1 string data = "!!!"
+   [55]
+    1 string data = "Look alive crew, time to call it a day."
+   [56]
+    1 string data = "Aye aye, Captain!"
+   [57]
+    1 string data = "I knew it, there's a tavern!"
+   [58]
+    1 string data = "Kicking back sounds good."
+   [59]
+    1 string data = "I'll go right now to try and meet the chef. See you there!"
+   [60]
+    1 string data = "Talk about a wacky bunch."
+   [61]
+    1 string data = "They seem innocuous enough, we should probably go for it."
+   [62]
+    1 string data = "To The Humble Boast, then."
+   [63]
+    1 string data = "Just like that! You're a natural!"
+   [64]
+    1 string data = "Chef, thanks so much, this will really come in handy!"
+   [65]
+    1 string data = "Anytime! Reckon I'm the one who should be thanking you for all the tips."
+   [66]
+    1 string data = "Look at him, already making friends!"
+   [67]
+    1 string data = "Hahaha!"
+   [68]
+    1 string data = "Oh there you are!"
+   [69]
+    1 string data = "Ready to go see the pirates?"
+   [70]
+    1 string data = "Well look who it is!"
+   [71]
+    1 string data = "The deal stands. If ye can't beat Valtraid at arm wrestling, ya'll gonna need to fetch an item for us."
+   [72]
+    1 string data = "After which, pirate's honor, we'll take ye to Wraith Island."
+   [73]
+    1 string data = "Do you accept these terms?"
+   [74]
+    1 string data = "Yes"
+   [75]
+    1 string data = "Wait..."
+   [76]
+    1 string data = "We accept."
+   [77]
+    1 string data = "EVERYBODY! ARMWRESTLING BATTLE!!!"
+   [78]
+    1 string data = "Let's go!"
+   [79]
+    1 string data = "Beautiful!"
+   [80]
+    1 string data = "Valtraid, you're up!"
+   [81]
+    1 string data = "You guys are too strong, it wouldn't be fair. I'll do it."
+   [82]
+    1 string data = "Plus, arm wrestling a real pirate? How cool is that!"
+   [83]
+    1 string data = "Fine, but go easy on the poor fella."
+   [84]
+    1 string data = "You got it Valere."
+   [85]
+    1 string data = "I'll be your challenger!"
+   [86]
+    1 string data = "..."
+   [87]
+    1 string data = "Valtraid."
+   [88]
+    1 string data = "Captain?"
+   [89]
+    1 string data = "We can't leave without the <color=magic>coin</color>. Go all out."
+   [90]
+    1 string data = "Aye aye, Captain!"
+   [91]
+    1 string data = "Right, tough one, ya look like! Ready?"
+   [92]
+    1 string data = "On three!"
+   [93]
+    1 string data = "One!"
+   [94]
+    1 string data = "Two!"
+   [95]
+    1 string data = "Three!"
+   [96]
+    1 string data = "Ha ha!"
+   [97]
+    1 string data = "Oof!"
+   [98]
+    1 string data = "Cheater!"
+   [99]
+    1 string data = "I'm sorry, did I miss the part where we agreed on a no magic shirt rule?"
+   [100]
+    1 string data = "Sorry pal, Captain's orders."
+   [101]
+    1 string data = "Are you kidding? That was awesome!"
+   [102]
+    1 string data = "..."
+   [103]
+    1 string data = "This'll be my best anecdote for sure!"
+   [104]
+    1 string data = "Show me again!"
+   [105]
+    1 string data = "You're lucky we didn't ask about any specifics..."
+   [106]
+    1 string data = "Should have negotiated when you had the chance, son! This lesson's on the house."
+   [107]
+    1 string data = "Ha ha! Valtraid truly is good at everything!"
+   [108]
+    1 string data = "Ya know it, pal!"
+   [109]
+    1 string data = "Now, since you lost the arm wrestling challenge, how about we discuss this little errand?"
+   [110]
+    1 string data = "..."
+   [111]
+    1 string data = "Captain?"
+   [112]
+    1 string data = "North of Brisk is the abandoned lab of an arcane wizard who died long ago."
+   [113]
+    1 string data = "It hasn't been opened for centuries, but stories say it conceals a <color=magic>Coin of Undeath Accord</color>."
+   [114]
+    1 string data = "Why do you want it?"
+   [115]
+    1 string data = "It's a powerful token. Paying an undead creature with it forces them to do one's bidding."
+   [116]
+    1 string data = "I plan on using it to force the ghost captain of <color=bad>The Vespertine</color> to surrender his ship to me."
+   [117]
+    1 string data = "!!!"
+   [118]
+    1 string data = "Huzzah!"
+   [119]
+    1 string data = "How do we get in?"
+   [120]
+    1 string data = "Fear kept people away all this time... But you look like you can handle yourselves, so it shouldn't be a problem."
+   [121]
+    1 string data = "My crew won't fight, but they'll get you inside."
+   [122]
+    1 string data = "A bit of magic should do the trick. Keenathan?"
+   [123]
+    1 string data = "I shall open the entrance to the abandoned wizard lab, or my name is not Keenathan!"
+   [124]
+    1 string data = "Ahoy Captain, ain't ya coming with?"
+   [125]
+    1 string data = "I will stay here and make preparations for our departure."
+   [126]
+    1 string data = "Fetch the Coin of Undeath Accord, then meet me at the docks."
+   [127]
+    1 string data = "Aye aye, Captain!"
+   [128]
+    1 string data = "Yolande, Valtraid and Keenathan join the Cargo!"
+   [129]
+    1 string data = "Let's find Garl before we go to them."
+   [130]
+    1 string data = "Avast! Listen here, before we leave."
+   [131]
+    1 string data = "Y'all notice the <color=magic>Wheels</color> table right there in the corner? <color=good>The Watchmaker</color> invented that game--gotten real popular over the years, too!"
+   [132]
+    1 string data = "..."
+   [133]
+    1 string data = "Look... I'm sorry we had to play that lil' trick on ye. It ain't much, but I thought if maybe ye wanted to get into Wheels, you could have this."
+   [134]
+    1 string data = "You can now play Wheels! Tables can be found mostly in taverns."
+   [135]
+    1 string data = "Challenge town champions to <color=magic>earn new figurines</color> and improve your own Wheel!"
+   [136]
+    1 string data = "Rules can be viewed in the How to Play section of the pause menu."
+   [137]
+    1 string data = "Feel free to try it out now, or we can head to that Wizard Lab right away if ye prefer!"
+   [138]
+    1 string data = "Well, y'all gone and done it!"
+   [139]
+    1 string data = "Stunning performance, pals!"
+   [140]
+    1 string data = "I am officially naming you members of our crew."
+   [141]
+    1 string data = "No way! So we're real pirates?"
+   [142]
+    1 string data = "We fulfilled our end of the deal. Will you take us to Wraith Island now?"
+   [143]
+    1 string data = "Aye. In this crew, a mate in need is a quest indeed."
+   [144]
+    1 string data = "Huzzah!"
+   [145]
+    1 string data = "Your boat is huge, I can't wait to see the kitchen!"
+   [146]
+    1 string data = "Hold your horses, son! That there ship ain't ours, no no no."
+   [147]
+    1 string data = "We be right this way!"
+   [148]
+    1 string data = "The Oakum Skiff ain't much to look at, but it'll get y'all across the <color=location>Shallowmire</color> to Wraith Island alright!"
+   [149]
+    1 string data = "..."
+   [150]
+    1 string data = "Just gotta stick to that canal, no open sea for us 'till we get a proper vessel."
+   [151]
+    1 string data = "..."
+   [152]
+    1 string data = "So, unless y'all have some unfinished business, we can set sail for Wraith Island right now."
+   [153]
+    1 string data = "We're ready"
+   [154]
+    1 string data = "Wait"
+   [155]
+    1 string data = "Looking for a boat? Just follow the signposts!"
+   [156]
+    1 string data = "Our boat is the best, see you at the docks!"
+   [157]
+    1 string data = "Keep going for the GOAT boat!"
+   [158]
+    1 string data = "Little further now."
+   [159]
+    1 string data = "Boat this way. <sprite="dialog-generic-icons" name="arrow-south-east">"
+   [160]
+    1 string data = "Little further now."
+   [161]
+    1 string data = "Welcome to the best offer there is!"
+   [162]
+    1 string data = "..."
+   [163]
+    1 string data = "The duel earlier reminded me of that time we were captured by a band of thieves."
+   [164]
+    1 string data = "Valtraid started rough talking the guard 'till he lost his temper and started shaking him up."
+   [165]
+    1 string data = "That all ya got, pal?', he said."
+   [166]
+    1 string data = "Guard got mad and shook him so hard it ripped his shirt off."
+   [167]
+    1 string data = "That got us outta that situation alright."
+   [168]
+    1 string data = "I believe that's the coin. Captain will be delighted!"
+   [169]
+    1 string data = "It's just a lil' arm wrestling match, aye?"
+   [170]
+    1 string data = "Are ya winning, pal?"
+   [171]
+    1 string data = "Can't wait to set sail!!"
+   [172]
+    1 string data = "Should we make a deal? Yolande is ready."
+   [173]
+    1 string data = "The Wizard Lab was truly fascinating."
+   [174]
+    1 string data = "..."
+   [175]
+    1 string data = "..."
+   [176]
+    1 string data = "I'll stay here, got a lot of research notes to sort and organize."
+   [177]
+    1 string data = "Heading out? Have a look at my fresh vegetables!"
+   [178]
+    1 string data = "Welcome, were you looking for new equipment?"
+   [179]
+    1 string data = "Welcome to The Humble Boast! Were you looking to stay the night?"
+   [180]
+    1 string data = "Yes"
+   [181]
+    1 string data = "No"
+   [182]
+    1 string data = "Come back anytime!"
+   [183]
+    1 string data = "You have a good one now!"
+   [184]
+    1 string data = "Hi! Uh... Welcome to... my house?"
+   [185]
+    1 string data = "I'm sorry, but I am not accepting visitors at this time."
+   [186]
+    1 string data = "Unless you happen to carry a <color=magic>Trader's Signet</color>?"
+   [187]
+    1 string data = "Thought so. Well. you have a good day now."
+   [188]
+    1 string data = "Oh! Well that does change everything now, doesn't it?"
+   [189]
+    1 string data = "Welcome to the Hidden Market!"
+   [190]
+    1 string data = "Welcome to the Hidden Market!"
+   [191]
+    1 string data = "I long to have the essence of my beauty immortalized on canvas."
+   [192]
+    1 string data = "If only there was a painter with true flair..."
+   [193]
+    1 string data = "Today is a 'me' day."
+   [194]
+    1 string data = "Thank you for helping me to find a worthwhile muse."
+   [195]
+    1 string data = "Here, this is the least I can offer."
+   [196]
+    1 string data = "I'll just change the hair a little bit..."
+   [197]
+    1 string data = "The pirates are in town again. I wonder what they're planning now..."
+   [198]
+    1 string data = "Be safe out there."
+   [199]
+    1 string data = "It will soon be the high season, we're getting ready to double patrol time."
+   [200]
+    1 string data = "It's kind of boring guarding this spot. Nothing never happens..."
+   [201]
+    1 string data = "I could sure go for a swim right about now!"
+   [202]
+    1 string data = "I love my job, I'd be hanging out in the sun all day anyway!"
+   [203]
+    1 string data = "Grandpa says we'll eat some ice cream later. I can't wait!"
+   [204]
+    1 string data = "Grandpa says we can go look at the boats later. This vacation is the best!"
+   [205]
+    1 string data = "There's nothing I love more than spending time with my grandkid. What a blessing!"
+   [206]
+    1 string data = "There's nothing I love more than spending time with my grandkid. What a blessing!"
+   [207]
+    1 string data = "Don't forget you can buy cooking ingredients! We have lots of variety here in Brisk!"
+   [208]
+    1 string data = "I'm planning a camping trip."
+   [209]
+    1 string data = "Brisk is such a lively place. I can't help but feel energized!"
+   [210]
+    1 string data = "I'm always caught in the middle of their argument. Do I look like a carrier pigeon?"
+   [211]
+    1 string data = "The kids agreed to play together again. Finally!"
+   [212]
+    1 string data = "I heard the pirate crew is back. Apparently they're looking for some coin?"
+   [213]
+    1 string data = "The pirates have gathered at the docks. Surely this means that they're leaving?"
+   [214]
+    1 string data = "Hey, you're the ones who fixed the flying lift! Thanks, it's nice to be able to visit Brisk for some shopping again!"
+   [215]
+    1 string data = "I should probably head home soon."
+   [216]
+    1 string data = "We were going to play pirates but we got into an argument again because we both wanted to be Keenathan."
+   [217]
+    1 string data = "Next time we play I'll be Captain Klee'shaë!"
+   [218]
+    1 string data = "It's not fair, she always picks Keenathan!"
+   [219]
+    1 string data = "She agreed to be Captain Klee'shaë next time, so we're still friends."
+   [220]
+    1 string data = "This is my favorite spot. Can you feel the breeze? It's no wonder how the town got its name!"
+   [221]
+    1 string data = "I hear the Humble Boast has a Wheels table now. I should probably give it a shot."
+   [222]
+    1 string data = "Did you get the <color=magic>Conch</color> in the chest up there? I wonder what they're for..."
+   [223]
+    1 string data = "Even cleaning clothes is fun when you have a beach!"
+   [224]
+    1 string data = "The abandoned wizard lab to the north of Brisk... I have half a mind to go in there and see if there's any treasure, but the thing doesn't even have a door!"
+   [225]
+    1 string data = "You opened the way to the arcane ruins? Well, I still don't want to go, it sounds dangerous!"
+   [226]
+    1 string data = "Just making sure the chimney is in good working condition. There won't be much time for maintenance during the high season!"
+   [227]
+    1 string data = "We're playing pirates today! Just have to decide who I'll be be..."
+   [228]
+    1 string data = "I'll be Yolande today--she's the wittiest of the crew!"
+   [229]
+    1 string data = "Zzzz... Zzzzz..."
+   [230]
+    1 string data = "The pirates are in town! I'll try to sneak up on them!"
+   [231]
+    1 string data = "When I grow up I want to be a pirate!"
+   [232]
+    1 string data = "You ever try the fishing lake north of Brisk? I go there all the time to relax!"
+   [233]
+    1 string data = "I'm preparing my son's favorite dish today."
+   [234]
+    1 string data = "Making my son's favorite dessert tonight. He's definitely spoiled but I love him so much!"
+   [235]
+    1 string data = "I was good this week so we're eating my favorite meal tonight!"
+   [236]
+    1 string data = "Ha! I was good again so we're eating my favorite dessert tonight!"
+   [237]
+    1 string data = "I really should ask my landlord to block the entrance at the top. People keep passing through my place!"
+   [238]
+    1 string data = "...Plus I hear there's good money to be made there! Wouldn't starting anew be great?"
+   [239]
+    1 string data = "I don't know, I've heard scary things about Wraith Island... It's cursed or something, apparently no one who goes there ever returns..."
+   [240]
+    1 string data = "Pfff, nonsense! They just want to keep the good opportunities to themselves!"
+   [241]
+    1 string data = "Well, our neighbors never returned..."
+   [242]
+    1 string data = "Exactly! They had no reason to, don't you see?"
+   [243]
+    1 string data = "I'm not too sure about this..."
+   [244]
+    1 string data = "Well, we ain't getting a ride to Wraith Island anyway. Everyone just called me a fool."
+   [245]
+    1 string data = "See? We don't need to risk anything, this place is more than good enough."
+   [246]
+    1 string data = "See that Sleeper statue? My friend says there's an older version of it hidden somewhere, but I don't believe her!"
+   [247]
+    1 string data = "Just feel the breeze..."
+   [248]
+    1 string data = "This raft looks pretty ramshackled. I hope no one is planning on using it..."
+   [249]
+    1 string data = "I like to come here and watch the boats arriving. "
+   [250]
+    1 string data = "I'm in the market for a new dinghy, but I'm not sure which one I want."
+   [251]
+    1 string data = "I had a nightmare the other day where The Sleeper was waking up. I'm sure glad I'm not descended from seers!"
+   [252]
+    1 string data = "I will let it go, just as long as you do not go on thinking I just learned that."
+   [253]
+    1 string data = "Which I didn't need to hear, since I practically invented it!"
+   [254]
+    1 string data = "I was on a trip to <color=location>Lucent</color> once, and they also had stools to sit on."
+   [255]
+    1 string data = "Oh yeah? Well it was less than TEN yards from my ship once!"
+   [256]
+    1 string data = "I'm telling you, I saw it with my own eyes. Was less than a hundred yards in front of my ship!"
+   [257]
+    1 string data = "My friend here, who is one of my many connections throughout the world, just told me what happened in the Wind Tunnels."
+   [258]
+    1 string data = "Scary stuff."
+   [259]
+    1 string data = "Thanks again for the help."
+   [260]
+    1 string data = "Nothing better than a cold drink after a hard day of work being busier than everyone else!"
+   [261]
+    1 string data = "I have a very unique situation at work. I wear many hats and everything would stop working well if I ever quit or went on a vacation!"
+   [262]
+    1 string data = "I asked for coffee and explained I had to study for an exam, when the waiter said 'Oh, so not a small then, a medium?' I said I'm studying for FINALS."
+   [263]
+    1 string data = "He apologized and gave me a large."
+   [264]
+    1 string data = "I'm keeping an eye on these pirates!"
+   [265]
+    1 string data = "Thanks for the chat Garl, you're as real as it gets. "
+   [266]
+    1 string data = "Don't worry about losing the arm wrestling challenge, it's not like they played fair."
+   [267]
+    1 string data = "Oh no, someone found our secret spot!"
+   [268]
+    1 string data = "We found this while digging, you can have it if you promise not to tell."
+   [269]
+    1 string data = "Don't tell anyone about our secret spot!"
+   [270]
+    1 string data = "Ah, the ocean. Bringer of dreams and ... notion..."
+   [271]
+    1 string data = "..."
+   [272]
+    1 string data = "I saw someone swim under the docks the other day. Such irresponsible behavior!"
+   [273]
+    1 string data = "Supplies and trade goods."
+   [274]
+    1 string data = "Looks like a report card."
+   [275]
+    1 string data = "Mostly junk."
+   [276]
+    1 string data = "A well organized shelf."
+   [277]
+    1 string data = "Whatever is cooking smells great."
+   [278]
+    1 string data = "It's signed "Darro.""
+   [279]
+    1 string data = "Whoever lives here must eat a lot of bananas."
+   [280]
+    1 string data = "Machinery used for building ships."
+   [281]
+    1 string data = "Cozy."
+   [282]
+    1 string data = "A statue of The Sleeper."
+   [283]
+    1 string data = "Welcome to Chump Change Chests!"
+   [284]
+    1 string data = "For only 5G you can open any one chest and keep its contents!"
+   [285]
+    1 string data = "If you can find the 10G grand prize five times, I'll give you a <color=magic>special reward</color>!"
+   [286]
+    1 string data = "If you can find the 10G grand prize four more times, I'll give you a <color=magic>special reward</color>!"
+   [287]
+    1 string data = "If you can find the 10G grand prize three more times, I'll give you a <color=magic>special reward</color>!"
+   [288]
+    1 string data = "If you can find the 10G grand prize two more times, I'll give you a <color=magic>special reward</color>!"
+   [289]
+    1 string data = "If you can find the 10G grand prize one more time, I'll give you a <color=magic>special reward</color>!"
+   [290]
+    1 string data = "Want to give it a shot? Just 5G!"
+   [291]
+    1 string data = "Yes"
+   [292]
+    1 string data = "Maybe later"
+   [293]
+    1 string data = "Great! Just pick a chest now, any chest!"
+   [294]
+    1 string data = "Afraid you don't have enough gold..."
+   [295]
+    1 string data = "Come back anytime!"
+   [296]
+    1 string data = "10G!? That's the grand prize indeed!"
+   [297]
+    1 string data = "2G, huh? Well, still beats opening the empty one."
+   [298]
+    1 string data = "Oof, empty."
+   [299]
+    1 string data = "Thanks for playing!"
+   [300]
+    1 string data = "My oh my! You just picked the grand prize for the fifth time!"
+   [301]
+    1 string data = "The <color=magic>special reward</color> is all yours. Here!"
+   [302]
+    1 string data = "Hey, you're supposed to pick a chest!"
+   [303]
+    1 string data = "Welcome all, welcome, to the <color=magic>Bonus Spin Roulette</color>! Pick a number, and if it lands on it, you win a <color=magic>special prize</color>!"
+   [304]
+    1 string data = "Spin the B.S. Roulette for 10G?"
+   [305]
+    1 string data = "Okay"
+   [306]
+    1 string data = "Maybe later"
+   [307]
+    1 string data = "You're a bit short on gold! Please come back later!"
+   [308]
+    1 string data = "[PLAYER_CHOICE]!? You lose, please come back again!"
+   [309]
+    1 string data = "Please come back again!"
+   [310]
+    1 string data = "22!? We have a WINNER! Here's your prize!"
+   [311]
+    1 string data = "That's all for today! Thank you for playing Bonus Spin Roulette!"
+   [312]
+    1 string data = "Pick a number!"
+   [313]
+    1 string data = "[CHOICE_1]"
+   [314]
+    1 string data = "[CHOICE_2]"
+   [315]
+    1 string data = "[CHOICE_3]"
+   [316]
+    1 string data = "Hey! Wanna know the next winning <color=magic>B.S. Roulette</color> number? I'll tell you for 90 Gold!"
+   [317]
+    1 string data = "Okay..."
+   [318]
+    1 string data = "Maybe later..."
+   [319]
+    1 string data = "Short on gold, huh? No worries, I'll be here."
+   [320]
+    1 string data = "You're missing out, it's a good deal!"
+   [321]
+    1 string data = "We have a deal! The next number is 22."
+   [322]
+    1 string data = "-Welcome to <color=location>The Humble Boast</color>-"
+   [323]
+    1 string data = "Please boast humbly and responsibly."
+   [324]
+    1 string data = "Welcome to the <color=location>Golden Pelican</color>. Did you have a reservation for today?"
+   [325]
+    1 string data = "My apologies, the Golden Pelican is only for those with a reservation. I must ask you to leave."

@@ -1,0 +1,42 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Global_EN"
+ 1 string locCategoryId = "WatcherIsland/Global"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (14 items)
+   0 int size = 14
+   [0]
+    1 string data = "You found a placeholder reward to convey that the game will have loot, and reward exploration. They do absolutely nothing, but there are 10 left in this demo."
+   [1]
+    1 string data = "Congratulations, you found another placeholder reward. There are 9 left in this demo."
+   [2]
+    1 string data = "Actual Epic Loot : "This could be us but you keep playing the demo.""
+   [3]
+    1 string data = "Imagine if this was a new set of sails for your ship! But no, there are 7 placeholder rewards left."
+   [4]
+    1 string data = "These do nothing. There are 6 left, however."
+   [5]
+    1 string data = "5 more to go. If you're going nowhere, that is."
+   [6]
+    1 string data = "This item will be so amazing in the final game, you'll need to call in sick the next day to get over it."
+   [7]
+    1 string data = "You achiever, you! Only 3 to go!"
+   [8]
+    1 string data = "This one is actually just going to be a vanity item that looks like a gem."
+   [9]
+    1 string data = "You've turned almost every stone. One placeholder reward left!"
+   [10]
+    1 string data = "Congratulations, you found them all! They ACTUALLY do nothing, can you believe it? Have a great day!"
+   [11]
+    1 string data = "Perhaps we can explore this place later. Let's go to  <color=bad>Torment Peak</color>."
+   [12]
+    1 string data = "Perhaps we can explore this place later. Let's go to  <color=bad>Torment Peak</color>."
+   [13]
+    1 string data = "Perhaps we can explore this place later. Let's go to  <color=bad>Torment Peak</color>."

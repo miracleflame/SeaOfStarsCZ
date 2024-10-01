@@ -1,0 +1,120 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "BriskReno_EN"
+ 1 string locCategoryId = "SleeperIsland/BriskReno"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (53 items)
+   0 int size = 53
+   [0]
+    1 string data = "But I must admit the sea monster kind of creeped me out!"
+   [1]
+    1 string data = "Was it called Hydralion?"
+   [2]
+    1 string data = "No idea, but it was MASSIVE!"
+   [3]
+    1 string data = "Oh, I hope Hortence will let me ask her some questions--I have so many!"
+   [4]
+    1 string data = "That there be a quest worthy of my support."
+   [5]
+    1 string data = "So we have a deal?"
+   [6]
+    1 string data = "Aye. Ship's yers, and I'll be yer navigator."
+   [7]
+    1 string data = "I've only sailed it once, but I'll be damned if I can't pull it off again."
+   [8]
+    1 string data = "..."
+   [9]
+    1 string data = "How much do you know?"
+   [10]
+    1 string data = "Enough to see through yer disguises..."
+   [11]
+    1 string data = "Yer one ov 'em, aye?"
+   [12]
+    1 string data = "..."
+   [13]
+    1 string data = "No worries, I ain't telling."
+   [14]
+    1 string data = "So, these two Solstice Warriors be coming along to help?"
+   [15]
+    1 string data = "I was hoping that in the end they would, if I helped them first..."
+   [16]
+    1 string data = "Well then, I reckon we have a shot."
+   [17]
+    1 string data = "Hortence, I..."
+   [18]
+    1 string data = "Don't mention it. I owe ye a debt for pulling me out ov actual hell, remember?"
+   [19]
+    1 string data = "I..."
+   [20]
+    1 string data = "Thank you..."
+   [21]
+    1 string data = "Ahoy, navigator!"
+   [22]
+    1 string data = "Hortence be the name. Please use it."
+   [23]
+    1 string data = "Aye, it's just, stories say ye were quite the mandolin player back in the day."
+   [24]
+    1 string data = "That's OCTAVE mandolin, son! She won a duel against the legendary Shredrick!"
+   [25]
+    1 string data = "I have certainly dabbled!"
+   [26]
+    1 string data = "Whoa!"
+   [27]
+    1 string data = "My, I reckon you should join this little bardcore band of ours!"
+   [28]
+    1 string data = "Haha, I don't see why not!"
+   [29]
+    1 string data = "Huzzah!"
+   [30]
+    1 string data = "This eternity thing just got a whole lot better!"
+   [31]
+    1 string data = "Welcome to the crew, Hortence!"
+   [32]
+    1 string data = "The Vespertine is ours. Just talk to Hortence when you are ready to transport the settlers."
+   [33]
+    1 string data = "Y'all ready to take the settlers to their new land?"
+   [34]
+    1 string data = "Let's go!"
+   [35]
+    1 string data = "Wait"
+   [36]
+    1 string data = "My magic map should work in this realm too. To the northeast, then!"
+   [37]
+    1 string data = "Those who want to leave for new land, all aboard!"
+   [38]
+    1 string data = "Some people would rather start anew somewhere else. Thank you for taking care of us."
+   [39]
+    1 string data = "Brisk's reconstruction is underway. We will make something good from all this."
+   [40]
+    1 string data = "It's too dangerous to go beyond this point--the renovations are underway."
+   [41]
+    1 string data = "I'm hesitating on what I should take with me to this new place."
+   [42]
+    1 string data = "It's been good to see everyone work together."
+   [43]
+    1 string data = "I shouldn't have judged the pirate crew so fast, they're really kindhearted."
+   [44]
+    1 string data = "This will be a big change for my son. I hope he'll be alright..."
+   [45]
+    1 string data = "Mom, mom, MOOOOMMM! Are we really going to sail in that super cool boat!?"
+   [46]
+    1 string data = "We are ready to leave when you are. "
+   [47]
+    1 string data = "I feel for these people."
+   [48]
+    1 string data = "Building a new town from the ground up, huh? This should be fun!"
+   [49]
+    1 string data = "After all this time, The Vespertine is ours! Haha!"
+   [50]
+    1 string data = "Thanks again for your help."
+   [51]
+    1 string data = "The Vespertine, I can't believe it!"
+   [52]
+    1 string data = "Do you need anything? I've got a few items."

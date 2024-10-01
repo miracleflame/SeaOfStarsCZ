@@ -1,0 +1,1396 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Mooncradle_EN"
+ 1 string locCategoryId = "EvermistIsland/Mooncradle"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (691 items)
+   0 int size = 691
+   [0]
+    1 string data = "My weapon will be something that hits\nreally hard!"
+   [1]
+    1 string data = "And I'll pick a FAST one!"
+   [2]
+    1 string data = "We'll be unstoppable!"
+   [3]
+    1 string data = "Imagine all the wonders we'll find after we leave Evermist Island."
+   [4]
+    1 string data = "I want to see <color=bad>The Sleeper</color>!"
+   [5]
+    1 string data = "What's that?"
+   [6]
+    1 string data = "You've never heard of The Sleeper?"
+   [7]
+    1 string data = "Stories say it's a giant serpent, and it's been sleeping curled up around a mountain since even before there were Traveling Historians to record it."
+   [8]
+    1 string data = "No way!"
+   [9]
+    1 string data = "Sure is, and it's super dangerous too!"
+   [10]
+    1 string data = "But don't worry it can't wake up."
+   [11]
+    1 string data = "Why not?"
+   [12]
+    1 string data = "Apparently there's holes in the mountain, and the wind blows through them, and that plays a melody that keeps it asleep."
+   [13]
+    1 string data = "Whoa..."
+   [14]
+    1 string data = "I want to see it too!"
+   [15]
+    1 string data = "It's the bell, <color=good>Erlina</color> and <color=good>Brugaves</color> are back!"
+   [16]
+    1 string data = "Quick, maybe we can catch them before they go to the academy!"
+   [17]
+    1 string data = "Hey, wait!!"
+   [18]
+    1 string data = "There you are!"
+   [19]
+    1 string data = "Playing in your secret hideout again?"
+   [20]
+    1 string data = "We were training, I think I can use magic now!"
+   [21]
+    1 string data = "Is that so? Let's see it then."
+   [22]
+    1 string data = "Woaaaaah..."
+   [23]
+    1 string data = "Come closer Zale, open your palm and concentrate."
+   [24]
+    1 string data = "What about you Valere, have you been training too?"
+   [25]
+    1 string data = "Every day! I bet I'm stronger than you now!"
+   [26]
+    1 string data = "Haha, I'm sure you are. Come here then!"
+   [27]
+    1 string data = "Yah! Yah!"
+   [28]
+    1 string data = "Whoa easy now, I can't report to the Headmaster if you knock me out!"
+   [29]
+    1 string data = "!!!"
+   [30]
+    1 string data = "That was awesome Zale!!"
+   [31]
+    1 string data = "You did it!"
+   [32]
+    1 string data = "Solstice Warriors!"
+   [33]
+    1 string data = "If you are done with your babysitting duties, I would hear your report."
+   [34]
+    1 string data = "..."
+   [35]
+    1 string data = "Right away, Headmaster."
+   [36]
+    1 string data = "Can we go too?"
+   [37]
+    1 string data = "Believe me, once you enter <color=location>Zenith Academy</color> you'll wish you hadn't."
+   [38]
+    1 string data = "..."
+   [39]
+    1 string data = "Let's go Brugaves."
+   [40]
+    1 string data = "..."
+   [41]
+    1 string data = "Hey, the full moon is out!"
+   [42]
+    1 string data = "??"
+   [43]
+    1 string data = "He's right!"
+   [44]
+    1 string data = "Want to go to the <color=location>Forbidden Cavern</color> again?"
+   [45]
+    1 string data = "We tried already, I can't open it."
+   [46]
+    1 string data = "Yeah but last time we decided maybe the full moon could make the rune more sensitive."
+   [47]
+    1 string data = "I'm sure it'll work! And Moraine will be so impressed, he'll take you two in for training right away and then we'll finally be allowed to leave this island!"
+   [48]
+    1 string data = "What if he gets mad and delays our training instead?"
+   [49]
+    1 string data = "Nah no way."
+   [50]
+    1 string data = "Well, we can worry about that after I open it."
+   [51]
+    1 string data = "I mean, IF I open it."
+   [52]
+    1 string data = "Alright, let's go!"
+   [53]
+    1 string data = "Make sure to treat the wound and soothe the poor kid."
+   [54]
+    1 string data = "He's not the complaining type, but if the pain seems to return please send for me."
+   [55]
+    1 string data = "Understood, Headmaster."
+   [56]
+    1 string data = "You will not see your friend for a very long time. If you have any parting words speak them now."
+   [57]
+    1 string data = "I..."
+   [58]
+    1 string data = "Can't he come and stay with us?"
+   [59]
+    1 string data = "How long is very long? Like a week?"
+   [60]
+    1 string data = "Ah, the eagerness of youth."
+   [61]
+    1 string data = "It takes years to properly train Solstice Warriors."
+   [62]
+    1 string data = "YEARS!?!"
+   [63]
+    1 string data = "No way!"
+   [64]
+    1 string data = "But..."
+   [65]
+    1 string data = "Your friends have much to learn."
+   [66]
+    1 string data = "I would suggest you use that time to reflect upon what happened today."
+   [67]
+    1 string data = "With any luck, it will help you forget any ideas of getting involved with a burden that is not yours to bear."
+   [68]
+    1 string data = "Guys! Don't forget about me!"
+   [69]
+    1 string data = "Never!"
+   [70]
+    1 string data = "We'll train really hard, maybe it won't take so long!"
+   [71]
+    1 string data = "Welcome to Zenith Academy."
+   [72]
+    1 string data = "In this ancient place of knowledge, you will learn everything you need to know in order to become true Solstice Warriors."
+   [73]
+    1 string data = "We've been waiting for this for so long."
+   [74]
+    1 string data = "When do we start?"
+   [75]
+    1 string data = "Tomorrow, though I believe a proper introduction is in order."
+   [76]
+    1 string data = "Careful now."
+   [77]
+    1 string data = "Welcome to the classroom in the sky."
+   [78]
+    1 string data = "Whoa, it's beautiful!!"
+   [79]
+    1 string data = "I'm feeling a weird resonance, like when I opened the Forbidden Cavern."
+   [80]
+    1 string data = "Good on you for noticing that."
+   [81]
+    1 string data = "Getting closer to the stars helps new recruits get acquainted with their <color=magic>innate magic</color>."
+   [82]
+    1 string data = "It shows great promise that you were able to feel it before. And Zale too, from what Erlina told me."
+   [83]
+    1 string data = "Oh it was just a small burst."
+   [84]
+    1 string data = "(...)"
+   [85]
+    1 string data = "(They have no idea how much potential they have.)"
+   [86]
+    1 string data = "(It is probably for the best.)"
+   [87]
+    1 string data = "Now, in the many years you will spend at Zenith Academy, you will learn about the duties incumbent upon Solstice Warriors."
+   [88]
+    1 string data = "Of the magic you are destined to wield, and the evils it is meant to cleanse."
+   [89]
+    1 string data = "We'll learn how to fight too, right?"
+   [90]
+    1 string data = "Naturally."
+   [91]
+    1 string data = "You will spend your days training and studying, but most importantly sewing."
+   [92]
+    1 string data = "Sewing?"
+   [93]
+    1 string data = "That sounds boring."
+   [94]
+    1 string data = "Oh I can assure you that it is."
+   [95]
+    1 string data = "A mandatory task nonetheless."
+   [96]
+    1 string data = "All who would join our order begin by weaving their will into an enchanted piece of fabric, the staple of the Solstice Warrior."
+   [97]
+    1 string data = "It is their most prized possession, guaranteeing light in the darkest places, and a measure of protection against the minions of <color=bad>The Fleshmancer</color>."
+   [98]
+    1 string data = "But first, you must learn of your duties, train until you cannot feel your limbs, and then train some more."
+   [99]
+    1 string data = "Once both your body and mind are ripe with potential, you will create a <color=magic>magic piece of fabric</color> worthy of the very stars."
+   [100]
+    1 string data = "You will then be sent out beyond the Forbidden Cavern to meet with the <color=good>Elder Mist</color>, for it alone may officially grant the title of Solstice Warrior."
+   [101]
+    1 string data = "Sewing..."
+   [102]
+    1 string data = "I understand it is not what you were hoping for, but it is what is required of you for the time being."
+   [103]
+    1 string data = "Years of sewing..."
+   [104]
+    1 string data = "That will be all for today."
+   [105]
+    1 string data = "You will be spending a lot of time in these halls, so you should make yourselves at home."
+   [106]
+    1 string data = "To your left is the training room. You are to go there first thing in the morning."
+   [107]
+    1 string data = "Just above is the way to my chambers."
+   [108]
+    1 string data = "It is off limits, of course."
+   [109]
+    1 string data = "And to your right are the dormitories. Just make sure you pick a bed aligned with your innate magic."
+   [110]
+    1 string data = "Feel free to look around, then go to sleep when you are ready."
+   [111]
+    1 string data = "Goodnight."
+   [112]
+    1 string data = "Go to sleep?"
+   [113]
+    1 string data = "Yes"
+   [114]
+    1 string data = "Not yet"
+   [115]
+    1 string data = "I think this bed is for me. Let's find yours."
+   [116]
+    1 string data = "The next morning, in the training room..."
+   [117]
+    1 string data = "Good morning fellas!"
+   [118]
+    1 string data = "BRUGAVES!"
+   [119]
+    1 string data = "So you'll be our trainer?"
+   [120]
+    1 string data = "I wish!"
+   [121]
+    1 string data = "Erlina and I are leaving tomorrow, but the Headmaster was kind enough to let us make your first day special."
+   [122]
+    1 string data = "Are you ready for training?"
+   [123]
+    1 string data = "You bet!"
+   [124]
+    1 string data = "That's what I like to hear!"
+   [125]
+    1 string data = "I reckon these should be well suited for the two of you."
+   [126]
+    1 string data = "Zale received <sprite="dialog-inventory-icons" name="icn-inventory-sunblade"> <color=magic>Training Sword</color>."
+   [127]
+    1 string data = "Valere received <sprite="dialog-inventory-icons" name="icn-inventory-moonstaff"> <color=magic>Training Staff</color>."
+   [128]
+    1 string data = "Alright, let's get to work!"
+   [129]
+    1 string data = "Huff.. huff.."
+   [130]
+    1 string data = "You got this Valere, don't give up now!"
+   [131]
+    1 string data = "Never!"
+   [132]
+    1 string data = "Come on Zale, keep up!"
+   [133]
+    1 string data = "I..."
+   [134]
+    1 string data = "I can do this!"
+   [135]
+    1 string data = "Ninety-nine, one hundred!"
+   [136]
+    1 string data = "That's it for today, you did great!"
+   [137]
+    1 string data = "Phew!"
+   [138]
+    1 string data = "That was a lot."
+   [139]
+    1 string data = "Feel free to take a break. Erlina will see you on the terrace whenever you're ready."
+   [140]
+    1 string data = "Erlina is ready to see you. She's waiting just outside of the academy's entrance."
+   [141]
+    1 string data = "Erlina should be just outside of the academy's entrance."
+   [142]
+    1 string data = "Oh there you are! Ready to learn magic?"
+   [143]
+    1 string data = "It should feel as if something was scratching an itch far away from you."
+   [144]
+    1 string data = "You must focus on the sensation and compel it to come closer."
+   [145]
+    1 string data = "I THINK IT'S WORKING!"
+   [146]
+    1 string data = "Hey! You startled me, I almost had it!"
+   [147]
+    1 string data = "Now mine's gone too..."
+   [148]
+    1 string data = "It's okay, just breathe slowly."
+   [149]
+    1 string data = "Try to release only when you feel its current passing in front of you."
+   [150]
+    1 string data = "If your timing is true it will manifest. On three."
+   [151]
+    1 string data = "One."
+   [152]
+    1 string data = "Two."
+   [153]
+    1 string data = "THREE!"
+   [154]
+    1 string data = "I think I felt it!"
+   [155]
+    1 string data = "It tickles!"
+   [156]
+    1 string data = "Right there! You just did the hardest part."
+   [157]
+    1 string data = "I'm sure your training will go well, but one more thing..."
+   [158]
+    1 string data = "No matter what the Headmaster teaches you, remember that this is YOUR life, and-"
+   [159]
+    1 string data = "Erlina!"
+   [160]
+    1 string data = "..."
+   [161]
+    1 string data = "Since you are done onboarding our new recruits in the ways of magic, I would provide the briefing for your next assignment."
+   [162]
+    1 string data = "As for the two of you, it is about time you tried that <color=magic>sewing kit</color>."
+   [163]
+    1 string data = "Move along, now."
+   [164]
+    1 string data = "...and “making a magic piece of fabric worthy of the very stars” sure is a tall order."
+   [165]
+    1 string data = "Yeah I have no idea what shape to even make..."
+   [166]
+    1 string data = "At least the Headmaster said we wouldn't get it right the first time."
+   [167]
+    1 string data = "(Well, I'm bored.)"
+   [168]
+    1 string data = "What are you doing?"
+   [169]
+    1 string data = "What are you doing?"
+   [170]
+    1 string data = "I'll just walk around a bit."
+   [171]
+    1 string data = "You keep saying that, but The Fleshmancer left our realm for good when the <color=bad>Dweller of Strife</color> was destroyed."
+   [172]
+    1 string data = "So why can't they have a normal life?"
+   [173]
+    1 string data = "And you know the three of us can take the one on <color=location>Wraith Island</color>. We don't need them."
+   [174]
+    1 string data = "Prudence, Erlina. There is no telling what threats we may face in the future."
+   [175]
+    1 string data = "[MAINCHAR] and [OFFCHAR] were brought to Mooncradle by the <color=good>Great Eagle</color>. It is not the place of the Headmaster to question such things, and neither is it yours."
+   [176]
+    1 string data = "So how much is enough? What about <color=good>Moyara</color>? What about <color=good>the twins</color>?"
+   [177]
+    1 string data = "BRUGAVES!"
+   [178]
+    1 string data = "Do not judge a sacrifice you cannot begin to comprehend!"
+   [179]
+    1 string data = "This conversation is over."
+   [180]
+    1 string data = "They will study here while you carry on with your investigation."
+   [181]
+    1 string data = "On the first eclipse after their training is complete, they will join us for <color=magic>the cleansing</color>."
+   [182]
+    1 string data = "Learn as much as you can until then."
+   [183]
+    1 string data = "But..."
+   [184]
+    1 string data = "Let's just go, Brugaves."
+   [185]
+    1 string data = "..."
+   [186]
+    1 string data = "And so they trained and they sewed for days, and then for months..."
+   [187]
+    1 string data = "Faster now!"
+   [188]
+    1 string data = "Focus, and then release!"
+   [189]
+    1 string data = "...and the longer a <color=bad>Dweller</color> is left to its devices, the stronger it gets.This makes patrol duty essential."
+   [190]
+    1 string data = "Let one grow for too long, and you have a <color=bad>World Eater</color> on your hands."
+   [191]
+    1 string data = "Against such a foe, even a legion of Solstice Warriors would be helpless."
+   [192]
+    1 string data = "Since delaying only increases the chances of a World Eater, cleansings always target the strongest Dweller known to us."
+   [193]
+    1 string data = "Headmaster, if Dwellers are immune to our magic how can we fight them?"
+   [194]
+    1 string data = "Ah, that is why cleansings are always performed during a <color=magic>total eclipse</color>."
+   [195]
+    1 string data = "In these moments only, the Dwellers weaknesses are exposed."
+   [196]
+    1 string data = "How many Dwellers are left?"
+   [197]
+    1 string data = "Just the one, known as the <color=bad>Dweller of Woe</color>. But we cannot know for sure..."
+   [198]
+    1 string data = "The Fleshmancer just may have planted other <color=bad>seeds of evil</color> before leaving our world..."
+   [199]
+    1 string data = "Thus we must always remain vigilant!"
+   [200]
+    1 string data = "Headmaster?"
+   [201]
+    1 string data = "Yes, [MAINCHAR]?"
+   [202]
+    1 string data = "What happened with the Dweller of Strife? And who's Moyara?"
+   [203]
+    1 string data = "..."
+   [204]
+    1 string data = "That will be all for today."
+   [205]
+    1 string data = "A few weeks later, a sound in the night..."
+   [206]
+    1 string data = "[MAINCHAR], wake up!"
+   [207]
+    1 string data = "[OFFCHAR]... what is it..."
+   [208]
+    1 string data = "I think I heard a voice coming from the entrance."
+   [209]
+    1 string data = "What time is it?"
+   [210]
+    1 string data = "Who cares!? Let's go check it out."
+   [211]
+    1 string data = "...alright..."
+   [212]
+    1 string data = "Hey look!"
+   [213]
+    1 string data = "Oh, smells good!"
+   [214]
+    1 string data = "There's a note."
+   [215]
+    1 string data = ""Dear [MAINCHAR] and [OFFCHAR].""
+   [216]
+    1 string data = ""I'm writing this as a failsafe but I hope to see you in person.""
+   [217]
+    1 string data = ""If you're reading this, it probably means I got caught.""
+   [218]
+    1 string data = ""I made cookies filled with the Celestial Willow jam you liked.""
+   [219]
+    1 string data = "Aww..."
+   [220]
+    1 string data = "Keep reading!"
+   [221]
+    1 string data = ""I'm doing everything I can to be ready to leave when you graduate.""
+   [222]
+    1 string data = ""In the meantime I hope your training is going well.""
+   [223]
+    1 string data = ""Oops now the platform is almost up and I can see Moraine is there waiting for me.""
+   [224]
+    1 string data = ""He looks very angry. I will try to drop the jar without him noticing.""
+   [225]
+    1 string data = ""I guess that means I won't be able to try a visit again, but I'm thinking of you every day and I can't wait!""
+   [226]
+    1 string data = ""I hope you like the cookies.""
+   [227]
+    1 string data = ""Your friend until the end of time.""
+   [228]
+    1 string data = ""-Garl""
+   [229]
+    1 string data = "Garl's the best."
+   [230]
+    1 string data = "Let's go up on the disk to eat the cookies."
+   [231]
+    1 string data = "These cookies are amazing."
+   [232]
+    1 string data = "I can't believe Garl was just there."
+   [233]
+    1 string data = "I miss him so much..."
+   [234]
+    1 string data = "He seems well at least. After what happened in the Forbidden Cavern..."
+   [235]
+    1 string data = "Knowing him I bet he smiled it away the next day."
+   [236]
+    1 string data = "Haha, you're probably right!"
+   [237]
+    1 string data = "We can't let something like this happen ever again."
+   [238]
+    1 string data = "At this rate it feels like we'll never sew something good enough for the Elder Mist..."
+   [239]
+    1 string data = "It will happen, we just have to keep on training hard."
+   [240]
+    1 string data = "And so they trained and they sewed for years..."
+   [241]
+    1 string data = "And then they trained and they sewed some more.."
+   [242]
+    1 string data = "Until one day..."
+   [243]
+    1 string data = "The sound came from the entrance to the south. Let's check it out!"
+   [244]
+    1 string data = "Zale! That's the one!"
+   [245]
+    1 string data = "I can feel it too, hold on!"
+   [246]
+    1 string data = "Alright, I think I got it too! Let's go see the Headmaster."
+   [247]
+    1 string data = "Want to review combat basics?"
+   [248]
+    1 string data = "Yes"
+   [249]
+    1 string data = "No need"
+   [250]
+    1 string data = "Timing your hits and blocks is important. Are you sure you don't want to review this?"
+   [251]
+    1 string data = "Okay, fine."
+   [252]
+    1 string data = "Skip"
+   [253]
+    1 string data = "Looks like you know what you're doing!"
+   [254]
+    1 string data = "Ready to go through the basics of magic?"
+   [255]
+    1 string data = "Yes"
+   [256]
+    1 string data = "No need"
+   [257]
+    1 string data = "Damage types and MP management are key to survival. I strongly recommend getting a rundown."
+   [258]
+    1 string data = "Okay, fine."
+   [259]
+    1 string data = "Skip"
+   [260]
+    1 string data = "Your call."
+   [261]
+    1 string data = "Slides on combat basics can be viewed in the How to Play section of the pause menu."
+   [262]
+    1 string data = "Let's get started. Just attack me now in any order."
+   [263]
+    1 string data = "Use <button="MoveHorizontal"> to cycle through available characters."
+   [264]
+    1 string data = "Party members can use their turn in the order of your choice, but they can only act once per round."
+   [265]
+    1 string data = "When all of your party members are on cooldown, the round resets and they all become available again."
+   [266]
+    1 string data = "Good."
+   [267]
+    1 string data = "Focus is paramount whenever you perform attacks and skills."
+   [268]
+    1 string data = "With proper timing you can increase the damage that you deal, and sometimes even score additional hits."
+   [269]
+    1 string data = "Let's see it."
+   [270]
+    1 string data = "Press <button="Interact"> as the hit connects to increase damage."
+   [271]
+    1 string data = "Good. Let's see that one more time."
+   [272]
+    1 string data = "That was too soon. Stay focused, and press as the hit connects."
+   [273]
+    1 string data = "That was too late. Stay focused, and press as the hit connects."
+   [274]
+    1 string data = "It can be difficult sometimes. Here, let me help you."
+   [275]
+    1 string data = "Now!"
+   [276]
+    1 string data = "Ouch! Yeah, that's the gist of it."
+   [277]
+    1 string data = "Most of your attacks and spells can be made more potent with proper timing. Some also keep going with more hits until you miss!"
+   [278]
+    1 string data = "And remember to think of timed hits as a welcome addition when you pull it off, rather than something you're supposed to do perfectly all the time."
+   [279]
+    1 string data = "So don't worry about it too much. Just keep on trying and your sense for it will develop over time."
+   [280]
+    1 string data = "Okay, now for timing your blocks. Let's get the little guy in here."
+   [281]
+    1 string data = "Stay focused, and press <button="Interact"> as the hit connects. The window is short."
+   [282]
+    1 string data = "To be efficient in battle, you must pay attention to anything that starts moving."
+   [283]
+    1 string data = "With proper timing, you can reduce the damage of any incoming attack or spell by blocking."
+   [284]
+    1 string data = "Get ready!"
+   [285]
+    1 string data = "Press <button="Interact"> as the hit connects to reduce damage."
+   [286]
+    1 string data = "That was too soon. Stay focused, and press as the hit connects."
+   [287]
+    1 string data = "That was too late. Stay focused, and press as the hit connects."
+   [288]
+    1 string data = "It can be difficult sometimes. Here, let me help you."
+   [289]
+    1 string data = "Now!"
+   [290]
+    1 string data = "That's how you do it!"
+   [291]
+    1 string data = "Remember to always stay alert. Some patterns will be harder to read than others, sometimes even requiring multiple blocks."
+   [292]
+    1 string data = "But don't be too hard on yourself. No one is expected to block everything all the time."
+   [293]
+    1 string data = "It's not about getting it perfectly all the time, but rather building a growing sense for it. Just think of a timed block as a welcome bonus whenever you happen to pull it off."
+   [294]
+    1 string data = "The key is remembering to read your enemies, and to keep trying!"
+   [295]
+    1 string data = "Oh, one more thing."
+   [296]
+    1 string data = "When a party member gets knocked out in battle, you'll need to switch to a more defensive mode."
+   [297]
+    1 string data = "KO'd allies will get back up on their own at 50% HP once all the KO stars are gone."
+   [298]
+    1 string data = "One KO star is removed at the end of each round."
+   [299]
+    1 string data = "The more you fall during the same battle, the more KO stars there are, so be careful!"
+   [300]
+    1 string data = "If all party members go down, it's game over."
+   [301]
+    1 string data = "Fight and survive until [OFFCHAR] returns!"
+   [302]
+    1 string data = "And there you have it."
+   [303]
+    1 string data = "Good work today, I'm sure the exam will be a breeze!"
+   [304]
+    1 string data = "When enemies prepare spells, you must do everything you can to prevent them."
+   [305]
+    1 string data = "If you follow your senses, you can try dealing damage of the types that will break their concentration."
+   [306]
+    1 string data = "Simpler spells will only demand normal attacks."
+   [307]
+    1 string data = "Valere can do blunt damage, and Zale has slicing."
+   [308]
+    1 string data = "Let's see you break this one."
+   [309]
+    1 string data = "Just like that."
+   [310]
+    1 string data = "Now, some spells will also demand magic damage to break."
+   [311]
+    1 string data = "You can control your projectiles now, so let's give it a shot. Zale for sun, and Valere for Moon."
+   [312]
+    1 string data = "Well done. Now, you can sense your MP is a bit low, right?"
+   [313]
+    1 string data = "To keep up the pace in battle, you must remember to regenerate MP."
+   [314]
+    1 string data = "Let's build it back up a bit. Hit me with a normal attack now."
+   [315]
+    1 string data = "Did you feel that? You just got some MP back by attacking."
+   [316]
+    1 string data = "In battle, awareness leads to victory."
+   [317]
+    1 string data = "You must pace your spells with normal attacks to avoid ending up in a dire situation with no MP available to get out of it."
+   [318]
+    1 string data = "And on the flip side, you should not hesitate to use spells when MP abounds, for a regular attack on a full bar is a waste of regeneration."
+   [319]
+    1 string data = "The key is to experiment, keep on varying your actions, and find the rhythm appropriate for each battle!"
+   [320]
+    1 string data = "One last thing."
+   [321]
+    1 string data = "All battle actions, lock breaking especially, build your combo energy."
+   [322]
+    1 string data = "When you have enough, you can spend Combo Points to perform powerful actions."
+   [323]
+    1 string data = "Combos cost no MP, and are lost after battle, so you should never hesitate to use them."
+   [324]
+    1 string data = "Moraine told me you came up with your first combo attack. Show it to me."
+   [325]
+    1 string data = "Yeah, you're strong alright..."
+   [326]
+    1 string data = "Keep an eye out in your adventures, you're bound to come across scrolls that will teach you more combos."
+   [327]
+    1 string data = "Good luck with the exam, I'm sure you'll do great."
+   [328]
+    1 string data = "Moraine will see you to the final test. I'm sure you'll do great."
+   [329]
+    1 string data = "Headmaster, we think we're ready."
+   [330]
+    1 string data = "Why yes, the tingling of magic in the air has been building up for a few weeks now."
+   [331]
+    1 string data = "Congratulations. Moving forward there will be no more sewing."
+   [332]
+    1 string data = "I can deal with that!"
+   [333]
+    1 string data = "It will soon be time for you to leave on your journey to meet the <color=good>Elder Mist</color>."
+   [334]
+    1 string data = "But before we get to that, Zenith Academy has one more challenge for you."
+   [335]
+    1 string data = "Oh, our visitors just arrived! Perfect timing."
+   [336]
+    1 string data = "My, you've both grown pretty strong!"
+   [337]
+    1 string data = "Hey, it's good to see you!"
+   [338]
+    1 string data = "Erlina and Brugaves are here to help you <color=magic>review the basics of combat</color>."
+   [339]
+    1 string data = "Check in with them, then it will be time for your final test."
+   [340]
+    1 string data = "Are you ready for the final test, then?"
+   [341]
+    1 string data = "We're ready!"
+   [342]
+    1 string data = "Not yet..."
+   [343]
+    1 string data = "Then let us begin."
+   [344]
+    1 string data = "They haven't even been to the other side of the Forbidden Cavern yet, how could they understand?"
+   [345]
+    1 string data = "So you don't think we should at least try and explain?"
+   [346]
+    1 string data = "You've seen how strong they are, <color=good>Wyrd</color> will be a walk in the park."
+   [347]
+    1 string data = "..."
+   [348]
+    1 string data = "Let's see them off, then..."
+   [349]
+    1 string data = "The big day has finally come."
+   [350]
+    1 string data = "Over the years, Zenith Academy has tested you in many ways."
+   [351]
+    1 string data = "It will now test you one last time."
+   [352]
+    1 string data = "Have you prepared your vows?"
+   [353]
+    1 string data = "Yes, Headmaster."
+   [354]
+    1 string data = "Yes, Headmaster."
+   [355]
+    1 string data = "Then speak them now."
+   [356]
+    1 string data = "You go first Zale."
+   [357]
+    1 string data = "Hmm okay."
+   [358]
+    1 string data = "*Ahem*"
+   [359]
+    1 string data = "So that I may use my agility to cleanse this world and protect my companions, I will enter the world as a blade dancer."
+   [360]
+    1 string data = "I chose the curved blade as it will not hinder my speed or reflexes."
+   [361]
+    1 string data = "Welcome, blade dancer."
+   [362]
+    1 string data = "Come on Valere! I did it now it's your turn!"
+   [363]
+    1 string data = "*Ahem*"
+   [364]
+    1 string data = "So that I may use my strength to inspire hope and eradicate evil, I will become a battle monk."
+   [365]
+    1 string data = "I chose the staff, for it won't break no matter how hard I strike."
+   [366]
+    1 string data = "Welcome, battle monk."
+   [367]
+    1 string data = "Today you must demonstrate mastery of everything Zenith Academy has taught you. Your final challenge awaits below."
+   [368]
+    1 string data = "Please step aside."
+   [369]
+    1 string data = "Oh, before I forget. Here is a little something to keep your health full."
+   [370]
+    1 string data = "Now, with faith in your abilities and purpose in your actions, take the leap."
+   [371]
+    1 string data = "And return as the new recruits of our order!"
+   [372]
+    1 string data = "I'm ready [MAINCHAR]."
+   [373]
+    1 string data = "Let's just go for it."
+   [374]
+    1 string data = "Exam mode engaged. Brace yourselves."
+   [375]
+    1 string data = "Congratulations, you have been trained well. Return now to your Headmaster."
+   [376]
+    1 string data = "Congratulations, [MAINCHAR] and [OFFCHAR]! You have learned everything Zenith Academy had to teach you."
+   [377]
+    1 string data = "Ha!"
+   [378]
+    1 string data = "We did it!"
+   [379]
+    1 string data = "In record time, too."
+   [380]
+    1 string data = "You must now learn of our ultimate power, the ability to “use magic without using magic.”"
+   [381]
+    1 string data = "??"
+   [382]
+    1 string data = "But that knowledge is for the Elder Mist to impart."
+   [383]
+    1 string data = "Come, the villagers have gathered to celebrate your departure!"
+   [384]
+    1 string data = "It is on special days such as this one that the citizens of Mooncradle are reminded of the importance of their duties."
+   [385]
+    1 string data = "(Where's Garl?)"
+   [386]
+    1 string data = "(I don't see him...)"
+   [387]
+    1 string data = "Many years ago, [MAINCHAR] and [OFFCHAR] were delivered to us by the Great Eagle."
+   [388]
+    1 string data = "Deliveries on two solstices in a row to boot!"
+   [389]
+    1 string data = "A very rare occurrence!"
+   [390]
+    1 string data = "Oh, I remember! Gran was so happy to get to meet two more before she passed!"
+   [391]
+    1 string data = "I miss Gran..."
+   [392]
+    1 string data = "All of you have come together to nurture and protect them, just like your ancestors have done for so many Children of the Solstice before."
+   [393]
+    1 string data = "[MAINCHAR] and [OFFCHAR]!"
+   [394]
+    1 string data = "Step forward, so that the good people of Mooncradle might gaze upon those who will soon join the ranks of the Solstice Warriors!"
+   [395]
+    1 string data = "(This parading is ridiculous.)"
+   [396]
+    1 string data = "(Oh, let the villagers have their fun. It's all they get.)"
+   [397]
+    1 string data = "(So you're okay with this now?)"
+   [398]
+    1 string data = "(You know I'm not.)"
+   [399]
+    1 string data = "Now, cheer with me, as we send these young heroes out across the Forbidden Cavern to meet the Elder Mist!"
+   [400]
+    1 string data = "Hurray!"
+   [401]
+    1 string data = "To the gate!"
+   [402]
+    1 string data = "What do we do? I want to see Garl before leaving!"
+   [403]
+    1 string data = "I guess we have to play along for now."
+   [404]
+    1 string data = "Fingers crossed that we can come back after meeting this Elder Mist..."
+   [405]
+    1 string data = "Fingers and toes."
+   [406]
+    1 string data = "[MAINCHAR], [OFFCHAR], you must undertake this journey on your own now."
+   [407]
+    1 string data = "We will not fail, Headmaster."
+   [408]
+    1 string data = "Go now, through the Forbidden Cavern and atop the Mountain Trail, to seek audience with the Elder Mist."
+   [409]
+    1 string data = "Learn how to “use magic without using magic,” and you shall then enter the world as true Solstice Warriors!"
+   [410]
+    1 string data = "MAY <color=moon>LUANA</color>'S MIGHT PROTECT YOU!"
+   [411]
+    1 string data = "MAY <color=sun>SOLEN</color>'S LIGHT GUIDE YOU!"
+   [412]
+    1 string data = "Here. This should keep you fed for a little bit."
+   [413]
+    1 string data = "And if your adventure feels a little tough, you could take a look at these."
+   [414]
+    1 string data = "You just received your first two <color=magic>Relics</color>! Find them in the Relic section of the Game Menu (accessible with <button="Player_GameMenu">) to adjust your experience!"
+   [415]
+    1 string data = "Whether you prefer a lighter challenge, or are looking to push yourself to the max, Relics offer a range of options. There's bound to be more to find!"
+   [416]
+    1 string data = "Remember to keep an eye out for <color=good>merchants</color>. Selling any <color=magic>valuables</color> you find will keep you well fed, and well equipped!"
+   [417]
+    1 string data = "Now, wherever your adventures take you, you must remember your first assignment."
+   [418]
+    1 string data = "After the Elder Mist sends you out into the world, you must secure passage to <color=location>Wraith Island</color> in time for the next eclipse."
+   [419]
+    1 string data = "And do keep on training, for a dire cleansing awaits us."
+   [420]
+    1 string data = "(I still can't believe he wants them fighting a Dweller already.)"
+   [421]
+    1 string data = "(That's Moraine for you. We weren't much older the first time.)"
+   [422]
+    1 string data = "(Yeah but...)"
+   [423]
+    1 string data = "(We'll find a way.)"
+   [424]
+    1 string data = "Safe journeys, and may you cleanse this world!"
+   [425]
+    1 string data = "MAY YOU CLEANSE THIS WORLD!"
+   [426]
+    1 string data = "MAY YOU CLEANSE THIS WORLD!"
+   [427]
+    1 string data = "MAY YOU CLEANSE THIS WORLD!"
+   [428]
+    1 string data = "Twenty years ago, in the village of Mooncradle..."
+   [429]
+    1 string data = "Come on Brugaves! We're going to miss them if you don't hurry!"
+   [430]
+    1 string data = "Huff.. huff.."
+   [431]
+    1 string data = "Wait for me!"
+   [432]
+    1 string data = "There you are, little ones!"
+   [433]
+    1 string data = "We're too late..."
+   [434]
+    1 string data = "I wanted to see the <color=good>Headmistress</color> in her battle gear!"
+   [435]
+    1 string data = "How did she look?"
+   [436]
+    1 string data = "As fabulous as ever."
+   [437]
+    1 string data = "How long is the cleansing? Maybe we can catch her when everyone returns."
+   [438]
+    1 string data = "You just might!"
+   [439]
+    1 string data = "Today's cleansing will be performed by the biggest group to ever take down a Dweller."
+   [440]
+    1 string data = "You can expect a swift return!"
+   [441]
+    1 string data = "Maybe we should just sit here then, huh?"
+   [442]
+    1 string data = "Haha! Don't forget to do your chores now, hmm?"
+   [443]
+    1 string data = "Oh, come on! We don't even get a break for the eclipse?"
+   [444]
+    1 string data = "Not if you want the twins to play with you later."
+   [445]
+    1 string data = "..."
+   [446]
+    1 string data = "Fine..."
+   [447]
+    1 string data = "Hahaha! Be good now."
+   [448]
+    1 string data = "Whoa, I can feel the magic coursing through me!"
+   [449]
+    1 string data = "You mean you don't always feel it?"
+   [450]
+    1 string data = "The tingling? No, this is new."
+   [451]
+    1 string data = "I wish I could see Headmistress Moyara fighting."
+   [452]
+    1 string data = "I bet she takes down the Dweller on her own."
+   [453]
+    1 string data = "She could, but the twins have to do some spins and flips and combine their weapons like they showed us."
+   [454]
+    1 string data = "Right!"
+   [455]
+    1 string data = "No more eclipse. They must be on their way back now."
+   [456]
+    1 string data = "Hey so, when we grow up, will we have to fight big monsters too?"
+   [457]
+    1 string data = "That's the plan for us--just like anyone else born on a solstice."
+   [458]
+    1 string data = "Doesn't that scare you?"
+   [459]
+    1 string data = "Not really. It's not like we will be alone."
+   [460]
+    1 string data = "And no matter what happens, I will always protect you."
+   [461]
+    1 string data = "You know that, right?"
+   [462]
+    1 string data = "Brugaves?"
+   [463]
+    1 string data = "Fine, you sleep. I'll keep watch."
+   [464]
+    1 string data = "A few hours later..."
+   [465]
+    1 string data = "THEY HAVE RETURNED!"
+   [466]
+    1 string data = "Wait..."
+   [467]
+    1 string data = "HELP! MORAINE IS GRAVELY HURT!!!"
+   [468]
+    1 string data = "...and only Moraine survived."
+   [469]
+    1 string data = "It will take him a while to heal too, by the looks of it."
+   [470]
+    1 string data = "At least the Dweller of Strife was destroyed..."
+   [471]
+    1 string data = "But we lost so many..."
+   [472]
+    1 string data = "Moyara and the twins... Moraine will never be the same again."
+   [473]
+    1 string data = "Hey, does that mean he is the Headmaster now?"
+   [474]
+    1 string data = "Who else?"
+   [475]
+    1 string data = "A few months later, at Zenith Academy..."
+   [476]
+    1 string data = "Focus, Brugaves. You will never become strong enough if you don't develop your innate magic!"
+   [477]
+    1 string data = "I'm trying!"
+   [478]
+    1 string data = "Then try harder, you are way too slow!"
+   [479]
+    1 string data = "Hey, how about a bit of patience?"
+   [480]
+    1 string data = "DO NOT INTERFERE!"
+   [481]
+    1 string data = "OR WHAT?"
+   [482]
+    1 string data = "ERLINA!"
+   [483]
+    1 string data = "..."
+   [484]
+    1 string data = "That will be all for today."
+   [485]
+    1 string data = "Grumpy old man."
+   [486]
+    1 string data = "Hey, what if we left?"
+   [487]
+    1 string data = "You mean right now?"
+   [488]
+    1 string data = "Why not?"
+   [489]
+    1 string data = "I can move the platform now, so maybe I can also open the Forbidden Cavern?"
+   [490]
+    1 string data = "Sure beats staying here."
+   [491]
+    1 string data = "Later that year, at the <color=moon>Winter Solstice Festival</color>..."
+   [492]
+    1 string data = "Look! The Great Eagle!"
+   [493]
+    1 string data = "A new Child of the Solstice is born!"
+   [494]
+    1 string data = "Read the name!"
+   [495]
+    1 string data = "<color=moon>Valere</color>!"
+   [496]
+    1 string data = "Welcome, Valere. May Luana's might protect you!"
+   [497]
+    1 string data = "MAY LUANA'S MIGHT PROTECT YOU!"
+   [498]
+    1 string data = "MAY LUANA'S MIGHT PROTECT YOU!"
+   [499]
+    1 string data = "MAY LUANA'S MIGHT PROTECT YOU!"
+   [500]
+    1 string data = "Six months later, at the <color=sun>Summer Solstice Festival</color>..."
+   [501]
+    1 string data = "Did you hear that?"
+   [502]
+    1 string data = "The Great Eagle! Deliveries on two solstices in a row!"
+   [503]
+    1 string data = "A blessed year!"
+   [504]
+    1 string data = "Come on, read the name!"
+   [505]
+    1 string data = "<color=sun>Zale</color>!"
+   [506]
+    1 string data = "Welcome, Zale. May Solen's light guide you!"
+   [507]
+    1 string data = "MAY SOLEN'S LIGHT GUIDE YOU!"
+   [508]
+    1 string data = "MAY SOLEN'S LIGHT GUIDE YOU!"
+   [509]
+    1 string data = "MAY SOLEN'S LIGHT GUIDE YOU!"
+   [510]
+    1 string data = "A few years later..."
+   [511]
+    1 string data = "Haha, now we're talking!"
+   [512]
+    1 string data = "Keep it up, Valere!"
+   [513]
+    1 string data = "Ya! Ya!"
+   [514]
+    1 string data = "HEY, THE SNACKS ARE READY!"
+   [515]
+    1 string data = "Oh, are you two joining us?"
+   [516]
+    1 string data = "There's plenty for everyone, but I'm not sure we can show you our secret hideout."
+   [517]
+    1 string data = "No time, we have to report to the Headmaster."
+   [518]
+    1 string data = "Okay, but please don't look which way we're going."
+   [519]
+    1 string data = "Last one there does the dishes!"
+   [520]
+    1 string data = "I remember when we were that age. [MAINCHAR] and [OFFCHAR] always make me smile."
+   [521]
+    1 string data = "..."
+   [522]
+    1 string data = "We should leave now. Our next <color=bad>meeting</color> is today at dusk."
+   [523]
+    1 string data = "Right."
+   [524]
+    1 string data = "The <color=bad>Dweller of Woe</color> isn't that powerful, you know we can take it."
+   [525]
+    1 string data = "Of course, but that other one no one knows about in a mountain that wipes memories? It's been growing for a long time."
+   [526]
+    1 string data = "The Acolytes could be bluffing."
+   [527]
+    1 string data = "Not given the knowledge they had of the matriarch. Plus it explains the seal."
+   [528]
+    1 string data = "..."
+   [529]
+    1 string data = "Can't you see this world is doomed regardless?"
+   [530]
+    1 string data = "Moraine never stopped being a mess, and the kids are way too young to be of any help."
+   [531]
+    1 string data = "I can't accept leaving [MAINCHAR] and [OFFCHAR] behind to die like this."
+   [532]
+    1 string data = "We will add a condition that they can go and live with you. Wouldn't you like that?"
+   [533]
+    1 string data = "What if they refuse?"
+   [534]
+    1 string data = "The Acolytes need us for the <color=bad>blood moon</color>. They'll have no choice but to accept."
+   [535]
+    1 string data = "Not them, I meant-"
+   [536]
+    1 string data = "Hey, wait!!"
+   [537]
+    1 string data = "Let's pretend for now. We'll talk later."
+   [538]
+    1 string data = "..."
+   [539]
+    1 string data = "There you are!"
+   [540]
+    1 string data = "Playing in your secret hideout again?"
+   [541]
+    1 string data = "We were training, I think I can use magic now!"
+   [542]
+    1 string data = "Is that so?"
+   [543]
+    1 string data = "We are gathered here today to honor <color=garl>Garl</color>, <color=garl>the Warrior Cook</color>."
+   [544]
+    1 string data = "Born in Mooncradle, he chose a life of adventure and accomplished many deeds."
+   [545]
+    1 string data = "From fighting alongside Solstice Warriors, to founding the peaceful town of Mirth--he even managed to soothe The Sleeper."
+   [546]
+    1 string data = "Yeah, you surely showed ‘em in the end, son. Good work."
+   [547]
+    1 string data = "Like a true Pirate Chef!"
+   [548]
+    1 string data = "This adventure won't be the same without ya, pal."
+   [549]
+    1 string data = "May he be remembered for his warm heart, his bravery, and his unrelenting smile."
+   [550]
+    1 string data = "MAY HE BE REMEMBERED!"
+   [551]
+    1 string data = "..."
+   [552]
+    1 string data = "Garl, you really were the best of us..."
+   [553]
+    1 string data = "I miss you so much already..."
+   [554]
+    1 string data = "..."
+   [555]
+    1 string data = "The world will hear the stories of your deeds for generations to come. This is my vow."
+   [556]
+    1 string data = "Thank you for teaching me, Master Garl."
+   [557]
+    1 string data = "I am glad you liked the kiln."
+   [558]
+    1 string data = "I still can't believe he spent all that time on the platform with just a monocle and a cookie jar."
+   [559]
+    1 string data = "He sure was a loyal friend."
+   [560]
+    1 string data = "The best..."
+   [561]
+    1 string data = "It has been a couple of weeks already. Are we leaving anytime soon, Captain?"
+   [562]
+    1 string data = "We are giving [MAINCHAR] and [OFFCHAR] as much time as they need."
+   [563]
+    1 string data = "Aye, must hurt something awful. Their bond was a special one."
+   [564]
+    1 string data = "Sure would hurt somethin' fierce to lose one of our own..."
+   [565]
+    1 string data = "But yer right, Valtraid. Their friendship was something else."
+   [566]
+    1 string data = "So, Captain, any ideas for our next adventure?"
+   [567]
+    1 string data = "Yes. The time has come."
+   [568]
+    1 string data = "Captain?"
+   [569]
+    1 string data = "..."
+   [570]
+    1 string data = "Oh, how exciting!"
+   [571]
+    1 string data = "Valere, I think I'm ready."
+   [572]
+    1 string data = "...I've been thinking about <color=bad>Erlina</color>."
+   [573]
+    1 string data = "No matter what kind of Fleshmancer monster she's become, we have to defeat her."
+   [574]
+    1 string data = "Wherever she is..."
+   [575]
+    1 string data = "Garl sure held up his end of the bargain. The Sky Giants Council will let us through, I suppose."
+   [576]
+    1 string data = ""Across the Sea of Stars," whatever that means..."
+   [577]
+    1 string data = "For Garl, then?"
+   [578]
+    1 string data = "For Garl."
+   [579]
+    1 string data = "With innocence lost and purpose reaffirmed, the powers of [MAINCHAR_GODNAME] and [OFFCHAR_GODNAME] start to awaken within [MAINCHAR] and [OFFCHAR]."
+   [580]
+    1 string data = "Zale learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-zale-solenslight"> <color=sun>Solen's Light: Salvation</color>."
+   [581]
+    1 string data = "Valere learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-valere-luanasmight"> <color=moon>Luana's Might: Retribution</color>."
+   [582]
+    1 string data = "So, y'all ready to avenge your friend?"
+   [583]
+    1 string data = "We are."
+   [584]
+    1 string data = "I'll be here."
+   [585]
+    1 string data = "Back to the sky council, then? We can go to the shrine right away if ya want."
+   [586]
+    1 string data = "Go now"
+   [587]
+    1 string data = "Go later"
+   [588]
+    1 string data = "Here lies <color=garl>Garl</color>, the Warrior Cook."
+   [589]
+    1 string data = "So this is the Warrior Cook's resting place?"
+   [590]
+    1 string data = "Yes. He always loved this tree."
+   [591]
+    1 string data = "He once made some very tasty jam using its sap."
+   [592]
+    1 string data = "Garl always made sure to prepare something for us..."
+   [593]
+    1 string data = "He sounds like a good friend."
+   [594]
+    1 string data = "The best."
+   [595]
+    1 string data = "The best."
+   [596]
+    1 string data = "Sorry you had to wait all this time, I thought it'd be instantaneous or something."
+   [597]
+    1 string data = "Anyway, thanks again B'st!"
+   [598]
+    1 string data = "Please don't mention it."
+   [599]
+    1 string data = "No way, I owe you big time!"
+   [600]
+    1 string data = "Guys, I... There's so much I wish I could share!"
+   [601]
+    1 string data = "I'm not allowed to talk about what I saw on the other side, but when I came back they said they would grant me one wish."
+   [602]
+    1 string data = "Did you pick a good one?"
+   [603]
+    1 string data = "Sure did! But it can wait--I want to be the one cooking for tonight."
+   [604]
+    1 string data = "My wish demands a bit of an errand though, so we don't HAVE to go for it if we don't have time. I'll tell you at camp later if you want."
+   [605]
+    1 string data = "Sounds good!"
+   [606]
+    1 string data = "Reunited with their best friend, [MAINCHAR] and [OFFCHAR] enjoy an evening of celebration, and feel a familiar warmth returning at last."
+   [607]
+    1 string data = "Juuust right!"
+   [608]
+    1 string data = "Ha! Right on time!"
+   [609]
+    1 string data = "Oh come on, don't be shy now!"
+   [610]
+    1 string data = "Need to rest?"
+   [611]
+    1 string data = "Yes"
+   [612]
+    1 string data = "No"
+   [613]
+    1 string data = "Sleep well."
+   [614]
+    1 string data = "Come back anytime!"
+   [615]
+    1 string data = "I sowed this small field all on my own. I'm really proud of it. "
+   [616]
+    1 string data = "It so sad that we lost Garl."
+   [617]
+    1 string data = "I heard Garl was back! Talk about MAGIC!"
+   [618]
+    1 string data = "It looks like there's something below there. I kind of want to check it out but I'm too afraid to climb down."
+   [619]
+    1 string data = "I miss Garl. He was always really nice to me..."
+   [620]
+    1 string data = "Garl came back from the dead? He's technically a zombie now, that's so cool!"
+   [621]
+    1 string data = "There's a fisherman in town, he said he was looking for a place to "settle.""
+   [622]
+    1 string data = "We're doing great on supplies!"
+   [623]
+    1 string data = "It's a real shame what happened to Garl. You'd only ever hear good things about him."
+   [624]
+    1 string data = "So, a pink glass thing comes out of his grave and... he's back? What is happening?"
+   [625]
+    1 string data = "Mooncradle is so peaceful. "
+   [626]
+    1 string data = "The entire village attended Garl's funeral. He was truly loved by everyone."
+   [627]
+    1 string data = "I didn't know Solstice Warriors could bring back the dead, that's incredible!"
+   [628]
+    1 string data = "Please don't look at the mess!"
+   [629]
+    1 string data = "Garl... That'll take a while to sink in..."
+   [630]
+    1 string data = "Garl was RESURRECTED!"
+   [631]
+    1 string data = "The crops will be good this year."
+   [632]
+    1 string data = "I'll be keeping Garl in my thoughts tonight. He deserved better."
+   [633]
+    1 string data = "And now he came back to life!? Is there anything Garl hasn't done?"
+   [634]
+    1 string data = "Take care of yourselves and don't overdo it, hmm? It does not do to push oneself too much."
+   [635]
+    1 string data = "Poor Garl... the world can be so cruel..."
+   [636]
+    1 string data = "I always knew you two were special, but I'd never have imagined you could bring Garl back!"
+   [637]
+    1 string data = "I still can't believe you are Solstice Warriors already! It feels like you just arrived a couple of years ago.  "
+   [638]
+    1 string data = "We're all in mourning."
+   [639]
+    1 string data = "Let's rejoice!"
+   [640]
+    1 string data = "Gran's food is amazing, I bet she taught Garl!"
+   [641]
+    1 string data = "I don't feel like doing anything today..."
+   [642]
+    1 string data = "Everyone was so happy to hear the good news!"
+   [643]
+    1 string data = "The crops are doing great as always. The stories about the soil having some magic to it must be true."
+   [644]
+    1 string data = "..."
+   [645]
+    1 string data = "Garl has returned! Somehow I'm able to find joy in my work again!"
+   [646]
+    1 string data = "I'm ready to get some SLEEP."
+   [647]
+    1 string data = "Zzz... Zzz..."
+   [648]
+    1 string data = "I'm descended from a long line of lucky ones who get to serve directly inside of the academy, yes I am!"
+   [649]
+    1 string data = "Erlina and Brugaves... They were always so nice to me, I don't know what to make of this..."
+   [650]
+    1 string data = "Hey, so you're nearing the end of your training! Are you excited?"
+   [651]
+    1 string data = "It's been feeling pretty empty here since you left."
+   [652]
+    1 string data = "Hey, it's good to see you two! Doing alright out there in the world?"
+   [653]
+    1 string data = "Oh, there you are. Moraine finally decided that you were ready?"
+   [654]
+    1 string data = "I remember when Erlina and Brugaves were your age--they wouldn't stop running!"
+   [655]
+    1 string data = "Ugh, I feel old now..."
+   [656]
+    1 string data = "Oh, hello there! I am a traveling fisherman currently looking to settle down. Now that I have seen it all, I would like to run a fishing house somewhere relaxing..."
+   [657]
+    1 string data = "The perfect place, you say? Well, I'll be! Onwards to <color=location>Mirth</color>, then!"
+   [658]
+    1 string data = "You can now fish at the new house in Mirth!"
+   [659]
+    1 string data = "This special lake will contain random selections from the species you've already caught."
+   [660]
+    1 string data = "Remember, young ones, the <color=magic>Celestial Willow</color> was a gift from the Great Eagle. Always treat it with respect."
+   [661]
+    1 string data = "These crops are our main source of food. It's hard work, but I am reminded every day when we all eat together that the effort is well worth it!"
+   [662]
+    1 string data = "I hope you're not getting into trouble again."
+   [663]
+    1 string data = "You really need to stop trying to open the Forbidden Cavern."
+   [664]
+    1 string data = "I know you wanted to catch Erlina and Brugaves, but it's starting to be late. Bedtime soon, okay?"
+   [665]
+    1 string data = "Hey there, younglings! Are you still playing in that little cave down below?"
+   [666]
+    1 string data = "Zzz... Zzz..."
+   [667]
+    1 string data = "Messy."
+   [668]
+    1 string data = "This shelf is especially well organized."
+   [669]
+    1 string data = "Just a bunch of old books... "
+   [670]
+    1 string data = "We never gave back the "treasure" we found as kids... Good memories."
+   [671]
+    1 string data = ""Sewing Basics.""
+   [672]
+    1 string data = "..."
+   [673]
+    1 string data = "Moraine's office. It's locked."
+   [674]
+    1 string data = "A rack filled with wooden training weapons. "
+   [675]
+    1 string data = "Ugh..."
+   [676]
+    1 string data = "I'm supposed to pile all the leaves onto that pile twigs for a fire later."
+   [677]
+    1 string data = "I wish the wind just took care of piling the leaves for me..."
+   [678]
+    1 string data = "Thanks again!"
+   [679]
+    1 string data = "Hey, you did it!"
+   [680]
+    1 string data = "Thank you so much for your help. Here, you can have this."
+   [681]
+    1 string data = "I have work to do in the field, but I can't because of all the thorns..."
+   [682]
+    1 string data = "No way, you cleared all the thorns?"
+   [683]
+    1 string data = "It's so nice of you to help like that, I see you haven't forgotten your roots!"
+   [684]
+    1 string data = "Get it? Roots?"
+   [685]
+    1 string data = "Anyway, here's a little something for you."
+   [686]
+    1 string data = "I'm eager to work in the field again. Thanks!"
+   [687]
+    1 string data = "Garl..."
+   [688]
+    1 string data = "It is quite sad that the Warrior Cook won't be sailing with us anymore..."
+   [689]
+    1 string data = "The Sea of Stars... Reckon Garl would've loved it..."
+   [690]
+    1 string data = "Ye hangin' in there? Losin' a crewmate never be easy..."

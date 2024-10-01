@@ -1,0 +1,28 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "CoralCascades_EN"
+ 1 string locCategoryId = "SleeperIsland/CoralCascades"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (7 items)
+   0 int size = 7
+   [0]
+    1 string data = "Oh, I seldom get any visitors here. Sorry about the mess. "
+   [1]
+    1 string data = "Port Town of Brisk <sprite="dialog-generic-icons" name="arrow-east">  "
+   [2]
+    1 string data = "Looking for a boat? Head over to the port town of Brisk and meet Captain Klee'shaë's crew!"
+   [3]
+    1 string data = "Boat, Ship, Boat, Ship, Boat, Ship, Boat, Ship, BRISK!"
+   [4]
+    1 string data = "There's no boat here. Better come to Brisk to the east!"
+   [5]
+    1 string data = "If you're looking for a boat, you're almost there."
+   [6]
+    1 string data = "Come find us at the docks in Brisk!"

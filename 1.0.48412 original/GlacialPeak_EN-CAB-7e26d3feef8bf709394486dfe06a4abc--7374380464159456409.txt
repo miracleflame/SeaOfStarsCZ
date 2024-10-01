@@ -1,0 +1,60 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "GlacialPeak_EN"
+ 1 string locCategoryId = "MesaIsland/GlacialPeak"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (23 items)
+   0 int size = 23
+   [0]
+    1 string data = "However you did it, you are foolish for showing up here."
+   [1]
+    1 string data = "Foolish, and cornered too!"
+   [2]
+    1 string data = "Your friends already tried acting tough, didn't you get their report?"
+   [3]
+    1 string data = "My, they truly are feisty!"
+   [4]
+    1 string data = "Feisty, and arrogant too!"
+   [5]
+    1 string data = "Come, then!"
+   [6]
+    1 string data = "Argh! You got lucky. Next time we will win."
+   [7]
+    1 string data = "Huff... huff... Win, and celebrate too!"
+   [8]
+    1 string data = "And don't come back!"
+   [9]
+    1 string data = "We're close, I can feel it."
+   [10]
+    1 string data = "Let's do this."
+   [11]
+    1 string data = "So much energy..."
+   [12]
+    1 string data = "It's the same kind of power as..."
+   [13]
+    1 string data = "How do we get out of here?"
+   [14]
+    1 string data = "This block could be melted, but the Celestial Rune is busted..."
+   [15]
+    1 string data = "??"
+   [16]
+    1 string data = "You can now control the Time of Day with <button=AdvanceTime>&<button=RewindTime> without needing to stand on a Celestial Rune."
+   [17]
+    1 string data = "Whoa! So you can just do this at will now??"
+   [18]
+    1 string data = "The amulet's resonance with our magic is really strong."
+   [19]
+    1 string data = "We got what we needed. Let's go back to Resh'an."
+   [20]
+    1 string data = "Teleport to the Archives?"
+   [21]
+    1 string data = "Yes"
+   [22]
+    1 string data = "No"

@@ -1,0 +1,232 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Skybase_EN"
+ 1 string locCategoryId = "Skybase/Skybase"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (109 items)
+   0 int size = 109
+   [0]
+    1 string data = "Sky Base... We made it."
+   [1]
+    1 string data = "What are we looking for?"
+   [2]
+    1 string data = "Whatever will stop the clouds being produced. There has to be a control room somewhere."
+   [3]
+    1 string data = "And if we find that damned <color=bad>Catalyst</color>..."
+   [4]
+    1 string data = "You got it."
+   [5]
+    1 string data = "!!!"
+   [6]
+    1 string data = "Over there! It's..."
+   [7]
+    1 string data = "INTRUDERS IN THE COMMAND CENTER"
+   [8]
+    1 string data = "ENGAGING COMBAT MODE"
+   [9]
+    1 string data = "The Catalyst..."
+   [10]
+    1 string data = "Ready, Zale?"
+   [11]
+    1 string data = "You bet!"
+   [12]
+    1 string data = "..."
+   [13]
+    1 string data = "Seraï! Are you okay?"
+   [14]
+    1 string data = "I... remember now..."
+   [15]
+    1 string data = "<color=bad>Soul Curator</color>..."
+   [16]
+    1 string data = "Huh? What happened?"
+   [17]
+    1 string data = "It doesn't matter right now. Let's check the control module."
+   [18]
+    1 string data = "This has to be what's creating the clouds, but..."
+   [19]
+    1 string data = "I've never seen anything so intricate."
+   [20]
+    1 string data = "Cedric. Tell me you've got something."
+   [21]
+    1 string data = "Scanning..."
+   [22]
+    1 string data = "Negative. Encryption level too high."
+   [23]
+    1 string data = "..."
+   [24]
+    1 string data = "I can't use this!"
+   [25]
+    1 string data = "..."
+   [26]
+    1 string data = "B'st?"
+   [27]
+    1 string data = "Apologies, Seraï. My people were builders and magicians."
+   [28]
+    1 string data = "The wonders of technology are a mystery to me."
+   [29]
+    1 string data = "We were so close..."
+   [30]
+    1 string data = "I beg your pardon. A word, if I may?"
+   [31]
+    1 string data = "Hey, look over here!"
+   [32]
+    1 string data = "The Catalyst is still alive!?"
+   [33]
+    1 string data = "Please! One moment!"
+   [34]
+    1 string data = "I am not evil. I was forced to operate within the Catalyst against my will."
+   [35]
+    1 string data = "And I must say I had quite an awful time of it."
+   [36]
+    1 string data = "Can you help stop the clouds?"
+   [37]
+    1 string data = "Believe me, I wish I could."
+   [38]
+    1 string data = "But alas, the only function I have access to is the one used to attach souls to machines."
+   [39]
+    1 string data = "..."
+   [40]
+    1 string data = "My data bank does contain plenty of schematics related to Sky Base, however."
+   [41]
+    1 string data = "Can you give them to us?"
+   [42]
+    1 string data = "I'm afraid everything is encrypted. Access is virtually impossible."
+   [43]
+    1 string data = "Oh yeah?"
+   [44]
+    1 string data = "I wonder if I just..."
+   [45]
+    1 string data = "Haha! It worked?"
+   [46]
+    1 string data = "..."
+   [47]
+    1 string data = "Hmm... So, just a bunch of documentation and intricate designs..."
+   [48]
+    1 string data = "There's nothing in here about operating the console directly."
+   [49]
+    1 string data = "Tech-savvy engineers may infer core function based on blueprints and schematics."
+   [50]
+    1 string data = "Recommended action: find someone smarter."
+   [51]
+    1 string data = "Hahaha!"
+   [52]
+    1 string data = "Hey, how about Caël and his friends at the Clockwork Castle?"
+   [53]
+    1 string data = "They're pretty good at this kind of stuff, right?"
+   [54]
+    1 string data = "Worth a shot."
+   [55]
+    1 string data = "It's a lead. Maybe they can hack into the AI Core, too."
+   [56]
+    1 string data = "You're coming with us."
+   [57]
+    1 string data = "Please be gentle!"
+   [58]
+    1 string data = "Okay, time to return to our home world for a bit."
+   [59]
+    1 string data = "The entrance to the Sea of Stars is to the southeast of the Sacrosanct Spires."
+   [60]
+    1 string data = "There's a speedball station close to it, too. Let us make haste!"
+   [61]
+    1 string data = "(I see...)"
+   [62]
+    1 string data = "(How about faking this packet?)"
+   [63]
+    1 string data = "(Good thinking, Spike.)"
+   [64]
+    1 string data = "(And now here...)"
+   [65]
+    1 string data = "(Too easy. This can't be it already.)"
+   [66]
+    1 string data = "(Just try operating a door and we'll know.)"
+   [67]
+    1 string data = "(Oh, there's the other security layer.)"
+   [68]
+    1 string data = "(Pfff! It'll take more than that to stop us.)"
+   [69]
+    1 string data = "(How about this socket?)"
+   [70]
+    1 string data = "(On it.)"
+   [71]
+    1 string data = "(Credentials decrypted.)"
+   [72]
+    1 string data = "(Obvious fakes.)"
+   [73]
+    1 string data = "(Hey, look at that.)"
+   [74]
+    1 string data = "(Oh yeah, blatant weakness.)"
+   [75]
+    1 string data = "(Simple marshalling job, and...)"
+   [76]
+    1 string data = "(We're in!)"
+   [77]
+    1 string data = "(Now to disengage the cloud emitters.)"
+   [78]
+    1 string data = "(Hey, let's make it rain on The Fleshmancer's castle while we're at it!)"
+   [79]
+    1 string data = "(Haha, that'll ruin his day!)"
+   [80]
+    1 string data = "(It will take a while for them to fully disperse, but let's make sure the first ray of sun hits just right...)"
+   [81]
+    1 string data = "(Aaaaand... done!)"
+   [82]
+    1 string data = "(Good work, everyone.)"
+   [83]
+    1 string data = "I can feel my power surging!"
+   [84]
+    1 string data = "You did it, Artificer!"
+   [85]
+    1 string data = "Haha! I'm the best!"
+   [86]
+    1 string data = "(Hey, do the thing!)"
+   [87]
+    1 string data = "(Oh, right!)"
+   [88]
+    1 string data = "Yes, I did it!"
+   [89]
+    1 string data = "We finally have a shot..."
+   [90]
+    1 string data = "Arty, thank you so much!"
+   [91]
+    1 string data = "Hey, don't mention it!"
+   [92]
+    1 string data = "It was the right thing to do, plus it got us out of our prison!"
+   [93]
+    1 string data = "Well said. And well done."
+   [94]
+    1 string data = "I feel strong enough to go after the <color=bad>Dweller of Dread</color> now. How about you, Zale?"
+   [95]
+    1 string data = "Oh yeah. Time for a cleansing."
+   [96]
+    1 string data = "Its lair is <color=location>by the moon</color>. We can sail close to it and dive down."
+   [97]
+    1 string data = "Teamwork. Nothing like it."
+   [98]
+    1 string data = "I've got more tinkering to do over here. Be safe!"
+   [99]
+    1 string data = "Good luck with the Dweller!"
+   [100]
+    1 string data = "~ There is nothing we can do. Let's go see if Cael can do anything."
+   [101]
+    1 string data = "West wing sustained heavy damage after collision with an asteroid."
+   [102]
+    1 string data = "Area in lockdown for crew's safety."
+   [103]
+    1 string data = "Override."
+   [104]
+    1 string data = "Denied. Emergency measures may not be overridden."
+   [105]
+    1 string data = "Let's keep going."
+   [106]
+    1 string data = "North wing pressure stabilized. Access granted."
+   [107]
+    1 string data = "The airlock isn't connected."
+   [108]
+    1 string data = "3D PRINTER VENDING MACHINE ONLINE PLEASE MAKE YOUR SELECTION"

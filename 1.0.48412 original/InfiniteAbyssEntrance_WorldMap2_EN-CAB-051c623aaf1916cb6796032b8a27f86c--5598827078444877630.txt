@@ -1,0 +1,22 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "InfiniteAbyssEntrance_WorldMap2_EN"
+ 1 string locCategoryId = "InfiniteAbyssEntrance/InfiniteAbyssEntrance_WorldMap2"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (4 items)
+   0 int size = 4
+   [0]
+    1 string data = "With their true power unleashed, [MAINCHAR] and [OFFCHAR] can now fly on the world map."
+   [1]
+    1 string data = "Move around with <button=MoveAll> and press <button=Interact"> to lift off or land on clear surfaces."
+   [2]
+    1 string data = "You can also explore previously inaccessible areas."
+   [3]
+    1 string data = "When you feel ready, The Fleshmancer's castle awaits for the final confrontation."

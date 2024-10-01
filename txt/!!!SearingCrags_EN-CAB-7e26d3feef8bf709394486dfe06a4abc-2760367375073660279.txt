@@ -1,0 +1,64 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "SearingCrags_EN"
+ 1 string locCategoryId = "MesaIsland/SearingCrags"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (25 items)
+   0 int size = 25
+   [0]
+    1 string data = "We made it."
+   [1]
+    1 string data = "The Clockwork Castle."
+   [2]
+    1 string data = "The Dweller of Strife is somewhere in there. Let's find it."
+   [3]
+    1 string data = "You!"
+   [4]
+    1 string data = "We are bound by oath not to let you enter the Acolytes headquarters."
+   [5]
+    1 string data = "What about your oath as Solstice Warriors?"
+   [6]
+    1 string data = "That one was not taken willingly."
+   [7]
+    1 string data = "Zale, please hear me out."
+   [8]
+    1 string data = "Step aside right now."
+   [9]
+    1 string data = "Stick to the plan. The Dweller will knock some sense into them."
+   [10]
+    1 string data = "..."
+   [11]
+    1 string data = "Fine."
+   [12]
+    1 string data = "Last chance to surrender, Valerie."
+   [13]
+    1 string data = "Forget it!"
+   [14]
+    1 string data = "Then it brings me no joy, but we must buy the Acolytes more time for the waking ritual."
+   [15]
+    1 string data = "Do your worst!"
+   [16]
+    1 string data = "Bring it on!"
+   [17]
+    1 string data = "Ahem uh hey, I... think we better sit this one out."
+   [18]
+    1 string data = "Obviously."
+   [19]
+    1 string data = "This should be enough."
+   [20]
+    1 string data = "You can still join us if-"
+   [21]
+    1 string data = "Don't you dare!"
+   [22]
+    1 string data = "Go away!"
+   [23]
+    1 string data = "..."
+   [24]
+    1 string data = "Let's go."

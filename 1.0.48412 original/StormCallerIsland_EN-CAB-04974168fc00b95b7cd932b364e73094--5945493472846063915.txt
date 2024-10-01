@@ -1,0 +1,56 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "StormCallerIsland_EN"
+ 1 string locCategoryId = "SeaOfNightmare/StormCallerIsland"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (21 items)
+   0 int size = 21
+   [0]
+    1 string data = "The tide brings trespassers to my realm..."
+   [1]
+    1 string data = "We have come to free The Vespertine from your curse."
+   [2]
+    1 string data = "Oh, is this how landlubbers refer to my ship now?"
+   [3]
+    1 string data = "Who cares! We are ending this now!"
+   [4]
+    1 string data = "..."
+   [5]
+    1 string data = "And so it is that my reign is challenged once more."
+   [6]
+    1 string data = "I am Stormcaller."
+   [7]
+    1 string data = "The sea of nightmare corrupts all, and in time, consumes all."
+   [8]
+    1 string data = "If you would try your luck make sure your aim is true..."
+   [9]
+    1 string data = "FOR NOW THE STORM CALLS FOR YOU!"
+   [10]
+    1 string data = "NOOOOOOOOOOOOOOOOOOO!!!"
+   [11]
+    1 string data = "Phew... We did it..."
+   [12]
+    1 string data = "The tremors are too strong! We have to get out of here!"
+   [13]
+    1 string data = "To the ship!"
+   [14]
+    1 string data = "Aye, just throw <color=magic>this pearl</color> into the water where ye fought Stormcaller."
+   [15]
+    1 string data = "And here's a lil' something fer the fight. Best ov luck!"
+   [16]
+    1 string data = "Need anything?"
+   [17]
+    1 string data = "Okay, here goes nothing."
+   [18]
+    1 string data = "Garl was right. This scale will produce Magic Dew."
+   [19]
+    1 string data = "Let's go back to Mirth. Time for the great harvest."
+   [20]
+    1 string data = "We must hurry to Hydralion."

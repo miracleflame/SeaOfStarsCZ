@@ -1,0 +1,144 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "CursedWood_EN"
+ 1 string locCategoryId = "WraithIsland/CursedWood"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (65 items)
+   0 int size = 65
+   [0]
+    1 string data = "There he is!"
+   [1]
+    1 string data = "HEY, WAIT!!"
+   [2]
+    1 string data = "Gah! Where's that strength coming from!?"
+   [3]
+    1 string data = "Huff... huff..."
+   [4]
+    1 string data = "..."
+   [5]
+    1 string data = "We failed..."
+   [6]
+    1 string data = "But..."
+   [7]
+    1 string data = "The Dweller's grasp is too strong..."
+   [8]
+    1 string data = "The Captain was right..."
+   [9]
+    1 string data = "Can't we go in? Maybe it's not too late!"
+   [10]
+    1 string data = "No way we'd break that barrier! Even the Headmaster will need the eclipse to get us through."
+   [11]
+    1 string data = "So we just... give up?"
+   [12]
+    1 string data = "..."
+   [13]
+    1 string data = "If we die in vain we can't help anyone."
+   [14]
+    1 string data = "..."
+   [15]
+    1 string data = "You're right."
+   [16]
+    1 string data = "And maybe it won't be too late by the time you do the cleansing?"
+   [17]
+    1 string data = "(...)"
+   [18]
+    1 string data = "(...)"
+   [19]
+    1 string data = "Let's head back for now, I've sure had enough of these woods."
+   [20]
+    1 string data = "Another one already?"
+   [21]
+    1 string data = "Maybe we made it angry by trying to help... We should have listened..."
+   [22]
+    1 string data = "Garl?"
+   [23]
+    1 string data = "GARL!? NO!"
+   [24]
+    1 string data = "VALERE, HANG ON!!"
+   [25]
+    1 string data = "THAT'S NOT FAIR! YOU CAN'T TAKE HIM!!"
+   [26]
+    1 string data = "HEY!!!"
+   [27]
+    1 string data = "I was hoping we would meet under different circumstances..."
+   [28]
+    1 string data = "Explain yourself right now!"
+   [29]
+    1 string data = "..."
+   [30]
+    1 string data = "I am not your enemy."
+   [31]
+    1 string data = "I used numbing poison to paralyse your friend's body. It was either that or letting him walk through that gate."
+   [32]
+    1 string data = "..."
+   [33]
+    1 string data = "It's a longshot, but if we hurry we might be able to fetch a <color=magic>soul stone</color>."
+   [34]
+    1 string data = "A soul stone?"
+   [35]
+    1 string data = "Enchanted gems that dispel powerful curses."
+   [36]
+    1 string data = "<color=bad>Someone</color> on this island uses them to remain free of the Dweller's grasp."
+   [37]
+    1 string data = "If we get one, it should consume the mind control spell on your friend."
+   [38]
+    1 string data = "I know just the place, but..."
+   [39]
+    1 string data = "Well, what are we waiting for then?"
+   [40]
+    1 string data = "I wish I had more time to explain..."
+   [41]
+    1 string data = "Zale, are you okay?"
+   [42]
+    1 string data = "I..."
+   [43]
+    1 string data = "Yes, we need to find a soul stone."
+   [44]
+    1 string data = "First let's take him back to the inn."
+   [45]
+    1 string data = "..."
+   [46]
+    1 string data = "We have to hurry. Over here."
+   [47]
+    1 string data = "This shortcut will help."
+   [48]
+    1 string data = "A mysterious assassin joins the party!"
+   [49]
+    1 string data = "If it's always dark here, how will we know when the eclipse happens?"
+   [50]
+    1 string data = "You'll know..."
+   [51]
+    1 string data = "..."
+   [52]
+    1 string data = "The curse of the Night Shroud is strong, but it won't withstand the eclipse."
+   [53]
+    1 string data = "Can't wait to see that!"
+   [54]
+    1 string data = "Any moment now..."
+   [55]
+    1 string data = "!?"
+   [56]
+    1 string data = "Valere?"
+   [57]
+    1 string data = "The time has come!"
+   [58]
+    1 string data = "Solstice Warriors, channel through me!"
+   [59]
+    1 string data = "THAT WAS AWESOME!!!"
+   [60]
+    1 string data = "Quickly now. Our window is short."
+   [61]
+    1 string data = "Your friend doesn't have much time. Let's use the shortcut to the right."
+   [62]
+    1 string data = "There's no time. We must hurry back to Lucent."
+   [63]
+    1 string data = "Brambles are blocking the way. We should find their source."
+   [64]
+    1 string data = "Manor <sprite="dialog-generic-icons" name="arrow-north">\nLucent <sprite="dialog-generic-icons" name="arrow-south">"
