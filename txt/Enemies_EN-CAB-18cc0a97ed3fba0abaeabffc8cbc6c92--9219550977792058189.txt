@@ -35,7 +35,7 @@
    [10]
     1 string data = "Slídič"
    [11]
-    1 string data = "Dweller muk"
+    1 string data = "Přiživovač muk"
    [12]
     1 string data = "Rochèvre"
    [13]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "Bosslimák"
    [15]
-    1 string data = "Tern"
+    1 string data = "'Cerna"
    [16]
     1 string data = "Mlžný stařešina"
    [17]
@@ -63,7 +63,7 @@
    [24]
     1 string data = "Malkomud"
    [25]
-    1 string data = "Salamander"
+    1 string data = "Salamandr"
    [26]
     1 string data = "Bushtroo"
    [27]
@@ -103,9 +103,9 @@
    [44]
     1 string data = "Gulgul"
    [45]
-    1 string data = "Dweller žalu"
+    1 string data = "Přiživovač žalu"
    [46]
-    1 string data = "Dweller žalu"
+    1 string data = "Přiživovač žalu"
    [47]
     1 string data = "Revenant"
    [48]
@@ -117,9 +117,9 @@
    [51]
     1 string data = "Stormcaller"
    [52]
-    1 string data = "Melee cápek"
+    1 string data = "Rváčka"
    [53]
-    1 string data = "Střelec cápek"
+    1 string data = "Střelecký cápek"
    [54]
     1 string data = "Prapra"
    [55]
@@ -137,7 +137,7 @@
    [61]
     1 string data = "Rochecrossidere"
    [62]
-    1 string data = "Dweller muk"
+    1 string data = "Přiživovač muk"
    [63]
     1 string data = "Pravá ruka"
    [64]
@@ -181,7 +181,7 @@
    [83]
     1 string data = "Věž"
    [84]
-    1 string data = "Dweller sváru"
+    1 string data = "Přiživovač sváru"
    [85]
     1 string data = "Oční bulva"
    [86]
@@ -195,11 +195,11 @@
    [90]
     1 string data = "Kanistr"
    [91]
-    1 string data = "Dweller hrůzy"
+    1 string data = "Přiživovač hrůzy"
    [92]
     1 string data = "Chapadlo"
    [93]
-    1 string data = "Skaut"
+    1 string data = "Průzkumník"
    [94]
     1 string data = "Bohyně zbraní"
    [95]
@@ -211,7 +211,7 @@
    [98]
     1 string data = "Yinke"
    [99]
-    1 string data = "Převáděč"
+    1 string data = "Opakovačka"
    [100]
     1 string data = "Salvač"
    [101]
@@ -223,7 +223,7 @@
    [104]
     1 string data = "Drapák Matsa'krun"
    [105]
-    1 string data = "Švec"
+    1 string data = "Sešívač"
    [106]
     1 string data = "Kurátor duší"
    [107]
@@ -239,11 +239,11 @@
    [112]
     1 string data = "Elysan'darëlle"
    [113]
-    1 string data = "Krabolo"
+    1 string data = "Croustalion"
    [114]
     1 string data = "Mokladnice"
    [115]
-    1 string data = "Appendáž"
+    1 string data = "Končetina"
    [116]
     1 string data = "Semeno"
    [117]
