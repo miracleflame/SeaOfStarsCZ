@@ -31,9 +31,9 @@
    [8]
     1 string data = "B'st"
    [9]
-    1 string data = "Tanečník čepele narozený o letním slunovratu.<br>Kráčí po stezce <color=sun>Strážného Boha Solena</color>."
+    1 string data = "Tanečník čepele narozený o letním slunovratu.<br>Kráčí po stezce <color=sun>Solena, Božského Ochránce</color>."
    [10]
-    1 string data = "Mniška narozená o zimním slunovratu.<br>Kráčí po stezce <color=#A4E4FC>Strážné Bohyně Luany</color>."
+    1 string data = "Mniška narozená o zimním slunovratu.<br>Kráčí po stezce <color=#A4E4FC>Luany, Božské Ochránkyně</color>."
    [11]
     1 string data = "Solární tanečník čepele"
    [12]

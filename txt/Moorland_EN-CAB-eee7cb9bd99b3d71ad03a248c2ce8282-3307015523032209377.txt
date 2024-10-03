@@ -37,11 +37,11 @@
    [11]
     1 string data = "Je to fascinující!"
    [12]
-    1 string data = "Tyhle runy jsou ten nejstarší typ písma, který známe."
+    1 string data = "Tyhle runy jsou ten nejstarší typ písma, který nám je znám."
    [13]
-    1 string data = "A kdo jste to ti "vy"?"
+    1 string data = "Komu "nám"?"
    [14]
-    1 string data = "No přece <color=good>Potulní historici</color>!"
+    1 string data = "No přece <color=good>Potulním historikům</color>!"
    [15]
     1 string data = "Nebo aspoň to, co z nich zbylo..."
    [16]
@@ -121,17 +121,17 @@
    [53]
     1 string data = "Takže ty jsi z Potulných historiků ta úplně poslední?"
    [54]
-    1 string data = "V současné době by se snad dalo říct, že jsem první. Už je to hrozně dávno, co byly všechny <color=magic>Příběhové grimoáry</color> spáleny."
+    1 string data = "V současné době by se snad dalo říct, že jsem první. Už je to hrozně dávno, co byly všechny <color=magic>Grimoáry pověstí</color> spáleny."
    [55]
-    1 string data = "Příběhové co?"
+    1 string data = "Cože to?"
    [56]
-    1 string data = "Grimoáry. Každý Potulný historik má svůj vlastní. Nebo spíš měl..."
+    1 string data = "Grimoáry pověstí. Každý Potulný historik má svůj vlastní. Nebo spíš měl..."
    [57]
     1 string data = "Jsou to očarované knihy, co se píšou samy po styku s artefakty, ke kterým se váže nějaký příběh."
    [58]
-    1 string data = "Whoa!"
+    1 string data = "Wou!"
    [59]
-    1 string data = "Potulní historici mají poslání své příběhové grimoáry co nejvíce vyplnit, než je předají dál nováčkům."
+    1 string data = "Potulní historici mají poslání své Grimoáry pověstí co nejvíce naplnit, než je předají dál nováčkům."
    [60]
     1 string data = "Dříve nás býval celý cech, ale v současnosti se o to zajímám jako jediná..."
    [61]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Povídej."
    [63]
-    1 string data = "No, víte, pro Potulné historiky je splněný sen znát dobrodruhy, kteří pro ně prozkoumávají."
+    1 string data = "No, víte, pro Potulné historiky je to splněný sen znát dobrodruhy, kteří pro ně prozkoumávají."
    [64]
     1 string data = "Nemám vám jak zaplatit, ale..."
    [65]
@@ -153,23 +153,23 @@
    [69]
     1 string data = "Příběhy u táboráku? Tak to si rád poslechnu!"
    [70]
-    1 string data = "Paráda! Prostě mi ty nalezené artefakty přineste a uvidíme, co na to můj Příběhový grimoár!"
+    1 string data = "Paráda! Stačí, když ty nalezené artefakty přinesete a uvidíme, co na to můj Griomár pověstí!"
    [71]
     1 string data = "Kolik příběhů zatím máš?"
    [72]
-    1 string data = "Jenom jeden. Grimoár byl prázdný, když jsem ho našla, ale to mi nevadí...Plánuju objevit dost k popsání celého svazku!"
+    1 string data = "Jenom jeden. Grimoár byl prázdný, když jsem ho našla, ale to mi nevadí...Plánuju toho objevit dost k napsání celého svazku!"
    [73]
     1 string data = "To je ale elán!"
    [74]
     1 string data = "První příběh se napsal, když jsem narazila na velmi starou pirátskou náušnici."
    [75]
-    1 string data = "V tu chvíli mi bylo jasné, že v rukou držím pravý Příběhový grimoár. Věřilo se, že jsou nadobro pryč!"
+    1 string data = "V tu chvíli mi bylo jasné, že v rukou držím pravý Grimoár pověstí. Věřilo se, že jsou nadobro pryč!"
    [76]
     1 string data = "O čem ten příběh je?"
    [77]
     1 string data = "O přízračné pirátské lodi jménem <color=bad>Večernice</color>."
    [78]
-    1 string data = "Oooooh!"
+    1 string data = "Úúú!"
    [79]
     1 string data = "Klidně vám ho přečtu, jestli chcete, stačí říct!"
    [80]
@@ -195,7 +195,7 @@
    [90]
     1 string data = "Čím víc, tím líp!"
    [91]
-    1 string data = "Teaks se přidává do nákladu!"
+    1 string data = "Teaks se přidává do družiny!"
    [92]
     1 string data = "So you are willing to hear us out this time?"
    [93]
