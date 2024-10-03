@@ -13,26 +13,26 @@
   1 Array Array (12 items)
    0 int size = 12
    [0]
-    1 string data = "You caught [CAUGHT_FISH_TEXT]!"
+    1 string data = "Váš úlovek je [CAUGHT_FISH_TEXT]!"
    [1]
-    1 string data = "Fillet [FILLET_REWARD]"
+    1 string data = "Filé [FILLET_REWARD]"
    [2]
-    1 string data = "Release"
+    1 string data = "Pustit"
    [3]
-    1 string data = "You caught [CAUGHT_FISH_TEXT]!"
+    1 string data = "Váš úlovek je [CAUGHT_FISH_TEXT]!"
    [4]
-    1 string data = "Watcher's Pond"
+    1 string data = "Strážní rybník"
    [5]
-    1 string data = "Fishing basics."
+    1 string data = "Základy rybolovu."
    [6]
-    1 string data = "Press <button="Interact"> to <color=magic>cast</color>. Casting is always at full power."
+    1 string data = "Stiskněte <button="Interact"> pro <color=magic>nahození</color>. Nahození je pokaždé naplno."
    [7]
-    1 string data = "While airborne, <color=magic>steer</color> the bobber with <button="Player_MoveHorizontal"> and press <button="Interact"> to <color=magic>kick</color> it into the water."
+    1 string data = "Během letu ve vzduchu <color=magic>usměrníte</color> plovák pomocí <button="Player_MoveHorizontal"> a stisknutím <button="Interact"> jej <color=magic>strhnete</color> do vody."
    [8]
-    1 string data = "If the bobber touches water close to a fish, it's a <color=magic>hook</color>!"
+    1 string data = "Pokud se plovák nachází v blízkosti ryby, ta <color=magic>zabere</color>!".
    [9]
-    1 string data = "While hooked, <color=magic>steer</color> the fish with <button="Player_MoveHorizontal"> and press and hold <button="Interact"> to <color=magic>reel while it is in the zone</color>."
+    1 string data = "Když ryba bere, <color=magic>usměrníte ji do stran pomocí <button="Player_MoveHorizontal"> a stisknutím a podržením <button="Interact"> ji <color=magic>navíjíte, dokud je v zóně</color>."
    [10]
-    1 string data = "Be careful not to reel outside of the zone, otherwise the line will <color=bad>break</color>."
+    1 string data = "Dávejte pozor, abyste nenavíjeli mimo zónu, jinak se vlasec <color=bad>přetrhne</color>."
    [11]
-    1 string data = "Reel the fish all the way to the dock and it's a <color=magic>catch</color>!"
+    1 string data = "Navíjejte rybu až k molu, kde ji <color=magic>úlovíte</color>!"

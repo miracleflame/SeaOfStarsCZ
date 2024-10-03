@@ -79,11 +79,11 @@
    [32]
     1 string data = "Rybaření - nahazování"
    [33]
-    1 string data = "Stiskněte <button="Interact"> abyste <color=menuhighlight>nahodili</color>. Nahazování probíhá vždy na plný výkon. Během letu <color=menuhighlight>usměrněte</color> plovák pomocí <button="MoveHorizontal"> a stisknutím <button="Interact"> jej <color=menuhighlight>strhnete</color> do vody."
+    1 string data = "Stiskněte <button="Interact"> abyste <color=menuhighlight>nahodili</color>. Nahození je pokaždé naplno. Během letu <color=menuhighlight>usměrníte</color> plovák pomocí <button="MoveHorizontal"> a stisknutím <button="Interact"> jej <color=menuhighlight>strhnete</color> do vody."
    [34]
     1 string data = "Rybaření - záběr a navíjení"
    [35]
-    1 string data = "Pokud se plovák nachází v blízkosti ryby, ta <color=menuhighlight>zabere</color>! Když ryba bere, <color=menuhighlight>řidíte</color> ji do stran pomocí <button="MoveHorizontal"> a stisknutím a podržením <button="Interact"> ji <color=menuhighlight>navíjíte, dokud je v zóně</color>."
+    1 string data = "Pokud se plovák nachází v blízkosti ryby, ta <color=menuhighlight>zabere</color>! Když ryba bere, <color=menuhighlight>usměrníte</color> ji do stran pomocí <button="MoveHorizontal"> a stisknutím a podržením <button="Interact"> ji <color=menuhighlight>navíjíte, dokud je v zóně</color>."
    [36]
     1 string data = "Rybaření - navinutí a úlovek"
    [37]

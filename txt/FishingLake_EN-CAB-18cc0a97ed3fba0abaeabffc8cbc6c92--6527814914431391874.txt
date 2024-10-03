@@ -13,6 +13,6 @@
   1 Array Array (2 items)
    0 int size = 2
    [0]
-    1 string data = "Hey there! Were you looking for anything in particular?"
+    1 string data = "Ahoj! Hledáte něco konkrétního?"
    [1]
-    1 string data = "Feel free to fish, this here lake is a bountiful one!"
+    1 string data = "Neváhejte a rybařte, tohle jezero je bohaté na ryby!"
