@@ -41,9 +41,9 @@
    [13]
     1 string data = "Komu "nám"?"
    [14]
-    1 string data = "No přece <color=good>Potulním historikům</color>!"
+    1 string data = "No přece <color=good>Potulným historikům</color>!"
    [15]
-    1 string data = "Nebo aspoň to, co z nich zbylo..."
+    1 string data = "Nebo aspoň tomu, co z nich zbylo..."
    [16]
     1 string data = "No to snad ne! Ty jsi Potulná historička?"
    [17]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Povídej."
    [63]
-    1 string data = "No, víte, pro Potulné historiky je to splněný sen znát dobrodruhy, kteří pro ně prozkoumávají."
+    1 string data = "No, víte, pro Potulné historiky je to splněný sen, znát dobrodruhy, kteří pro ně prozkoumávají."
    [64]
     1 string data = "Nemám vám jak zaplatit, ale..."
    [65]
@@ -195,7 +195,7 @@
    [90]
     1 string data = "Čím víc, tím líp!"
    [91]
-    1 string data = "Teaks se přidává do družiny!"
+    1 string data = "Teaks se přidává na palubu!"
    [92]
     1 string data = "So you are willing to hear us out this time?"
    [93]
