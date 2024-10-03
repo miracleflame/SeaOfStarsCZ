@@ -43,7 +43,7 @@
    [14]
     1 string data = "Kámen nekromantky"
    [15]
-    1 string data = "Přiživovač žalu"
+    1 string data = "Přiživovačka žalu"
    [16]
     1 string data = "Kataklyzma"
    [17]

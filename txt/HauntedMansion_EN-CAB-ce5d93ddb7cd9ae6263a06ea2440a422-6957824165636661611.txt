@@ -31,7 +31,7 @@
    [8]
     1 string data = "Já budu nahoře pracovat na prolomení poslední bariéry."
    [9]
-    1 string data = "Až budete hotovi, připojte se ke mně a společně zbavíme svět Přiživovače žalu jednou provždy."
+    1 string data = "Až budete hotovi, připojte se ke mně a společně zbavíme svět Přiživovačky žalu jednou provždy."
    [10]
     1 string data = "Hodně štěstí, Bojovníci Slunovratu!"
    [11]
@@ -61,7 +61,7 @@
    [23]
     1 string data = "Porazili jste Zahradní zrůdu, dobrá práce."
    [24]
-    1 string data = "Přiživovač žalu je za touto bariérou. Všichni se mnou!"
+    1 string data = "Přiživovačka žalu je za touto bariérou. Všichni se mnou!"
    [25]
     1 string data = "Milý Garle, tvá odvaha je sice obdivuhodná, ale tento souboj opravdu budeš muset vynechat."
    [26]
@@ -69,7 +69,7 @@
    [27]
     1 string data = "Na místa!"
    [28]
-    1 string data = "Runa, kterou jsem připravil, donutí Přiživovače žalu se zjevit. Budu se muset neustále soustředit, aby byla zranitelná."
+    1 string data = "Runa, kterou jsem připravil, donutí Přiživovačku žalu se zjevit. Budu se muset neustále soustředit, aby byla zranitelná."
    [29]
     1 string data = "Věřím, že mě ochráníte a to zlé stvoření skolíte!"
    [30]

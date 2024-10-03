@@ -407,7 +407,7 @@
    [196]
     1 string data = "Kolik Přiživovačů ještě zbývá?"
    [197]
-    1 string data = "Pouze jeden, známý jako <color=bad>Přiživovač žalu</color>. Ale to nemůžeme vědět jistě..."
+    1 string data = "Pouze jeden, známý jako <color=bad>Přiživovačka žalu</color>. Ale to nemůžeme vědět jistě..."
    [198]
     1 string data = "Karnimant mohl před odchodem z našeho světa jednoduše zasít další <color=bad>semena zla</color>..."
    [199]

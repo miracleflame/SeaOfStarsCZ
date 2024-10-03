@@ -103,9 +103,9 @@
    [44]
     1 string data = "Gulgul"
    [45]
-    1 string data = "Přiživovač žalu"
+    1 string data = "Přiživovačka žalu"
    [46]
-    1 string data = "Přiživovač žalu"
+    1 string data = "Přiživovačka žalu"
    [47]
     1 string data = "Revenant"
    [48]
