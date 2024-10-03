@@ -645,7 +645,7 @@
    [315]
     1 string data = "Účinky"
    [316]
-    1 string data = "Náklad"
+    1 string data = "Paluba"
    [317]
     1 string data = "<button="UI_Confirm"> Sundat"
    [318]
