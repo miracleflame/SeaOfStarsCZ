@@ -63,7 +63,7 @@
    [24]
     1 string data = "Přístavní město Brisk"
    [25]
-    1 string data = "Opuštěná laboratoř čaroděje"
+    1 string data = "Opuštěná laboratoř černokněžníka"
    [26]
     1 string data = "Výtah"
    [27]

@@ -43,7 +43,7 @@
    [14]
     1 string data = "+[AMOUNT] Magická Obrana"
    [15]
-    1 string data = "Vybrat bonus do vlastností"
+    1 string data = "Vyberte bonus do vlastností"
    [16]
     1 string data = "BŽ"
    [17]
@@ -537,7 +537,7 @@
    [261]
     1 string data = "Tak fajn, jde se kuchtit!"
    [262]
-    1 string data = "Koukněte, něčemu se přiučíte!"
+    1 string data = "Dívejte se a něčemu se přiučíte!"
    [263]
     1 string data = "Dobrá, tak se na to podíváme..."
    [264]

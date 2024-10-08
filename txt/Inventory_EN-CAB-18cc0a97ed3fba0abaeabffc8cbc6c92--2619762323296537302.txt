@@ -363,7 +363,7 @@
    [174]
     1 string data = "Abakus"
    [175]
-    1 string data = "Zobrazuje HP nepřátel v soboji krom bossů."
+    1 string data = "Zobrazuje BŽ nepřátel v soboji krom bossů."
    [176]
     1 string data = "Silový opasek"
    [177]
@@ -639,345 +639,345 @@
    [312]
     1 string data = "Nepřátelé mají <color=bad>60%</color> odolnost proti poškození během čarování (zámky). Zvyšuje poškození způsobené hráči o <color=bad>35%</color>. Předměty (svačiny) nelze používat v boji. Táborové ohniště obnovují BŽ jen do 50%, BM neobnovují."
    [313]
-    1 string data = "Apple"
+    1 string data = "Jabko"
    [314]
-    1 string data = "Light with a touch of honey."
+    1 string data = "Lehké s nádechem medu."
    [315]
-    1 string data = "Bone"
+    1 string data = "Kost"
    [316]
-    1 string data = "The starting point of most dishes involving sauce."
+    1 string data = "Výchozí bod jídel připravovaných z vývaru."
    [317]
-    1 string data = "Egg"
+    1 string data = "Vejce"
    [318]
-    1 string data = "Easy to learn. Hard to master. Always nutritious."
+    1 string data = "Snadno se učí. Mistrovství je těžké. Pokaždé výživné."
    [319]
-    1 string data = "Fine Fish"
+    1 string data = "Jemné filé"
    [320]
-    1 string data = "Filletted from higher quality fish."
+    1 string data = "Porcované z ryb nejvyšší kvality."
    [321]
-    1 string data = "Fine Meat"
+    1 string data = "Jemné maso"
    [322]
-    1 string data = "Marbled like a dream. Carries the many flavors of the land."
+    1 string data = "Mramorované jako sen. Nese mnoho chutí země."
    [323]
-    1 string data = "Fish"
+    1 string data = "Ryba"
    [324]
-    1 string data = "Filleted from common fish."
+    1 string data = "Filé z obyčejných ryb."
    [325]
-    1 string data = "Grains"
+    1 string data = "Zrní"
    [326]
-    1 string data = "Reliable base for carbo-hydrated meals."
+    1 string data = "Spolehlivý základ pro sacharidové pokrmy."
    [327]
-    1 string data = "Lettuce"
+    1 string data = "Salát"
    [328]
-    1 string data = "Crisp and refreshing."
+    1 string data = "Křupavý a osvěžující."
    [329]
-    1 string data = "Maple Syrup"
+    1 string data = "Javorový sirup"
    [330]
-    1 string data = "Underrated yet overpriced."
+    1 string data = "Podceňovaný, ale předražený."
    [331]
-    1 string data = "Meat"
+    1 string data = "Maso"
    [332]
-    1 string data = "A common protein that fills you up."
+    1 string data = "Běžná bílkovina, která zasytí."
    [333]
-    1 string data = "Dairy"
+    1 string data = "Mléko"
    [334]
-    1 string data = "Useful to make dough and creamy dishes."
+    1 string data = "Užitečné k přípravě těsta a krémových pokrmů."
    [335]
-    1 string data = "Mushroom"
+    1 string data = "Houba"
    [336]
-    1 string data = "Usually found in the corners of damp caverns. Nutty flavor."
+    1 string data = "Obvykle se nachází v zákoutích vlhkých jeskyní. Oříšková příchuť."
    [337]
-    1 string data = "Onion"
+    1 string data = "Cibule"
    [338]
-    1 string data = "Adds depth of flavor when used lightly."
+    1 string data = "Při mírném používání dodává hloubku chuti."
    [339]
-    1 string data = "Peach"
+    1 string data = "Broskev"
    [340]
-    1 string data = "Tastes like a summer day."
+    1 string data = "Chutná jako letní den."
    [341]
-    1 string data = "Bell Pepper"
+    1 string data = "Paprika"
    [342]
-    1 string data = "Best added late while cooking to preserve crispiness."
+    1 string data = "Nejlépe se přidává do vaření později, aby si zachovala křupavost."
    [343]
-    1 string data = "Potato"
+    1 string data = "Brambora"
    [344]
-    1 string data = "Nourishing and easy to grow."
+    1 string data = "Výživné a snadno se pěstují."
    [345]
-    1 string data = "Red Berry"
+    1 string data = "Červené bobule"
    [346]
-    1 string data = "Common fruit. Juicy and ripe."
+    1 string data = "Běžné ovoce. Šťavnaté a zralé."
    [347]
-    1 string data = "Seafood"
+    1 string data = "Mořské plody"
    [348]
-    1 string data = "The fresher the better."
+    1 string data = "Čím čerstvější, tím lepší."
    [349]
-    1 string data = "Tomato"
+    1 string data = "Rajče"
    [350]
-    1 string data = "The fruit you eat when the situation calls for vegetables."
+    1 string data = "Ovoce, které jíte, když je třeba zeleninu."
    [351]
-    1 string data = "Test Ingredient"
+    1 string data = "Testovací složka"
    [352]
-    1 string data = "Test Ingredient Description."
+    1 string data = "Popis testované složky."
    [353]
-    1 string data = "Lunar Trout"
+    1 string data = "Lunární pstruh"
    [354]
-    1 string data = "a Lunar Trout"
+    1 string data = "Lunární pstruh"
    [355]
-    1 string data = "Usually found in the lake near Mooncradle."
+    1 string data = "Obvykle se vyskytuje v jezeře poblíž Měsíční kolébky."
    [356]
-    1 string data = "Lunar Trout"
+    1 string data = "Lunární pstruh"
    [357]
-    1 string data = "Crimson Bass"
+    1 string data = "Karmínový okoun"
    [358]
-    1 string data = "a Crimson Bass"
+    1 string data = "Karmínový okoun"
    [359]
-    1 string data = "A stern fighter that provides a lot to eat."
+    1 string data = "Vzpurný bojovník, který poskytuje spoustu potravy."
    [360]
-    1 string data = "Crimson Bass"
+    1 string data = "Karmínový okoun"
    [361]
-    1 string data = "Man o'War"
+    1 string data = "Měchýřovka"
    [362]
-    1 string data = "a Man o'War"
+    1 string data = "Měchýřovka"
    [363]
-    1 string data = "Manipulate carefully."
+    1 string data = "Nakládajte opatrně."
    [364]
-    1 string data = "Man o'War"
+    1 string data = "Měchýřovka"
    [365]
-    1 string data = "a Bone Pike"
+    1 string data = "Rybí kostra"
    [366]
-    1 string data = "Bone Pike"
+    1 string data = "Rybí kostra"
    [367]
-    1 string data = "a Clockwork Crab"
+    1 string data = "Mechanický krab"
    [368]
-    1 string data = "Clockwork Crab"
+    1 string data = "Mechanický krab"
    [369]
-    1 string data = "a Cloud Skate"
+    1 string data = "Rejnok oblačný"
    [370]
-    1 string data = "Cloud Skate"
+    1 string data = "Rejnok oblačný"
    [371]
-    1 string data = "a Coil Flounder"
+    1 string data = "Platesa vroubková"
    [372]
-    1 string data = "Coil Flounder"
+    1 string data = "Platesa vroubková"
    [373]
-    1 string data = "a Cybernardl Hermite"
+    1 string data = "Kyberak poustevníček"
    [374]
-    1 string data = "Cybernardl Hermite"
+    1 string data = "Kyberak poustevníček"
    [375]
-    1 string data = "a Fluorescent Piranha"
+    1 string data = "Fluorescentní piraňa"
    [376]
-    1 string data = "Fluorescent Piranha"
+    1 string data = "Fluorescentní piraňa"
    [377]
-    1 string data = "a Ghosturgeon"
+    1 string data = "Jeseduch"
    [378]
-    1 string data = "Ghosturgeon"
+    1 string data = "Jeseduch"
    [379]
-    1 string data = "a Grass Haddock"
+    1 string data = "Treska travnatá"
    [380]
-    1 string data = "Grass Haddock"
+    1 string data = "Treska travnatá"
    [381]
-    1 string data = "a Hardshell"
+    1 string data = "Garnát"
    [382]
-    1 string data = "Hardshell"
+    1 string data = "Garnát"
    [383]
-    1 string data = "a Laser Burbot"
+    1 string data = "Laser mník"
    [384]
-    1 string data = "Laser Burbot"
+    1 string data = "Laser mník"
    [385]
-    1 string data = "a Lava Koi"
+    1 string data = "Koi lávový"
    [386]
-    1 string data = "Lava Koi"
+    1 string data = "Koi lávový"
    [387]
-    1 string data = "a Ninja Starfish"
+    1 string data = "Hvězdice nindžová"
    [388]
-    1 string data = "Ninja Starfish"
+    1 string data = "Hvězdice nindžová"
    [389]
-    1 string data = "a Rock Shrimp"
+    1 string data = "Kreveta skalná"
    [390]
-    1 string data = "Rock Shrimp"
+    1 string data = "Kreveta skalná"
    [391]
     1 string data = "a Seakjaw"
    [392]
     1 string data = "Seakjaw"
    [393]
-    1 string data = "a Silicium Sponge"
+    1 string data = "Houba křemíková"
    [394]
-    1 string data = "Silicium Sponge"
+    1 string data = "Houba křemíková"
    [395]
-    1 string data = "a Sky Urchin"
+    1 string data = "Ježovka nebeská"
    [396]
-    1 string data = "Sky Urchin"
+    1 string data = "Ježovka nebeská"
    [397]
-    1 string data = "a Spectral Eel"
+    1 string data = "Úhoř přizračný"
    [398]
-    1 string data = "Spectral Eel"
+    1 string data = "Úhoř přizračný"
    [399]
-    1 string data = "a Sun Carp"
+    1 string data = "Kapr slunečný"
    [400]
-    1 string data = "Sun Carp"
+    1 string data = "Kapr slunečný"
    [401]
-    1 string data = "a Swordfish"
+    1 string data = "Mečoun"
    [402]
-    1 string data = "Swordfish"
+    1 string data = "Mečoun"
    [403]
-    1 string data = "a Viridian Lobster"
+    1 string data = "Rak viridanový"
    [404]
-    1 string data = "Viridian Lobster"
+    1 string data = "Rak viridanový"
    [405]
     1 string data = "Test Snack"
    [406]
     1 string data = "Test Snack Description."
    [407]
-    1 string data = "Croustade"
+    1 string data = "Krustád"
    [408]
-    1 string data = "Crispy with a mouth watering smell."
+    1 string data = "Křupavé a voňavé až se zbýhaj sliny."
    [409]
-    1 string data = "Basic Salad"
+    1 string data = "Bežný salát"
    [410]
-    1 string data = "Boring but healthy."
+    1 string data = "Nudný, ale zdravý."
    [411]
-    1 string data = "Berry Jam"
+    1 string data = "Džem z bobulí"
    [412]
-    1 string data = "Sweet and simple."
+    1 string data = "Sladké a jednoduché."
    [413]
     1 string data = "Bouillabaisse"
    [414]
-    1 string data = "Even better when you don't have to make it yourself."
+    1 string data = "Ještě lepší, když si ho nemusíte dělat sami."
    [415]
     1 string data = "Braisé"
    [416]
-    1 string data = "Slow-cooked in clay to tender perfection."
+    1 string data = "Pomalu pečené v hlíně do křehké dokonalosti."
    [417]
-    1 string data = "Champion's Omelette"
+    1 string data = "Šampionova omeleta"
    [418]
-    1 string data = "Gets you through the day with unprecedented energy."
+    1 string data = "Dostane vás přes den s nebývalou energií."
    [419]
     1 string data = "Chaudrée"
    [420]
-    1 string data = "As good as the pepper you grind into it."
+    1 string data = "Tak dobrá jako pepř, který do ní namelete."
    [421]
-    1 string data = "Mooncradle Fish Pie"
+    1 string data = "Měsíční rybí koláč"
    [422]
-    1 string data = "An Evermist Island classic."
+    1 string data = "Klasika z Ostrova věčné mlhy."
    [423]
     1 string data = "Gourmet Burger"
    [424]
-    1 string data = "The fancy name takes away the guilt."
+    1 string data = "Fantastický název přebije stud."
    [425]
-    1 string data = "Hearty Stew"
+    1 string data = "Vydatný guláš"
    [426]
-    1 string data = "Tastes like home."
+    1 string data = "Jako domácí."
    [427]
-    1 string data = "Herbed Filet"
+    1 string data = "Filé na bylinkách"
    [428]
-    1 string data = "Healthy and light."
+    1 string data = "Zdravé a lehké."
    [429]
-    1 string data = "Lasagna"
+    1 string data = "Lasagne"
    [430]
-    1 string data = "As good as food gets."
+    1 string data = "Tak dobré, jak jen jídlo může být."
    [431]
-    1 string data = "Legendary Feast"
+    1 string data = "Legendární hostina"
    [432]
-    1 string data = "Garl's ultimate recipe."
+    1 string data = "Garlův dokonalý recept."
    [433]
-    1 string data = "Mushroom Scramble"
+    1 string data = "Houbová smaženice"
    [434]
-    1 string data = "More fun to cook than it is to eat."
+    1 string data = "Lepe se připravuje než jí."
    [435]
-    1 string data = "Mushroom Soup"
+    1 string data = "Houbová polévka"
    [436]
-    1 string data = "Hearty and comforting."
+    1 string data = "Vydatná a uklidňující."
    [437]
     1 string data = "Pain Doré"
    [438]
-    1 string data = "Also feeds the mind."
+    1 string data = "Také nasytí mysl."
    [439]
     1 string data = "Papillote"
    [440]
-    1 string data = "A great side dish for campfire cooking beginners."
+    1 string data = "Skvělý pokrm pro začátečníky táborákového vaření."
    [441]
     1 string data = "Parfait"
    [442]
-    1 string data = "It's all in the name."
+    1 string data = "Vše je v názvu."
    [443]
-    1 string data = "Peach Strudel"
+    1 string data = "Broskvový štrúdl"
    [444]
-    1 string data = "Definitely worth the hassle."
+    1 string data = "Rozhodně stojí za to."
    [445]
     1 string data = "Poutine"
    [446]
-    1 string data = "The only thing better than lasagna."
+    1 string data = "Jediná věc lepší než lasagne."
    [447]
-    1 string data = "Pudding Chômeur"
+    1 string data = "Puding Chômeur"
    [448]
-    1 string data = "Not sweet enough at first and way too sweet by the end."
+    1 string data = "Zpočátku málo sladký a ke konci už příliš sladký."
    [449]
-    1 string data = "Roast Sandwich"
+    1 string data = "Zapečený sendvič"
    [450]
-    1 string data = "Thin slices of meat in a crispy baguette."
+    1 string data = "Tenké plátky masa v křupavé bagetě."
    [451]
     1 string data = "Sashimi"
    [452]
-    1 string data = "As fresh as food can be."
+    1 string data = "Tak svěží, jak jen jídlo může být."
    [453]
     1 string data = "Soufflé"
    [454]
-    1 string data = "Overrated in both complexity and taste."
+    1 string data = "Přeceňované jak ve složitosti, tak v chuti."
    [455]
     1 string data = "Tataki"
    [456]
-    1 string data = "Nothing but the finest ingredients."
+    1 string data = "Pouze z těch nejlepších ingrediencí."
    [457]
     1 string data = "Tartine"
    [458]
-    1 string data = "Fruit jam on toasted bread."
+    1 string data = "Ovocný džem na opečeném chlebu."
    [459]
-    1 string data = "Tomato Club"
+    1 string data = "Rajčatový sendvič"
    [460]
-    1 string data = "Unbeatable when the tomatoes are just right."
+    1 string data = "Bezkonkurenční, když jsou rajčata tak akorát."
    [461]
-    1 string data = "Veggie Skewers"
+    1 string data = "Veggie špízy"
    [462]
-    1 string data = "Never gets old."
+    1 string data = "To nikdy nezestárne."
    [463]
-    1 string data = "Wild Salad"
+    1 string data = "Salát na divoko"
    [464]
-    1 string data = "Fills you up in the healthiest of ways."
+    1 string data = "Zasytí vás tím nejzdravějším způsobem."
    [465]
-    1 string data = "Yakitori Shrimp"
+    1 string data = "Krevety Yakitori"
    [466]
-    1 string data = "Proof that simple can be good."
+    1 string data = "Důkaz, že v jednoduchosti je krása."
    [467]
-    1 string data = "Recipe: Chaudrée"
+    1 string data = "Recept: Chaudrée"
    [468]
-    1 string data = "Teaches how to cook Chaudrée."
+    1 string data = "Učí, jak připravit Chaudrée."
    [469]
-    1 string data = "Recipe: Mushroom Scramble"
+    1 string data = "Recept: Houbová smaženice"
    [470]
-    1 string data = "Teaches how to cook Mushroom Scramble."
+    1 string data = "Učí, jak připravit Houbovou smaženici."
    [471]
-    1 string data = "Recipe: Mushroom Soup"
+    1 string data = "Recept: Houbová polévka"
    [472]
-    1 string data = "Teaches how to cook Mushroom Soup."
+    1 string data = "Učí, jak připravit Houbovou polévku."
    [473]
-    1 string data = "Recipe: Bouillabaisse"
+    1 string data = "Recept: Bouillabaisse"
    [474]
-    1 string data = "Teaches how to cook Bouillabaisse."
+    1 string data = "Učí, jak připravit Bouillabaisse."
    [475]
-    1 string data = "Recipe: Peach Strudel"
+    1 string data = "Recept: Broskvový štrúdl"
    [476]
-    1 string data = "Teaches how to cook Peach Strudel."
+    1 string data = "Učí, jak připravit Broskvový štrúdl."
    [477]
-    1 string data = "Recipe: Parfait"
+    1 string data = "Recept: Parfait"
    [478]
-    1 string data = "Teaches how to make Parfait."
+    1 string data = "Učí, jak připravit Parfait."
    [479]
-    1 string data = "Recipe: Sashimi"
+    1 string data = "Recept: Sashimi"
    [480]
-    1 string data = "Teaches how to prepare Sashimi."
+    1 string data = "Učí, jak připravit Sashimi."
    [481]
-    1 string data = "Scroll of Soonrang"
+    1 string data = "Svitek Slunarangu"
    [482]
-    1 string data = "Teaches combo attack Soonrang."
+    1 string data = "Učí kombo útok Slunarang."
    [483]
     1 string data = "Scroll of Moon Shiv"
    [484]
@@ -1015,163 +1015,163 @@
    [500]
     1 string data = "Teaches combo move Arcane Barrage."
    [501]
-    1 string data = "Empty."
+    1 string data = "Prázdno."
    [502]
-    1 string data = "Found [quantity]x <color=magic>[name]</color>!"
+    1 string data = "Nalezeno: [quantity]x <color=magic>[name]</color>!"
    [503]
-    1 string data = "Got [quantity]x <color=magic>[name]</color>!"
+    1 string data = "Získáno: [quantity]x <color=magic>[name]</color>!"
    [504]
-    1 string data = "Found equippable trinket <color=magic>[name]</color>!"
+    1 string data = "Nalezena ozdoba na nošení: <color=magic>[name]</color>!"
    [505]
-    1 string data = "Found [quantity]x <color=sun>Sunshard</color>!"
+    1 string data = "Nalezeno: [quantity]x <color=sun>Sluneční střep</color>!"
    [506]
-    1 string data = "Found [quantity]x <color=moon>Moonshard</color>!"
+    1 string data = "Nalezeno: [quantity]x <color=moon>Měsíční střep</color>!"
    [507]
-    1 string data = "Mistral Bracelet"
+    1 string data = "Náramek z mistralu"
    [508]
-    1 string data = "Press <button="WindBracelet"> to create concentrated bursts of wind."
+    1 string data = "Stiskněte <button="WindBracelet"> pro vypuštění koncentrovaných proudů větru."
    [509]
-    1 string data = "Coral Hammer"
+    1 string data = "Korálové kladivo"
    [510]
-    1 string data = "A legendary hammer attuned to <color=location>The Deep Blue</color>."
+    1 string data = "Legendární kladivo naladěné na <color=location>Hlubokou modř</color>."
    [511]
-    1 string data = "Cobalt Hammer"
+    1 string data = "Kobaltové kladivo"
    [512]
-    1 string data = "An evolution of the Coral Hammer which can break blue crystals."
+    1 string data = "Vyvinuté korálové kladivo, které dokáže rozbíjet modré krystaly."
    [513]
-    1 string data = "Graplou"
+    1 string data = "Zahák"
    [514]
-    1 string data = "Throw with <button=Cancel>. Can stick to grapple points, enemies, and climbable surfaces."
+    1 string data = "Vrhejte pomocí <button=Cancel>. Může se zaháknout na body přichycení, nepřátele a šplhatelné povrchy."
    [515]
-    1 string data = "Map"
+    1 string data = "Mapa"
    [516]
-    1 string data = "A magic map displaying The Vespertine's surrounding waters."
+    1 string data = "Magická mapa znázorňující vody v okolí Večernice."
    [517]
-    1 string data = "Red Crystal"
+    1 string data = "Rudý krystal"
    [518]
-    1 string data = "Expertly carved to focus light beams."
+    1 string data = "Mistrně vybroušený k soustředění světelných paprsků."
    [519]
-    1 string data = "Blue Crystal"
+    1 string data = "Modrý krystal"
    [520]
-    1 string data = "Expertly carved to focus light beams."
+    1 string data = "Mistrně vybroušený k soustředění světelných paprsků."
    [521]
-    1 string data = "Green Crystal"
+    1 string data = "Zelený krystal"
    [522]
-    1 string data = "Expertly carved to focus light beams."
+    1 string data = "Mistrně vybroušený k soustředění světelných paprsků."
    [523]
-    1 string data = "Mines Key"
+    1 string data = "Klíč k dolům"
    [524]
-    1 string data = "A wind emblem is engraved on it."
+    1 string data = "Je na něm vyryt emblém větru."
    [525]
-    1 string data = "Coin of Undeath Accord"
+    1 string data = "Mince Nemrtvé dohody"
    [526]
-    1 string data = "A binding contract for the undead."
+    1 string data = "Závazná smlouva pro nemrtvé."
    [527]
-    1 string data = "Fine Brush"
+    1 string data = "Jemný štětec"
    [528]
-    1 string data = "Painter's tool."
+    1 string data = "Malířský nástroj."
    [529]
-    1 string data = "Rainbow Conch"
+    1 string data = "Duhová ulita"
    [530]
-    1 string data = "Might interest a collector."
+    1 string data = "To by mohlo zajímat sběratele."
    [531]
-    1 string data = "Copper Wheel"
+    1 string data = "Měděný kotouč"
    [532]
-    1 string data = "A beginner's Wheel. Not even considered to be level 1."
+    1 string data = "Kotouč pro začátečníky. Ani se nepovažuje za kotouč 1. úrovně."
    [533]
-    1 string data = "Bronze Wheel"
+    1 string data = "Bronzový kotouč"
    [534]
-    1 string data = "A level 1 Wheel."
+    1 string data = "Kotouč 1. úrovně."
    [535]
-    1 string data = "Silver Wheel"
+    1 string data = "Stříbrný kotouč"
    [536]
-    1 string data = "A level 2 Wheel."
+    1 string data = "Kotouč 2. úrovně."
    [537]
-    1 string data = "Gold Wheel"
+    1 string data = "Zlatý kotouč"
    [538]
-    1 string data = "A level 3 Wheel."
+    1 string data = "Kotouč 3. úrovně."
    [539]
-    1 string data = "Platinum Wheel"
+    1 string data = "Platinový kotouč"
    [540]
-    1 string data = "A level 4 Wheel."
+    1 string data = "Kotouč 4. úrovně."
    [541]
-    1 string data = "Diamond Wheel"
+    1 string data = "Diamantový kotouč"
    [542]
-    1 string data = "A max level Wheel."
+    1 string data = "Kotouč nejvyšší úrovně."
    [543]
-    1 string data = "Warrior Figurine"
+    1 string data = "Figurka Bojovníka"
    [544]
-    1 string data = "Makes the Warrior class playable in Wheels."
+    1 string data = "Umožňuje hrát za Bojovníka v kotoučech."
    [545]
-    1 string data = "Mage Figurine"
+    1 string data = "Figurka Čaroděje"
    [546]
-    1 string data = "Makes the Mage class playable in Wheels."
+    1 string data = "Umožňuje hrát za Čaroděje v kotoučech."
    [547]
-    1 string data = "Assassin Figurine"
+    1 string data = "Figurka Vraha"
    [548]
-    1 string data = "Makes the Assassin class playable in Wheels."
+    1 string data = "Umožňuje hrát za Vraha v kotoučech."
    [549]
-    1 string data = "Priest Figurine"
+    1 string data = "Figurka Kněze"
    [550]
-    1 string data = "Makes the Priest class playable in Wheels."
+    1 string data = "Umožňuje hrát za Kněze v kotoučech."
    [551]
-    1 string data = "Engineer Figurine"
+    1 string data = "Figurka Stavitele"
    [552]
-    1 string data = "Makes the Engineer class playable in Wheels."
+    1 string data = "Umožňuje hrát za Stavitele v kotoučech."
    [553]
-    1 string data = "Archer Figurine"
+    1 string data = "Figurka Lukostřelce"
    [554]
-    1 string data = "Makes the Archer class playable in Wheels."
+    1 string data = "Umožňuje hrát za Lukostřelce v kotoučech."
    [555]
     1 string data = "Zlato"
    [556]
-    1 string data = "The common currency."
+    1 string data = "Běžná měna."
    [557]
-    1 string data = "Adventurer's Vest"
+    1 string data = "Vesta dobrodruha"
    [558]
-    1 string data = "Thirty adventurers agree, this vest is the best."
+    1 string data = "Všech třicet dobrodruhů se shoduje, že tato vesta je nejlepší."
    [559]
-    1 string data = "This is the test shop."
+    1 string data = "Toto je testovací obchod."
    [560]
-    1 string data = "A pleasure seeing customers!"
+    1 string data = "Potěšení vidět zákazníky!"
    [561]
-    1 string data = "Find anything you like?"
+    1 string data = "Našli jste něco, co se vám líbí?"
    [562]
-    1 string data = "Welcome to the Equipment Store!"
+    1 string data = "Vítejte v obchodě s Vybavením!"
    [563]
-    1 string data = "Welcome to the Item Store!"
+    1 string data = "Vítejte v obchodě s Předměty!"
    [564]
-    1 string data = "Welcome to the Hidden Market!"
+    1 string data = "Vítejte na tajném trhu!"
    [565]
-    1 string data = "Feel free to browse..."
+    1 string data = "Neváhejte a prohlížejte si..."
    [566]
-    1 string data = "3D printer online."
+    1 string data = "3D tiskárna online."
    [567]
-    1 string data = "Anythin' ye need?"
+    1 string data = "Potřebujete něco?"
    [568]
-    1 string data = "Docarri Armor"
+    1 string data = "Docarrijská zbroj"
    [569]
-    1 string data = "Reasonably robust."
+    1 string data = "Přiměřeně robustní."
    [570]
-    1 string data = "Pearlescent Apron"
+    1 string data = "Perleťová zástěra"
    [571]
-    1 string data = "Pretty, and pretty sturdy."
+    1 string data = "Pěkná a docela bytelná."
    [572]
-    1 string data = "Leather Pauldrons"
+    1 string data = "Kožený nárameník"
    [573]
-    1 string data = "Doesn't cover much, but still better than no protection."
+    1 string data = "Moc toho nezakryje, ale pořád lepší než žádná ochrana."
    [574]
-    1 string data = "Mage-Knight Armor"
+    1 string data = "Zbroj mága-rytíře "
    [575]
-    1 string data = "A ceremonial robe with magic properties."
+    1 string data = "Obřadní roucho s magickými vlastnostmi."
    [576]
-    1 string data = "Crown"
+    1 string data = "Koruna"
    [577]
-    1 string data = "Fits on statues in the Haunted Mansion."
+    1 string data = "Pasuje na sochy ve Strašidelném sídle."
    [578]
-    1 string data = "Knight's Helm"
+    1 string data = "Rytířská helma"
    [579]
-    1 string data = "Fits on statues in the Haunted Mansion."
+    1 string data = "Pasuje na sochy ve Strašidelném sídle."
    [580]
     1 string data = "~ Hat C"
    [581]
@@ -1181,538 +1181,538 @@
    [583]
     1 string data = "~ Hat D Description"
    [584]
-    1 string data = "Cursed Doubloons"
+    1 string data = "Prokleté dublony"
    [585]
-    1 string data = "Round shaped with a skull in the middle."
+    1 string data = "Kulaté s lebkou uprostřed."
    [586]
-    1 string data = "Got <color=magic>[name]</color>!"
+    1 string data = "Získáno: <color=magic>[name]</color>!"
    [587]
-    1 string data = "Obtained [quantity]x <color=magic>[name]</color>!"
+    1 string data = "Získáno: [quantity]x <color=magic>[name]</color>!"
    [588]
     1 string data = "~ FrostRuby"
    [589]
-    1 string data = "~ Transform wind into cold wind with the PushBracelet"
+    1 string data = "~ Přeměň vítr na studený vítr pomocí PushBracelet"
    [590]
-    1 string data = "Sapphire Key"
+    1 string data = "Safírový klíč"
    [591]
-    1 string data = "Likely powers some underwater device."
+    1 string data = "Pravděpodobně napájí nějaké podvodní zařízení."
    [592]
-    1 string data = "~ Boat Graplou"
+    1 string data = "~ Loď Graplou"
    [593]
     1 string data = "~ Boat Graplou Description"
    [594]
-    1 string data = "Yellow Pearl"
+    1 string data = "Žlutá perla"
    [595]
-    1 string data = "A pearl found in the water temple of Antsudlo."
+    1 string data = "Perla nalezená ve vodním chrámu Antsudlo."
    [596]
-    1 string data = "Purple Pearl"
+    1 string data = "Fialová perla"
    [597]
-    1 string data = "A pearl found in the water temple of Antsudlo."
+    1 string data = "Perla nalezená ve vodním chrámu Antsudlo."
    [598]
-    1 string data = "Blue Pearl"
+    1 string data = "Modrá perla"
    [599]
-    1 string data = "A pearl found in the water temple of Antsudlo."
+    1 string data = "Perla nalezená ve vodním chrámu Antsudlo."
    [600]
-    1 string data = "Green Pearl"
+    1 string data = "Zelená perla"
    [601]
-    1 string data = "A pearl found in the water temple of Antsudlo."
+    1 string data = "Perla nalezená ve vodním chrámu Antsudlo."
    [602]
-    1 string data = "Pink Pearl"
+    1 string data = "Růžová perla"
    [603]
-    1 string data = "A pearl found in the water temple of Antsudlo."
+    1 string data = "Perla nalezená ve vodním chrámu Antsudlo."
    [604]
-    1 string data = "Select a key item"
+    1 string data = "Vyberte klíčový předmět"
    [605]
-    1 string data = "Yomara's Key"
+    1 string data = "Yomarin klíč"
    [606]
-    1 string data = "A key that unlocks the door south of Yomara's cabin."
+    1 string data = "Klíč, který odemyká dveře jižně od Yomarina srubu."
    [607]
-    1 string data = "Master Key"
+    1 string data = "Hlavní klíč"
    [608]
-    1 string data = "Made by The Watchmaker to unlock the big door in Caël's workshop."
+    1 string data = "Vyrobený Hodinářkou k odemykání velkých dveří v Caëlově dílně."
    [609]
-    1 string data = "Vial of Time"
+    1 string data = "Baňka času"
    [610]
-    1 string data = "Resh'an's alchemy vial made from the sands of time."
+    1 string data = "Resh'anova alchymistická ampulka vyrobená z písků času."
    [611]
-    1 string data = "Seashell"
+    1 string data = "Mořská mušle"
    [612]
-    1 string data = "Needs to be infused with magic at the Sacred Grove."
+    1 string data = "Musí se napustit magií v Posvátném háji."
    [613]
-    1 string data = "Magic Seashell"
+    1 string data = "Magická mušle"
    [614]
-    1 string data = "Lets the bearer breathe underwater."
+    1 string data = "Umožňuje nositeli dýchat pod vodou."
    [615]
-    1 string data = "Garden Key"
+    1 string data = "Klíč od zahrady"
    [616]
-    1 string data = "Opens a locked door in the Clockwork Castle."
+    1 string data = "Otevře zamčené dveře v Mechanickém hrade."
    [617]
-    1 string data = "Forbidden Cavern Key"
+    1 string data = "Klíč od Zakázané jeskyně"
    [618]
-    1 string data = "A key found in the forbidden cavern."
+    1 string data = "Klíč nalezený v Zakázané jeskyni."
    [619]
-    1 string data = "Hexagonal Slab"
+    1 string data = "Hexagonální deska"
    [620]
-    1 string data = "Would fit in a hexagonal slot."
+    1 string data = "Vejde se do šestihranné štěrbiny."
    [621]
-    1 string data = "Triangular Slab"
+    1 string data = "Trojúhelníková deska"
    [622]
-    1 string data = "Would fit in a triangular slot."
+    1 string data = "Vejde se do trojúhelníkové štěrbiny."
    [623]
-    1 string data = "Wind Key"
+    1 string data = "Větrný klíč"
    [624]
-    1 string data = "Given by the Sky Council to open the way to the Air Elemental Skyland."
+    1 string data = "Poskytnutý Nebeskou radou, aby otevřel cestu do Nebeské země vzdušného živlu."
    [625]
-    1 string data = "Immaculate Pearl"
+    1 string data = "Neposkvrněná perla"
    [626]
-    1 string data = "Given by Hortence to summon Hydralion."
+    1 string data = "Poskytnutý Hortenzií k vyvolání Hydralionu."
    [627]
     1 string data = "~ PowerBlockPiecesCell"
    [628]
     1 string data = "~ PowerBlockPieces Description"
    [629]
-    1 string data = "Green Flame"
+    1 string data = "Zelený plamen"
    [630]
-    1 string data = "A magical flame burning green. Might interest the Ferryman..."
+    1 string data = "Magický plamen hořící zelenou barvou. Mohl by zajímat převozníka..."
    [631]
-    1 string data = "Yellow Flame"
+    1 string data = "Žlutý plamen"
    [632]
-    1 string data = "A magical flame burning yellow. Might interest the Ferryman..."
+    1 string data = "Magický plamen hořící žlutou barvou. Mohl by zajímat převozníka..."
    [633]
-    1 string data = "~ Blue Flame"
+    1 string data = "~ Modrý plamen"
    [634]
-    1 string data = "~ Blue Flame Description"
+    1 string data = "~ Modrý plamen Popis"
    [635]
-    1 string data = "Crane Operator ID Card"
+    1 string data = "ID karta jeřábníka"
    [636]
-    1 string data = "Lets the bearer operate the Factory's laser crane."
+    1 string data = "Umožňuje držiteli obsluhovat Továrenský laserový jeřáb."
    [637]
-    1 string data = "Probe"
+    1 string data = "Sonda"
    [638]
-    1 string data = "Programmed by Cedric."
+    1 string data = "Naprogramována Cedrikem."
    [639]
-    1 string data = "Kyber Ore"
+    1 string data = "Kyberruda"
    [640]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
+    1 string data = "Jedna ze součástí potřebných k vytištění Kybernetické baterie."
    [641]
-    1 string data = "Wireplate Sheet"
+    1 string data = "Drátěný plát"
    [642]
-    1 string data = "Could probably be used by a machine to make something..."
+    1 string data = "Pravděpodobně by mohl být použit strojem k výrobě něčeho..."
    [643]
-    1 string data = "Power Unit"
+    1 string data = "Napájecí jednotka"
    [644]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
+    1 string data = "Jedna z částí potřebných k vytištění kybernetické baterie."
    [645]
-    1 string data = "Kyber Ore"
+    1 string data = "Kyberruda"
    [646]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
+    1 string data = "Jedna z částí potřebných k vytištění kybernetické baterie."
    [647]
-    1 string data = "Blueprint Disc"
+    1 string data = "Disk s dokumentací"
    [648]
-    1 string data = "One of the parts needed to print a Kybermesh Battery."
+    1 string data = "Jedna z částí potřebných k vytištění kybernetické baterie."
    [649]
-    1 string data = "Ornate Stone"
+    1 string data = "Zdobený kámen"
    [650]
-    1 string data = "A weighted stone. Fits a brazier in Zenith Academy."
+    1 string data = "Vyvážený kámen. Hodí se do kahanu v Akademii Zenit."
    [651]
-    1 string data = "Shiny Pearl"
+    1 string data = "Lesklá perla"
    [652]
-    1 string data = "Valuable meant to be sold."
+    1 string data = "Cennost určená k prodeji."
    [653]
-    1 string data = "Teal Amber Ore"
+    1 string data = "Tyrkysovo-jantarová ruda"
    [654]
-    1 string data = "Valuable meant to be sold."
+    1 string data = "Cennost určená k prodeji."
    [655]
-    1 string data = "Obsidian Ore"
+    1 string data = "Obsidiánová ruda"
    [656]
-    1 string data = "Valuable meant to be sold."
+    1 string data = "Cennost určená k prodeji."
    [657]
-    1 string data = "Obsidian Ingot"
+    1 string data = "Obsidiánový ingot"
    [658]
-    1 string data = "Valuable meant to be sold."
+    1 string data = "Cennost určená k prodeji."
    [659]
-    1 string data = "Sapphire Ore"
+    1 string data = "Safírová ruda"
    [660]
-    1 string data = "Valuable meant to be sold."
+    1 string data = "Cennost určená k prodeji."
    [661]
-    1 string data = "Sapphire Ingot"
+    1 string data = "Safírový ingot"
    [662]
-    1 string data = "Valuable meant to be sold."
+    1 string data = "Cennost určená k prodeji."
    [663]
-    1 string data = "Adamantite Ore"
+    1 string data = "Adamantová ruda"
    [664]
-    1 string data = "Valuable meant to be sold."
+    1 string data = "Cennost určená k prodeji."
    [665]
-    1 string data = "Solstice Amulet"
+    1 string data = "Amulet Slunovratu"
    [666]
-    1 string data = "Lets the bearer control the Time of Day without having to stand on a Celestial Rune."
+    1 string data = "Umožňuje nositeli ovládat čas dne, aniž by musel stát na Nebeské runě."
    [667]
-    1 string data = "Crystal Egg"
+    1 string data = "Křišťálové vejce"
    [668]
-    1 string data = "A strange object of worship."
+    1 string data = "Zvláštní předmět k uctívání."
    [669]
-    1 string data = "Big Jar"
+    1 string data = "Velká sklenice"
    [670]
-    1 string data = "Found in the Fleshmancer's Lair."
+    1 string data = "Nalezen v doupěti Karnimanta."
    [671]
-    1 string data = "Big Jar"
+    1 string data = "Velká sklenice"
    [672]
-    1 string data = "Found in the Fleshmancer's Lair."
+    1 string data = "Nalezen v doupěti Karnimanta."
    [673]
-    1 string data = "Big Jar"
+    1 string data = "Velká sklenice"
    [674]
-    1 string data = "Found in the Fleshmancer's Lair."
+    1 string data = "Nalezen v doupěti Karnimanta."
    [675]
-    1 string data = "Fish?"
+    1 string data = "Ryba?"
    [676]
-    1 string data = "Fished in the Fleshamancer's Lair."
+    1 string data = "Vylovena v doupěti Karnimanta."
    [677]
-    1 string data = "Question Pack #1"
+    1 string data = "Balíček otázek #1"
    [678]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [679]
-    1 string data = "Question Pack #2"
+    1 string data = "Balíček otázek #2"
    [680]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [681]
-    1 string data = "Question Pack #3"
+    1 string data = "Balíček otázek #3"
    [682]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [683]
-    1 string data = "Question Pack #4"
+    1 string data = "Balíček otázek #4"
    [684]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [685]
-    1 string data = "Question Pack #5"
+    1 string data = "Balíček otázek #5"
    [686]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [687]
-    1 string data = "Question Pack #6"
+    1 string data = "Balíček otázek #6"
    [688]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [689]
-    1 string data = "Question Pack #7"
+    1 string data = "Balíček otázek #7"
    [690]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [691]
-    1 string data = "Question Pack #8"
+    1 string data = "Balíček otázek #8"
    [692]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [693]
-    1 string data = "Question Pack #9"
+    1 string data = "Balíček otázek #9"
    [694]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [695]
-    1 string data = "Question Pack #10"
+    1 string data = "Balíček otázek #10"
    [696]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [697]
-    1 string data = "Question Pack #11"
+    1 string data = "Balíček otázek #11"
    [698]
-    1 string data = "Might interest a Quiz Master"
+    1 string data = "Mohlo to by zajímat Mistra kvízu"
    [699]
-    1 string data = "Solstice Shrine Key A"
+    1 string data = "Klíč ke Svatyni Slunovratu A"
    [700]
-    1 string data = "Found in a Solstice Shrine."
+    1 string data = "Nalezen ve Svatyni Slunovratu."
    [701]
-    1 string data = "Solstice Shrine Key B"
+    1 string data = "Klíč ke Svatyni Slunovratu B"
    [702]
-    1 string data = "Found in a Solstice Shrine."
+    1 string data = "Nalezen ve Svatyni Slunovratu."
    [703]
-    1 string data = "Cookie Jar"
+    1 string data = "Dóza na sušenky"
    [704]
-    1 string data = "From that time Garl snuck into Zenith Academy."
+    1 string data = "Z té doby, kdy se Garl vplížil do Akademie Zenitu."
    [705]
-    1 string data = "Turbo Cookie"
+    1 string data = "Turbo sušenka"
    [706]
-    1 string data = "Craved by a ghost in Lucent."
+    1 string data = "V Lucentu po něm zatoužil duch."
    [707]
-    1 string data = "Golden Watch"
+    1 string data = "Zlaté hodinky"
    [708]
-    1 string data = "Inexplicably swallowed by a fish in the Wizard Lab."
+    1 string data = "Nevysvětlitelně spolknuty rybou v laboratoři černokněžníka."
    [709]
-    1 string data = "<color=magic>golden watch</color>"
+    1 string data = "<color=magic>zlaté hodinky</color>"
    [710]
-    1 string data = "Shed Key"
+    1 string data = "Klíč od kůlny"
    [711]
-    1 string data = "Probably unlocks the creepy shed in Lucent..."
+    1 string data = "Pravděpodobně odemyká strašidelnou kůlnu v Lucentu..."
    [712]
-    1 string data = "Turbo Cookie"
+    1 string data = "Turbo sušenka"
    [713]
-    1 string data = "A strange cookie for ghosts."
+    1 string data = "Podivná sušenka pro duchy."
    [714]
-    1 string data = "Ordinary Ghost Sandwich"
+    1 string data = "Obyčejný sendvič pro duchy"
    [715]
-    1 string data = "Ghostly and ordinary."
+    1 string data = "Obyčejný a duchařský."
    [716]
-    1 string data = "Master Ghost Sandwich"
+    1 string data = "Mistrovský sendvič pro duchy"
    [717]
-    1 string data = "As good as it gets... for a ghost."
+    1 string data = "Tak dobrý, jak jen to jde... podle ducha."
    [718]
-    1 string data = "Bad Ghost Sandwich"
+    1 string data = "Špatný sendvič pro duchem"
    [719]
-    1 string data = "As bad as the ingredients sounded in the first place."
+    1 string data = "Tak špatný, jak zněly ingredience v první řadě."
    [720]
-    1 string data = "Golden Watch"
+    1 string data = "Zlaté hodinky"
    [721]
-    1 string data = "Inexplicably swallowed by a fish in the Wizard Lab."
+    1 string data = "Nevysvětlitelně spolknuty rybou v laboratoři černokněžníka."
    [722]
-    1 string data = "Soul Stone"
+    1 string data = "Kámen duše"
    [723]
-    1 string data = "A necromancer artifact capable of dispelling curses."
+    1 string data = "Nekromantský artefakt schopný zrušit kletby."
    [724]
-    1 string data = "Knight's Sword"
+    1 string data = "Rytířův meč"
    [725]
-    1 string data = "Fits on statues in the Haunted Mansion."
+    1 string data = "Pasuje na sochy ve Strašidelném sídle."
    [726]
-    1 string data = "Recipe: Hearty Stew"
+    1 string data = "Recept: Vydatný guláš"
    [727]
-    1 string data = "Teaches how to cook Hearty Stew."
+    1 string data = "Učí, jak připravit Vydatný guláš."
    [728]
-    1 string data = "Recipe: Mooncradle Fish Pie"
+    1 string data = "Recept: Měsíční rybí koláč"
    [729]
-    1 string data = "Teaches how to cook Mooncradle Fish Pie."
+    1 string data = "Učí, jak připravit Měsíční rybí koláč."
    [730]
-    1 string data = "Valve"
+    1 string data = "Ventil"
    [731]
-    1 string data = "A valve found in the water temple Antsudlo."
+    1 string data = "Ventil nalezený ve vodním chrámu Antsudlo."
    [732]
-    1 string data = "Valve"
+    1 string data = "Ventil"
    [733]
-    1 string data = "A valve found in the water temple Antsudlo."
+    1 string data = "Ventil nalezený ve vodním chrámu Antsudlo."
    [734]
-    1 string data = "Romaya's Journal"
+    1 string data = "Romayin deník"
    [735]
-    1 string data = "She would not be pleased."
+    1 string data = "Nebyla by ráda."
    [736]
-    1 string data = "AI Core"
+    1 string data = "Jádro AI"
    [737]
-    1 string data = "Found living inside of the infamous Catalyst."
+    1 string data = "Nalezeno ako žije uvnitř nechvalně proslulého Catalystu."
    [738]
-    1 string data = "Aventry Locket"
+    1 string data = "Aventryho medailonek"
    [739]
-    1 string data = "The item that Romaya infused with magic to control Duke Aventry's ghost."
+    1 string data = "Předmět, který Romaya napustila magií, aby mohla ovládat ducha vévody Aventryho."
    [740]
-    1 string data = "Joce's Belt Buckle"
+    1 string data = "Joceho přezka"
    [741]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z ní mohla získat příběh."
    [742]
-    1 string data = "Cog Prototype"
+    1 string data = "Prototyp ozubeného kola"
    [743]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z nej mohla získat příběh."
    [744]
-    1 string data = "Broken Handle"
+    1 string data = "Zlomená rukojeť"
    [745]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z ní mohla získat příběh."
    [746]
-    1 string data = "Aventry Crest"
+    1 string data = "Aventryho erb"
    [747]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z nej mohla získat příběh."
    [748]
-    1 string data = "Old Coral Vase"
+    1 string data = "Stará korálová váza"
    [749]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z ní mohla získat příběh."
    [750]
-    1 string data = "Cloudy Shard"
+    1 string data = "Oblačný střep"
    [751]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z nej mohla získat příběh."
    [752]
-    1 string data = "Ancient Molekin Cloak"
+    1 string data = "Prastarý plášť Molekina"
    [753]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z nej mohla získat příběh."
    [754]
-    1 string data = "Romaya's Hairpin"
+    1 string data = "Romayina spona do vlasů"
    [755]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z ní mohla získat příběh."
    [756]
-    1 string data = "Stone Tablet Piece"
+    1 string data = "Kus kamenné desky"
    [757]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z nej mohla získat příběh."
    [758]
-    1 string data = "Celestial Willow Leaf"
+    1 string data = "Nebeský list vrby"
    [759]
-    1 string data = "<color=teaks>Teaks</color> might get a story from this."
+    1 string data = "<color=teaks>Teaks</color> by z nej mohla získat příběh."
    [760]
-    1 string data = "Evermist Shrine Key"
+    1 string data = "Klíč od Svatyně věčné mlhy"
    [761]
-    1 string data = "Unlocks the Solstice Shrine on Evermist Island."
+    1 string data = "Odemyká svatyni Slunovratu na Ostrově věčné mlhy."
    [762]
-    1 string data = "Rainbow Star"
+    1 string data = "Duhová hvězda"
    [763]
-    1 string data = "A mysterious item."
+    1 string data = "Tajemný předmět."
    [764]
-    1 string data = "Fishing Dungeon Key"
+    1 string data = "Klíč od žaláře pro rybáře"
    [765]
-    1 string data = "Opens a door in the fishing dungeon."
+    1 string data = "Otevírá dveře v rybářské kobce."
    [766]
-    1 string data = "Hook of Time"
+    1 string data = "Hák času"
    [767]
-    1 string data = "A special hook given to Garl by entities known only to him."
+    1 string data = "Speciální hák, který Garlovi věnovaly entity známé pouze jemu."
    [768]
-    1 string data = "Gilded Invitation"
+    1 string data = "Pozlacené pozvání"
    [769]
-    1 string data = "A special invitation to dinner at the Golden Pelican."
+    1 string data = "Zvláštní pozvání na večeři u Zlatého pelikána."
    [770]
-    1 string data = "Duke Aventry's Key"
+    1 string data = "Klíč vévody Aventryho"
    [771]
-    1 string data = "Unlocks the Duke's coffin chest in the Flooded Graveyard."
+    1 string data = "Odemyká truhlu s vévodovou rakví na Zatopeném hřbitově."
    [772]
-    1 string data = "Docarri Seal Fragment A"
+    1 string data = "Úlomek Docarrijské pečeti A"
    [773]
-    1 string data = "One of three pieces needed to unlock the sealed underwater gate."
+    1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [774]
-    1 string data = "Docarri Seal Fragment B"
+    1 string data = "Úlomek Docarrijské pečeti B"
    [775]
-    1 string data = "One of three pieces needed to unlock the sealed underwater gate."
+    1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [776]
-    1 string data = "Docarri Seal Fragment C"
+    1 string data = "Úlomek Docarrijské pečeti C"
    [777]
-    1 string data = "One of three pieces needed to unlock the sealed underwater gate."
+    1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [778]
-    1 string data = "Fish Key"
+    1 string data = "Rybí klíč"
    [779]
-    1 string data = "A key that looks like a fish and moves like fish."
+    1 string data = "Klíč, který vypadá jako ryba a pohybuje se jako ryba."
    [780]
-    1 string data = "Recipe: Croustade"
+    1 string data = "Recept: Krustád"
    [781]
-    1 string data = "Teaches how to cook Croustade."
+    1 string data = "Učí, jak připravit Krustád."
    [782]
-    1 string data = "Recipe: Basic Salad"
+    1 string data = "Recept: Běžný salát"
    [783]
-    1 string data = "Teaches how to cook Basic Salad."
+    1 string data = "Učí, jak připravit Běžný salát."
    [784]
-    1 string data = "Recipe: Berry Jam"
+    1 string data = "Recept: Džem z bobulí"
    [785]
-    1 string data = "Teaches how to cook Berry Jam."
+    1 string data = "Učí, jak připravit Džem z bobulí."
    [786]
-    1 string data = "Recipe: Braisé"
+    1 string data = "Recept: Braisé"
    [787]
-    1 string data = "Teaches how to cook Braisé."
+    1 string data = "Učí, jak připravit Braisé."
    [788]
-    1 string data = "Recipe: Champion's Omelette"
+    1 string data = "Recept: Šampionova omeleta"
    [789]
-    1 string data = "Teaches how to cook Champion's Omelette."
+    1 string data = "Učí, jak připravit Šampionovu omeletu."
    [790]
-    1 string data = "Recipe: Gourmet Burger"
+    1 string data = "Recept: Gourmet Burger"
    [791]
-    1 string data = "Teaches how to cook Gourmet Burger"
+    1 string data = "Učí, jak připravit Gourmet Burger"
    [792]
-    1 string data = "Recipe: Herbed Filet"
+    1 string data = "Recept: Filé na bylinkách"
    [793]
-    1 string data = "Teaches how to cook Herbed Filet."
+    1 string data = "Učí, jak připravit Filé na bylinkách."
    [794]
-    1 string data = "Recipe: Legendary Feast"
+    1 string data = "Recept: Legendární hostina"
    [795]
-    1 string data = "Teaches how to cook Legendary Feast."
+    1 string data = "Učí, jak připravit Legendární hostinu."
    [796]
-    1 string data = "Recipe: Lasagna"
+    1 string data = "Recept: Lasagne"
    [797]
-    1 string data = "Teaches how to cook Lasagna."
+    1 string data = "Učí, jak připravit Lasagne."
    [798]
-    1 string data = "Recipe: Pain Doré"
+    1 string data = "Recept: Pain Doré"
    [799]
-    1 string data = "Teaches how to cook Pain Doré."
+    1 string data = "Učí, jak připravit Pain Doré."
    [800]
-    1 string data = "Recipe: Papillote"
+    1 string data = "Recept: Papillote"
    [801]
-    1 string data = "Teaches how to cook Papillote."
+    1 string data = "Učí, jak připravit Papillote."
    [802]
-    1 string data = "Recipe: Poutine"
+    1 string data = "Recept: Poutine"
    [803]
-    1 string data = "Teaches how to cook Poutine."
+    1 string data = "Učí, jak připravit Poutine."
    [804]
-    1 string data = "Recipe: Pudding Chômeur"
+    1 string data = "Recept: Puding Chômeur"
    [805]
-    1 string data = "Teaches how to cook Pudding Chômeur."
+    1 string data = "Učí, jak připravit Puding Chômeur."
    [806]
-    1 string data = "Recipe: Roast Sandwich"
+    1 string data = "Recept: Zapečený sendvič"
    [807]
-    1 string data = "Teaches how to cook Roast Sandwich."
+    1 string data = "Učí, jak připravit Zapečený sendvič."
    [808]
-    1 string data = "Recipe: Soufflé"
+    1 string data = "Recept: Soufflé"
    [809]
-    1 string data = "Teaches how to cook Soufflé."
+    1 string data = "Učí, jak připravit Soufflé."
    [810]
-    1 string data = "Recipe: Surf and Turf Tataki"
+    1 string data = "Recept: Surf a Turf Tataki"
    [811]
-    1 string data = "Teaches how to cook Surf and Turf Tataki."
+    1 string data = "Učí, jak připravit Surf a Turf Tataki."
    [812]
-    1 string data = "Recipe: Tartine"
+    1 string data = "Recept: Tartine"
    [813]
-    1 string data = "Teaches how to cook Tartine."
+    1 string data = "Učí, jak připravit Tartine."
    [814]
-    1 string data = "Recipe: Tomato Club"
+    1 string data = "Recept: Rajčatový sendvič"
    [815]
-    1 string data = "Teaches how to cook Tomato Club."
+    1 string data = "Učí, jak připravit Rajčatový sendvič."
    [816]
-    1 string data = "Recipe: Veggie Skewers"
+    1 string data = "Recept: Veggie špízy"
    [817]
-    1 string data = "Teaches how to cook Veggie Skewers."
+    1 string data = "Učí, jak připravit Veggie špízy."
    [818]
-    1 string data = "Recipe: Wild Salad"
+    1 string data = "Recept: Salát na divoko"
    [819]
-    1 string data = "Teaches how to prepare Wild Salad."
+    1 string data = "Učí, jak připravit divoký salát."
    [820]
-    1 string data = "Recipe: Yakitori Shrimp"
+    1 string data = "Recept: Krevety Yakitori"
    [821]
-    1 string data = "Teaches how to cook Yakitori Shrimp."
+    1 string data = "Učí, jak připravit Krevety Yakitori."
    [822]
-    1 string data = "Trader's Signet"
+    1 string data = "Signet obchodníka"
    [823]
-    1 string data = "Might be of interest to a certain merchant."
+    1 string data = "To by mohlo zajímat jistého obchodníka."
    [824]
-    1 string data = "Data Strip"
+    1 string data = "Datový modul"
    [825]
-    1 string data = "With enough strips, a Cypher could be created."
+    1 string data = "S dostatkem modulů by mohl být stvořen Cypher."
    [826]
     1 string data = "Cypher"
    [827]
-    1 string data = "Can be used to open the encrypted door in Repine."
+    1 string data = "Lze použít k otevření zašifrovaných dveří v Repotu."
    [828]
-    1 string data = "Deployable Wheels Table"
+    1 string data = "Tabulka s nasaditelnými koly"
    [829]
-    1 string data = "Bought from The Watchmaker for delivery in Repine."
+    1 string data = "Zakoupeno u Hodinářky za účelem dodání do Repotu."
    [830]
-    1 string data = "Moraine's Office Key"
+    1 string data = "Klíč od kanceláře Moraine"
    [831]
-    1 string data = "The key to the Headmaster's office in Zenith Academy."
+    1 string data = "Klíč od ředitelovy kanceláře v Akademii Zenit."
    [832]
-    1 string data = "Spa Plans"
+    1 string data = "Plány lázní"
    [833]
-    1 string data = "Plans for the construction of a spa in Mirth."
+    1 string data = "Plány na výstavbu lázní ve Veselí."
    [834]
-    1 string data = "Inn Plans"
+    1 string data = "Plány hostince"
    [835]
-    1 string data = "Plans for the construction of an inn in Mirth."
+    1 string data = "Plány na výstavbu hostince ve Veselí."
    [836]
-    1 string data = "Fishing Hut Plans"
+    1 string data = "Plány rybářské chaty"
    [837]
-    1 string data = "Plans for the construction of a fishing hut in Mirth."
+    1 string data = "Plány na výstavbu rybářské chaty ve Veselí."
    [838]
-    1 string data = "Shop Plans"
+    1 string data = "Plány obchodu"
    [839]
-    1 string data = "Plans for the construction of a shop in Mirth."
+    1 string data = "Plány na stavbu obchodu ve Veselí."
    [840]
-    1 string data = "Alumni Token"
+    1 string data = "Absolventský žeton"
    [841]
-    1 string data = "A memento of past deeds. Can be sold for 1G."
+    1 string data = "Památka na minulé činy. Lze prodat za 1G."
    [842]
-    1 string data = "Flimsy Hammer"
+    1 string data = "Chatrné kladivo"
    [843]
-    1 string data = "Very flimsy."
+    1 string data = "Velmi chatrné."
    [844]
-    1 string data = "Music Sheet #1"
+    1 string data = "Notový zápis #1"
    [845]
-    1 string data = "Music Sheet #2"
+    1 string data = "Notový zápis #2"
    [846]
-    1 string data = "Music Sheet #3"
+    1 string data = "Notový zápis #3"
    [847]
-    1 string data = "Music Sheet #4"
+    1 string data = "Notový zápis #4"
    [848]
-    1 string data = "Music Sheet #5"
+    1 string data = "Notový zápis #5"
    [849]
-    1 string data = "Music Sheet #6"
+    1 string data = "Notový zápis #6"
    [850]
-    1 string data = "Music Sheet #7"
+    1 string data = "Notový zápis #7"
    [851]
-    1 string data = "Yolande will know what to do with this."
+    1 string data = "Yolanda už bude vědět, co s tím."

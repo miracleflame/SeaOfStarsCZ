@@ -333,7 +333,7 @@
    [159]
     1 string data = "A tímto byli [MAINCHAR] a [OFFCHAR] v doprovodu svého nejlepšího přítele, válečného kuchaře, vysláni na začátek své cesty."
    [160]
-    1 string data = "Při snaze dostat se na Přízračný ostrov, než nastane zatmění, se brzy vypořádají se dvěma mocnými čaroději."
+    1 string data = "Při snaze dostat se na Přízračný ostrov, než nastane zatmění, se brzy vypořádají se dvěma mocnými černokněžníky."
    [161]
     1 string data = "Jeden je trápen zlostí, druhý zcela bez života..."
    [162]

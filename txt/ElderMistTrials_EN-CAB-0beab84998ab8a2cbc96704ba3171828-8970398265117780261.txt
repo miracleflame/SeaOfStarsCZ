@@ -43,7 +43,7 @@
    [14]
     1 string data = "..."
    [15]
-    1 string data = "Hele, když jsem zaútočil, objevily se nějaké <color=magic>malé koule</color>".
+    1 string data = "Hele, když jsem zaútočila, objevily se nějaké <color=magic>malé koule</color>".
    [16]
     1 string data = "Možná je to "Živá mana"?"
    [17]

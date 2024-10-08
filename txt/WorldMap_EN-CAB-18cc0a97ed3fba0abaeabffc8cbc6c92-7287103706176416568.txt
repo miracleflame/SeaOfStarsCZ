@@ -31,7 +31,7 @@
    [8]
     1 string data = "Zale. Předstup."
    [9]
-    1 string data = "(Abys dosáhl svého plného potenciálu, budeš muset nejprve <color=magic>pohlédnout do noci, která je v tobě</color>.")"
+    1 string data = "(Abys dosáhl svého plného potenciálu, budeš muset nejprve <color=magic>pohlédnout do noci, která je v tobě</color>.)"
    [10]
     1 string data = "..."
    [11]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "Valerie. Přistup blíž."
    [13]
-    1 string data = "(Až přijde čas, budeš to ty, kdo <color=magic>vytvoří cesty na vodě</color>.")"
+    1 string data = "(Až přijde čas, budeš to ty, kdo <color=magic>vytvoří cesty na vodě</color>.)"
    [14]
     1 string data = "..."
    [15]

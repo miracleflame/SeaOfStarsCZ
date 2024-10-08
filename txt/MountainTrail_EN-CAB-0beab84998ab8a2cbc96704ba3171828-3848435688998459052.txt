@@ -441,7 +441,7 @@
    [213]
     1 string data = "Některé ukrývají artefakty, jež mají pomáhat budoucím členům řádu, jako jste vy, zatímco jiné zadržují zlo, které bylo příliš mocné na to, abychom se mu postavili."
    [214]
-    1 string data = "Zda budete po těchto artefaktech a výzvách pátrat, či nikoliv, bude <color=magic>záležet pouze na vás</color>".
+    1 string data = "Zda budete po těchto artefaktech a výzvách pátrat, či nikoliv, bude <color=magic>záležet pouze na vás</color>."
    [215]
     1 string data = "Nyní může vaše cesta začít."
    [216]

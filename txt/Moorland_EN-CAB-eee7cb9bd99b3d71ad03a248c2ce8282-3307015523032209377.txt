@@ -175,7 +175,7 @@
    [80]
     1 string data = "Dobrou, lidi!"
    [81]
-    1 string data = "Ani jsem nevěděl, že existuje něco jako Potulní historici. Zajímalo by mě, kolik jich kdysi bývalo."
+    1 string data = "Ani jsem nevěděla, že existuje něco jako Potulní historici. Zajímalo by mě, kolik jich kdysi bývalo."
    [82]
     1 string data = "Příběhy u táboráku? Tak to si rád poslechnu!"
    [83]
