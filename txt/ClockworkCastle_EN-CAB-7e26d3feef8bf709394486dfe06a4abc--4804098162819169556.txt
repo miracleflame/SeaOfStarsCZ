@@ -1071,20 +1071,20 @@
    [528]
     1 string data = "Jsem zvědavá, co tihle dva dokážou."
    [529]
-    1 string data = "Zvědavá a také netrpělivá!"
+    1 string data = "Zvědavá, a ještě k tomu netrpělivá!"
    [530]
     1 string data = "Prozatím čekáme."
    [531]
     1 string data = "<color=bad>Trojko</color>, víš, co máš dělat."
    [532]
-    1 string data = "Čas kvapí. Probíhá s přípravami vše podle plánu?"
+    1 string data = "Čas kvapí. Probíhá to s přípravami vše podle plánu?"
    [533]
     1 string data = "Na zatmění budeme připraveni."
    [534]
-    1 string data = "Připraveni a také nadšeni!"
+    1 string data = "Připraveni, a ještě k tomu nadšeni!"
    [535]
-    1 string data = "Obávám se, že sekundantovo váhání by mohlo vyprchat. Měli bychom si obstarat konečné potvrzení."
+    1 string data = "Obávám se, že sekundantovo váhání by mohlo zesílit. Měli bychom si obstarat konečné potvrzení."
    [536]
     1 string data = "Půjdu sám."
    [537]
-    1 string data = "<color=bad>Trojko</color>, postarej se, aby počas mé nepřítomnosti vše proběhlo hladce."
+    1 string data = "<color=bad>Trojko</color>, postarej se, aby během mé nepřítomnosti vše proběhlo hladce."
