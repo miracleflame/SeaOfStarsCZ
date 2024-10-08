@@ -127,7 +127,7 @@
    [56]
     1 string data = "Captain Cliché"
    [57]
-    1 string data = "Captain Klee'shaë"
+    1 string data = "Captain Klii'šaë"
    [58]
     1 string data = "Captain Crochet"
    [59]
@@ -279,7 +279,7 @@
    [132]
     1 string data = "FALSE"
    [133]
-    1 string data = "True or False: Captain Klee'shaë acquired The Vespertine by spending a Coin of Undeath Accord."
+    1 string data = "True or False: Captain Klii'šaë acquired The Vespertine by spending a Coin of Undeath Accord."
    [134]
     1 string data = "TRUE"
    [135]

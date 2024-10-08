@@ -119,7 +119,7 @@
    [52]
     1 string data = "Měli bychom se jít podívat, co nám ti piráti mohou nabídnout?"
    [53]
-    1 string data = "Buďme na pozoru, až přineseme minci kapitánce Klii'shaë."
+    1 string data = "Buďme na pozoru, až přineseme minci kapitánce Klii'šaë."
    [54]
     1 string data = "Tady nahoře žádné lodě nejsou, asi budeme muset pokračovat na východ."
    [55]
@@ -133,7 +133,7 @@
    [59]
     1 string data = "Taky nemám zrovna dobrý pocit z jednání s piráty, ale potřebujeme se svézt na lodi…"
    [60]
-    1 string data = "Doufám, že kapitánka Klii'shaë dodrží svou část dohody…"
+    1 string data = "Doufám, že kapitánka Klii'šaë dodrží svou část dohody…"
    [61]
     1 string data = "Chci ještě jednou cestovat v kouli!"
    [62]

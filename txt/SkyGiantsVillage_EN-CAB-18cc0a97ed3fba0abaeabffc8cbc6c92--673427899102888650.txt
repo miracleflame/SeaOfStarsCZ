@@ -381,7 +381,7 @@
    [183]
     1 string data = "Please gather your group."
    [184]
-    1 string data = "Honorable council. If you could make an exception, I would like to go as Captain Klee'shaë."
+    1 string data = "Honorable council. If you could make an exception, I would like to go as Captain Klii'šaë."
    [185]
     1 string data = "My crew, they..."
    [186]
@@ -405,7 +405,7 @@
    [195]
     1 string data = "Next!"
    [196]
-    1 string data = "Pirate Captain Klee'shaë."
+    1 string data = "Pirate Captain Klii'šaë."
    [197]
     1 string data = "Next!"
    [198]

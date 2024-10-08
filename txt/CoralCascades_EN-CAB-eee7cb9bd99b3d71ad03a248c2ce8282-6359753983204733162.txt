@@ -17,7 +17,7 @@
    [1]
     1 string data = "Port Town of Brisk <sprite="dialog-generic-icons" name="arrow-east">  "
    [2]
-    1 string data = "Looking for a boat? Head over to the port town of Brisk and meet Captain Klee'shaë's crew!"
+    1 string data = "Looking for a boat? Head over to the port town of Brisk and meet Captain Klii'šaë's crew!"
    [3]
     1 string data = "Boat, Ship, Boat, Ship, Boat, Ship, Boat, Ship, BRISK!"
    [4]

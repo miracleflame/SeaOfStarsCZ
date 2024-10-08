@@ -35,7 +35,7 @@
    [10]
     1 string data = "Who would have thought?"
    [11]
-    1 string data = "Learn Captain Klee'shaë's true identity"
+    1 string data = "Learn Captain Klii'šaë's true identity"
    [12]
     1 string data = "Yo, Ho!"
    [13]

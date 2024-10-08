@@ -47,7 +47,7 @@
    [16]
     1 string data = "Fine. Let's do introductions."
    [17]
-    1 string data = "Meet our leader <color=good>Captain Klee'shaë</color>, daughter ov a legendary pirate!"
+    1 string data = "Meet our leader <color=good>Captain Klii'šaë</color>, daughter ov a legendary pirate!"
    [18]
     1 string data = "..."
    [19]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "What impeccable timing!"
    [34]
-    1 string data = "Now Captain Klee'shaë here can certainly take y'all to Wraith Island. For a price, ov course."
+    1 string data = "Now Captain Klii'šaë here can certainly take y'all to Wraith Island. For a price, ov course."
    [35]
     1 string data = "..."
    [36]
@@ -447,11 +447,11 @@
    [216]
     1 string data = "We were going to play pirates but we got into an argument again because we both wanted to be Keenathan."
    [217]
-    1 string data = "Next time we play I'll be Captain Klee'shaë!"
+    1 string data = "Next time we play I'll be Captain Klii'šaë!"
    [218]
     1 string data = "It's not fair, she always picks Keenathan!"
    [219]
-    1 string data = "She agreed to be Captain Klee'shaë next time, so we're still friends."
+    1 string data = "She agreed to be Captain Klii'šaë next time, so we're still friends."
    [220]
     1 string data = "This is my favorite spot. Can you feel the breeze? It's no wonder how the town got its name!"
    [221]
