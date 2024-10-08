@@ -219,7 +219,7 @@
    [102]
     1 string data = "Proč to vzdáváte teď? Někteří z nás stále ještě mohou být povzneseni!"
    [103]
-    1 string data = "Povzneseni na "Strážné Bohy"? Nebuď směšná!"
+    1 string data = "Povzneseni na "Božské Ochránce"? Nebuď směšná!"
    [104]
     1 string data = "Kolik staletí se marně čekalo na splnění toho falešného slibu?"
    [105]

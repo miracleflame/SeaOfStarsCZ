@@ -1081,7 +1081,7 @@
    [533]
     1 string data = "Na zatmění budeme připraveni."
    [534]
-    1 string data = "Připraveni a také vzrušeni!"
+    1 string data = "Připraveni a také nadšeni!"
    [535]
     1 string data = "Obávám se, že sekundantovo váhání by mohlo vyprchat. Měli bychom si obstarat konečné potvrzení."
    [536]
