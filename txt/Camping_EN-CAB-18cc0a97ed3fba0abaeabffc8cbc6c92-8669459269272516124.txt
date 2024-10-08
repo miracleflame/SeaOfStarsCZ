@@ -81,7 +81,7 @@
    [33]
     1 string data = "Mlžný stařešina. Zajímalo by mě, jak vypadá…"
    [34]
-    1 string data = "Musíme se dostat na Přízračný ostrov včas před zatměním, ať už je to kdekoli."
+    1 string data = "Musíme se dostat na Přízračný ostrov včas před zatměním, ať už je to kdekoliv."
    [35]
     1 string data = "Je fajn pocit být zase s Garlem."
    [36]
@@ -91,15 +91,15 @@
    [38]
     1 string data = "Škoda, že jsme před odjezdem neviděli Garla."
    [39]
-    1 string data = "Takže Mlžný stařešina? Předpokládám, že stačí najít tuhle horu."
+    1 string data = "Takže Mlžný stařešina? Předpokládám, že stačí najít tu horu."
    [40]
-    1 string data = "Jestli se máme dostat na Přízračný ostrov před zatměním, asi budeme potřebovat loď nebo něco takového."
+    1 string data = "Jestli se máme dostat na Přízračný ostrov před zatměním, budeme asi potřebovat loď nebo něco takového."
    [41]
     1 string data = "Bez Garla to nebylo ono."
    [42]
     1 string data = "Zkoušky Mlžného stařešiny. Po nich z nás budou oficiálně Bojovníci Slunovratu!"
    [43]
-    1 string data = "Je načase použít naše nové schopnosti a projít k velké soše na vrcholu Horské stezky.."
+    1 string data = "Je načase použít naše nové schopnosti a projít k velké soše na vrcholu Horské stezky."
    [44]
     1 string data = "[MAINCHAR], je dobře, že jsme konečně všichni pohromadě!"
    [45]
@@ -107,13 +107,13 @@
    [46]
     1 string data = "Ta věc s Živou manou je neskutečná, chci pořád posilovat!"
    [47]
-    1 string data = "V této výšce nikdy nenajdeme loď. Musí být nějaká cesta nadol."
+    1 string data = "V této výšce žádnou loď nikdy nenajdeme. Musí tu být nějaká cesta dolů."
    [48]
-    1 string data = "Musíme se dostat na Přízračný ostrov včas před zatměním, ať už je to kdekoli."
+    1 string data = "Musíme se dostat na Přízračný ostrov včas před zatměním, ať už je to kdekoliv."
    [49]
-    1 string data = "Nepomyslel bych si, že budeme nakonec zachraňovat městečko a přeci…"
+    1 string data = "Nepomyslela bych si, že budeme nakonec zachraňovat městečko, a přeci…"
    [50]
-    1 string data = "Byl to dobrý pocit použít své schopnosti, abychom pomohli."
+    1 string data = "Byl to dobrý pocit, použít své schopnosti, abychom pomohli."
    [51]
     1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Brisku."
    [52]
@@ -123,7 +123,7 @@
    [54]
     1 string data = "Tady nahoře žádné lodě nejsou, asi budeme muset pokračovat na východ."
    [55]
-    1 string data = "Jestli se máme dostat na Přízračný ostrov před zatměním, asi budeme potřebovat loď nebo něco takového.."
+    1 string data = "Jestli se máme dostat na Přízračný ostrov před zatměním, asi budeme potřebovat loď nebo něco takového."
    [56]
     1 string data = "Doufám, že dokážeme pomoci Molekinům, působí tak mírumilovně."
    [57]
@@ -139,19 +139,19 @@
    [62]
     1 string data = "Vzduch je tu TAK DOBRÝ!"
    [63]
-    1 string data = "Bojovat s černokněžníčkou naprosto bylo na mém seznamu než umřu!"
+    1 string data = "Bojovat se zlým čarodějem naprosto bylo na mém seznamu, než umřu!"
    [64]
     1 string data = "Malkomud ucpává větrné tunely dolu. Musíme něco udělat, než se Spáč probudí!"
    [65]
-    1 string data = "Nebylo fér, jak se lidé k Malkomudovi chovali."
+    1 string data = "Nebylo fér, jak se ostatní k Malkomudovi chovali."
    [66]
-    1 string data = "Ještě že jsme opravili ten velký výtah v Molekinském dole - už se nemůžu dočkat, až uvidím Brisk!"
+    1 string data = "Ještěže jsme opravili ten velký výtah ve vesnici Molekinů - už se nemůžu dočkat, až uvidím Brisk!"
    [67]
     1 string data = "Ta věc s Živou manou je neskutečná, chci pořád posilovat!"
    [68]
     1 string data = "Nemůžu uvěřit, že máme schůzku s piráty! To je neskutečné!"
    [69]
-    1 string data = ""Mince Nemrtvé dohody se nachází v laboratoři černokněžníka severně od Brisku." Tak TOMUHLE říkám úkol!"
+    1 string data = ""Mince Nemrtvé dohody se nachází v laboratoři čaroděje severně od Brisku." Tak TOMUHLE říkám úkol!"
    [70]
     1 string data = "Není nic lepšího než pořádný úkol, jenž udrží pružnost v kroku!"
    [71]
@@ -167,15 +167,15 @@
    [76]
     1 string data = "Vydrž, Garle…"
    [77]
-    1 string data = "O nekromantech jsme se nikdy nic neučili. Myslím, že prostě budeme muset improvizovat."
+    1 string data = "Nekromanty jsme nikdy ve škole nebrali. Myslím, že prostě budeme muset improvizovat."
    [78]
     1 string data = "Bojovali jsme tam dobře."
    [79]
     1 string data = "Měli bychom si co nejdříve promluvit s Morainem."
    [80]
-    1 string data = "Musíme se nějak dostat do zahrad."
+    1 string data = "Musíme se nějak dostat na zahradu."
    [81]
-    1 string data = "Na řadě je Příživníčka žalu. Jsem připraven."
+    1 string data = "Na řadě je Přiživovačka žalu. Jsem připravena."
    [82]
     1 string data = "…"
    [83]
@@ -187,21 +187,21 @@
    [86]
     1 string data = "Ještě že Seraï dorazila, kdy dorazila."
    [87]
-    1 string data = "Kámen duše… to zvládneme…"
+    1 string data = "Kámen duší… to zvládneme…"
    [88]
     1 string data = "Garle. Už jdeme!"
    [89]
     1 string data = "Musíme jít za Morainem."
    [90]
-    1 string data = "Moraine říkal, že zahrady jsou přes knihovnu."
+    1 string data = "Moraine říkal, že zahrada je přes knihovnu."
    [91]
     1 string data = "Je čas postavit se tváří v tvář Přiživovačce žalu."
    [92]
     1 string data = "…"
    [93]
-    1 string data = "Měli bychom najít tu hospodu, co o ni mluvil Valtraid - chci je vidět, jak hrají!"
+    1 string data = "Měli bychom najít tu hospodu, co o ní mluvil Valtraid - chci je vidět, jak hrají!"
    [94]
-    1 string data = "Takže když ten vesničan šel do Prokletého lesa, znamená to, že doupě Přiživovačky je také na sever od Lucentu?"
+    1 string data = "Takže, když ten vesničan šel do Prokletého lesa, znamená to, že doupě Přiživovačky je také na sever od Lucentu?"
    [95]
     1 string data = "Už je skoro čas zatmění, co?"
    [96]
@@ -213,15 +213,15 @@
    [99]
     1 string data = "Vaše první očista! Nejste trochu nervózní?"
    [100]
-    1 string data = "Moraine bude v pořádku, každopádně…"
+    1 string data = "Moraine alespoň bude v pořádku…"
    [101]
     1 string data = "Převozníkova hlídka je východně od Lucentu."
    [102]
-    1 string data = "Zůstaňte ve střehu. Nekromantka nás neuvidí ráda."
+    1 string data = "Zůstaňte ve střehu. Nekromantka z nás nebude nadšená."
    [103]
     1 string data = "Měli bychom si pospíšit a vrátit se."
    [104]
-    1 string data = "Botanická hrůza… Pomůžu, jak budu moct."
+    1 string data = "Zahradní zrůda… Pomůžu, jak budu moct."
    [105]
     1 string data = "Hortenzie se zdá být milá. Děláme tu něco dobrého."
    [106]
@@ -235,19 +235,19 @@
    [110]
     1 string data = "Takže Vodní vír? To zvládneme."
    [111]
-    1 string data = "Když vidím Hortenzi, jak tu takhle uvízla, mám z vévody Aventryho špatný pocit."
+    1 string data = "Když vidím Hortenzii, jak tu takhle uvízla, je mi líto vévody Aventryho."
    [112]
     1 string data = "Pořád nemůžu uvěřit, že by to Erlina a Brugaves udělali…"
    [113]
     1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Brisku."
    [114]
-    1 string data = "Je to dobrý pocit umožnit těm lidem začít nanovo."
+    1 string data = "Je dobrý pocit umožnit těm lidem začít nanovo."
    [115]
-    1 string data = "Hortenzie je třída. Dovedeš si představit, tak dlouho držet laťku?"
+    1 string data = "Hortenzie je třída. Dovedeš si představit, že se udržela tak dlouho?"
    [116]
     1 string data = "Takže plán je převzít tuhle loď?"
    [117]
-    1 string data = "Duchové pirátů nebyli na mém seznamu než umřu, ale beru to!"
+    1 string data = "Duchové pirátů nebyli na mém seznamu, než umřu, ale beru to!"
    [118]
     1 string data = "Tihle lidé potřebují nový začátek. Vím přesně, jak to naplánovat!"
    [119]
@@ -271,7 +271,7 @@
    [128]
     1 string data = "Resh'an na nás bude čekat."
    [129]
-    1 string data = "Když si pomyslím, že byl i neznámý Příživník…"
+    1 string data = "Když si pomyslím, že jsme o nějakém Přiživovači nevěděli…"
    [130]
     1 string data = "Glad that Dweller is behind us now."
    [131]
