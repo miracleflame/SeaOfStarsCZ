@@ -223,7 +223,7 @@
    [104]
     1 string data = "Dobře, postavím na vodu. Musíme toho ještě tolik dohnat!"
    [105]
-    1 string data = "Válečný kuchař Garl se přidává do skupiny!"
+    1 string data = "Válečný kuchař Garl se přidává do družiny!"
    [106]
     1 string data = "A až se setkáme s Mlžným stařešinou, budeme prý umět "používat magii bez použití magie" a budeme vysláni do světa."
    [107]
@@ -391,7 +391,7 @@
    [188]
     1 string data = "Dovolím to!"
    [189]
-    1 string data = "Dobře! Díky, Mlžný stařešino!"
+    1 string data = "Dobrý! Díky, Mlžný stařešino!"
    [190]
     1 string data = "Považuj to za zkoušku svých schopností působit jako společník Bojovníků Slunovratu."
    [191]

@@ -129,21 +129,21 @@
    [57]
     1 string data = "OBR"
    [58]
-    1 string data = "M. UTK"
+    1 string data = "M. ÚTK"
    [59]
     1 string data = "M. OBR"
    [60]
-    1 string data = "UTK"
+    1 string data = "ÚTK"
    [61]
     1 string data = "OBR"
    [62]
-    1 string data = "M. UTK"
+    1 string data = "M. ÚTK"
    [63]
     1 string data = "M. OBR"
    [64]
     1 string data = "Úroveň"
    [65]
-    1 string data = "ÚV"
+    1 string data = "ÚVŇ"
    [66]
     1 string data = "Vylepšit stojí"
    [67]
@@ -753,7 +753,7 @@
    [369]
     1 string data = "Požírač Světů"
    [370]
-    1 string data = "ZBÝVÁ"
+    1 string data = "DO DALŠÍ ÚROVNĚ"
    [371]
     1 string data = "Některé akce nejsou namapovány."
    [372]

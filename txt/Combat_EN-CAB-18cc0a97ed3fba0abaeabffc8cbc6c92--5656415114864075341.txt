@@ -305,13 +305,13 @@
    [145]
     1 string data = "Valerie se naučila bojovou dovednost <sprite="dialog-inventory-icons" name="icn-skills-valere-lunarshield"> <color="magic">Lunární štít</color>!"
    [146]
-    1 string data = "Ozdravné světlo"
+    1 string data = "Světlo zotavení"
    [147]
     1 string data = "Obnovuje BŽ všem spojencům."
    [148]
     1 string data = "Stiskněte <button="Interact"> ke konci pro posílení."
    [149]
-    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Ozdravné světlo</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Světlo zotavení</color>!"
    [150]
     1 string data = "Slunarang"
    [151]
@@ -361,11 +361,11 @@
    [173]
     1 string data = "Meč a paže Mlžného stařešiny se cítí lépe."
    [174]
-    1 string data = "Promíchat slabinu: Slunce"
+    1 string data = "Namíchaná slabina: Slunce"
    [175]
-    1 string data = "Promíchat slabinu: Měsíc"
+    1 string data = "Namíchaná slabina: Měsíc"
    [176]
-    1 string data = "Promíchat slabinu: Fyzikální"
+    1 string data = "Namíchaná slabina: Fyzikální"
    [177]
     1 string data = "Léčivá mlha"
    [178]

@@ -467,7 +467,7 @@
    [226]
     1 string data = ""Doufám, že vám sušenky budou chutnat.""
    [227]
-    1 string data = ""Váš kamarád až do konce světa.""
+    1 string data = ""Váš kamarád až do konce života.""
    [228]
     1 string data = ""-Garl""
    [229]
@@ -807,9 +807,9 @@
    [396]
     1 string data = "(Jen ať se vesničané pobaví. Nic jiného nemají.)"
    [397]
-    1 string data = "(Takže tobě tohle vyhovuje?)"
+    1 string data = "(Takže tobě se to líbí?)"
    [398]
-    1 string data = "(Víš, že ne.)"
+    1 string data = "(To víš, že ne.)"
    [399]
     1 string data = "A teď se mnou jásejte, protože posíláme tyto mladé hrdiny napříč Zakázanou jeskyní vstříc Mlžnému stařešinovi!"
    [400]

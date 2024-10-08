@@ -295,7 +295,7 @@
    [140]
     1 string data = "Svatosvaté věže leží severozápadně odsud. Jdeme."
    [141]
-    1 string data = "B'st se přidává do skupiny!"
+    1 string data = "B'st se přidává do družiny!"
    [142]
     1 string data = "V téhle kapsli... Zde jsem byl celá ta léta držen..."
    [143]

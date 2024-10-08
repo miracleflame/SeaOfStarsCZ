@@ -329,7 +329,7 @@
    [157]
     1 string data = "Then lead the way. K ostrovu Mesa je to severovýchodním směrem. Je to ten s obří kamennou hlavou."
    [158]
-    1 string data = "Nesmrtelný alchymista Resh'an se přidává do skupiny!"
+    1 string data = "Nesmrtelný alchymista Resh'an se přidává do družiny!"
    [159]
     1 string data = "A tímto byli [MAINCHAR] a [OFFCHAR] v doprovodu svého nejlepšího přítele, válečného kuchaře, vysláni na začátek své cesty."
    [160]
