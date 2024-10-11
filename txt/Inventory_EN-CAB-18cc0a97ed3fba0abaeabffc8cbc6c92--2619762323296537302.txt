@@ -1659,7 +1659,7 @@
    [822]
     1 string data = "Pečeť obchodníka"
    [823]
-    1 string data = "Mohla zajímat jistého obchodníka."
+    1 string data = "Mohla by zajímat jistého obchodníka."
    [824]
     1 string data = "Datový modul"
    [825]
