@@ -221,7 +221,7 @@
    [103]
     1 string data = "Měli bychom si pospíšit a vrátit se."
    [104]
-    1 string data = "Zahradní zrůda… Pomůžu, jak budu moct."
+    1 string data = "Botanická zrůda… Pomůžu, jak budu moct."
    [105]
     1 string data = "Hortenzie se zdá být milá. Děláme tu něco dobrého."
    [106]
