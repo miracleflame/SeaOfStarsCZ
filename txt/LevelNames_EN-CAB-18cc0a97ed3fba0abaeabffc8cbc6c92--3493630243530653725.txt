@@ -53,7 +53,7 @@
    [19]
     1 string data = "Mokřady"
    [20]
-    1 string data = "Kamenolom"
+    1 string data = "Základna"
    [21]
     1 string data = "Doly Větrných tunelů"
    [22]
@@ -183,7 +183,7 @@
    [84]
     1 string data = "Večernice"
    [85]
-    1 string data = "Moře nočních můr"
+    1 string data = "Moře noční můry"
    [86]
     1 string data = "???"
    [87]

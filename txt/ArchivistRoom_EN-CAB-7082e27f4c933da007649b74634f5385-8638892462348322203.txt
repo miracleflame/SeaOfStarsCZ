@@ -337,7 +337,7 @@
    [161]
     1 string data = "Jeden je trápen zlostí, druhý zcela bez života..."
    [162]
-    1 string data = "Překonáním iluzí mrtvého čaroděje si naši hrdinové zajistili plavbu na Přízračný ostrov, než nastane zatmění."
+    1 string data = "Překonáním iluzí mrtvého černokněžníka si naši hrdinové zajistili plavbu na Přízračný ostrov, než nastane zatmění."
    [163]
     1 string data = "Na místě, kde je noc věčná a mrtví ožívají, se připravují na souboj s posledním známým Přiživovačem."
    [164]

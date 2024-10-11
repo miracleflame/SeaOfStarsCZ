@@ -195,7 +195,7 @@
    [90]
     1 string data = "Čím víc, tím líp!"
    [91]
-    1 string data = "Teaks se přidává na palubu!"
+    1 string data = "Teaks se přidává k posádce!"
    [92]
     1 string data = "So you are willing to hear us out this time?"
    [93]
