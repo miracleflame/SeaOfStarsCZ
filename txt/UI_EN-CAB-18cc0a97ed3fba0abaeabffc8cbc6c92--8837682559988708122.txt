@@ -725,11 +725,11 @@
    [355]
     1 string data = "<button="UI_Back"> Přeskočit"
    [356]
-    1 string data = "Píseň #[TRACKID]"
+    1 string data = "Skladba #[TRACKID]"
    [357]
-    1 string data = "<button="DeployParty">/<button="NextTrack"> Změnit Píseň"
+    1 string data = "<button="DeployParty">/<button="NextTrack"> Přepnout skladbu"
    [358]
-    1 string data = "<button="WindBracelet"> Náhodná píseň"
+    1 string data = "<button="WindBracelet"> Náhodnou skladbu"
    [359]
     1 string data = "Víc neuneseme."
    [360]
