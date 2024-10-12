@@ -51,9 +51,9 @@
    [18]
     1 string data = "X'tolova přistávací plocha"
    [19]
-    1 string data = "Mokřady"
+    1 string data = "Vřesoviště"
    [20]
-    1 string data = "Základna"
+    1 string data = "Kamenolom"
    [21]
     1 string data = "Doly Větrných tunelů"
    [22]
