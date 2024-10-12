@@ -231,7 +231,7 @@
    [108]
     1 string data = "Tak, co to bude?"
    [109]
-    1 string data = "<sprite="dialog-generic-icons" name="arrow-east"> Kamenolom\n<sprite="dialog-generic-icons" name="arrow-south-west"> Rybník"
+    1 string data = "<sprite="dialog-generic-icons" name="arrow-east"> Hornická vesnička\n<sprite="dialog-generic-icons" name="arrow-south-west"> Větrné jezero"
    [110]
     1 string data = "Mám rád hory."
    [111]

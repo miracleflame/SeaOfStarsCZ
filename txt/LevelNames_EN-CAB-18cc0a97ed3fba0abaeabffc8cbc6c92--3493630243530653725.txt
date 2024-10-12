@@ -53,7 +53,7 @@
    [19]
     1 string data = "Vřesoviště"
    [20]
-    1 string data = "Kamenolom"
+    1 string data = "Hornická vesnička"
    [21]
     1 string data = "Doly Větrných tunelů"
    [22]

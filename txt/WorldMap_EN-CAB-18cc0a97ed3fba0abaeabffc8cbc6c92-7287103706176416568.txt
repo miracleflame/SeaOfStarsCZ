@@ -131,7 +131,7 @@
    [58]
     1 string data = "Khukharr!"
    [59]
-    1 string data = "Jít do Kamenolomu?"
+    1 string data = "Jít do Hornické vesničky?"
    [60]
     1 string data = "Ostrov se nachází severovýchodně od Brisku. Nezapomeňte použít mapu v případě potřeby!"
    [61]

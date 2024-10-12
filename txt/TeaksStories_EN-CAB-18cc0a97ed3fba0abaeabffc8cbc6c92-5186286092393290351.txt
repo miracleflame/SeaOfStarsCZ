@@ -93,7 +93,7 @@
    [39]
     1 string data = "Nebo spíše tak dlouho, dokud hora hrála melodii věrně."
    [40]
-    1 string data = "V zájmu vyššího dobra se Molekinové vzdali studia magie a založili na vrcholu hory kamenolom."
+    1 string data = "V zájmu vyššího dobra se Molekinové vzdali studia magie a založili na vrcholu hory Hornickou vesničku."
    [41]
     1 string data = "V průběhu generací se z nich stali odborníci na hornictví a žili ze závazku udržovat větrné tunely v provozu."
    [42]
