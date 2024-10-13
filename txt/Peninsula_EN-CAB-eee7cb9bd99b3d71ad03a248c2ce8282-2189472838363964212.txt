@@ -13,60 +13,60 @@
   1 Array Array (29 items)
    0 int size = 29
    [0]
-    1 string data = "And then he went, “Behold the pain of everlasting sin!” and turned into some half-something form with a beautiful face blowing softly on an apple with feathered wings."
+    1 string data = "A pak pravil: "Hle, bolest věčného hříchu!" a proměnil se v jakési polocosi s překrásnou tváří, která jemně foukala na jablko s opeřenými křídly."
    [1]
-    1 string data = "What happened next?"
+    1 string data = "Co se stalo pak?"
    [2]
-    1 string data = "Chugged about twenty-six of the elixirs we had been saving for later, and eventually we won."
+    1 string data = "Vychlemtali jsme asi šestadvacet elixírů, jež jsme si šetřili na pozdějc, a nakonec jsme vyhráli."
    [3]
-    1 string data = "Huzzah!"
+    1 string data = "Hurá!"
    [4]
-    1 string data = "A valiant battle!"
+    1 string data = "Udatná bitva!"
    [5]
     1 string data = "..."
    [6]
-    1 string data = "Get ready, we jump on the next flash."
+    1 string data = "Připravte se, skočíme na další záblesk."
    [7]
-    1 string data = "Orders, Captain?"
+    1 string data = "Rozkazy, kapitánko?"
    [8]
-    1 string data = "Keep the villagers safe until our return."
+    1 string data = "Dohlédněte na bezpečnost vesničanů, dokud se nevrátíme."
    [9]
-    1 string data = "Can do, will do!"
+    1 string data = "Mohu i provedu!"
    [10]
-    1 string data = "Safe journeys, Captain!"
+    1 string data = "Šťastnou plavbu, kapitánko!"
    [11]
-    1 string data = "With everything happening it seems there will never be time to explain, so..."
+    1 string data = "Při všem tom dění se zdá, že na vysvětlování nezbude nikdy čas, takže..."
    [12]
-    1 string data = "Please don't tell my crew."
+    1 string data = "Prosím, neříkejte to mé posádce."
    [13]
-    1 string data = "Seraï, we sort of knew already..."
+    1 string data = "Seraï, už jsme to tak nějak věděli..."
    [14]
     1 string data = "!?!"
    [15]
-    1 string data = "Then why didn't you say anything?"
+    1 string data = "Tak proč jste nic neřekli?"
    [16]
-    1 string data = "You're clearly on our side, it's all that matters."
+    1 string data = "Jsi očividně na naší straně, na tom jedinem záleží."
    [17]
-    1 string data = "Yeah whatever your reasons are, they must be good."
+    1 string data = "Tak, ať už jsou tvé důvody jakékoliv, budou dobré."
    [18]
-    1 string data = "Oh and thanks for spending the coin to save me!"
+    1 string data = "Jo a díky, žes utratila tu minci, abys mě zachránila!"
    [19]
-    1 string data = "I..."
+    1 string data = "Já..."
    [20]
-    1 string data = "We agreed to let you keep your secret, but it's good to see you trust us now."
+    1 string data = "Dohodli jsme se, že ti ponecháme tvé tajemství, ale je fajn vidět, že nám teď věříš."
    [21]
     1 string data = "..."
    [22]
-    1 string data = "I'm sorry, I should have..."
+    1 string data = "Omlouvám se, měla jsem..."
    [23]
-    1 string data = "It's okay, we're a team now."
+    1 string data = "To je dobrý, teď jsme tým."
    [24]
-    1 string data = "So you understand claiming The Vespertine won't be as easy as we thought."
+    1 string data = "Takže je vám jasné, že nárokovat si Večernici nebude tak snadné, jak jsme si mysleli."
    [25]
-    1 string data = "Yup! And it just so happens we owe you one, so all the better."
+    1 string data = "Jop! A náhodou ti to dlužíme, takže o to lépe."
    [26]
     1 string data = "..."
    [27]
-    1 string data = "Thank you."
+    1 string data = "Děkuju vám."
    [28]
-    1 string data = "NOW!"
+    1 string data = "TEĎ!"
