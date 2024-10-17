@@ -35,7 +35,7 @@
    [10]
     1 string data = "Tohle je jen pouhá poklidná vesnička, co se stará o větrné tunely v dole."
    [11]
-    1 string data = "Naší prací je udržovat tyto tunely průchozí, aby vítr mohl hrát melodii <color=bad>Spáčovi</color>."
+    1 string data = "Naší prací je udržovat tyto tunely průchozí, aby vítr mohl hrát melodii pro<color=bad>Spáče</color>."
    [12]
     1 string data = "!!"
    [13]
@@ -47,11 +47,11 @@
    [16]
     1 string data = "Jestli to bude takhle pokračovat dál, Malkomudovy příšery se začnou valit z dolu, a potom..."
    [17]
-    1 string data = "A potom..."
+    1 string data = "A pak..."
    [18]
     1 string data = "Klid, my vám pomůžeme. Co se stalo dál?"
    [19]
-    1 string data = "... stařešina šel dovnitř, aby se ho pokusil zastavit, ale už se dlouho nevrátil..."
+    1 string data = "...pak šel stařešina dovnitř, aby se ho pokusil zastavit, ale už se dlouho nevrátil..."
    [20]
     1 string data = "Kde máte vchod?"
    [21]
@@ -59,7 +59,7 @@
    [22]
     1 string data = "Nebojte se, vašeho stařešinu najdeme."
    [23]
-    1 string data = "One evil wizard, going down!"
+    1 string data = "Zlý čaroděj, říkáte, jdeme dnu!"
    [24]
     1 string data = "Jaké to štěstí! Děkuji vám!"
    [25]
@@ -91,7 +91,7 @@
    [38]
     1 string data = "Já..."
    [39]
-    1 string data = "Omlouváme se, statečná mniško. Skutečně je pro nás obtížné se řádně sžít s jedním jeho... nadáním."
+    1 string data = "Omlouváme se, statečná mniško. Skutečně je pro nás obtížné se řádně sžít s jeho... nadáním."
    [40]
     1 string data = "No, příště byste měli být ohleduplnější."
    [41]
@@ -117,7 +117,7 @@
    [51]
     1 string data = "Zkusme ten výtah."
    [52]
-    1 string data = "Ó, taková ironie..."
+    1 string data = "To je ale ironie..."
    [53]
     1 string data = "Co se děje?"
    [54]
@@ -149,7 +149,7 @@
    [67]
     1 string data = "Vážně si chci dát vanu!"
    [68]
-    1 string data = "Pumpa je támhle vevnitř, asi jen bude chtít spustit znovu..."
+    1 string data = "Čerpadlo je támhle vevnitř, asi jen bude chtít znovu nastartovat..."
    [69]
     1 string data = "Zašli byste tam prosím?"
    [70]
@@ -185,7 +185,7 @@
    [85]
     1 string data = "Malkomud slíbil, že to nebyla jedna z jeho neplech a říkal, že vy dva s tím máte něco společného. Je to pravda?"
    [86]
-    1 string data = "Oh, ano, nemáte se čeho bát. Wentworth je teď přátelský."
+    1 string data = "To ano, nemáte se čeho bát. Wentworth je teď přátelský."
    [87]
     1 string data = "Wentworth? "
    [88]
@@ -203,7 +203,7 @@
    [94]
     1 string data = "Nemůžu spát od té doby, co Malkomud ovládl důl. Obávám se, že jeho příšery mohou každou chvíli zaútočit na město!"
    [95]
-    1 string data = "Oh, děkuji vám, konečně se můžu trochu vyspat!"
+    1 string data = "Ach, děkuji vám, konečně se můžu trochu vyspat!"
    [96]
     1 string data = "Když jsem slyšel, že je Spáč pryč, měl jsem za to, že nastal konec světa, ale od té doby se nic nestalo."
    [97]
@@ -249,7 +249,7 @@
    [117]
     1 string data = "Tohle bude mé mistrovské dílo!"
    [118]
-    1 string data = "Ukážu světu, že my Molekini toho umíme víc než jen vytesávat do modrozeleného jantaru, jen počkejte!"
+    1 string data = "Ukážu světu, že my Molekini toho umíme víc než jen obrusovat modrozelený jantar, jen počkejte!"
    [119]
     1 string data = "Tohle je zatím mé nejlepší dílo, ale musím se neustále zlepšovat."
    [120]
@@ -265,7 +265,7 @@
    [125]
     1 string data = "Malkomud to podle mě se schovávanou trochu přehnal!"
    [126]
-    1 string data = "Když jsem viděl Spáče letět k sopce, nebál jsem se, jen mi to přišlo husté!"
+    1 string data = "Když jsem viděl Spáče letět k sopce, nebál jsem se, jen mi to přišlo boží!"
    [127]
     1 string data = "Vy jste fakt Bojovníci Slunovratu? To je paráda!"
    [128]
@@ -293,7 +293,7 @@
    [139]
     1 string data = "Hej, vy jste ti Bojovníci Slunovratu, co nám pomohli!"
    [140]
-    1 string data = "Když mám teď své nářadí zpátky, můžu odstranit ten kámen blokující cestu k jezeru."
+    1 string data = "Když mám teď své nářadí zpátky, můžu odstranit ten kámen, co blokuje cestu k jezeru."
    [141]
     1 string data = "Vydržte chvíli, nepotrvá to dlouho!"
    [142]
@@ -319,8 +319,8 @@
    [152]
     1 string data = "Pálí!"
    [153]
-    1 string data = "Tohle zařízení vypadá jako nějaká pumpa."
+    1 string data = "Tohle zařízení vypadá jako nějaké čerpadlo."
    [154]
     1 string data = "Jestli má tahle socha něco reprezentovat, bude to pravděpodobně cosi abstraktního..."
    [155]
-    1 string data = "The view dives into the horizon."
+    1 string data = "Výhled se táhne až po horizont."

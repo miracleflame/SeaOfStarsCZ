@@ -309,7 +309,7 @@
    [147]
     1 string data = "Ostrý a vyrobený ze stříbra."
    [148]
-    1 string data = "Tyrkysovo-jantarová hůl"
+    1 string data = "Hůl z modrozeleného jantaru"
    [149]
     1 string data = "Ruční výroba molekinských kameníků."
    [150]
@@ -1319,7 +1319,7 @@
    [652]
     1 string data = "Cennost určená k prodeji."
    [653]
-    1 string data = "Tyrkysovo-jantarová ruda"
+    1 string data = "Modrozelený jantar"
    [654]
     1 string data = "Cennost určená k prodeji."
    [655]
