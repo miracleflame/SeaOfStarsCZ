@@ -69,7 +69,7 @@
    [27]
     1 string data = "No"
    [28]
-    1 string data = "Want to go back to Brisk?"
+    1 string data = "Want to go back to Osvěperlín?"
    [29]
     1 string data = "Yes"
    [30]

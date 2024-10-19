@@ -133,7 +133,7 @@
    [59]
     1 string data = "Jít do Hornické vesničky?"
    [60]
-    1 string data = "Ostrov se nachází severovýchodně od Brisku. Nezapomeňte použít mapu v případě potřeby!"
+    1 string data = "Ostrov se nachází severovýchodně od Osvěperlínu. Nezapomeňte použít mapu v případě potřeby!"
    [61]
     1 string data = "Takže, Strážcův hranol je klíč..."
    [62]

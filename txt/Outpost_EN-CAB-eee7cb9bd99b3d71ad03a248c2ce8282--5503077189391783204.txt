@@ -35,7 +35,7 @@
    [10]
     1 string data = "Tohle je jen pouhá poklidná vesnička, co se stará o větrné tunely v dole."
    [11]
-    1 string data = "Naší prací je udržovat tyto tunely průchozí, aby vítr mohl hrát melodii pro<color=bad>Spáče</color>."
+    1 string data = "Naší prací je udržovat tyto tunely průchozí, aby vítr mohl hrát melodii pro <color=bad>Spáče</color>."
    [12]
     1 string data = "!!"
    [13]
@@ -43,9 +43,9 @@
    [14]
     1 string data = "A jestli se Spáč vzbudí, bude to KONEC SVĚTA!"
    [15]
-    1 string data = "Navíc ucpal tunel napájející větrník velkého výtahu, takže ani nemůžeme zajít do <color=location>Brisku</color> pro pomoc..."
+    1 string data = "Navíc ucpal tunel napájející větrník velkého výtahu, takže ani nemůžeme zajít do <color=location>Osvěperlínu</color> pro pomoc..."
    [16]
-    1 string data = "Jestli to bude takhle pokračovat dál, Malkomudovy příšery se začnou valit z dolu, a potom..."
+    1 string data = "Jestli to bude takhle pokračovat dál, Malkomudovy příšery se začnou valit z dolu, a pak..."
    [17]
     1 string data = "A pak..."
    [18]
@@ -105,7 +105,7 @@
    [45]
     1 string data = "Hledáme posádku dobrodruhů, která nám pomůže doplout na jiný ostrov."
    [46]
-    1 string data = "Oh! V tom případě určitě budete chtít navštívit přístavní město Brisk!"
+    1 string data = "Ó! V tom případě určitě budete chtít navštívit přístavní město Osvěperlín!"
    [47]
     1 string data = "Můžete použít ten velký výtah na jih odsud. Přeci jen jste to byli vy, kdo jej opravil."
    [48]
@@ -113,7 +113,7 @@
    [49]
     1 string data = "Jsou tam různé typy lidí. Tam narazíte na to, co potřebujete."
    [50]
-    1 string data = "Oh, nemůžu se dočkat, třeba tam bude i hostinec!"
+    1 string data = "Ach, nemůžu se dočkat, třeba tam bude i hostinec!"
    [51]
     1 string data = "Zkusme ten výtah."
    [52]
@@ -173,7 +173,7 @@
    [79]
     1 string data = "Opět vám děkuji, že jste nám s Malkomudem pomohli. Slibuji, že od teď se budeme chovat lépe."
    [80]
-    1 string data = "Pokud se chcete dostat do Brisku, můžete použít ten velký létající výtah jižně od vesnice."
+    1 string data = "Pokud se chcete dostat do Osvěperlínu, můžete použít ten velký létající výtah jižně od vesnice."
    [81]
     1 string data = "Dobrý den, Bojovníci Slunovratu. Od té doby, co jste nám pomohli, šlo s Malkomudem všechno dobře."
    [82]
@@ -253,7 +253,7 @@
    [119]
     1 string data = "Tohle je zatím mé nejlepší dílo, ale musím se neustále zlepšovat."
    [120]
-    1 string data = "Cože? V Brisku je modelka, která by chtěla zachytit svou podstatu?"
+    1 string data = "Cože? V Osvěperlínu je modelka, která by chtěla zachytit svou podstatu?"
    [121]
     1 string data = "To je přesně ten druh inspirace, který jsem hledal!"
    [122]
@@ -309,7 +309,7 @@
    [147]
     1 string data = "Kdo ví, jaký přínos získáte úlevou od stresu."
    [148]
-    1 string data = "To, co se stalo v Brisku, je hrozné. Jakmile se připravíme, vyšleme tam pomocný tým!"
+    1 string data = "To, co se stalo v Osvěperlínu, je hrozné. Jakmile se připravíme, vyšleme tam pomocný tým!"
    [149]
     1 string data = "Nějaké těžařské nářadí."
    [150]

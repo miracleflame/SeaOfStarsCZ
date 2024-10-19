@@ -39,7 +39,7 @@
    [12]
     1 string data = "Buďte tam opatrní, Malkomud je mocný čaroděj."
    [13]
-    1 string data = "Co to bylo za rámus?"
+    1 string data = "Co to bylo za zvuk?"
    [14]
     1 string data = "..."
    [15]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "Taky vám lidé hubovali, když jste byli děti?"
    [35]
-    1 string data = "To proto jsi odjel ze své vesnice?"
+    1 string data = "To proto jste odjeli ze své vesnice?"
    [36]
     1 string data = "Poslyš, Malkomude, ty ses prostě narodil se zvláštními schopnostmi a je škoda, že tě tím nikdo nedokázal provést."
    [37]
@@ -123,7 +123,7 @@
    [54]
     1 string data = "Ale všichni říkají, že to nesmím dělat..."
    [55]
-    1 string data = "Jen pro to nemají porozumění! Určite bys jim mohl opravdu pomoci, kdybys chtěl!"
+    1 string data = "Jen pro to nemají pochopení! Určite bys jim mohl opravdu pomoci, kdybys chtěl!"
    [56]
     1 string data = "..."
    [57]
