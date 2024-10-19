@@ -61,9 +61,9 @@
    [23]
     1 string data = "Korálové kaskády"
    [24]
-    1 string data = "Přístavní město Brisk"
+    1 string data = "Přístavní město Osvěperlín"
    [25]
-    1 string data = "Opuštěná laboratoř černokněžníka"
+    1 string data = "Čarodějova opuštěná laboratoř"
    [26]
     1 string data = "Výtah"
    [27]

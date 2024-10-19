@@ -595,7 +595,7 @@
    [290]
     1 string data = "Zvyšuje rychlost plavby."
    [291]
-    1 string data = "Hrdě vyrobeno pomocí Briskových tajných technik a údajně očarováno magickým zaklínadlem. Vyduté plachty zvyšují rychlost plavby o <color=magic>20%</color>"
+    1 string data = "Hrdě vyrobeno pomocí Osvěperlínových tajných technik a údajně očarováno magickým zaklínadlem. Vyduté plachty zvyšují rychlost plavby o <color=magic>20%</color>"
    [292]
     1 string data = "Zlatý zub"
    [293]
@@ -1063,7 +1063,7 @@
    [524]
     1 string data = "Je na něm vyryt emblém větru."
    [525]
-    1 string data = "Mince Nemrtvé dohody"
+    1 string data = "Mince nemrtvé úmluvy"
    [526]
     1 string data = "Závazná smlouva pro nemrtvé."
    [527]

@@ -33,7 +33,7 @@
    [9]
     1 string data = "But it's true!"
    [10]
-    1 string data = "Undoubtedly! This will surely come to pass, just as my most recent day trip to Brisk! Oh it was so lovely."
+    1 string data = "Undoubtedly! This will surely come to pass, just as my most recent day trip to Osvěperlín! Oh it was so lovely."
    [11]
     1 string data = "Now for the third time, will you be needing anything else?"
    [12]
@@ -247,7 +247,7 @@
    [116]
     1 string data = "Some fresh air will do me good."
    [117]
-    1 string data = "Ov course Captain, as you wish Captain!"
+    1 string data = "žano Captain, as you wish Captain!"
    [118]
     1 string data = "The three of you stay here until I return."
    [119]
@@ -521,13 +521,13 @@
    [253]
     1 string data = "Mesa Island is currently unreachable, but I trust a solution will come to me if I meditate."
    [254]
-    1 string data = "In the meantime, please go check on Brisk. Assess the damage, and do your best to help any survivors in need."
+    1 string data = "In the meantime, please go check on Osvěperlín. Assess the damage, and do your best to help any survivors in need."
    [255]
     1 string data = "Right away."
    [256]
     1 string data = "Thank you, young ones. I will catch up with you when I am ready."
    [257]
-    1 string data = "I'll go immediately. See you in Brisk."
+    1 string data = "I'll go immediately. See you in Osvěperlín."
    [258]
     1 string data = "Well, y'all went and did your thing, congratulations!"
    [259]
@@ -557,17 +557,17 @@
    [271]
     1 string data = "Lay it on me!"
    [272]
-    1 string data = "Brisk was hit pretty hard. Our orders are to go back and assess the damage, see how we can help."
+    1 string data = "Osvěperlín was hit pretty hard. Our orders are to go back and assess the damage, see how we can help."
    [273]
     1 string data = "Consider it done, son!"
    [274]
-    1 string data = "Y'all ready to set sail, then? Assuming yer all done here ov course."
+    1 string data = "Y'all ready to set sail, then? Assuming yer all done here žano."
    [275]
     1 string data = "Yes"
    [276]
     1 string data = "No"
    [277]
-    1 string data = "We must hurry back to Brisk. Yolande can take us."
+    1 string data = "We must hurry back to Osvěperlín. Yolande can take us."
    [278]
     1 string data = "Did you come to play?"
    [279]
@@ -671,7 +671,7 @@
    [328]
     1 string data = "Zzz... Zzz..."
    [329]
-    1 string data = "Something huge fell down from the sky and crashed into Brisk... I hope everyone's alright..."
+    1 string data = "Something huge fell down from the sky and crashed into Osvěperlín... I hope everyone's alright..."
    [330]
     1 string data = "My, this is quite a good show. Better enjoy it before the band leaves for another island--probably tomorrow."
    [331]
@@ -747,7 +747,7 @@
    [366]
     1 string data = "Those who try to leave just get <color=bad>called</color> right away. I don't know why you came here, but I'm sorry to say you're now stuck here all the same..."
    [367]
-    1 string data = "I still can't believe it. That means we can go to Brisk and see the sun..."
+    1 string data = "I still can't believe it. That means we can go to Osvěperlín and see the sun..."
    [368]
     1 string data = "That mansion and its <color=bad>Cursed Voice</color> took everything from me. My son... my husband... and too many of my friends."
    [369]

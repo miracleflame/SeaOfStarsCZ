@@ -39,7 +39,7 @@
    [12]
     1 string data = "You can use it as a greenhouse! Come, I'll show you!"
    [13]
-    1 string data = "Potion guy is welcome to stay, ov course!"
+    1 string data = "Potion guy is welcome to stay, žano!"
    [14]
     1 string data = "Mesa Island, eh?"
    [15]

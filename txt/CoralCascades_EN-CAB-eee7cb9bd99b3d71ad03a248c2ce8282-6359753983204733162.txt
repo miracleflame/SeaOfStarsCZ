@@ -15,14 +15,14 @@
    [0]
     1 string data = "Eh, málokdy mě tu někdo navštíví. Omluvte ten nepořádek. "
    [1]
-    1 string data = "Přístavní město Brisk <sprite="dialog-generic-icons" name="arrow-east"> "
+    1 string data = "Přístavní město Osvěperlín <sprite="dialog-generic-icons" name="arrow-east"> "
    [2]
-    1 string data = "Hledáte loď? Vydejte se do přístavního města Brisk a vyhledejte posádku kapitánky Klii'šaë!"
+    1 string data = "Hledáte loď? Vydejte se do přístavního města Osvěperlín a vyhledejte posádku kapitánky Klii'šaë!"
    [3]
-    1 string data = "Bárka, loď, bárka, loď, bárka, loď, bárka, loď, BRISK!"
+    1 string data = "Bárka, loď, bárka, loď, bárka, loď, bárka, loď, Osvěperlín!"
    [4]
-    1 string data = "Tady není žádná loď. Raději se vydejte do Brisku na východě!"
+    1 string data = "Tady není žádná loď. Raději se vydejte do Osvěperlínu na východě!"
    [5]
     1 string data = "Jestli hledáte loď, už jste skoro tam."
    [6]
-    1 string data = "Najděte nás v přístavu v Brisku!"
+    1 string data = "Najděte nás v přístavu v Osvěperlínu!"

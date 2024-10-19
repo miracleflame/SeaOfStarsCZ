@@ -19,7 +19,7 @@
    [2]
     1 string data = "..."
    [3]
-    1 string data = "Nic, co byste vy, Slunovratníci, nespravili, na beton."
+    1 string data = "Nic, co byste vy, Slunovratníci, nespravili, žano."
    [4]
     1 string data = "V to alespoň doufám... Nerada bych se nakonec tama zaplantala nafurt!"
    [5]
@@ -93,7 +93,7 @@
    [39]
     1 string data = "Slušná kořist..."
    [40]
-    1 string data = "Večernice bude jednoho dne naše, jako že se Keenathan jmenuju!"
+    1 string data = "Večernice bude jednoho dne naše, jakože se Keenathan jmenuju!"
    [41]
     1 string data = "Všeho do času, braši. Pro tuto chvíli se blížime k dokům."
    [42]
