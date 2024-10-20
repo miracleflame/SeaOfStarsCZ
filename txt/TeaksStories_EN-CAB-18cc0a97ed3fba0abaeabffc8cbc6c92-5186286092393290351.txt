@@ -13,15 +13,15 @@
   1 Array Array (327 items)
    0 int size = 327
    [0]
-    1 string data = "Ze všech zaznamenaných zaklínadel a činů začarování je jen málo tak hrůzných jako kletba <color=bad>Večernice</color>."
+    1 string data = "Ze všech zaznamenaných zaklínadel a činů začarování jsou jen málokteré tak hrůzné jako kletba <color=bad>Večernice</color>."
    [1]
-    1 string data = "Tento příběh nás zavede o několik století do minulosti, do dob, kdy jistá banda pirátů vládla mořím."
+    1 string data = "Tento příběh nás zavede o několik staletí do minulosti, do dob, kdy mořím vládla jistá banda pirátů."
    [2]
     1 string data = "<color=bad>Vyzývatel bouří</color> bylo jméno jejich kapitána. Byl to nejmocnější větrný mág, jakého kdy svět poznal."
    [3]
-    1 string data = "A jejich loďmistr, <color=good>Hortenzie</color>, zůstává dodnes nejprotřelejším mořeplavcem v historii."
+    1 string data = "A jejich navigátorka, <color=good>Hortenzie</color>, zůstává dodnes tím nejprotřelejším mořeplavcem v historii."
    [4]
-    1 string data = "Spojením Hortenzinych dovedností a magie Vyzývatela bouří byla jejich loď podle některých tvrzení rychlejší než samotné světlo."
+    1 string data = "Spojením Hortenziiných dovedností a magie Vyzývatele bouří byla jejich loď podle některých tvrzení rychlejší než samotné světlo."
    [5]
     1 string data = "Posádka podnikla mnoho dobrodružství a nashromáždila nesčetné bohatství, až jednoho dne došlo k nevyhnutelnému."
    [6]
@@ -29,13 +29,13 @@
    [7]
     1 string data = "Vždy oddaný přesvědčení, že opravdovými poklady jsou ty, které člověk objeví na cestě, přijal Vyzývatel bouří její rezignaci... špatně."
    [8]
-    1 string data = "Naprosto uražen přestal vyvolávat vítr do plachet a odstavil loď přímo uprostřed oceánu."
+    1 string data = "Naprosto uražen přestal vyvolávat vítr do plachet a zastavil loď přímo uprostřed oceánu."
    [9]
     1 string data = ""A tady zůstaneme," řekl, "dokud si naše NAVIGÁTORKA nevyžene z hlavy ten hloupý nápad!""
    [10]
     1 string data = "Ale Hortenzie se už definitivně rozhodla."
    [11]
-    1 string data = "Dny ubíhaly, jak oba prudily, zatímco jejich posádka žadonila, aby dospěli k nějakému rozřešení."
+    1 string data = "Dny ubíhaly, jak oba trucovali, zatímco jejich posádka žadonila, aby dospěli k nějakému rozřešení."
    [12]
     1 string data = "Nejprve jim došla trpělivost, pak jídlo a nakonec i pitná voda."
    [13]
@@ -43,39 +43,39 @@
    [14]
     1 string data = "A jak se potápěl do hlubin, Vyzývatel bouří proklel svou posádku a vyčaroval věčné vězení."
    [15]
-    1 string data = "V <color=bad>Moři noční můry</color> jim přivolával smrtonosnou bouřku, aby ji trpěli navěky."
+    1 string data = "V <color=bad>Moři noční můry</color> jim přivolával smrtonosnou bouři, aby je sužovala navěky."
    [16]
     1 string data = "V průběhu staletí členové posádky v tom příšerném místě přicházeli o rozum, až zůstala jen Hortenzie."
    [17]
-    1 string data = "Dodnes se v Moři noční můry odehrává bitva, v níž proti sobě stojí nenávist Vyzývatela bouří a čirá vůle navigátorky."
+    1 string data = "Dodnes se v Moři noční můry odehrává bitva, v níž proti sobě stojí nenávist Vyzývatele bouří a čirá vůle navigátorky."
    [18]
-    1 string data = "Povídá se, že zuřivost Vyzývatela bouří jednoho dne potopí loď, zatímco jiní věří, že se nakonec podvolí nezdolné Hortenzii."
+    1 string data = "Povídá se, že zuřivost Vyzývatele bouří jednoho dne loď potopí, zatímco jiní věří, že se nakonec podvolí nezdolné Hortenzii."
    [19]
-    1 string data = "Legenda praví, že jednou denně si dopřeje krátkou přestávku, jen na několik vteřin, přesně v okamžiku, kdy byla kletba poprvé vyřčena."
+    1 string data = "Legenda praví, že jednou denně si Hortenzie dopřeje krátkou přestávku, jen na několik vteřin, přesně v okamžiku, kdy byla kletba poprvé vyřčena."
    [20]
     1 string data = "Nespočet námořníků a rybářů od té doby hlásilo pozorování legendární pirátské lodi duchů, která se zjevuje za soumraku."
    [21]
     1 string data = "Říkají jí <color=bad>Večernice</color>."
    [22]
-    1 string data = "Zatímco někteří si nechtěj nechat zajít chuť nalodit se a hledat poklad, většina se plavbě za soumraku vyhýbá, protože se bojí, že je vtáhne Moře noční můry."
+    1 string data = "Zatímco někteří si nechtějí nechat zajít chuť nalodit se a hledat poklad, většina se plavbě za soumraku vyhýbá, protože se bojí, že je vtáhne Moře noční můry."
    [23]
-    1 string data = "Konec příbehu."
+    1 string data = "Konec příběhu."
    [24]
-    1 string data = "Dnes už málokdo ví, že Kunus'nuku byl vykázán již před Velkým přivoláním."
+    1 string data = "Dnes už málokdo ví, že Kunus'nuku byla vykázána již před Velkým přivoláním."
    [25]
-    1 string data = "Tunelování začalo už několik měsíců předem, ještě v době, kdy měli ještěří lidé navrch."
+    1 string data = "Přípravy začaly už několik měsíců předem, ještě v době, kdy měli Ještěří lidé navrch."
    [26]
-    1 string data = "Bylo to ke konci bitvy vleklé desetiletí, poté, co bylo jasné, že Molekinští mágové zvítězí."
+    1 string data = "Stalo se to ke konci bitvy vleklé desetiletí, poté, co bylo jasné, že Molekinští mágové zvítězí."
    [27]
     1 string data = "Této noci všech nocí se vzduchem nesly časné pokřiky vítězství po celém souostroví."
    [28]
     1 string data = "Náhle se roztrhla sama obloha a z ní se vynořil obrovský Nebeský drak, aby rozséval spoušť."
    [29]
-    1 string data = "Dodnes se historici přou o původ Nebeského draka."
+    1 string data = "Historici se dodnes přou o původu Nebeského draka."
    [30]
     1 string data = "Někteří říkají, že je to monstrum čirého zla, které bylo odcizeno z jiné roviny existence a donuceno zůstat zde."
    [31]
-    1 string data = "Jiní se domnívají, že přišel daleko zpoza oblohy - kdysi přátelský tvor, jehož mysl zkalila černá magie."
+    1 string data = "Jiní se domnívají, že přišel daleko zpoza mraků - kdysi přátelský tvor, jehož mysl zkalila černá magie."
    [32]
     1 string data = "Ale bez ohledu na svůj původ byl Nebeský drak předurčen k tomu, aby navždy změnil svět."
    [33]
@@ -83,19 +83,19 @@
    [34]
     1 string data = "Ale bohužel, Ovati byli dávno pryč."
    [35]
-    1 string data = "Molekinští elementalisté, jejichž jedinou silnou stránkou je magie země, vymysleli plán, jak hrozbu zadržet."
+    1 string data = "Molekinští elementalisté, jejichž jedinou silnou stránkou byla magie země, vymysleli plán, jak hrozbu zadržet."
    [36]
-    1 string data = "Vytesáním složitých větrných tunelů přímo do hory X'tol ji proměnili v obří hudební nástroj."
+    1 string data = "Vytesáním složitých větrných tunelů přímo do X'tolovy hory ji proměnili v obří hudební nástroj."
    [37]
-    1 string data = "Vítr vanoucí skrz horu začal hrát melodii tak ryzí, že přiměl Nebeského draka ke spánku."
+    1 string data = "Vítr vanoucí skrz horu začal hrát melodii tak čistou, že přiměla Nebeského draka ke spánku."
    [38]
     1 string data = "Magie byla silná a věřilo se, že svět zůstane v bezpečí po celé generace."
    [39]
-    1 string data = "Nebo spíše tak dlouho, dokud hora hrála melodii věrně."
+    1 string data = "Nebo spíše tak dlouho, dokud hora stále hrála melodii."
    [40]
     1 string data = "V zájmu vyššího dobra se Molekinové vzdali studia magie a založili na vrcholu hory Hornickou vesničku."
    [41]
-    1 string data = "V průběhu generací se z nich stali odborníci na hornictví a žili ze závazku udržovat větrné tunely v provozu."
+    1 string data = "V průběhu generací se z nich stali odborníci na hornictví a žili závazkem udržovat větrné tunely v provozu."
    [42]
     1 string data = "Od té doby stateční Molekini nepřetržitě dřou a chrání svět jedním úderem krumpáče za druhým."
    [43]
@@ -103,7 +103,7 @@
    [44]
     1 string data = "Nezbývá než doufat, že se Ovati vrátí, než se tak stane..."
    [45]
-    1 string data = "Konec příbehu."
+    1 string data = "Konec příběhu."
    [46]
     1 string data = "There once was a botanist who attempted to trick Death by growing a rose so pretty she couldn't bear to reap it."
    [47]
