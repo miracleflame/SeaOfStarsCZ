@@ -33,9 +33,9 @@
    [9]
     1 string data = "Čaroděj Malkomud"
    [10]
-    1 string data = "Kupředu do Brisku"
+    1 string data = "Kupředu do Svěžínu"
    [11]
-    1 string data = "Pirátská čest"
+    1 string data = "Čestné pirátské"
    [12]
     1 string data = "Výprava na Přízračný ostrov"
    [13]
@@ -47,7 +47,7 @@
    [16]
     1 string data = "Kataklyzma"
    [17]
-    1 string data = "Moře noční můry"
+    1 string data = "Moře nočních můr"
    [18]
     1 string data = "Nový začátek"
    [19]

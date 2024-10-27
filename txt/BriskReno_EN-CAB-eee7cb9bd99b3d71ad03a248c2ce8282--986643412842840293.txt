@@ -91,7 +91,7 @@
    [38]
     1 string data = "Some people would rather start anew somewhere else. Thank you for taking care of us."
    [39]
-    1 string data = "Brisk's reconstruction is underway. We will make something good from all this."
+    1 string data = "Svěžín's reconstruction is underway. We will make something good from all this."
    [40]
     1 string data = "It's too dangerous to go beyond this point--the renovations are underway."
    [41]

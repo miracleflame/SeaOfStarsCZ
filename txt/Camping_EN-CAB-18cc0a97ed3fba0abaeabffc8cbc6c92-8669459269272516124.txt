@@ -115,7 +115,7 @@
    [50]
     1 string data = "Byl to dobrý pocit, použít své schopnosti, abychom pomohli."
    [51]
-    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Brisku."
+    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Svěžínu."
    [52]
     1 string data = "Měli bychom se jít podívat, co nám ti piráti mohou nabídnout?"
    [53]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Jsem rád, že jsme dokázali pomoci."
    [58]
-    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Brisku."
+    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Svěžínu."
    [59]
     1 string data = "Taky nemám zrovna dobrý pocit z jednání s piráty, ale potřebujeme se svézt na lodi…"
    [60]
@@ -145,13 +145,13 @@
    [65]
     1 string data = "Nebylo fér, jak se ostatní k Malkomudovi chovali."
    [66]
-    1 string data = "Ještěže jsme opravili ten velký výtah ve vesnici Molekinů - už se nemůžu dočkat, až uvidím Brisk!"
+    1 string data = "Ještěže jsme opravili ten velký výtah ve vesnici Molekinů - už se nemůžu dočkat, až uvidím Svěžín!"
    [67]
     1 string data = "Ta věc s Živou manou je neskutečná, chci pořád posilovat!"
    [68]
     1 string data = "Nemůžu uvěřit, že máme schůzku s piráty! To je neskutečné!"
    [69]
-    1 string data = ""Mince Nemrtvé dohody se nachází v laboratoři čaroděje severně od Brisku." Tak TOMUHLE říkám úkol!"
+    1 string data = ""Mince nemrtvé úmluvy se nachází v Čarodějově laboratoři severně od Svěžínu." Tak TOMUHLE říkám úkol!"
    [70]
     1 string data = "Není nic lepšího než pořádný úkol, jenž udrží pružnost v kroku!"
    [71]
@@ -221,7 +221,7 @@
    [103]
     1 string data = "Měli bychom si pospíšit a vrátit se."
    [104]
-    1 string data = "Zahradní zrůda… Pomůžu, jak budu moct."
+    1 string data = "Botanická zrůda… Pomůžu, jak budu moct."
    [105]
     1 string data = "Hortenzie se zdá být milá. Děláme tu něco dobrého."
    [106]
@@ -229,7 +229,7 @@
    [107]
     1 string data = "Už jsme ušli tak dlouhou cestu…"
    [108]
-    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Brisku."
+    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžínu."
    [109]
     1 string data = "Garl je opravdu usilovný tahoun."
    [110]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Pořád nemůžu uvěřit, že by to Erlina a Brugaves udělali…"
    [113]
-    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Brisku."
+    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžínu."
    [114]
     1 string data = "Je dobrý pocit umožnit těm lidem začít nanovo."
    [115]
@@ -611,13 +611,13 @@
    [298]
     1 string data = "During my time on your home world, I heard a rumor about a place where fighters engage in friendly competition."
    [299]
-    1 string data = ""Dweller's Fall Arena," in Brisk."
+    1 string data = ""Dweller's Fall Arena," in Svěžín."
    [300]
     1 string data = "According to Yolande, the townspeople built it to reclaim the big crater left by the Dweller of Strife."
    [301]
     1 string data = "Sounds like it could be fun!"
    [302]
-    1 string data = "[MAINCHAR], I know we are pressed for time, but if there is any chance we could visit the arena in Brisk I would be very grateful."
+    1 string data = "[MAINCHAR], I know we are pressed for time, but if there is any chance we could visit the arena in Svěžín I would be very grateful."
    [303]
     1 string data = "Croustalion was a worthy opponent. What a great team we are!"
    [304]
@@ -677,4 +677,4 @@
    [331]
     1 string data = "The Golden Pelican was everything I was hoping for!"
    [332]
-    1 string data = "Chef Bass gave us the invite, we should go to Brisk and try the Golden Pelican!"
+    1 string data = "Chef Bass gave us the invite, we should go to Svěžín and try the Golden Pelican!"

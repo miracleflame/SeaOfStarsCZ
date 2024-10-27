@@ -409,7 +409,7 @@
    [197]
     1 string data = "Next!"
    [198]
-    1 string data = "I will travel across the Sea of Stars, or my name is not Keenathan!"
+    1 string data = "I will travel across the Sea of Stars, jakože se Keenathan jmenuju!"
    [199]
     1 string data = "Role and name please."
    [200]

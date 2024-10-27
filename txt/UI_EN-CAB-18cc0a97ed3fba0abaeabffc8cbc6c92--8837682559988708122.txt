@@ -639,13 +639,13 @@
    [312]
     1 string data = "Načítání..."
    [313]
-    1 string data = "Verze [VERSION]"
+    1 string data = "Verze [VERSION]    Překlad: miracle.flame tím"
    [314]
     1 string data = "Klíčové předměty"
    [315]
     1 string data = "Účinky"
    [316]
-    1 string data = "Paluba"
+    1 string data = "Posádka"
    [317]
     1 string data = "<button="UI_Confirm"> Sundat"
    [318]
@@ -725,11 +725,11 @@
    [355]
     1 string data = "<button="UI_Back"> Přeskočit"
    [356]
-    1 string data = "Píseň #[TRACKID]"
+    1 string data = "Skladba #[TRACKID]"
    [357]
-    1 string data = "<button="DeployParty">/<button="NextTrack"> Změnit Píseň"
+    1 string data = "<button="DeployParty">/<button="NextTrack"> Přepnout skladbu"
    [358]
-    1 string data = "<button="WindBracelet"> Náhodná píseň"
+    1 string data = "<button="WindBracelet"> Náhodnou skladbu"
    [359]
     1 string data = "Víc neuneseme."
    [360]

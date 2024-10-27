@@ -111,15 +111,15 @@
    [48]
     1 string data = "Malkomud"
    [49]
-    1 string data = "Briský vesničan 1"
+    1 string data = "Občan Svěžínu 1"
    [50]
-    1 string data = "Briský vesničan 2"
+    1 string data = "Občan Svěžínu 2"
    [51]
-    1 string data = "Briský vesničan 3"
+    1 string data = "Občan Svěžínu 3"
    [52]
-    1 string data = "Briský vesničan 4"
+    1 string data = "Občan Svěžínu 4"
    [53]
-    1 string data = "Briské vesnické dítě"
+    1 string data = "Díte z Svěžínu"
    [54]
     1 string data = "Valtraid"
    [55]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Keenathan"
    [58]
-    1 string data = "Šéfkuchař Skromné chlouby"
+    1 string data = "Šéfkuchařka Skromné chlouby"
    [59]
     1 string data = "Kašpar"
    [60]

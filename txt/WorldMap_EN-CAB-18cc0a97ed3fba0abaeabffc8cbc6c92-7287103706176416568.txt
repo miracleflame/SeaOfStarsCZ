@@ -31,7 +31,7 @@
    [8]
     1 string data = "Zale. Předstup."
    [9]
-    1 string data = "(Abys dosáhl svého plného potenciálu, budeš muset nejprve <color=magic>pohlédnout do noci, která je v tobě</color>.)"
+    1 string data = "(Abys dosáhl svého plného potenciálu, budeš muset nejprve <color=magic>pohlédnout do noci v tvém nitru</color>.)"
    [10]
     1 string data = "..."
    [11]
@@ -131,9 +131,9 @@
    [58]
     1 string data = "Khukharr!"
    [59]
-    1 string data = "Jít do Kamenolomu?"
+    1 string data = "Jít do Hornické vesničky?"
    [60]
-    1 string data = "Ostrov se nachází severovýchodně od Brisku. Nezapomeňte použít mapu v případě potřeby!"
+    1 string data = "Ostrov se nachází severovýchodně od Svěžínu. Nezapomeňte použít mapu v případě potřeby!"
    [61]
     1 string data = "Takže, Strážcův hranol je klíč..."
    [62]

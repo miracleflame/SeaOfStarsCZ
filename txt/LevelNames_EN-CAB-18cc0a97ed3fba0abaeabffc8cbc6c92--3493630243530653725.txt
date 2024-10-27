@@ -51,9 +51,9 @@
    [18]
     1 string data = "X'tolova přistávací plocha"
    [19]
-    1 string data = "Mokřady"
+    1 string data = "Vřesoviště"
    [20]
-    1 string data = "Kamenolom"
+    1 string data = "Hornická vesnička"
    [21]
     1 string data = "Doly Větrných tunelů"
    [22]
@@ -61,9 +61,9 @@
    [23]
     1 string data = "Korálové kaskády"
    [24]
-    1 string data = "Přístavní město Brisk"
+    1 string data = "Přístavní město Svěžín"
    [25]
-    1 string data = "Opuštěná laboratoř černokněžníka"
+    1 string data = "Čarodějova opuštěná laboratoř"
    [26]
     1 string data = "Výtah"
    [27]
@@ -81,11 +81,11 @@
    [33]
     1 string data = "Večernice"
    [34]
-    1 string data = "Moře noční můry"
+    1 string data = "Moře nočních můr"
    [35]
-    1 string data = "Moře noční můry"
+    1 string data = "Moře nočních můr"
    [36]
-    1 string data = "Moře noční můry"
+    1 string data = "Moře nočních můr"
    [37]
     1 string data = "Vodní vír"
    [38]

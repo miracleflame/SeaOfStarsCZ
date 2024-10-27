@@ -39,7 +39,7 @@
    [12]
     1 string data = "What exactly did you ask for?"
    [13]
-    1 string data = "I just wanted dinner with my friends at the <color=location>Golden Pelican</color> in Brisk."
+    1 string data = "I just wanted dinner with my friends at the <color=location>Golden Pelican</color> in Svěžín."
    [14]
     1 string data = "Oh yeah?"
    [15]

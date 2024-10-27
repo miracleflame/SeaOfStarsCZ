@@ -177,7 +177,7 @@
    [81]
     1 string data = "Play music"
    [82]
-    1 string data = "Impress the people of Brisk"
+    1 string data = "Impress the people of Svěžín"
    [83]
     1 string data = "Mine teal amber"
    [84]
@@ -611,7 +611,7 @@
    [298]
     1 string data = "Romaya"
    [299]
-    1 string data = "What is the name of the haute cuisine restaurant found in the Port Town of Brisk?"
+    1 string data = "What is the name of the haute cuisine restaurant found in the Port Town of Svěžín?"
    [300]
     1 string data = "The Gilded Seagull"
    [301]

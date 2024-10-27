@@ -421,7 +421,7 @@
    [203]
     1 string data = "I'd love to take my son around the world, but we also want to run our own family store."
    [204]
-    1 string data = "We thought of moving to Brisk, but everything is way too established there, we'd never break through..."
+    1 string data = "We thought of moving to Svěžín, but everything is way too established there, we'd never break through..."
    [205]
     1 string data = "Mirth? That sure sounds interesting!"
    [206]

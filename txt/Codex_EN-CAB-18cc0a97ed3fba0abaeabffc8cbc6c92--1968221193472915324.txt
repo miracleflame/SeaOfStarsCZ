@@ -119,7 +119,7 @@
    [52]
     1 string data = "Náramek Mistral"
    [53]
-    1 string data = "Stisknutím <button="WindBracelet"> vrháte nápory větru, které mohou <color=menuhighlight>odstrčit bloky</color>."
+    1 string data = "Stisknutím <button="WindBracelet"> vypustíte proud větru, který může <color=menuhighlight>odstrčit bloky</color>."
    [54]
     1 string data = "Přehled"
    [55]

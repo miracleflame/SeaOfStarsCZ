@@ -547,7 +547,7 @@
    [266]
     1 string data = "I went to the Crypt. It'll take more than one visit if I'm to take it all in!"
    [267]
-    1 string data = "After losing almost everything in Brisk, it's great to be starting anew."
+    1 string data = "After losing almost everything in Svěžín, it's great to be starting anew."
    [268]
     1 string data = "I'm so saddened by Garl's death..."
    [269]
@@ -559,7 +559,7 @@
    [272]
     1 string data = "And now for a well deserved break!"
    [273]
-    1 string data = "I should go and visit my old friends in Brisk soon, see how they're holding up."
+    1 string data = "I should go and visit my old friends in Svěžín soon, see how they're holding up."
    [274]
     1 string data = "Oh, [MAINCHAR] and [OFFCHAR]! Perhaps you could help me? I feel like Mirth could benefit from more amenities, but I find myself at an impasse."
    [275]

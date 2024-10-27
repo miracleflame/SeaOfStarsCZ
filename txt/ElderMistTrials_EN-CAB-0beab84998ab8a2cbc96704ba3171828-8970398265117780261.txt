@@ -15,7 +15,7 @@
    [0]
     1 string data = "Vítejte na zkouškách Mlžného stařešiny."
    [1]
-    1 string data = "Abyste prošli tímto závěrečným testem, musíte dát dohromady tři velké relikvie a to tak, že splníte úkoly s nimi spojené."
+    1 string data = "Abyste prošli tímto závěrečným testem, musíte dát dohromady tři velké artefakty a to tak, že splníte úkoly s nimi spojené."
    [2]
     1 string data = "Příšery, které se vás pokusí zastavit, jsou imunní vůči fyzickým útokům a <color=magic>používání útočných kouzel je zakázáno</color>."
    [3]
@@ -23,11 +23,11 @@
    [4]
     1 string data = "Hú! Proto musíte používat magii, aniž byste použili magii!"
    [5]
-    1 string data = "Živá mana může <color=magic>posílit</color> bojové akce typem vašeho magického útoku. Chopte se této moci a váš výcvik bude kompletní."
+    1 string data = "Živá mana může <color=magic>posílit</color> bojové akce částí vašeho magického útoku. Osvojte si tuto moc a váš výcvik bude kompletní."
    [6]
     1 string data = "Ty jo, tohle MUSÍM zkusit..."
    [7]
-    1 string data = "Zkoušky čekají. Kdyby se vám zachtělo na chvíli se vrátit, jednoduše zavřete oči a koncentrujte se vedle místa, kde jste se právě objevili."
+    1 string data = "Zkoušky čekají. Kdyby se vám zachtělo na chvíli se vrátit, jednoduše zavřete oči a soustřeďte se vedle místa, kde jste se právě objevili."
    [8]
     1 string data = "Hodně štěstí!"
    [9]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "..."
    [15]
-    1 string data = "Hele, když jsem zaútočila, objevily se nějaké <color=magic>malé koule</color>".
+    1 string data = "Hele, po útoku se objevily nějaké <color=magic>malé koule</color>".
    [16]
     1 string data = "Možná je to "Živá mana"?"
    [17]
@@ -63,11 +63,11 @@
    [24]
     1 string data = "Běžné útoky nyní generují Živou manu. Podržte <button="Combat_Boost"> a stiskněte <button="Interact"> pro absorbování částic a <color=magic>Posílení</color>!"
    [25]
-    1 string data = "Lze navršit až tři posilující částice, přičemž každá z nich přidá zlomek hodnoty magického útoku vaší postavy k její další akci a zvýší tak její sílu."
+    1 string data = "Lze navršit až tři posilující částice, přičemž každá z nich přidá zlomek hodnoty magického útoku postavy k její další akci a zvýší tak její sílu."
    [26]
-    1 string data = "V případě běžných útoků se k typu poškození zbraně přidává také vrozený typ magického poškození postavy (pokud jej má)."
+    1 string data = "V případě běžných útoků se k typu poškození zbraně přidává také typ vlastního magického poškození postavy (pokud jej má)."
    [27]
-    1 string data = "Ať už se potýkáte se složitým vzorem zámku, nebo potřebujete, aby vaše příští léčivé kouzlo opravdu stálo za to, nebo prostě jen chcete způsobit větší poškození, nezapomeňte na posílení!"
+    1 string data = "Ať už se potýkáte se složitým vzorem zámků, potřebujete, aby vaše příští léčivé kouzlo opravdu stálo za to, nebo prostě jen chcete způsobit větší poškození, nezapomeňte na posílení!"
    [28]
     1 string data = "Hú hú hú..."
    [29]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "<color=magic>Používání kouzel je nyní opět povoleno</color>."
    [34]
-    1 string data = "Postavte se mi, Děti Slunovratu!"
+    1 string data = "Utkejte se se mnou, Děti Slunovratu!"
    [35]
     1 string data = "Jak ohromující!"
    [36]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Slunovrat"
    [58]
-    1 string data = "Špatně! Správná odpověď byla: Slunovrat."
+    1 string data = "Špatně! Správná odpověď byla: Zatmění."
    [59]
     1 string data = "Toto je naše poslední šance na přípravu. Cítíte se připraveni?"
    [60]

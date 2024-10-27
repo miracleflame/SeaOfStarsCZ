@@ -101,7 +101,7 @@
    [43]
     1 string data = "Okay, that's a good lead!"
    [44]
-    1 string data = "Good news, everyone! We know the perfect place for those who wish to leave Brisk and start anew."
+    1 string data = "Good news, everyone! We know the perfect place for those who wish to leave Svěžín and start anew."
    [45]
     1 string data = "Yay!"
    [46]
@@ -169,7 +169,7 @@
    [77]
     1 string data = "Our end goal remains the same. But for this step, I need you to stay safe. Can you do that for me?"
    [78]
-    1 string data = "I will do as the Captain commands, or my name is not Keenathan!"
+    1 string data = "I will do as the Captain commands, jakože se Keenathan jmenuju!"
    [79]
     1 string data = "Aye aye, Captain, can we t'least see ye safely to the peninsula?"
    [80]
@@ -185,7 +185,7 @@
    [85]
     1 string data = "No"
    [86]
-    1 string data = "There is a path amidst the rubble. Exit Brisk?"
+    1 string data = "There is a path amidst the rubble. Exit Svěžín?"
    [87]
     1 string data = "Yes"
    [88]
@@ -245,7 +245,7 @@
    [115]
     1 string data = "At last, The Vespertine..."
    [116]
-    1 string data = "We will protect these villagers, or my name is not Keenathan!"
+    1 string data = "We will protect these villagers, jakože se Keenathan jmenuju!"
    [117]
     1 string data = "It is truly exciting to be nearing the payoff from all our attempts to get the Coin of Undeath Accord! It will be a transaction for the ages!"
    [118]
@@ -257,11 +257,11 @@
    [121]
     1 string data = "I lost everything... I can't stay here anymore."
    [122]
-    1 string data = "I am staying. We will rebuild, and make Brisk even better than it used to be!"
+    1 string data = "I am staying. We will rebuild, and make Svěžín even better than it used to be!"
    [123]
     1 string data = "All gone in an instant... "
    [124]
-    1 string data = "But Brisk is strong. We will rebuild!"
+    1 string data = "But Svěžín is strong. We will rebuild!"
    [125]
     1 string data = "I still can't believe what happened, it was so sudden..."
    [126]
@@ -269,4 +269,4 @@
    [127]
     1 string data = "At least we have our work cut out for us..."
    [128]
-    1 string data = "Brisk is not all lost, we just need to work together!"
+    1 string data = "Svěžín is not all lost, we just need to work together!"
