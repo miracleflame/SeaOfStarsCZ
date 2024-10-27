@@ -13,16 +13,16 @@
   1 Array Array (7 items)
    0 int size = 7
    [0]
-    1 string data = "Oh, I seldom get any visitors here. Sorry about the mess. "
+    1 string data = "Eh, málokdy mě tu někdo navštíví. Omluvte ten nepořádek. "
    [1]
-    1 string data = "Port Town of Brisk <sprite="dialog-generic-icons" name="arrow-east">  "
+    1 string data = "Přístavní město Svěžín <sprite="dialog-generic-icons" name="arrow-east"> "
    [2]
-    1 string data = "Looking for a boat? Head over to the port town of Brisk and meet Captain Klii'šaë's crew!"
+    1 string data = "Hledáte loď? Vydejte se do přístavního města Svěžín a vyhledejte posádku kapitánky Klii'šaë!"
    [3]
-    1 string data = "Boat, Ship, Boat, Ship, Boat, Ship, Boat, Ship, BRISK!"
+    1 string data = "Bárka, loď, bárka, loď, bárka, loď, bárka, loď, Svěžín!"
    [4]
-    1 string data = "There's no boat here. Better come to Brisk to the east!"
+    1 string data = "Tady není žádná loď. Raději se vydejte do Svěžínu na východě!"
    [5]
-    1 string data = "If you're looking for a boat, you're almost there."
+    1 string data = "Jestli hledáte loď, už jste skoro tam."
    [6]
-    1 string data = "Come find us at the docks in Brisk!"
+    1 string data = "Najděte nás v přístavu ve Svěžíně!"
