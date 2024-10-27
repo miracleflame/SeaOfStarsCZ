@@ -13,70 +13,70 @@
   1 Array Array (34 items)
    0 int size = 34
    [0]
-    1 string data = "Greetings, adventurers. Seek you passage across these waters?"
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?"
    [1]
-    1 string data = "The ferryman is a picky talker. Let me handle this."
+    1 string data = "Převozník je náročný na mluvu. Nechte to na mně."
    [2]
-    1 string data = "*Ahem*..."
+    1 string data = "*Ehm*…"
    [3]
-    1 string data = "Greetings, Ferryman. We need you for... a hairy plan."
+    1 string data = "Převozníku, my zdravíme tě. Pravda, k průchodu potřebujeme tě."
    [4]
-    1 string data = "Then show me your colored flame, or leave this place in shame!"
+    1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
    [5]
-    1 string data = "We... do not know the color you require, but our destination is... quite dire."
+    1 string data = "My… nevíme, jakou barvu plamene hledáš, avšak spěcháme a dosti hrozný cíl je náš."
    [6]
-    1 string data = "Then ask me questions if you must, and information I might entrust."
+    1 string data = "Nuže mi musíte své otázky položiti, až pak já informace vám mohu svěřiti."
    [7]
-    1 string data = "..."
+    1 string data = "…"
    [8]
-    1 string data = "Look, we have to get to the Necromancer's Lair fast, can't you just tell us which color you need?"
+    1 string data = "Hele, musíme se rychle dostat do Doupěte nekromantky, nemůžeš nám prostě říct, jakou barvu potřebuješ?"
    [9]
-    1 string data = "..."
+    1 string data = "…"
    [10]
-    1 string data = "Pardon my lack of understanding, it seems you erred while speaking."
+    1 string data = "Prosím, omluv mé nepochopení, zdá se, že ses spletla při mluvení."
    [11]
-    1 string data = "..."
+    1 string data = "…"
    [12]
-    1 string data = "Fine..."
+    1 string data = "Fajn…"
    [13]
-    1 string data = "*Ahem*..."
+    1 string data = "*Ehm*…"
    [14]
-    1 string data = "Navigator of bogs unknown, take us to where the walls are made of bone."
+    1 string data = "Znalče, čo neznámé vody mostí, zaveď nás tam, kde jsou stěny z kostí."
    [15]
-    1 string data = "Where the walls are made of bone? That is a journey many have come to bemoan."
+    1 string data = "Říkáš tam, kde jsou stěny z kostí? Toť cesta mnohýma oplakaná dosti."
    [16]
-    1 string data = "But you seem to be in haste, and this life is yours to waste."
+    1 string data = "Však zdá se, že vy pospýcháte, jinak život v nouzi promrháte."
    [17]
-    1 string data = "A green flame present forthwith, and I shall take you to it."
+    1 string data = "Zeleným plamenem mě obdaříte, a až pak vy snad stěn kosti zříte."
    [18]
-    1 string data = "..."
+    1 string data = "…"
    [19]
-    1 string data = "Such a thing we do not bear, would you accept delayed... payment of your fare?"
+    1 string data = "Takovou věc žel nelze přijmout… Šlo by i pozdní platbu přijmout?"
    [20]
-    1 string data = "Unacceptable are these terms, for the destination a colored flame confirms."
+    1 string data = "Nepřijatelné jsou tyto vaše podmínky, jelikož směr určujou zelené plamínky."
    [21]
-    1 string data = "We don't have time for this!"
+    1 string data = "Na tohle nemáme čas!"
    [22]
-    1 string data = "..."
+    1 string data = "…"
    [23]
-    1 string data = "I was saving it for something else, but you leave me no choice."
+    1 string data = "Šetřila jsem si ji na něco jiného, ale nedáváš mi na výběr."
    [24]
-    1 string data = "Now skip the word game, and use your own green flame!"
+    1 string data = "A teď své slovní hříčky zahoď a ten svůj zelený plamen nahoď!"
    [25]
-    1 string data = "(...)"
+    1 string data = "(…)"
    [26]
     1 string data = "(!!!)"
    [27]
-    1 string data = "(A Coin of Undeath Accord!?!)"
+    1 string data = "(Mince nemrtvé úmluvy!?!)"
    [28]
-    1 string data = "The compelled undead complies, but a one way trip is all this buys."
+    1 string data = "Jakožto nemrtvý jsem přinucen mincí směnnou, uplacen na cestu pouze jednosměrnou."
    [29]
-    1 string data = "We can worry about how to get back once we have a soul stone."
+    1 string data = "Jak se dostat zpátky můžeme řešit, až budeme mít kámen duší."
    [30]
-    1 string data = "Greetings adventurers, seek you passage across these waters?"
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?"
    [31]
-    1 string data = "Then show me your colored flame, or leave this place in shame!"
+    1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
    [32]
-    1 string data = "I shall take you to the <color=location>Half Sunken Tower</color>."
+    1 string data = "Vezmu vás do <color=location>Zpola potopené věže</color>".
    [33]
-    1 string data = " I shall take you to the  <color=location>Flooded Graveyard</color>."
+    1 string data = "Vezmu vás na <color=location>Zatopený hřbitov</color>."

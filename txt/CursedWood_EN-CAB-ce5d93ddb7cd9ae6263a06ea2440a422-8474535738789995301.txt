@@ -13,132 +13,132 @@
   1 Array Array (65 items)
    0 int size = 65
    [0]
-    1 string data = "There he is!"
+    1 string data = "Tamhle je!"
    [1]
-    1 string data = "HEY, WAIT!!"
+    1 string data = "HEJ, POČKEJTE!!"
    [2]
-    1 string data = "Gah! Where's that strength coming from!?"
+    1 string data = "Uf! Odkud se bere ta síla!?"
    [3]
-    1 string data = "Huff... huff..."
+    1 string data = "Huff… huff…"
    [4]
-    1 string data = "..."
+    1 string data = "…"
    [5]
-    1 string data = "We failed..."
+    1 string data = "Nepovedlo se…"
    [6]
-    1 string data = "But..."
+    1 string data = "Ale…"
    [7]
-    1 string data = "The Dweller's grasp is too strong..."
+    1 string data = "Přiživovačkino sevření je příliš silné…"
    [8]
-    1 string data = "The Captain was right..."
+    1 string data = "Kapitánka měla pravdu…"
    [9]
-    1 string data = "Can't we go in? Maybe it's not too late!"
+    1 string data = "Nemůžeme vejít dovnitř? Možná ještě není pozdě!"
    [10]
-    1 string data = "No way we'd break that barrier! Even the Headmaster will need the eclipse to get us through."
+    1 string data = "V žádném případě bychom tu bariéru neprolomili! I ředitel bude potřebovat zatmění, aby nás dostal dál."
    [11]
-    1 string data = "So we just... give up?"
+    1 string data = "Takže to prostě… vzdáme?"
    [12]
-    1 string data = "..."
+    1 string data = "…"
    [13]
-    1 string data = "If we die in vain we can't help anyone."
+    1 string data = "Pokud zemřeme zbytečně, nikomu tím nepomůžeme."
    [14]
-    1 string data = "..."
+    1 string data = "…"
    [15]
-    1 string data = "You're right."
+    1 string data = "Máš pravdu."
    [16]
-    1 string data = "And maybe it won't be too late by the time you do the cleansing?"
+    1 string data = "A možná ještě nebude pozdě, až uděláte očistu?"
    [17]
-    1 string data = "(...)"
+    1 string data = "(…)"
    [18]
-    1 string data = "(...)"
+    1 string data = "(…)"
    [19]
-    1 string data = "Let's head back for now, I've sure had enough of these woods."
+    1 string data = "Pojďme zatím zpátky, už mám těchto lesů až až."
    [20]
-    1 string data = "Another one already?"
+    1 string data = "Další tak brzo?"
    [21]
-    1 string data = "Maybe we made it angry by trying to help... We should have listened..."
+    1 string data = "Možná jsme ji popudili tím, že jsme se snažili pomoct… Měli jsme poslechnout…"
    [22]
-    1 string data = "Garl?"
+    1 string data = "Garle?"
    [23]
-    1 string data = "GARL!? NO!"
+    1 string data = "GARLE!? NE!"
    [24]
-    1 string data = "Valerie, HANG ON!!"
+    1 string data = "Valerie, DRŽ HO!!"
    [25]
-    1 string data = "THAT'S NOT FAIR! YOU CAN'T TAKE HIM!!"
+    1 string data = "TO NENÍ FÉR! NEMŮŽEŠ SI VZÍT JEHO!!!"
    [26]
-    1 string data = "HEY!!!"
+    1 string data = "HEJ!!!"
    [27]
-    1 string data = "I was hoping we would meet under different circumstances..."
+    1 string data = "Doufala jsem, že se potkáme za jiných okolností…"
    [28]
-    1 string data = "Explain yourself right now!"
+    1 string data = "Okamžitě vysvětli, co jsi zač!"
    [29]
-    1 string data = "..."
+    1 string data = "…"
    [30]
-    1 string data = "I am not your enemy."
+    1 string data = "Nejsem vaším nepřítelem."
    [31]
-    1 string data = "I used numbing poison to paralyse your friend's body. It was either that or letting him walk through that gate."
+    1 string data = "Použila jsem paralyzující jed, abych ochromila tělo vašeho přítele. Buď tohle, nebo by prošel tou bránou."
    [32]
-    1 string data = "..."
+    1 string data = "…"
    [33]
-    1 string data = "It's a longshot, but if we hurry we might be able to fetch a <color=magic>soul stone</color>."
+    1 string data = "Je to na dlouhé lokte, ale když si pospíšíme, možná se nám podaří získat <color=magic>kámen duší</color>."
    [34]
-    1 string data = "A soul stone?"
+    1 string data = "Kámen duší?"
    [35]
-    1 string data = "Enchanted gems that dispel powerful curses."
+    1 string data = "Jde o očarované drahokamy, které odrobí mocné kletby."
    [36]
-    1 string data = "<color=bad>Someone</color> on this island uses them to remain free of the Dweller's grasp."
+    1 string data = "<color=bad>Někdo</color> na tomto ostrově je používá, aby zůstal osvobozem od spárů Přiživovačky."
    [37]
-    1 string data = "If we get one, it should consume the mind control spell on your friend."
+    1 string data = "Pokud jeden takový získáme, měl by pohltit kouzlo ovládání mysli vašeho přítele."
    [38]
-    1 string data = "I know just the place, but..."
+    1 string data = "Vím přesně o jednom takovém míste, ale…"
    [39]
-    1 string data = "Well, what are we waiting for then?"
+    1 string data = "Tak na co čekáme?"
    [40]
-    1 string data = "I wish I had more time to explain..."
+    1 string data = "Škoda, že nemám víc času na vysvětlování…"
    [41]
-    1 string data = "Zale, are you okay?"
+    1 string data = "Zale, jsi v pořádku?"
    [42]
-    1 string data = "I..."
+    1 string data = "Já…"
    [43]
-    1 string data = "Yes, we need to find a soul stone."
+    1 string data = "Ano, musíme najít kámen duší."
    [44]
-    1 string data = "First let's take him back to the inn."
+    1 string data = "Nejprve ho odneseme zpátky do hostince."
    [45]
-    1 string data = "..."
+    1 string data = "…"
    [46]
-    1 string data = "We have to hurry. Over here."
+    1 string data = "Musíme si pospíšit. Tudy."
    [47]
-    1 string data = "This shortcut will help."
+    1 string data = "Tato zkratka pomůže."
    [48]
-    1 string data = "A mysterious assassin joins the party!"
+    1 string data = "Do družiny se přidává tajemná asasínka!"
    [49]
-    1 string data = "If it's always dark here, how will we know when the eclipse happens?"
+    1 string data = "Když je tu pořád tma, jak poznáme, kdy nastane zatmění?"
    [50]
-    1 string data = "You'll know..."
+    1 string data = "To poznáš…"
    [51]
-    1 string data = "..."
+    1 string data = "…"
    [52]
-    1 string data = "The curse of the Night Shroud is strong, but it won't withstand the eclipse."
+    1 string data = "Kletba Nočního závoje je silná, ale neodolá zatmění."
    [53]
-    1 string data = "Can't wait to see that!"
+    1 string data = "Nemůžu se dočkat, až to uvidím!"
    [54]
-    1 string data = "Any moment now..."
+    1 string data = "Již každou chvíli…"
    [55]
     1 string data = "!?"
    [56]
     1 string data = "Valerie?"
    [57]
-    1 string data = "The time has come!"
+    1 string data = "Přišel čas!"
    [58]
-    1 string data = "Solstice Warriors, channel through me!"
+    1 string data = "Bojovníci Slunovratu, propojte se mnou!"
    [59]
-    1 string data = "THAT WAS AWESOME!!!"
+    1 string data = "TO BYLO ÚŽASNÉ!!!"
    [60]
-    1 string data = "Quickly now. Our window is short."
+    1 string data = "A teď rychle. Naše okno je krátké."
    [61]
-    1 string data = "Your friend doesn't have much time. Let's use the shortcut to the right."
+    1 string data = "Váš přítel nemá moc času. Použijme zkratku napravo."
    [62]
-    1 string data = "There's no time. We must hurry back to Lucent."
+    1 string data = "Není čas. Musíme si pospíšit zpátky do Lucentu."
    [63]
-    1 string data = "Brambles are blocking the way. We should find their source."
+    1 string data = "Ostružiny blokují cestu. Měli bychom najít jejich zdroj."
    [64]
-    1 string data = "Manor <sprite="dialog-generic-icons" name="arrow-north">\nLucent <sprite="dialog-generic-icons" name="arrow-south">"
+    1 string data = "Sídlo <sprite="dialog-generic-icons" name="arrow-north">\nLucent <sprite="dialog-generic-icons" name="arrow-south">"
