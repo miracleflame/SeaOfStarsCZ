@@ -13,76 +13,76 @@
   1 Array Array (37 items)
    0 int size = 37
    [0]
-    1 string data = "What!? You again!?"
+    1 string data = "Co!? Zase vy!?"
    [1]
-    1 string data = "How did you find this place?"
+    1 string data = "Jak jste našli tohle místo?"
    [2]
-    1 string data = "You're keeping Duke Aventry in this world against his will."
+    1 string data = "Držíš vévodu Aventryho na tomto světě proti jeho vůli."
    [3]
-    1 string data = "We're ending this."
+    1 string data = "Ukončíme to."
    [4]
-    1 string data = "Oh, no you don't!"
+    1 string data = "Tak to tedy ne!"
    [5]
-    1 string data = "Don't what?"
+    1 string data = "Co ne?"
    [6]
-    1 string data = "You don't STEAL my JOURNAL and BARGE in here making DEMANDS!!"
+    1 string data = "NEUKRADETE mi můj DENÍK a NEVRTHNETE mi sem vznášet POŽADAVKY!!!"
    [7]
-    1 string data = "The magic object keeping him tethered. Where is it?"
+    1 string data = "Ten magický předmět, co ho drží připoutaného. Kde je?"
    [8]
-    1 string data = "THE <color=magic>LOCKET</color> IS MINE AND MINE ALONE!!!"
+    1 string data = "<color=magic>MEDAILONEK</color> JE MŮJ A JENOM MŮJ!!!"
    [9]
-    1 string data = "So it's a locket?"
+    1 string data = "Takže jde o medailonek?"
    [10]
-    1 string data = "(The nerve...)"
+    1 string data = "(Ty nervy...)"
    [11]
-    1 string data = "(THE COARSENESS...)"
+    1 string data = "(TA NEOMALENOST...)"
    [12]
-    1 string data = "NOT AGAIN!!"
+    1 string data = "TENTOKRÁT UŽ NE!!!"
    [13]
-    1 string data = "Have you met her before? She doesn't seem to like you very much."
+    1 string data = "Vy už se znáte? Zdá se, že vás nemá moc ráda."
    [14]
-    1 string data = "ENOUGH! There will be no mercy for you this time, you will pay with your life!"
+    1 string data = "STAČILO! Tentokrát žádné slitování nebude, zaplatíte za to životem!"
    [15]
-    1 string data = "PREPARE YOURSELVES!!!"
+    1 string data = "PŘIPRAVTE SE!!!"
    [16]
-    1 string data = "Wait, wait... I... I yield..."
+    1 string data = "Počkej, počkej... Já... Já odstupuji..."
    [17]
-    1 string data = "Well fought, my lady!"
+    1 string data = "Dobrý boj, má paní!"
    [18]
-    1 string data = "DON'T YOU START-"
+    1 string data = "NEZAČÍNEJ..."
    [19]
-    1 string data = "It's okay, Romaya. Just give us the locket and we'll be on our way."
+    1 string data = "To je v pořádku, Romayo. Jen nám dej ten medailonek a my už půjdeme."
    [20]
     1 string data = "(...)"
    [21]
-    1 string data = "(Insolent FOOLS with their powers they DIDN'T EARN barging in here FOILING my plans...)"
+    1 string data = "(Drzí HLUPÁCI se svými schopnostmi, které si NEZASLOUŽILI, sem vtrhli a ZMAŘILI mé plány...)"
    [22]
     1 string data = "..."
    [23]
-    1 string data = "Here's your locket. Now LEAVE!"
+    1 string data = "Tady máte svůj medailonek. A teď VYPADNĚTE!"
    [24]
-    1 string data = "And tell Duke Aventry that he's FIRED! Understood?"
+    1 string data = "A vyřiďte vévodovi Aventrymu, že má PADÁKA! Rozumíte?"
    [25]
-    1 string data = "HE'S NOT QUITTING, HE'S FIRED!"
+    1 string data = "NEODCHÁZÍ, MÁ PADÁKA!"
    [26]
-    1 string data = "My lady, why are you so angry all the time? You know, in my village-"
+    1 string data = "Má paní, proč jste pořád tak vzteklá? Víte, v mé vesnici..."
    [27]
-    1 string data = "B'st! Forget it... "
+    1 string data = "B'ste! Zapomeň na to... "
    [28]
-    1 string data = "Ex-CUSE me? Who do you think you ARE?"
+    1 string data = "OMLUV mě? Kdo si myslíš, že JSI?"
    [29]
-    1 string data = "(Shh... Let's just go, okay?) "
+    1 string data = "(Pst... radši prostě pojďme, jo?) "
    [30]
-    1 string data = "Yeah, time to leave."
+    1 string data = "Jo, je čas jít."
    [31]
-    1 string data = "She needs some time alone."
+    1 string data = "Potřebuje být chvíli sama."
    [32]
-    1 string data = "Greetings adventurers, seek you passage across these waters?"
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní??"
    [33]
-    1 string data = "Then show me your colored flame, or leave this place in shame!"
+    1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
    [34]
-    1 string data = "I shall take you to the entrance."
+    1 string data = "Zavedu vás ke vchodu."
    [35]
-    1 string data = " I shall take you to the  <color=location>Flooded Graveyard</color>."
+    1 string data = "Zavedu tě na <color=location>Zatopený hřbitov</color>."
    [36]
-    1 string data = "The Locket you got. To the Duke I shall take you lot."
+    1 string data = "Medailon už tedy máte. S vévodou se teď shledáte."

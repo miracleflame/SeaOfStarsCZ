@@ -13,114 +13,114 @@
   1 Array Array (56 items)
    0 int size = 56
    [0]
-    1 string data = "It is indeed the dead you hear, for the necromancer lives somewhere near."
+    1 string data = "Všude kolem slýšíte mrtvých snad, zde má nekromantka pobývat."
    [1]
-    1 string data = "Should you wish to save your hide, a green flame you must provide!"
+    1 string data = "Chcete-li zachránit kůži svou, zelený plamen musíte poskytnout!"
    [2]
-    1 string data = "Let's look around for her lair. Stories say it is "extravagant.""
+    1 string data = "Porozhlédněme se po jejím doupěti. Příběhy říkají, že je 'extravagantní.'"
    [3]
-    1 string data = "This has to be it."
+    1 string data = "Tohle musí být ono."
    [4]
-    1 string data = "Okay, she really does have style!"
+    1 string data = "No jo, tá opravdu má styl!"
    [5]
-    1 string data = "Stay vigilant. <color=bad>Romaya</color> might be home."
+    1 string data = "Buďte ostražití. <color=bad>Romaya</color> by mohla být doma."
    [6]
-    1 string data = "On that, you would be correct."
+    1 string data = "V tom se nemýlíš."
    [7]
-    1 string data = "I believe that is far enough."
+    1 string data = "Hádám, že dál už ani krok netřeba."
    [8]
-    1 string data = "We need a soul stone to save our friend."
+    1 string data = "Potřebujeme kámen duší, abychom zachránili našeho přítele."
    [9]
-    1 string data = "We're going in."
+    1 string data = "Jdeme dovnitř."
    [10]
-    1 string data = "Then we are at an impasse, for I am bound to serve the mistress in undeath."
+    1 string data = "Pak se ocitáme v bezvýchodné situaci, protože jsem povinen sloužit paní v záhrobí."
    [11]
-    1 string data = "She... resurrected you from your ashes?"
+    1 string data = "Ona... vás vzkřísila z popela?"
    [12]
-    1 string data = "Who are you?"
+    1 string data = "Kdo jste?"
    [13]
-    1 string data = "Generations ago, I was known as <color=good>Duke Aventry</color>. That is all I can remember."
+    1 string data = "Před několika generacemi jsem byl znám jako <color=good>Vévoda Aventry</color>. To je vše, co si pamatuji."
    [14]
-    1 string data = "I am now but a wandering spirit, forever lost in longing..."
+    1 string data = "Nyní jsem pouhý bludný duch, navždy ztracen v touze..."
    [15]
-    1 string data = "Despite this cruel fate, I am blessed by ignorance as to what became of my beloved family's mansion, and of the good people of Lucent."
+    1 string data = "Navzdory tomuto krutému osudu jsem obdařen nevědomostí o tom, co se stalo se sídlem mé milované rodiny a s dobrým lidem Lucentu."
    [16]
-    1 string data = "But I digress. The spectral chains that bind me to the mistress beckon."
+    1 string data = "Ale to odbočuji. Vybízejí mě přízračné řetězy, co mě poutají k mé paní."
    [17]
-    1 string data = "Please understand this brings me no joy."
+    1 string data = "Prosím, mějte pochopení, že tohle mi nepřináší žádnou útěchu."
    [18]
-    1 string data = "En garde!"
+    1 string data = "Do zbraně!"
    [19]
-    1 string data = "You fight with spirit and conviction."
+    1 string data = "Bojujete s vervou a s odhodláním."
    [20]
-    1 string data = "I believe the mistress would rather not lose her bodyguard--you may pass."
+    1 string data = "Věřím, že paní by raději nepřišla o svého ochránce - můžete projít."
    [21]
-    1 string data = "But before you go, may I have a word with the blade dancer?"
+    1 string data = "Ale než odejdete, mohu si promluvit s tanečníkem čepele?"
    [22]
     1 string data = "??"
    [23]
-    1 string data = "Your speed is impressive, have you ever tried leaning into it more fully?"
+    1 string data = "Tvá rychlost je impozantní, zkoušel ses do ní někdy více opřít?"
    [24]
-    1 string data = "Here, let me show you."
+    1 string data = "Dovol, abych ti to ukázal."
    [25]
-    1 string data = "Thank you for the insight! That's bound to come in handy."
+    1 string data = "Děkuji za zasvěcení! To se určitě bude hodit."
    [26]
-    1 string data = "As expected, you are a natural."
+    1 string data = "Jak se dalo očekávat, jsi přirozený talent."
    [27]
-    1 string data = "Safe journeys, young ones."
+    1 string data = "Šťastnou cestu, mládeži."
    [28]
-    1 string data = "You have returned with a soul stone. Quite impressive, though I suppose this means the mistress will be quite upset with me."
+    1 string data = "Vrátili jste se s kamenem duší. Docela působivé, ačkoli předpokládám, že to vypovídá o tom, jak se bude na mě má paní zlobit."
    [29]
-    1 string data = "The exit path is to the right. You will have to make good use of your Graplou."
+    1 string data = "Úniková cesta vede vpravo. Budete muset dobře využívat svůj Zahák."
    [30]
-    1 string data = "I hope you can get to your friend in time."
+    1 string data = "Doufám, že se ke svému příteli dostanete včas."
    [31]
-    1 string data = "Farewell."
+    1 string data = "Sbohem."
    [32]
-    1 string data = "A green flame you found I see, aboard my raft I welcome thee!"
+    1 string data = "S tím zeleným plamenem ke mě poďte, vítání na můj vor se naloďte!"
    [33]
-    1 string data = "Greetings, adventurers. Seek you passage across these waters?"
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní??"
    [34]
-    1 string data = "A yellow flame you found I see, aboard my raft I welcome thee!"
+    1 string data = "S tím žlutým plamenem ke mě poďte, vítání na můj vor se naloďte!"
    [35]
-    1 string data = "I shall take you to the entrance."
+    1 string data = "Dovedu vás ke vchodu."
    [36]
-    1 string data = "Greetings, I am the keeper of this graveyard. "
+    1 string data = "Zdravím vás, jsem správce tohoto hřbitova. "
    [37]
-    1 string data = "I suggest you turn back as soon as possible, for the mistress of the place is not fond of company."
+    1 string data = "Doporučuji vám, abyste se co nejdříve otočili, neboť paní tohoto místa si nepotrpí na společnost."
    [38]
-    1 string data = "You should heed my words, young adventurers."
+    1 string data = "Měli byste dbát mých slov, mladí dobrodruzi."
    [39]
-    1 string data = "To anger the mistress is to put oneself in danger."
+    1 string data = "Rozhněvat paní znamená vystavit se nebezpečí."
    [40]
-    1 string data = "I... don't mind the cold..."
+    1 string data = "Mně... zima nevadí..."
    [41]
-    1 string data = "If I could only remember..."
+    1 string data = "Kdybych si tak uměl vzpomenout..."
    [42]
-    1 string data = "A journal? It seems like it belongs to the mistress, but these entries have my handwriting..."
+    1 string data = "Deník? Vypadá to, že patří paní, ale tyhle zápisy jsou psané mým písmem..."
    [43]
-    1 string data = "Ah, yes... I had forgotten all about the estate..."
+    1 string data = "Ach, ano... Na pozůstalost jsem úplně zapomněl..."
    [44]
-    1 string data = "Basking in the summer sun... And the flowers, they were beautiful..."
+    1 string data = "Vyhřívání na letním slunci... A ty květiny, ty byly překrásné..."
    [45]
-    1 string data = "I wish that I could go there again..."
+    1 string data = "Kéž bych tam mohl znovu zajet..."
    [46]
-    1 string data = "I wish..."
+    1 string data = "To bych si přál..."
    [47]
-    1 string data = "The <color=good>Ferryman</color> will know what to do with that."
+    1 string data = "<color=good>Převozník</color> už bude vědět, co s tím."
    [48]
-    1 string data = "This locket..."
+    1 string data = "Tento medailonek..."
    [49]
     1 string data = "..."
    [50]
-    1 string data = "(<color=good>Ewilda</color>... for you to be the one who saves me in the end... how poetic...)"
+    1 string data = "(<color=good>Ewildo</color>... že byste to byla vy, kdo mě nakonec zachrání... jak poetické...)"
    [51]
-    1 string data = "Thank you for your help, brave souls."
+    1 string data = "Děkuji vám za pomoc, statečné duše."
    [52]
-    1 string data = "Please accept this <color=magic>key to my coffin</color>. Its contents belonged to an old rival of mine--I believe it will be of value to you."
+    1 string data = "Přijměte, prosím, tento <color=magic>klíč k mé rakvi</color>. Její obsah patřil mému dávnému rivalovi - věřím, že pro vás bude mít cenu."
    [53]
-    1 string data = "Farewell..."
+    1 string data = "Sbohem..."
    [54]
-    1 string data = "Press <button="WindBracelet"> while standing on a raft to move around."
+    1 string data = "Stiskněte <button="WindBracelet">, zatímco stojíte na voru, abyste se přemístili."
    [55]
     1 string data = "..."

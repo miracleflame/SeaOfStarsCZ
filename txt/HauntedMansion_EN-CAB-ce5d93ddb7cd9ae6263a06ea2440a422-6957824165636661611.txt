@@ -23,7 +23,7 @@
    [4]
     1 string data = "[MAINCHAR], [OFFCHAR], vy budete mít na starost taneční sál a následně se vydáte na zahradu."
    [5]
-    1 string data = "Porazit <color=bad>Zahradní zrůdu</color> nebude snadné, ale vy na to schopnosti máte."
+    1 string data = "Porazit <color=bad>Botanickou zrůdu</color> nebude snadné, ale vy na to schopnosti máte."
    [6]
     1 string data = "Neselžeme."
    [7]
@@ -37,7 +37,7 @@
    [11]
     1 string data = "Tak tady tě máme!"
    [12]
-    1 string data = "Já s Přiživovačem bojovat nemůžu, ale jinak vám pomůžu, jak to jen půjde."
+    1 string data = "Já s Přiživovačkou bojovat nemůžu, ale jinak vám pomůžu, jak to jen půjde."
    [13]
     1 string data = "Ahoj, ty musíš být Seraï!"
    [14]
@@ -51,15 +51,15 @@
    [18]
     1 string data = "Asasínka Seraï se přidává do družiny!"
    [19]
-    1 string data = "Use the <color=magic>Order</color> command in the game menu, or <color=magic>Swap</color> command in battle to change your party's composition!"
+    1 string data = "Ke změně složení party použijte příkaz <color=magic>Pořadí</color> v menu hry nebo <color=magic>Vystřídat</color> v souboji!"
    [20]
     1 string data = "Dobrá, náš úkol v této misi jsme splnili."
    [21]
     1 string data = "Pojďme se vrátit k ostatním."
    [22]
-    1 string data = "Přiživovač je váš. Zlomte vaz."
+    1 string data = "Přiživovačka je vaše. Zlomte vaz."
    [23]
-    1 string data = "Porazili jste Zahradní zrůdu, dobrá práce."
+    1 string data = "Porazili jste Botanickou zrůdu, dobrá práce."
    [24]
     1 string data = "Přiživovačka žalu je za touto bariérou. Všichni se mnou!"
    [25]
@@ -71,13 +71,13 @@
    [28]
     1 string data = "Runa, kterou jsem připravil, donutí Přiživovačku žalu se zjevit. Budu se muset neustále soustředit, aby byla zranitelná."
    [29]
-    1 string data = "Věřím, že mě ochráníte a to zlé stvoření skolíte!"
+    1 string data = "Věřím, že mě ochráníte a to stvoření zla skolíte!"
    [30]
     1 string data = "Držím vám palce!"
    [31]
     1 string data = "Je tady! Buďte připraveni a nenechte se oklamat jejím vzhledem. Je nesmírně mocná!"
    [32]
-    1 string data = "Tohle k ničemu nevede! Ani neukázala skutečnou podobu!"
+    1 string data = "Tohle k ničemu nevede! Ani neukázala svou pravou podobu!"
    [33]
     1 string data = "Ta runa nám teda opravdu pomohla."
    [34]
@@ -101,7 +101,7 @@
    [43]
     1 string data = "To není ono. No tak, Garle, přátelé tě potřebují!"
    [44]
-    1 string data = "Aha! Za těmi sutinami je díra. Čas se tím probourat!"
+    1 string data = "Aha! Za těmi sutinami je díra. Je čas se tím probourat!"
    [45]
     1 string data = "Tak se na to podívejme."
    [46]
@@ -121,9 +121,9 @@
    [53]
     1 string data = "Co to!? Mohl nás třeba varovat, než se pustí do něčeho takového!"
    [54]
-    1 string data = "Zvládl to!"
+    1 string data = "Dokázal to!"
    [55]
-    1 string data = "Výborně! Přiživovač ukazuje svůj pravý vzhled. Dokončeme to!"
+    1 string data = "Výborně! Přiživovačka ukazuje svou pravou podobu. Dokončeme to!"
    [56]
     1 string data = "Rychle! Zničte to jádro!"
    [57]
@@ -155,7 +155,7 @@
    [70]
     1 string data = "Vraťte se, odkud jste přišli, vy zloduši, nepřísluší vám ovlivňovat cizí zájmy!"
    [71]
-    1 string data = "Oh, je snad tenhle stařík nervózní?"
+    1 string data = "Ale no, je snad tenhle stařík nervózní?"
    [72]
     1 string data = "Nervózní, a ještě k tomu zmatený!"
    [73]
@@ -223,7 +223,7 @@
    [104]
     1 string data = "Kolik staletí se marně čekalo na splnění toho falešného slibu?"
    [105]
-    1 string data = "Nemyslíš, že by se to za celou tu dobu už jinak muselo stát?"
+    1 string data = "Nemyslíš, že už by se to jinak za celou tu dobu muselo stát?"
    [106]
     1 string data = "..."
    [107]
@@ -271,7 +271,7 @@
    [128]
     1 string data = "Děkuji, že jste to tady očistili od zlých duchů, je tu najednou mnohem příjemněji."
    [129]
-    1 string data = "Vy jdete bojovat se Zahradní zrůdou?"
+    1 string data = "Vy jdete bojovat s Botanickou zrůdou?"
    [130]
     1 string data = "Doufám, že víte, co děláte..."
    [131]
@@ -311,7 +311,7 @@
    [148]
     1 string data = "Stýská se mi po Lucentu."
    [149]
-    1 string data = "Být vámi, tak se tomu bludišti vyhnu. Zahradní zrůda každého sežere."
+    1 string data = "Být vámi, tak se tomu bludišti vyhnu. Botanická zrůda každého sežere."
    [150]
     1 string data = "Když se to stalo, zrovna jsme přímo tady večeřeli."
    [151]
