@@ -13,131 +13,131 @@
   1 Array Array (327 items)
    0 int size = 327
    [0]
-    1 string data = "Of all the recorded hexes and acts of bewitchment, few are as dreadful as the curse of <color=bad>The Vespertine</color>."
+    1 string data = "Ze všech zaznamenaných zaklínadel a činů začarování jsou jen málokteré tak hrůzné jako kletba <color=bad>Večernice</color>."
    [1]
-    1 string data = "This story takes us back centuries, to a time when a certain band of pirates ruled the seas."
+    1 string data = "Tento příběh nás zavede o několik staletí do minulosti, do dob, kdy mořím vládla jistá banda pirátů."
    [2]
-    1 string data = "<color=bad>Stormcaller</color> was the name of their captain. He was the most powerful wind mage the world had ever known."
+    1 string data = "<color=bad>Vyzývatel bouří</color> bylo jméno jejich kapitána. Byl to nejmocnější větrný mág, jakého kdy svět poznal."
    [3]
-    1 string data = "And their navigator, <color=good>Hortence</color>, remains to this day the shrewdest mariner on record."
+    1 string data = "A jejich navigátorka, <color=good>Hortenzie</color>, zůstává dodnes tím nejprotřelejším mořeplavcem v historii."
    [4]
-    1 string data = "Combining Hortence's skill and Stormcaller's magic, some say their ship was faster than light itself."
+    1 string data = "Spojením Hortenziiných dovedností a magie Vyzývatele bouří byla jejich loď podle některých tvrzení rychlejší než samotné světlo."
    [5]
-    1 string data = "The crew went on many adventures and accumulated countless riches until, one day, the inevitable happened."
+    1 string data = "Posádka podnikla mnoho dobrodružství a nashromáždila nesčetné bohatství, až jednoho dne došlo k nevyhnutelnému."
    [6]
-    1 string data = "Hortence, whose first love was music, announced that she wanted to quit the pirate life and devote herself to her art full time."
+    1 string data = "Hortenzie, jejíž první láskou byla hudba, prohlásila, že chce zanechat pirátského života a věnovat se naplno svému umění."
    [7]
-    1 string data = "Ever a firm believer that the real treasure is the treasure one finds along the way, Stormcaller took her resignation... harshly."
+    1 string data = "Vždy oddaný přesvědčení, že opravdovými poklady jsou ty, které člověk objeví na cestě, přijal Vyzývatel bouří její rezignaci... špatně."
    [8]
-    1 string data = "Utterly insulted, he stopped conjuring wind for the sails and locked the ship right in the middle of the ocean."
+    1 string data = "Naprosto uražen přestal vyvolávat vítr do plachet a zastavil loď přímo uprostřed oceánu."
    [9]
-    1 string data = "“And we shall remain here,” he said, “'til our NAVIGATOR gets that silly idea out o' her head!”"
+    1 string data = ""A tady zůstaneme," řekl, "dokud si naše NAVIGÁTORKA nevyžene z hlavy ten hloupý nápad!""
    [10]
-    1 string data = "But Hortence had already made her final decision."
+    1 string data = "Ale Hortenzie se už definitivně rozhodla."
    [11]
-    1 string data = "Days went by, both of them sulking while their crew begged that they reach some resolution."
+    1 string data = "Dny ubíhaly, jak oba trucovali, zatímco jejich posádka žadonila, aby dospěli k nějakému rozřešení."
    [12]
-    1 string data = "First they ran out of patience, then out of food, and eventually out of drinkable water."
+    1 string data = "Nejprve jim došla trpělivost, pak jídlo a nakonec i pitná voda."
    [13]
-    1 string data = "Then one day after sunset, the pirates driven mad by hunger and thirst mutinied and made their captain walk the plank."
+    1 string data = "Pak se jednoho dne po západu slunce piráti štvaní hladem a žízní vzbouřili a donutili svého kapitána skočit z prkna."
    [14]
-    1 string data = "And as he sank into the abyss, Stormcaller cursed his crew and conjured an eternal prison."
+    1 string data = "A jak se potápěl do hlubin, Vyzývatel bouří proklel svou posádku a vyčaroval věčné vězení."
    [15]
-    1 string data = "In the <color=bad>Sea of Nightmare</color>, he would channel a deadly storm for them to endure forevermore."
+    1 string data = "V <color=bad>Moři nočních můr</color> jim přivolával smrtonosnou bouři, aby je sužovala navěky."
    [16]
-    1 string data = "Over centuries the crew members lost their minds to the ghastly place, until only Hortence remained."
+    1 string data = "V průběhu staletí členové posádky v tom příšerném místě přicházeli o rozum, až zůstala jen Hortenzie."
    [17]
-    1 string data = "To this day the battle goes on in the Sea of Nightmare, Stormcaller's hatred pitted against the navigator's sheer will."
+    1 string data = "Dodnes se v Moři nočních můr odehrává bitva, v níž proti sobě stojí nenávist Vyzývatele bouří a čirá vůle navigátorky."
    [18]
-    1 string data = "Some say Stormcaller's fury will one day sink the ship, while others believe he will eventually bow to the indomitable Hortence."
+    1 string data = "Povídá se, že zuřivost Vyzývatele bouří jednoho dne loď potopí, zatímco jiní věří, že se nakonec podvolí nezdolné Hortenzii."
    [19]
-    1 string data = "Legend has it she gets a short break once a day, for but a few seconds, at the precise time the curse was first conjured."
+    1 string data = "Legenda praví, že jednou denně si Hortenzie dopřeje krátkou přestávku, jen na několik vteřin, přesně v okamžiku, kdy byla kletba poprvé vyřčena."
    [20]
-    1 string data = "Countless sailors and fishermen have since reported sightings of the legendary ghost pirate ship that appears at dusk."
+    1 string data = "Nespočet námořníků a rybářů od té doby hlásilo pozorování legendární pirátské lodi duchů, která se zjevuje za soumraku."
    [21]
-    1 string data = "They call it <color=bad>The Vespertine</color>."
+    1 string data = "Říkají jí <color=bad>Večernice</color>."
    [22]
-    1 string data = "While some have half a mind to climb aboard in search of treasure, most avoid sailing at dusk for fear of being sucked into the Sea of Nightmare."
+    1 string data = "Zatímco někteří si nechtějí nechat zajít chuť nalodit se a hledat poklad, většina se plavbě za soumraku vyhýbá, protože se bojí, že je vtáhne Moře nočních můr."
    [23]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [24]
-    1 string data = "What few people know today is that Kunus'nuku had already been banished by the time the Great Summoning happened."
+    1 string data = "Dnes už málokdo ví, že Kunus'nuku byla vykázána již před Velkým přivoláním."
    [25]
-    1 string data = "The channeling had begun months prior, back when the Lizardfolk still had the upper hand."
+    1 string data = "Přípravy začaly už několik měsíců předem, ještě v době, kdy měli Ještěří lidé navrch."
    [26]
-    1 string data = "It was toward the end of the decades long battle, after it became clear that the Molekin mages would be the victors."
+    1 string data = "Stalo se to ke konci bitvy vleklé desetiletí, poté, co bylo jasné, že Molekinští mágové zvítězí."
    [27]
-    1 string data = "On this night of nights, the air carried early cries of victory across the archipelago."
+    1 string data = "Této noci všech nocí se vzduchem nesly časné pokřiky vítězství po celém souostroví."
    [28]
-    1 string data = "Suddenly, the very sky tore open, and a giant Sky Serpent emerged to wreak havoc."
+    1 string data = "Náhle se roztrhla sama obloha a z ní se vynořil obrovský Nebeský drak, aby rozséval spoušť."
    [29]
-    1 string data = "To this day, historians argue about the origins of the Sky Serpent."
+    1 string data = "Historici se dodnes přou o původu Nebeského draka."
    [30]
-    1 string data = "Some say it is a monster of pure evil, stolen from another plane of existence and forced to remain here."
+    1 string data = "Někteří říkají, že je to monstrum čirého zla, které bylo odcizeno z jiné roviny existence a donuceno zůstat zde."
    [31]
-    1 string data = "Others believe it came from above the clouds--a once friendly creature that had its mind corrupted by dark magic."
+    1 string data = "Jiní se domnívají, že přišel daleko zpoza mraků - kdysi přátelský tvor, jehož mysl zkalila černá magie."
    [32]
-    1 string data = "But regardless of its origins, the Sky Serpent was set to change the world forever."
+    1 string data = "Ale bez ohledu na svůj původ byl Nebeský drak předurčen k tomu, aby navždy změnil svět."
    [33]
-    1 string data = "Back in the time of the Ovates, the ritual of the elements could have been performed to control the Sky Serpent's mind."
+    1 string data = "Ještě v dobách Ovatů bylo možné provést rituál živlů, který ovládl mysl Nebeského draka."
    [34]
-    1 string data = "But alas, the Ovates were long gone."
+    1 string data = "Ale bohužel, Ovati byli dávno pryč."
    [35]
-    1 string data = "Earth magic being their only strength at hand, the Molekin elementalists devised a plan to contain the threat."
+    1 string data = "Molekinští elementalisté, jejichž jedinou silnou stránkou byla magie země, vymysleli plán, jak hrozbu zadržet."
    [36]
-    1 string data = "By carving intricate wind tunnels straight into X'tol's Mountain, they turned it into a giant musical instrument."
+    1 string data = "Vytesáním složitých větrných tunelů přímo do X'tolovy hory ji proměnili v obří hudební nástroj."
    [37]
-    1 string data = "Blowing through the mountain, the wind started playing a melody so pure, it forced the Sky Serpent into slumber."
+    1 string data = "Vítr vanoucí skrz horu začal hrát melodii tak čistou, že přiměla Nebeského draka ke spánku."
    [38]
-    1 string data = "The magic was strong, and it was believed that the world would remain safe for generations."
+    1 string data = "Magie byla silná a věřilo se, že svět zůstane v bezpečí po celé generace."
    [39]
-    1 string data = "Or rather, for as long as the mountain played the melody true."
+    1 string data = "Nebo spíše tak dlouho, dokud hora stále hrála melodii."
    [40]
-    1 string data = "For the greater good, the Molekin gave up on their study of magic, and established an outpost atop the mountain."
+    1 string data = "V zájmu vyššího dobra se Molekinové vzdali studia magie a založili na vrcholu hory Hornickou vesničku."
    [41]
-    1 string data = "Over generations they became expert miners, living by a pledge to keep the wind tunnels operational."
+    1 string data = "V průběhu generací se z nich stali odborníci na hornictví a žili závazkem udržovat větrné tunely v provozu."
    [42]
-    1 string data = "The brave Molekin have toiled around the clock ever since, protecting the world one pickaxe strike at a time."
+    1 string data = "Od té doby stateční Molekini nepřetržitě dřou a chrání svět jedním úderem krumpáče za druhým."
    [43]
-    1 string data = "Despite centuries of stability, stories say that the magic enchantment on the wind tunnels will eventually fade away."
+    1 string data = "Navzdory staletím stability se vypráví, že magické kouzlo ve větrných tunelech nakonec vyprchá."
    [44]
-    1 string data = "One can only hope that the Ovates will return before then..."
+    1 string data = "Nezbývá než doufat, že se Ovati vrátí, než se tak stane..."
    [45]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [46]
-    1 string data = "There once was a botanist who attempted to trick Death by growing a rose so pretty she couldn't bear to reap it."
+    1 string data = "Kdysi dávno se jeden botanik pokusil obelstít Smrt vypěstováním přenádherné růže, kterou by nedokázala pokosit."
    [47]
-    1 string data = "Smitten, Death spiraled into confusion as she appreciated the beauty of life for the very first time."
+    1 string data = "Okouzlenou Smrt zachvátilo zmatení, když vůbec poprvé ocenila krásu života."
    [48]
-    1 string data = "Whether her next action was fueled by jealous rage or opportunistic guile, no one really knows."
+    1 string data = "Zda byla ke svému následujícímu činu hnána zuřivou závistí, či vypočítavou záludností, to nikdo neví."
    [49]
-    1 string data = "Using wicked magic, she turned the flower into something even more beautiful, but very cursed indeed."
+    1 string data = "Pomocí zlověstné magie udělala z květiny něco ještě krásnějšího, avšak vskutku velmi prokletého."
    [50]
-    1 string data = "The Vampire Rose."
+    1 string data = "Upíří růži."
    [51]
-    1 string data = "A thing of beckoning beauty, compelling all who lay eyes upon it to willingly take part in their own corruption."
+    1 string data = "Předmět podmanivé krásy lákající všechny, kdo jej spatří, aby se nechali dobrovolně poznamenat."
    [52]
-    1 string data = "Rumors of the magical rose reached all corners of the world, carrying a simple promise."
+    1 string data = "Zvěsti o kouzelné růži se roznesly do všech koutů světa, nesouce s sebou prostý příslib."
    [53]
-    1 string data = "A promise few could resist: eternal life, provided they could take it."
+    1 string data = "Příslib, kterému mohl odolat jen málokdo: věčný život, pokud to ovšem ustojí."
    [54]
-    1 string data = "Despite the elation offered by the initial touch, the price became apparent all too quickly."
+    1 string data = "Navzdory radosti z prvního doteku vyšla cena najevo až příliš rychle."
    [55]
-    1 string data = "For every second spent holding the Vampire Rose, a year would be added to one's lifespan."
+    1 string data = "Kolik vteřin člověk Upíří růži drží, tolik let je přidáno k jeho životu."
    [56]
-    1 string data = "But for every borrowed year, a thorn would grow on one of their bones."
+    1 string data = "Ale za každý takový rok navíc mu na jedné kosti vyroste trn."
    [57]
-    1 string data = "Stories say that, of all the people to touch the Vampire Rose, most realized their mistake instantly."
+    1 string data = "Říká se, že většina lidí, co se kdy dotkli Upíří růže, si svou chybu okamžitě uvědomila."
    [58]
-    1 string data = "Having extended their lives by but a single year, they'd release their grip and live on, only with a very painful reminder felt in their every move."
+    1 string data = "Prodloužili si život o jeden jediný rok, růži pustili a žili dál s velmi bolestivou připomínkou, co doprovázela každý jejich pohyb."
    [59]
-    1 string data = "But there were others unable to stop themselves, and became what few would describe as human, or even alive."
+    1 string data = "Ale objevili se i takoví, kteří se nedokázali zastavit, a stali se něčím, co by se dalo jen těžko nazvat člověkem a snad i živou bytostí."
    [60]
-    1 string data = "Though it is unclear whether the Vampire Rose yet exists, everyone agrees on one thing."
+    1 string data = "I když zatím není jasné, zda Upíří růže skutečně existuje, jedna věc je jistá."
    [61]
-    1 string data = "It appears that, in the end, Death always gets the last laugh in the faces of those foolish enough to try and cheat her."
+    1 string data = "Zdá se, že Smrt se těm, kdo se ji pošetile snaží obejít, nakonec vždy vysměje do tváře."
    [62]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [63]
     1 string data = "It is said that whenever twins are born on a solstice, fate itself flips a coin."
    [64]
@@ -247,7 +247,7 @@
    [116]
     1 string data = "Enclosed were directions, along with the promise of a worthwhile endeavor and a touch of magic."
    [117]
-    1 string data = "They gathered en masse on the barren island to the southwest, hoping to meet the mysterious “Great Eagle” who had signed their invitations."
+    1 string data = "They gathered en masse on the barren island to the southwest, hoping to meet the mysterious "Great Eagle” who had signed their invitations."
    [118]
     1 string data = "But all they found when they arrived were three vials, two of which were sealed."
    [119]
@@ -413,19 +413,19 @@
    [199]
     1 string data = "Fleshmancer Acolyte Two approached in disguise, and offered him a magic shard."
    [200]
-    1 string data = "“This ancient shard was made by the Ovates themselves,” she lied, fully aware of Duke Aventry's weakened state of mind."
+    1 string data = ""This ancient shard was made by the Ovates themselves,” she lied, fully aware of Duke Aventry's weakened state of mind."
    [201]
-    1 string data = "“It will shroud your island in complete darkness for one day, blocking all light from the sun and moon.”"
+    1 string data = ""It will shroud your island in complete darkness for one day, blocking all light from the sun and moon.”"
    [202]
-    1 string data = "“My enemy's powers would...” he mused, “But...”"
+    1 string data = ""My enemy's powers would...” he mused, "But...”"
    [203]
-    1 string data = "Playing to Duke Aventry's sense of honor, Two gave him the final nudge: “The Solstice Warrior hasn't been playing by the rules, either.”"
+    1 string data = "Playing to Duke Aventry's sense of honor, Two gave him the final nudge: "The Solstice Warrior hasn't been playing by the rules, either.”"
    [204]
-    1 string data = "“Surely you wish to protect your people?” she asked."
+    1 string data = ""Surely you wish to protect your people?” she asked."
    [205]
     1 string data = "Duke Aventry accepted the shard and thanked her for her help."
    [206]
-    1 string data = "“Simply smash the shard with conviction, and its magic will awaken.” Two explained on her way out."
+    1 string data = ""Simply smash the shard with conviction, and its magic will awaken.” Two explained on her way out."
    [207]
     1 string data = "He wasted no time in smashing the shard, and by voluntarily activating the curse on his island, played right into the Acolytes' hands."
    [208]
@@ -569,45 +569,45 @@
    [277]
     1 string data = "This one is special--it's an adventurer's log! Might want to take some notes."
    [278]
-    1 string data = "“Joce's log - Cerulean Expedition Day 1."
+    1 string data = ""Joce's log - Cerulean Expedition Day 1."
    [279]
-    1 string data = "“I wasn't expecting to feel fear so early on."
+    1 string data = ""I wasn't expecting to feel fear so early on."
    [280]
-    1 string data = "“To think we might just happen upon her... The Queen That Was..."
+    1 string data = ""To think we might just happen upon her... The Queen That Was..."
    [281]
-    1 string data = "“Still, she needs to be found, lest she get the jump on Repine."
+    1 string data = ""Still, she needs to be found, lest she get the jump on Repine."
    [282]
-    1 string data = "“Even the sunken moon knows we've suffered enough from her betrayal as it is."
+    1 string data = ""Even the sunken moon knows we've suffered enough from her betrayal as it is."
    [283]
-    1 string data = "“Three teams, we are. The other two are led by Brochu and Elbi."
+    1 string data = ""Three teams, we are. The other two are led by Brochu and Elbi."
    [284]
-    1 string data = "“Plan goes like this: Each team has a series of four directions to explore."
+    1 string data = ""Plan goes like this: Each team has a series of four directions to explore."
    [285]
-    1 string data = "“Four directions, four days. After which, we backtrack for another four and compare notes."
+    1 string data = ""Four directions, four days. After which, we backtrack for another four and compare notes."
    [286]
-    1 string data = "“Brochu's team is trying northeast, southeast, south, then northwest."
+    1 string data = ""Brochu's team is trying northeast, southeast, south, then northwest."
    [287]
-    1 string data = "“Elbi's team is going southwest, south, southwest, then east."
+    1 string data = ""Elbi's team is going southwest, south, southwest, then east."
    [288]
-    1 string data = "“As for my team, we're doing north, east, northeast, then south."
+    1 string data = ""As for my team, we're doing north, east, northeast, then south."
    [289]
-    1 string data = "“Joce's log - Cerulean Expedition Day 9."
+    1 string data = ""Joce's log - Cerulean Expedition Day 9."
    [290]
-    1 string data = "“Well I'll be damned. It was obvious once I took a second look at the notes."
+    1 string data = ""Well I'll be damned. It was obvious once I took a second look at the notes."
    [291]
-    1 string data = "“Brochu said it felt right for the first two days, but then something was amiss."
+    1 string data = ""Brochu said it felt right for the first two days, but then something was amiss."
    [292]
-    1 string data = "“Elbi recounted feeling lost the whole time, save for Day 4 where everyone had more spring in their step."
+    1 string data = ""Elbi recounted feeling lost the whole time, save for Day 4 where everyone had more spring in their step."
    [293]
-    1 string data = "“As for me, I was right, Day 3 was truly special."
+    1 string data = ""As for me, I was right, Day 3 was truly special."
    [294]
-    1 string data = "“That speedball ought to lead to her throne, but it lost power like all the others, so there ain't no way forward."
+    1 string data = ""That speedball ought to lead to her throne, but it lost power like all the others, so there ain't no way forward."
    [295]
-    1 string data = "“And seeing as I lost my entire team getting here, so there ain't a way back either. That's it for me, I guess."
+    1 string data = ""And seeing as I lost my entire team getting here, so there ain't a way back either. That's it for me, I guess."
    [296]
-    1 string data = "“If you're reading this, you must have found my belongings."
+    1 string data = ""If you're reading this, you must have found my belongings."
    [297]
-    1 string data = "“Well then, let it be known: Joce was here.""
+    1 string data = ""Well then, let it be known: Joce was here.""
    [298]
     1 string data = "The end."
    [299]
