@@ -13,222 +13,222 @@
   1 Array Array (110 items)
    0 int size = 110
    [0]
-    1 string data = "Are you the elder?"
+    1 string data = "Vy jste stařešina?"
    [1]
-    1 string data = "I... I am. And you are?"
+    1 string data = "Já... ano, jsem. A vy jste...?"
    [2]
-    1 string data = "Solstice Warriors. We're here to confront Malkomud."
+    1 string data = "Bojovníci Slunovratu. Jsme tu, abychom se postavili Malkomudovi."
    [3]
-    1 string data = "My, how wonderful!"
+    1 string data = "No to je báječné!"
    [4]
-    1 string data = "What can you tell us about the situation?"
+    1 string data = "Co nám můžete říct o současné situaci?"
    [5]
-    1 string data = "Not much I'm afraid."
+    1 string data = "Obávám se, že nic moc."
    [6]
-    1 string data = "I was simply trying to get away from the noise of all this panic, when everyone started cheering as if I was going in to fix the problem."
+    1 string data = "Prostě jsem se jen snažil uniknout hluku celé té paniky a najednou všichni začali jásat, jako bych šel dovnitř, abych ten problém vyřešil."
    [7]
     1 string data = "..."
    [8]
-    1 string data = "So now I am stuck here, equally afraid to venture forth as I am to return to my people without a solution..."
+    1 string data = "Takže teď jsem tu uvízl. Stejně tak se bojím vydat dál, jako vrátit se ke svým lidem bez řešení..."
    [9]
     1 string data = "..."
    [10]
-    1 string data = "Don't sweat it elder, we got you!"
+    1 string data = "Nebojte se, stařešino, my vás zachráníme!"
    [11]
-    1 string data = "I certainly hope so."
+    1 string data = "V to upřímně doufám."
    [12]
-    1 string data = "Be careful in there, Malkomud is one mighty wizard."
+    1 string data = "Buďte tam opatrní, Malkomud je mocný čaroděj."
    [13]
-    1 string data = "What was that noise?"
+    1 string data = "Co to bylo za zvuk?"
    [14]
     1 string data = "..."
    [15]
-    1 string data = "Something's coming!"
+    1 string data = "Něco se blíží!"
    [16]
-    1 string data = "I doubt it's the last we'll see of that one..."
+    1 string data = "Pochybuji, že jsme ho viděli naposled..."
    [17]
-    1 string data = "Let's be on our guard."
+    1 string data = "Buďme na pozoru."
    [18]
-    1 string data = "You broke into my fort!"
+    1 string data = "Vnikli jste do mé pevnosti!"
    [19]
-    1 string data = "...Are you Malkomud?"
+    1 string data = "...To ty jsi Malkomud?"
    [20]
-    1 string data = "Why did you hurt my pet?"
+    1 string data = "Proč jste ublížili mému mazlíčkovi?"
    [21]
     1 string data = "..."
    [22]
-    1 string data = "It's not fair. <color=good>Rockie</color> can't know that you're just playing if I'm not there with her!"
+    1 string data = "To není fér. <color=good>Rockie</color> nemůže vědět, že si jenom hrajete, když tam s ní nejsem!"
    [23]
-    1 string data = "What is going on?"
+    1 string data = "O co tu jde?"
    [24]
-    1 string data = "Playing? You're terrorizing the town!"
+    1 string data = "Hrajeme? Terorizuješ vesničku!"
    [25]
-    1 string data = "It's just to play, but no one else is strong enough..."
+    1 string data = "Je to jenom hra, ale nikdo jiný není dost silný..."
    [26]
-    1 string data = "NO ONE EVER UNDERSTANDS!"
+    1 string data = "NIKDO MĚ NECHÁPE!"
    [27]
-    1 string data = "Did no one teach you about your powers?"
+    1 string data = "To tě nikdo nepoučil o tvých schopnostech?"
    [28]
-    1 string data = "Magic is not a toy, Malkomud."
+    1 string data = "Magie není na hraní, Malkomude."
    [29]
-    1 string data = "So you have come to berate me too?"
+    1 string data = "Tak vy jste mi přišli vyhubovat taky?"
    [30]
-    1 string data = "I GOT NOTHING TO TELL YOU!"
+    1 string data = "NEMÁM VÁM CO ŘÍCT!"
    [31]
-    1 string data = "YOU HURT ROCKIE!"
+    1 string data = "UBLÍŽILI JSTE ROCKIE!"
    [32]
-    1 string data = "GET OUT OF MY FORT!!"
+    1 string data = "VYPADNĚTE Z MÉ PEVNOSTI!!"
    [33]
-    1 string data = "You are very strong."
+    1 string data = "Jste velmi silní."
    [34]
-    1 string data = "Did people berate you too when you were kids?"
+    1 string data = "Taky vám lidé hubovali, když jste byli děti?"
    [35]
-    1 string data = "Is this why you left your village?"
+    1 string data = "To proto jste odešli ze své vesnice?"
    [36]
-    1 string data = "Listen Malkomud, you just happened to be born with special powers, and it's a shame no one was able to guide you through that."
+    1 string data = "Poslyš, Malkomude, ty ses prostě narodil se zvláštními schopnostmi a je škoda, že tě tím nikdo nedokázal provést."
    [37]
     1 string data = "..."
    [38]
-    1 string data = "Guide me?"
+    1 string data = "Provést?"
    [39]
-    1 string data = "Everyone just makes fun because I'm not the same. They say “Malkomud can't dig!”"
+    1 string data = "Všichni si ze mě jen dělají legraci, protože nejsem stejný. Říkají: "Malkomud neumí kopat!""
    [40]
-    1 string data = "Well, have you given it a try?"
+    1 string data = "No a už jsi to zkusil?"
    [41]
-    1 string data = "It is too boring, I cannot do it like everyone else."
+    1 string data = "Je to moc nudné, nemohu to dělat jako všichni ostatní."
    [42]
-    1 string data = "Everyone likes it, but not me."
+    1 string data = "Všem se to líbí, ale mně ne."
    [43]
-    1 string data = "Everything was made only for others..."
+    1 string data = "Všechno bylo uděláno jen pro ostatní..."
    [44]
-    1 string data = "And when I try they say “Malkomud is not good!” so I give up and then they say “Malkomud is lazy!”"
+    1 string data = "A když to zkusím, říkají: "Malkomud není dobrý!", tak to vzdám a pak řeknou: "Malkomud je líný!""
    [45]
-    1 string data = "I really try but I don't understand..."
+    1 string data = "Opravdu se snažím, ale nerozumím tomu..."
    [46]
-    1 string data = "So I make a fort and show them!"
+    1 string data = "Tak si udělám pevnost a ukážu jim!"
    [47]
-    1 string data = "Aww..."
+    1 string data = "Jéje..."
    [48]
-    1 string data = "It's okay Malkomud, you don't have to do like everyone else."
+    1 string data = "V pořádku, Malkomude, nemusíš to dělat jako všichni ostatní."
    [49]
-    1 string data = "Garl is right!"
+    1 string data = "Garl má pravdu!"
    [50]
-    1 string data = "Normal doesn't have to be your thing, you do you!"
+    1 string data = "Být normální nemusí být pro tebe, buď sám sebou!"
    [51]
     1 string data = "??"
    [52]
-    1 string data = "You're pretty good with earth magic, aren't you?"
+    1 string data = "Jsi docela dobrý v magii země, viď?"
    [53]
-    1 string data = "Yes I love doing magic with earth and rocks!"
+    1 string data = "Ano, rád kouzlím se zemí a kameny!"
    [54]
-    1 string data = "But everyone says I must not do it..."
+    1 string data = "Ale všichni říkají, že to nesmím dělat..."
    [55]
-    1 string data = "They just don't understand yet! I'm sure you could really help them if you wanted!"
+    1 string data = "Jen tomu ještě nerozumí! Určitě bys jim mohl opravdu pomoci, kdybys chtěl!"
    [56]
     1 string data = "..."
    [57]
-    1 string data = "Don't you want to try and do good instead?"
+    1 string data = "Nechceš se pro změnu pokusit udělat něco dobrého?"
    [58]
-    1 string data = "They will only make fun because I am bad with digging."
+    1 string data = "Budou si ze mě dělat legraci jen proto, že špatně kopu."
    [59]
-    1 string data = "Nah, they just need to see what you can really do!"
+    1 string data = "Kdepak, oni jen potřebují vidět, co opravdu umíš!"
    [60]
-    1 string data = "I don't want to show."
+    1 string data = "Nechci se předvádět."
    [61]
-    1 string data = "It's okay buddy, take the time you need!"
+    1 string data = "To je v pořádku, kámo, dej si na čas, když potřebuješ!"
    [62]
     1 string data = "..."
    [63]
-    1 string data = "I can stay in the fort?"
+    1 string data = "Můžu zůstat v pevnosti?"
    [64]
-    1 string data = "Well it's yours, isn't it?"
+    1 string data = "Vždyť je tvoje, ne?"
    [65]
-    1 string data = "Right guys?"
+    1 string data = "Že jo, lidi?"
    [66]
-    1 string data = "Totally."
+    1 string data = "Naprosto."
    [67]
-    1 string data = "Yeah, plus your fort is pretty cool!"
+    1 string data = "Jo, a navíc je tvá pevnost fakt boží!"
    [68]
-    1 string data = "I like you."
+    1 string data = "Mám vás rád."
    [69]
-    1 string data = "Well then, can you do us a favor and agree to stop creating monsters?"
+    1 string data = "Tak co, můžeš nám udělat laskavost a souhlasit s tím, že přestaneš vytvářet příšery?"
    [70]
-    1 string data = "Rockie is not a monster."
+    1 string data = "Rockie není příšera."
    [71]
-    1 string data = "Of course not, look at her!"
+    1 string data = "Samozřejmě že ne, jen se na ni podívejte!"
    [72]
-    1 string data = "You understand."
+    1 string data = "Chápeš mě."
    [73]
     1 string data = "..."
    [74]
-    1 string data = "Okay. Maybe I will do good if something big need my magic."
+    1 string data = "Dobře. Možná udělám něco dobrého, když bude potřeba mojí magie."
    [75]
-    1 string data = "For now I will stay here with Rockie."
+    1 string data = "Zatím zůstanu tady s Rockie."
    [76]
-    1 string data = "Thank you I like you."
+    1 string data = "Děkuju, mám tě rád."
    [77]
-    1 string data = "Take care, Malkomud!"
+    1 string data = "Drž se, Malkomude!"
    [78]
-    1 string data = "Not bad Garl!"
+    1 string data = "To nebylo špatný, Garle!"
    [79]
-    1 string data = "Ha! Sometimes you just need a little positivity!"
+    1 string data = "Ha! Někdy je prostě potřeba trocha pozitivního přístupu!"
    [80]
-    1 string data = "Look at us, restoring peace to a small town."
+    1 string data = "Koukněte na nás, obnovujeme mír ve vesničce."
    [81]
-    1 string data = "Still no closer to finding a ship though."
+    1 string data = "Stále však nejsme blíže k nalezení lodi."
    [82]
-    1 string data = "Wraith Island..."
+    1 string data = "Přízračný ostrov..."
    [83]
-    1 string data = "Let's check on the villagers, surely we can use the lift now!"
+    1 string data = "Pojďme se podívat na vesničany, určitě už můžeme použít výtah!"
    [84]
-    1 string data = "Oh, you brought power back! I suppose I will be going then."
+    1 string data = "Heleme se, obnovili jste provoz! Tak to asi půjdu."
    [85]
-    1 string data = "The mines continue below."
+    1 string data = "Doly pokračují dolů."
    [86]
-    1 string data = "Please stop Malkomud."
+    1 string data = "Prosím, zastavte Malkomuda."
    [87]
-    1 string data = "It looks like some kind of key is required..."
+    1 string data = "Vypadá to, že je potřeba nějaký klíč..."
    [88]
-    1 string data = "The elevator will not work until the first windmill is reactivated. One of Malkomud's minions must be clogging its wind tunnel..."
+    1 string data = "Výtah nebude fungovat, dokud nebude zprovozněn první větrník. Jedna z Malkomudových příšer musela ucpat jeho větrný tunel..."
    [89]
-    1 string data = "Press <button="WindBracelet"> to release bursts of wind that can push blocks."
+    1 string data = "Stisknutím <button="WindBracelet"> vypustíte proud větru, který může odstrčit bloky."
    [90]
-    1 string data = "Miners Breakroom"
+    1 string data = "Hornická odpočívárna"
    [91]
-    1 string data = "Security rules reminder: no jumping down!"
+    1 string data = "Připomenutí bezpečnostních pravidel: Žádné skákání!"
    [92]
-    1 string data = "This device has a little windmill on it."
+    1 string data = "Toto zařízení má na sobě malý větrník."
    [93]
-    1 string data = "Maybe try the mistral bracelet we found?"
+    1 string data = "Možná zkusíme ten Mistrálový náramek, co jsme našli?"
    [94]
-    1 string data = "Thank you for securing the place."
+    1 string data = "Děkujeme, že jste toto místo zabezpečili."
    [95]
-    1 string data = "We can work without feeling in danger now, thanks to you."
+    1 string data = "Díky vám teď můžeme pracovat, aniž bychom se cítili v ohrožení."
    [96]
-    1 string data = "Thank you again I like you."
+    1 string data = "Ještě jednou vám děkuji, mám vás rád."
    [97]
-    1 string data = "Garl was the first person to be nice to me. I'm happy I helped but also sad he is gone."
+    1 string data = "Garl byl první člověk, který se ke mně choval hezky. Jsem šťastný, že jsem pomohl, ale zároveň smutný, že je pryč."
    [98]
-    1 string data = "It is good that Garl is back. He deserved to be back."
+    1 string data = "To jsem rád, že je Garl zpátky. Zasloužil si vrátit se."
    [99]
-    1 string data = "And what are the shafts for?"
+    1 string data = "A k čemu jsou ty šachty?"
    [100]
-    1 string data = "Oh, there's going to be a whole lot of wheat!"
+    1 string data = "Tohle, bude tam spousta pšenice!"
    [101]
-    1 string data = "But you see, if we just drop it all in there, it should get ground up on its way down and leave us with flour at the bottom."
+    1 string data = "No a když ji tam všechnu naházíme, mělo by se to cestou dolů rozemlít a na dně nám zůstane mouka."
    [102]
-    1 string data = "Grinding on volcanic stone?"
+    1 string data = "Mlít na sopečném kameni?"
    [103]
-    1 string data = "Yup, we're feeding a firebreather here!"
+    1 string data = "Jo, tady krmíme ohniváka!"
    [104]
-    1 string data = "It is a big challenge. I don't know if I can do this."
+    1 string data = "Je to velká výzva. Nevím, jestli to zvládnu."
    [105]
-    1 string data = "But I will try for you."
+    1 string data = "Ale kvůli tobě to zkusím."
    [106]
-    1 string data = "Thanks, Malkomud, that's all I ask!"
+    1 string data = "Děkuji, Malkomude, o víc nežádám!"
    [107]
-    1 string data = "So we go now?"
+    1 string data = "Tak teď půjdeme?"
    [108]
-    1 string data = "Yeah, Valerie will have cleared the volcano by the time we get there."
+    1 string data = "Jo, Valerie tu sopku vyčistí, než tam dorazíme."
    [109]
-    1 string data = "Hey there! Need something for the road?"
+    1 string data = "Ahoj! Potřebujete něco na cestu?"
