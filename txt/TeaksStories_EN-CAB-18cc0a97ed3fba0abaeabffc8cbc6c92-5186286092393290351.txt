@@ -105,13 +105,13 @@
    [45]
     1 string data = "Konec příběhu."
    [46]
-    1 string data = "Kdysi dávno se jeden botanik pokusil obelstít Smrt vypěstováním přenádherné růže, kterou by nedokázala pokosit."
+    1 string data = "Kdysi dávno se jeden botanik pokusil obelstít Smrt tím, že vypěstoval růži tak přenádhernou, aby ji nesnesla skosit."
    [47]
     1 string data = "Okouzlenou Smrt zachvátilo zmatení, když vůbec poprvé ocenila krásu života."
    [48]
     1 string data = "Zda byla ke svému následujícímu činu hnána zuřivou závistí, či vypočítavou záludností, to nikdo neví."
    [49]
-    1 string data = "Pomocí zlověstné magie udělala z květiny něco ještě krásnějšího, avšak vskutku velmi prokletého."
+    1 string data = "Pomocí zlověstné magie učinila z květiny něco ještě krásnějšího, avšak vskutku velmi prokletého."
    [50]
     1 string data = "Upíří růži."
    [51]
@@ -127,7 +127,7 @@
    [56]
     1 string data = "Ale za každý takový rok navíc mu na jedné kosti vyroste trn."
    [57]
-    1 string data = "Říká se, že většina lidí, co se kdy dotkli Upíří růže, si svou chybu okamžitě uvědomila."
+    1 string data = "Říká se, že většina lidí, co se kdy dotkli Upíří růže, si svou chybu v mžiku uvědomila."
    [58]
     1 string data = "Prodloužili si život o jeden jediný rok, růži pustili a žili dál s velmi bolestivou připomínkou, co doprovázela každý jejich pohyb."
    [59]
@@ -187,59 +187,59 @@
    [86]
     1 string data = "The end."
    [87]
-    1 string data = "Countless millennia ago, two powerful alchemists named Resh'an and Aephorul set out to create the elixir of life, and succeeded."
+    1 string data = "Před mnoha a mnoha tisíciletími si dva mocní alchymisté jménem Resh'an a Aephorul vytkli za cíl vytvořit elixír života, v čemž uspěli."
    [88]
-    1 string data = "As all things in alchemy come at a price, the gift of immortality caused their bodies to decay, leading them to conceal their hideousness under colorful robes."
+    1 string data = "A jelikož má v alchymii vše svou cenu, dar nesmrtelnosti způsobil, že jejich těla začala hnít, což je vedlo k zakrytí své ošklivosti pod pestrobarevnými oděvy."
    [89]
-    1 string data = "Revelling at first in the bright side of their immortal coil, they spent centuries nurturing the world and creating wonders to inspire its mortals."
+    1 string data = "Zpočátku se těšili ze světlé stránky svých hořkosladkých věčných životů, staletí pečovali o svět a vytvářeli divy, které inspirovaly smrtelníky."
    [90]
-    1 string data = "Over time, however, Aephorul grew increasingly jealous of the ephemerality he would never taste again."
+    1 string data = "Ale postupem času Aephorul čím dál víc záviděl pomíjivost, kterou už nemohl nikdy znovu okusit."
    [91]
-    1 string data = "Thus began his wicked journey into the forbidden schools of alchemy."
+    1 string data = "A tudíž započala jeho zlá cesta do zakázaných odvětví alchymie."
    [92]
-    1 string data = "A journey which would see every last bit of good in his heart dissipate, as he experimented with soul, bone, flesh and blood alike."
+    1 string data = "Cesta, během které se každičký kousek dobra v jeho srdci rozplynul, zatímco experimentoval s dušemi, kostmi, masem a krví."
    [93]
-    1 string data = "As fate would have it, Aephorul fully embraced evil and emerged as The Fleshmancer, a vengeful immortal plaguing the world with his monstrous creations."
+    1 string data = "Jak tomu osud chtěl, Aephorul plně přijal zlo a vešel ve známost jako Karnimant, nesmrtelný x mořící svět obludnými výtvory."
    [94]
-    1 string data = "Resh'an tried intervening as best he could, but all that ensued was unspeakable chaos and collateral damage as the two former friends fought with godlike powers."
+    1 string data = "Resh'an se snažil zakročit, jak nejlépe mohl, ale jediné, co následovalo, byl nevýslovný chaos a vedlejší škody způsobené téměř božskou silou obou bojujících bývalých přátel."
    [95]
-    1 string data = "After much struggle, Resh'an discovered the flesh minions' only weaknesses to be Solar and Lunar magic--a power bestowed upon those born during a solstice."
+    1 string data = "Po dlouhých bojích Resh'an přišel na to, že jedinou slabinou těchto nestvůr je magie Slunce a Měsíce--moc udělena těm, kdo se narodili o slunovratu."
    [96]
-    1 string data = "He began training these children to become Solstice Warriors, singularly tasked with culling the numbers of The Fleshmancer's creations."
+    1 string data = "Začal tyto děti trénovat, aby se z nich stali Bojovníci Slunovratu pověřeni jediným úkolem, a to hubením Karnimantových stvoření."
    [97]
-    1 string data = "But Aephorul's knowledge was also growing. Eventually, he became capable of creating oddities of unlimited potential, known as Dwellers."
+    1 string data = "Ovšem ani Aephorul nezůstával pozadu. Časem byl schopen vytvářet podivnosti neomezeného potenciálu, kterým se říkalo Přiživovači."
    [98]
-    1 string data = "They would be impervious to all forms of magic--except during a total eclipse, when Solstice Warriors would have a very short window to attempt taking them down."
+    1 string data = "Byli vždy odolní vůči veškerým druhům magie, jedinou výjimku představovalo úplné zatmění Slunce, kdy měli Bojovníci Slunovratu jen velmi krátkou příležitost k jejich poražení."
    [99]
-    1 string data = "And Dwellers, it turned out, were creatures in development feeding on local life."
+    1 string data = "Ukázalo se, že Přiživovači jsou stvoření ve vývoji, která se krmí okolním životem."
    [100]
-    1 string data = "Left to their own devices for too long, they would evolve into World Eaters, spelling doom for all."
+    1 string data = "Když by v tom pokračovali dost dlouho, vyvinuli by se v Požírače světů, což by znamenalo zkázu pro veškerý život."
    [101]
-    1 string data = "Armed with knowledge and power, Solstice Warriors would patrol the world, tracking Dwellers to determine which should be taken down during the next eclipse."
+    1 string data = "Bojovníci Slunovratu, vyzbrojeni mocí a věděním, hlídkovali po celém světě a sledovali Přiživovače, aby rozhodli, na kterého se mají o příštím zatmění zaměřit."
    [102]
-    1 string data = "If they remained vigilant, there would never be a World Eater, but Resh'an knew such a stalemate would only cause Aephorul to devise something even worse."
+    1 string data = "Pokud by zůstali neustále ve střehu, žádný Požírač světů by se nikdy neobjevil, ale Resh'an věděl, že v takové patové situaci by Aephorul jen přišel s něčím ještě horším."
    [103]
-    1 string data = "In a desperate attempt to get ahead, Resh'an boldly performed transmutation alchemy on the very space-time continuum itself."
+    1 string data = "V zoufalém pokusu dostat se napřed Resh'an odvážně provedl transmutační alchymii na samotném časoprostorovém kontinuu."
    [104]
-    1 string data = "After successfully splitting reality into countless timelines and parallel worlds, he shelved his alchemy vial and took up the mantle of Archivist."
+    1 string data = "Po úspěšném rozdělení reality na bezpočet časových linií a paralelních světů zanechal na čas alchymie a stal se Archivářem."
    [105]
-    1 string data = "On an endless journey across all realities, he would catalog every possible outcome in search of a resolution to the throes of the Fleshmancer."
+    1 string data = "Na nekončící cestě napříč všemi realitami zaznamenával každý možný výsledek, aby nalezl řešení pro soužení Karnimanta."
    [106]
-    1 string data = "Meanwhile, Aephorul rejoiced at the infinite number of opportunities for destruction that had just opened up to him."
+    1 string data = "Aephorul se mezitím radoval z nekonečných příležitostí šířit zkázu, které se mu právě naskytly."
    [107]
-    1 string data = "To find some measure of peace amidst their immortal conflict, the two alchemists made a pact to let the fate of each timeline play out on its own."
+    1 string data = "Aby si ve svém nesmrtelném konfliktu zajistili alespoň nějaký klid, dohodli se oba alchymisté, že do osudu jednotlivých časových linií nebudou zasahovat přímo."
    [108]
-    1 string data = "And so the game of cat and mouse began, played by Dwellers and Solstice Warriors on one level, and by Resh'an and Aephorul on another."
+    1 string data = "A tak začala hra na kočku a myš, probíhající mezi Přiživovači a Bojovníky Slunovratu na jedné úrovni a Resh'anem a Aephorulem na úrovni druhé."
    [109]
-    1 string data = "Across a myriad of timelines and over innumerous centuries, some worlds would never be visited by Aephorul, while others would be cursed by his mark."
+    1 string data = "Napříč spoustou časových linií a přes nespočet staletí Aephorul některé světy nikdy nenavštívil, zatímco na jiných zanechal svou stopu."
    [110]
-    1 string data = "Once marked, it was only a matter of time until a world met its finality, often following centuries of struggle."
+    1 string data = "Pro takové světy bylo jen otázkou času, než se definitivně zpečetil jejich osud, často po staletích bojů."
    [111]
-    1 string data = "Each would either be destroyed by a World Eater, or permanently saved by the ascension of a pair of Solstice Warriors into Guardian Gods."
+    1 string data = "Každý z nich byl buď zničen Požíračem světů, nebo natrvalo zachráněn povznesením dvojice Bojovníků Slunovratu na Božské ochránce."
    [112]
-    1 string data = "As to when Resh'an plans on recomposing the timelines, or whether he even knows how, remains to be seen."
+    1 string data = "Kdy Resh'an plánuje spojit všechny časové linie zase dohromady, nebo jestli vůbec ví jak, zatím není známo."
    [113]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [114]
     1 string data = "It was as compelling as invitations could get."
    [115]
