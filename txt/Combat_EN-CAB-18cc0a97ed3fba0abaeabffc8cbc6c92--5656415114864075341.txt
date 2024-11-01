@@ -405,7 +405,7 @@
    [195]
     1 string data = "Ostnostřela"
    [196]
-    1 string data = "Felfire Rain"
+    1 string data = "Padéžť ohně"
    [197]
     1 string data = "Necromancie"
    [198]

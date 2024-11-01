@@ -67,7 +67,7 @@
    [26]
     1 string data = "Výtah"
    [27]
-    1 string data = "Přístav na Přízračném ostrově"
+    1 string data = "Molo na Přízračném ostrově"
    [28]
     1 string data = "Město Lucent"
    [29]

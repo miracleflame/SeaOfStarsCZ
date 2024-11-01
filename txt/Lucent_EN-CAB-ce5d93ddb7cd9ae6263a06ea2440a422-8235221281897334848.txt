@@ -91,7 +91,7 @@
    [38]
     1 string data = "A každou noc ji vidíme ve svých snech."
    [39]
-    1 string data = "Můžu odejít, kdykoliv se mi zachce!"
+    1 string data = "A já můžu odejít, kdykoliv se mi zachce!"
    [40]
     1 string data = "Kdykoliv? Hej, to je moje druhé jméno!"
    [41]
@@ -101,13 +101,13 @@
    [43]
     1 string data = "Aye aye, kapitánko! Omlouvám se, kapitánko!"
    [44]
-    1 string data = "Mohli by vyrazit hned teď!"
+    1 string data = "Ti by mohli vyplout hned teď!"
    [45]
     1 string data = "Jediný problém je, že ještě nemají loď!"
    [46]
     1 string data = "Když je nejhůř, rádi si zahrajeme písničku."
    [47]
-    1 string data = "Zní to nějak takhle…"
+    1 string data = "Zní nějak takhle…"
    [48]
     1 string data = "Hele, co se týče Garla…"
    [49]
@@ -115,11 +115,11 @@
    [50]
     1 string data = "A co myslíš, že jsme udělali chybu?"
    [51]
-    1 string data = "Chci říct, že síce je skvělé ho tady mít, jenže…"
+    1 string data = "Chci říct, že síce je skvělé ho tady mít, jenom že…"
    [52]
     1 string data = "Já vím, nešlo by si to odpustit, kdybychom ho nedokázali ochránit."
    [53]
-    1 string data = "To je nářez! Jste nejlepší!"
+    1 string data = "Tohle je nářez! Jste nejlepší!"
    [54]
     1 string data = "Alespoň se dobře baví."
    [55]
@@ -139,9 +139,9 @@
    [62]
     1 string data = "Tak, co teď?"
    [63]
-    1 string data = "Asi si uděláme přestávku?"
+    1 string data = "Hádám, že se tu zabydlíme?"
    [64]
-    1 string data = "Tak TOHLE je strašidelné!"
+    1 string data = "Tak TOHLE mi přijde strašidelné!"
    [65]
     1 string data = "Haha! Zkusme si to tady užít."
    [66]
@@ -179,11 +179,11 @@
    [82]
     1 string data = "Aye, omlouvám se, kapitánko…"
    [83]
-    1 string data = "No, když štěstí dá… Možná by byla zábava chvíli se spolu plavit, jen možná…"
+    1 string data = "No, když štěstí dá… Možná by byla zábava chvíli se spolu plavit, jenom možná…"
    [84]
     1 string data = "…"
    [85]
-    1 string data = "Ale, ale, ale! Vybavujete si, jak se před deseti vteřinami nestalo ABSOLUTNĚ NIC?"
+    1 string data = "Ale, ale, ale! Vybavujete si, jak se před deseti vteřinami nestalo VŮBEC NIC?"
    [86]
     1 string data = "Byla hrozná nuda!"
    [87]
@@ -321,7 +321,7 @@
    [153]
     1 string data = "Haha! A pak jsi dělal jako "No, když nedostanu meč, jak udělám salta vzad?"".
    [154]
-    1 string data = "Ty máš co říkat s tou svou "Hradbou nevinných", jsem tak rád, že ses toho vzdal."
+    1 string data = "Ty máš co říkat s tou svou "Hradbou nevinných", jsem tak rád, že ses toho vzdala."
    [155]
     1 string data = "Řeknu to férově, už jsme pomohli spoustě lidí."
    [156]
@@ -329,7 +329,7 @@
    [157]
     1 string data = ""Jestli se máme někdy povznést, jako solární budu jiskrou já!""
    [158]
-    1 string data = "Ach, přestaň! Bylo mi deset!"
+    1 string data = "Hej, přestaň! Bylo mi deset!"
    [159]
     1 string data = "Valerie, něco se přihodilo, když mu ovládla mysl…"
    [160]
@@ -415,9 +415,9 @@
    [200]
     1 string data = "No…"
    [201]
-    1 string data = "Wou! Chceš říct, že dokáže něco jako teleportování?"
+    1 string data = "Wou! Chceš říct, že se dokáže něco jako teleportovat?"
    [202]
-    1 string data = "Tím, že nějak z ničeho vytváří magické brány."
+    1 string data = "Tím, že nějak z ničeho vytvoří magický portál."
    [203]
     1 string data = "To je moc! Snad se s ní ještě setkáme, to musím vidět!"
    [204]
@@ -431,7 +431,7 @@
    [208]
     1 string data = "Tady jsou!"
    [209]
-    1 string data = "No, podívejme, kdo to stihl na čas!"
+    1 string data = "No, podívejme, kdo byl dochvilný!"
    [210]
     1 string data = "…"
    [211]
@@ -631,7 +631,7 @@
    [308]
     1 string data = "Ach ne! To ne ne ne! NEBUDETE mít obsah mé truhly!"
    [309]
-    1 string data = "Jestli to chcete, budete muset přimět mého <color=dobrý>BRATRA</color>, aby se UDOBŘIL!"
+    1 string data = "Jestli to chcete, budete muset přimět mého <color=good>BRATRA</color>, aby se UDOBŘIL!"
    [310]
     1 string data = "Nic nedostanete, dokud nezařídíte, aby se můj <color=good>BATR</color> UDOBŘIL!"
    [311]
@@ -643,7 +643,7 @@
    [314]
     1 string data = "Nedokážu ten džem sníst, ale i tak pro mě znamená všechno na světě. Ještě jednou děkuji."
    [315]
-    1 string data = "Už dlouho se mi neozval můj <color=dobrý>bratr</color>."
+    1 string data = "Už dlouho se mi neozval můj <color=good>bratr</color>."
    [316]
     1 string data = "Cože? Pořád je na mě naštvaný?"
    [317]
@@ -767,10 +767,10 @@
    [376]
     1 string data = "Ten zápach není příjemný."
    [377]
-    1 string data = "Nabídka občerstvení."
+    1 string data = "Různé pokrmy."
    [378]
     1 string data = "Tato fontána už zažila lepší časy…"
    [379]
-    1 string data = "Hromada kusů brnění."
+    1 string data = "Zopár kusů brnění."
    [380]
     1 string data = "Tady není nic zajímavého."

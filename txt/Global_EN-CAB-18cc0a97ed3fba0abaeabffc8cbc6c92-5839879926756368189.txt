@@ -87,7 +87,7 @@
    [36]
     1 string data = "Něco chatrného"
    [37]
-    1 string data = "Chceš si zahrát <color=magic>Kotouče</color>?"
+    1 string data = "Chcete si zahrát <color=magic>Kotouče</color>?"
    [38]
     1 string data = "Nenáročná hra"
    [39]

@@ -139,6 +139,6 @@
    [62]
     1 string data = "Není čas. Musíme si pospíšit zpátky do Lucentu."
    [63]
-    1 string data = "Ostružiny blokují cestu. Měli bychom najít jejich zdroj."
+    1 string data = "Trny blokují cestu. Měli bychom najít jejich zdroj."
    [64]
     1 string data = "Sídlo <sprite="dialog-generic-icons" name="arrow-north">\nLucent <sprite="dialog-generic-icons" name="arrow-south">"

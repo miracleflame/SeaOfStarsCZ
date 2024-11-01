@@ -39,7 +39,7 @@
    [12]
     1 string data = "Výprava na Přízračný ostrov"
    [13]
-    1 string data = "Kvílení Banshee"
+    1 string data = "Kvílení bánší"
    [14]
     1 string data = "Kámen nekromantky"
    [15]

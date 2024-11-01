@@ -45,7 +45,7 @@
    [15]
     1 string data = "Tak tedy kupředu!"
    [16]
-    1 string data = "Valtraidovo pozvání zní zábavně. Co kdybychom šli do hostince a na chvíli se odreagovali?"
+    1 string data = "Valtraidovo pozvání zní zábavně. Co kdybychom šli do hostince a na chvíli si odfrkli?"
    [17]
     1 string data = "Ne že by bychom měli něco na práci, než dorazí ostatní."
    [18]
@@ -55,7 +55,7 @@
    [20]
     1 string data = "Navíc tamto s očistou, boj s Přiživovačem musí být pěkná makačka."
    [21]
-    1 string data = "Klidně byste mohli být úplně odpočatí, nemyslíš?"
+    1 string data = "Klidně byste mohli být úplně odpočatí, nemyslíte?"
    [22]
     1 string data = "Hádám, že bychom si mohli dát krátkou přestávku..."
    [23]
@@ -74,4 +74,3 @@
     1 string data = "Ano"
    [30]
     1 string data = "Ne"
-
