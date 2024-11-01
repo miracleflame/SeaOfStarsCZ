@@ -139,53 +139,53 @@
    [62]
     1 string data = "Konec příběhu."
    [63]
-    1 string data = "It is said that whenever twins are born on a solstice, fate itself flips a coin."
+    1 string data = "Povídá se, že pokaždé, když se o slunovratu narodí dvojčata, samotný osud si hodil mincí."
    [64]
-    1 string data = "Their innate magic would either be incredibly heightened, or corrupted into something that ought to be contained for the greater good."
+    1 string data = "Jejich vrozená magie by byla buď neuvěřitelně umocněna, nebo zkažena v něco, co by mělo být omezeno pro vyšší dobro."
    [65]
-    1 string data = "For generations, many Solstice Warrior twins have accomplished great deeds, but despite their immense potential, could never ascend into Guardian Gods."
+    1 string data = "Po celé generace mnoho dvojčat Bojovníků Slunovratu vykonalo veliké skutky, ale navzdory svému obrovskému potenciálu se nikdy nemohli povznést na Božské Ochránce."
    [66]
-    1 string data = "For ascension requires one of the winter and one of the summer... but kindred souls are not meant to part for eternity."
+    1 string data = "K povznesení je totiž zapotřebí jeden ze zimního a jeden z letního... Ale spřízněné duše se nemají rozloučit na věčnost."
    [67]
-    1 string data = "On a particularly warm summer solstice, fate's coin landed on its edge, and triplets were born."
+    1 string data = "Za obzvlášť horkého letního slunovratu dopadla mince osudu na hranu a narodila se trojčata."
    [68]
-    1 string data = "As the Great Eagle's instincts indicated, it soon became apparent that morality had split itself in three, as if to see their innate magic expressed in distinct flavors."
+    1 string data = "Jak naznačovaly instinkty Velkého Orla, brzy se ukázalo, že mravnost se rozdělila ve tři, snad aby viděla, jak se jejich vrozená magie projeví v odlišných podobách."
    [69]
-    1 string data = "Because their actions would inevitably drive them far away from one another, they were given annoyingly similar names: Moyara, Yomara and Romaya."
+    1 string data = "Jelikož by je jejich činy nevyhnutelně od sebe vzdálily, dostali otravně podobná jména: Moyara, Yomara a Romaya."
    [70]
-    1 string data = "Moyara was flown to Mooncradle, where she became a formidable Solstice Warrior, and Zenith Academy's Headmistress."
+    1 string data = "Moyara odletěla do Měsíční kolébky, kde se z ní stala ohromná Bojovnice Slunovratu a ředitelka Akademie Zenit."
    [71]
-    1 string data = "Ever the stalwart protector, Moyara gave her life while leading the charge against the Dweller of Strife."
+    1 string data = "Moyara, odjakživa neochvějná ochránkyně, položila svůj život, když vedla útok proti Přiživovači sváru."
    [72]
-    1 string data = "Yomara was the neutral one, better known as The Crone of Songshroom Marsh."
+    1 string data = "Yomara byla nestranná, známá spíše jako Babizna z Bažiny zpěvných hub."
    [73]
-    1 string data = "Living a secluded life, she is an observer of the distant future, offering cryptic insights on key events and looming threats that may or may not transpire."
+    1 string data = "Svůj život v ústraní zasvětila nazírání do vzdálené budoucnosti, aby nabízela záhadné věštby o klíčových událostech a nadcházejících hrozbách, které se mohou, ale také nemusí vyplnit."
    [74]
-    1 string data = "By age five, she had correctly predicted that The Fleshmancer would leave if the Dweller of Strife were defeated--at the cost Moyara's life."
+    1 string data = "Ve svých pěti letech správně předpověděla, že Karnimant odejde, pokud bude Přiživovač sváru poražen - i za cenu života Moyary."
    [75]
-    1 string data = "Despite her immense power, she remains impartial in all conflicts."
+    1 string data = "Navzdory své nesmírné moci zůstává ve všech konfliktech nestranná."
    [76]
-    1 string data = "Meanwhile, Romaya devoted her every waking moment to studying what could be understood of The Fleshmancer's ways, and developed forbidden arts of her own."
+    1 string data = "Mezitím Romaya věnovala každou volnou chvíli studiu všeho, co se dalo poznat o způsobech Karnimanta a sama rozvíjela zakázaná umění."
    [77]
-    1 string data = "Through her understanding of blood magic she became the first necromancer, and devised a way to trap souls within objects."
+    1 string data = "Skrze poznání magie krve se stala první nekromantkou a vynalezla způsob, jak uvěznit duše v předmětech."
    [78]
-    1 string data = "One notable invention of hers is candles that never burn out, noticeable by Romaya's signature green fire."
+    1 string data = "Jedním z jejích pozoruhodných vynálezů jsou svíčky, které nikdy nevyhoří, jež jsou charakteristické Romayiným zeleným ohněm."
    [79]
-    1 string data = "Through their extreme commitment to differing paths, the Three Sisters have prompted countless musings on the choices one makes in life."
+    1 string data = "Svou krajní oddaností odlišným stezkám daly Tři sestry podnět k nesčetným úvahám o tom, jaká rozhodnutí člověk v životě činí."
    [80]
-    1 string data = "To live bravely and selflessly like Moyara, and embrace an early death while fighting for a worthy cause."
+    1 string data = "Žít statečně a nezištně jako Moyara a přijmout předčasnou smrt v boji za důstojnou věc."
    [81]
-    1 string data = "Or to live a quiet and peaceful, albeit solitary life like Yomara, foregoing ambition for the sake of safety, but never discovering one's true self."
+    1 string data = "Nebo žít tichým a poklidným, třebaže osamělým životem jako Yomara, vzdát se ambicí kvůli bezpečí, avšak nikdy neobjevit své pravé já."
    [82]
-    1 string data = "Or perhaps to indulge oneself like Romaya, with utter confidence in her ability to overcome any retribution she might face as a result of her corruption."
+    1 string data = "Anebo se snad oddávat jako Romaya, s naprostou sebejistotou ve své schopnosti překonat jakoukoli odplatu, které by mohla čelit v důsledku své zkaženosti."
    [83]
-    1 string data = "Could the Three Sisters truly be a trick of fate, or the spiteful game of Gods unknown?"
+    1 string data = "Mohly by být Tři sestry skutečně hříčkou osudu, nebo zlovolnou hrou neznámých bohů?"
    [84]
-    1 string data = "Or is it simply that, in our search for meaning, we sometimes mistake pure happenstance for prophecy?"
+    1 string data = "Anebo je to prostě tak, že při hledání smyslu někdy zaměňujeme čirou nahodilost za proroctví?"
    [85]
-    1 string data = "It is probably for the best that we shall never know."
+    1 string data = "Nejspíš bude lepší, pokud se to nikdy nedozvíme."
    [86]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [87]
     1 string data = "Před mnoha a mnoha tisíciletími si dva mocní alchymisté jménem Resh'an a Aephorul vytkli za cíl vytvořit elixír života, v čemž uspěli."
    [88]
@@ -611,58 +611,58 @@
    [298]
     1 string data = "The end."
    [299]
-    1 string data = "Oh, you found a new artifact! Let's see here..."
+    1 string data = "Vida, našli jste nový artefakt! Podívejme se na to..."
    [300]
-    1 string data = "New story unlocked: The Great Summoning"
+    1 string data = "Odemčen nový příběh: Velké přivolání"
    [301]
-    1 string data = "New story unlocked: The Vampire Rose"
+    1 string data = "Odemčen nový příběh: Upíří růže"
    [302]
-    1 string data = "New story unlocked: The Three Sisters"
+    1 string data = "Odemčen nový příběh: Tři sestry"
    [303]
-    1 string data = "New story unlocked: The Two Alchemists"
+    1 string data = "Odemčen nový příběh: Dva alchymisté"
    [304]
-    1 string data = "New story unlocked: Mooncradle"
+    1 string data = "Odemčen nový příběh: Měsíční kolébka"
    [305]
-    1 string data = "New story unlocked: The Clockwork Castle"
+    1 string data = "Odemčen nový příběh: Mechanický hrad"
    [306]
-    1 string data = "New story unlocked: The Nomads of the Seas"
+    1 string data = "Odemčen nový příběh: Kočovníci moří"
    [307]
-    1 string data = "New story unlocked: Paradise Lost"
+    1 string data = "Odemčen nový příběh: Ztracený ráj"
    [308]
-    1 string data = "New story unlocked: Khukharr The Unyielding"
+    1 string data = "Odemčen nový příběh: Khukharr Nezdolný"
    [309]
-    1 string data = "New story unlocked: Es'tristae"
+    1 string data = "Odemčen nový příběh: Es'tristae"
    [310]
-    1 string data = "New story unlocked: The Cerulean Expedition"
+    1 string data = "Odemčen nový příběh: Azurová expedice"
    [311]
-    1 string data = "Which one?"
+    1 string data = "Který?"
    [312]
-    1 string data = "The Vespertine"
+    1 string data = "Večernice"
    [313]
-    1 string data = "The Great Summoning"
+    1 string data = "Velké přivolání"
    [314]
-    1 string data = "The Vampire Rose"
+    1 string data = "Upíří růže"
    [315]
-    1 string data = "The Three Sisters"
+    1 string data = "Tři sestry"
    [316]
-    1 string data = "The Two Alchemists"
+    1 string data = "Dva alchymisté"
    [317]
-    1 string data = "Mooncradle & The Elder Mist"
+    1 string data = "Měsíční kolébka a Mlžný stařešina"
    [318]
-    1 string data = "The Clockwork Castle"
+    1 string data = "Mechanický hrad"
    [319]
-    1 string data = "The Nomads of the Seas"
+    1 string data = "Kočovníci moří"
    [320]
-    1 string data = "Paradise Lost"
+    1 string data = "Ztracený ráj"
    [321]
-    1 string data = "Khukharr The Unyielding"
+    1 string data = "Khukharr Nezdolný"
    [322]
     1 string data = "Es'tristae"
    [323]
-    1 string data = "The Cerulean Expedition"
+    1 string data = "Azurová expedice"
    [324]
-    1 string data = "Hey! Want to hear a story?"
+    1 string data = "Ahoj! Chcete si poslechnout příběh?"
    [325]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [326]
-    1 string data = "No"
+    1 string data = "Ne"
