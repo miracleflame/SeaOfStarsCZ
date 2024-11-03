@@ -27,7 +27,7 @@
    [6]
     1 string data = "Ty jsi nikdy neslyšela o Spáči?"
    [7]
-    1 string data = "Podle pověstí je to obrovský drak, který spí stočený kolem hory již od dob, kdy ještě neexistovali Potulní historici, kteří by to zaznamenali."
+    1 string data = "Podle pověstí je to obrovský had, který spí stočený kolem hory již od dob, kdy ještě neexistovali Potulní historici, kteří by to zaznamenali."
    [8]
     1 string data = "Kecáš!"
    [9]

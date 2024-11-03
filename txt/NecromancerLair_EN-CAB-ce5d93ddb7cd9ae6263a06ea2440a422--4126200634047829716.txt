@@ -45,7 +45,7 @@
    [15]
     1 string data = "Ha! Tak toto je čím dál tím zajímavější!"
    [16]
-    1 string data = "Vy jste jako ti rádoby Solen a Luana, kteří si mysleli, že budou povzneseni, když mě porazí?"
+    1 string data = "Vy jste jako ti rádoby Solena a Luan, kteří si mysleli, že budou povzneseni, když mě porazí?"
    [17]
     1 string data = "O čem to mluvíš?"
    [18]

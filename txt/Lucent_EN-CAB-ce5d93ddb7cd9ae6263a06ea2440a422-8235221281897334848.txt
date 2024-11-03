@@ -487,7 +487,7 @@
    [236]
     1 string data = "Máte to mít, pane řediteli!"
    [237]
-    1 string data = "…Což jsem nepotřeboval slyšet, vzhledem k tomu, že serióznost je mé druhé jméno!"
+    1 string data = "…Což jsem nepotřebovala slyšet, vzhledem k tomu, že serióznost je mé druhé jméno!"
    [238]
     1 string data = "Každopádně pak říkal, že na obyčejné nestvůry nikdy nepoužívá žádná kouzla, jen když bojuje s bossem, použije pouze to nejdražší!"
    [239]
@@ -507,7 +507,7 @@
    [246]
     1 string data = "Klid, pane řediteli. Potřebujete si odpočinout."
    [247]
-    1 string data = "Děkuji ti, chlapče, byl jsi docela starostlivý."
+    1 string data = "Děkuji ti, chlapče, byl jsi velice starostlivý."
    [248]
     1 string data = "To nestojí za řeč!"
    [249]
@@ -527,7 +527,7 @@
    [256]
     1 string data = "Děkuji vám, mládeži. Doženu vás, až budu připraven."
    [257]
-    1 string data = "Hned půjdu. Uvidíme se v Svěžíně."
+    1 string data = "Já jdu hned. Uvidíme se v Svěžíně."
    [258]
     1 string data = "Tak jste se tedy všichni sebrali a šli to zrobit po svém, blahopřeji!"
    [259]
@@ -683,7 +683,7 @@
    [334]
     1 string data = "Bojovníci Slunovratu, říkáte? Tyto naše pohádky, co si vyprávíme, začínají být docela dobré, ha!"
    [335]
-    1 string data = "Vypadá to, že Noční závoj zůstává, jenom pozbaven bánší…. Už žádné strachy…"
+    1 string data = "Vypadá to, že Noční závoj zůstává, jenom pozbaven bánší… Už žádný strach…"
    [336]
     1 string data = "Další rundu, prosím!"
    [337]

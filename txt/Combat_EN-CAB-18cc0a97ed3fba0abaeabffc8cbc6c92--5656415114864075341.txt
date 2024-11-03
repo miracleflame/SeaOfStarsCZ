@@ -19,7 +19,7 @@
    [2]
     1 string data = "Dobít"
    [3]
-    1 string data = "Výměna"
+    1 string data = "Vystřídat"
    [4]
     1 string data = "Předměty"
    [5]
@@ -59,9 +59,9 @@
    [22]
     1 string data = "Získáno [XP_AMOUNT] bodů zkušeností!"
    [23]
-    1 string data = "Nalezeno [GOLD_AMOUNT] zlata!"
+    1 string data = "Nalezeno [GOLD_AMOUNT] G!"
    [24]
-    1 string data = "Získáno [XP_AMOUNT] bodů zkušeností a [GOLD_AMOUNT] zlata!"
+    1 string data = "Získáno [XP_AMOUNT] bodů zkušeností a [GOLD_AMOUNT] G!"
    [25]
     1 string data = "Úder Slunovratu"
    [26]
@@ -287,7 +287,7 @@
    [136]
     1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne <color=moon>Valerii</color>, aby pokračoval."
    [137]
-    1 string data = "Stiskněte <button="Interact">, abyste ho odrazili!"
+    1 string data = "Stiskněte <button="Interact">, abyste Lunarang odrazili!"
    [138]
     1 string data = "Stiskněte <button="Interact">, abyste kopli!"
    [139]
@@ -405,7 +405,7 @@
    [195]
     1 string data = "Ostnostřela"
    [196]
-    1 string data = "Padéžť ohně"
+    1 string data = "Padéšť ohně"
    [197]
     1 string data = "Necromancie"
    [198]
@@ -419,7 +419,7 @@
    [202]
     1 string data = "Odrazy zrcadla"
    [203]
-    1 string data = "Hroty duše"
+    1 string data = "Hroty duší"
    [204]
     1 string data = "Bolest"
    [205]

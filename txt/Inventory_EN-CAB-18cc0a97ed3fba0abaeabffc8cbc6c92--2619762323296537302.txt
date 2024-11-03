@@ -1695,7 +1695,7 @@
    [840]
     1 string data = "Absolventský žeton"
    [841]
-    1 string data = "Památka na minulé činy. Lze prodat za 1Z."
+    1 string data = "Památka na minulé činy. Lze prodat za 1 G."
    [842]
     1 string data = "Chatrné kladivo"
    [843]

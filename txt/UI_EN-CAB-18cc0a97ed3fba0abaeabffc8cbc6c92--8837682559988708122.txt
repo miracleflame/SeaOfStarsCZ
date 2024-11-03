@@ -639,7 +639,7 @@
    [312]
     1 string data = "Načítání..."
    [313]
-    1 string data = "Verze [VERSION]    Překlad: miracle.flame tím"
+    1 string data = "Verze [VERSION]    Překlad: miracle.flame tým"
    [314]
     1 string data = "Klíčové předměty"
    [315]
@@ -669,9 +669,9 @@
    [327]
     1 string data = "Původně vybaveno"
    [328]
-    1 string data = "Koupit za <color=#FFFFFF>[PRICE]</color> Z ?"
+    1 string data = "Koupit za <color=#FFFFFF>[PRICE]</color> G?"
    [329]
-    1 string data = "Prodat za <color=#FFFFFF>[PRICE]</color> Z ?"
+    1 string data = "Prodat za <color=#FFFFFF>[PRICE]</color> G?"
    [330]
     1 string data = "Konec Hry"
    [331]
@@ -691,7 +691,7 @@
    [338]
     1 string data = "Počet úmrtí"
    [339]
-    1 string data = "Získáno zlata"
+    1 string data = "Získáno G"
    [340]
     1 string data = "Chycené ryby"
    [341]
@@ -733,9 +733,9 @@
    [359]
     1 string data = "Víc neuneseme."
    [360]
-    1 string data = "Nemáme dost zlata."
+    1 string data = "Nemáme dost G."
    [361]
-    1 string data = "Neuneseme víc zlata."
+    1 string data = "Neuneseme víc G."
    [362]
     1 string data = "Nemožno prodat vybavený předmět."
    [363]

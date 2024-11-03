@@ -127,7 +127,7 @@
    [56]
     1 string data = "Valerie?"
    [57]
-    1 string data = "Přišel čas!"
+    1 string data = "Nastal čas!"
    [58]
     1 string data = "Bojovníci Slunovratu, propojte se mnou!"
    [59]

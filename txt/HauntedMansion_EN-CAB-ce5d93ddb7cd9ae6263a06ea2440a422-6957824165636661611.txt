@@ -133,7 +133,7 @@
    [59]
     1 string data = "Odhoď zbraň! Hned!"
    [60]
-    1 string data = "ŘEKNĚTE JIM, CO-"
+    1 string data = "PŘIZNEJTE SE, CO-"
    [61]
     1 string data = "!!"
    [62]
@@ -357,7 +357,7 @@
    [171]
     1 string data = "Něco mi říká, že ta množství nejsou úplně přesně."
    [172]
-    1 string data = "Mám začít vařit?"
+    1 string data = "Mám začít kuchtit?"
    [173]
     1 string data = "Ano"
    [174]

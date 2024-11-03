@@ -69,17 +69,17 @@
    [27]
     1 string data = "Této noci všech nocí se vzduchem nesly časné pokřiky vítězství po celém souostroví."
    [28]
-    1 string data = "Náhle se roztrhla sama obloha a z ní se vynořil obrovský Nebeský drak, aby rozséval spoušť."
+    1 string data = "Náhle se roztrhla sama obloha a z ní se vynořil obrovský Nebeský had, aby rozséval spoušť."
    [29]
-    1 string data = "Historici se dodnes přou o původu Nebeského draka."
+    1 string data = "Historici se dodnes přou o původu Nebeského hada."
    [30]
     1 string data = "Někteří říkají, že je to monstrum čirého zla, které bylo odcizeno z jiné roviny existence a donuceno zůstat zde."
    [31]
     1 string data = "Jiní se domnívají, že přišel daleko zpoza mraků - kdysi přátelský tvor, jehož mysl zkalila černá magie."
    [32]
-    1 string data = "Ale bez ohledu na svůj původ byl Nebeský drak předurčen k tomu, aby navždy změnil svět."
+    1 string data = "Ale bez ohledu na svůj původ byl Nebeský had předurčen k tomu, aby navždy změnil svět."
    [33]
-    1 string data = "Ještě v dobách Ovatů bylo možné provést rituál živlů, který ovládl mysl Nebeského draka."
+    1 string data = "Ještě v dobách Ovatů bylo možné provést rituál živlů, který ovládl mysl Nebeského hada."
    [34]
     1 string data = "Ale bohužel, Ovati byli dávno pryč."
    [35]
@@ -87,7 +87,7 @@
    [36]
     1 string data = "Vytesáním složitých větrných tunelů přímo do X'tolovy hory ji proměnili v obří hudební nástroj."
    [37]
-    1 string data = "Vítr vanoucí skrz horu začal hrát melodii tak čistou, že přiměla Nebeského draka ke spánku."
+    1 string data = "Vítr vanoucí skrz horu začal hrát melodii tak čistou, že přiměla Nebeského hada ke spánku."
    [38]
     1 string data = "Magie byla silná a věřilo se, že svět zůstane v bezpečí po celé generace."
    [39]
@@ -189,21 +189,21 @@
    [87]
     1 string data = "Před mnoha a mnoha tisíciletími si dva mocní alchymisté jménem Resh'an a Aephorul vytkli za cíl vytvořit elixír života, v čemž uspěli."
    [88]
-    1 string data = "A jelikož má v alchymii vše svou cenu, dar nesmrtelnosti způsobil, že jejich těla začala hnít, což je vedlo k zakrytí své ošklivosti pod pestrobarevnými oděvy."
+    1 string data = "A jelikož má v alchymii vše svou cenu, dar nesmrtelnosti způsobil, že jejich těla začala hnít, což je vedlo k zakrytí své ohyzdnosti pod pestrobarevnými hávy."
    [89]
     1 string data = "Zpočátku se těšili ze světlé stránky svých hořkosladkých věčných životů, staletí pečovali o svět a vytvářeli divy, které inspirovaly smrtelníky."
    [90]
     1 string data = "Ale postupem času Aephorul čím dál víc záviděl pomíjivost, kterou už nemohl nikdy znovu okusit."
    [91]
-    1 string data = "A tudíž započala jeho zlá cesta do zakázaných odvětví alchymie."
+    1 string data = "A tudíž započala jeho zvrácená pouť do zakázaných odvětví alchymie."
    [92]
     1 string data = "Cesta, během které se každičký kousek dobra v jeho srdci rozplynul, zatímco experimentoval s dušemi, kostmi, masem a krví."
    [93]
-    1 string data = "Jak tomu osud chtěl, Aephorul plně přijal zlo a vešel ve známost jako Karnimant, nesmrtelný x mořící svět obludnými výtvory."
+    1 string data = "Jak tomu osud chtěl, Aephorul plně přijal zlo a vešel ve známost jako Karnimant, pomstychtivá nesmrtelná bytost, co sužuje svět obludnými výtvory."
    [94]
-    1 string data = "Resh'an se snažil zakročit, jak nejlépe mohl, ale jediné, co následovalo, byl nevýslovný chaos a vedlejší škody způsobené téměř božskou silou obou bojujících bývalých přátel."
+    1 string data = "Resh'an se snažil zakročit, jak nejlépe dovedl, ale jediné, co následovalo, byl nevýslovný chaos a vedlejší škody napáchány témeř božskou silou soubojů dvou bývalých přátel."
    [95]
-    1 string data = "Po dlouhých bojích Resh'an přišel na to, že jedinou slabinou těchto nestvůr je magie Slunce a Měsíce--moc udělena těm, kdo se narodili o slunovratu."
+    1 string data = "Po dlouhém trápení Resh'an přišel na to, že jedinou slabinou těchto nestvůr je magie Slunce a Měsíce - moc udělena těm, kdo se narodili o slunovratu."
    [96]
     1 string data = "Začal tyto děti trénovat, aby se z nich stali Bojovníci Slunovratu pověřeni jediným úkolem, a to hubením Karnimantových stvoření."
    [97]
