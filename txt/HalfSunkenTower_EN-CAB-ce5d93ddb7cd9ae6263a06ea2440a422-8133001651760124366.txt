@@ -13,9 +13,9 @@
   1 Array Array (37 items)
    0 int size = 37
    [0]
-    1 string data = "Co!? Zase vy!?"
+    1 string data = "Cože!? Zase vy!?"
    [1]
-    1 string data = "Jak jste našli tohle místo?"
+    1 string data = "Jak jste to tu našli?"
    [2]
     1 string data = "Držíš vévodu Aventryho na tomto světě proti jeho vůli."
    [3]
@@ -25,29 +25,29 @@
    [5]
     1 string data = "Co ne?"
    [6]
-    1 string data = "NEUKRADETE mi můj DENÍK a NEVRTHNETE mi sem vznášet POŽADAVKY!!!"
+    1 string data = "NEUKRADNETE mi DENÍK a NEVTRHNETE mi sem vznášet POŽADAVKY!!!"
    [7]
     1 string data = "Ten magický předmět, co ho drží připoutaného. Kde je?"
    [8]
-    1 string data = "<color=magic>MEDAILONEK</color> JE MŮJ A JENOM MŮJ!!!"
+    1 string data = "Ten <color=magic>MEDAILONEK</color> JE MŮJ A JENOM MŮJ!!!"
    [9]
     1 string data = "Takže jde o medailonek?"
    [10]
-    1 string data = "(Ty nervy...)"
+    1 string data = "(Taková troufalost...)"
    [11]
-    1 string data = "(TA NEOMALENOST...)"
+    1 string data = "(TAKOVÁ NEOMALENOST...)"
    [12]
     1 string data = "TENTOKRÁT UŽ NE!!!"
    [13]
     1 string data = "Vy už se znáte? Zdá se, že vás nemá moc ráda."
    [14]
-    1 string data = "STAČILO! Tentokrát žádné slitování nebude, zaplatíte za to životem!"
+    1 string data = "TO STAČÍ! Tentokrát žádné slitování nebude, zaplatíte za to životem!"
    [15]
     1 string data = "PŘIPRAVTE SE!!!"
    [16]
-    1 string data = "Počkej, počkej... Já... Já odstupuji..."
+    1 string data = "Počkat, počkat... Já... Já se vzdávám..."
    [17]
-    1 string data = "Dobrý boj, má paní!"
+    1 string data = "Dobrý boj, madam!"
    [18]
     1 string data = "NEZAČÍNEJ..."
    [19]
@@ -55,21 +55,21 @@
    [20]
     1 string data = "(...)"
    [21]
-    1 string data = "(Drzí HLUPÁCI se svými schopnostmi, které si NEZASLOUŽILI, sem vtrhli a ZMAŘILI mé plány...)"
+    1 string data = "(Drzí HLUPÁCI se schopnostmi, o které se ani NEZASLOUŽILI, sem vtrhli a ZMAŘILI mé plány...)"
    [22]
     1 string data = "..."
    [23]
-    1 string data = "Tady máte svůj medailonek. A teď VYPADNĚTE!"
+    1 string data = "Tady máte ten medailonek. A teď VYPADNĚTE!"
    [24]
-    1 string data = "A vyřiďte vévodovi Aventrymu, že má PADÁKA! Rozumíte?"
+    1 string data = "A vyřiďte vévodovi Aventrymu, že má PADÁKA! Jasné?"
    [25]
     1 string data = "NEODCHÁZÍ, MÁ PADÁKA!"
    [26]
-    1 string data = "Má paní, proč jste pořád tak vzteklá? Víte, v mé vesnici..."
+    1 string data = "Madam, proč jste pořád tak dopálená? Víte, v mé vesnici..."
    [27]
     1 string data = "B'ste! Zapomeň na to... "
    [28]
-    1 string data = "OMLUV mě? Kdo si myslíš, že JSI?"
+    1 string data = "No DOVOL? Kdo si myslíš, že JSI?"
    [29]
     1 string data = "(Pst... radši prostě pojďme, jo?) "
    [30]
@@ -81,8 +81,8 @@
    [33]
     1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
    [34]
-    1 string data = "Zavedu vás ke vchodu."
+    1 string data = "Převezu vás ke vchodu."
    [35]
-    1 string data = "Zavedu tě na <color=location>Zatopený hřbitov</color>."
+    1 string data = "Převezu vás na <color=location>Zatopený hřbitov</color>."
    [36]
     1 string data = "Medailon už tedy máte. S vévodou se teď shledáte."
