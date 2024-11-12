@@ -13,9 +13,9 @@
   "language": 0,
   "strings": {
     "Array": [
-      "Destination unknown. Threat level high. Are you sure you wish to proceed?",
-      "Yes",
-      "No"
+      "Cíl není znám. Úroveň nebezpečí vysoká. Opravdu si přejete pokračovat?",
+      "Ano",
+      "Ne"
     ]
   }
 }

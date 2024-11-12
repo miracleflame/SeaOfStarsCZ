@@ -13,18 +13,18 @@
   "language": 0,
   "strings": {
     "Array": [
-      "You caught [CAUGHT_FISH_TEXT]!",
-      "Fillet [FILLET_REWARD]",
-      "Release",
-      "You caught [CAUGHT_FISH_TEXT]!",
-      "Watcher's Pond",
-      "Fishing basics.",
-      "Press <button=\"Interact\"> to <color=magic>cast</color>. Casting is always at full power.",
-      "While airborne, <color=magic>steer</color> the bobber with <button=\"Player_MoveHorizontal\"> and press <button=\"Interact\"> to <color=magic>kick</color> it into the water.",
-      "If the bobber touches water close to a fish, it's a <color=magic>hook</color>!",
-      "While hooked, <color=magic>steer</color> the fish with <button=\"Player_MoveHorizontal\"> and press and hold <button=\"Interact\"> to <color=magic>reel while it is in the zone</color>.",
-      "Be careful not to reel outside of the zone, otherwise the line will <color=bad>break</color>.",
-      "Reel the fish all the way to the dock and it's a <color=magic>catch</color>!"
+      "Váš úlovek je [CAUGHT_FISH_TEXT]!",
+      "Filé [FILLET_REWARD]",
+      "Pustit",
+      "Váš úlovek je [CAUGHT_FISH_TEXT]!",
+      "Strážní rybník",
+      "Základy rybolovu.",
+      "Stiskněte <button=\"Interact\"> pro <color=magic>nahození</color>. Nahození je pokaždé naplno.",
+      "Během letu ve vzduchu <color=magic>usměrníte</color> plovák pomocí <button=\"Player_MoveHorizontal\"> a stisknutím <button=\"Interact\"> jej <color=magic>strhnete</color> do vody.",
+      "Pokud se plovák nachází v blízkosti ryby, ta <color=magic>zabere</color>!",
+      "Když ryba bere, <color=magic>usměrníte ji do stran pomocí <button=\"Player_MoveHorizontal\"> a stisknutím a podržením <button=\"Interact\"> ji <color=magic>navíjíte, dokud je v zóně</color>.",
+      "Dávejte pozor, abyste nenavíjeli mimo zónu, jinak se vlasec <color=bad>přetrhne</color>.",
+      "Navíjejte rybu až k molu, kde ji <color=magic>úlovíte</color>!"
     ]
   }
 }
