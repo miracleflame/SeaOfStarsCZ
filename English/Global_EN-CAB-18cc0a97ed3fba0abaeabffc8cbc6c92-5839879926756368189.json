@@ -15,7 +15,7 @@
     "Array": [
       "[RewardText]",
       "[RewardText]",
-      "You can't carry anymore meals.",
+      "You can't carry any more meals.",
       "Hey there, looks like this is your first time booting the demo.",
       "There are two things we need to get out of the way before leaving you to it forever.",
       "First, here's a quick pop-up about Discord integration.",
@@ -35,7 +35,7 @@
       "Es'tristae",
       "Sky Base",
       "Sea of Stars entrance",
-      "~ Something shiny",
+      "Something shiny",
       "Something social",
       "Something bountiful",
       "Something transactional",
@@ -54,8 +54,8 @@
       "Casual game",
       "Champion game",
       "Maybe later",
-      "We can play Champion again, but you've already beaten me so there won't be any big reward this time.",
-      "Woah, a tie!",
+      "We can play Champion again, but you've already beaten me, so there won't be any big reward this time.",
+      "Whoa, a tie!",
       "Hey, you won! Congratulations, here's your prize!",
       "You won!",
       "I win!",
@@ -73,7 +73,19 @@
       "Notice how I spin it?",
       "Aye, this be the one thing I love more than sailin'!",
       "Never felt more alive!",
-      "Betcha we're the only band with a ghost in it."
+      "Betcha we're the only band with a ghost in it.",
+      "Want to play some <color=magic>Wheels</color>?",
+      "Casual game",
+      "Champion game",
+      "Versus player",
+      "Maybe later",
+      "We can play Champion again, but you've already beaten me so there won't be any big reward this time.",
+      "Whoa, a tie!",
+      "Hey, you won! Congratulations, here's your prize!",
+      "You won!",
+      "I win!",
+      "Oh, quitting already?",
+      "This is a <color=magic>Wheels</color> table! Anyone with their own Wheel and at least two figurines can play!"
     ]
   }
 }

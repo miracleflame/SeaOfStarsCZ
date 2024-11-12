@@ -26,7 +26,12 @@
       "<button=\"UI_Back\"> Back",
       "Victory",
       "Defeat",
-      "Tie"
+      "Tie",
+      "P1 Wins",
+      "P2 Wins",
+      "Waiting for a player to join...",
+      "Continue",
+      "End game"
     ]
   }
 }

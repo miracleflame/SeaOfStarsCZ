@@ -13,7 +13,7 @@
   "language": 0,
   "strings": {
     "Array": [
-      "It is nice to meet you, Teaks. I am also a traveler of sorts.",
+      "It's nice to meet you, Teaks. I am also a traveler of sorts.",
       "Resh'an, huh? So you make potions?",
       "You could say that.",
       "Now, wait a minute...",
@@ -56,8 +56,9 @@
       "Ahoy! Fancy a game o'<color=magic>Wheels</color>?",
       "Casual game",
       "Champion game",
+      "Versus player",
       "Maybe later",
-      "Happy to play Champion again, but ye have already beaten me so there won't be no reward.",
+      "Happy to play Champion again, but ye've already beaten me, so there won't be no reward.",
       "Hey, it's a tie!",
       "Well, ye went and did it! Congratulations, here's yer prize!",
       "Ye won!",

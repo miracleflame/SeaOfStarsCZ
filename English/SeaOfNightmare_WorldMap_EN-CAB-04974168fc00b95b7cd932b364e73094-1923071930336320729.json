@@ -14,11 +14,11 @@
   "strings": {
     "Array": [
       "Alright, let's see ya sail!",
-      "Three islands, one rod each. Once they're out we can storm Maelstrom Point and take the fight to Stormcaller!",
+      "Three islands, one rod each. Once they're out, we can dock at Maelstrom Point and take the fight to Stormcaller!",
       "While sailing, hold <button=Boat_Accelerate> to move forward, and <button=MoveHorizontal> to steer the ship.",
       "The <color=magic>Map</color> can be opened by pressing <button=UI_PingHud>. It shows your current location, as well as your objective.",
       "No go, chief! Gotta get rid ov the rods on all three islands first!",
-      "We can probably use the Graplou to smash those crystals..."
+      "The crystals are powering this thing. We can probably use the graplou to break them."
     ]
   }
 }
