@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "HalfSunkenTower_EN",
+  "locCategoryId": "WraithIsland/HalfSunkenTower",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "You again!?",
+      "How did you find this place?",
+      "You're keeping Duke Aventry in this world against his will.",
+      "The magic object keeping him tethered. Where is it?",
+      "Oh, no you don't!",
+      "You don't GET to STEAL my JOURNAL then BARGE in HERE making DEMANDS!!",
+      "THE <color=magic>LOCKET</color> IS MINE AND MINE ALONE!!!",
+      "So it's a locket?",
+      "(The nerve...)",
+      "(THE COARSENESS...)",
+      "NOT AGAIN!!",
+      "Have you met her before? She doesn't seem to like you very much.",
+      "ENOUGH! There will be no mercy for you this time!",
+      "PREPARE YOURSELVES!!!",
+      "Wait, I... I yield...",
+      "Well fought, my lady!",
+      "DON'T YOU START-",
+      "It's okay, Romaya. Just give us the locket and we'll be on our way.",
+      "(...)",
+      "(Insolent FOOLS with their powers they DIDN'T EARN barging in here FOILING my plans...)",
+      "...",
+      "Here's your locket. Now LEAVE!",
+      "And tell Duke Aventry that he's FIRED! Understood?",
+      "HE'S NOT QUITTING, HE'S FIRED!",
+      "My lady, why are you so angry all the time? You know, in my village-",
+      "Ex-CUSE me? Who do you think you ARE?",
+      "Let's just go.",
+      "She needs some time alone.",
+      "Greetings, adventurers. Seek you passage across these waters?",
+      "Then show me your colored flame, or leave this place in shame!",
+      "Breathe in and don't be tense, I shall take you back to the entrance.",
+      "Gather your wits and keep up your guard, we make for the <color=location>Flooded Graveyard</color>!",
+      "The Locket you got. To the Duke I shall take you lot."
+    ]
+  }
+}

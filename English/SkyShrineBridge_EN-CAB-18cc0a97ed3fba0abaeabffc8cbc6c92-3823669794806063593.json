@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "SkyShrineBridge_EN",
+  "locCategoryId": "SkyShrine/SkyShrineBridge",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "The shrine you saw, it's that thing over there?",
+      "Yes, I'm sure of it.",
+      "This is how we reach the ones who can grant access to the Sea of Stars.",
+      "It's way out of reach...",
+      "Did your vision contain anything about how to get to it?",
+      "I...",
+      "Not really, I just know deep down that we have everything we need.",
+      "Valere?",
+      "<color=magic>Paths on water</color>...",
+      "Huh??",
+      "Way to go, Valere!",
+      "Quite impressive. How did you know?",
+      "The Oracle of Tides... he said I could \"mend the connection.\"",
+      "That was UNREAL!",
+      "And we get to walk on it now! Come on!"
+    ]
+  }
+}

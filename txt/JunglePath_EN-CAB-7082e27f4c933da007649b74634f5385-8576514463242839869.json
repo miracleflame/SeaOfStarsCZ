@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "JunglePath_EN",
+  "locCategoryId": "WatcherIsland/JunglePath",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Watcher Island.",
+      "The hidden city of the Docarri should be somewhere beyond this jungle.\n",
+      "We've got the Coral Hammer, let's do this!",
+      "YOU!",
+      "Now, now, let us talk. There is no need for you to see this errand through.",
+      "What's wrong? Getting nervous?",
+      "My, aren't we feisty.",
+      "We do not have to quarrel. Simply hand over the Coral Hammer, and we will be on our way.",
+      "Come and get it, then!",
+      "Three?",
+      "Commence!",
+      "It seems this round is yours.",
+      "Savor it. The next time we meet will be the last.",
+      "The mural depicts some kind of curse involving a flower."
+    ]
+  }
+}

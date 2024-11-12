@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "CoralCascades_EN",
+  "locCategoryId": "SleeperIsland/CoralCascades",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Oh, I seldom get any visitors here. Sorry about the mess. ",
+      "Port Town of Brisk <sprite=\"dialog-generic-icons\" name=\"arrow-east\">  ",
+      "Looking for a boat? Head over to the port town of Brisk and meet Captain Klee'shaë's crew!",
+      "Boat, Ship, Boat, Ship, Boat, Ship, Boat, Ship, BRISK!",
+      "There's no boat here. Better come to Brisk to the east!",
+      "If you're looking for a boat, you're almost there.",
+      "Come find us at the docks in Brisk!"
+    ]
+  }
+}

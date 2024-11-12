@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "GlacialPeak_EN",
+  "locCategoryId": "MesaIsland/GlacialPeak",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "However you did it, you are foolish for showing up here.",
+      "Foolish, and cornered too!",
+      "Your friends already tried acting tough, didn't you get their report?",
+      "My, they truly are feisty!",
+      "Feisty, and arrogant too!",
+      "Come, then!",
+      "Argh! You got lucky. Next time we will win.",
+      "Huff... huff... Win, and celebrate too!",
+      "And don't come back!",
+      "We're close, I can feel it.",
+      "Let's do this.",
+      "So much energy...",
+      "It's the same kind of power as...",
+      "How do we get out of here?",
+      "This block could be melted, but the Celestial Rune is busted...",
+      "??",
+      "You can now control the Time of Day with <button=AdvanceTime>&<button=RewindTime> without needing to stand on a Celestial Rune.",
+      "Whoa! So you can just do this at will now??",
+      "The amulet's resonance with our magic is really strong.",
+      "We got what we needed. Let's go back to Resh'an.",
+      "Teleport to the Archives?",
+      "Yes",
+      "No"
+    ]
+  }
+}

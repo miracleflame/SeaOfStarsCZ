@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "QuizMinigameDialog_EN",
+  "locCategoryId": "QuizMinigameDialog",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Gooooood evening, everyone, and welcome to the Quiz Show with our contestant, [MAINCHAR]!",
+      "Here we are again, tonight only, with [MAINCHAR] for Trivia Time!",
+      "Welcome all, to tonight's event featuring none other than [MAINCHAR]!",
+      "That answer is CORRECT!",
+      "Precisely!",
+      "Score one for [MAINCHAR]!",
+      "Uh oh! We've got a WRONG answer here!",
+      "Ooooh, unfortunately, that's not what we were looking for.",
+      "Incorrect!",
+      "It appears you are out of tries. Thank you for playing!",
+      "Oh, you are good! Here's a little something for that impressive performance.",
+      "Alright, next question!",
+      "Okay, let's try this one!",
+      "Listen carefully now!",
+      "Oh, this one's easy!",
+      "[TeaksAnswerText]",
+      "Do you want to play?",
+      "Yes",
+      "No",
+      "And we have a winner! Congratulations!",
+      "[QuestionText]",
+      "[ChoiceText1]",
+      "[ChoiceText2]",
+      "[ChoiceText3]",
+      "Want to play again?",
+      "Yes",
+      "Maybe later",
+      "Aaaaaand GAME! As you can see, it's very simple. I ask some questions, and you do your best to answer them. If you win, you get a prize!",
+      "Oh, there's also a \"call on your friend\" thing, but I'll just let you experiment with that yourself!",
+      "We've got a couple of <color=magic>question packs</color>, but rumor has it, there are more of them to be found! If you find any, be sure to <color=magic>bring them to me</color> and we'll play, alright?",
+      "Okay, that's it for today, then! Thanks for playing, and I'll see YOU next time!",
+      "This is it, folks! [MAINCHAR] has completed all of the question packs and is officially LORE MASTER!!!",
+      "You have earned the ultimate prize. Congratulations!",
+      "Thank you for playing, and please feel free to drop by if you want to try some of the packs again!"
+    ]
+  }
+}

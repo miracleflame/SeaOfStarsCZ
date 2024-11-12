@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "HunterTower_EN",
+  "locCategoryId": "SacrosanctSpireIsland/HunterTower",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Like fish in a barrel. Hehehe...",
+      "Let us out!",
+      "Afraid I can't do that, Repine gal.",
+      "(...)",
+      "(The glass one sure is odd...)",
+      "You heard her! Free us or else!",
+      "Hehehe...",
+      "Or else what? The sitting <color=bad>Triumvirate of Eminence</color> has remained unchallenged for centuries.",
+      "You think you lowlives have a shot at replacing us?",
+      "We've been through worse.",
+      "Hehehe...",
+      "Then get through this!",
+      "...",
+      "To the gallows they go.",
+      "It's all the same in the end. Hehehe...",
+      "*unintelligible*",
+      "A soundproof barrier. My magic can't break it.",
+      "This one is not a cultist. Might be able to help if we can free him.",
+      "Free at last! Thank you, benevolent strangers.",
+      "Wind magic will help you escape the gallows. Here.",
+      "The code compels me to leave the Spires, but I will not forget this debt.",
+      "Safe journeys!",
+      "Not fooling me twice.",
+      "Here's hoping the release mechanism is this way..."
+    ]
+  }
+}

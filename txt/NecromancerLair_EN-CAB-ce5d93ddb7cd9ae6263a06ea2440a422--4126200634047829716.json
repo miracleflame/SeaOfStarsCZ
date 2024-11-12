@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "NecromancerLair_EN",
+  "locCategoryId": "WraithIsland/NecromancerLair",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "So THAT's what all the ruckus was!",
+      "!!!",
+      "And what brings you to my delectable estate?",
+      "The Dweller cursed our friend. We need a soul stone.",
+      "Oh?",
+      "And I suppose I should simply give you one, then?",
+      "I have a better idea!",
+      "How about the three of you join my army... permanently?",
+      "In your dreams!",
+      "Oh, look at you, taking courteous erotesis all seriously...",
+      "You did barge in here uninvited and cause irreparable damage to my property, did you not?",
+      "Seems only fair you would compensate me for my troubles.",
+      "Don't get too confident, they are fully-trained Solstice Warriors.",
+      "Ha! This is getting interesting!",
+      "Are you like these Solena and Luan wannabes who thought they would ascend by fighting me?",
+      "What?",
+      "An irrelevant matter, much like your very selves.",
+      "Let us begin. And don't worry, you won't stay dead for long!",
+      "Gah...",
+      "(Children, I swear...)",
+      "(I'm not about to die over a stupid rock!)",
+      "...",
+      "I yield... for now.",
+      "Here's your soul stone. ",
+      "Now go away!",
+      "...",
+      "We...",
+      "WHAT NOW!?",
+      "We also need a green flame, otherwise the Ferryman won't take us back...",
+      "(...)",
+      "You... do want us to go, don't you?",
+      "(The nerve...)",
+      "(THE DISRESPECT!!!)",
+      "Grab a bottle from my desk, then GET OFF OF MY ESTATE!",
+      "Count your blessings. If we meet again, it won't be a simple three-versus-one.",
+      "Three-versus-one? But you summoned-",
+      "LEAVE!!!",
+      "We got what we needed, let's hurry back.",
+      "Back to Garl. Finally.",
+      "Press <button=\"Cancel\"> to throw the Graplou.",
+      "It can attach to grapple points, enemies, and climbable surfaces.",
+      "Press <button=\"Cancel\"> to throw the Graplou.",
+      "It can attach to grapple points, enemies, and climbable surfaces."
+    ]
+  }
+}

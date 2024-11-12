@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "StormCallerIsland_EN",
+  "locCategoryId": "SeaOfNightmare/StormCallerIsland",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "The tide brings trespassers to my realm...",
+      "We have come to free The Vespertine from your curse.",
+      "Oh, is this how landlubbers refer to my ship now?",
+      "Who cares! We are ending this now!",
+      "...",
+      "And so it is that my reign is challenged once more.",
+      "I am Stormcaller.",
+      "The sea of nightmare corrupts all, and in time, consumes all.",
+      "If you would try your luck make sure your aim is true...",
+      "FOR NOW THE STORM CALLS FOR YOU!",
+      "NOOOOOOOOOOOOOOOOOOO!!!",
+      "Phew... We did it...",
+      "The tremors are too strong! We have to get out of here!",
+      "To the ship!",
+      "Aye, just throw <color=magic>this pearl</color> into the water where ye fought Stormcaller.",
+      "And here's a lil' something fer the fight. Best ov luck!",
+      "Need anything?",
+      "Okay, here goes nothing.",
+      "Garl was right. This scale will produce Magic Dew.",
+      "Let's go back to Mirth. Time for the great harvest.",
+      "We must hurry to Hydralion."
+    ]
+  }
+}

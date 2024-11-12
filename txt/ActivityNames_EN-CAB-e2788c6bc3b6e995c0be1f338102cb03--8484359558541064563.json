@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "ActivityNames_EN",
+  "locCategoryId": "ActivityNames",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Děti Slunovratu",
+      "Škola na nebi",
+      "Zvuk v noci",
+      "Tvoření hrdinů",
+      "Den promoce",
+      "Zakázaná jeskyně",
+      "Stezky v mlze",
+      "Zkoušky v mlze",
+      "K novým obzorům",
+      "Čaroděj Malkomud",
+      "Kupředu do Brisku",
+      "Pirátská čest",
+      "Výprava na Ostrov přízraků",
+      "Kvílení Banshee",
+      "Kámen nekromantky",
+      "Dweller žalu",
+      "Kataklyzma",
+      "Moře noční můry",
+      "Nový začátek",
+      "Korálové kladivo",
+      "Ztracené město Docarri",
+      "Věštec přílivů a odlivů",
+      "Za vodopádem",
+      "Výšlap na Ledovec",
+      "Dweller muk",
+      "Baňka času",
+      "Spící obr",
+      "Kopce záměru",
+      "Babizna z bažin",
+      "Hodinářský rébus",
+      "Dweller sváru",
+      "Na vypůjčený čas",
+      "Království v oblacích",
+      "Labutí píseň válečného kuchaře",
+      "Přes Moře hvězd",
+      "Svět bez slunce",
+      "Mrtví zapomenuté rasy",
+      "Živoucí sklo",
+      "Kult ptačích lidí",
+      "Proti mrakům",
+      "Zpátky v domovském světě",
+      "Artificer",
+      "Dweller hrůzy",
+      "Osudná hodina",
+      "Navrácení"
+    ]
+  }
+}

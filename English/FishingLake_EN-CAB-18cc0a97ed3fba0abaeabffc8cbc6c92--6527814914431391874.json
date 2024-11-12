@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "FishingLake_EN",
+  "locCategoryId": "EvermistIsland/FishingLake",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Hey there! Were you looking for anything in particular?",
+      "Feel free to fish, this here lake is a bountiful one!"
+    ]
+  }
+}

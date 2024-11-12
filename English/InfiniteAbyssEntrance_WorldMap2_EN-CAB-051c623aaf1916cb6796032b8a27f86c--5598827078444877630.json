@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "InfiniteAbyssEntrance_WorldMap2_EN",
+  "locCategoryId": "InfiniteAbyssEntrance/InfiniteAbyssEntrance_WorldMap2",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "With their true power unleashed, [MAINCHAR] and [OFFCHAR] can now fly on the world map.",
+      "Move around with <button=MoveAll> and press <button=Interact\"> to lift off or land on clear surfaces.",
+      "You can also explore previously inaccessible areas.",
+      "When you feel ready, The Fleshmancer's castle awaits for the final confrontation."
+    ]
+  }
+}
