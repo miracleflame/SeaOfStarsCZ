@@ -13,20 +13,20 @@
   "language": 0,
   "strings": {
     "Array": [
-      "The energy from this door feels so odd...",
-      "That's got to be what we were looking for!",
-      "No handles. Can't push it open, either.",
-      "And it's not reacting to magic...",
-      "Maybe we're just supposed to knock?",
-      "It looks like something goes here. ",
-      "The water tunnel can be activated.",
-      "Activate",
-      "Not now",
-      "The water tunnel can be activated.",
-      "Activate",
-      "Not now",
-      "We need more pearls.",
-      "We don't have anything to put there."
+      "Energie vycházející z těchto dveří působí... zvláštně...",
+      "Vsadím se, že ta \"velká záhada\", kterou máme odhalit, je přímo za nimi!",
+      "Nemají žádnou kliku, zatlačit dovnitř taky nepomáhá.",
+      "Ani na naši magii nereagují...",
+      "Možná máme prostě jen zaklepat?",
+      "Vypadá to, že sem něco patří. ",
+      "Lze aktivovat vodní tunel.",
+      "Aktivovat",
+      "Teď ne",
+      "Lze aktivovat vodní tunel.",
+      "Aktivovat",
+      "Teď ne",
+      "Potřebujeme více perel.",
+      "Nemáme nic, co bychom sem mohli dát."
     ]
   }
 }

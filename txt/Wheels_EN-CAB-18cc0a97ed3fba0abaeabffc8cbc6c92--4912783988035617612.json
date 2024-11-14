@@ -13,25 +13,20 @@
   "language": 0,
   "strings": {
     "Array": [
-      "Archer",
-      "Assassin",
-      "Priest",
-      "Engineer",
-      "Mage",
-      "Warrior",
-      "<button=\"AdvanceTime\"> Spin",
-      "<button=\"Interact\"> Lock / Unlock",
-      "<button=\"MoveHorizontal\"> Browse Heroes",
-      "<button=\"UI_Confirm\"> Confirm",
-      "<button=\"UI_Back\"> Back",
-      "Victory",
-      "Defeat",
-      "Tie",
-      "P1 Wins",
-      "P2 Wins",
-      "Waiting for a player to join...",
-      "Continue",
-      "End game"
+      "Lukostřelec",
+      "Vrah",
+      "Kněz",
+      "Stavitel",
+      "Čaroděj",
+      "Válečník",
+      "<button=\"AdvanceTime\"> Roztočit",
+      "<button=\"Interact\"> Upevnit / Uvolnit",
+      "<button=\"MoveHorizontal\"> Prohlížet Hrdiny",
+      "<button=\"UI_Confirm\"> Potvrdit",
+      "<button=\"UI_Back\"> Zpět",
+      "Vítězství",
+      "Porážka",
+      "Remíza"
     ]
   }
 }

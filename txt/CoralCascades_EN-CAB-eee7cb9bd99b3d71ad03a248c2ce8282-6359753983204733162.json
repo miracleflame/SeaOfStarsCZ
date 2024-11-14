@@ -13,13 +13,13 @@
   "language": 0,
   "strings": {
     "Array": [
-      "Oh, I seldom get any visitors here. Sorry about the mess. ",
-      "Port Town of Brisk <sprite=\"dialog-generic-icons\" name=\"arrow-east\">  ",
-      "Looking for a boat? Head over to the port town of Brisk and meet Captain Klee'shaë's crew!",
-      "Boat, Ship, Boat, Ship, Boat, Ship, Boat, Ship, BRISK!",
-      "There's no boat here. Better come to Brisk to the east!",
-      "If you're looking for a boat, you're almost there.",
-      "Come find us at the docks in Brisk!"
+      "Eh, málokdy mě tu někdo navštíví. Omluvte ten nepořádek. ",
+      "Přístavní město Svěžín <sprite=\"dialog-generic-icons\" name=\"arrow-east\"> ",
+      "Hledáte loď? Vydejte se do přístavního města Svěžín a vyhledejte posádku kapitánky Klii'šaë!",
+      "Bárka, loď, bárka, loď, bárka, loď, bárka, loď, Svěžín!",
+      "Tady není žádná loď. Raději se vydejte do Svěžínu na východě!",
+      "Jestli hledáte loď, už jste skoro tam.",
+      "Najděte nás v přístavu ve Svěžíně!"
     ]
   }
 }
