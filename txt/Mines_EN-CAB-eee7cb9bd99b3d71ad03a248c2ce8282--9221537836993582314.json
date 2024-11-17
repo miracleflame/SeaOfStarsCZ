@@ -14,7 +14,7 @@
   "strings": {
     "Array": [
       "Vy jste stařešina?",
-      "Já... ano, jsem. A vy jste...?",
+      "To áno, jsem. A vy jste...?",
       "Bojovníci Slunovratu. Jsme tu, abychom se postavili Malkomudovi.",
       "No to je báječné!",
       "Co nám můžete říct o současné situaci?",
@@ -25,9 +25,6 @@
       "...",
       "Nebojte se, stařešino, my vás zachráníme!",
       "V to upřímně doufám.",
-      "Buďte tam opatrní, Malkomud je mocný čaroděj.",
-      "Co to bylo za zvuk?",
-      "...",
       "Něco se blíží!",
       "Pochybuji, že jsme ho viděli naposled...",
       "Buďme na pozoru.",
@@ -36,7 +33,6 @@
       "Proč jste ublížili mému mazlíčkovi?",
       "...",
       "To není fér. <color=good>Rockie</color> nemůže vědět, že si jenom hrajete, když tam s ní nejsem!",
-      "O co tu jde?",
       "Hrajeme? Terorizuješ vesničku!",
       "Je to jenom hra, ale nikdo jiný není dost silný...",
       "NIKDO MĚ NECHÁPE!",
@@ -106,12 +102,12 @@
       "Hornická odpočívárna",
       "Připomenutí bezpečnostních pravidel: Žádné skákání!",
       "Toto zařízení má na sobě malý větrník.",
-      "Možná zkusíme ten Mistrálový náramek, co jsme našli?",
+      "Možná zkusíme ten <color=magic>Mistrálový náramek</color>, co jsme našli?",
       "Děkujeme, že jste toto místo zabezpečili.",
       "Díky vám teď můžeme pracovat, aniž bychom se cítili v ohrožení.",
       "Ještě jednou vám děkuji, mám vás rád.",
       "Garl byl první člověk, který se ke mně choval hezky. Jsem šťastný, že jsem pomohl, ale zároveň smutný, že je pryč.",
-      "To jsem rád, že je Garl zpátky. Zasloužil si vrátit se.",
+      "To jsem rád, že je Garl zpátky. Nebylo to fér.",
       "A k čemu jsou ty šachty?",
       "Tohle, bude tam spousta pšenice!",
       "No a když ji tam všechnu naházíme, mělo by se to cestou dolů rozemlít a na dně nám zůstane mouka.",
@@ -120,8 +116,7 @@
       "Je to velká výzva. Nevím, jestli to zvládnu.",
       "Ale kvůli tobě to zkusím.",
       "Děkuji, Malkomude, o víc nežádám!",
-      "Tak teď půjdeme?",
-      "Jo, Valerie tu sopku vyčistí, než tam dorazíme.",
+      "Půjdeme? Valerie tu sopku vyčistí, než tam dorazíme.",
       "Ahoj! Potřebujete něco na cestu?"
     ]
   }

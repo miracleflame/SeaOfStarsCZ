@@ -26,7 +26,12 @@
       "<button=\"UI_Back\"> Zpět",
       "Vítězství",
       "Porážka",
-      "Remíza"
+      "Remíza",
+      "H1 zvítezil",
+      "H2 zvítezil",
+      "Čeká se na připojení hráče...",
+      "Pokračovat",
+      "Ukončit hru"
     ]
   }
 }
