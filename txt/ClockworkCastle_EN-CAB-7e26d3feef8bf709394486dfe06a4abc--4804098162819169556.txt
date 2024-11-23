@@ -1047,22 +1047,22 @@
    [516]
     1 string data = "A familiar form of magic emanates from the under the blanket."
    [517]
-    1 string data = "Things are starting to move. I am eager to see what these two can do."
+    1 string data = "Věci se daly do pohybu. Jsem zvědavá, co tihle dva dokážou."
    [518]
-    1 string data = "Eager, and impatient too!"
+    1 string data = "Zvědavá, a ještě k tomu netrpělivá!"
    [519]
-    1 string data = "For now we wait."
+    1 string data = "Prozatím čekáme."
    [520]
-    1 string data = "<color=bad>Three</color>, you know what to do."
+    1 string data = "<color=bad>Trojko</color>, víš, co máš dělat."
    [521]
-    1 string data = "Time is ticking. Is everything on track with the preparations?"
+    1 string data = "Čas kvapí. Probíhá to s přípravami vše podle plánu?"
    [522]
-    1 string data = "We will be ready for the eclipse."
+    1 string data = "Na zatmění budeme připraveni."
    [523]
-    1 string data = "Ready, and excited too!"
+    1 string data = "Připraveni, a ještě k tomu nadšeni!"
    [524]
-    1 string data = "I fear the sidekick's hesitance might fester. We should get a final confirmation."
+    1 string data = "Obávám se, že sekundantovo váhání by mohlo zesílit. Měli bychom si obstarat konečné potvrzení."
    [525]
-    1 string data = "I will go myself."
+    1 string data = "Půjdu sám."
    [526]
-    1 string data = "<color=bad>Three</color>, make sure everything goes smoothly in my absence."
+    1 string data = "<color=bad>Trojko</color>, postarej se, aby během mé nepřítomnosti vše proběhlo hladce."
