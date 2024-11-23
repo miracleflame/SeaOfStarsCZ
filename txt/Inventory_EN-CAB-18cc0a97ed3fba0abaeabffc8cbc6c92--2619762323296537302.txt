@@ -47,15 +47,15 @@
    [16]
     1 string data = "Třpytivé dýky"
    [17]
-    1 string data = "Zvyšují poškození způsobené <color=bad>nemrtvým</color> o 10%."
+    1 string data = "Zvyšují poškození způsobené <color=bad>nemrtvým</color> o 10 %."
    [18]
     1 string data = "Třpytivá hůl"
    [19]
-    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 10%."
+    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 10 %."
    [20]
     1 string data = "Třpytivý meč"
    [21]
-    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 10%."
+    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 10 %."
    [22]
     1 string data = "Korálový meč"
    [23]
@@ -387,11 +387,11 @@
    [186]
     1 string data = "Náramek hbitosti"
    [187]
-    1 string data = "Zvyšuje bonus z načasování zásahů a bloků o 10%."
+    1 string data = "Zvyšuje bonus z načasování zásahů a bloků o 10 %."
    [188]
     1 string data = "Třpytivý střep"
    [189]
-    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 15%."
+    1 string data = "Zvyšuje poškození způsobené <color=bad>nemrtvým</color> o 15 %."
    [190]
     1 string data = "Očarovaný šátek"
    [191]
@@ -443,7 +443,7 @@
    [214]
     1 string data = "Milost Smrti"
    [215]
-    1 string data = "Dokud jsou BŽ vyšší než 50%, fatální údery zanechají cíl s 1 BŽ."
+    1 string data = "Dokud jsou BŽ vyšší než 50 %, fatální údery zanechají cíl s 1 BŽ."
    [216]
     1 string data = "Amulet vyprávění"
    [217]
@@ -487,7 +487,7 @@
    [236]
     1 string data = "Neguje bonus k obraně nepřítele při čarování."
    [237]
-    1 string data = "Odstraňuje <color=magic>20</color>% odolnosti proti poškození, kterou mají nepřátelé při čarování (zámky)."
+    1 string data = "Odstraňuje <color=magic>20</color>% odolnost proti poškození, kterou mají nepřátelé při čarování (zámky)."
    [238]
     1 string data = "Dvojité ostří"
    [239]
@@ -499,7 +499,7 @@
    [242]
     1 string data = "Zvyšuje získané zkušenosti."
    [243]
-    1 string data = "Svazek popisuje techniky pro optimalizaci schopnosti učení a celkového růstu. Zvyšuje získané body zkušenosti o <color=magic>20%</color>"
+    1 string data = "Svazek popisuje techniky pro optimalizaci schopnosti učení a celkového růstu. Zvyšuje získané body zkušenosti o <color=magic>20 %</color>"
    [244]
     1 string data = "Papoušek s ostřížím zrakem"
    [245]
@@ -511,7 +511,7 @@
    [248]
     1 string data = "Zvyšuje rychlost plavby."
    [249]
-    1 string data = "Hrdě vyrobeno pomocí Svěžínových tajných technik a údajně očarováno magickým zaklínadlem. Vyduté plachty zvyšují rychlost plavby o <color=magic>20%</color>"
+    1 string data = "Hrdě vyrobeno pomocí Svěžínových tajných technik a údajně očarováno magickým zaklínadlem. Vyduté plachty zvyšují rychlost plavby o <color=magic>20 %</color>"
    [250]
     1 string data = "Zlatý zub"
    [251]
@@ -529,7 +529,7 @@
    [257]
     1 string data = "Zajišťuje dvojité zásahy při běžných útocích."
    [258]
-    1 string data = "Regulérní útoky se automaticky načasují. Zaručuje extra zásah pro prolomení zámku, ale snižuje bonusové poškození z načasování zásahu o <color=magic>50%</color>."
+    1 string data = "Regulérní útoky se automaticky načasují. Zaručuje extra zásah pro prolomení zámku, ale snižuje bonusové poškození z načasování zásahu o <color=magic>50 %</color>."
    [259]
     1 string data = "Skryté kapsy"
    [260]
@@ -541,19 +541,19 @@
    [263]
     1 string data = "Zvyšuje přijaté poškození."
    [264]
-    1 string data = "Pro ty, kteří dávají přednost drsnějšímu boji, který vyžaduje více strategie a schopnosti načasování. Zvyšuje přijaté poškození o <color=bad>40%</color>."
+    1 string data = "Pro ty, kteří dávají přednost drsnějšímu boji, který vyžaduje více strategie a schopnosti načasování. Zvyšuje přijaté poškození o <color=bad>40 %</color>."
    [265]
     1 string data = "Aura ochránce"
    [266]
     1 string data = "Snižuje přijaté poškození."
    [267]
-    1 string data = "Pro ty, kteří dávají přednost lehčí výzvě. Snižuje přijaté poškození o <color=magic>30%</color>"
+    1 string data = "Pro ty, kteří dávají přednost lehčí výzvě. Snižuje přijaté poškození o <color=magic>30 %</color>"
    [268]
     1 string data = "Taktikův důvtip"
    [269]
     1 string data = "Důraz na strategii a dovednosti během boje."
    [270]
-    1 string data = "Nepřátelé mají <color=bad>60%</color> odolnost proti poškození během čarování (zámky). Zvyšuje poškození způsobené hráči o <color=bad>35%</color>. Předměty (svačiny) nelze používat v boji. Táborové ohniště obnovují BŽ jen do 50%, BM neobnovují."
+    1 string data = "Nepřátelé mají <color=bad>60%</color> odolnost proti poškození během čarování (zámky). Zvyšuje poškození způsobené hráči o <color=bad>35 %</color>. Předměty (svačiny) nelze používat v boji. Táborové ohniště obnovují BŽ jen do 50 %, BM neobnovují."
    [271]
     1 string data = "Jablko"
    [272]

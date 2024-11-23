@@ -89,7 +89,7 @@
    [37]
     1 string data = "Je načase použít naše nové schopnosti a projít k velké soše na vrcholu Horské stezky."
    [38]
-    1 string data = "Škoda, že jsme před odjezdem neviděli Garla."
+    1 string data = "Škoda, že jsme před odchodem neviděli Garla."
    [39]
     1 string data = "Takže Mlžný stařešina? Předpokládám, že stačí najít tu horu."
    [40]

@@ -125,7 +125,7 @@
    [55]
     1 string data = "Kombo Bod"
    [56]
-    1 string data = "UTK"
+    1 string data = "ÚTK"
    [57]
     1 string data = "OBR"
    [58]
@@ -577,7 +577,7 @@
    [281]
     1 string data = "[TARGET] se dostane z KO stavu a získá [KO_HEAL_PERCENTAGE] procent maxima BŽ"
    [282]
-    1 string data = "Vyléčí KO +[KO_HEAL_PERCENTAGE]% BŽ"
+    1 string data = "Vyléčí KO +[KO_HEAL_PERCENTAGE] % BŽ"
    [283]
     1 string data = "Koupit"
    [284]

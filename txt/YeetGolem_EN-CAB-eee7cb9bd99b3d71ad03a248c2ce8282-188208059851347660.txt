@@ -15,7 +15,7 @@
    [0]
     1 string data = "Mlžný stařešina si nedělal legraci. Skvělá jízda."
    [1]
-    1 string data = "Takže, tohle Spáčův ostrov... Co teď?"
+    1 string data = "Takže, tohle je Spáčův ostrov... Co teď?"
    [2]
     1 string data = "Asi si musíme najít nějakou loď."
    [3]

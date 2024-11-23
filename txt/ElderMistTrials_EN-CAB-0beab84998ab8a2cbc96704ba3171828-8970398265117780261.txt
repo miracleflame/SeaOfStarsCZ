@@ -15,7 +15,7 @@
    [0]
     1 string data = "Vítejte na zkouškách Mlžného stařešiny."
    [1]
-    1 string data = "Abyste prošli tímto závěrečným testem, musíte dát dohromady tři velké artefakty a to tak, že splníte úkoly s nimi spojené."
+    1 string data = "Abyste prošli tímto závěrečným testem, musíte dát dohromady tři velké artefakty, a to tak, že splníte úkoly s nimi spojené."
    [2]
     1 string data = "Příšery, které se vás pokusí zastavit, jsou imunní vůči fyzickým útokům a <color=magic>používání útočných kouzel je zakázáno</color>."
    [3]

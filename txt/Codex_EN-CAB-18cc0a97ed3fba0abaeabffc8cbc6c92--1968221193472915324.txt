@@ -35,7 +35,7 @@
    [10]
     1 string data = "Předměty"
    [11]
-    1 string data = "Předměty (limit nosnosti 10) jsou svačiny <color=menuhighlight>připravené při kempování</color> nebo <color=menuhighlight>zakoupené v obchodech</color>. Možná je čas na svačinu, když potřebujete obnovit trochu <color=menuhighlight>Bodů Života</color>, ale nemůžete si dovolit kouzlo nebo potřebujete <color=menuhighlight>Bodů Many</color>, ale nemáte čas zaútočit pro regeneraci!"
+    1 string data = "Předměty (limit nosnosti 10) jsou svačiny <color=menuhighlight>připravené při táboření</color> nebo <color=menuhighlight>zakoupené v obchodech</color>. Možná je čas na svačinu, když potřebujete obnovit trochu <color=menuhighlight>Bodů Života</color>, ale nemůžete si dovolit kouzlo nebo potřebujete <color=menuhighlight>Bodů Many</color>, ale nemáte čas zaútočit pro regeneraci!"
    [12]
     1 string data = "Posílení pomocí Živé many"
    [13]
@@ -77,9 +77,9 @@
    [31]
     1 string data = "Většinou ve vesnicích, <color=menuhighlight>obchodníci prodávají</color> vybavení, suroviny na kuchtění a svačiny. Mohou také <color=menuhighlight>odkoupit</color> jakékoli cennosti, které jste našli, nebo předměty, s nimiž se chcete rozloučit."
    [32]
-    1 string data = "Kempování"
+    1 string data = "Táboření"
    [33]
-    1 string data = "Kempování je volně dostupná akce, která vám umožní <color=menuhighlight>ukuchtit si</color> svačinu na později a <color=menuhighlight>odpočívat</color>, abyste plně uzdravili svou družinu. Lze ji provést u <color=menuhighlight>ohniště</color> v různých oblastech a prostřednictvím <color=menuhighlight>herní nabídky při pobytu na mapě světa</color>."
+    1 string data = "Táboření je volně dostupná akce, která vám umožní <color=menuhighlight>ukuchtit si</color> svačinu na později a <color=menuhighlight>odpočívat</color>, abyste plně uzdravili svou družinu. Lze ji provést u <color=menuhighlight>ohniště</color> v různých oblastech a prostřednictvím <color=menuhighlight>herní nabídky při pobytu na mapě světa</color>."
    [34]
     1 string data = "Kuchtění"
    [35]

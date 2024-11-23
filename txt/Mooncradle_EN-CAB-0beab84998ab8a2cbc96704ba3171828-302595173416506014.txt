@@ -249,7 +249,7 @@
    [117]
     1 string data = "Myslím, že tato postel bude pro mě. Pojďme najít tu tvoji."
    [118]
-    1 string data = "Na další den ráno, v tělocvičně..."
+    1 string data = "Další den ráno, v tělocvičně..."
    [119]
     1 string data = "Dobré ráno, děcka!"
    [120]
@@ -325,7 +325,7 @@
    [155]
     1 string data = "TŘI!"
    [156]
-    1 string data = "Myslím, že jsem to ucítila!"
+    1 string data = "Myslím, že teď se mi to povedlo!"
    [157]
     1 string data = "Lechtá to!"
    [158]
@@ -375,7 +375,7 @@
    [180]
     1 string data = "Obezřetnost, Erlino. Nikdo neví, jakým hrozbám můžeme v budoucnu čelit."
    [181]
-    1 string data = "[MAINCHAR] a [OFFCHAR] přinesl do Měsíční Kolébky <color=good>Velký orel</color>. Řediteli nepřísluší zpochybňovat takové záležitosti a nepřísluší to ani tobě."
+    1 string data = "Valerii a Zalea přinesl do Měsíční Kolébky <color=good>Velký orel</color>. Řediteli nepřísluší zpochybňovat takové záležitosti a nepřísluší to ani tobě."
    [182]
     1 string data = "Copak to neskončí? Co taková <color=good>Moyara</color>? A co <color=good>dvojčata</color>?"
    [183]
@@ -609,7 +609,7 @@
    [297]
     1 string data = "Když je některý člen družiny v boji knokautován, budete muset přepnout do defenzivnějšího režimu."
    [298]
-    1 string data = "Knokautovaní společníci se sami zvednou na 50% BŽ, jakmile zmizí všechny hvězdičky KO."
+    1 string data = "Knokautovaní společníci se sami zvednou na 50 % BŽ, jakmile zmizí všechny hvězdičky KO."
    [299]
     1 string data = "Na konci každého kola zmizí jedna hvězdička KO."
    [300]
@@ -645,7 +645,7 @@
    [315]
     1 string data = "Pojďme si je zase trochu navýšit. Teď mě zasáhni normálním útokem."
    [316]
-    1 string data = "Vidíš? Právě se ti útokem vrátili nějaké BM."
+    1 string data = "Vidíš? Právě se ti útokem vrátily nějaké BM."
    [317]
     1 string data = "Uvědomělost v souboji povede k vítězství."
    [318]
@@ -733,7 +733,7 @@
    [359]
     1 string data = "Se záměrem používat svou hbitost k očištění tohoto světa a k ochraně svých společníků, vstoupím do světa jako tanečník čepele."
    [360]
-    1 string data = "Zvoli jsem si prohnutou čepel, neboť mě nebude omezovat v rychlosti ani v reflexech."
+    1 string data = "Zvolil jsem si prohnutou čepel, neboť mě nebude omezovat v rychlosti ani v reflexech."
    [361]
     1 string data = "Vítej, tanečníku čepele."
    [362]
@@ -787,7 +787,7 @@
    [386]
     1 string data = "(Nevidím ho...)"
    [387]
-    1 string data = "Před mnoha lety nám [MAINCHAR] a [OFFCHAR] přinesl Velký orel."
+    1 string data = "Před mnoha lety nám Valerii a Zalea přinesl Velký orel."
    [388]
     1 string data = "A to o dvou slunovratech po sobě, aby toho nebylo málo!"
    [389]
