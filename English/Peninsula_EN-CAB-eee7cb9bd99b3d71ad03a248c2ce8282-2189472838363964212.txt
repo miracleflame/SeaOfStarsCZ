@@ -1,0 +1,70 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Peninsula_EN"
+ 1 string locCategoryId = "SleeperIsland/Peninsula"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (28 items)
+   0 int size = 28
+   [0]
+    1 string data = "And then he went, “Behold the pain of everlasting sin!” and turned into some half-something form with a beautiful face blowing softly on an apple with feathered wings."
+   [1]
+    1 string data = "What happened next?"
+   [2]
+    1 string data = "Chugged about twenty-six of the elixirs we had been saving for later, and eventually we won."
+   [3]
+    1 string data = "Huzzah!"
+   [4]
+    1 string data = "A valiant battle!"
+   [5]
+    1 string data = "Get ready, we jump on the next flash."
+   [6]
+    1 string data = "Orders, Captain?"
+   [7]
+    1 string data = "Keep the villagers safe until our return."
+   [8]
+    1 string data = "Can do, will do!"
+   [9]
+    1 string data = "Safe journeys, Captain!"
+   [10]
+    1 string data = "With everything happening, it seems there will never be time to explain, so..."
+   [11]
+    1 string data = "Please don't tell my crew."
+   [12]
+    1 string data = "Seraï, we already knew..."
+   [13]
+    1 string data = "!?!"
+   [14]
+    1 string data = "Then why didn't you say anything?"
+   [15]
+    1 string data = "You're clearly on our side, it's all that matters."
+   [16]
+    1 string data = "Whatever your reasons are, they must be good."
+   [17]
+    1 string data = "And thanks for spending the coin to save me, by the way!"
+   [18]
+    1 string data = "I..."
+   [19]
+    1 string data = "We agreed to let you keep your secret, but it's good to see you finally trust us."
+   [20]
+    1 string data = "..."
+   [21]
+    1 string data = "I'm sorry, I should have..."
+   [22]
+    1 string data = "It's okay, we're a team now."
+   [23]
+    1 string data = "So you understand claiming The Vespertine won't be as easy as we thought."
+   [24]
+    1 string data = "Yup! And it just so happens we owe you one, so all the better."
+   [25]
+    1 string data = "..."
+   [26]
+    1 string data = "Thank you."
+   [27]
+    1 string data = "NOW!"

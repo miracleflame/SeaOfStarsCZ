@@ -1,0 +1,46 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "QueensThrone_EN"
+ 1 string locCategoryId = "QueensThrone/QueensThrone"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (16 items)
+   0 int size = 16
+   [0]
+    1 string data = "This is it... The throne of <color=bad>The Queen That Was</color>..."
+   [1]
+    1 string data = "..."
+   [2]
+    1 string data = "She's not here, then?"
+   [3]
+    1 string data = "Oh, she's here alright."
+   [4]
+    1 string data = "Are you ready?"
+   [5]
+    1 string data = "On your mark."
+   [6]
+    1 string data = "At long last, she paid the price for her betrayal..."
+   [7]
+    1 string data = "Thank you, my friends."
+   [8]
+    1 string data = "You got it."
+   [9]
+    1 string data = "Famous daggers of legend detected amidst the rubble."
+   [10]
+    1 string data = "Recommended action: loot and equip."
+   [11]
+    1 string data = "Oh yeah, I could use those."
+   [12]
+    1 string data = "Nothing left for us here. Lead the way."
+   [13]
+    1 string data = "Return to Cerulean Expanse?"
+   [14]
+    1 string data = "Yes"
+   [15]
+    1 string data = "No"

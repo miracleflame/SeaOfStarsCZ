@@ -1,0 +1,220 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "WorldMap_EN"
+ 1 string locCategoryId = "WorldMap"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (103 items)
+   0 int size = 103
+   [0]
+    1 string data = "Hoo! Are you ready to be sent out into the world?"
+   [1]
+    1 string data = "Yes"
+   [2]
+    1 string data = "No"
+   [3]
+    1 string data = "Hoo! Are you ready to be sent out into the world?"
+   [4]
+    1 string data = "Yes"
+   [5]
+    1 string data = "No"
+   [6]
+    1 string data = "Let us see you off, then. But first, your prophecies."
+   [7]
+    1 string data = "I will speak them to your minds directly, for they are yours and yours alone."
+   [8]
+    1 string data = "Zale. Step forward."
+   [9]
+    1 string data = "(In order to reach your full potential, you will first need to <color=magic>stare at the night inside of you</color>.)"
+   [10]
+    1 string data = "..."
+   [11]
+    1 string data = "Thank you, Elder Mist."
+   [12]
+    1 string data = "Valere. Approach."
+   [13]
+    1 string data = "(When the time comes, you will be the one to <color=magic>create paths on water</color>.)"
+   [14]
+    1 string data = "..."
+   [15]
+    1 string data = "Understood."
+   [16]
+    1 string data = "Garl."
+   [17]
+    1 string data = "I get one too? Awesome!"
+   [18]
+    1 string data = "(You must be mindful of your limitations during this journey.)"
+   [19]
+    1 string data = "(You got it, Elder Mist!)"
+   [20]
+    1 string data = "(Garl, this is not a conversation.)"
+   [21]
+    1 string data = "(Oops! Sorry, please carry on.)"
+   [22]
+    1 string data = "(The Mists are unclear in your case, but it appears your heart might be warm enough to <color=magic>soothe a long tormented soul</color>.)"
+   [23]
+    1 string data = "Okay, I'll do my best!"
+   [24]
+    1 string data = "You have now learned everything I could teach you."
+   [25]
+    1 string data = "I am sending you to <color=location>Sleeper Island</color>, where you are fated to meet a <color=good>crew</color> bound for adventure."
+   [26]
+    1 string data = "Make friends with them, and they shall help you <color=magic>reach Wraith Island in time for the next eclipse</color>."
+   [27]
+    1 string data = "To activate this Giant, give it the name <color=good>X'tol</color>, and it will send you to Sleeper Island."
+   [28]
+    1 string data = "To return here, simply go to X'tol, and speak this one's name, which is-"
+   [29]
+    1 string data = "X'tol? Cool!"
+   [30]
+    1 string data = "Hoo..."
+   [31]
+    1 string data = "I suppose I won't be seeing those three for a while..."
+   [32]
+    1 string data = "Y'eet stands still, awaiting a magic word."
+   [33]
+    1 string data = "X'tol"
+   [34]
+    1 string data = "Y'eet stands still, awaiting a magic word."
+   [35]
+    1 string data = "X'tol"
+   [36]
+    1 string data = "Khukharr"
+   [37]
+    1 string data = "Y'eet stands still, awaiting a magic word."
+   [38]
+    1 string data = "X'tol"
+   [39]
+    1 string data = "Khukharr"
+   [40]
+    1 string data = "Puntie"
+   [41]
+    1 string data = "Need a little boost?"
+   [42]
+    1 string data = "Y'eet"
+   [43]
+    1 string data = "X'tol"
+   [44]
+    1 string data = "Need a little boost?"
+   [45]
+    1 string data = "Y'eet"
+   [46]
+    1 string data = "X'tol"
+   [47]
+    1 string data = "Puntie"
+   [48]
+    1 string data = "X'tol stands still, awaiting a magic word."
+   [49]
+    1 string data = "Y'eet"
+   [50]
+    1 string data = "X'tol stands still, awaiting a magic word."
+   [51]
+    1 string data = "Y'eet"
+   [52]
+    1 string data = "Khukharr"
+   [53]
+    1 string data = "X'tol stands still, awaiting a magic word."
+   [54]
+    1 string data = "Y'eet"
+   [55]
+    1 string data = "Khukharr"
+   [56]
+    1 string data = "Puntie"
+   [57]
+    1 string data = "Khukharr!"
+   [58]
+    1 string data = "Go to Molekin Outpost?"
+   [59]
+    1 string data = "The island is to the northeast of Brisk. Don't forget to use the map if needed!"
+   [60]
+    1 string data = "So, The Watcher's prism is the key..."
+   [61]
+    1 string data = "Let's see here."
+   [62]
+    1 string data = "Use <button=AdvanceTime>&<button=RewindTime> on the World Map to unveil the secret area!"
+   [63]
+    1 string data = "What is that?"
+   [64]
+    1 string data = "No idea, it looks like a giant prism."
+   [65]
+    1 string data = "That there tower be sittin' at the bottom ov the ocean. Ain't no getting in!"
+   [66]
+    1 string data = "Travel to Home World?"
+   [67]
+    1 string data = "Yes"
+   [68]
+    1 string data = "No"
+   [69]
+    1 string data = "Travel to Seraï's World?"
+   [70]
+    1 string data = "Yes"
+   [71]
+    1 string data = "No"
+   [72]
+    1 string data = "I'm glad I joined the crew. The air is always so good!"
+   [73]
+    1 string data = "I feel a bit woozy. Hope I'll get my sea legs soon!"
+   [74]
+    1 string data = "The Sea of Stars was an incredible journey. I'm even happier now with my decision than I was when I first joined!"
+   [75]
+    1 string data = "I think I finally got my sea legs!"
+   [76]
+    1 string data = "Sweeping is a full-time job. The second I'm done, it's worth starting over!"
+   [77]
+    1 string data = "Still sailing, still sweeping."
+   [78]
+    1 string data = "Just taking care of something Yolande asked."
+   [79]
+    1 string data = "It's good work you all are doing. You have my support!"
+   [80]
+    1 string data = "Lots of old stuff we may or may not need. Valtraid says I can figure it out on my own!"
+   [81]
+    1 string data = "This box feels bottomless..."
+   [82]
+    1 string data = "Wait, did I put it here?"
+   [83]
+    1 string data = "Now, where was it..."
+   [84]
+    1 string data = "Yolande is the best boss I've ever had."
+   [85]
+    1 string data = "Work, work."
+   [86]
+    1 string data = "I could listen to Keenathan's concertina all day!"
+   [87]
+    1 string data = "Seraï world feels kind of spooky, don't you think?"
+   [88]
+    1 string data = "That's a good boat we got. Just gotta treat it well!"
+   [89]
+    1 string data = "I like it on The Vespertine, there's always a little something that needs fixing!"
+   [90]
+    1 string data = "The ship's operating at peak condition!"
+   [91]
+    1 string data = "We've got all the supplies we need."
+   [92]
+    1 string data = "Teaks is a really good storyteller!"
+   [93]
+    1 string data = "I really feel like sailing is my true calling now, I don't ever want to go back home."
+   [94]
+    1 string data = "Hortence started teaching me the basics of navigation. I just want to learn more!"
+   [95]
+    1 string data = "Croustalion is having the time of his life."
+   [96]
+    1 string data = "Croustalion is dreaming a cozy dream."
+   [97]
+    1 string data = "Croustalion is solving a complex problem."
+   [98]
+    1 string data = "Croustalion is thinking about B'st."
+   [99]
+    1 string data = "Croustalion is trying to determine his favorite snack."
+   [100]
+    1 string data = "Croustalion is preparing his daily gratitudes."
+   [101]
+    1 string data = "Croustalion is letting a fond memory wash over him."
+   [102]
+    1 string data = "Croustalion is mulling over healthy food options."

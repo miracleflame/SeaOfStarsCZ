@@ -1,0 +1,168 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ShroomSongMarsh_EN"
+ 1 string locCategoryId = "MesaIsland/ShroomSongMarsh"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (77 items)
+   0 int size = 77
+   [0]
+    1 string data = "An abandoned house?"
+   [1]
+    1 string data = "Welcome, welcome."
+   [2]
+    1 string data = "I am <color=good>Yomara</color>, a simple hermit."
+   [3]
+    1 string data = "We've already met your sister, the necromancer!"
+   [4]
+    1 string data = "Please, there's no need for that."
+   [5]
+    1 string data = "Romaya's evil ways are precisely that. Romaya's."
+   [6]
+    1 string data = "I am but a neutral observer in the affairs of this world."
+   [7]
+    1 string data = "You're a seer, aren't you? Does that mean we're getting a prophecy again?"
+   [8]
+    1 string data = "Why, if it ain't the Warrior Cook!"
+   [9]
+    1 string data = "I have been expecting you."
+   [10]
+    1 string data = "Please, eat a fruit from my tree."
+   [11]
+    1 string data = "Really? Don't mind if I do!"
+   [12]
+    1 string data = "Just one now."
+   [13]
+    1 string data = "The taste is unbelievable! What are they called?"
+   [14]
+    1 string data = "Pears."
+   [15]
+    1 string data = "Well, I would never use pears for cooking, they're perfect just the way they are!"
+   [16]
+    1 string data = "I knew you were the chosen one."
+   [17]
+    1 string data = "Hmm?"
+   [18]
+    1 string data = "Being a seer has its perks. Like knowing who is capable of fully appreciating a fresh pear."
+   [19]
+    1 string data = "..."
+   [20]
+    1 string data = "So..."
+   [21]
+    1 string data = "That's it?"
+   [22]
+    1 string data = "Yes. The threads of fate seldom speak to me about the near future."
+   [23]
+    1 string data = "I only deal in the cataloging of grander arcs."
+   [24]
+    1 string data = "My apologies, but I have no insights for you."
+   [25]
+    1 string data = "You..."
+   [26]
+    1 string data = "You are..."
+   [27]
+    1 string data = "A cold breeze is rising. Why don't you come in for a little bit?"
+   [28]
+    1 string data = "..."
+   [29]
+    1 string data = "Now, which volume was it..."
+   [30]
+    1 string data = "Probably somewhere with my older work..."
+   [31]
+    1 string data = "<color=good>The spirit that will carry the night</color>, I was really overthinking titles back then..."
+   [32]
+    1 string data = "<color=bad>Primal Fear</color>, no..."
+   [33]
+    1 string data = "Oh, that's where I put <color=good>Ovate of Seasons</color>!"
+   [34]
+    1 string data = "..."
+   [35]
+    1 string data = "Ah, there it is! <color=magic>Ethereal Occurrences Vol. 2</color>."
+   [36]
+    1 string data = "Let's see here..."
+   [37]
+    1 string data = "..."
+   [38]
+    1 string data = "Oh yes, I remember now."
+   [39]
+    1 string data = "Another prophecy, this is exciting!"
+   [40]
+    1 string data = "*ahem*... Immortal Alchemist, step forward!"
+   [41]
+    1 string data = "Excuse me?"
+   [42]
+    1 string data = "You can fancy yourself a god if you like, but you remain bound by fate all the same."
+   [43]
+    1 string data = "Now, listen up."
+   [44]
+    1 string data = "During your travels with these young adventurers, you will meet <color=magic>the dead of a forgotten race</color>."
+   [45]
+    1 string data = "Among them will be one asking to fight alongside Solstice Warriors."
+   [46]
+    1 string data = "Be welcoming, for this entity's unbreakable will is the key to achieving the one great feat of alchemy that eludes you still."
+   [47]
+    1 string data = "!!!"
+   [48]
+    1 string data = "What is she talking about?"
+   [49]
+    1 string data = "(Living Glass...)"
+   [50]
+    1 string data = "(Could it truly work at last?)"
+   [51]
+    1 string data = "Thank you, Crone of the Marsh."
+   [52]
+    1 string data = "That will be all."
+   [53]
+    1 string data = "I carry a small inventory of items for sale, and the fireplace is yours if you need to cook or rest."
+   [54]
+    1 string data = "Oh, and you will need a key for the gate south of here. Here."
+   [55]
+    1 string data = "Thanks, Yomara! "
+   [56]
+    1 string data = "Be well."
+   [57]
+    1 string data = "Feel free to rest at the fireplace. Did you need anything from my storage?"
+   [58]
+    1 string data = "Looks like this big mushroom should react to the Time of Day."
+   [59]
+    1 string data = "I know why you are here, but as always, I must remain neutral."
+   [60]
+    1 string data = "This means I can neither help you, nor can I prevent you from staring into my <color=magic>cauldron</color>."
+   [61]
+    1 string data = "??"
+   [62]
+    1 string data = "As the liquid stirs, a vision appears..."
+   [63]
+    1 string data = "These runes... Perhaps we should take some notes?"
+   [64]
+    1 string data = "Oh. you want to play <color=magic>Wheels</color> with me?"
+   [65]
+    1 string data = "Casual game"
+   [66]
+    1 string data = "Champion game"
+   [67]
+    1 string data = "Maybe later"
+   [68]
+    1 string data = "I don't mind playing Champion again, but I don't have another reward for you."
+   [69]
+    1 string data = "As I have foreseen, it's a tie."
+   [70]
+    1 string data = "My visions didn't lie, you won. Here's your prize."
+   [71]
+    1 string data = "My visions didn't lie, you won."
+   [72]
+    1 string data = "I win. Maybe have should have let you know it would end like this?"
+   [73]
+    1 string data = "You prefer to play some other time?"
+   [74]
+    1 string data = "Yomara's pear tree."
+   [75]
+    1 string data = "The bookshelf is filled with dusty tomes."
+   [76]
+    1 string data = "Full of incoherent notes that seem to come from a racing mind."

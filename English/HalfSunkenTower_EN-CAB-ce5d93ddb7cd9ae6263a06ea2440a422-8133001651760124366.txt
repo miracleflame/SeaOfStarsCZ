@@ -1,0 +1,80 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "HalfSunkenTower_EN"
+ 1 string locCategoryId = "WraithIsland/HalfSunkenTower"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (33 items)
+   0 int size = 33
+   [0]
+    1 string data = "You again!?"
+   [1]
+    1 string data = "How did you find this place?"
+   [2]
+    1 string data = "You're keeping Duke Aventry in this world against his will."
+   [3]
+    1 string data = "The magic object keeping him tethered. Where is it?"
+   [4]
+    1 string data = "Oh, no you don't!"
+   [5]
+    1 string data = "You don't GET to STEAL my JOURNAL then BARGE in HERE making DEMANDS!!"
+   [6]
+    1 string data = "THE <color=magic>LOCKET</color> IS MINE AND MINE ALONE!!!"
+   [7]
+    1 string data = "So it's a locket?"
+   [8]
+    1 string data = "(The nerve...)"
+   [9]
+    1 string data = "(THE COARSENESS...)"
+   [10]
+    1 string data = "NOT AGAIN!!"
+   [11]
+    1 string data = "Have you met her before? She doesn't seem to like you very much."
+   [12]
+    1 string data = "ENOUGH! There will be no mercy for you this time!"
+   [13]
+    1 string data = "PREPARE YOURSELVES!!!"
+   [14]
+    1 string data = "Wait, I... I yield..."
+   [15]
+    1 string data = "Well fought, my lady!"
+   [16]
+    1 string data = "DON'T YOU START-"
+   [17]
+    1 string data = "It's okay, Romaya. Just give us the locket and we'll be on our way."
+   [18]
+    1 string data = "(...)"
+   [19]
+    1 string data = "(Insolent FOOLS with their powers they DIDN'T EARN barging in here FOILING my plans...)"
+   [20]
+    1 string data = "..."
+   [21]
+    1 string data = "Here's your locket. Now LEAVE!"
+   [22]
+    1 string data = "And tell Duke Aventry that he's FIRED! Understood?"
+   [23]
+    1 string data = "HE'S NOT QUITTING, HE'S FIRED!"
+   [24]
+    1 string data = "My lady, why are you so angry all the time? You know, in my village-"
+   [25]
+    1 string data = "Ex-CUSE me? Who do you think you ARE?"
+   [26]
+    1 string data = "Let's just go."
+   [27]
+    1 string data = "She needs some time alone."
+   [28]
+    1 string data = "Greetings, adventurers. Seek you passage across these waters?"
+   [29]
+    1 string data = "Then show me your colored flame, or leave this place in shame!"
+   [30]
+    1 string data = "Breathe in and don't be tense, I shall take you back to the entrance."
+   [31]
+    1 string data = "Gather your wits and keep up your guard, we make for the <color=location>Flooded Graveyard</color>!"
+   [32]
+    1 string data = "The Locket you got. To the Duke I shall take you lot."

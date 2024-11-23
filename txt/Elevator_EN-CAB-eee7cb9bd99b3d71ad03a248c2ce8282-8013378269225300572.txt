@@ -1,0 +1,28 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Elevator_EN"
+ 1 string locCategoryId = "SleeperIsland/Elevator"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (7 items)
+   0 int size = 7
+   [0]
+    1 string data = "A pokud je tam hospoda, bude tam i kuchař, takže se možná naučím nějaký speciální recept nebo něco!"
+   [1]
+    1 string data = "Garle, koukej!"
+   [2]
+    1 string data = "To se mi zdá!"
+   [3]
+    1 string data = "Spáče jsi chtěl vidět již od malička! Jaký je to pocit?"
+   [4]
+    1 string data = "Jako by se všechny moje letní dny odehrávaly ve stejnou dobu!"
+   [5]
+    1 string data = "Život dobrodruhů je ten nejlepší život!"
+   [6]
+    1 string data = "Už jsme skoro tam, připravte se na koupačku."

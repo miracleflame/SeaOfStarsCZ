@@ -1,0 +1,26 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "SeaOfNightmare_WorldMap_EN"
+ 1 string locCategoryId = "SeaOfNightmare/SeaOfNightmare_WorldMap"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (6 items)
+   0 int size = 6
+   [0]
+    1 string data = "Alright, let's see ya sail!"
+   [1]
+    1 string data = "Three islands, one rod each. Once they're out, we can dock at Maelstrom Point and take the fight to Stormcaller!"
+   [2]
+    1 string data = "While sailing, hold <button=Boat_Accelerate> to move forward, and <button=MoveHorizontal> to steer the ship."
+   [3]
+    1 string data = "The <color=magic>Map</color> can be opened by pressing <button=UI_PingHud>. It shows your current location, as well as your objective."
+   [4]
+    1 string data = "No go, chief! Gotta get rid ov the rods on all three islands first!"
+   [5]
+    1 string data = "The crystals are powering this thing. We can probably use the graplou to break them."

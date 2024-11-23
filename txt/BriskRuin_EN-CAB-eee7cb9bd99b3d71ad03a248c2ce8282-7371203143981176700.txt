@@ -1,0 +1,256 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "BriskRuin_EN"
+ 1 string locCategoryId = "SleeperIsland/BriskRuin"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (121 items)
+   0 int size = 121
+   [0]
+    1 string data = "Přiživovač spadnul přímo doprostřed města..."
+   [1]
+    1 string data = "Tamhle je Seraï!"
+   [2]
+    1 string data = "Hodila by se pomoc."
+   [3]
+    1 string data = "Tyhle jsou silnější."
+   [4]
+    1 string data = "Přiživovač sváru musí být opravdu mocný.\n"
+   [5]
+    1 string data = "A v dohledné době nebude žádné zatmění..."
+   [6]
+    1 string data = "Pojďme vyčistit, co se dá. Přiživovač musel někde spadnout, musíme ho najít."
+   [7]
+    1 string data = "Je... pryč?"
+   [8]
+    1 string data = "Všichni ti nevinní lidé..."
+   [9]
+    1 string data = "..."
+   [10]
+    1 string data = "Jak velká ta věc je?"
+   [11]
+    1 string data = "Hej, vy jste Bojovníci Slunovratu, že ano?"
+   [12]
+    1 string data = "Vyčistili jsme to tu od příšer. Prozatím je po všem."
+   [13]
+    1 string data = "Ta velká odletěla!"
+   [14]
+    1 string data = "Možná se vrátí!"
+   [15]
+    1 string data = "Béééééé!"
+   [16]
+    1 string data = "Neměj strach, tady moji přátelé jsou silnější než ta velká příšera!"
+   [17]
+    1 string data = "Opravdu?"
+   [18]
+    1 string data = "Naprosto!"
+   [19]
+    1 string data = "Béééééé!"
+   [20]
+    1 string data = "Zatím je tu bezpečno. Prosím, sejděte se u mola s ostatními!"
+   [21]
+    1 string data = "Nevzdáváme to s vámi. Vyřešíme to, slibuji!"
+   [22]
+    1 string data = "Dě... děkuji vám..."
+   [23]
+    1 string data = "Doufám, že je můj bratr v pořádku..."
+   [24]
+    1 string data = "Nemůžeme tu zůstat! Kam půjdeme?"
+   [25]
+    1 string data = "Musíme si najít nový život!"
+   [26]
+    1 string data = "Tady jsem se narodil a tady i zemřu, stejně jako moji předkové!"
+   [27]
+    1 string data = "Můžeme znovu budovat!"
+   [28]
+    1 string data = "Raději se přestěhuji někam jinam!"
+   [29]
+    1 string data = "Béééééééé!"
+   [30]
+    1 string data = "Co s tím máme dělat? Je jasné, že někteří z nich musí jít dál, ale..."
+   [31]
+    1 string data = "Do Lucentu je jich příliš mnoho... Navíc se to město teď musí zabývat svým vlastním uzdravováním."
+   [32]
+    1 string data = "Yolando, napadají tě ještě nějaká další místa?"
+   [33]
+    1 string data = "Ano. Dle mě by se jedno našlo! Keenathane?"
+   [34]
+    1 string data = "Třeba ten malý ostrov na severovýchodě? Souhlas."
+   [35]
+    1 string data = "Aha, ten neobývaný, kde roste plno borovic? To by mohlo vyjít!"
+   [36]
+    1 string data = "Cestu známe, ale na Dubovém škuneru se tam nedostaneme."
+   [37]
+    1 string data = "Musíme na votevřený moře, takže budem potřebovat pořádnou loď!"
+   [38]
+    1 string data = "Dobrá, to je slušný začátek! Možná má někdo loď, kterou bychom si mohli půjčit."
+   [39]
+    1 string data = "Poslyš, kámo, praktičnost je moje druhé jméno, ale tenhle přístav je na totálku!"
+   [40]
+    1 string data = "Zdá se, že zbývá jen jediná možnost."
+   [41]
+    1 string data = "Zamlouvá se mi kam tím míříš, kamaráde!"
+   [42]
+    1 string data = "Tak povídej, chlapáku!"
+   [43]
+    1 string data = "Obsadíme Večernici!"
+   [44]
+    1 string data = "Zamíta se, brachu. Bez svolení kapitánky se žádná spoušť mačkat nebude!"
+   [45]
+    1 string data = "Keenathan má pravdu. Nastal čas."
+   [46]
+    1 string data = "Ahoy, kapitánko! Mysleli jsme, že jsi pryč!"
+   [47]
+    1 string data = "..."
+   [48]
+    1 string data = "Bude ta loď stačit na to, aby přepravila osadníky na ostrov, o kterém se Yolanda zmínila?"
+   [49]
+    1 string data = "Vzpamatuj se, synku! Večernice by se mohla plavit i přes Moře-"
+   [50]
+    1 string data = "YOLANDO!"
+   [51]
+    1 string data = "Omlouvám se, kapitánko."
+   [52]
+    1 string data = "Garantuju vám, že nás tam dostane."
+   [53]
+    1 string data = "Dobrá, tak jaký je plán? Ta loď je prokletá, že?"
+   [54]
+    1 string data = "To je vlastně ta snadnější část!"
+   [55]
+    1 string data = "Musíme se jen dostat na palubu, setkat se s majitelem a kapitánka od něj loď koupí za Minci nemrtvé úmluvy, kterou jste dříve přinesli."
+   [56]
+    1 string data = "(...)"
+   [57]
+    1 string data = "Solidní plán!"
+   [58]
+    1 string data = "Aniž by se člověk zapotil!"
+   [59]
+    1 string data = "*Ehm* To... uvidíme..."
+   [60]
+    1 string data = "Zatím se vydáme na poloostrov a počkáme."
+   [61]
+    1 string data = "Jakmile padne soumrak, Večernice se na krátký okamžik objeví."
+   [62]
+    1 string data = "Bude to jen na chvilku, takže musíme naskočit na palubu bez zaváhání."
+   [63]
+    1 string data = "Jako 'dycky, kapitánko!"
+   [64]
+    1 string data = "Já se tak těším!"
+   [65]
+    1 string data = "Vy tři s námi nepůjdete."
+   [66]
+    1 string data = "Kapitánko?"
+   [67]
+    1 string data = "Pokud se nám nepodaří vrátit, vy musíte najít jiný způsob, jak pomoci vesničanům najít nový domov."
+   [68]
+    1 string data = "To nee, na tohle jsme se připravovali celou věčnost!"
+   [69]
+    1 string data = "Náš hlavní cíl zůstává stejný. Ale pro tentokrát potřebuji, abyste zůstali v bezpečí. Můžete to pro mě udělat?"
+   [70]
+    1 string data = "Já udělám, jak kapitánka poroučí, jakože se Keenathan jmenuju!"
+   [71]
+    1 string data = "Aye aye, kapitánko, můžeme vás alespoň bezpečně doprovodit na poloostrov?"
+   [72]
+    1 string data = "..."
+   [73]
+    1 string data = "Samozřejmě."
+   [74]
+    1 string data = "Dejte mi vědět, až budete připraveni."
+   [75]
+    1 string data = "Jste připraveni odejít?"
+   [76]
+    1 string data = "Ano"
+   [77]
+    1 string data = "Ne"
+   [78]
+    1 string data = "Mezi troskami vede cestička. Odejít ze Svěžína?"
+   [79]
+    1 string data = "Ano"
+   [80]
+    1 string data = "Ne"
+   [81]
+    1 string data = "Prosím, nesežer mě, prosím, nesežer mě, prosím, nesežer mě-"
+   [82]
+    1 string data = "Hej, už jsi v bezpečí. Najdi Yolandu u přístavu, její parta tě ochrání."
+   [83]
+    1 string data = "Bojovníci Slunovratu? Luana budiž pochválena! Prosím, pomozte ostatním..."
+   [84]
+    1 string data = "Ještě jednou díky za záchranu!"
+   [85]
+    1 string data = "Málem mě to rozdrtilo, když se všechno zhroutilo! Moc vám děkuji, že jste mě dostali ven."
+   [86]
+    1 string data = "Tu máte, není to nic moc, ale snad pomůže."
+   [87]
+    1 string data = "Vy jste opravdoví zachránci, děkuji..."
+   [88]
+    1 string data = "Děkuji, myslela jsem si, že tady dneska umřu..."
+   [89]
+    1 string data = "Dokážeš se sama dostat do přístavu? Lidé se tam shromažďují, zatímco my děláme pořádky s příšerama."
+   [90]
+    1 string data = "Já... ano, zvládnu to. Děkuji, ráda bych nabídla víc."
+   [91]
+    1 string data = "To předtím bylo děsivé, jsem ráda, že jste přišli právě včas..."
+   [92]
+    1 string data = "Uvízl jsem za tou velkou cihlou, když spadla. Můžete s ní pohnout?"
+   [93]
+    1 string data = "Uf, to bylo o fous! Měl bych zamířit do přístavu."
+   [94]
+    1 string data = "Děkuji mnohokrát. Tady."
+   [95]
+    1 string data = "Nestýská se mi po tom, jak jsem uvízl za tou cihlou!"
+   [96]
+    1 string data = "Při té katastrofě jsme přišli téměř o všechno, ale pokud potřebujete na cestu něco koupit, použijeme peníze na obnovu."
+   [97]
+    1 string data = "Bojovníci Slunovratu! Chtěl jsem vám ještě jednou poděkovat, že jste mě dříve zachránili! "
+   [98]
+    1 string data = "Slyšel jsem, že jste také pomohli vesničanům. Přijměte prosím tuto malou odměnu."
+   [99]
+    1 string data = "To, co jste tam předvedli, bylo opravdu hrdinské! Tady to přijměte jako odměnu za své činy."
+   [100]
+    1 string data = "Škoda, že jsme nemohli pomoci dalším vesničanům... Jsme tak bezmocní..."
+   [101]
+    1 string data = "Dávejte na sebe pozor, Bojovníci Slunovratu!"
+   [102]
+    1 string data = "O nás se nebojte, my se o sebe dokážeme postarat sami!"
+   [103]
+    1 string data = "Potřebujete nakoupit? Můžeme se rychle vrátit na Přízračný ostrov, jestli chcete."
+   [104]
+    1 string data = "Ano"
+   [105]
+    1 string data = "Ne"
+   [106]
+    1 string data = "Čauky! Jakéhokoli dalšího vesničana, co najdete, pošlete rovnou k nám!"
+   [107]
+    1 string data = "Konečně, Večernice..."
+   [108]
+    1 string data = "My ty vesničany ochráníme, jakože se Keenathan jmenuju!"
+   [109]
+    1 string data = "Je to opravdu vzrušující, že se všechny ty pokusy o získání Mince nemrtvé úmluvy brzo vyplatí! Bude to transakce věků!"
+   [110]
+    1 string data = "..."
+   [111]
+    1 string data = "To bylo příliš děsivé."
+   [112]
+    1 string data = "Už nemáme žádný domov... Ach, co si počneme..."
+   [113]
+    1 string data = "Přišel jsem o všechno... Už tu nemůžu zůstat."
+   [114]
+    1 string data = "Zůstávám. Znovu Svěžín vybudujeme a uděláme ho ještě lepší, než byl!"
+   [115]
+    1 string data = "Všechno je v mžiku pryč... "
+   [116]
+    1 string data = "Ale Svěžín je silný. Znovu ho postavíme!"
+   [117]
+    1 string data = "Pořád nemůžu uvěřit tomu, co se stalo, bylo to tak náhlé..."
+   [118]
+    1 string data = "..."
+   [119]
+    1 string data = "Aspoň máme co dělat..."
+   [120]
+    1 string data = "Svěžín není úplně ztracený, jen musíme spolupracovat!"

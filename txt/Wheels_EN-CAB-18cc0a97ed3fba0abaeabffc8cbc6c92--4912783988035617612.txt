@@ -1,0 +1,52 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Wheels_EN"
+ 1 string locCategoryId = "Wheels"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (19 items)
+   0 int size = 19
+   [0]
+    1 string data = "Lukostřelec"
+   [1]
+    1 string data = "Vrah"
+   [2]
+    1 string data = "Kněz"
+   [3]
+    1 string data = "Stavitel"
+   [4]
+    1 string data = "Čaroděj"
+   [5]
+    1 string data = "Válečník"
+   [6]
+    1 string data = "<button="AdvanceTime"> Roztočit"
+   [7]
+    1 string data = "<button="Interact"> Upevnit / Uvolnit"
+   [8]
+    1 string data = "<button="MoveHorizontal"> Prohlížet Hrdiny"
+   [9]
+    1 string data = "<button="UI_Confirm"> Potvrdit"
+   [10]
+    1 string data = "<button="UI_Back"> Zpět"
+   [11]
+    1 string data = "Vítězství"
+   [12]
+    1 string data = "Porážka"
+   [13]
+    1 string data = "Remíza"
+   [14]
+    1 string data = "H1 zvítězil"
+   [15]
+    1 string data = "H2 zvítězil"
+   [16]
+    1 string data = "Čeká se na připojení hráče..."
+   [17]
+    1 string data = "Pokračovat"
+   [18]
+    1 string data = "Ukončit hru"

@@ -1,0 +1,100 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "NecromancerLair_EN"
+ 1 string locCategoryId = "WraithIsland/NecromancerLair"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (43 items)
+   0 int size = 43
+   [0]
+    1 string data = "So THAT's what all the ruckus was!"
+   [1]
+    1 string data = "!!!"
+   [2]
+    1 string data = "And what brings you to my delectable estate?"
+   [3]
+    1 string data = "The Dweller cursed our friend. We need a soul stone."
+   [4]
+    1 string data = "Oh?"
+   [5]
+    1 string data = "And I suppose I should simply give you one, then?"
+   [6]
+    1 string data = "I have a better idea!"
+   [7]
+    1 string data = "How about the three of you join my army... permanently?"
+   [8]
+    1 string data = "In your dreams!"
+   [9]
+    1 string data = "Oh, look at you, taking courteous erotesis all seriously..."
+   [10]
+    1 string data = "You did barge in here uninvited and cause irreparable damage to my property, did you not?"
+   [11]
+    1 string data = "Seems only fair you would compensate me for my troubles."
+   [12]
+    1 string data = "Don't get too confident, they are fully-trained Solstice Warriors."
+   [13]
+    1 string data = "Ha! This is getting interesting!"
+   [14]
+    1 string data = "Are you like these Solena and Luan wannabes who thought they would ascend by fighting me?"
+   [15]
+    1 string data = "What?"
+   [16]
+    1 string data = "An irrelevant matter, much like your very selves."
+   [17]
+    1 string data = "Let us begin. And don't worry, you won't stay dead for long!"
+   [18]
+    1 string data = "Gah..."
+   [19]
+    1 string data = "(Children, I swear...)"
+   [20]
+    1 string data = "(I'm not about to die over a stupid rock!)"
+   [21]
+    1 string data = "..."
+   [22]
+    1 string data = "I yield... for now."
+   [23]
+    1 string data = "Here's your soul stone. "
+   [24]
+    1 string data = "Now go away!"
+   [25]
+    1 string data = "..."
+   [26]
+    1 string data = "We..."
+   [27]
+    1 string data = "WHAT NOW!?"
+   [28]
+    1 string data = "We also need a green flame, otherwise the Ferryman won't take us back..."
+   [29]
+    1 string data = "(...)"
+   [30]
+    1 string data = "You... do want us to go, don't you?"
+   [31]
+    1 string data = "(The nerve...)"
+   [32]
+    1 string data = "(THE DISRESPECT!!!)"
+   [33]
+    1 string data = "Grab a bottle from my desk, then GET OFF OF MY ESTATE!"
+   [34]
+    1 string data = "Count your blessings. If we meet again, it won't be a simple three-versus-one."
+   [35]
+    1 string data = "Three-versus-one? But you summoned-"
+   [36]
+    1 string data = "LEAVE!!!"
+   [37]
+    1 string data = "We got what we needed, let's hurry back."
+   [38]
+    1 string data = "Back to Garl. Finally."
+   [39]
+    1 string data = "Press <button="Cancel"> to throw the Graplou."
+   [40]
+    1 string data = "It can attach to grapple points, enemies, and climbable surfaces."
+   [41]
+    1 string data = "Press <button="Cancel"> to throw the Graplou."
+   [42]
+    1 string data = "It can attach to grapple points, enemies, and climbable surfaces."

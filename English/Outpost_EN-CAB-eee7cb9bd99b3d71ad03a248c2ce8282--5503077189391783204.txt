@@ -1,0 +1,316 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Outpost_EN"
+ 1 string locCategoryId = "SleeperIsland/Outpost"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (151 items)
+   0 int size = 151
+   [0]
+    1 string data = "THE ELDER HASN'T RETURNED!"
+   [1]
+    1 string data = "<color=bad>MALKOMUD</color> WILL KILL US ALL!"
+   [2]
+    1 string data = "RUN!!!"
+   [3]
+    1 string data = "Who are you? Have you come to save us?"
+   [4]
+    1 string data = "Uh..."
+   [5]
+    1 string data = "Of course, they're Solstice Warriors!"
+   [6]
+    1 string data = "Garl!"
+   [7]
+    1 string data = "It's true, no? We should help if we can!"
+   [8]
+    1 string data = "What's the matter?"
+   [9]
+    1 string data = "It's Malkomud, the earth elemental wizard..."
+   [10]
+    1 string data = "We're just a peaceful little outpost, taking care of the mine's wind tunnels."
+   [11]
+    1 string data = "It's our job, it is, to keep them unobstructed, so that the wind can play the melody for <color=bad>The Sleeper</color>."
+   [12]
+    1 string data = "!!"
+   [13]
+    1 string data = "But now Malkomud has taken over the mines, so we can't go in anymore."
+   [14]
+    1 string data = "And if The Sleeper wakes..."
+   [15]
+    1 string data = "What's more, he clogged the tunnel powering the great elevator's windmill, so we can't even go to <color=location>Brisk</color> to ask for help..."
+   [16]
+    1 string data = "If this continues, Malkomud's minions will start pouring out of the mines, and..."
+   [17]
+    1 string data = "And..."
+   [18]
+    1 string data = "It's okay, we'll see what we can do. Anything else you can tell us?"
+   [19]
+    1 string data = "The... the elder went in to try and stop him, but it's been so long..."
+   [20]
+    1 string data = "Where's the entrance?"
+   [21]
+    1 string data = "Just up there, at the top of the outpost. But Malkomud is very powerful..."
+   [22]
+    1 string data = "We'll find your elder, don't worry."
+   [23]
+    1 string data = "One evil wizard, going down!"
+   [24]
+    1 string data = "Oh, what luck! Thank you!"
+   [25]
+    1 string data = "EVERYONE, STOP PANICKING!"
+   [26]
+    1 string data = "SOLSTICE WARRIORS ARE HERE TO SOLVE EVERYTHING!"
+   [27]
+    1 string data = "THE ELDER WILL RETURN!"
+   [28]
+    1 string data = "MALKOMUD WON'T KILL US ALL!"
+   [29]
+    1 string data = "YAY!"
+   [30]
+    1 string data = "..."
+   [31]
+    1 string data = "I'll let you get on with it then. There's still lots for me to learn here!"
+   [32]
+    1 string data = "The Solstice Warriors have returned!"
+   [33]
+    1 string data = "Has the threat been contained?"
+   [34]
+    1 string data = "Malkomud agreed to stop clogging the wind tunnels."
+   [35]
+    1 string data = "We are safe!"
+   [36]
+    1 string data = "Hurray!"
+   [37]
+    1 string data = "You should have mentioned your role in this."
+   [38]
+    1 string data = "I..."
+   [39]
+    1 string data = "Apologies, brave monk. We struggle indeed in giving proper bearings to one of his... ilk."
+   [40]
+    1 string data = "Well, you all better be more respectful in the future. "
+   [41]
+    1 string data = "We might not be here to save you if this happens again."
+   [42]
+    1 string data = "..."
+   [43]
+    1 string data = "Understood. You have our word, and our thanks."
+   [44]
+    1 string data = "Is there anything we can do to repay you?"
+   [45]
+    1 string data = "We're looking for a crew of adventurers who might help us sail to another island."
+   [46]
+    1 string data = "Oh! In that case, you will want to visit the Port Town of Brisk!"
+   [47]
+    1 string data = "Feel free to use the big lift to the south. You're the ones who fixed it, after all."
+   [48]
+    1 string data = "A port town, surely we can find a ship there!"
+   [49]
+    1 string data = "It's got all sorts of people. You're bound to find what you're looking for."
+   [50]
+    1 string data = "Oh, I can't wait, there might even be a tavern!"
+   [51]
+    1 string data = "Oh, the irony..."
+   [52]
+    1 string data = "What's the matter?"
+   [53]
+    1 string data = "I need my tools to fix this busted door, but they're in the back room, and I can't get through!"
+   [54]
+    1 string data = "The lever on the other side seems to work fine though. If only there was another way to enter..."
+   [55]
+    1 string data = "Hey, good job, kid!"
+   [56]
+    1 string data = "Oh, and you didn't even open my chests? Very admirable! "
+   [57]
+    1 string data = "But you were a great help. Please help yourself to their contents."
+   [58]
+    1 string data = "Were my chests okay?"
+   [59]
+    1 string data = "..."
+   [60]
+    1 string data = "Haha, just kidding! It's the least I could offer as payment."
+   [61]
+    1 string data = "Thanks for the help!"
+   [62]
+    1 string data = "The water pump stopped functioning after Malkomud clogged the wind tunnels. There's no more water in the well!"
+   [63]
+    1 string data = "I really want to take a bath! Will you go in the mines to help?"
+   [64]
+    1 string data = "I really want to take a bath!"
+   [65]
+    1 string data = "The pump is in there, probably just needs to be restarted..."
+   [66]
+    1 string data = "Would you mind going?"
+   [67]
+    1 string data = "Hey, you did it!"
+   [68]
+    1 string data = "Thanks, I really needed that. Here, for your troubles."
+   [69]
+    1 string data = "Welcome to the Sleepy Mason! Would you like to rest in our geothermal room?"
+   [70]
+    1 string data = "Yes"
+   [71]
+    1 string data = "No"
+   [72]
+    1 string data = "Come back anytime!"
+   [73]
+    1 string data = "Heading out? Have a look at my equipment and food!"
+   [74]
+    1 string data = "So much to learn here..."
+   [75]
+    1 string data = "Thank you again for helping with Malkomud. I promise we will do better from now on. "
+   [76]
+    1 string data = "If you want to go to Brisk, you can use the big flying lift to the south of the village."
+   [77]
+    1 string data = "Good day, Solstice Warriors. Everything has been going well with Malkomud since you helped us."
+   [78]
+    1 string data = "SOLSTICE WARRIORS! There you are!"
+   [79]
+    1 string data = "??"
+   [80]
+    1 string data = "The Sleeper woke up and flew off! We have no idea where it is now, but it appears we are all doomed!"
+   [81]
+    1 string data = "Malkomud promised it wasn't one of his mischiefs, and that you two were involved. Is that true?"
+   [82]
+    1 string data = "Oh, yes, you have nothing to fear. Wentworth is friendly now."
+   [83]
+    1 string data = "Wentworth? "
+   [84]
+    1 string data = "The Sleeper has a name now."
+   [85]
+    1 string data = "Oh? Very well, if you say so."
+   [86]
+    1 string data = "Are you the Solstice Warriors? I really hope you can defeat Malkomud..."
+   [87]
+    1 string data = "Thank you so much for helping with Malkomud. We will definitely watch our tongues in the future..."
+   [88]
+    1 string data = "We're still not perfect when it comes to communicating with Malkomud, but at least everyone is trying."
+   [89]
+    1 string data = "I can't sleep since Malkomud took over the mines. I fear his minions might attack the town at any moment!"
+   [90]
+    1 string data = "Oh, thank you, I can finally get some sleep!"
+   [91]
+    1 string data = "When I heard The Sleeper was gone, I thought it was the end of the world, but nothing has happened since."
+   [92]
+    1 string data = "This whole Malkomud business is so annoying, I just want to get back to work!"
+   [93]
+    1 string data = "It's good to be back in business. Servicing the wind tunnels is demanding, but teal amber is very valuable."
+   [94]
+    1 string data = "It's great that The Sleeper woke peacefully! Time to find new purpose, I suppose."
+   [95]
+    1 string data = "If the tunnels keep getting clogged, the wind will stop playing the melody through the mountain. If The Sleeper wakes up, we are doomed!"
+   [96]
+    1 string data = "Hope you're enjoying your time in our little outpost. Make sure you sleep at the inn if you haven't, geothermal rooms are something else!"
+   [97]
+    1 string data = "Just before The Sleeper left, there was a mouth-watering smell like you wouldn't believe!"
+   [98]
+    1 string data = "Made me want to eat some bread, so I did that, but it didn't come remotely close to what I was hoping for."
+   [99]
+    1 string data = "Be careful in the mines, apparently someone spotted a monstrous salamander..."
+   [100]
+    1 string data = "So the salamander was Malkomud's pet? What do you mean it just wanted to play?"
+   [101]
+    1 string data = "I got to play with Rockie. She's so sweet!"
+   [102]
+    1 string data = "Since the elder went in, the elevator hasn't returned. I suppose one would have to just jump in..."
+   [103]
+    1 string data = "So glad to be done with this ordeal, I can't wait to craft teal amber baubles again."
+   [104]
+    1 string data = "Our elder has been in a panic since The Sleeper woke up. "
+   [105]
+    1 string data = "Thank you for talking to the elder, I was beginning to worry about him."
+   [106]
+    1 string data = "I can't let my kids go outside with everything going on, it's too dangerous."
+   [107]
+    1 string data = "Things are finally back to normal. I'm just glad my kids are safe."
+   [108]
+    1 string data = "My kids play with Malkomud now. We really judged him too quickly, I feel like we shouldn't frown upon magic so much anymore..."
+   [109]
+    1 string data = "Even with all the panic going on, my brother won't come out of his studio. All he does is paint all day long..."
+   [110]
+    1 string data = "My brother finally finished a painting, I can't believe it!!"
+   [111]
+    1 string data = "My brother is still looking for his muse."
+   [112]
+    1 string data = "This will be my best work ever!"
+   [113]
+    1 string data = "I will show the world that us Molekin can do more than teal amber carving, just wait!"
+   [114]
+    1 string data = "My best work so far, but I must keep improving."
+   [115]
+    1 string data = "What? There is a model in Brisk who wants her essence captured?"
+   [116]
+    1 string data = "That's exactly the kind of inspiration I was looking for! "
+   [117]
+    1 string data = "I'm leaving immediately!"
+   [118]
+    1 string data = "Zzzzzzzzz... must... activate... mill... zzzzzzzzz..."
+   [119]
+    1 string data = "Why is everyone angry at Malkomud? I don't get it..."
+   [120]
+    1 string data = "Malkomud took hide and seek a little too seriously if you ask me!"
+   [121]
+    1 string data = "When I saw The Sleeper fly off towards the volcano, I wasn't afraid, I just thought it was cool!"
+   [122]
+    1 string data = "Are you really Solstice Warriors? That's so cool!"
+   [123]
+    1 string data = "Is it true you thought Malkomud's pet was a monster? Haha!"
+   [124]
+    1 string data = "Mom lets us play with Malkomud now! Rockie is really nice, too!"
+   [125]
+    1 string data = "When I grow up, I want to work in the ground like my parents."
+   [126]
+    1 string data = "Look, I made a fort like Malkomud!"
+   [127]
+    1 string data = "Malkomud told me what happened with The Sleeper, so I'm not afraid like the others."
+   [128]
+    1 string data = "Everyone was running around just a moment ago. Grown-ups are weird."
+   [129]
+    1 string data = "This is the best fort we've built so far. I really like it!"
+   [130]
+    1 string data = "I wonder what Malkomud would think of the fort..."
+   [131]
+    1 string data = "Mom says we can't go out. But it's boring in here, there's nothing to do!"
+   [132]
+    1 string data = "This is my favorite spot where to play. I like it because the view is pretty."
+   [133]
+    1 string data = "Malkomud says that the amazing smell was from a kitchen he built in the volcano mountain for his friend to make a giant bread. Pretty cool, right?"
+   [134]
+    1 string data = "Hey, you're the Solstice Warriors who helped us!"
+   [135]
+    1 string data = "Now that I have my tools back, I can remove the rock that was blocking the road to the fishing lake."
+   [136]
+    1 string data = "Hold on, it won't take long!"
+   [137]
+    1 string data = "There, the path is now clear!"
+   [138]
+    1 string data = "I hope this is of some help to you. Thanks again!"
+   [139]
+    1 string data = "You know what would be nice? A place to relax in a hot pool of water without being surrounded by people who engage in stress. "
+   [140]
+    1 string data = "Mirth, you say? We absolutely must do something with those hot springs! I will go right now!"
+   [141]
+    1 string data = "You can now relax at the spa in Mirth!"
+   [142]
+    1 string data = "Who knows what benefits may come of relieving some stress?"
+   [143]
+    1 string data = "It's terrible what happened in Brisk. We're sending a team to help as soon as we finish preparing!"
+   [144]
+    1 string data = "Some tools used for mining."
+   [145]
+    1 string data = "An expertly crafted table."
+   [146]
+    1 string data = "Handmade pots."
+   [147]
+    1 string data = "Hot!"
+   [148]
+    1 string data = "This device looks like a pump of sorts."
+   [149]
+    1 string data = "If this sculpture represents something, it is probably something abstract..."
+   [150]
+    1 string data = "The view dives into the horizon."

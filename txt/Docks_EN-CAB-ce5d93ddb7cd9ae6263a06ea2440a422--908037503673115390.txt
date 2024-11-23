@@ -1,0 +1,74 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Docks_EN"
+ 1 string locCategoryId = "WraithIsland/Docks"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (30 items)
+   0 int size = 30
+   [0]
+    1 string data = "Tady je ale temno..."
+   [1]
+    1 string data = "Vše je to součástí zdejšího prokletí!"
+   [2]
+    1 string data = "Ředitel Moraine tomu říká <color=bad>'Noční závoj'</color>. Je to stará Karnimantova kletba, jež zabraňuje tomu, aby se na ostrov dostalo jakékoliv světlo."
+   [3]
+    1 string data = "Takže i poté, co porazíte Přiživovače..."
+   [4]
+    1 string data = "Jo, tohle nejde spravit. Ale hej, i to je život!"
+   [5]
+    1 string data = "Když už jsme u toho, <color=location>město Lucent</color> by mělo být kousek před náma."
+   [6]
+    1 string data = "Dáme si voraz v místním hostinci. Stejně nemůžem odejít, dokud si nevyřídíte svý věci."
+   [7]
+    1 string data = "Yolando, proč jste sem s námi šli, když jste věděli, jak je to tu nebezpečné?"
+   [8]
+    1 string data = "Věříme kapitánce a zdá se, že kapitánka věří vám všem."
+   [9]
+    1 string data = "Jestli má naše dobrodružství skončit tady, budiž. Zůstaneme věrní až do konce s tím, že jsme viděli o něco víc ze světa."
+   [10]
+    1 string data = "Tak jest, Keenathane!"
+   [11]
+    1 string data = "Hej, měli byste se za námi stavit v hostinci, zahrajeme trochu muziky."
+   [12]
+    1 string data = "Vy jste hudebníci!?"
+   [13]
+    1 string data = "Aye! Kapitánka po nás chce, abychom se cvičili v rozveselování míst, která navštívíme."
+   [14]
+    1 string data = "..."
+   [15]
+    1 string data = "Tak tedy kupředu!"
+   [16]
+    1 string data = "Valtraidovo pozvání zní zábavně. Co kdybychom šli do hostince a na chvíli si odfrkli?"
+   [17]
+    1 string data = "Hádám, že jsme dorazili předčasně, ale..."
+   [18]
+    1 string data = "Nebuďte na sebe tak tvrdí! Už jste toho tolik dokázali."
+   [19]
+    1 string data = "Navíc tamto s očistou, boj s Přiživovačem musí být pěkná makačka."
+   [20]
+    1 string data = "Klidně byste na to mohli být úplně odpočatí, nemyslíte?"
+   [21]
+    1 string data = "Garl má pravdu. Měli bychom počkat na Moraina a být připraveni."
+   [22]
+    1 string data = "Tak jo! Pojďme do Lucentu!"
+   [23]
+    1 string data = "Město Lucent <sprite="dialog-generic-icons" name="arrow-east">\nMolo <sprite="dialog-generic-icons" name="arrow-west">"
+   [24]
+    1 string data = "Připraveni vyplout?"
+   [25]
+    1 string data = "Ano"
+   [26]
+    1 string data = "Ne"
+   [27]
+    1 string data = "Chcete se vrátit do Svěžína?"
+   [28]
+    1 string data = "Ano"
+   [29]
+    1 string data = "Ne"

@@ -1,0 +1,256 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "BriskRuin_EN"
+ 1 string locCategoryId = "SleeperIsland/BriskRuin"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (121 items)
+   0 int size = 121
+   [0]
+    1 string data = "The Dweller crashed right in the middle of town..."
+   [1]
+    1 string data = "Seraï's over there!"
+   [2]
+    1 string data = "Little help here?"
+   [3]
+    1 string data = "These things are tough."
+   [4]
+    1 string data = "The Dweller of Strife really must be something else."
+   [5]
+    1 string data = "And no eclipse anytime soon..."
+   [6]
+    1 string data = "Let's find the Dweller."
+   [7]
+    1 string data = "It's... gone?"
+   [8]
+    1 string data = "All those innocent people..."
+   [9]
+    1 string data = "..."
+   [10]
+    1 string data = "How big IS this thing?"
+   [11]
+    1 string data = "Hey, you're Solstice Warriors, aren't you?"
+   [12]
+    1 string data = "We've cleared out the monsters. It's over for now."
+   [13]
+    1 string data = "The big one flew away!"
+   [14]
+    1 string data = "It might come back!"
+   [15]
+    1 string data = "Waaaaaah!"
+   [16]
+    1 string data = "Don't worry about it, my friends here are stronger than the big monster!"
+   [17]
+    1 string data = "Really?"
+   [18]
+    1 string data = "Totally!"
+   [19]
+    1 string data = "Waaaaaah!"
+   [20]
+    1 string data = "It's safe here for now. Please gather at the docks with the others!"
+   [21]
+    1 string data = "We're not giving up on you. We'll figure this out, I promise!"
+   [22]
+    1 string data = "Th... thank you..."
+   [23]
+    1 string data = "I hope my brother is okay..."
+   [24]
+    1 string data = "We can't stay here! Where are we going to go?"
+   [25]
+    1 string data = "We need to find new lives for ourselves!"
+   [26]
+    1 string data = "I was born here, and I will die here, just like my ancestors!"
+   [27]
+    1 string data = "We can rebuild!"
+   [28]
+    1 string data = "I'd rather move somewhere new!"
+   [29]
+    1 string data = "Waaaaaaaah!"
+   [30]
+    1 string data = "What should we do here? Clearly some of them need to move on, but..."
+   [31]
+    1 string data = "They're too many for Lucent... And that town already has its own healing to worry about, anyway."
+   [32]
+    1 string data = "Yolande, are there any other places you can think of?"
+   [33]
+    1 string data = "Aye, reckon there's one! Keenathan?"
+   [34]
+    1 string data = "The small island to the northeast? I concur."
+   [35]
+    1 string data = "Oh, the unclaimed one that's filled with pine trees? That could work!"
+   [36]
+    1 string data = "We know the way, but the Oakum Skiff won't get us there."
+   [37]
+    1 string data = "Gotta hit the open sea for that, so we'll need a proper ship."
+   [38]
+    1 string data = "Okay, that's a good lead! Maybe someone has a ship we can borrow."
+   [39]
+    1 string data = "Listen, bud, practicality is my middle name, but this here port is totalled!"
+   [40]
+    1 string data = "That leaves but one option, it would seem."
+   [41]
+    1 string data = "Oh, I like where this is going, pal!"
+   [42]
+    1 string data = "Well then, speak up, tall guy!"
+   [43]
+    1 string data = "We claim The Vespertine!"
+   [44]
+    1 string data = "That's a negative, matey. Ain't no pulling that trigger without the Captain's say so!"
+   [45]
+    1 string data = "Keenathan is right. The time has come."
+   [46]
+    1 string data = "Ahoy, Captain! We thought ye gone!"
+   [47]
+    1 string data = "..."
+   [48]
+    1 string data = "Will this ship be good enough to carry settlers to the island Yolande mentioned?"
+   [49]
+    1 string data = "Look alive, son! The Vespertine could even sail the Sea ov-"
+   [50]
+    1 string data = "YOLANDE!"
+   [51]
+    1 string data = "Apologies, Captain."
+   [52]
+    1 string data = "It'll take us there, guaranteed!"
+   [53]
+    1 string data = "Okay, so what's the plan? The boat is cursed, isn't it?"
+   [54]
+    1 string data = "In fact, that's the easy part!"
+   [55]
+    1 string data = "All we gotta do is get on board, meet the owner, and let the Captain buy the ship using the Coin of Undeath Accord y'all fetched earlier."
+   [56]
+    1 string data = "(...)"
+   [57]
+    1 string data = "A sound plan!"
+   [58]
+    1 string data = "Without even breaking a sweat!"
+   [59]
+    1 string data = "*ahem* We'll... see about that..."
+   [60]
+    1 string data = "For now, we hike to the peninsula and wait."
+   [61]
+    1 string data = "As dusk falls, The Vespertine will appear for but a brief moment."
+   [62]
+    1 string data = "The window is short, so we must jump aboard without hesitation."
+   [63]
+    1 string data = "All in a day's work, Captain!"
+   [64]
+    1 string data = "So pumped for this!"
+   [65]
+    1 string data = "The three of you are not coming with us."
+   [66]
+    1 string data = "Captain?"
+   [67]
+    1 string data = "If we don't make it back, you must find another way to help the villagers find their new land."
+   [68]
+    1 string data = "No way, we've been prepping for this forever!"
+   [69]
+    1 string data = "Our end goal remains the same. But for this step, I need you to stay safe. Can you do that for me?"
+   [70]
+    1 string data = "I will do as the Captain commands, or my name is not Keenathan!"
+   [71]
+    1 string data = "Aye aye, Captain, can we t'least see ye safely to the peninsula?"
+   [72]
+    1 string data = "..."
+   [73]
+    1 string data = "Of course."
+   [74]
+    1 string data = "Let me know when you are ready."
+   [75]
+    1 string data = "Are you ready to leave?"
+   [76]
+    1 string data = "Yes"
+   [77]
+    1 string data = "No"
+   [78]
+    1 string data = "There is a path amidst the rubble. Exit Brisk?"
+   [79]
+    1 string data = "Yes"
+   [80]
+    1 string data = "No"
+   [81]
+    1 string data = "Please don't eat me please don't eat me please don't eat me-"
+   [82]
+    1 string data = "Hey, you're safe now. Find Yolande at the docks, her group will keep you safe."
+   [83]
+    1 string data = "Solstice Warriors? Luana be praised! Please help the others..."
+   [84]
+    1 string data = "Thanks again for saving me!"
+   [85]
+    1 string data = "I almost got crushed when everything crumbled! Thank you so much for getting me out."
+   [86]
+    1 string data = "Here, it's not much, but I hope it can help."
+   [87]
+    1 string data = "You really saved the day, thank you..."
+   [88]
+    1 string data = "Thank you, I was certain I was going to die here today..."
+   [89]
+    1 string data = "Can you get to the docks on your own? People are gathering there while we take care of the monsters."
+   [90]
+    1 string data = "I... yes, I can make it. Thank you, I wish I had more to offer."
+   [91]
+    1 string data = "It was scary earlier, I'm glad you came when you did..."
+   [92]
+    1 string data = "I'm stuck behind this big block that fell. Can you move it?"
+   [93]
+    1 string data = "Oof, that was close! I should head for the docks."
+   [94]
+    1 string data = "Thank you so much. Here."
+   [95]
+    1 string data = "I don't miss being stuck behind that block!"
+   [96]
+    1 string data = "We lost almost everything in the cataclysm, but if there is anything you need to buy for the journey, we'll use the money to rebuild."
+   [97]
+    1 string data = "Solstice Warriors! I wanted to thank you again for saving me earlier! "
+   [98]
+    1 string data = "I heard you helped villagers too. Please accept this small reward."
+   [99]
+    1 string data = "Truly heroic what you did out there! Here, take this as a reward for what you've done."
+   [100]
+    1 string data = "It's a shame we couldn't help any other villagers... We're so powerless..."
+   [101]
+    1 string data = "Be safe, Solstice Warriors!"
+   [102]
+    1 string data = "Don't ya worry 'bout us, we can fend fer ourselves!"
+   [103]
+    1 string data = "Need to do some shoppin'? We can go back to Wraith Island real quick if ye like."
+   [104]
+    1 string data = "Yes"
+   [105]
+    1 string data = "No"
+   [106]
+    1 string data = "Hey, pal! Any other villager ya find, just send 'em right to us!"
+   [107]
+    1 string data = "At last, The Vespertine..."
+   [108]
+    1 string data = "We will protect these villagers, or my name is not Keenathan!"
+   [109]
+    1 string data = "It is truly exciting to be nearing the payoff from all our attempts to get the Coin of Undeath Accord! It will be a transaction for the ages!"
+   [110]
+    1 string data = "..."
+   [111]
+    1 string data = "That was too scary."
+   [112]
+    1 string data = "We have no home anymore... Oh, what to do..."
+   [113]
+    1 string data = "I lost everything... I can't stay here anymore."
+   [114]
+    1 string data = "I am staying. We will rebuild, and make Brisk even better than it used to be!"
+   [115]
+    1 string data = "All gone in an instant... "
+   [116]
+    1 string data = "But Brisk is strong. We will rebuild!"
+   [117]
+    1 string data = "I still can't believe what happened, it was so sudden..."
+   [118]
+    1 string data = "..."
+   [119]
+    1 string data = "At least we have our work cut out for us..."
+   [120]
+    1 string data = "Brisk is not all lost, we just need to work together!"

@@ -1,0 +1,134 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ElderMistTrials_EN"
+ 1 string locCategoryId = "EvermistIsland/ElderMistTrials"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (60 items)
+   0 int size = 60
+   [0]
+    1 string data = "Welcome to the Elder Mist Trials."
+   [1]
+    1 string data = "In order to pass, you must bring three big artifacts together by completing their associated challenges."
+   [2]
+    1 string data = "The monsters that will try to stop you are immune to physical attacks, and <color=magic>the use of offensive spells is prohibited</color>."
+   [3]
+    1 string data = "What? But how, then?"
+   [4]
+    1 string data = "Hoo! That is why you must use magic without using magic!"
+   [5]
+    1 string data = "The trials await. Godspeed!"
+   [6]
+    1 string data = "That attack did nothing!"
+   [7]
+    1 string data = "And we can't use spells here..."
+   [8]
+    1 string data = "..."
+   [9]
+    1 string data = "Look! Some <color=magic>little orbs</color> appeared when you attacked."
+   [10]
+    1 string data = "Maybe that's “Live Mana”?"
+   [11]
+    1 string data = "Could be, I feel a kind of pull towards them."
+   [12]
+    1 string data = "Might as well lean into it. Let's see."
+   [13]
+    1 string data = "Whoa!!!"
+   [14]
+    1 string data = "It worked! How does it feel?"
+   [15]
+    1 string data = "Like power! So if I attack, it should do magic damage now."
+   [16]
+    1 string data = "Alright! I'm totally trying it next!"
+   [17]
+    1 string data = "<color=magic>Boosting</color> has been unlocked!"
+   [18]
+    1 string data = "Regular attacks will now generate Live Mana. Hold <button="Combat_Boost"> and press <button=Interact"> to absorb a charge and <color=magic>boost</color>!"
+   [19]
+    1 string data = "Up to three boosting charges can be stacked, each adding a portion of your character's Magic Attack stat to their next action to increase its power."
+   [20]
+    1 string data = "In the case of boosting regular attacks, the character's innate magic damage type (if they have one) is also added on top of their weapon's damage type."
+   [21]
+    1 string data = "Whether you are dealing with an intricate lock pattern, need to make your next healing spell really count, or just want to deal more damage, remember to boost!"
+   [22]
+    1 string data = "Hoo hoo hoo..."
+   [23]
+    1 string data = "The preparations are complete. It seems you understand the power of Live Mana."
+   [24]
+    1 string data = "But can you master it? We shall see!"
+   [25]
+    1 string data = "The <color=magic>use of spells is now allowed</color> again."
+   [26]
+    1 string data = "Face me, Children of the Solstice!"
+   [27]
+    1 string data = "How formidable!"
+   [28]
+    1 string data = "Hoo! A bright future awaits you indeed."
+   [29]
+    1 string data = "[MAINCHAR] and [OFFCHAR], I name you <color=good>Solstice Warriors</color>!"
+   [30]
+    1 string data = "We did it, Valere!"
+   [31]
+    1 string data = "Finally!"
+   [32]
+    1 string data = "Congratulations, guys!"
+   [33]
+    1 string data = "I have consulted the Mists of Time during your trials."
+   [34]
+    1 string data = "When you are ready to leave this place, find me back at the Sacred Pond, and I will tell you of your respective prophecies."
+   [35]
+    1 string data = "Don't take too long now. Hoo!"
+   [36]
+    1 string data = "To get this artifact piece, you will need to answer three questions correctly. Let's see how well you learned."
+   [37]
+    1 string data = "Of these two actions, which one regenerates MP?"
+   [38]
+    1 string data = "Attacking"
+   [39]
+    1 string data = "Casting a spell"
+   [40]
+    1 string data = "Wrong! The correct answer was: Attacking."
+   [41]
+    1 string data = "What is the name of Mooncradle's "school in the sky?""
+   [42]
+    1 string data = "Zenith Academy"
+   [43]
+    1 string data = "Solstice Elementary"
+   [44]
+    1 string data = "Wrong! The correct answer was: Zenith Academy."
+   [45]
+    1 string data = "One very important Solstice Warrior duty is to destroy Dwellers, who become vulnerable during which natural phenomenon?"
+   [46]
+    1 string data = "Equinox"
+   [47]
+    1 string data = "Eclipse"
+   [48]
+    1 string data = "Solstice"
+   [49]
+    1 string data = "Wrong! The correct answer was: Eclipse."
+   [50]
+    1 string data = "This is our last chance to prepare. Do you feel ready?"
+   [51]
+    1 string data = "Yes!"
+   [52]
+    1 string data = "Wait"
+   [53]
+    1 string data = "Return to Mountain Trail?"
+   [54]
+    1 string data = "Yes"
+   [55]
+    1 string data = "No"
+   [56]
+    1 string data = "Hoo hoo hoo!"
+   [57]
+    1 string data = "Strong you are indeed!"
+   [58]
+    1 string data = "May these serve you well."
+   [59]
+    1 string data = "Godspeed, [MAINCHAR_GODNAME] and [OFFCHAR_GODNAME]!"

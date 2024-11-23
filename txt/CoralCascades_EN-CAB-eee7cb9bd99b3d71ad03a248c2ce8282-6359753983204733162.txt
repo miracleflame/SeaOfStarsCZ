@@ -1,0 +1,28 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "CoralCascades_EN"
+ 1 string locCategoryId = "SleeperIsland/CoralCascades"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (7 items)
+   0 int size = 7
+   [0]
+    1 string data = "Eh, málokdy mě tu někdo navštíví. Omluvte ten nepořádek. "
+   [1]
+    1 string data = "Přístavní město Svěžín <sprite="dialog-generic-icons" name="arrow-east"> "
+   [2]
+    1 string data = "Hledáte loď? Vydejte se do přístavního města Svěžín a vyhledejte posádku kapitánky Klii'šaë!"
+   [3]
+    1 string data = "Bárka, loď, bárka, loď, bárka, loď, bárka, loď, Svěžín!"
+   [4]
+    1 string data = "Tady není žádná loď. Raději se vydejte do Svěžínu na východě!"
+   [5]
+    1 string data = "Jestli hledáte loď, už jste skoro tam."
+   [6]
+    1 string data = "Najděte nás v přístavu ve Svěžíně!"

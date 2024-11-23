@@ -1,0 +1,142 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ShallowMire_EN"
+ 1 string locCategoryId = "SleeperIsland/ShallowMire"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (64 items)
+   0 int size = 64
+   [0]
+    1 string data = "Užijte si to sluníčko, přátelé, na Přízračném ostrově je prý strašně ponuro!"
+   [1]
+    1 string data = "Jo, s tím bude mít co do činění stará dobrá duší Přiživovačka."
+   [2]
+    1 string data = "..."
+   [3]
+    1 string data = "Nic, co byste vy, Slunovratníci, nespravili, žano."
+   [4]
+    1 string data = "V to aspoň doufám... Nerada bych se nakonec tama zaplantala nafurt!"
+   [5]
+    1 string data = "Co tím myslíš?"
+   [6]
+    1 string data = "..."
+   [7]
+    1 string data = "Vy neznáte tamletu o jednosměrný cestě?"
+   [8]
+    1 string data = "Nuže, tu máte další, co jste ještě nikdy neslyšali."
+   [9]
+    1 string data = "Nikdo, kdo se vypravil na Přízračný ostrov, se stamaď nikdá nevrátil!"
+   [10]
+    1 string data = "..."
+   [11]
+    1 string data = "Proč ne?"
+   [12]
+    1 string data = "Keenathane?"
+   [13]
+    1 string data = "Říká se, že <color=bad>Přiživovačka žalu</color> má schopnost ovládat mysl."
+   [14]
+    1 string data = "Poté, co lidé vkročí na Přízračný ostrov, jsou zakleti, aby tam zůstali do konce svých životů."
+   [15]
+    1 string data = "A život na Přízračném ostrově je... ze dne na den, protože nikdo neví, na koho se Přiživovačka vrhne příště."
+   [16]
+    1 string data = "Ona loví?"
+   [17]
+    1 string data = "Tydle věci se krmí, to jste neslyšali?"
+   [18]
+    1 string data = "Aye, tu a tam Přiživovačka zapěje svým <color=bad>proklatým hlasem</color> a přiměje jednoho z obyvatel Přízračného ostrova, aby náměsíčně odkráčel do jejího doupěte a už se nikdy nevrátil..."
+   [19]
+    1 string data = "..."
+   [20]
+    1 string data = "Dobrá, to je..."
+   [21]
+    1 string data = "Ale proč by tam tedy lidé vůbec chodili?"
+   [22]
+    1 string data = "Co já vím. Zvědavost, nuda, touha uniknout?"
+   [23]
+    1 string data = "Každopádně, na to se budete moci brzy zeptat."
+   [24]
+    1 string data = "Vy jste o tom všem věděli?"
+   [25]
+    1 string data = "Žádné strachy, Garle. K tomuto jsme byli vycvičeni."
+   [26]
+    1 string data = "A ředitel je pověřen vedením mise. Už se vypořádal s mnoha Přiživovači."
+   [27]
+    1 string data = "Erlina a Brugaves tam budou taky a ti jsou mnohem silnější než my."
+   [28]
+    1 string data = "Jsem si jistý, že to zvládnete, jen... mi z toho běhá mráz po zádech."
+   [29]
+    1 string data = "Díky oslabení ze zatmění to půjde rychle. A nezapomeň, že jde o posledního z Přiživovačů!"
+   [30]
+    1 string data = "..."
+   [31]
+    1 string data = "To znamená, že budete zproštěni svých povinností! Můžeme cestovat po světě!"
+   [32]
+    1 string data = "Ahoy, kapitánko! Slunce právě zapadá."
+   [33]
+    1 string data = "..."
+   [34]
+    1 string data = "Ani nemrkejte, jinak to prošvihnete."
+   [35]
+    1 string data = "!!!"
+   [36]
+    1 string data = "Pohleďte, legendární loď duchů, jež se zjevuje za soumraku. <color=bad>Večernice</color>!"
+   [37]
+    1 string data = "Slušná kořist..."
+   [38]
+    1 string data = "Večernice bude jednoho dne naše, jakože se Keenathan jmenuju!"
+   [39]
+    1 string data = "Všeho do času, braši. Pro tuto chvíli se blížíme k molu."
+   [40]
+    1 string data = "Hele, tak přece letíme podruhé. To je prima, co?"
+   [41]
+    1 string data = "Měl bys šetřit silami, Garle."
+   [42]
+    1 string data = "Jsem v pohodě, už to nebolí."
+   [43]
+    1 string data = "Jenom se mi chce strašně spááát."
+   [44]
+    1 string data = "Jsme s tebou až do konce."
+   [45]
+    1 string data = "Já vím. Mám to štěstí."
+   [46]
+    1 string data = "Hele, slíbíte mi něco?"
+   [47]
+    1 string data = "Cokoliv."
+   [48]
+    1 string data = "Chci, abyste tento dárek využili."
+   [49]
+    1 string data = "Proplujete přes <color=magic>Moře hvězd</color>, ať už je to cokoliv?"
+   [50]
+    1 string data = "Uděláme to... pro tebe."
+   [51]
+    1 string data = "Chci říct, že někdo musí Erlině nakopat zadek a dát Karnimantovi co proto."
+   [52]
+    1 string data = "Mohli byste to být klidně vy, ne?"
+   [53]
+    1 string data = "To taky uděláme. Bez obav."
+   [54]
+    1 string data = "Jo, a taky budete pořád kuchtit, že jo? Tak, jak jsem vás to naučil?"
+   [55]
+    1 string data = "Každý den."
+   [56]
+    1 string data = "Budeš nám moc chybět..."
+   [57]
+    1 string data = "[MAINCHAR], [OFFCHAR], nedokážu vám pořádně poděkovat... za to všechno..."
+   [58]
+    1 string data = "Všechny ty společné chvíle... všechna ta dobrodružství..."
+   [59]
+    1 string data = "Lepší přátele jsem si ani nemohl přát..."
+   [60]
+    1 string data = "Já..."
+   [61]
+    1 string data = "..."
+   [62]
+    1 string data = "..."
+   [63]
+    1 string data = "..."

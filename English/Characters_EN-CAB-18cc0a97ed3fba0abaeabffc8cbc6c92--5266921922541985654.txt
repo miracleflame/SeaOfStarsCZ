@@ -1,0 +1,374 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Characters_EN"
+ 1 string locCategoryId = "Characters"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (180 items)
+   0 int size = 180
+   [0]
+    1 string data = "Zale"
+   [1]
+    1 string data = "Valere"
+   [2]
+    1 string data = "Solen"
+   [3]
+    1 string data = "Luana"
+   [4]
+    1 string data = "Garl"
+   [5]
+    1 string data = "Resh'an"
+   [6]
+    1 string data = "Seraï"
+   [7]
+    1 string data = "B'st"
+   [8]
+    1 string data = "B'st"
+   [9]
+    1 string data = "A blade dancer born on the Summer Solstice.<br>Walks the path of the <color=sun>Guardian God Solen</color>."
+   [10]
+    1 string data = "A monk born on the Winter Solstice.<br>Walks the path of the <color=#A4E4FC>Guardian Goddess Luana</color>."
+   [11]
+    1 string data = "Solar Blade Dancer"
+   [12]
+    1 string data = "Lunar Monk"
+   [13]
+    1 string data = "Warrior Cook"
+   [14]
+    1 string data = "Assassin"
+   [15]
+    1 string data = "Immortal Alchemist"
+   [16]
+    1 string data = "Living Glass Golem"
+   [17]
+    1 string data = "The Archivist"
+   [18]
+    1 string data = "Baby Gorilla"
+   [19]
+    1 string data = "Gorilla Matriarch"
+   [20]
+    1 string data = "Docarri Villager"
+   [21]
+    1 string data = "Temple Servant"
+   [22]
+    1 string data = "Docarri Elder"
+   [23]
+    1 string data = "Oracle of Tides"
+   [24]
+    1 string data = "Docarri Kid"
+   [25]
+    1 string data = "Kunus'nuku Acolyte"
+   [26]
+    1 string data = "Baby Gorillas"
+   [27]
+    1 string data = "SaboTeam"
+   [28]
+    1 string data = "Brugaves"
+   [29]
+    1 string data = "Erlina"
+   [30]
+    1 string data = "Headmaster Moraine"
+   [31]
+    1 string data = "Moraine"
+   [32]
+    1 string data = "Villager"
+   [33]
+    1 string data = "Villagers"
+   [34]
+    1 string data = "Kid Villager"
+   [35]
+    1 string data = "Villager"
+   [36]
+    1 string data = "Villager"
+   [37]
+    1 string data = "Villager"
+   [38]
+    1 string data = "Villager"
+   [39]
+    1 string data = "Miner"
+   [40]
+    1 string data = "Wyrd"
+   [41]
+    1 string data = "Elder Mist"
+   [42]
+    1 string data = "???"
+   [43]
+    1 string data = "Teaks"
+   [44]
+    1 string data = "Elder Teaks"
+   [45]
+    1 string data = "Elder Garl"
+   [46]
+    1 string data = "Molekin Villager"
+   [47]
+    1 string data = "Molekin Elder"
+   [48]
+    1 string data = "Malkomud"
+   [49]
+    1 string data = "Brisk Villager"
+   [50]
+    1 string data = "Brisk Villager"
+   [51]
+    1 string data = "Brisk Villager"
+   [52]
+    1 string data = "Brisk Villager"
+   [53]
+    1 string data = "Brisk Kid"
+   [54]
+    1 string data = "Valtraid"
+   [55]
+    1 string data = "Captain Klee'shaë"
+   [56]
+    1 string data = "Yolande"
+   [57]
+    1 string data = "Keenathan"
+   [58]
+    1 string data = "Humble Boast Chef"
+   [59]
+    1 string data = "Gaspar"
+   [60]
+    1 string data = "Lambert"
+   [61]
+    1 string data = "Edgar"
+   [62]
+    1 string data = "Patron"
+   [63]
+    1 string data = "Patron"
+   [64]
+    1 string data = "Patron"
+   [65]
+    1 string data = "Ferryman"
+   [66]
+    1 string data = "Romaya"
+   [67]
+    1 string data = "One"
+   [68]
+    1 string data = "Two"
+   [69]
+    1 string data = "Three"
+   [70]
+    1 string data = "Four"
+   [71]
+    1 string data = "Duke Aventry"
+   [72]
+    1 string data = "Ghost"
+   [73]
+    1 string data = "GrumpyGhost"
+   [74]
+    1 string data = "Ghost"
+   [75]
+    1 string data = "Ghost"
+   [76]
+    1 string data = "Wanderer"
+   [77]
+    1 string data = "Innkeeper"
+   [78]
+    1 string data = "Hortence"
+   [79]
+    1 string data = "Merchant"
+   [80]
+    1 string data = "Mirth Villager"
+   [81]
+    1 string data = "Mirth Villager"
+   [82]
+    1 string data = "Mirth Villager"
+   [83]
+    1 string data = "Mirth Villager"
+   [84]
+    1 string data = "Cryptwalker"
+   [85]
+    1 string data = "Gus"
+   [86]
+    1 string data = "Spirit"
+   [87]
+    1 string data = "Khukharr"
+   [88]
+    1 string data = "X'tol"
+   [89]
+    1 string data = "Y'eet"
+   [90]
+    1 string data = "Puntie"
+   [91]
+    1 string data = "Strolling Minstrel"
+   [92]
+    1 string data = "Yomara"
+   [93]
+    1 string data = "Aephorul"
+   [94]
+    1 string data = "Caël"
+   [95]
+    1 string data = "Watchmaker"
+   [96]
+    1 string data = "Kid"
+   [97]
+    1 string data = "Kid"
+   [98]
+    1 string data = "Kid"
+   [99]
+    1 string data = "Kid"
+   [100]
+    1 string data = "Kid"
+   [101]
+    1 string data = "Lost One"
+   [102]
+    1 string data = "Lost One"
+   [103]
+    1 string data = "Lost One "
+   [104]
+    1 string data = "Council Member"
+   [105]
+    1 string data = "Council Member"
+   [106]
+    1 string data = "Council Member"
+   [107]
+    1 string data = "Wentworth"
+   [108]
+    1 string data = "Cedric"
+   [109]
+    1 string data = "Quiz Master"
+   [110]
+    1 string data = "Computer"
+   [111]
+    1 string data = "AI Core"
+   [112]
+    1 string data = "Artificer"
+   [113]
+    1 string data = "LeJugg"
+   [114]
+    1 string data = "Jirard"
+   [115]
+    1 string data = "Guard"
+   [116]
+    1 string data = "Quilliam"
+   [117]
+    1 string data = "Darro"
+   [118]
+    1 string data = "Toe"
+   [119]
+    1 string data = "Hammer"
+   [120]
+    1 string data = "Spike"
+   [121]
+    1 string data = "Locket"
+   [122]
+    1 string data = "Abstarak"
+   [123]
+    1 string data = "Brother Casugin"
+   [124]
+    1 string data = "Rachater "
+   [125]
+    1 string data = "Verlot"
+   [126]
+    1 string data = "Soul Curator"
+   [127]
+    1 string data = "Elysan'darëlle"
+   [128]
+    1 string data = "Cultist"
+   [129]
+    1 string data = "Tsig"
+   [130]
+    1 string data = "Mirna"
+   [131]
+    1 string data = "Chef Bass"
+   [132]
+    1 string data = "Everyone"
+   [133]
+    1 string data = "Man"
+   [134]
+    1 string data = "Woman"
+   [135]
+    1 string data = "Falcon-eyed Parrot"
+   [136]
+    1 string data = "Jirard the Constructionist"
+   [137]
+    1 string data = "Master Fisherman"
+   [138]
+    1 string data = "Chi"
+   [139]
+    1 string data = "Crewmate"
+   [140]
+    1 string data = "Croustalion"
+   [141]
+    1 string data = "Gaëtan Piment"
+   [142]
+    1 string data = "Pier-Luc"
+   [143]
+    1 string data = "Bryce"
+   [144]
+    1 string data = "Savannah"
+   [145]
+    1 string data = "Sylvain"
+   [146]
+    1 string data = "Philip"
+   [147]
+    1 string data = "Thierry"
+   [148]
+    1 string data = "Mathieu"
+   [149]
+    1 string data = "Thommy"
+   [150]
+    1 string data = "Axel"
+   [151]
+    1 string data = "Jean-Philippe"
+   [152]
+    1 string data = "Jean-Luc"
+   [153]
+    1 string data = "Michaël"
+   [154]
+    1 string data = "Bruno"
+   [155]
+    1 string data = "Greg"
+   [156]
+    1 string data = "Jake"
+   [157]
+    1 string data = "Jeakim"
+   [158]
+    1 string data = "Jean-Bernard"
+   [159]
+    1 string data = "Martina"
+   [160]
+    1 string data = "Philippe "Dzidzi""
+   [161]
+    1 string data = "Edouard"
+   [162]
+    1 string data = "Yasunori Mitsuda"
+   [163]
+    1 string data = "Eric"
+   [164]
+    1 string data = "Frédérik"
+   [165]
+    1 string data = "Carl"
+   [166]
+    1 string data = "Martin"
+   [167]
+    1 string data = "Anne-Marie"
+   [168]
+    1 string data = "Buddy"
+   [169]
+    1 string data = "Olivier"
+   [170]
+    1 string data = "Jack"
+   [171]
+    1 string data = "Reece"
+   [172]
+    1 string data = "Shopkeeper"
+   [173]
+    1 string data = "Wheels Player"
+   [174]
+    1 string data = "Edward Roulette"
+   [175]
+    1 string data = "???"
+   [176]
+    1 string data = "Mr. Chest"
+   [177]
+    1 string data = "Arena Clerk"
+   [178]
+    1 string data = "Painting"
+   [179]
+    1 string data = "Bob"

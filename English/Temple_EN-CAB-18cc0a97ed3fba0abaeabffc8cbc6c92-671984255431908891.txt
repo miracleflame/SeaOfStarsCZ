@@ -1,0 +1,262 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Temple_EN"
+ 1 string locCategoryId = "SacrosanctSpireIsland/Temple"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (124 items)
+   0 int size = 124
+   [0]
+    1 string data = "<color=bad>Brother Casugin</color>."
+   [1]
+    1 string data = "You seldom leave your post. Did something happen?"
+   [2]
+    1 string data = "An unidentified group has managed to break through the seal. One of them used Songster Magic."
+   [3]
+    1 string data = "What!? But how? We were told they couldn't leave the dome!"
+   [4]
+    1 string data = "I saw it myself. A sort of glass vessel, moving..."
+   [5]
+    1 string data = "Oh? Hehehe..."
+   [6]
+    1 string data = "What is it, <color=bad>Rachater</color>?"
+   [7]
+    1 string data = "Things are getting interesting for once."
+   [8]
+    1 string data = "And?"
+   [9]
+    1 string data = "I'm thinking maybe I should handle them. A little trap, perhaps?"
+   [10]
+    1 string data = "Yes... Swift action may be preferable here..."
+   [11]
+    1 string data = "Preposterous! The code clearly states that anyone may attempt-"
+   [12]
+    1 string data = "SILENCE!"
+   [13]
+    1 string data = "The Triumvirate of Eminence reigns supreme, and I, <color=bad>Abstarak</color>, am its leader."
+   [14]
+    1 string data = "You will not question me!"
+   [15]
+    1 string data = "I... I apologize, Great Illuminator."
+   [16]
+    1 string data = "Rachater. Deal with the intruders."
+   [17]
+    1 string data = "With pleasure. Hehehe..."
+   [18]
+    1 string data = "Did you kill them?"
+   [19]
+    1 string data = "Not quite. Hehehe..."
+   [20]
+    1 string data = "What do you mean, "not quite"?"
+   [21]
+    1 string data = "They managed to escape the gallows."
+   [22]
+    1 string data = "How?"
+   [23]
+    1 string data = "..."
+   [24]
+    1 string data = "Our prisoner has been freed."
+   [25]
+    1 string data = "VERLOT!?"
+   [26]
+    1 string data = "Oh, my Saint Eminence!"
+   [27]
+    1 string data = "The traps all worked, but the assassin on their team has reflexes like I've never seen..."
+   [28]
+    1 string data = "..."
+   [29]
+    1 string data = "I'm sorry, there was nothing more I could have done."
+   [30]
+    1 string data = "We went through a lot of trouble to capture Verlot, if he-"
+   [31]
+    1 string data = "Verlot won't do anything."
+   [32]
+    1 string data = "He lives by the code. His attempt at challenging us has failed, and thus he is compelled to exile himself from the Spires."
+   [33]
+    1 string data = "The others are still coming. What then?"
+   [34]
+    1 string data = "We defend our titles."
+   [35]
+    1 string data = "Hehehe..."
+   [36]
+    1 string data = "New challengers have bested the Spires."
+   [37]
+    1 string data = "The Triumvirate of Eminence acknowledges your presence."
+   [38]
+    1 string data = "So you're in charge here?"
+   [39]
+    1 string data = "You will address the Great Illuminator by title!"
+   [40]
+    1 string data = "We didn't come to replace you."
+   [41]
+    1 string data = "Then what is it you seek?"
+   [42]
+    1 string data = "Es'tristae."
+   [43]
+    1 string data = "!!!"
+   [44]
+    1 string data = "!!!"
+   [45]
+    1 string data = "Hehehe..."
+   [46]
+    1 string data = "Only one possible wrong answer, and you just gave it."
+   [47]
+    1 string data = "Preposterous! It is not the place of anyone to stand in the presence of our God."
+   [48]
+    1 string data = "For centuries, our people have been its gatekeepers. What you ask is impossible."
+   [49]
+    1 string data = "Please, listen. Whoever put you up to this has gravely misled you."
+   [50]
+    1 string data = "Es'tristae is no God. We built it to-"
+   [51]
+    1 string data = "SILENCE!"
+   [52]
+    1 string data = "The Triumvirate of Eminence reigns supreme, and I, Abstarak, am its leader."
+   [53]
+    1 string data = "Trespassers seek to violate our laws and commune with our God."
+   [54]
+    1 string data = "PREPARE FOR ILLUMINATION!!!"
+   [55]
+    1 string data = "Great Illuminator... I have failed you..."
+   [56]
+    1 string data = "So this is it... Hehehehe..."
+   [57]
+    1 string data = "Great Eagle... So this is how you choose to thank us?"
+   [58]
+    1 string data = "??"
+   [59]
+    1 string data = "We gave you flight, and you would repay us with our destruction?"
+   [60]
+    1 string data = "What are you talking about?"
+   [61]
+    1 string data = "For you to end our lives, after we sacrificed what was required..."
+   [62]
+    1 string data = "!!!"
+   [63]
+    1 string data = "Is this irony, or does your cruelty surpass that of your partner?"
+   [64]
+    1 string data = "..."
+   [65]
+    1 string data = "(Aephorul...)"
+   [66]
+    1 string data = "It's perfect! Thank you, Aephorul!"
+   [67]
+    1 string data = "Good. Perhaps now you can stop rambling about wanting natural flight."
+   [68]
+    1 string data = "Hmmm yes, I suppose I could move on to rambling about how great it feels instead."
+   [69]
+    1 string data = "Ha. Just my luck."
+   [70]
+    1 string data = "Happy birthday, Resh'an. I'm glad you like your gift."
+   [71]
+    1 string data = "How did you do it? I thought a transmutation spell like this required a hybrid's soul."
+   [72]
+    1 string data = "You'll have to let me keep my secrets if you want more surprises in the future."
+   [73]
+    1 string data = "Haha! I suppose that's fair."
+   [74]
+    1 string data = "Oh, try this!"
+   [75]
+    1 string data = "Interesting!"
+   [76]
+    1 string data = "There's no taste, but it's impossibly refreshing."
+   [77]
+    1 string data = "What do you call it?"
+   [78]
+    1 string data = "<color=magic>Iceline</color>. The state of equilibrium between ice and water."
+   [79]
+    1 string data = "The final ingredient is the warmth of the drinker's mouth, forcing it to contrast by turning into ice for but a fraction of a second."
+   [80]
+    1 string data = "But it melts as it tries to freeze, letting you experience a seemingly ethereal temperature."
+   [81]
+    1 string data = "Oh, I see where this is going..."
+   [82]
+    1 string data = "You still have that flask design in mind?"
+   [83]
+    1 string data = "Yes."
+   [84]
+    1 string data = "I'm ready for another attempt at capturing the <color=location>Sands of Time</color>."
+   [85]
+    1 string data = "Third time's the charm. I will accompany you."
+   [86]
+    1 string data = "I was hoping you would say that."
+   [87]
+    1 string data = "And if you ask nicely, I might let you fly on my back."
+   [88]
+    1 string data = "Ha! Big if!"
+   [89]
+    1 string data = "Another lie..."
+   [90]
+    1 string data = "So he made a deal with you?"
+   [91]
+    1 string data = "The Fleshmancer? Yes, many of us were sacrificed while he was working on your gift."
+   [92]
+    1 string data = "What he offered in exchange... the power of mind magic... and purpose in the worshipping of Es'tristae... It was well worth it."
+   [93]
+    1 string data = "(Aephorul... no...)"
+   [94]
+    1 string data = "This hurts you?"
+   [95]
+    1 string data = "..."
+   [96]
+    1 string data = "Then it brings some measure of peace to know that you are cursed with immortality..."
+   [97]
+    1 string data = "Suffer well..."
+   [98]
+    1 string data = "What was that about?"
+   [99]
+    1 string data = "The Great Eagle."
+   [100]
+    1 string data = "It was a birthday gift from Aephorul, a very long time ago."
+   [101]
+    1 string data = "Back when he was still... himself. Or so I believed."
+   [102]
+    1 string data = "I'm sorry, Resh'an."
+   [103]
+    1 string data = "Just one more happy memory ruined. In the grand scheme of things, it's of no concern..."
+   [104]
+    1 string data = "But this does imply that his wicked deeds began centuries earlier than I'd assumed..."
+   [105]
+    1 string data = "This changes everything."
+   [106]
+    1 string data = "I must go."
+   [107]
+    1 string data = "What? But why?"
+   [108]
+    1 string data = "My calculations were way off. It is imperative that I return to the archives and run more models."
+   [109]
+    1 string data = "You can't just leave like that, we need your help to fix this!"
+   [110]
+    1 string data = "This puppet will help until you've seen this journey through."
+   [111]
+    1 string data = "Thank you for the companionship. It has been... refreshing."
+   [112]
+    1 string data = "Farewell."
+   [113]
+    1 string data = "..."
+   [114]
+    1 string data = "Just like that, he..."
+   [115]
+    1 string data = "Anyone in there?"
+   [116]
+    1 string data = "..."
+   [117]
+    1 string data = "He left like we were nothing to him..."
+   [118]
+    1 string data = "Whatever. Resh'an played his part and made his choice."
+   [119]
+    1 string data = "You're right. We should press on."
+   [120]
+    1 string data = "B'st?"
+   [121]
+    1 string data = "We're almost at Es'tristae. The teleporter at the bottom of the stairs should be functional now."
+   [122]
+    1 string data = "The energy from this pillar tugs at the mind..."
+   [123]
+    1 string data = "The statue stands as a display of twisted devotion..."

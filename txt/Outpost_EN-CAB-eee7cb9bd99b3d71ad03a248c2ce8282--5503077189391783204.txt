@@ -1,0 +1,316 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Outpost_EN"
+ 1 string locCategoryId = "SleeperIsland/Outpost"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (151 items)
+   0 int size = 151
+   [0]
+    1 string data = "STAŘEŠINA SE NEVRÁTIL!"
+   [1]
+    1 string data = "<color=bad>MALKOMUD</color> NÁS VŠECHNY ZABIJE!"
+   [2]
+    1 string data = "ZACHRAŇ SE, KDO MŮŽEŠ!!!"
+   [3]
+    1 string data = "Kdo jste? Přišli jste nás zachránit?"
+   [4]
+    1 string data = "No, vlastně..."
+   [5]
+    1 string data = "Samozřejmě, jsou to Bojovníci Slunovratu!"
+   [6]
+    1 string data = "Garle!"
+   [7]
+    1 string data = "Je to pravda, ne? Jestli to půjde, měli bychom jim pomoct!"
+   [8]
+    1 string data = "Co se děje?"
+   [9]
+    1 string data = "Může za to Malkomud, ten čaroděj zemního živlu..."
+   [10]
+    1 string data = "Tohle je jen pouhá poklidná vesnička, co se stará o větrné tunely v dole."
+   [11]
+    1 string data = "Naší prací je udržovat tyto tunely průchozí, aby vítr mohl hrát melodii pro <color=bad>Spáče</color>."
+   [12]
+    1 string data = "!!"
+   [13]
+    1 string data = "Ale protože teď Malkomud důl ovládl, nemůžeme jít dovnitř."
+   [14]
+    1 string data = "A jestli se Spáč vzbudí..."
+   [15]
+    1 string data = "Navíc ucpal tunel napájející větrník velkého výtahu, takže ani nemůžeme zajít do <color=location>Svěžínu</color> pro pomoc..."
+   [16]
+    1 string data = "Jestli to bude takhle pokračovat dál, Malkomudovy příšery se začnou valit z dolu, a pak..."
+   [17]
+    1 string data = "A pak..."
+   [18]
+    1 string data = "Klid, uvidíme, co se dá dělat. Můžete nám říct víc?"
+   [19]
+    1 string data = "...pak šel stařešina dovnitř, aby se ho pokusil zastavit, ale už se dlouho nevrátil..."
+   [20]
+    1 string data = "Kde máte vchod?"
+   [21]
+    1 string data = "Tam nahoře, na vrcholu vesničky, ale Malkomud je velmi mocný..."
+   [22]
+    1 string data = "Nebojte se, vašeho stařešinu najdeme."
+   [23]
+    1 string data = "Zlý čaroděj, říkáte, jdeme dnu!"
+   [24]
+    1 string data = "Jaké to štěstí! Děkuji vám!"
+   [25]
+    1 string data = "VŠICHNI PŘESTAŇTE PANIKAŘIT!"
+   [26]
+    1 string data = "BOJOVNÍCI SLUNOVRATU JSOU TADY, ABY VŠECHNO VYŘEŠILI!"
+   [27]
+    1 string data = "STAŘEŠINA SE VRÁTÍ!"
+   [28]
+    1 string data = "MALKOMUD NÁS VŠECHNY NEZABIJE!"
+   [29]
+    1 string data = "HURÁ!"
+   [30]
+    1 string data = "..."
+   [31]
+    1 string data = "Já vás u toho teda nechám. Stejně je tu k omrknutí spoustu zajímavých věcí!"
+   [32]
+    1 string data = "Bojovníci Slunovratu se vrátili!"
+   [33]
+    1 string data = "Je hrozba zažehnána?"
+   [34]
+    1 string data = "Malkomud už větrné tunely dál ucpávat nebude."
+   [35]
+    1 string data = "Jsme zachráněni!"
+   [36]
+    1 string data = "Sláva!"
+   [37]
+    1 string data = "Měli jste říct, že na tom také máte určitý podíl."
+   [38]
+    1 string data = "Já..."
+   [39]
+    1 string data = "Omlouváme se, statečná mniško. Skutečně je pro nás obtížné se řádně sžít s jeho... nadáním."
+   [40]
+    1 string data = "No, příště byste měli být ohleduplnější."
+   [41]
+    1 string data = "Pokud se to stane znovu, už nemusíme být poblíž, abychom vás zachránili."
+   [42]
+    1 string data = "..."
+   [43]
+    1 string data = "Rozumíme. Máte naše slovo a naše díky."
+   [44]
+    1 string data = "Můžeme za to pro vás něco udělat?"
+   [45]
+    1 string data = "Hledáme posádku dobrodruhů, která nám pomůže doplout na jiný ostrov."
+   [46]
+    1 string data = "Ó! V tom případě určitě budete chtít navštívit přístavní město Svěžín!"
+   [47]
+    1 string data = "Můžete použít ten velký výtah na jih odsud. Přeci jen jste to byli vy, kdo jej opravil."
+   [48]
+    1 string data = "Přístavní město, tam se nějaká loď určitě najde!"
+   [49]
+    1 string data = "Jsou tam různé typy lidí. Tam narazíte na to, co potřebujete."
+   [50]
+    1 string data = "Ach, nemůžu se dočkat, třeba tam bude i hostinec!"
+   [51]
+    1 string data = "To je ale ironie..."
+   [52]
+    1 string data = "Co se děje?"
+   [53]
+    1 string data = "Ke spravení těch rozbitých dveří potřebuju své nářadí, ale to je v pokoji za nimi, takže se k němu nemůžu dostat!"
+   [54]
+    1 string data = "Zdá se, že páka na druhé straně funguje správně. Kéž by se tam dalo vejít jinudy..."
+   [55]
+    1 string data = "Hej, dobrá práce!"
+   [56]
+    1 string data = "A ani jste se mi nehrabali v truhlách? Velmi obdivuhodné!"
+   [57]
+    1 string data = "Ale hodně jste mi pomohli. Prosím, klidně si vezměte, co v nich najdete."
+   [58]
+    1 string data = "Jsou mé truhly v pořádku?"
+   [59]
+    1 string data = "..."
+   [60]
+    1 string data = "Haha, dělám si legraci! To je to nejmenší, čím vám to mohu oplatit."
+   [61]
+    1 string data = "Díky za pomoc!"
+   [62]
+    1 string data = "Po tom, co Malkomud ucpal větrné tunely, přestalo fungovat vodní čerpadlo. Ve studni už není žádná voda!"
+   [63]
+    1 string data = "Vážně si chci dát vanu! Šli byste s tím pomoct do dolu?"
+   [64]
+    1 string data = "Vážně si chci dát vanu!"
+   [65]
+    1 string data = "Čerpadlo je támhle vevnitř, asi jen bude chtít znovu nastartovat..."
+   [66]
+    1 string data = "Zašli byste tam prosím?"
+   [67]
+    1 string data = "Hej, zvládli jste to!"
+   [68]
+    1 string data = "Díky, tohle jsem opravdu potřebovala. Tady za to něco máte."
+   [69]
+    1 string data = "Vítejte U Ospalého kameníka! Chtěli byste si odpočinout v geotermálním pokoji?"
+   [70]
+    1 string data = "Ano"
+   [71]
+    1 string data = "Ne"
+   [72]
+    1 string data = "Stavte se kdykoliv!"
+   [73]
+    1 string data = "Vyrážíte na cestu? Nabízím vybavení a potraviny!"
+   [74]
+    1 string data = "Tady je toho spousta k prostudování..."
+   [75]
+    1 string data = "Opět vám děkuji, že jste nám s Malkomudem pomohli. Slibuji, že od teď se budeme chovat lépe."
+   [76]
+    1 string data = "Pokud se chcete dostat do Svěžínu, můžete použít ten velký létající výtah jižně od vesnice."
+   [77]
+    1 string data = "Dobrý den, Bojovníci Slunovratu. Od té doby, co jste nám pomohli, šlo s Malkomudem všechno dobře."
+   [78]
+    1 string data = "BOJOVNÍCI SLUNOVRATU! Tady jste!"
+   [79]
+    1 string data = "??"
+   [80]
+    1 string data = "Spáč se vzbudil a odletěl! Nemáme tušení, kde je teď, ale vypadá to, že je s námi všemi konec!"
+   [81]
+    1 string data = "Malkomud slíbil, že to nebyla jedna z jeho neplech a říkal, že vy dva s tím máte něco společného. Je to pravda?"
+   [82]
+    1 string data = "To ano, nemáte se čeho bát. Wentworth je teď přátelský."
+   [83]
+    1 string data = "Wentworth? "
+   [84]
+    1 string data = "Spáč dostal nové jméno."
+   [85]
+    1 string data = "Vážně? Tak dobrá, když to říkáte."
+   [86]
+    1 string data = "Vy jste ti Bojovníci Slunovratu? Pevně doufám, že Malkomuda dokážete porazit..."
+   [87]
+    1 string data = "Moc děkujeme za pomoc s Malkomudem. V budoucnu si rozhodně dáme pozor na jazyk..."
+   [88]
+    1 string data = "Stále nejsme v komunikaci s Malkomudem dokonalí, ale alespoň se všichni snaží."
+   [89]
+    1 string data = "Nemůžu spát od té doby, co Malkomud ovládl důl. Obávám se, že jeho příšery mohou každou chvíli zaútočit na město!"
+   [90]
+    1 string data = "Ach, děkuji vám, konečně se můžu trochu vyspat!"
+   [91]
+    1 string data = "Když jsem slyšel, že je Spáč pryč, měl jsem za to, že nastal konec světa, ale od té doby se nic nestalo."
+   [92]
+    1 string data = "Celá situace s tím Malkomudem je tak otravná, chci se vrátit ke své práci!"
+   [93]
+    1 string data = "Je dobře, že jsme se vrátili k práci. Udržování větrných tunelů je náročné, ale modrozelený jantar je velmi cenný."
+   [94]
+    1 string data = "Je skvělé, že se Spáč probudil pokojně! Asi je čas najít si nové poslání."
+   [95]
+    1 string data = "Jestli ty tunely zůstanou ucpané, vítr přestane skrz horu hrát melodii. Pokud se Spáč vzbudí, je s námi konec!"
+   [96]
+    1 string data = "Doufám, že si to tady v naší vesničce užíváte. Pokud jste ještě nespali v hostinci, určitě to udělejte--geotermální pokoje vřele doporučuju!"
+   [97]
+    1 string data = "Chvíli předtím, než Spáč odletěl, tady byla cítit neuvěřitelně lahodná vůně!"
+   [98]
+    1 string data = "Měl jsem díky ní chuť na trochu chleba, ale ten ani zdaleka nenaplnil má očekávání."
+   [99]
+    1 string data = "Buďte v dole opatrní, prý někdo zahlédl obrovského salamandra..."
+   [100]
+    1 string data = "Takže ten salamandr byl Malkomudův mazlíček? Co myslíte tím, že si chtěl jenom hrát?"
+   [101]
+    1 string data = "Naskytla se mi příležitost pohrát si s Rockie. Je úplně roztomilá!"
+   [102]
+    1 string data = "Od chvíle, co šel stařešina dovnitř, se výtah nevrátil. Hádám, že se dolů prostě bude muset skočit..."
+   [103]
+    1 string data = "Jsem rád, že už to máme za sebou, nemůžu se dočkat, až zase budu vyrábět jantarové ozdoby."
+   [104]
+    1 string data = "Náš stařešina od probuzení Spáče neustále panikaří."
+   [105]
+    1 string data = "Děkuju, že jste si se stařešinou promluvili, začínal jsem si o něj dělat starosti."
+   [106]
+    1 string data = "Nemůžu pustit svoje děti ven s tím vším, co se tam děje, je to moc nebezpečné."
+   [107]
+    1 string data = "Věci se konečně vrátily do normálu. Jsem hlavně ráda, že jsou moje děti v bezpečí."
+   [108]
+    1 string data = "Mé děti si teď hrávají s Malkomudem. Příliš jsme ho soudili, myslím, že bychom magií už tak opovrhovat neměli..."
+   [109]
+    1 string data = "Můj bratr nevyleze z ateliéru ani přes všechnu tu paniku. Celý den jenom maluje..."
+   [110]
+    1 string data = "Můj bratr konečně nějakou malbu dokončil, nemůžu tomu uvěřit!!"
+   [111]
+    1 string data = "Můj bratr pořád shání svou múzu."
+   [112]
+    1 string data = "Tohle bude mé mistrovské dílo!"
+   [113]
+    1 string data = "Ukážu světu, že my Molekini toho umíme víc než jen obrusovat modrozelený jantar, jen počkejte!"
+   [114]
+    1 string data = "Tohle je zatím mé nejlepší dílo, ale musím se neustále zlepšovat."
+   [115]
+    1 string data = "Cože? V Svěžínu je modelka, která by chtěla zachytit svou podstatu?"
+   [116]
+    1 string data = "To je přesně ten druh inspirace, který jsem hledal!"
+   [117]
+    1 string data = "Okamžitě vyrážím!"
+   [118]
+    1 string data = "Chrrrrrrr... musím... aktivovat... čerpadlo... chrrrrrrr..."
+   [119]
+    1 string data = "Proč se na Malkomuda všichni zlobí? Tomu fakt nerozumím..."
+   [120]
+    1 string data = "Malkomud to podle mě se schovávanou trochu přehnal!"
+   [121]
+    1 string data = "Když jsem viděl Spáče letět k sopce, nebál jsem se, jen mi to přišlo boží!"
+   [122]
+    1 string data = "Vy jste fakt Bojovníci Slunovratu? To je paráda!"
+   [123]
+    1 string data = "Opravdu jste si mysleli, že je Malkomudův mazlíček příšera? Haha!"
+   [124]
+    1 string data = "Máma nám dovolila hrát si s Malkomudem! A Rockie je taky moc hodná!"
+   [125]
+    1 string data = "Až vyrostu, chci pracovat pod zemí, stejně jako moji rodiče."
+   [126]
+    1 string data = "Koukněte, postavil jsem pevnost jako Malkomud!"
+   [127]
+    1 string data = "Malkomud mi řekl, co se stalo se Spáčem, takže nemám strach jako ostatní."
+   [128]
+    1 string data = "Všichni tady ještě před chvilkou pobíhali kolem. Dospělí jsou divní."
+   [129]
+    1 string data = "Tohle je zatím ta nejlepší pevnost, kterou jsme postavili. Moc se mi líbí!"
+   [130]
+    1 string data = "Zajímalo by mě, co by na tu pevnost řekl Malkomud..."
+   [131]
+    1 string data = "Máma říká, že nemůžeme jít ven. Tady je ale taková nuda, není tu co dělat!"
+   [132]
+    1 string data = "Tohle je moje oblíbené místo na hraní. Líbí se mi, protože je z něj krásný výhled."
+   [133]
+    1 string data = "Malkomud říká, že ta úžasná vůně vycházela z kuchyně, kterou postavil v sopce, aby mohl jeho kamarád upéct obří chleba. Dost dobrý, co?"
+   [134]
+    1 string data = "Hej, vy jste ti Bojovníci Slunovratu, co nám pomohli!"
+   [135]
+    1 string data = "Když mám teď své nářadí zpátky, můžu odstranit ten kámen, co blokuje cestu k jezeru."
+   [136]
+    1 string data = "Vydržte chvíli, nepotrvá to dlouho!"
+   [137]
+    1 string data = "Tak, cesta je volná!"
+   [138]
+    1 string data = "Doufám, že vám to nějak pomůže. A ještě jednou děkuji!"
+   [139]
+    1 string data = "Víte, co by bylo skvělé? Místo k relaxci v horké vodě, aniž by vás obklopovali vystresovaní lidé."
+   [140]
+    1 string data = "Říkáte Veselí? Ty termální prameny určitě musíme nějak využít! Půjdu hned teď!"
+   [141]
+    1 string data = "Nyní můžete relaxovat v Lázních ve Veselí!"
+   [142]
+    1 string data = "Kdo ví, jaký přínos získáte úlevou od stresu."
+   [143]
+    1 string data = "To, co se stalo v Svěžínu, je hrozné. Jakmile se připravíme, vyšleme tam pomocný tým!"
+   [144]
+    1 string data = "Nějaké těžařské nářadí."
+   [145]
+    1 string data = "Mistrně vyrobený stůl."
+   [146]
+    1 string data = "Ručně vyrobené nádoby."
+   [147]
+    1 string data = "Pálí!"
+   [148]
+    1 string data = "Tohle zařízení vypadá jako nějaké čerpadlo."
+   [149]
+    1 string data = "Jestli má tahle socha něco reprezentovat, bude to pravděpodobně cosi abstraktního..."
+   [150]
+    1 string data = "Výhled se táhne až po horizont."

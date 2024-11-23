@@ -1,0 +1,124 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "FloodedGraveyard_EN"
+ 1 string locCategoryId = "WraithIsland/FloodedGraveyard"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (55 items)
+   0 int size = 55
+   [0]
+    1 string data = "It is indeed the dead you hear, for the necromancer lives somewhere near."
+   [1]
+    1 string data = "Should you wish to save your hide, a green flame you must provide!"
+   [2]
+    1 string data = "Let's find her lair. Stories say it's "extravagant.""
+   [3]
+    1 string data = "This has to be it."
+   [4]
+    1 string data = "Okay, she really does have style!"
+   [5]
+    1 string data = "Stay vigilant. Romaya might be home."
+   [6]
+    1 string data = "On that, you would be correct."
+   [7]
+    1 string data = "Whatever brought you here, I believe that is far enough."
+   [8]
+    1 string data = "Our friend's life is in danger. We need a soul stone."
+   [9]
+    1 string data = "We're going in no matter what."
+   [10]
+    1 string data = "Then we are at an impasse, for I am bound to serve the mistress in undeath."
+   [11]
+    1 string data = "Serve? She resurrected you from your ashes?"
+   [12]
+    1 string data = "Who are you?"
+   [13]
+    1 string data = "A wandering spirit, forever lost in longing..."
+   [14]
+    1 string data = "Generations ago, I was known as <color=good>Duke Aventry</color>. That is all I can remember."
+   [15]
+    1 string data = "I am prisoner to a never-ending fugue state, with ephemeral memories of the good people of Lucent as my only company..."
+   [16]
+    1 string data = "But I digress. The spectral chains that bind me to the mistress beckon."
+   [17]
+    1 string data = "Please understand this is not of my own volition. En garde!"
+   [18]
+    1 string data = "You fight with spirit and conviction."
+   [19]
+    1 string data = "I believe the mistress would rather not lose her bodyguard. You may pass."
+   [20]
+    1 string data = "But before you go, may I have a word with the blade dancer?"
+   [21]
+    1 string data = "??"
+   [22]
+    1 string data = "Your speed is impressive. Have you considered leaning into it more fully?"
+   [23]
+    1 string data = "Here, let me show you."
+   [24]
+    1 string data = "That footing really helps. Thanks for the insight!"
+   [25]
+    1 string data = "As expected, you are a natural."
+   [26]
+    1 string data = "Safe journeys, young ones."
+   [27]
+    1 string data = "You have returned with a soul stone. Quite impressive, though I suppose this means the mistress will be quite upset with me."
+   [28]
+    1 string data = "The exit path is to the right. You will have to make good use of your Graplou."
+   [29]
+    1 string data = "I hope you can get to your friend in time."
+   [30]
+    1 string data = "Farewell."
+   [31]
+    1 string data = "A green flame you found I see, aboard my raft I welcome thee!"
+   [32]
+    1 string data = "Greetings, adventurers. Seek you passage across these waters?"
+   [33]
+    1 string data = "A yellow flame you found I see, aboard my raft I welcome thee!"
+   [34]
+    1 string data = "Breathe in and don't be tense, I shall take you back to the entrance."
+   [35]
+    1 string data = "Greetings, I am the keeper of this graveyard. "
+   [36]
+    1 string data = "I suggest you turn back as soon as possible, for the mistress of the place is not fond of company."
+   [37]
+    1 string data = "You should heed my words, young adventurers."
+   [38]
+    1 string data = "To anger the mistress is to put oneself in danger."
+   [39]
+    1 string data = "I... don't mind the cold..."
+   [40]
+    1 string data = "If I could only remember..."
+   [41]
+    1 string data = "A journal? It seems like it belongs to the mistress, but these entries have my handwriting..."
+   [42]
+    1 string data = "Ah, yes... I had forgotten all about the estate..."
+   [43]
+    1 string data = "Basking in the summer sun... And the flowers, they were beautiful..."
+   [44]
+    1 string data = "I wish that I could go there again..."
+   [45]
+    1 string data = "I wish..."
+   [46]
+    1 string data = "The <color=good>Ferryman</color> will know what to do with that."
+   [47]
+    1 string data = "This locket..."
+   [48]
+    1 string data = "..."
+   [49]
+    1 string data = "(<color=good>Ewilda</color>... for you to be the one who saves me in the end... how poetic...)"
+   [50]
+    1 string data = "Thank you for your help, brave souls."
+   [51]
+    1 string data = "Please accept this <color=magic>key to my coffin</color>. Its contents belonged to an old rival of mine, which I believe will be of value to you."
+   [52]
+    1 string data = "Farewell..."
+   [53]
+    1 string data = "Press <button="WindBracelet"> while standing on a raft to move around."
+   [54]
+    1 string data = "..."

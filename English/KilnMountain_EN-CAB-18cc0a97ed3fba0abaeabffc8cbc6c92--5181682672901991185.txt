@@ -1,0 +1,270 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "KilnMountain_EN"
+ 1 string locCategoryId = "KilnMountainIsland/KilnMountain"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (128 items)
+   0 int size = 128
+   [0]
+    1 string data = "The entrance is blocked. Nothing we can do for now."
+   [1]
+    1 string data = "Garl needs us to clear the place. No time to lose!"
+   [2]
+    1 string data = "The volcano's been opened."
+   [3]
+    1 string data = "Let's clear the place so Garl and Malkomud can build their thing."
+   [4]
+    1 string data = "I'm right behind you."
+   [5]
+    1 string data = "Your <color=magic>Mistral Bracelet</color> should be able to push that."
+   [6]
+    1 string data = "This is our target?"
+   [7]
+    1 string data = "Yes."
+   [8]
+    1 string data = "It will be vulnerable to your lunar magic."
+   [9]
+    1 string data = "Good."
+   [10]
+    1 string data = "Thanks for the help, Resh’an."
+   [11]
+    1 string data = "Naturally."
+   [12]
+    1 string data = "Now to wait for the others."
+   [13]
+    1 string data = "Totally! And the face on Zale, too!"
+   [14]
+    1 string data = "Hahaha!"
+   [15]
+    1 string data = "..."
+   [16]
+    1 string data = "Garl, do you think-"
+   [17]
+    1 string data = "Zale!"
+   [18]
+    1 string data = "So, you got Zephyr?"
+   [19]
+    1 string data = "Right here."
+   [20]
+    1 string data = "How about Malkomud?"
+   [21]
+    1 string data = "He’s still working on it."
+   [22]
+    1 string data = "We’ll need time anyway, there's lots of crops in The Vespertine!"
+   [23]
+    1 string data = "Right! Let’s all go and-"
+   [24]
+    1 string data = "Aahh..."
+   [25]
+    1 string data = "Garl!"
+   [26]
+    1 string data = "I’m okay, Valere. Just need a moment here."
+   [27]
+    1 string data = "Gah..."
+   [28]
+    1 string data = "..."
+   [29]
+    1 string data = "You just sit, okay? We’ll carry the crops."
+   [30]
+    1 string data = "But..."
+   [31]
+    1 string data = "You're right... That’s probably best..."
+   [32]
+    1 string data = "..."
+   [33]
+    1 string data = "I'll take care of it. You spend some time with your friend."
+   [34]
+    1 string data = "I..."
+   [35]
+    1 string data = "Thank you, Seraï."
+   [36]
+    1 string data = "Haha! That’s one way to-"
+   [37]
+    1 string data = "GAAH!!"
+   [38]
+    1 string data = "Take it easy, Garl."
+   [39]
+    1 string data = "That one really hurt."
+   [40]
+    1 string data = "I hope I’ll be able to-"
+   [41]
+    1 string data = "We're with you no matter what."
+   [42]
+    1 string data = "..."
+   [43]
+    1 string data = "We didn't come this far for nothing. I'll see this through."
+   [44]
+    1 string data = "I think I have finished."
+   [45]
+    1 string data = "Yeah? Are you happy with the result?"
+   [46]
+    1 string data = "..."
+   [47]
+    1 string data = "Why do you ask? I did for you."
+   [48]
+    1 string data = "Well, are you happy you did it for me?"
+   [49]
+    1 string data = "Yes but I hope you like."
+   [50]
+    1 string data = "I’m sure he will, Malkomud."
+   [51]
+    1 string data = "I remember you. You can look too."
+   [52]
+    1 string data = "Yes!"
+   [53]
+    1 string data = "Yes, yes!"
+   [54]
+    1 string data = "So the crops go up there, chuck them in..."
+   [55]
+    1 string data = "Flour fills up here for mixing..."
+   [56]
+    1 string data = "After a little kneading, bring it up there, knead some more, let it sit with the heat and..."
+   [57]
+    1 string data = "Good job, Malkomud! It’s perfect!"
+   [58]
+    1 string data = "I only follow your plan."
+   [59]
+    1 string data = "Guys, this is going to be HUGE!"
+   [60]
+    1 string data = "Can we help?"
+   [61]
+    1 string data = "Of course!"
+   [62]
+    1 string data = "Alright, Malkomud, time for the heat!"
+   [63]
+    1 string data = "Perfection! Now we let it bake."
+   [64]
+    1 string data = "It comes and goes. Like right now I feel just fine."
+   [65]
+    1 string data = "Let's just share more memories, okay? It's all I want."
+   [66]
+    1 string data = "..."
+   [67]
+    1 string data = "Oh, I know: Remember when I brought you cookies while you were at the academy?"
+   [68]
+    1 string data = "You never told us how you managed to make the flying platform move."
+   [69]
+    1 string data = "With a monocle!"
+   [70]
+    1 string data = "Huh? Was it a magic monocle?"
+   [71]
+    1 string data = "Oh no, I used it to focus sunlight directly onto the rune."
+   [72]
+    1 string data = "It made sense, so I just went for it and it worked! The beam wasn't very strong, though."
+   [73]
+    1 string data = "That must have taken hours."
+   [74]
+    1 string data = "Sure did. Eight, in fact."
+   [75]
+    1 string data = "Haha, no way!"
+   [76]
+    1 string data = "Yup."
+   [77]
+    1 string data = "Well, eight hours of sunlight, to be exact. That's excluding the night I spent halfway up in the air."
+   [78]
+    1 string data = "How did you not get caught?"
+   [79]
+    1 string data = "Oh, I got caught, but I was already out of reach by the time Gran saw me."
+   [80]
+    1 string data = "I wish I could have seen her face!"
+   [81]
+    1 string data = "Believe me, I wish I hadn’t."
+   [82]
+    1 string data = "And then-"
+   [83]
+    1 string data = "Ahh... GAH..."
+   [84]
+    1 string data = "*cough cough*"
+   [85]
+    1 string data = "Garl!"
+   [86]
+    1 string data = "I’m..."
+   [87]
+    1 string data = "I think my time’s almost up."
+   [88]
+    1 string data = "Don’t say that."
+   [89]
+    1 string data = "I have to..."
+   [90]
+    1 string data = "Have to finish this."
+   [91]
+    1 string data = "Valere, please tell Malkomud to cut the lava flow."
+   [92]
+    1 string data = "Gah... Zale, I need Zephyr now."
+   [93]
+    1 string data = "..."
+   [94]
+    1 string data = "Here..."
+   [95]
+    1 string data = "..."
+   [96]
+    1 string data = "I hope this works..."
+   [97]
+    1 string data = "Thank you, curious one, for this unprecedented act of goodness and generosity."
+   [98]
+    1 string data = "Through your creation, the elements have soothed my long tormented soul."
+   [99]
+    1 string data = "Hey, anytime. It’s just bread really."
+   [100]
+    1 string data = "This marks a new beginning for me."
+   [101]
+    1 string data = "If it is not too much to ask, would you be willing to give me a new name?"
+   [102]
+    1 string data = "I..."
+   [103]
+    1 string data = "Sure."
+   [104]
+    1 string data = "AUGHHH!!!"
+   [105]
+    1 string data = "I still have a bit of time... I can do this..."
+   [106]
+    1 string data = "Okay... So, what are your ambitions?"
+   [107]
+    1 string data = "My past was one of anger and destruction, but you have shown me the way to a higher purpose."
+   [108]
+    1 string data = "I wish to honor your memory by becoming a devoted caterer."
+   [109]
+    1 string data = "Aww, that's so nice of you to say."
+   [110]
+    1 string data = "*cough cough*"
+   [111]
+    1 string data = "So a butler, huh?"
+   [112]
+    1 string data = "How about Sinclair?"
+   [113]
+    1 string data = "Nah, hold on."
+   [114]
+    1 string data = "Oh, I know!"
+   [115]
+    1 string data = "For this new life, I shall name you <color=good>Wentworth</color>."
+   [116]
+    1 string data = "Wentworth..."
+   [117]
+    1 string data = "Once again, I thank you. Never have I encountered such a caring soul."
+   [118]
+    1 string data = "I understand your time is almost up."
+   [119]
+    1 string data = "Is there anything I can do to repay your kindness?"
+   [120]
+    1 string data = "There is one thing, yes."
+   [121]
+    1 string data = "For my final journey, I’d like to fly on your back with my friends."
+   [122]
+    1 string data = "..."
+   [123]
+    1 string data = "It would be my honor and privilege."
+   [124]
+    1 string data = "Then please take us to Mooncradle. I want to be buried under the Celestial Willow."
+   [125]
+    1 string data = "Garl..."
+   [126]
+    1 string data = "Garl was just at our outpost and mentioned you'd be coming. I came after grabbing what I could--do you need anything?"
+   [127]
+    1 string data = "Do you need anything?"

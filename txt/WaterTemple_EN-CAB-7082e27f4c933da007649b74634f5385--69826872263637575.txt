@@ -1,0 +1,42 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "WaterTemple_EN"
+ 1 string locCategoryId = "WatcherIsland/WaterTemple"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (14 items)
+   0 int size = 14
+   [0]
+    1 string data = "Energie vycházející z těchto dveří působí zvláštně..."
+   [1]
+    1 string data = "Musí tam být to, co hledáme!"
+   [2]
+    1 string data = "Nemají žádnou kliku, zatlačit dovnitř taky nepomáhá."
+   [3]
+    1 string data = "Ani na naši magii nereagují..."
+   [4]
+    1 string data = "Možná máme prostě jen zaklepat?"
+   [5]
+    1 string data = "Vypadá to, že sem něco patří. "
+   [6]
+    1 string data = "Lze aktivovat vodní tunel."
+   [7]
+    1 string data = "Aktivovat"
+   [8]
+    1 string data = "Teď ne"
+   [9]
+    1 string data = "Lze aktivovat vodní tunel."
+   [10]
+    1 string data = "Aktivovat"
+   [11]
+    1 string data = "Teď ne"
+   [12]
+    1 string data = "Potřebujeme více perel."
+   [13]
+    1 string data = "Nemáme nic, co bychom sem mohli dát."

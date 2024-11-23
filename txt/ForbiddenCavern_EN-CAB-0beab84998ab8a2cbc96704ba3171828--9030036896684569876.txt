@@ -1,0 +1,192 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ForbiddenCavern_EN"
+ 1 string locCategoryId = "EvermistIsland/ForbiddenCavern"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (89 items)
+   0 int size = 89
+   [0]
+    1 string data = "Tak jsme tady, čas na sváču!"
+   [1]
+    1 string data = "Cože? Ale já nemám hlad."
+   [2]
+    1 string data = "Jo, vždyť jsme odešli jen před pár minutami."
+   [3]
+    1 string data = "Hele, není to skutečné dobrodružství, pokud si na cestě nedáte sváču."
+   [4]
+    1 string data = "Navíc jsem pro tuto příležitost připravil něco speciálního."
+   [5]
+    1 string data = "Tady máte!"
+   [6]
+    1 string data = "Mňam, to bylo hrozně dobré!"
+   [7]
+    1 string data = "Jo, beze srandy!"
+   [8]
+    1 string data = "Jsem rád, že vám chutnalo."
+   [9]
+    1 string data = "To je tím džemem. Použil jsem na něj trochu mízy z <color=magic>Nebeské vrby</color>."
+   [10]
+    1 string data = "Z toho bys mohl mít průšvih."
+   [11]
+    1 string data = "To byste mě museli napráskat."
+   [12]
+    1 string data = "Hahaha!"
+   [13]
+    1 string data = "Fajn, takže co přesně mám udělat?"
+   [14]
+    1 string data = "Možná to samé, co mi ukazovala Erlina?"
+   [15]
+    1 string data = "Zkus rozevřít dlaň a soustředit se."
+   [16]
+    1 string data = "To zvládneš, Valerie!"
+   [17]
+    1 string data = "VĚDĚL JSEM TO!!!"
+   [18]
+    1 string data = "POVEDLO SE!?"
+   [19]
+    1 string data = "..."
+   [20]
+    1 string data = "Dokázala jsem to..."
+   [21]
+    1 string data = "KONEČNĚ JSEM TO DOKÁZALA!!!"
+   [22]
+    1 string data = "Takže... co teď?"
+   [23]
+    1 string data = "Ředitel určitě ten zvon slyšel."
+   [24]
+    1 string data = "Máme tady na něj prostě počkat?"
+   [25]
+    1 string data = "Klidně pojďme dovnitř, bude to naše první dobrodružství!"
+   [26]
+    1 string data = "Jasně, a potom ředitel uvidí, že se nebojíme!"
+   [27]
+    1 string data = "Tohle je fakt paráda, tak pojďme!"
+   [28]
+    1 string data = "Poběž, [MAINCHAR], chci vidět tu jeskyni!"
+   [29]
+    1 string data = "Támhle jsou <color=bad>příšery</color>, schovejte se!"
+   [30]
+    1 string data = "Myslel jsem si, že na Ostrově věčné mlhy je bezpečno."
+   [31]
+    1 string data = "Asi to platí jenom pro Měsíční Kolébku..."
+   [32]
+    1 string data = "Vypadají nebezpečně, měli jsme zůstat venku."
+   [33]
+    1 string data = "Jo, máš pravdu. Jdem."
+   [34]
+    1 string data = "Stojí nám v cestě!"
+   [35]
+    1 string data = "Jsme obklíčeni! Braňte se."
+   [36]
+    1 string data = "Na tohle nejsme připravení..."
+   [37]
+    1 string data = "Pozor, k něčemu se chystá!"
+   [38]
+    1 string data = "[MAINCHAR], dávej pozor!"
+   [39]
+    1 string data = "AAAAAHHHHHGGGG!"
+   [40]
+    1 string data = "NE!!!"
+   [41]
+    1 string data = "Moje oko!!"
+   [42]
+    1 string data = "GARLE!!!"
+   [43]
+    1 string data = "Strašně to bolí..."
+   [44]
+    1 string data = "Já... nevidím..."
+   [45]
+    1 string data = "..."
+   [46]
+    1 string data = "Nemáme kudy utéct..."
+   [47]
+    1 string data = "Neměli jsme sem chodit!"
+   [48]
+    1 string data = "Držte se!"
+   [49]
+    1 string data = "Takže jste to byli vy..."
+   [50]
+    1 string data = "Vidím, že jste stejně vynalézaví, jako jste lehkovážní."
+   [51]
+    1 string data = "Pane řediteli! Garl potřebuje pomoc!"
+   [52]
+    1 string data = "Je to... lepší..."
+   [53]
+    1 string data = "Garl se potřebuje především nezabývat záležitostmi Bojovníků Slunovratu, stejně jako každý jiný, kdo se v Měsíční Kolébce narodil jako běžné dítě!"
+   [54]
+    1 string data = "Je mi to vážně líto, pane řediteli. Celé to byl můj nápad..."
+   [55]
+    1 string data = "Hele!"
+   [56]
+    1 string data = "..."
+   [57]
+    1 string data = "Buď rád, že jsi za tuhle lekci zaplatil pouze okem, chlapče."
+   [58]
+    1 string data = "A co se vás dvou týče, pokud skutečně tak moc toužíte začít s výcvikem, tak vám vyhovím."
+   [59]
+    1 string data = "Následujte mě."
+   [60]
+    1 string data = "A ty jsi vždycky chtěla být jako Moyara."
+   [61]
+    1 string data = "Ten den zemřelo přes dvacet Bojovníků Slunovratu a my to máme jen tak přijmout?"
+   [62]
+    1 string data = "Byla to ode mě hloupost. Už nechci být hrdinkou."
+   [63]
+    1 string data = "Já jsem se hrdinou nechtěl stát nikdy..."
+   [64]
+    1 string data = "A ať dělám, co dělám, Moraine vždycky říká, že se neučím dost rychle. Je mi z toho prostě nanic."
+   [65]
+    1 string data = "Já vím, Brugavesi..."
+   [66]
+    1 string data = "Jestli pro nás existuje jakékoliv východisko, tak já ho najdu."
+   [67]
+    1 string data = "No, mně je zima..."
+   [68]
+    1 string data = "A já mám hlad."
+   [69]
+    1 string data = "Jsme bezmocní..."
+   [70]
+    1 string data = "Tak fajn, vrátíme se."
+   [71]
+    1 string data = "Zpět k tréninku magie. Hurá."
+   [72]
+    1 string data = "Teď to jde rozhodně snadněji."
+   [73]
+    1 string data = "Tentokrát tou jeskyní projdeme."
+   [74]
+    1 string data = "To zařízení je rozbité, nemůžeme aktivovat most."
+   [75]
+    1 string data = "Vypadá to, že tady nalevo můžeme jít oklikou."
+   [76]
+    1 string data = "Valerie?"
+   [77]
+    1 string data = "To zní jako něco velkého. Připrav se!"
+   [78]
+    1 string data = "NÁŠ PRVNÍ VELKÝ ÚSPĚCH!"
+   [79]
+    1 string data = "Haha! Zvládli jsme to!"
+   [80]
+    1 string data = "Cesta ven vede támhle tudy."
+   [81]
+    1 string data = "Horská stezka by už neměla být příliš daleko."
+   [82]
+    1 string data = "[MAINCHAR], je tady <color=magic>ohniště</color>. Měli bychom si trochu odpočinout a výlečit se, dokud máme možnost."
+   [83]
+    1 string data = "Zamčeno."
+   [84]
+    1 string data = "Možná je ten klíč v té truhle tam nahoře?"
+   [85]
+    1 string data = "Tam se teď nedostaneme. Pojďme se tu porozhlédnout."
+   [86]
+    1 string data = "Hele, tenhle zářící svitek vypadá zajímavě, měli bychom si ho prohlédnout."
+   [87]
+    1 string data = "Použijte svitek z inventáře, abyste se naučili nové kombo."
+   [88]
+    1 string data = "Po deseti letech výcviku se [MAINCHAR] a [OFFCHAR] vydávají na cestu k Horské stezce, kde mají vyhledat pradávného věštce známého jako <color=good>Mlžný stařešina</color>..."

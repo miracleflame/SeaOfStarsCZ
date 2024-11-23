@@ -1,0 +1,134 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ElderMistTrials_EN"
+ 1 string locCategoryId = "EvermistIsland/ElderMistTrials"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (60 items)
+   0 int size = 60
+   [0]
+    1 string data = "Vítejte na zkouškách Mlžného stařešiny."
+   [1]
+    1 string data = "Abyste prošli tímto závěrečným testem, musíte dát dohromady tři velké artefakty a to tak, že splníte úkoly s nimi spojené."
+   [2]
+    1 string data = "Příšery, které se vás pokusí zastavit, jsou imunní vůči fyzickým útokům a <color=magic>používání útočných kouzel je zakázáno</color>."
+   [3]
+    1 string data = "Co? Jak tedy?"
+   [4]
+    1 string data = "Hú! Proto musíte používat magii, aniž byste použili magii!"
+   [5]
+    1 string data = "Zkoušky čekají. Hodně štěstí!"
+   [6]
+    1 string data = "Ten útok nic neudělal!"
+   [7]
+    1 string data = "Kouzlo by to pravděpodobně zvládlo, ale tady je nemůžeme používat..."
+   [8]
+    1 string data = "..."
+   [9]
+    1 string data = "Hele, po útoku se objevily nějaké <color=magic>malé koule</color>"
+   [10]
+    1 string data = "Možná je to "Živá mana"?"
+   [11]
+    1 string data = "Může být, cítím k nim něco jako přitažlivost."
+   [12]
+    1 string data = "Možná by šlo vyjít tomu vstříc. Zkusím to."
+   [13]
+    1 string data = "Fíha!!!"
+   [14]
+    1 string data = "Funguje to! Jaký je to pocit?"
+   [15]
+    1 string data = "Jako síla! Takže když zaútočím, mělo by to teď způsobit magické zranění."
+   [16]
+    1 string data = "No teda! Tak tohle musím přístě zkusit!"
+   [17]
+    1 string data = "<color=magic>Posílení</color> bylo odemčeno!"
+   [18]
+    1 string data = "Běžné útoky nyní generují Živou manu. Podržte <button="Combat_Boost"> a stiskněte <button="Interact"> pro absorbování částic a <color=magic>Posílení</color>!"
+   [19]
+    1 string data = "Lze navršit až tři posilující částice, přičemž každá z nich přidá zlomek hodnoty magického útoku postavy k její další akci a zvýší tak její sílu."
+   [20]
+    1 string data = "V případě posílení běžných útoků se k typu poškození zbraně přidává také typ vlastního magického poškození postavy (pokud jej má)."
+   [21]
+    1 string data = "Ať už se potýkáte se složitým vzorem zámků, potřebujete, aby vaše příští léčivé kouzlo opravdu stálo za to, nebo prostě jen chcete způsobit větší poškození, nezapomeňte na posílení!"
+   [22]
+    1 string data = "Hú hú hú..."
+   [23]
+    1 string data = "Přípravy jsou dokončeny. Vidím, že rozumíte moci Živé many."
+   [24]
+    1 string data = "Ale dokážete ji dokonale ovládnout? Uvidíme!"
+   [25]
+    1 string data = "<color=magic>Používání kouzel je nyní opět povoleno</color>."
+   [26]
+    1 string data = "Utkejte se se mnou, Děti Slunovratu!"
+   [27]
+    1 string data = "Jak ohromující!"
+   [28]
+    1 string data = "Hú! Čeká vás vskutku zářná budoucnost."
+   [29]
+    1 string data = "[MAINCHAR] a [OFFCHAR], pasuji vás na <color=good>Bojovníky Slunovratu</color>!"
+   [30]
+    1 string data = "Dokázali jsme to, Valerie!"
+   [31]
+    1 string data = "Konečně!"
+   [32]
+    1 string data = "Gratuluji, lidi!"
+   [33]
+    1 string data = "Během vašich zkoušek jsem se poradil s Mlhami času."
+   [34]
+    1 string data = "Až budete připraveni opustit toto místo, vyhledejte mě opět u Posvátného rybníka a já vám povím o vašich příslušných proroctvích."
+   [35]
+    1 string data = "Ale ať vám to netrvá příliš dlouho."
+   [36]
+    1 string data = "Abyste získali tento kousek artefaktu, musíte správně odpovědět na tři otázky. Podíváme se, jak dobře jste se učili."
+   [37]
+    1 string data = "Která z těchto dvou akcí regeneruje BM?"
+   [38]
+    1 string data = "Útok"
+   [39]
+    1 string data = "Seslání kouzla"
+   [40]
+    1 string data = "Špatně! Správná odpověď byla: Útok."
+   [41]
+    1 string data = "Jak se jmenuje škola, do které jste chodili?"
+   [42]
+    1 string data = "Akademie Zenit"
+   [43]
+    1 string data = "Základní škola Slunovratu"
+   [44]
+    1 string data = "Špatně! Správná odpověď byla: Akademie Zenit."
+   [45]
+    1 string data = "Jednou z velmi důležitých povinností Bojovníka Slunovratu je ničit Přiživovače, kteří se stávají zranitelnými během kterého přírodního jevu?"
+   [46]
+    1 string data = "Rovnodennost"
+   [47]
+    1 string data = "Zatmění"
+   [48]
+    1 string data = "Slunovrat"
+   [49]
+    1 string data = "Špatně! Správná odpověď byla: Zatmění."
+   [50]
+    1 string data = "Toto je naše poslední šance na přípravu. Cítíte se připraveni?"
+   [51]
+    1 string data = "Ano!"
+   [52]
+    1 string data = "Počkat"
+   [53]
+    1 string data = "Vrátit se na Horskou stezku?"
+   [54]
+    1 string data = "Ano"
+   [55]
+    1 string data = "Ne"
+   [56]
+    1 string data = "Hú hú hú!"
+   [57]
+    1 string data = "Silní jste vskutku!"
+   [58]
+    1 string data = "Ať vám tyto dobře slouží."
+   [59]
+    1 string data = "Sbohem, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]!"

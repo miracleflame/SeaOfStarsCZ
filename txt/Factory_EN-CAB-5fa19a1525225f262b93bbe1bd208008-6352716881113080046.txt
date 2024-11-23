@@ -1,0 +1,60 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Factory_EN"
+ 1 string locCategoryId = "CeruleanIsland/Factory"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (23 items)
+   0 int size = 23
+   [0]
+    1 string data = "Elevator offline. <color=magic>Kybermesh Battery</color> required."
+   [1]
+    1 string data = "Please use <color=magic>laser crane</color> for safe handling."
+   [2]
+    1 string data = "The elevator is online."
+   [3]
+    1 string data = "Exit factory"
+   [4]
+    1 string data = "Stay"
+   [5]
+    1 string data = "An <color=magic>ID Card</color> is required to operate the crane."
+   [6]
+    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc, 1x Kyber Ore, 1x Power Unit"
+   [7]
+    1 string data = "Kybermesh Battery Printer missing components: 1x Kyber Ore, 1x Power Unit"
+   [8]
+    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc, 1x Power Unit"
+   [9]
+    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc, 1x Kyber Ore"
+   [10]
+    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc"
+   [11]
+    1 string data = "Kybermesh Battery Printer missing components: 1x Kyber Ore"
+   [12]
+    1 string data = "Kybermesh Battery Printer missing components: 1x Power Unit"
+   [13]
+    1 string data = "Processing..."
+   [14]
+    1 string data = "Kybermesh Battery completed. Sending to elevator room."
+   [15]
+    1 string data = "Please use laser crane for safe handling."
+   [16]
+    1 string data = "Power Unit dispenser online."
+   [17]
+    1 string data = "Please insert Wireplate Sheet."
+   [18]
+    1 string data = "Processing Complete."
+   [19]
+    1 string data = "Please retrieve completed Power Unit."
+   [20]
+    1 string data = "Elevator online."
+   [21]
+    1 string data = "It's locked, but it looks like the roof is accessible."
+   [22]
+    1 string data = "Looks like a device would fit here."

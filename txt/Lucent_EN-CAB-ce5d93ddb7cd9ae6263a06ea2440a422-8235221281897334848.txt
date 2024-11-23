@@ -1,0 +1,718 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Lucent_EN"
+ 1 string locCategoryId = "WraithIsland/Lucent"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (352 items)
+   0 int size = 352
+   [0]
+    1 string data = "Noví návštěvníci, vítejte v <color=location>První fázi žalu</color>."
+   [1]
+    1 string data = "Prosím, připojte se k nám a dovolte si vyrovnat se s tím, jak vám to nejlépe vyhovuje. Pro dnešní noc budu k vaším službám."
+   [2]
+    1 string data = "Hlavně mějte na paměti úctu a podporu pro ostatní hosty a pokaždé si zdělte pohádky!"
+   [3]
+    1 string data = "Nechám vás, abyste se posadili. Dáte si něco k jídlu nebo pití, aby se vám ubezpečování lépe snášelo?"
+   [4]
+    1 string data = "Přinášíme dobré zprávy, pane hostinský! Dorazili Bojovníci Slunovratu, aby se vypořádali s Přiživovačkou!"
+   [5]
+    1 string data = "Ale ovšem, že dorazili!"
+   [6]
+    1 string data = "Ohledně mého dotazu: Dáte si k pohádkám, které si budete vyprávět, nějaké jídlo nebo pití?"
+   [7]
+    1 string data = "Ale to je pravda!"
+   [8]
+    1 string data = "Nepochybně! Určitě i to se stane, stejně jako můj poslední jednodenní výlet do Svěžína! Bylo to tak krásné."
+   [9]
+    1 string data = "A teď do třetice, můžu vám něčím posloužit?"
+   [10]
+    1 string data = "Na pár dní by se nám hodil pokoj."
+   [11]
+    1 string data = "Přirozeně! Většina 'dočasných hostů' tak začíná."
+   [12]
+    1 string data = "Pane, my jsme tady opravdu proto, abychom očistili ostrov. Jen čekáme na ostatní."
+   [13]
+    1 string data = "To je zvlášť zjevně faktické, a já jsem tu z vlastní vůle!"
+   [14]
+    1 string data = "Prosím, dejte mi vědět, až si budete chtít jít lehnout. Mezitím si užijte představení, co brzo začne."
+   [15]
+    1 string data = "Užijte si pobyt v První fázi žalu! Ať vám odpoutá myšlenky od nevyhnutelného."
+   [16]
+    1 string data = "Au…"
+   [17]
+    1 string data = "Tihle ubozí lidé to museli snášet tak dlouho."
+   [18]
+    1 string data = "Jako by se už ani nedokázali vyrovnat s realitou…"
+   [19]
+    1 string data = "Ještě že jsme tady, abychom to ukončili!"
+   [20]
+    1 string data = "Tedy hned jak přijde to zatmění."
+   [21]
+    1 string data = "A posily."
+   [22]
+    1 string data = "Jsem si jistý, že to oba zvládnete skvěle!"
+   [23]
+    1 string data = "Fíha, Keenathan hraje na akordeon!"
+   [24]
+    1 string data = "Vlaaastně, mladý muži, tohle je koncertina!"
+   [25]
+    1 string data = "Dobře poslouchejte, přátelé!"
+   [26]
+    1 string data = "Jsme pirátská posádka, která si jednoho dne podmaní Večernici!"
+   [27]
+    1 string data = "Úú, tak TOHLE se určitě stane!"
+   [28]
+    1 string data = "Již dlouho upíráme zrak ke kořisti. Každým dnem pilujeme náš plán."
+   [29]
+    1 string data = "A každou noc ji vidíme ve svých snech."
+   [30]
+    1 string data = "A já můžu odejít, kdykoliv se mi zachce!"
+   [31]
+    1 string data = "Kdykoliv? Hej, to je moje druhé jméno!"
+   [32]
+    1 string data = "Žijeme pro dobrodružství a pro nové obzory. Kapitánka říká, že jednoho dne dokonce proplujeme skrz Moře-"
+   [33]
+    1 string data = "YOLANDO!"
+   [34]
+    1 string data = "Aye aye, kapitánko! Omlouvám se, kapitánko!"
+   [35]
+    1 string data = "Ti by mohli vyplout hned teď!"
+   [36]
+    1 string data = "Když je nejhůř, rádi si zahrajeme písničku."
+   [37]
+    1 string data = "Zní nějak takhle…"
+   [38]
+    1 string data = "Hele, co se týče Garla…"
+   [39]
+    1 string data = "Jo, on s námi nemůže bojovat proti Přiživovačce."
+   [40]
+    1 string data = "A co myslíš, že jsme udělali chybu?"
+   [41]
+    1 string data = "Chci říct, že sice je skvělé ho tady mít, jenom že…"
+   [42]
+    1 string data = "Já vím, nešlo by si to odpustit, kdybychom ho nedokázali ochránit."
+   [43]
+    1 string data = "Tohle je nářez! Jste neuvěřitelní!"
+   [44]
+    1 string data = "Alespoň se dobře baví."
+   [45]
+    1 string data = "Opravdu si užívá dobrodružný život, o jakém jsme vždy snili."
+   [46]
+    1 string data = "Taky hodně přemýšlím o očistě…"
+   [47]
+    1 string data = "Jo, ještěže tohle nevedeme my!"
+   [48]
+    1 string data = "V mých představách byla záchrana světa samá akce a sláva, ale to, čím si tihle lidé prošli, je až příliš skutečné…"
+   [49]
+    1 string data = "No tak o důvod víc dát do toho všechno, mám pravdu?"
+   [50]
+    1 string data = "…"
+   [51]
+    1 string data = "To máš!"
+   [52]
+    1 string data = "Tak, co teď?"
+   [53]
+    1 string data = "Hádám, že se tu zabydlíme?"
+   [54]
+    1 string data = "Tak TOHLE mi přijde strašidelné!"
+   [55]
+    1 string data = "Haha! Zkusme si to tady užít."
+   [56]
+    1 string data = "Připraveni k odpočinku?"
+   [57]
+    1 string data = "Jo!"
+   [58]
+    1 string data = "Ne, počkat…"
+   [59]
+    1 string data = "O pár dní odpočinku později…"
+   [60]
+    1 string data = "Takže si opravdu koupíte loď duchů za tu magickou minci, co jsme přinesli?"
+   [61]
+    1 string data = "Takový je plán!"
+   [62]
+    1 string data = "Hele, až tady skončí ta očista, budeme si moct dělat, co budeme chtít, že jo?"
+   [63]
+    1 string data = "Možná bychom se s nimi mohli chvíli plavit!"
+   [64]
+    1 string data = "…"
+   [65]
+    1 string data = "Zní to jako zábava."
+   [66]
+    1 string data = "Hádám, že větší loď bude vskutku vyžadvat více rukou!"
+   [67]
+    1 string data = "Ha! Já bych určitě chtěl být námořnickým kuchařem…"
+   [68]
+    1 string data = "Ne, pirátským šefkuchařem!"
+   [69]
+    1 string data = "To už zní lépe!"
+   [70]
+    1 string data = "Jste více než vítáni na palubě! Každopádně, kapitánka říkala, že vy tři máte…"
+   [71]
+    1 string data = "VALTRAIDE!"
+   [72]
+    1 string data = "Aye, omlouvám se, kapitánko…"
+   [73]
+    1 string data = "No, když štěstí dá… Možná by byla zábava chvíli se spolu plavit, jenom možná…"
+   [74]
+    1 string data = "Ale, ale, ale! Vybavujete si, jak se před deseti vteřinami nestalo VŮBEC NIC?"
+   [75]
+    1 string data = "Byla hrozná nuda!"
+   [76]
+    1 string data = "Kéž by se alespoň jednou stalo něco zvláštního!"
+   [77]
+    1 string data = "Příští runda je na mě!"
+   [78]
+    1 string data = "Huhú!"
+   [79]
+    1 string data = "…"
+   [80]
+    1 string data = "To byla…"
+   [81]
+    1 string data = "Přiživovačka žalu."
+   [82]
+    1 string data = "Tak je to pravda, tenhle ubohý vesničan prostě odkráčí náměsíčně do sídla a…"
+   [83]
+    1 string data = "…"
+   [84]
+    1 string data = "Ledaže…"
+   [85]
+    1 string data = "Ledaže…"
+   [86]
+    1 string data = "Zapomeňte na to, toho vesničana není možné zachránit!"
+   [87]
+    1 string data = "Vše v cajku, kapitánko? Nezníš jako ty!"
+   [88]
+    1 string data = "Chci říct… že je to planá námaha, aye, tak jest."
+   [89]
+    1 string data = "Jasně."
+   [90]
+    1 string data = "Co kdybyste dali na radu kapitánky a nezkoušeli žádné pitomosti?"
+   [91]
+    1 string data = "My půjdeme."
+   [92]
+    1 string data = "Ale to nemůžete! Bariéra je neprostupná, musíte počkat na zatmění!"
+   [93]
+    1 string data = "(??)"
+   [94]
+    1 string data = "No ale přece tu nebudeme sedět, když má být někdo sežrán zaživa!"
+   [95]
+    1 string data = "Nechápete to, kouzlo ovládání mysli spojuje Přiživovačku s její kořistí."
+   [96]
+    1 string data = "Nejste dost silní na to, abyste toho vesničana zastavili!"
+   [97]
+    1 string data = "(Kapitánko??)"
+   [98]
+    1 string data = "…"
+   [99]
+    1 string data = "Počkejte na mě!"
+   [100]
+    1 string data = "Ahoy, kapitánko, je něco potřeba?"
+   [101]
+    1 string data = "Potřebuji jen zkontrolovat vor…"
+   [102]
+    1 string data = "Proč nepošleš Valtraida?"
+   [103]
+    1 string data = "Trocha čerstvého vzduchu mi udělá dobře."
+   [104]
+    1 string data = "Jistě, kapitánko, jak si přeješ, kapitánko!"
+   [105]
+    1 string data = "Vy tři tu zůstaňte, dokud se nevrátím."
+   [106]
+    1 string data = "A snažte se to tu oživit, tihle lidé to potřebují."
+   [107]
+    1 string data = "Aye, aye, kapitánko!"
+   [108]
+    1 string data = "(Nastal čas improvizovat…)"
+   [109]
+    1 string data = "Prokletý les je na sever od Lucentu. Měli bychom odejít na východ."
+   [110]
+    1 string data = "Musíme si pospíšit do Doupěte nekromantky."
+   [111]
+    1 string data = "Kolik máme času?"
+   [112]
+    1 string data = "Jen tak tak, abychom to stihli, bude to nebezpečné."
+   [113]
+    1 string data = "S trochou štěstí nebude paní doma a podaří se nám sebrat kámen duší nepozorovaně."
+   [114]
+    1 string data = "Jak nebezpečné to bude? My jsme cvičeni v boji proti nemrtvé magii."
+   [115]
+    1 string data = "Nepochybně, ale Romaya je jednou ze <color=bad>Tří sester</color> a říká se o ní, že je ze všech ta nejobávanější."
+   [116]
+    1 string data = "Zda to znamená, že je mocnější než Bojovníci Slunovratu, snad nebudeme muset zjišťovat."
+   [117]
+    1 string data = "Jak se tam dostaneme?"
+   [118]
+    1 string data = "Východně od Lucentu pobývá <color=good>Převozník</color>, který nás vezme přes bažinu, pokud budeme hrát podle pravidel."
+   [119]
+    1 string data = "Tohle je jediná cesta do Doupěte nekromantky."
+   [120]
+    1 string data = "Dobře, díky... mimochodem, jak se jmenuješ?"
+   [121]
+    1 string data = "…"
+   [122]
+    1 string data = "Seraï."
+   [123]
+    1 string data = "Díky za pomoc, Seraï. Nevím, co bychom si bez tebe počali."
+   [124]
+    1 string data = "…"
+   [125]
+    1 string data = "Není zač."
+   [126]
+    1 string data = "Garle… Nezklameme tě, přísahám."
+   [127]
+    1 string data = "Takže… jak to funguje?"
+   [128]
+    1 string data = "Pulzuje to. Možná kdybych…"
+   [129]
+    1 string data = "Funguje to!"
+   [130]
+    1 string data = "Skvělé! Seraï, jak dlouho myslíš, že ten jed bude…"
+   [131]
+    1 string data = "Seraï?"
+   [132]
+    1 string data = "Odešla… Ani jsme jí nestihli poděkovat."
+   [133]
+    1 string data = "Mohli bychom si udělat pohodlí, tohle asi chvíli potrvá."
+   [134]
+    1 string data = "Haha! A pak jsi dělal jako "No, když nedostanu meč, jak udělám salta vzad?""
+   [135]
+    1 string data = "Ty máš co říkat s tou svou "Hradbou nevinných", jsem tak rád, že ses toho vzdala."
+   [136]
+    1 string data = "Dobře, ale stejně, už jsme pomohli spoustě lidí."
+   [137]
+    1 string data = "Jistě, jen není třeba se kvůli tomu chovat jakoby nevímco!"
+   [138]
+    1 string data = ""Jestli se máme někdy povznést, jako solární budu jiskrou já!""
+   [139]
+    1 string data = "Hej, přestaň! Bylo mi deset!"
+   [140]
+    1 string data = "Valerie, tam v lese, když mu ovládla mysl, se něco přihodilo…"
+   [141]
+    1 string data = "Hmmm?"
+   [142]
+    1 string data = "Nerozumím tomu, bylo to, jako by se mi v žaludku otevřela přehrada."
+   [143]
+    1 string data = "Jako když jsme se poprvé učili kouzlit?"
+   [144]
+    1 string data = "Tak nějak, ale… mnohem, mnohem silnější."
+   [145]
+    1 string data = "Myslíš, že to byla Přiživovačka?"
+   [146]
+    1 string data = "Ne, nepřipadalo mi to zlé, ani nějak špatné."
+   [147]
+    1 string data = "Bylo to něco jako reakce na to, že vidím Garla v nebezpečí…"
+   [148]
+    1 string data = "Ale nešlo to pustit dovnitř, bál jsem se, že by mě to přemohlo."
+   [149]
+    1 string data = "…"
+   [150]
+    1 string data = "Možná jsem mu mohl pomoci, ale…"
+   [151]
+    1 string data = "Kdyby se neukázala Seraï, tak…"
+   [152]
+    1 string data = "Zale, teď už jsme všichni v bezpečí. Na tom jediném záleží."
+   [153]
+    1 string data = "Myslím, že to bylo moje proroctví, asi jsem svou chvíli propásl."
+   [154]
+    1 string data = "Co tím myslíš?"
+   [155]
+    1 string data = "Mlžný stařešina mi sdělil, že mám potenciál, ale že nejdřív musím "pohlédnout do noci v mém nitru.""
+   [156]
+    1 string data = "Podle mně měl namysli tohle… Pomyšlení na ztrátu milované osoby."
+   [157]
+    1 string data = "Cítil jsem sílu, ale nedokázal jsem ji využít…"
+   [158]
+    1 string data = "Moc bych nad tím nedumala. Garl je v bezpečí a pokud vím, většina proroctví se stejně nevyplní."
+   [159]
+    1 string data = "Nejsi zvědavá na to své?"
+   [160]
+    1 string data = "Na to moje? Říkal, že bych mohla být schopná "vytvářet cesty na vodě." Co to má vůbec znamenat?"
+   [161]
+    1 string data = "Jo, tomu říkám hádanka…"
+   [162]
+    1 string data = "Já to vidím tak, že se to stane či nestane bez ohledu na to, kolik nocí kvůli tomu probdím."
+   [163]
+    1 string data = "Máš takový poklidný pohled na věc. Někdy si přeju, abych se taky narodil o zimním slunovratu."
+   [164]
+    1 string data = "Haha! Ty a Erlina máte pro věc rozhodně větší zápal."
+   [165]
+    1 string data = "Předpokládám, že my dva se svým způsobem vzájemně doplňujeme."
+   [166]
+    1 string data = "Proto jsme dobrý tým."
+   [167]
+    1 string data = "Asi jo…"
+   [168]
+    1 string data = "Nebo možná proto, že se kradením mé živé many můžeš předvádět?"
+   [169]
+    1 string data = "Haha! Na to zapomeň, děláš to mnohem víc než já!"
+   [170]
+    1 string data = "Hggnn…"
+   [171]
+    1 string data = "Garle!"
+   [172]
+    1 string data = "…"
+   [173]
+    1 string data = "Hele, já…"
+   [174]
+    1 string data = "Vítej zpět, Garle!"
+   [175]
+    1 string data = "Právě jsem měl hooodně blbej sen, lidi."
+   [176]
+    1 string data = "Už jsi v bezpečí, chlape, nedělej si s tím starosti."
+   [177]
+    1 string data = "Co se stalo?"
+   [178]
+    1 string data = "Potom, co jsme se pokusili pomoct tomu vesničanovi, Přiživovačka znovu zapěla a..."
+   [179]
+    1 string data = "Wou! Chceš říct, že se dokáže něco jako teleportovat?"
+   [180]
+    1 string data = "Tím, že nějak z ničeho vytvoří magický portál."
+   [181]
+    1 string data = "To je moc! Snad se s ní ještě setkáme, to musím vidět!"
+   [182]
+    1 string data = "Vítejte v První fázi žalu, posaďte se, prosím, a já hned přijdu!"
+   [183]
+    1 string data = "Děkujeme, pane hostinský. Nezdržíme se dlouho."
+   [184]
+    1 string data = "Ale jistě, že ne!"
+   [185]
+    1 string data = "Jsou tady!"
+   [186]
+    1 string data = "No, podívejme, kdo byl dochvilný!"
+   [187]
+    1 string data = "Ahoj všichni, tak rádi vás vidíme!"
+   [188]
+    1 string data = "Zatmění je na spadnutí, měl bych vám podat instruktáž."
+   [189]
+    1 string data = "Přece bychom nechtěli, aby někdo z vás skončil s myslí ovládanou Přiživovačkou?"
+   [190]
+    1 string data = "Aha, tak to už se stalo!"
+   [191]
+    1 string data = "Prosím?"
+   [192]
+    1 string data = "Šli jsme do lesa a Přiživovačka mě dostala, ale asasínka použila paralyzující jed, aby nám získala trochu času, a pak šli bojovat s nekromantkou a-"
+   [193]
+    1 string data = "Nekromantkou? Chceš mi říct, že [MAINCHAR] a [OFFCHAR] bojovali s Romayou a přežili?"
+   [194]
+    1 string data = "Měli jsme pomoc."
+   [195]
+    1 string data = "(Tihle dva, přísahám…)"
+   [196]
+    1 string data = "Na tom nezáleží, musíme okamžitě vyrazit do Doupěte Přiživovačky. Vysvětlovat budu cestou."
+   [197]
+    1 string data = "Poslední šance na přípravu. Dejte mi vědět, až budete připraveni."
+   [198]
+    1 string data = "Připraveni na očistu?"
+   [199]
+    1 string data = "Ano"
+   [200]
+    1 string data = "Počkat…"
+   [201]
+    1 string data = "Tak tedy vyrazíme. Držte se u mě všichni."
+   [202]
+    1 string data = "Kupředu, k očistě!"
+   [203]
+    1 string data = "Hmm? Hádám tě nenapadlo chtít jít s námi?"
+   [204]
+    1 string data = "Hele, umím bojovat a jsem fajn podpora!"
+   [205]
+    1 string data = "Přiživovači jsou odolní vůči všemu kromě magie slunovratu. Pouhá tvá přítomnost by byla přítěží."
+   [206]
+    1 string data = "No, Mlžný stařešina mi dal zvláštní povolení!"
+   [207]
+    1 string data = "Cože?"
+   [208]
+    1 string data = "Budu vědět, kdy ustoupit stranou, bez obav!"
+   [209]
+    1 string data = "…"
+   [210]
+    1 string data = "Dávej pozor, abys nepřekážel."
+   [211]
+    1 string data = "Máte to mít, pane řediteli!"
+   [212]
+    1 string data = "…Což jsem nepotřebovala slyšet, vzhledem k tomu, že serióznost je mé druhé jméno!"
+   [213]
+    1 string data = "Každopádně pak říkal, že na obyčejné nestvůry nikdy nepoužívá žádná kouzla, jen když bojuje s bossem, použije pouze to nejdražší!"
+   [214]
+    1 string data = "Hlava mi nebere, jak něco z toho může být považováno za zábavu."
+   [215]
+    1 string data = "No, každému, co jeho jest."
+   [216]
+    1 string data = "Máš někam namířeno, kapitánko?"
+   [217]
+    1 string data = "…"
+   [218]
+    1 string data = "Nevypadá, že by byl nějak vážně zraněný, asi jen toho na něj bylo moc."
+   [219]
+    1 string data = "Nic, co by polévka nespravila!"
+   [220]
+    1 string data = "DVOJČATA NE!"
+   [221]
+    1 string data = "Klid, pane řediteli. Potřebujete si odpočinout."
+   [222]
+    1 string data = "Děkuji ti, chlapče, byl jsi velice starostlivý."
+   [223]
+    1 string data = "To nestojí za řeč!"
+   [224]
+    1 string data = "[MAINCHAR]. [OFFCHAR]. Potřebuji více času na zotavení."
+   [225]
+    1 string data = "Naši nepřátelé už musí být na Karnimantově starém hradě na ostrově Mesa."
+   [226]
+    1 string data = "Ostrov Mesa je momentálně nedosažitelný, ale věřím, že když budu meditovat, řešení mě napadne."
+   [227]
+    1 string data = "Mezitím se, prosím, jděte podívat do Svěžína. Vyhodnoťte škody a snažte se pomoci všem přeživším v nouzi."
+   [228]
+    1 string data = "Jdeme."
+   [229]
+    1 string data = "Děkuji vám, mládeži. Doženu vás, až budu připraven."
+   [230]
+    1 string data = "Já jdu hned. Uvidíme se v Svěžíně."
+   [231]
+    1 string data = "Tak jste se tedy všichni sebrali a šli to udělat po svém, blahopřeji!"
+   [232]
+    1 string data = "…"
+   [233]
+    1 string data = "Nejste hrdí? Právě jste zachránili spoustu lidí, přátelé!"
+   [234]
+    1 string data = "My… Stalo se toho hodně a my to pořád zpracováváme…"
+   [235]
+    1 string data = "Proč ten protáhlý obličej? Stalo se něco NEPŘEDVÍDATELNÉHO?"
+   [236]
+    1 string data = "Všichni vypadáte, jako by se z vašeho mentora po celé době vyklubal záporák nebo co!"
+   [237]
+    1 string data = "Aha, ono to tak je?"
+   [238]
+    1 string data = "Koukejte, 'v dobrém' je moje druhé jméno… Omlouvám se, nevěděla jsem, že je to tak zlé, já…"
+   [239]
+    1 string data = "To je v pořádku, Yolando. Jen je toho teď na nás moc."
+   [240]
+    1 string data = "Dobrá, jakokoliv budu moct pomoci, dejte mi vědět, jasný?"
+   [241]
+    1 string data = "Něco by tu bylo."
+   [242]
+    1 string data = "Povídej!"
+   [243]
+    1 string data = "Svěžín to dost schytal. Máme rozkaz vrátit se, vyhodnotit škody a zjistit, jak můžeme pomoci."
+   [244]
+    1 string data = "Považuj to za vyřízené, synku!"
+   [245]
+    1 string data = "Tak co, jste připraveni vyplout? Za předpokladu, že jste tady hotovi, žano."
+   [246]
+    1 string data = "Ano"
+   [247]
+    1 string data = "Ne"
+   [248]
+    1 string data = "Musíme spěchat zpět do Svěžína. Yolanda nás může odvézt."
+   [249]
+    1 string data = "Přišli jste si zahrát?"
+   [250]
+    1 string data = "Ano"
+   [251]
+    1 string data = "Ne"
+   [252]
+    1 string data = "Doooobrý večer všem! Přivítejte, prosím, našeho nového soutěžícího, [MAINCHAR] !"
+   [253]
+    1 string data = "Před zatměním nemá smysl riskovat. Měli bychom si odpočinout v hostinci."
+   [254]
+    1 string data = "Piráti říkali, že budou v hostinci. Měli bychom se tam podívat."
+   [255]
+    1 string data = "Vydrž, Garle, vrátíme se s kamenem duší!"
+   [256]
+    1 string data = "Hledáte vybavení?"
+   [257]
+    1 string data = "Hledáte věcičky?"
+   [258]
+    1 string data = "…"
+   [259]
+    1 string data = "Tihleti jsou vážne dobří!"
+   [260]
+    1 string data = "Chcete mě vidět, jak slapuju na base, přátelé?"
+   [261]
+    1 string data = "Kapitánka právě odešla. Od té doby, co jsme sem přijeli, není ve svý kůži…"
+   [262]
+    1 string data = "Muzika, to je věc, za kterou se můžu postavit!"
+   [263]
+    1 string data = "Asi máme štěstí, že nikdo z nás není zakletý, co?"
+   [264]
+    1 string data = "Už jste se seznámili tady s mou malou kamarádkou? Úžasná flétnistka!"
+   [265]
+    1 string data = "Být váma, vyhýbám se Prokletému lesu."
+   [266]
+    1 string data = "Chtěli byste zůstat přes noc?"
+   [267]
+    1 string data = "Ano"
+   [268]
+    1 string data = "Ne"
+   [269]
+    1 string data = "Přijďte, prosím, i příště."
+   [270]
+    1 string data = "Děkuji vám za váš příspěvek. Přeji příjemný pobyt."
+   [271]
+    1 string data = "Kde jen může být? Kde je?"
+   [272]
+    1 string data = "Ahoj! Neviděli jste moji <color=magic>Turbo sušenku</color>? Opravdu ráda bych si ji teď dala."
+   [273]
+    1 string data = "Ach! Moc vám děkuji!"
+   [274]
+    1 string data = "Teď může moje nadvláda teroru konečně začít. POSTAVTE SE MI!!!"
+   [275]
+    1 string data = "Děkuji… vám…"
+   [276]
+    1 string data = "Prohledejte… můj… hrob…"
+   [277]
+    1 string data = "Smíšené zboží"
+   [278]
+    1 string data = "<color=location>První fáze žalu</color>"
+   [279]
+    1 string data = "Ach ne! To ne ne ne! NEBUDETE mít obsah mé truhly!"
+   [280]
+    1 string data = "Jestli to chcete, budete muset přimět mého <color=good>BRATRA</color>, aby se UDOBŘIL!"
+   [281]
+    1 string data = "Nic nedostanete, dokud nezařídíte, aby se můj <color=good>BATR</color> UDOBŘIL!"
+   [282]
+    1 string data = "Co chcete?"
+   [283]
+    1 string data = "Tohle je… od mého bratra?"
+   [284]
+    1 string data = "Ach, děkuji! Můj poklad je váš!"
+   [285]
+    1 string data = "Nedokážu ten džem sníst, ale i tak pro mě znamená všechno na světě. Ještě jednou děkuji."
+   [286]
+    1 string data = "Už dlouho se mi neozval můj <color=good>bratr</color>."
+   [287]
+    1 string data = "Cože? Pořád je na mě naštvaný?"
+   [288]
+    1 string data = "Neudělal jsem nic jiného, než že jsem snědl svačinu, o které jsem ani nevěděl, že je jeho!"
+   [289]
+    1 string data = "Co po mně chce? Mám mu dát nějaký <color=magic>Bobulový džem</color>? Jsme obrazy! Já nemůžu!"
+   [290]
+    1 string data = "Nemohu uvěřit, že je pořád naštvaný kvůli nějakému hloupému <color=magic>Bobulovému džemu</color>."
+   [291]
+    1 string data = "Takže vy jste mu dali trochu džemu a on se uklidnil? Fíha, dobrý…"
+   [292]
+    1 string data = "Očista nebude snadná. Raději se dobře vyzbrojte."
+   [293]
+    1 string data = "Je to pravda, že se vám podařilo porazit Romayu?"
+   [294]
+    1 string data = "Vážení návštěvníci, pokud vás mohu obtěžovat, jeden z mých dvou bratrů se nedávno ocitl bez práce."
+   [295]
+    1 string data = "Slíbil jsem, že se za něj přimluvím. Nevíte náhodou o nějaké příležitosti vhodné pro hostinského?"
+   [296]
+    1 string data = "Veselí, říkáte? To zní jako ideální příležitost! Hned mu pošlu zprávu a odevzdám vaše pozvání. Děkuji!"
+   [297]
+    1 string data = "Ve Veselí je nyní k dispozici hostinec!"
+   [298]
+    1 string data = "Prosím, použijte vchod u řeky. -Pán kvízů"
+   [299]
+    1 string data = "Chrr… Chrr…"
+   [300]
+    1 string data = "Něco obrovského spadlo z nebe a nabouralo to do Svěžína…. Doufám, že jsou všichni v pořádku…"
+   [301]
+    1 string data = "Jé, tohle je docela dobrá podívaná. Raději si to užijte, než kapela odjede na jiný ostrov - pravděpodobně zítra."
+   [302]
+    1 string data = "Připíjím na našeho posledního zesnulého… Tedy, ne že by v poslední době byl nějaký zesnulý nebo tak něco."
+   [303]
+    1 string data = "Počkejte, vy jste tu opravdu proto, abyste pomohli? Já…"
+   [304]
+    1 string data = "Dnes je tu spousta nových tváří. Zdá se, že každý chce navštívit Lucent, a já chápu proč - tohle místo nemá chybu!"
+   [305]
+    1 string data = "Bojovníci Slunovratu, říkáte? Tyto naše pohádky, co si vyprávíme, začínají být docela dobré, ha!"
+   [306]
+    1 string data = "Vypadá to, že Noční závoj zůstává, jenom pozbaven bánší… Už žádný strach…"
+   [307]
+    1 string data = "Další rundu, prosím!"
+   [308]
+    1 string data = "Moje dcera MILUJE hudbu!"
+   [309]
+    1 string data = "Aha. Tak vy jste porazili Přiživovačku žalu? Jo, hezká pohádka!"
+   [310]
+    1 string data = "Jediný důvod, proč zůstávám v Lucentu, jsou mí přátelé!"
+   [311]
+    1 string data = "Můj přítel se včera vydal na procházku, ale říkám si, že možná prostě odpluje na jiný ostrov a už se nevrátí. Vždycky byl dobrodružný typ…"
+   [312]
+    1 string data = "Část mého já tomu nechce věřit, ale ten stařec s měsíční holí určitě ví, co dělá…"
+   [313]
+    1 string data = "Nebylo vás o jednoho víc?"
+   [314]
+    1 string data = "Tak TOMUHLE já říkám dobrá muzika!"
+   [315]
+    1 string data = "Je váš přítel v pořádku? Nesnědl v lese něco divného?"
+   [316]
+    1 string data = "Vy… jste opravdu skupina Bojovníků Slunovratu?"
+   [317]
+    1 string data = "Přízračný ostrov je osvobozen… Děkujeme, mockrát děkujeme!"
+   [318]
+    1 string data = "Co je to koncertina?"
+   [319]
+    1 string data = "Jó! Tohle je taková zábava!!!"
+   [320]
+    1 string data = "Říkáte, že jste Bojovníci Slunovratu? No, hlavně že se všichni baví. "
+   [321]
+    1 string data = "Takže to všechno byla pravda? Opravdu jste to dokázali?"
+   [322]
+    1 string data = "Dospělí se bojí vyjít ven, jako by to na věci něco měnilo!"
+   [323]
+    1 string data = "Mamka mi řekla, že jste prý Bojovníci Slunovratu. Je to pravda?"
+   [324]
+    1 string data = "Takže bánší je pryč? Měli bychom slavit, proč se dospělí pořád bojí?"
+   [325]
+    1 string data = "Zkoušel jsem vejít do kůlny na druhé straně mostu, ale je zamčená. Zajímalo by mě, co je uvnitř…"
+   [326]
+    1 string data = "Viděl jsem skupinu, která mířila k sídlu. Patříte k nim?"
+   [327]
+    1 string data = "Budou teď všichni chtít vyjít ven?"
+   [328]
+    1 string data = "Občas slyším od řeky jásot a potlesk. Je to opravdu zvláštní."
+   [329]
+    1 string data = "Začíná to být únavné, žít pořád na hraně a přemýšlet, kdo bude další… Ani se nedivím těm, kteří se rozhodli trávit čas v hostinci."
+   [330]
+    1 string data = "Konečně nastalo zatmění a vy, Bojovníci Slunovratu… Děkujeme vám, uděláme s tímto novým začátkem vše, co bude v našich silách."
+   [331]
+    1 string data = "Tady není moc co dělat. Trochu ironie, že guláš je naším charakteristickým jídlem. To je to jediné, co sami celý den děláme! Guláš!"
+   [332]
+    1 string data = "Nikdy bych si nepomyslel, že se toho dne dožiju! Už žádný strach! Jestli to znamená, že bánší je pryč, tak ať tu Noční závoj klidně zůstane!"
+   [333]
+    1 string data = "Viděli jste ducha na západním konci vesnice? K té věci se nepřiblížím!"
+   [334]
+    1 string data = "Hej, ten duch zmizel! To je vaše práce?"
+   [335]
+    1 string data = "Také jsem vyrůstal bez vědomí, kdy nastane další <color=bad>volání</color>. Ale stejně s dětmi soucítím…"
+   [336]
+    1 string data = "Jsme osvobozeni? Celý život jsem se připravoval na volání, ale teď… Ani nevím, co si o tom mám myslet… Děkujeme vám."
+   [337]
+    1 string data = "Ti, kdo se pokusí odejít, jsou prostě <color=bad>zavoláni</color> okamžitě. Nevím, proč jste sem přišli, ale je mi vás líto, že tu teď trčíte stejně tak…"
+   [338]
+    1 string data = "Pořád tomu nemůžu uvěřit. To znamená, že můžeme jet do Svěžína a podívat se na slunce…"
+   [339]
+    1 string data = "To sídlo a jeho <color=bad>Prokletý hlas</color> mi vzalo všechno. Mého syna… mého manžela… a příliš mnoho mých přátel."
+   [340]
+    1 string data = "Proč ještě nezavolala mě?"
+   [341]
+    1 string data = "Tak jsme se konečně zbavili té kletby. Sice mi to nevrátí mé milované, ale i tak je to trochu dobrý pocit."
+   [342]
+    1 string data = "Staré zaprášené romány."
+   [343]
+    1 string data = "Malba 'Sídlo Aventry‘."
+   [344]
+    1 string data = "Suroviny, co se používají k výrobě vybavení."
+   [345]
+    1 string data = "Dobře uspořádaný regál."
+   [346]
+    1 string data = "Všechny knihy tam vypadají extrémně staře a nudně."
+   [347]
+    1 string data = "Ten zápach není příjemný."
+   [348]
+    1 string data = "Různé pokrmy."
+   [349]
+    1 string data = "Tato fontána už zažila lepší časy…"
+   [350]
+    1 string data = "Pár kusů brnění."
+   [351]
+    1 string data = "Tady není nic zajímavého."

@@ -1,0 +1,260 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Enemies_EN"
+ 1 string locCategoryId = "Enemies"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (123 items)
+   0 int size = 123
+   [0]
+    1 string data = "Undead"
+   [1]
+    1 string data = "Enchanted"
+   [2]
+    1 string data = "Magic"
+   [3]
+    1 string data = "Cursed"
+   [4]
+    1 string data = "Organic"
+   [5]
+    1 string data = "Croube"
+   [6]
+    1 string data = "Skullpion"
+   [7]
+    1 string data = "Kunus'nuku Acolyte"
+   [8]
+    1 string data = "Tsiclop"
+   [9]
+    1 string data = "BilePile"
+   [10]
+    1 string data = "Sleuth"
+   [11]
+    1 string data = "Dweller of Torment"
+   [12]
+    1 string data = "Rochèvre"
+   [13]
+    1 string data = "Luslug"
+   [14]
+    1 string data = "Bosslug"
+   [15]
+    1 string data = "Tern"
+   [16]
+    1 string data = "Elder Mist"
+   [17]
+    1 string data = "Elder Mist's Arm"
+   [18]
+    1 string data = "Elder Mist's Sword"
+   [19]
+    1 string data = "Wyrd"
+   [20]
+    1 string data = "Bossbug"
+   [21]
+    1 string data = "Wanderer"
+   [22]
+    1 string data = "Drillbat"
+   [23]
+    1 string data = "Malkomount"
+   [24]
+    1 string data = "Malkomud"
+   [25]
+    1 string data = "Salamander"
+   [26]
+    1 string data = "Bushtroo"
+   [27]
+    1 string data = "Crystal Tulip"
+   [28]
+    1 string data = "Arcane Sentry"
+   [29]
+    1 string data = "Srower"
+   [30]
+    1 string data = "Mangler Fish"
+   [31]
+    1 string data = "Chromatic Apparition"
+   [32]
+    1 string data = "Ant Bruiser"
+   [33]
+    1 string data = "Botanical Horror"
+   [34]
+    1 string data = "Top Flower"
+   [35]
+    1 string data = "Bottom Flower"
+   [36]
+    1 string data = "Romaya"
+   [37]
+    1 string data = "Bone Pile"
+   [38]
+    1 string data = "Flesh Pile"
+   [39]
+    1 string data = "Waltzers"
+   [40]
+    1 string data = "Lonzon"
+   [41]
+    1 string data = "Woodland Spirit"
+   [42]
+    1 string data = "Arentee"
+   [43]
+    1 string data = "Boulbe"
+   [44]
+    1 string data = "Gulgul"
+   [45]
+    1 string data = "Dweller of Woe"
+   [46]
+    1 string data = "Dweller of Woe"
+   [47]
+    1 string data = "Revenant"
+   [48]
+    1 string data = "SpellBook"
+   [49]
+    1 string data = "Strife Minion"
+   [50]
+    1 string data = "Eyeball"
+   [51]
+    1 string data = "Stormcaller"
+   [52]
+    1 string data = "Melee Matey"
+   [53]
+    1 string data = "Ranged Matey"
+   [54]
+    1 string data = "Prapra"
+   [55]
+    1 string data = "Baby Prapra"
+   [56]
+    1 string data = "Sharksenal"
+   [57]
+    1 string data = "Garnooy"
+   [58]
+    1 string data = "GooGoon"
+   [59]
+    1 string data = "Acolyte One"
+   [60]
+    1 string data = "Acolyte Three"
+   [61]
+    1 string data = "Rochecrossidere"
+   [62]
+    1 string data = "Dweller of Torment"
+   [63]
+    1 string data = "Right Arm"
+   [64]
+    1 string data = "Left Arm"
+   [65]
+    1 string data = "Shrimp Knight"
+   [66]
+    1 string data = "Boulder Douche"
+   [67]
+    1 string data = "Shroomy Shroomy Knight"
+   [68]
+    1 string data = "Grassassin"
+   [69]
+    1 string data = "Tock"
+   [70]
+    1 string data = "Cuckoo Monster"
+   [71]
+    1 string data = "Fungtoise"
+   [72]
+    1 string data = "Leaf Monster"
+   [73]
+    1 string data = "Clock Zombie"
+   [74]
+    1 string data = "Firecracker"
+   [75]
+    1 string data = "Sling Rabbit"
+   [76]
+    1 string data = "Toadcano"
+   [77]
+    1 string data = "Drone"
+   [78]
+    1 string data = "Big Buggy"
+   [79]
+    1 string data = "Hydralion"
+   [80]
+    1 string data = "Tail"
+   [81]
+    1 string data = "Guardian"
+   [82]
+    1 string data = "Hoarsemech"
+   [83]
+    1 string data = "Turret"
+   [84]
+    1 string data = "Dweller of Strife"
+   [85]
+    1 string data = "Eyeball"
+   [86]
+    1 string data = "Phase Reaper"
+   [87]
+    1 string data = "Ronin Cowboy"
+   [88]
+    1 string data = "Braidzard"
+   [89]
+    1 string data = "Meduso"
+   [90]
+    1 string data = "Canister"
+   [91]
+    1 string data = "Dweller of Dread"
+   [92]
+    1 string data = "Tentacle"
+   [93]
+    1 string data = "Scout"
+   [94]
+    1 string data = "Gun Goddess"
+   [95]
+    1 string data = "Bullet"
+   [96]
+    1 string data = "Anointed"
+   [97]
+    1 string data = "Owlsassin"
+   [98]
+    1 string data = "Yinke"
+   [99]
+    1 string data = "Repeater"
+   [100]
+    1 string data = "Salvoer"
+   [101]
+    1 string data = "Repair Unit"
+   [102]
+    1 string data = "Blaster"
+   [103]
+    1 string data = "Abstarak"
+   [104]
+    1 string data = "Matsa'krun Claw"
+   [105]
+    1 string data = "Stitcher"
+   [106]
+    1 string data = "Soul Curator"
+   [107]
+    1 string data = "Bone Cage"
+   [108]
+    1 string data = "Bone Pillar"
+   [109]
+    1 string data = "LeJugg"
+   [110]
+    1 string data = "Mermofwizquard"
+   [111]
+    1 string data = "Clockwork Abomination"
+   [112]
+    1 string data = "Elysan'darëlle"
+   [113]
+    1 string data = "Croustalion"
+   [114]
+    1 string data = "Measure Chest"
+   [115]
+    1 string data = "Appendage"
+   [116]
+    1 string data = "Seed"
+   [117]
+    1 string data = "Sea Slug"
+   [118]
+    1 string data = "Sylgain"
+   [119]
+    1 string data = "Training Croube"
+   [120]
+    1 string data = "OAF"
+   [121]
+    1 string data = "The Catalyst"
+   [122]
+    1 string data = "Training Dummy"

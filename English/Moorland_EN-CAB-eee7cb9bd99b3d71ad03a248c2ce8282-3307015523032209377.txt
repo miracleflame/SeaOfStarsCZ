@@ -1,0 +1,368 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Moorland_EN"
+ 1 string locCategoryId = "SleeperIsland/Moorland"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (177 items)
+   0 int size = 177
+   [0]
+    1 string data = "Look! Someone's over there!"
+   [1]
+    1 string data = "We should ask for directions."
+   [2]
+    1 string data = "She looks busy..."
+   [3]
+    1 string data = "Bah! I'm sure it's fine!"
+   [4]
+    1 string data = "Hello! Is there something special about that big rock?"
+   [5]
+    1 string data = "Come look at this!"
+   [6]
+    1 string data = "It's..."
+   [7]
+    1 string data = "(...)"
+   [8]
+    1 string data = "(This looks like...)"
+   [9]
+    1 string data = "(Nah, must be my imagination.)"
+   [10]
+    1 string data = "Hey, so, what are those?"
+   [11]
+    1 string data = "Fascinating, is what they are!"
+   [12]
+    1 string data = "These runes are the oldest form of writing known to us."
+   [13]
+    1 string data = "Who's us?"
+   [14]
+    1 string data = "<color=good>Traveling Historians</color>, of course!"
+   [15]
+    1 string data = "Or at least what's left of them..."
+   [16]
+    1 string data = "No way! You're a Traveling Historian?"
+   [17]
+    1 string data = "Nice to meet you! My name is Garl!"
+   [18]
+    1 string data = "Nice to meet you too! I'm Teaks."
+   [19]
+    1 string data = "So, are your friends always this quiet?"
+   [20]
+    1 string data = "Hahaha!"
+   [21]
+    1 string data = "Nah, [MAINCHAR] and [OFFCHAR] are fun, they've just been sealed away to study in the sky for too many years."
+   [22]
+    1 string data = "???"
+   [23]
+    1 string data = "(Magic hair...)"
+   [24]
+    1 string data = "(Enchanted cloth pieces...)"
+   [25]
+    1 string data = "!!!"
+   [26]
+    1 string data = "You're Solstice Warriors!"
+   [27]
+    1 string data = "I..."
+   [28]
+    1 string data = "We..."
+   [29]
+    1 string data = "I KNEW IT!"
+   [30]
+    1 string data = "ADVENTUROUS SPIRITS"
+   [31]
+    1 string data = "FEARSOME IN BATTLE"
+   [32]
+    1 string data = "FATED TO UNRAVEL MYSTERIES UNKNOWN"
+   [33]
+    1 string data = "AND ENCOUNTER COUNTLESS FORGOTTEN ARTIFACTS"
+   [34]
+    1 string data = "A TRAVELING HISTORIAN'S BEST FRIENDS!"
+   [35]
+    1 string data = "..."
+   [36]
+    1 string data = "I mean..."
+   [37]
+    1 string data = "Well, someone's excited."
+   [38]
+    1 string data = "And we thought Garl was something!"
+   [39]
+    1 string data = "Hey, guys, Teaks has an offer for us, and I think it's worth hearing her out."
+   [40]
+    1 string data = "Sure, what's up?"
+   [41]
+    1 string data = "..."
+   [42]
+    1 string data = "I should probably explain the full version. It's about my book..."
+   [43]
+    1 string data = "??"
+   [44]
+    1 string data = "Hey, why don't you eat with us tonight, Teaks? This place is perfect to set up camp."
+   [45]
+    1 string data = "Oh, well..."
+   [46]
+    1 string data = "Don't be shy, we're happy to have you!"
+   [47]
+    1 string data = "Yeah, plus you have to try Garl's cooking."
+   [48]
+    1 string data = "I..."
+   [49]
+    1 string data = "Okay, thanks!"
+   [50]
+    1 string data = "That's it! One stew coming right up!"
+   [51]
+    1 string data = "Thanks again for the food, Garl. You really are a pretty good cook."
+   [52]
+    1 string data = "Glad you liked it, you're welcome to join us again anytime!"
+   [53]
+    1 string data = "So, you're the very last Traveling Historian?"
+   [54]
+    1 string data = "At this point, I might as well be the first. It's been so long since all the <color=magic>Lore Grimoires</color> were burned."
+   [55]
+    1 string data = "The what now?"
+   [56]
+    1 string data = "Lore Grimoires. Every Traveling Historian has one. Or had one, I suppose..."
+   [57]
+    1 string data = "They're enchanted books that write themselves by touching artifacts with stories to tell."
+   [58]
+    1 string data = "So it's true!?"
+   [59]
+    1 string data = "A Traveling Historian's duty is to make their Lore Grimoire as full as possible before passing it on to a new recruit."
+   [60]
+    1 string data = "There used to be a guild and a whole bunch of us, but now there's just this believer here..."
+   [61]
+    1 string data = "Which... leads to what I've been meaning to ask..."
+   [62]
+    1 string data = "Shoot."
+   [63]
+    1 string data = "Well, you see, the best thing a Traveling Historian can ask for is adventurers who keep an eye out for them."
+   [64]
+    1 string data = "I don't have a way to pay you, but..."
+   [65]
+    1 string data = "If you wouldn't mind grabbing any artifacts you stumble upon during your adventures, I'd be happy to share stories with you!"
+   [66]
+    1 string data = "Of course! But how will we find you if you're always traveling?"
+   [67]
+    1 string data = "Leave that part to me, I'll just drop by your campfire whenever you're out in the open."
+   [68]
+    1 string data = "Plus, it's the perfect setting for telling stories!"
+   [69]
+    1 string data = "Story time by the campfire? Sign me up!"
+   [70]
+    1 string data = "Great! Just bring me any artifacts you find, and we'll see how my Lore Grimoire reacts!"
+   [71]
+    1 string data = "How many stories do you have so far?"
+   [72]
+    1 string data = "Just the one. It was empty when I found it, but that's okay by me... I plan on discovering enough to fill an entire volume!"
+   [73]
+    1 string data = "That's the spirit!"
+   [74]
+    1 string data = "This first story wrote itself when I stumbled upon a very old pirate earring."
+   [75]
+    1 string data = "That's when I knew I was holding a real Lore Grimoire. They were thought extinct!"
+   [76]
+    1 string data = "What's the story about?"
+   [77]
+    1 string data = "A ghost pirate ship called <color=bad>The Vespertine</color>."
+   [78]
+    1 string data = "Oooooh!"
+   [79]
+    1 string data = "I can read it for you if you want, feel free to ask!"
+   [80]
+    1 string data = "Goodnight, folks!"
+   [81]
+    1 string data = "I didn't even know Traveling Historians were a thing. I wonder how many of them there used to be."
+   [82]
+    1 string data = "Story time by the campfire? Sign me up!"
+   [83]
+    1 string data = "A boat to Wraith Island?"
+   [84]
+    1 string data = "That might be a challenge given the situation with the lift..."
+   [85]
+    1 string data = "??"
+   [86]
+    1 string data = "Probably nothing you can't figure out."
+   [87]
+    1 string data = "Which way is it?"
+   [88]
+    1 string data = "East of here, along the path."
+   [89]
+    1 string data = "Mind if I stick around for now? We have the same destination."
+   [90]
+    1 string data = "The more the merrier!"
+   [91]
+    1 string data = "Teaks joins the cargo!"
+   [92]
+    1 string data = "So you are willing to hear us out this time?"
+   [93]
+    1 string data = "..."
+   [94]
+    1 string data = "You would rather do without the burden of the Solstice Warrior life, yes?"
+   [95]
+    1 string data = "A fresh start, perhaps?"
+   [96]
+    1 string data = "What exactly are you offering?"
+   [97]
+    1 string data = "A way out. We believe you will deem our terms interesting."
+   [98]
+    1 string data = "Interesting, and fruitful too!"
+   [99]
+    1 string data = "Then speak up!"
+   [100]
+    1 string data = "...We will handle everything else, but only Solstice Warriors can conjure a blood moon."
+   [101]
+    1 string data = "But this world would be destroyed..."
+   [102]
+    1 string data = "Not before you got to leave it for a more favorable one."
+   [103]
+    1 string data = "Can you guarantee Brugaves will be safe?"
+   [104]
+    1 string data = "Erlina, I..."
+   [105]
+    1 string data = "Naturally. We even have ways to make you forget, if that is your wish."
+   [106]
+    1 string data = "Forget, and become stronger too!"
+   [107]
+    1 string data = "..."
+   [108]
+    1 string data = "Do we have a deal?"
+   [109]
+    1 string data = "<sprite="dialog-generic-icons" name="arrow-east">  Stonemason Outpost\n<sprite="dialog-generic-icons" name="arrow-south-west">  Fishing Lake"
+   [110]
+    1 string data = "Mountains're nice."
+   [111]
+    1 string data = "This's the life."
+   [112]
+    1 string data = "Mountains're nice."
+   [113]
+    1 string data = "Man, you're nosy. Here, take this."
+   [114]
+    1 string data = "The surface feels fragile. It would probably break if we jumped from high enough."
+   [115]
+    1 string data = "The crystal formation emits a faint sound."
+   [116]
+    1 string data = "Time has made the runes indecipherable."
+   [117]
+    1 string data = "A tingling of ancient magic can be felt, as if it had all but completely faded away over time."
+   [118]
+    1 string data = "A mysterious device has appeared in the <color=location>Moorlands</color>..."
+   [119]
+    1 string data = "You can now save and return right before the final boss fight to complete side quests. The mysterious device might also be worth investigating..."
+   [120]
+    1 string data = "The mysterious device is inactive."
+   [121]
+    1 string data = "It seems we have everything now."
+   [122]
+    1 string data = "You know about this thing?"
+   [123]
+    1 string data = "Yes. The Great Alchemist told me about <color=magic>The Chronophage</color> while he was working on my Living Glass form."
+   [124]
+    1 string data = "Resh'an... left us something?"
+   [125]
+    1 string data = "The Chronophage is his parting gift to you. It was enchanted to activate in response to your initial deeds as up-and-coming Guardian Gods."
+   [126]
+    1 string data = "A gift?"
+   [127]
+    1 string data = "That is how he described it. I got the sense that he wished to take responsibility for something."
+   [128]
+    1 string data = "It should take us... somewhere... All I know is how to open it, and that only [MAINCHAR], [OFFCHAR] and I can go."
+   [129]
+    1 string data = "Are you sure this is safe?"
+   [130]
+    1 string data = "Yes. The Great Alchemist could have stopped you at any time if that had been his wish."
+   [131]
+    1 string data = "How do we open this gift?"
+   [132]
+    1 string data = "You must provide the memento of a happy memory."
+   [133]
+    1 string data = "..."
+   [134]
+    1 string data = "He said you would know."
+   [135]
+    1 string data = "It worked! We should go now while it's active."
+   [136]
+    1 string data = "Be safe out there. I'll be here when you return."
+   [137]
+    1 string data = "They're beautiful. What do you call them?"
+   [138]
+    1 string data = "<color=magic>Time Shards</color>."
+   [139]
+    1 string data = "You always were the better artist."
+   [140]
+    1 string data = "Huh!? This is..."
+   [141]
+    1 string data = "Is it a vision?"
+   [142]
+    1 string data = "The Great Alchemist... He placed an anchor in time so that you could return here."
+   [143]
+    1 string data = "I know what my role is, but we must be quick."
+   [144]
+    1 string data = "What!?"
+   [145]
+    1 string data = "Don't you see? This is your gift. Your friend's life."
+   [146]
+    1 string data = "I will take his place. You hurry and get him out of here."
+   [147]
+    1 string data = "B'st..."
+   [148]
+    1 string data = "Believe in me, brave monk. It will hurt, but my will is strong. I can take the hit."
+   [149]
+    1 string data = "..."
+   [150]
+    1 string data = "You must act now before the diversion is over."
+   [151]
+    1 string data = "Th... Thank you..."
+   [152]
+    1 string data = "Just don't leave me buried under the tree for too long, okay?"
+   [153]
+    1 string data = "Courage, B'st. We'll be right with you."
+   [154]
+    1 string data = "See you soon."
+   [155]
+    1 string data = "Steady now..."
+   [156]
+    1 string data = "Hey-"
+   [157]
+    1 string data = "What happened? Wait, is that..."
+   [158]
+    1 string data = "!!"
+   [159]
+    1 string data = "*huff... huff...*"
+   [160]
+    1 string data = "Haha! You did it!!!"
+   [161]
+    1 string data = "Garl!?"
+   [162]
+    1 string data = "Don't just stand there, what are you waiting for?"
+   [163]
+    1 string data = "Garl... It's... so good to see you..."
+   [164]
+    1 string data = "Is this real?"
+   [165]
+    1 string data = "Sure is!"
+   [166]
+    1 string data = "Guys, I've been watching all along. I'm so proud of you!"
+   [167]
+    1 string data = "Everything you've accomplished, it's unbelievable!"
+   [168]
+    1 string data = "Hey, where's B'st?"
+   [169]
+    1 string data = "Oof, right... We should go now, our reunion can wait!"
+   [170]
+    1 string data = "Are you well enough to travel?"
+   [171]
+    1 string data = "Never been better!"
+   [172]
+    1 string data = "Alright, let's go dig up my grave! I can't wait to meet my savior!"
+   [173]
+    1 string data = "Are you sure you don't want to save?"
+   [174]
+    1 string data = "Save"
+   [175]
+    1 string data = "Don't save"
+   [176]
+    1 string data = "The stone's magic presents a vision..."

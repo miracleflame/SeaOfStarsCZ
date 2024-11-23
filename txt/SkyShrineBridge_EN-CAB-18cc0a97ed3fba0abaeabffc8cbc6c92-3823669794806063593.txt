@@ -1,0 +1,42 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "SkyShrineBridge_EN"
+ 1 string locCategoryId = "SkyShrine/SkyShrineBridge"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (14 items)
+   0 int size = 14
+   [0]
+    1 string data = "The shrine you saw, it's that thing over there?"
+   [1]
+    1 string data = "Yes, I'm sure of it."
+   [2]
+    1 string data = "This is how we reach the ones who can grant access to the Sea of Stars."
+   [3]
+    1 string data = "It's way out of reach..."
+   [4]
+    1 string data = "Did your vision show anything about how to get to it?"
+   [5]
+    1 string data = "I..."
+   [6]
+    1 string data = "Not really, I just know deep down that we have everything we need."
+   [7]
+    1 string data = "Valere?"
+   [8]
+    1 string data = "Paths on water..."
+   [9]
+    1 string data = "Huh??"
+   [10]
+    1 string data = "Way to go, Valere!"
+   [11]
+    1 string data = "Quite impressive. How did you know?"
+   [12]
+    1 string data = "The Oracle of Tides... he said I could "mend the connection.""
+   [13]
+    1 string data = "And now we get to walk on it! Let's do this!"

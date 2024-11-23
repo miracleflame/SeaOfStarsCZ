@@ -1,0 +1,732 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Crypt_EN"
+ 1 string locCategoryId = "SettlerIsland/Crypt"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (359 items)
+   0 int size = 359
+   [0]
+    1 string data = "This place seems huge, but I don't sense any evil anywhere..."
+   [1]
+    1 string data = "It feels so ancient..."
+   [2]
+    1 string data = "My oh my, visitors!"
+   [3]
+    1 string data = "Huh??"
+   [4]
+    1 string data = "Oh, just here, to your right."
+   [5]
+    1 string data = "Welcome to <color=location>The Crypt</color>!"
+   [6]
+    1 string data = "Are... you trapped in the lantern?"
+   [7]
+    1 string data = "I am <color=good>The Cryptwalker</color>! And no, this lantern is my home."
+   [8]
+    1 string data = "Though I must admit, I do feel limited seeing as my fire went out..."
+   [9]
+    1 string data = "You, the sun one, mind giving me a little spark?"
+   [10]
+    1 string data = "Uh, sure..."
+   [11]
+    1 string data = "Much better! Please follow me, it's right this way."
+   [12]
+    1 string data = "Now, who have you come to commemorate today?"
+   [13]
+    1 string data = "Commemorate? We... aren't here for that..."
+   [14]
+    1 string data = "Oh?"
+   [15]
+    1 string data = "We brought a group of settlers to this island without knowing it was occupied."
+   [16]
+    1 string data = "Well, technically, it is not!"
+   [17]
+    1 string data = "You say people have come to live near The Crypt, then?"
+   [18]
+    1 string data = "Yes, if that's okay with you. We really need to make sure they'll be safe."
+   [19]
+    1 string data = "Oh, absolutely!"
+   [20]
+    1 string data = "Visitors, neighbors, the more the merrier! All I want is for the Crypt's mementos to be witnessed."
+   [21]
+    1 string data = "This place contains thousands of stones, statues and monuments dedicated to the memory of the early builders and visionaries of this little world of ours."
+   [22]
+    1 string data = "And I do mean thousands!"
+   [23]
+    1 string data = "Feel free to appreciate the place and its monuments at your convenience."
+   [24]
+    1 string data = "If there is a specific piece you are looking for and have its coordinates, I'll be happy to show you to it."
+   [25]
+    1 string data = "Otherwise, rest assured that this crypt is entirely neutral and optional, so if you would rather move on with your adventures, you can do so right away."
+   [26]
+    1 string data = "Don't be a stranger now!"
+   [27]
+    1 string data = "What were your plans in The Crypt today?"
+   [28]
+    1 string data = "I have a code"
+   [29]
+    1 string data = "Just checking"
+   [30]
+    1 string data = "Add this memorial to the display room?"
+   [31]
+    1 string data = "Yes"
+   [32]
+    1 string data = "No"
+   [33]
+    1 string data = "The display slot can be edited."
+   [34]
+    1 string data = "Remove Memorial"
+   [35]
+    1 string data = "Enter a code"
+   [36]
+    1 string data = "This memorial doesn't fit here."
+   [37]
+    1 string data = "You can set which memorial goes here by entering its code."
+   [38]
+    1 string data = "Enter code"
+   [39]
+    1 string data = "Maybe later"
+   [40]
+    1 string data = "This memorial doesn't fit here."
+   [41]
+    1 string data = "How's the progress?"
+   [42]
+    1 string data = "Pretty good!"
+   [43]
+    1 string data = "I've been thinking about Yomara's notes. You know, about the flood."
+   [44]
+    1 string data = "No worries, I'll make the big window extra thick!"
+   [45]
+    1 string data = "Well, do you like the central piece?"
+   [46]
+    1 string data = "Yes. It's perfect."
+   [47]
+    1 string data = "How's the progress?"
+   [48]
+    1 string data = "Pretty good!"
+   [49]
+    1 string data = "I've been thinking about Yomara's notes. You know, about the flood."
+   [50]
+    1 string data = "No worries, I'll make the big window extra thick!"
+   [51]
+    1 string data = "Well, do you like the central piece?"
+   [52]
+    1 string data = "Yes. It's perfect."
+   [53]
+    1 string data = "Ha!"
+   [54]
+    1 string data = "Hey, you'll be late if you don't leave soon."
+   [55]
+    1 string data = "Oops! Yeah, I guess I should head out."
+   [56]
+    1 string data = "Hey, old friend!"
+   [57]
+    1 string data = "Happy birthday, Master."
+   [58]
+    1 string data = "For the millionth time, please stop calling me that."
+   [59]
+    1 string data = "Are you ready to go, then?"
+   [60]
+    1 string data = "Oh yeah! Can't be late for that!"
+   [61]
+    1 string data = "The wall looks rather <color=magic>flimsy</color>..."
+   [62]
+    1 string data = "It was not an easy task making all this but I'm incredibly proud of everyone in here. I hope you enjoyed it!"
+   [63]
+    1 string data = "(That'll save Dzidzi a lot of time for sure.)"
+   [64]
+    1 string data = "..."
+   [65]
+    1 string data = "..."
+   [66]
+    1 string data = "*undecipherable graphics programming conversation*"
+   [67]
+    1 string data = "Out of all the characters I helped to create, Conan is my favorite. His mom gets most of the credit though."
+   [68]
+    1 string data = "..."
+   [69]
+    1 string data = "..."
+   [70]
+    1 string data = "..."
+   [71]
+    1 string data = "..."
+   [72]
+    1 string data = "If you want to pretend the characters are having dance-offs instead of fighting, I give you my official animator permission."
+   [73]
+    1 string data = "Erlina for me today."
+   [74]
+    1 string data = "..."
+   [75]
+    1 string data = "(Duke Aventry's hammer has to feel HEAVY.)"
+   [76]
+    1 string data = "Mangouste?"
+   [77]
+    1 string data = "I hope you enjoyed the game as much as I think I would have if I didn't get it spoiled by working on it."
+   [78]
+    1 string data = "(The character controller for The Messenger was a lot simpler.)"
+   [79]
+    1 string data = "..."
+   [80]
+    1 string data = "Lots of bugs to fix, but we're getting there."
+   [81]
+    1 string data = "Going camping tomorrow!"
+   [82]
+    1 string data = "Merci <color=good>Thierry</color>."
+   [83]
+    1 string data = "Numbers are good!"
+   [84]
+    1 string data = "..."
+   [85]
+    1 string data = "I'm sure people will be excited about Seraï."
+   [86]
+    1 string data = "The week went by so fast."
+   [87]
+    1 string data = "I'll miss this production, but getting some sleep will be nice. Did you have fun playing? The team worked really hard on making it as good as possible!"
+   [88]
+    1 string data = "(I really hope people will like the script...)"
+   [89]
+    1 string data = "Did you come for the all-hands meeting? Sorry, we have to keep the next game's idea to ourselves for now!"
+   [90]
+    1 string data = "We're in build review! And it's the final one too, can you believe it?"
+   [91]
+    1 string data = "This team is awesome. What a blessing."
+   [92]
+    1 string data = "I'm so blessed as a community manager. The Sea of Stars community is simply the best, don't you think?"
+   [93]
+    1 string data = "Sorry I can't talk, have to reply to all these comments!"
+   [94]
+    1 string data = "..."
+   [95]
+    1 string data = "This'll be good!"
+   [96]
+    1 string data = "Hey there!"
+   [97]
+    1 string data = "I hope we could show you something new on this journey back to our childhoods."
+   [98]
+    1 string data = "If being late to the meeting is wrong, I don't want to be right."
+   [99]
+    1 string data = "..."
+   [100]
+    1 string data = "Morning!"
+   [101]
+    1 string data = "Friday vibes!"
+   [102]
+    1 string data = "Am I speaking to the player or [MAINCHAR]? In any case, hope you had fun discovering the world!"
+   [103]
+    1 string data = "(A clockwork door, huh?)"
+   [104]
+    1 string data = "..."
+   [105]
+    1 string data = "(Work, work.)"
+   [106]
+    1 string data = "I always make sure we stop working at 4pm on Fridays."
+   [107]
+    1 string data = "I'm J-P, an integrator. I used to find bugs, but now I fix them! And also cause them... I don't know... I'm not a mechanic!"
+   [108]
+    1 string data = "(Wait, we need this to activate the door, not the elevator.)"
+   [109]
+    1 string data = "..."
+   [110]
+    1 string data = "(It's shaping up!)"
+   [111]
+    1 string data = "I'm playing some retro games tonight. Tomorrow too."
+   [112]
+    1 string data = "Whoa!!! Have you seen all those animations !?! I'm so proud of what we have accomplished!"
+   [113]
+    1 string data = "I'll make sure the lists are up to date."
+   [114]
+    1 string data = "..."
+   [115]
+    1 string data = "(Wait, I need to put that in the other column...)"
+   [116]
+    1 string data = "Everything's on track!"
+   [117]
+    1 string data = "Hey, I'm Miko! I create the visuals for the environments in our games! Did you enjoy discovering all the vistas?"
+   [118]
+    1 string data = "(Nothing like working on a new biome!)"
+   [119]
+    1 string data = "..."
+   [120]
+    1 string data = "Just doing minor tweaks at this point."
+   [121]
+    1 string data = "Another productive week behind us. Feels good to chill a bit."
+   [122]
+    1 string data = "Office hours? Ever since those solstice kids came around, no one can really tell the time of day!"
+   [123]
+    1 string data = "I'm working on X'tol today."
+   [124]
+    1 string data = "..."
+   [125]
+    1 string data = "(Oh, this'll be good!)"
+   [126]
+    1 string data = "It's always fun to spend time with the team."
+   [127]
+    1 string data = "Huh? Oh, I'm Greg. The squirrels will tell you different, but I'm an animator. Don't listen to their squeaky whispers... they tell lies."
+   [128]
+    1 string data = "..."
+   [129]
+    1 string data = "..."
+   [130]
+    1 string data = "..."
+   [131]
+    1 string data = "..."
+   [132]
+    1 string data = "I'm Jake, I helped Eric with the music and sound effects. This is the first game I've ever worked on and I couldn't have asked to be a part of a better team!"
+   [133]
+    1 string data = "Maybe a modal key change would add to the musicality of the piece without being an overly heavy-handed metaphor within the context of the thematic material."
+   [134]
+    1 string data = "..."
+   [135]
+    1 string data = "..."
+   [136]
+    1 string data = "..."
+   [137]
+    1 string data = "Now THAT would be a great buzzword for a graphics feature! *laughs in HLSL*"
+   [138]
+    1 string data = "(And now to batch this process...)"
+   [139]
+    1 string data = "..."
+   [140]
+    1 string data = "..."
+   [141]
+    1 string data = "*undecipherable graphics programming conversation*"
+   [142]
+    1 string data = "This textbox should be nudged half a pixel to the left."
+   [143]
+    1 string data = "(Inventory, now that's fun!)"
+   [144]
+    1 string data = "..."
+   [145]
+    1 string data = "Want to see the launch trailer? I'm almost done!"
+   [146]
+    1 string data = "My weekend's all booked already."
+   [147]
+    1 string data = "Now, where did I put that thing again..."
+   [148]
+    1 string data = "..."
+   [149]
+    1 string data = "..."
+   [150]
+    1 string data = "..."
+   [151]
+    1 string data = "..."
+   [152]
+    1 string data = "I sincerely hope that we were able to communicate the love we have for games through the Sea of Stars experience."
+   [153]
+    1 string data = "(Glacial Peak, it's been a while...)"
+   [154]
+    1 string data = "..."
+   [155]
+    1 string data = "It feels like the whole team is genuinely happy with the game. What a time."
+   [156]
+    1 string data = "Lots on my plate still, but the weekend will be good!"
+   [157]
+    1 string data = "I hope I made things move in a way that moved you."
+   [158]
+    1 string data = "More climb animations!"
+   [159]
+    1 string data = "..."
+   [160]
+    1 string data = "(Ultimate attacks are so fun to work on!)"
+   [161]
+    1 string data = "Might be going out after!"
+   [162]
+    1 string data = "I enjoyed composing for Sea of Stars. I hope you enjoyed the nostalgic music."
+   [163]
+    1 string data = "..."
+   [164]
+    1 string data = "..."
+   [165]
+    1 string data = "..."
+   [166]
+    1 string data = "..."
+   [167]
+    1 string data = "Eric's the name, music and audio design is the game. For the game. It's my own game within the game. This game, in fact. Oh no, help!! I'm trapped inside the game!!"
+   [168]
+    1 string data = "What if we side-chained the multiband compressor to attenuate the lows every time there's a sharp transient in the 4khz range?"
+   [169]
+    1 string data = "..."
+   [170]
+    1 string data = "..."
+   [171]
+    1 string data = "..."
+   [172]
+    1 string data = "It was a really fun journey being a part of this production. I think we ended up with a pretty cool game, do you agree?"
+   [173]
+    1 string data = "Oh hey, I'm doing a backup of all the work files tonight, make sure to commit everything you need before 8, okay?"
+   [174]
+    1 string data = "..."
+   [175]
+    1 string data = "Optimization is going well, we're hitting 60 fps for real!"
+   [176]
+    1 string data = "I might do another backup over the weekend to be safe."
+   [177]
+    1 string data = "Around the age of 6 I fell in love with RPGs after playing FF1 and decided this is what I wanted to do when I grow up. 30 years later and with the best team ever, my childhood dream has come true!"
+   [178]
+    1 string data = "(With a little camera shake here and...)"
+   [179]
+    1 string data = "..."
+   [180]
+    1 string data = "Only got about thirty notes this time. Should be a breeze!"
+   [181]
+    1 string data = "Cheers!"
+   [182]
+    1 string data = "Hey! I animated a few characters, and then I started blowing them up instead! ... Sorry about all the explosions you took to the face!"
+   [183]
+    1 string data = "VFX for me! I want to improve the Dweller of Woe's death sequence."
+   [184]
+    1 string data = "..."
+   [185]
+    1 string data = "(Can't wait to show Jeakim!)"
+   [186]
+    1 string data = "Hey, good to see you!"
+   [187]
+    1 string data = "I'm so proud I got to be a part of this amazing team!"
+   [188]
+    1 string data = "Hello, did you need anything?"
+   [189]
+    1 string data = "..."
+   [190]
+    1 string data = "Everyone is doing such a good job."
+   [191]
+    1 string data = "Hey, are you here for happy hour?"
+   [192]
+    1 string data = "*Buddy stares softly, relieving a tightness in your chest you didn't even know was there.*"
+   [193]
+    1 string data = "I'm Olivier from Berzerk! I coded mostly under-the-hood stuff but I also managed the publishing of the game. If you are playing, it means we did it! Yay! Hope you enjoy it!"
+   [194]
+    1 string data = "(I should probably start hooking up the achievements...)"
+   [195]
+    1 string data = "..."
+   [196]
+    1 string data = "(Wait, that can't be right... Oh! I see.)"
+   [197]
+    1 string data = "..."
+   [198]
+    1 string data = "I'm the one finding the bugs now that J-P is causing them!"
+   [199]
+    1 string data = "The game runs great!"
+   [200]
+    1 string data = "..."
+   [201]
+    1 string data = "..."
+   [202]
+    1 string data = "..."
+   [203]
+    1 string data = "Yo! I'm Reece and I play acoustic instruments. I don't really know how I got here but hot dog am I glad to be a part of this rad game! Also, feel free to mail me a hot dog!"
+   [204]
+    1 string data = "..."
+   [205]
+    1 string data = "..."
+   [206]
+    1 string data = "..."
+   [207]
+    1 string data = "..."
+   [208]
+    1 string data = "Fourth wall, huh?"
+   [209]
+    1 string data = "Sure, let's chat."
+   [210]
+    1 string data = "Scuse me."
+   [211]
+    1 string data = "..."
+   [212]
+    1 string data = "Have we met before?"
+   [213]
+    1 string data = "Well, if we have and you're about to complain about some time paradox, maybe consider that it was you who just broke the fourth wall."
+   [214]
+    1 string data = "You're probably not getting a raise either, but the cabinet's all yours if you wanna knock yourself out."
+   [215]
+    1 string data = "Well, look at you! You've made it to the end."
+   [216]
+    1 string data = "What?"
+   [217]
+    1 string data = "You did it all, it's over."
+   [218]
+    1 string data = "You just met the actual team, what more do you want?"
+   [219]
+    1 string data = "The show's over, I'm going to bed and so should you."
+   [220]
+    1 string data = "..."
+   [221]
+    1 string data = "..."
+   [222]
+    1 string data = "..."
+   [223]
+    1 string data = "..."
+   [224]
+    1 string data = "..."
+   [225]
+    1 string data = "..."
+   [226]
+    1 string data = "..."
+   [227]
+    1 string data = "..."
+   [228]
+    1 string data = "..."
+   [229]
+    1 string data = "..."
+   [230]
+    1 string data = "..."
+   [231]
+    1 string data = "Alright, you wanna hear a rant?"
+   [232]
+    1 string data = "Yes"
+   [233]
+    1 string data = "No"
+   [234]
+    1 string data = "Are you sure? There's no cutting me off."
+   [235]
+    1 string data = "Yes"
+   [236]
+    1 string data = "No"
+   [237]
+    1 string data = "Fine."
+   [238]
+    1 string data = "So, you beat the game. Did you like it?"
+   [239]
+    1 string data = "Did the show STEAL ITSELF?"
+   [240]
+    1 string data = "Did it do everything you wanted?"
+   [241]
+    1 string data = "And more importantly, did it "respect your time?""
+   [242]
+    1 string data = "Would you say the team created some content here, or are you reserving that term for those who will play it in front of a virtual crowd?"
+   [243]
+    1 string data = "..."
+   [244]
+    1 string data = "Okay, let's start slow."
+   [245]
+    1 string data = "Congratulations, you defeated all the bosses!"
+   [246]
+    1 string data = "You resurrected your best friend!"
+   [247]
+    1 string data = "You found all the Rainbow Conches!"
+   [248]
+    1 string data = "You fished all the fish!"
+   [249]
+    1 string data = "You wheeled all the wheels!"
+   [250]
+    1 string data = "You quizzed all the quizzes!"
+   [251]
+    1 string data = "..."
+   [252]
+    1 string data = "Ugh, last time I tried being boring I ended up making friends who thought we needed more products using “alpha and omega” in their marketing."
+   [253]
+    1 string data = "I'm not about to risk that happening again, so let's move on to talking in absolutes, shall we?"
+   [254]
+    1 string data = "To make a good video game, you need to have grass in the first area, lava close to the fake ending, and a secret boss that's harder than the final boss."
+   [255]
+    1 string data = "Look, I do make the rules. You can either disagree or take some notes."
+   [256]
+    1 string data = "For what it's worth I hope you disagree though, if only for the irony of you standing here right now after having turned every stone."
+   [257]
+    1 string data = "If you find me annoying already, just consider that it's not like healthy sleep schedules come easy for me. Also, I don't brush my teeth at work after lunch."
+   [258]
+    1 string data = "I consider myself quite bearable, in fact."
+   [259]
+    1 string data = "Anyway, thanks for the warm-up. I'll be here if you feel like getting real."
+   [260]
+    1 string data = "Still here? I've got more if you want, but it goes a bit deeper."
+   [261]
+    1 string data = "Yes"
+   [262]
+    1 string data = "No"
+   [263]
+    1 string data = "Are you absolutely sure? There's no cutting me off, and I tend to ramble."
+   [264]
+    1 string data = "Yes"
+   [265]
+    1 string data = "No"
+   [266]
+    1 string data = "Okay, you asked."
+   [267]
+    1 string data = "You know the kind of people who use a niche word they just learned as if everyone knew what it was, but it's really only so someone will ask them to explain it?"
+   [268]
+    1 string data = "That used to get to me, like there was some injustice in people earning points through manipulation and lying by omission."
+   [269]
+    1 string data = "But let me tell you one perk about getting older: you start seeing the later chapters of some stories, and they have a lot to teach."
+   [270]
+    1 string data = "Then one day the realization just hit me: A lot of people are part of a race where no one even knows what they're trying to win."
+   [271]
+    1 string data = "And I don't know what the supposed prize is either, I just know that I don't want it."
+   [272]
+    1 string data = "It was kind of freeing, to realize that there can't be anything of substance in a game that doesn't value integrity."
+   [273]
+    1 string data = "Now, all I feel towards that is slight disappointment when I think of the friendships that could have been."
+   [274]
+    1 string data = "But nothing too disappointing, just kind of like noticing that the bread contains raisins."
+   [275]
+    1 string data = "So that's what I do now, I avoid raisin bread without engaging, and it's something I wish I'd started doing decades ago."
+   [276]
+    1 string data = "Are you still with me? I'll save the rest of the real talk for the final part in case this is your stop."
+   [277]
+    1 string data = "There won't be any judgement from this side in any case."
+   [278]
+    1 string data = "Let's tone it down by talking about music."
+   [279]
+    1 string data = "You ever go to a metal show where the musicians paint their faces?"
+   [280]
+    1 string data = "I used to think they were just exaggerating their characters to play to the crowd."
+   [281]
+    1 string data = "And while I'm sure there's plenty for whom that's the reason, it also dawned on me that some probably just need a persona."
+   [282]
+    1 string data = "Something that they can become in order to remove whatever insecurities that would prevent them from engaging in pure expression."
+   [283]
+    1 string data = "Something that provides just enough of a sense of being hidden to tap into a healthy form of anonymity, the empowering kind."
+   [284]
+    1 string data = "Sort of like how wearing sunglasses can remove the extra layer of social anxiety that comes from eye contact."
+   [285]
+    1 string data = "To be honest, I've lost count of how many times sunglasses allowed me to say no in public."
+   [286]
+    1 string data = "Anyway, so about those metal shows."
+   [287]
+    1 string data = "It's not lost on me that I might just be imagining all of this, that maybe they all just like the aesthetics and that's all there is to it."
+   [288]
+    1 string data = "But they still played an important role in letting me believe in the benefits of personas, and in picturing a viable path to expressing myself."
+   [289]
+    1 string data = "If that sounds confusing, the point is that any interpretation of an artist's work is valid, though it may not represent the artist's intention."
+   [290]
+    1 string data = "If that still sounds confusing, you could replace painting your face with building a virtual world for all your made up characters to live in."
+   [291]
+    1 string data = "And if that still sounds confusing, the point is that I like this cloak."
+   [292]
+    1 string data = "I have to go soon, but we can do one more round if you want."
+   [293]
+    1 string data = "Do you want me to get real?"
+   [294]
+    1 string data = "Yes"
+   [295]
+    1 string data = "No"
+   [296]
+    1 string data = "Are you absolutely sure? I can't guarantee it won't ruin the game for you."
+   [297]
+    1 string data = "Yes"
+   [298]
+    1 string data = "No"
+   [299]
+    1 string data = "..."
+   [300]
+    1 string data = "Okay."
+   [301]
+    1 string data = "With this whole time traveling business, my memory tends to play tricks on me."
+   [302]
+    1 string data = "I don't remember whether or not we've met before, but if we have, you might be wondering how the boy from the well is doing."
+   [303]
+    1 string data = "The short answer is that he's doing better, but I suppose we're here for the long answer, so let's do a short recap."
+   [304]
+    1 string data = "The story so far."
+   [305]
+    1 string data = "There once was a little boy stuck in a well. It wasn't really clear why he was in there; people assumed he fell while playing, or that someone had pushed him."
+   [306]
+    1 string data = "In truth, he had jumped in there himself."
+   [307]
+    1 string data = "He spent years in the well, wasting away anxiously, feeling utterly inadequate."
+   [308]
+    1 string data = "He had a deep desire to share his ideas with the world, but shame having played such a big part in his upbringing, his will lay broken."
+   [309]
+    1 string data = "That's why the well suited him so perfectly. A place to hide, where he could be alone with his stories, with no one to mock or judge him."
+   [310]
+    1 string data = "It was a safe life, unfortunately devoid of purpose, but at least shielded from rejection."
+   [311]
+    1 string data = "Over the years, he made friends who helped him climb out, and helped him build his stories to share them with the world."
+   [312]
+    1 string data = "His friends were very talented indeed, and together they earned the means to keep collaborating in their own shared space."
+   [313]
+    1 string data = "And that, in short, is where this story ended five years ago."
+   [314]
+    1 string data = "A lot has happened since then, and this journey wouldn't feel whole without some closure, so here we go. Cloak on, mask off."
+   [315]
+    1 string data = "It dawned on him somewhere during year two out of five of production. That for all of the sorrow inside him, there was still hate."
+   [316]
+    1 string data = "Not the externalized kind, but the kind that is directed towards the self. A crippling sense of unworthiness."
+   [317]
+    1 string data = "It had festered into a false promise. That with enough effort, something would rise from the ashes at long last."
+   [318]
+    1 string data = "A belief that the entire world just might be enough for two people to finally see that all along, they'd had someone worth welcoming, worth accepting."
+   [319]
+    1 string data = "But how would that even play out, exactly?"
+   [320]
+    1 string data = "Learning about the notion of healing fantasies completely floored him. His situation ticked all the boxes."
+   [321]
+    1 string data = "Life simply didn't work that way. There could be no "click" moment for abusers, and certainly no travel back in time to set things right."
+   [322]
+    1 string data = "All that was left was the future. And while some wounds may heal over time, there were a lot of doors, happy doors, that would remain shut forever."
+   [323]
+    1 string data = "For months it all turned to fear."
+   [324]
+    1 string data = "Fear of being nothing but a response."
+   [325]
+    1 string data = "Fear of living in delusion that he was sticking it to those who had broken him, while in reality he was still dancing for them."
+   [326]
+    1 string data = "Going out of his way to work around the clock, constantly keeping the plates spinning as if there was a point, or an end, to it all."
+   [327]
+    1 string data = "He had burned those bridges a long time ago, so why do their bidding still?"
+   [328]
+    1 string data = "And what was he thinking anyway, exposing the imaginary world he had used in order to survive, for everyone to judge and criticize?"
+   [329]
+    1 string data = "And so he crashed, but not so much in a physical way."
+   [330]
+    1 string data = "It was like emotionally falling asleep, slowly but surely, until he felt next to nothing."
+   [331]
+    1 string data = "But the work continued, for it was the only thing that kept him going."
+   [332]
+    1 string data = "And with every passing day, he would routinely close the blinds on the rising sun to prevent the glare from creeping up on his screen."
+   [333]
+    1 string data = "Going through the motions, the work progressed, and progressed well, but he was losing his grip on reality."
+   [334]
+    1 string data = "During year four, the guardian he never knew he had reappeared, and she saved him one last time."
+   [335]
+    1 string data = "His grandmother was dying, but in her final days found exactly the words that would give him purpose and sustenance."
+   [336]
+    1 string data = "It washed over him in an instant. She had been there in the background all his life, a loving and caring presence, the much needed light in all this darkness."
+   [337]
+    1 string data = "The foundation she had managed to build within him in the limited time they had spent together during his childhood was carrying him to this day."
+   [338]
+    1 string data = "Merci Irène, je t'aime."
+   [339]
+    1 string data = "He finally understood that to touch everything with gloves was to touch nothing but gloves. So he took them off, and let the memories flow."
+   [340]
+    1 string data = "...Riding his bicycle through a puddle of water to mark the road with the wet tire..."
+   [341]
+    1 string data = "...Going through the box of popsicles at his friend's place and trying to see through the wrapper to avoid the orange ones..."
+   [342]
+    1 string data = "...Feeling so thirsty that he liked to imagine that the first sip only served to give him the energy he needed to chug the glass..."
+   [343]
+    1 string data = "And of course, video games. He finally understood what they had been to him. A sanctuary."
+   [344]
+    1 string data = "The place where he could be free. Free to experiment, to learn, to ask, to fail, to persevere, to give up, to overcome, to laugh, to accomplish, to dream."
+   [345]
+    1 string data = "He wasn't just a response, he was someone who understood how to build a sanctuary, and who knew what it was like to need one."
+   [346]
+    1 string data = "There had to be others, people he would never meet, who needed a place like he had known, so he had to make it the best he could."
+   [347]
+    1 string data = "And in a flash he saw it anew, something that was right there in plain sight all along: the unbelievable talent that had gathered to bring this vision to life."
+   [348]
+    1 string data = "The sudden realization made him uncomfortable at first, thinking about how vulnerable he had allowed himself to be in front of his teammates over the years."
+   [349]
+    1 string data = "But for all his second thoughts there was one thing he couldn't deny: they were still there."
+   [350]
+    1 string data = "Each and every one of them listening mindfully every day, plying their craft to help build something they could all be proud of."
+   [351]
+    1 string data = "And at long last he knew that everything he needed, he already possessed. His friends were there with him."
+   [352]
+    1 string data = "They always had been. This whole journey was one of genuine expression of their personalities and of their unbelievable chemistry."
+   [353]
+    1 string data = "With all thoughts of destruction now gone, he set out to complete the project with the intention to create without any hope of recognition."
+   [354]
+    1 string data = "The abusers wouldn't win, not anymore. He was pursuing this because he sincerely wanted to, and he had backup."
+   [355]
+    1 string data = "Now with a stronger sense of self, he also took note never to fly so close to the sun again."
+   [356]
+    1 string data = "I wish I could tell you that he achieved balance and now lives a life with more than a single thing occupying all of his time, but on that, only time will tell."
+   [357]
+    1 string data = "Thank you for helping me indulge in some closure, it was much needed."
+   [358]
+    1 string data = "I'll be going now. Papate."

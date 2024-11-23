@@ -1,0 +1,360 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "LostOnesHamlet_EN"
+ 1 string locCategoryId = "CeruleanIsland/LostOnesHamlet"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (173 items)
+   0 int size = 173
+   [0]
+    1 string data = "..."
+   [1]
+    1 string data = "Není tu..."
+   [2]
+    1 string data = "Vůbec nikdo."
+   [3]
+    1 string data = "(Zas další komplikace...)"
+   [4]
+    1 string data = "Seraï..."
+   [5]
+    1 string data = "Cedric tady něco zaznamenal. Musíme to najít."
+   [6]
+    1 string data = "..."
+   [7]
+    1 string data = "Tohle místo postavil Aephorul."
+   [8]
+    1 string data = "Vážně?"
+   [9]
+    1 string data = "Bývala to jedna z jeho dílen."
+   [10]
+    1 string data = "A soudě podle vzhledu této kopule, nacházíme se ve skladišti duší..."
+   [11]
+    1 string data = "..."
+   [12]
+    1 string data = "(Aephorule... proč...)"
+   [13]
+    1 string data = "Jeho experimenty za sebou někoho zanechaly."
+   [14]
+    1 string data = "PROSÍM O POZORNOST!"
+   [15]
+    1 string data = "TENTO LEKTVAR ZLOMÍ KRYCÍ KLETBU."
+   [16]
+    1 string data = "KDO CHCE ZŮSTAT SKRYT, AŤ SE NEDÍVÁ!"
+   [17]
+    1 string data = "Hm?"
+   [18]
+    1 string data = "Fungovalo to!"
+   [19]
+    1 string data = "Hele, vidím tě!"
+   [20]
+    1 string data = "Jakou mám barvu?"
+   [21]
+    1 string data = "Co se tady stalo?"
+   [22]
+    1 string data = "Další z jeho příšerných experimentů."
+   [23]
+    1 string data = "Věděl jsem, že si Aephorul pohrává s dušemi, ale že navíc odděloval bytosti zaživa od jejich těl..."
+   [24]
+    1 string data = "..."
+   [25]
+    1 string data = "Takže ukryje důkazy a nechá je tady bloudit navždy?"
+   [26]
+    1 string data = "Váš přítel je zbabělec!"
+   [27]
+    1 string data = "..."
+   [28]
+    1 string data = "Aephorul není-"
+   [29]
+    1 string data = "Ty duše možná ví něco užitečného."
+   [30]
+    1 string data = "Zeptáme se jich."
+   [31]
+    1 string data = "Vy jste Bojovníci Slunovratu, je to tak?"
+   [32]
+    1 string data = "Jsme, pocházíme z jiného světa. Kdo jsi ty?"
+   [33]
+    1 string data = "Mé jméno je <color=good>B'st</color>."
+   [34]
+    1 string data = "Víš něco o Vesmírné základně?"
+   [35]
+    1 string data = "Ano. Zažili jsme její výstavbu. Tehdy jsme měli... fyzickou podobu."
+   [36]
+    1 string data = "Přístupová cesta je naneštěstí mimo provoz od té doby, co byla Základna zneužita k tvorbě mraků."
+   [37]
+    1 string data = "Zneužita?"
+   [38]
+    1 string data = "Ano. Byl to první krok ke zkáze našeho světa."
+   [39]
+    1 string data = "Chceš říct, že ne vždy sloužila zlu?"
+   [40]
+    1 string data = "Vůbec ne. Dříve regulovala podnebí a udržovala příznivé podmínky k životu na naší planetě."
+   [41]
+    1 string data = "..."
+   [42]
+    1 string data = "Byla to nádhera."
+   [43]
+    1 string data = "Zlý stroj, jenž Základnu ovládl, postupně převzal kontrolu nad její centrální AI."
+   [44]
+    1 string data = "Tvůrce kyborgů znám jako-"
+   [45]
+    1 string data = "Catalyst. Takže tam toho parchanta najdu."
+   [46]
+    1 string data = "Ty jsi na něj pamatuješ? Domnívali jsme se, že vzpomínky maže."
+   [47]
+    1 string data = "Jenom na jeho jméno."
+   [48]
+    1 string data = "Seraï..."
+   [49]
+    1 string data = "Jsem v pohodě. O důvod víc, proč se na Vesmírnou základnu dostat."
+   [50]
+    1 string data = "To by bylo možné pouze rychlodráhou."
+   [51]
+    1 string data = "A víš, jak by se dala zprovoznit?"
+   [52]
+    1 string data = "Vím. Když jsme se dozvěděli, že náš svět padne, přišli jsme s nouzovým řešením."
+   [53]
+    1 string data = "Je nenápadně, a přesto všem na očích, schováno mezi <color=location>Svatosvatými věžemi</color>."
+   [54]
+    1 string data = "Obr z kamene a kybernetiky, jenž svírá v rukou kvádr."
+   [55]
+    1 string data = "Po odjištění mechanismu blok upustí a vygeneruje tím stejnou energii, jež byla vynaložena k jeho zvednutí."
+   [56]
+    1 string data = "Nejjednodušší podoba baterie držící právě tolik energie, aby podpořila poslední snahu spasit náš svět."
+   [57]
+    1 string data = "Nazvali jsme jej <color=good>Es'tristae</color>."
+   [58]
+    1 string data = "Ale vchod do Svatosvatých věží je uzavřený. Už jsme zkoušeli všechno."
+   [59]
+    1 string data = "Tu bariéru lze prolomit snadno, víte-li, jak na to."
+   [60]
+    1 string data = "Takže nás můžeš dostat dovnitř?"
+   [61]
+    1 string data = "Zajisté, najdete-li způsob, jak mě vzít odtud."
+   [62]
+    1 string data = "Co tím myslíš?"
+   [63]
+    1 string data = "Tenhle tomu rozumí."
+   [64]
+    1 string data = "..."
+   [65]
+    1 string data = "B'st a jeho národ jsou zde uvězněni."
+   [66]
+    1 string data = "Jediným důvodem, proč se na místě nerozplynou, je tato kopule."
+   [67]
+    1 string data = "..."
+   [68]
+    1 string data = "Jak jsem řekl, pomohu vám, ale v první řadě mě tam musíte dostat."
+   [69]
+    1 string data = "..."
+   [70]
+    1 string data = "A také si přeji bojovat po jejich boku."
+   [71]
+    1 string data = "Povězte mi, jak moc dobrý alchymista jste?"
+   [72]
+    1 string data = "Trochu se vyznám."
+   [73]
+    1 string data = "Dokážete to?"
+   [74]
+    1 string data = "(Živoucí sklo...)"
+   [75]
+    1 string data = "(Možná bych to měl zkusit ještě jednou?)"
+   [76]
+    1 string data = "Máš ponětí, co přesně tvůj požadavek obnáší?"
+   [77]
+    1 string data = "Ano. Chci mít možnost bojovat a osvobodit svůj svět."
+   [78]
+    1 string data = "Ten proces je nevratný."
+   [79]
+    1 string data = "Já vím."
+   [80]
+    1 string data = "Budu potřebovat patřičné náčiní, ale nemohu se jen tak vloupat do Aephorulovy dílny."
+   [81]
+    1 string data = "Pokud se vám ji podaří otevřít, udělám to."
+   [82]
+    1 string data = "Tak z tohohle se nevyvlíknete."
+   [83]
+    1 string data = "Cedricu. Nahrávám 3D sken."
+   [84]
+    1 string data = "Přijato. Úroveň zabezpečení: vysoká."
+   [85]
+    1 string data = "Zvládneš vyrobit klíč?"
+   [86]
+    1 string data = "Potvrzuji."
+   [87]
+    1 string data = "Výborně. Pošlu sondu, ať ho vyzvedne."
+   [88]
+    1 string data = "A teď si chvíli počkáme."
+   [89]
+    1 string data = "To monstrum je v následující místnosti. Ujistěte se, že jste připraveni."
+   [90]
+    1 string data = "Jsme skoro u pracovního stolu, měli bychom si pospíšit!"
+   [91]
+    1 string data = "Ale tvůj život... Tak dlouhou dobu si ani neumím představit..."
+   [92]
+    1 string data = "Chápu-li to správně, tebe a Valerii čeká to samé."
+   [93]
+    1 string data = "Já..."
+   [94]
+    1 string data = "Žijte den po dni."
+   [95]
+    1 string data = "A já sám toho příliš nevím o boji. Jsem přesvědčen, že se vzájemně máme co učit."
+   [96]
+    1 string data = "Stejně si myslím, že Garl by je dokázal rozveselit!"
+   [97]
+    1 string data = "Haha, to určitě jo."
+   [98]
+    1 string data = "Promiň, Valerie, nechtěla jsem..."
+   [99]
+    1 string data = "Ale ne, to nevadí."
+   [100]
+    1 string data = "Víš, měla jsem za to, že zármutek je negativní pocit, který po čase zmizí."
+   [101]
+    1 string data = "Ale tak to není. Prostě pořád... se mnou zůstává."
+   [102]
+    1 string data = "Není to tak, že něco řekneš a já si na Garla kvůli tomu najednou vzpomenu."
+   [103]
+    1 string data = "Někdy je mi hrozně smutno a jindy zase s úsměvem myslím na prožité chvíle."
+   [104]
+    1 string data = "Zale to vyjádřil přesně, Garl je svým způsobem pořád s námi."
+   [105]
+    1 string data = "A já asi začínám chápat, jaké mám štěstí, že jsem znala někoho, na kom mi tak záleželo."
+   [106]
+    1 string data = "Dává ti to smysl?"
+   [107]
+    1 string data = "..."
+   [108]
+    1 string data = "Dává."
+   [109]
+    1 string data = "Díky, Valerie. Tohle pomohlo i mně."
+   [110]
+    1 string data = "Garl prostě umí zvednout náladu, i když tu není."
+   [111]
+    1 string data = "Haha!"
+   [112]
+    1 string data = "A náš klíč právě dorazil."
+   [113]
+    1 string data = "Jste připraveni?"
+   [114]
+    1 string data = "Měl bych vás varovat. <color=bad>Stvůra</color>, co nás mučila, uvnitř stále přebývá."
+   [115]
+    1 string data = "O tu se postaráme."
+   [116]
+    1 string data = "Ano, tohle postačí."
+   [117]
+    1 string data = "Živoucí sklo se zhmotní pouze pro duši obdařenou neochvějným odhodláním."
+   [118]
+    1 string data = "Naposledy se tě ptám: Jsi si naprosto jistý, že o něco takového stojíš?"
+   [119]
+    1 string data = "Ano."
+   [120]
+    1 string data = "V tom případě pojď se mnou."
+   [121]
+    1 string data = "Udělal bys to pro mě?"
+   [122]
+    1 string data = "Jistě. Ale jak poznám, že nastal ten pravý čas?"
+   [123]
+    1 string data = "Stačí je následovat. Ale pamatuj, do portálu můžete vstoupit pouze vy tři."
+   [124]
+    1 string data = "Rozumím."
+   [125]
+    1 string data = "Hotovo."
+   [126]
+    1 string data = "Já... cítím se..."
+   [127]
+    1 string data = "Sklo je velice křehký materiál. Jeho živé vlastnosti jsem propojil s tvou myslí."
+   [128]
+    1 string data = "Vždy musíš mít svůj cíl, neboť to sklo bude odolné jen tak, jak pevná je tvá vůle."
+   [129]
+    1 string data = "Tak to jsem neporazitelný!"
+   [130]
+    1 string data = "Jsem vám opravdu vděčný za novou fyzickou podobu, Velký Alchymisto."
+   [131]
+    1 string data = "Celá staletí jsem toužil po příležitosti osvobodit svůj svět."
+   [132]
+    1 string data = "Takže teď máme namířeno do <color=location>Svatosvatých věží</color>?"
+   [133]
+    1 string data = "A víš jistě, že nás dostaneš dovnitř?"
+   [134]
+    1 string data = "Naprosto. Ti pomatení kultisté nás neuvidí rádi--ale jsem připraven vyzkoušet, co tahle podoba dokáže."
+   [135]
+    1 string data = "Vypořádáme se se vším, co nás potká."
+   [136]
+    1 string data = "Na boj po vašem boku se těším."
+   [137]
+    1 string data = "Svatosvaté věže leží severozápadně odsud. Jdeme."
+   [138]
+    1 string data = "B'st se přidává do družiny!"
+   [139]
+    1 string data = "V téhle kapsli... Zde jsem byl celá ta léta držen..."
+   [140]
+    1 string data = "A tahle..."
+   [141]
+    1 string data = "(<color=good>T'kore</color>... Konečně přišel čas tě pomstít...)"
+   [142]
+    1 string data = "To monstrum je v následující místnosti. Ujistěte se, že jste připraveni."
+   [143]
+    1 string data = "Jaké experimenty to tady probíhaly?"
+   [144]
+    1 string data = "..."
+   [145]
+    1 string data = "S tím skoncujeme."
+   [146]
+    1 string data = "Tohle... je operátor..."
+   [147]
+    1 string data = "Mně moc živý teda nepřijde."
+   [148]
+    1 string data = "Buď opatrný, Zale. Když jde o stroje, zdání může klamat."
+   [149]
+    1 string data = "Hýbe se to! Připravte se!"
+   [150]
+    1 string data = "Ugh, všem bude bez téhle věci líp."
+   [151]
+    1 string data = "Resh'ane, vy jste o tomhle věděl?"
+   [152]
+    1 string data = "..."
+   [153]
+    1 string data = "Nic jsem nevěděl o tomto světě. Kéž by to s tím, co provádí Aephorul, bylo stejné..."
+   [154]
+    1 string data = "Jsme skoro u pracovního stolu, měli bychom si pospíšit!"
+   [155]
+    1 string data = "Ne, ty nejprve řekni, jakou mám barvu já!"
+   [156]
+    1 string data = "Hm, takže Živoucí sklo?"
+   [157]
+    1 string data = "No tak, jakou mám barvu?"
+   [158]
+    1 string data = "Hej, B'ste, jak vidím, máš teď opravdu sílu!"
+   [159]
+    1 string data = "Je skvělé se po tak dlouhé době znovu vidět. Tento den je dozajista výjimečný."
+   [160]
+    1 string data = "Pobyt v kapsli mi rozhodně nechybí!"
+   [161]
+    1 string data = "Viděl jsem, jak někdo vyrazil k východu."
+   [162]
+    1 string data = "Cožpak neví, že jsme tu uvězněni?"
+   [163]
+    1 string data = "Já sám bych Živoucí sklo nechtěl, ale B'stovi jej přeji."
+   [164]
+    1 string data = "Ten, kdo na nás ty experimenty prováděl... nebyl v pořádku..."
+   [165]
+    1 string data = "Snad nechcete jít dovnitř?"
+   [166]
+    1 string data = "Víte, že tam je něco velkého a nebezpečného, že ano? "
+   [167]
+    1 string data = "Stále nemohu uvěřit, že je ta obluda s kanystry pryč. Jste opravdu silní!"
+   [168]
+    1 string data = "B'st vždycky býval výjimečný."
+   [169]
+    1 string data = "Hmph! ...Nevím, proč jsem se podíval. "
+   [170]
+    1 string data = "Nechte mě být."
+   [171]
+    1 string data = "Zamčeno."
+   [172]
+    1 string data = "Nepotřebujete něco na cestu?"

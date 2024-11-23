@@ -1,0 +1,260 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Enemies_EN"
+ 1 string locCategoryId = "Enemies"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (123 items)
+   0 int size = 123
+   [0]
+    1 string data = "Nemrtvý"
+   [1]
+    1 string data = "Očarovaný"
+   [2]
+    1 string data = "Magik"
+   [3]
+    1 string data = "Prokletý"
+   [4]
+    1 string data = "Organik"
+   [5]
+    1 string data = "Kroub"
+   [6]
+    1 string data = "Lebkion"
+   [7]
+    1 string data = "Apoštolka Kunus'nuku"
+   [8]
+    1 string data = "Tsiklop"
+   [9]
+    1 string data = "Hromada žluči"
+   [10]
+    1 string data = "Slídič"
+   [11]
+    1 string data = "Přiživovač muk"
+   [12]
+    1 string data = "Rochèvre"
+   [13]
+    1 string data = "Luslimák"
+   [14]
+    1 string data = "Bosslimák"
+   [15]
+    1 string data = "'Cerna"
+   [16]
+    1 string data = "Mlžný stařešina"
+   [17]
+    1 string data = "Ruka Mlžného stařešiny"
+   [18]
+    1 string data = "Meč Mlžného stařešiny"
+   [19]
+    1 string data = "Wyrd"
+   [20]
+    1 string data = "Bossbrouk"
+   [21]
+    1 string data = "Poutník"
+   [22]
+    1 string data = "Vrtopýr"
+   [23]
+    1 string data = "Malkomount"
+   [24]
+    1 string data = "Malkomud"
+   [25]
+    1 string data = "Salamandr"
+   [26]
+    1 string data = "Bushtroo"
+   [27]
+    1 string data = "Křišťálový tulipán"
+   [28]
+    1 string data = "Arkánová stráž"
+   [29]
+    1 string data = "Pyros"
+   [30]
+    1 string data = "Rybí ničitel"
+   [31]
+    1 string data = "Chromatický zjev"
+   [32]
+    1 string data = "Mralovec"
+   [33]
+    1 string data = "Botanická zrůda"
+   [34]
+    1 string data = "Horní květina"
+   [35]
+    1 string data = "Spodní květina"
+   [36]
+    1 string data = "Romaya"
+   [37]
+    1 string data = "Hromada kostí"
+   [38]
+    1 string data = "Hromada masa"
+   [39]
+    1 string data = "Valčáci"
+   [40]
+    1 string data = "Lonzon"
+   [41]
+    1 string data = "Lesní duch"
+   [42]
+    1 string data = "Arentee"
+   [43]
+    1 string data = "Boulbe"
+   [44]
+    1 string data = "Gulgul"
+   [45]
+    1 string data = "Přiživovačka žalu"
+   [46]
+    1 string data = "Přiživovačka žalu"
+   [47]
+    1 string data = "Revenant"
+   [48]
+    1 string data = "Kniha kouzel"
+   [49]
+    1 string data = "Přisluhovač sváru"
+   [50]
+    1 string data = "Oční bulva"
+   [51]
+    1 string data = "Stormcaller"
+   [52]
+    1 string data = "Rváčka"
+   [53]
+    1 string data = "Střelecký cápek"
+   [54]
+    1 string data = "Prapra"
+   [55]
+    1 string data = "Mrně Prapra"
+   [56]
+    1 string data = "Žralzenál"
+   [57]
+    1 string data = "Garnooy"
+   [58]
+    1 string data = "GooGoon"
+   [59]
+    1 string data = "Akolyta Jednička"
+   [60]
+    1 string data = "Akolyta Trojka"
+   [61]
+    1 string data = "Rochecrossidere"
+   [62]
+    1 string data = "Přiživovač muk"
+   [63]
+    1 string data = "Pravá ruka"
+   [64]
+    1 string data = "Levá ruka"
+   [65]
+    1 string data = "Krevetový rytíř"
+   [66]
+    1 string data = "DJ"
+   [67]
+    1 string data = "Houbový rytíř"
+   [68]
+    1 string data = "Trávasín"
+   [69]
+    1 string data = "Tock"
+   [70]
+    1 string data = "Kukumonster"
+   [71]
+    1 string data = "Fungelva"
+   [72]
+    1 string data = "Listová příšera"
+   [73]
+    1 string data = "Hodinový zombie"
+   [74]
+    1 string data = "Petarďák"
+   [75]
+    1 string data = "Králík Sling"
+   [76]
+    1 string data = "Sopucha"
+   [77]
+    1 string data = "Dron"
+   [78]
+    1 string data = "Bigbrouk"
+   [79]
+    1 string data = "Hydralion"
+   [80]
+    1 string data = "Ocas"
+   [81]
+    1 string data = "Strážce"
+   [82]
+    1 string data = "Hřemech"
+   [83]
+    1 string data = "Věž"
+   [84]
+    1 string data = "Přiživovač sváru"
+   [85]
+    1 string data = "Oční bulva"
+   [86]
+    1 string data = "Fázový žnec"
+   [87]
+    1 string data = "Kovboj Ronin"
+   [88]
+    1 string data = "Pletoděj"
+   [89]
+    1 string data = "Medúzo"
+   [90]
+    1 string data = "Kanistr"
+   [91]
+    1 string data = "Přiživovač hrůzy"
+   [92]
+    1 string data = "Chapadlo"
+   [93]
+    1 string data = "Průzkumník"
+   [94]
+    1 string data = "Bohyně zbraní"
+   [95]
+    1 string data = "Kulka"
+   [96]
+    1 string data = "Pomazaný"
+   [97]
+    1 string data = "Asasýček"
+   [98]
+    1 string data = "Yinke"
+   [99]
+    1 string data = "Opakovačka"
+   [100]
+    1 string data = "Salvač"
+   [101]
+    1 string data = "Opravárenská jednotka"
+   [102]
+    1 string data = "Blaster"
+   [103]
+    1 string data = "Abstarak"
+   [104]
+    1 string data = "Drapák Matsa'krun"
+   [105]
+    1 string data = "Sešívač"
+   [106]
+    1 string data = "Kurátor duší"
+   [107]
+    1 string data = "Kostiklec"
+   [108]
+    1 string data = "Kostisloup"
+   [109]
+    1 string data = "LeJugg"
+   [110]
+    1 string data = "Mermofděj"
+   [111]
+    1 string data = "Mechanická ohavnost"
+   [112]
+    1 string data = "Elysan'darëlle"
+   [113]
+    1 string data = "Croustalion"
+   [114]
+    1 string data = "Mokladnice"
+   [115]
+    1 string data = "Končetina"
+   [116]
+    1 string data = "Semeno"
+   [117]
+    1 string data = "Mořský slimák"
+   [118]
+    1 string data = "Sylgain"
+   [119]
+    1 string data = "Cvičný krab"
+   [120]
+    1 string data = "OAF"
+   [121]
+    1 string data = "Catalyst"
+   [122]
+    1 string data = "Cvičný panák"

@@ -1,0 +1,66 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "EstristaeArea_EN"
+ 1 string locCategoryId = "SacrosanctSpireIsland/EstristaeArea"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (26 items)
+   0 int size = 26
+   [0]
+    1 string data = "Dokázali jsme to."
+   [1]
+    1 string data = "Á...  Tohle měl být asi spouštěcí mechanismus?"
+   [2]
+    1 string data = "Rachater..."
+   [3]
+    1 string data = "B'ste, nešlo by to nějak jinak?"
+   [4]
+    1 string data = "..."
+   [5]
+    1 string data = "Ustupte stranou."
+   [6]
+    1 string data = "Dobrá práce, B'ste!"
+   [7]
+    1 string data = "Podařilo se?"
+   [8]
+    1 string data = "Ano. Rychlodráhová síť by měla být opět v provozu."
+   [9]
+    1 string data = "Odsud se rychle dostaneme do jakékoliv jiné stanice, včetně té na <color=location>Vesmírné základně</color>."
+   [10]
+    1 string data = "Páni, to byl teda fofr!"
+   [11]
+    1 string data = "Ahoj Teaks."
+   [12]
+    1 string data = "Nazdárek, tak jak se vám daří?"
+   [13]
+    1 string data = "Docela dobře, ale před chvílí nás opustil Resh'an."
+   [14]
+    1 string data = "Cože? Vždyť stojí přímo támhle!"
+   [15]
+    1 string data = "To je jen prázdná loutka. Skutečný Resh'an je pryč."
+   [16]
+    1 string data = "Celkem děsivé, ale i dost zajímavé."
+   [17]
+    1 string data = "Jé, ahoj!"
+   [18]
+    1 string data = "To je Živoucí sklo!"
+   [19]
+    1 string data = "Ráda tě poznávám, já jsem Teaks."
+   [20]
+    1 string data = "Potěšení je na mé straně. Jmenuji se B'st."
+   [21]
+    1 string data = "No, takže, jen se tak porozhlížím po Repine a najednou se otevře tahle kabina."
+   [22]
+    1 string data = "To jste udělali vy?"
+   [23]
+    1 string data = "B'st nahodil proud. Teď můžeme odjet na Vesmírnou základnu."
+   [24]
+    1 string data = "Fakt? Tak to se k vám přidám--To MUSÍM vidět!"
+   [25]
+    1 string data = "Musíme jet na Vesmírnou základnu. Rychlodráha by už měla být v provozu."

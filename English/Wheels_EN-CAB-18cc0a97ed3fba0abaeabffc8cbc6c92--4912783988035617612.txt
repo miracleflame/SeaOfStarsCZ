@@ -1,0 +1,52 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Wheels_EN"
+ 1 string locCategoryId = "Wheels"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (19 items)
+   0 int size = 19
+   [0]
+    1 string data = "Archer"
+   [1]
+    1 string data = "Assassin"
+   [2]
+    1 string data = "Priest"
+   [3]
+    1 string data = "Engineer"
+   [4]
+    1 string data = "Mage"
+   [5]
+    1 string data = "Warrior"
+   [6]
+    1 string data = "<button="AdvanceTime"> Spin"
+   [7]
+    1 string data = "<button="Interact"> Lock / Unlock"
+   [8]
+    1 string data = "<button="MoveHorizontal"> Browse Heroes"
+   [9]
+    1 string data = "<button="UI_Confirm"> Confirm"
+   [10]
+    1 string data = "<button="UI_Back"> Back"
+   [11]
+    1 string data = "Victory"
+   [12]
+    1 string data = "Defeat"
+   [13]
+    1 string data = "Tie"
+   [14]
+    1 string data = "P1 Wins"
+   [15]
+    1 string data = "P2 Wins"
+   [16]
+    1 string data = "Waiting for a player to join..."
+   [17]
+    1 string data = "Continue"
+   [18]
+    1 string data = "End game"

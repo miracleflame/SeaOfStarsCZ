@@ -1,0 +1,202 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Codex_EN"
+ 1 string locCategoryId = "Codex"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (94 items)
+   0 int size = 94
+   [0]
+    1 string data = "General"
+   [1]
+    1 string data = "Combat initiates when your party leader collides with an enemy or one of their projectiles. It is <color=menuhighlight>turn-based</color> with <color=menuhighlight>no time bars</color>, letting you strategize and execute at your own pace."
+   [2]
+    1 string data = "Timing Hits"
+   [3]
+    1 string data = "Your attacks and skills can be enhanced by <color=menuhighlight>pressing <button="Interact"> at the right time</color> to increase damage, healing, or score additional hits. Timing your hits is <color=menuhighlight>not mandatory</color>, just think of it as a bonus to shoot for!"
+   [4]
+    1 string data = "Timing Blocks"
+   [5]
+    1 string data = "Enemy attacks and skills can be mitigated by <color=menuhighlight>pressing <button="Interact"> at the right time</color> to reduce their damage. Timing your blocks is <color=menuhighlight>not mandatory</color>, just think of it as a bonus to shoot for!"
+   [6]
+    1 string data = "Skills"
+   [7]
+    1 string data = "Skills are special actions that cost <color=menuhighlight>MP</color>. From multi-target attacks to healing spells, they offer different ways of approaching combat and dealing <color=menuhighlight>magic damage of specific types</color>. Can be enhanced as <color=menuhighlight>timed hits</color>."
+   [8]
+    1 string data = "MP Regeneration"
+   [9]
+    1 string data = "Regular attacks <color=menuhighlight>recover 3 MP</color>. You should not hesitate to use special skills even when you are not fighting a boss, for attacking with a full MP bar is a waste of <color=menuhighlight>regeneration</color>."
+   [10]
+    1 string data = "Items"
+   [11]
+    1 string data = "Items are snacks <color=menuhighlight>cooked while camping</color> or <color=menuhighlight>bought at shops</color>. Whether you need to recover some <color=menuhighlight>HP</color> but can't afford a spell, or need <color=menuhighlight>MP</color> but don't have time to attack for regen, it might be time for a snack!"
+   [12]
+    1 string data = "Boosting with Live Mana"
+   [13]
+    1 string data = "Regular attacks generate <color=menuhighlight>Live Mana</color> charges. Hold <button="Combat_Boost"> and press <button="Interact"> to <color=menuhighlight>absorb</color> Live Mana and <color=menuhighlight>Boost</color> your next battle action with a portion of your <color=menuhighlight>Magic Attack</color>."
+   [14]
+    1 string data = "Breaking Locks"
+   [15]
+    1 string data = "Enemies mounting special attacks will display a bar with <color=menuhighlight>locks</color>. Deal <color=menuhighlight>damage of the relevant types</color> to break these locks and weaken the enemy's action, or <color=menuhighlight>cancel</color> it altogether by breaking all locks."
+   [16]
+    1 string data = "Mystery Locks"
+   [17]
+    1 string data = "Depending on difficulty settings, most locks will be a <color=menuhighlight>mystery</color> at first, needing to be unveiled either by <color=menuhighlight>trying different damage types</color> or using <color=menuhighlight>skills capable of reavealing Mystery Locks</color>."
+   [18]
+    1 string data = "Combos"
+   [19]
+    1 string data = "Combos are <color=menuhighlight>powerful dual attacks</color> that can only be executed by spending <color=menuhighlight>Combo Points</color>. While most battle actions build Combo Points, <color=menuhighlight>breaking locks</color> is by far the most efficient."
+   [20]
+    1 string data = "Vulnerabilities and Resists"
+   [21]
+    1 string data = "Some enemies are <color=menuhighlight>vulnerable</color> to certain damage types, while others have <color=menuhighlight>resistances</color> to others. There are a total of 6 damage types, though only 4 appear in the early game: <color=menuhighlight>Blunt</color>, <color=menuhighlight>Sword</color>, <color=menuhighlight>Moon</color> and <color=menuhighlight>Sun</color>."
+   [22]
+    1 string data = "Swapping Characters"
+   [23]
+    1 string data = "After taking action, your characters are on cooldown until your whole party has acted. While available, they can act in the <color=menuhighlight>order of your choice</color>. Use <button="Left"> / <button="Right"> to cycle through <color=menuhighlight>available characters</color>."
+   [24]
+    1 string data = "Couch Co-op Combat"
+   [25]
+    1 string data = "In combat, players <color=menuhighlight>randomly take turns</color> choosing the next action. Press <button="Interact"> to <color=menuhighlight>ping</color> the player who is stalling, or <button="SkipCombatTurn"> to <color=menuhighlight>skip your own turn</color> and let another player pick the next action."
+   [26]
+    1 string data = "Couch Co-op Time Hits"
+   [27]
+    1 string data = "No matter who picked the next action, <color=menuhighlight>all players</color> can participate in timing hits and blocks with <button="Interact">. <color=menuhighlight>Team Hits</color> and <color=menuhighlight>Team Blocks</color> can be pulled off by two or three players simultaneously for <color=menuhighlight>bonus outcomes</color>."
+   [28]
+    1 string data = "Save Points"
+   [29]
+    1 string data = "Save Points are represented as a <color=menuhighlight>big tome on a pedestal</color>, and can be found throughout the game. <color=menuhighlight>Campsites</color> always have a Save Point."
+   [30]
+    1 string data = "Shops"
+   [31]
+    1 string data = "Mostly located in villages, <color=menuhighlight>merchants sell</color> equipment, cooking ingredients and snacks. They can also <color=menuhighlight>buy</color> any valuables you found or items you want to part with."
+   [32]
+    1 string data = "Camping"
+   [33]
+    1 string data = "Camping is a free action that lets you <color=menuhighlight>cook</color> items for later, and <color=menuhighlight>rest</color> to fully heal your party. It is available at <color=menuhighlight>campfire sites</color> in different areas, and through the <color=menuhighlight>game menu while out on the World Map</color>."
+   [34]
+    1 string data = "Cooking"
+   [35]
+    1 string data = "You can <color=menuhighlight>cook</color> by interacting with a <color=menuhighlight>campfire</color>. Hold <button="Interact"> to prepare the snack of your choice for later. Provided you have the required <color=menuhighlight>ingredients</color>, of course!"
+   [36]
+    1 string data = "Fishing"
+   [37]
+    1 string data = "To start fishing, press <button="Interact"> at the edge of the <color=menuhighlight>dock</color> near a <color=menuhighlight>fishing lake</color>. Most Fishing Lakes are directly on the <color=menuhighlight>World Map</color>."
+   [38]
+    1 string data = "Fishing - Line Casting"
+   [39]
+    1 string data = "Press <button="Interact"> to <color=menuhighlight>cast</color>. Casting is always at full power. While airborne, <color=menuhighlight>steer</color> the bobber with <button="MoveHorizontal"> and press <button="Interact"> to <color=menuhighlight>kick</color> it into the water."
+   [40]
+    1 string data = "Fishing - Hook & Reel"
+   [41]
+    1 string data = "If the bobber touches water close to a fish, it's a <color=menuhighlight>hook</color>! While hooked, <color=menuhighlight>steer</color> the fish with <button="MoveHorizontal"> and press and hold <button="Interact"> to <color=menuhighlight>reel while it is in the zone</color>."
+   [42]
+    1 string data = "Fishing - Reel & Catch"
+   [43]
+    1 string data = "Be careful not to reel outside of the zone, otherwise the line will <color=bad>break</color>. Reel the fish all the way to the dock and it's a <color=menuhighlight>catch</color>!"
+   [44]
+    1 string data = "Non-combat Healing"
+   [45]
+    1 string data = "If you need to heal outside of combat and there are no campsites nearby, you can access your magic <color=menuhighlight>skills</color> through the game menu, or eat a <color=menuhighlight>snack</color> from your inventory."
+   [46]
+    1 string data = "Relics"
+   [47]
+    1 string data = "The relic menu offers ways to <color=menuhighlight>customize the experience</color>. If you prefer lighter combat, it might be a good idea to activate the <color=magic>Amulet of Storytelling</color> relic, for example."
+   [48]
+    1 string data = "Movement"
+   [49]
+    1 string data = "Use <button="MoveAll"> to <color=menuhighlight>run</color> around."
+   [50]
+    1 string data = "Climbing"
+   [51]
+    1 string data = "While facing a <color=menuhighlight>climbable surface</color>, press <button="Interact"> to <color=menuhighlight>snap on</color>, then <button="MoveVertical"> to climb away."
+   [52]
+    1 string data = "Hoisting"
+   [53]
+    1 string data = "While facing a <color=menuhighlight>ledge</color> of one, two or three units above you, press <button="Interact"> to <color=menuhighlight>hoist</color> up onto it."
+   [54]
+    1 string data = "Jumping Off Ledges"
+   [55]
+    1 string data = "While facing a <color=menuhighlight>ledge</color> leading to a <color=menuhighlight>clear ground surface</color> below, press <button="Interact"> to <color=menuhighlight>jump</color> down."
+   [56]
+    1 string data = "Swimming"
+   [57]
+    1 string data = "Use <button="MoveAll"> to enter and exit <color=menuhighlight>bodies of water</color> and <color=menuhighlight>swim</color> around."
+   [58]
+    1 string data = "Couch Co-op Basics"
+   [59]
+    1 string data = "Up to three players can <color=menuhighlight>play together</color>! Press <button="UI_Start"> to join. Options for <color=menuhighlight>dropping out</color> and <color=menuhighlight>reassigning players</color> are available in the Pause Menu. Players can also <color=menuhighlight>leave at any time</color> by holding <button="Leave">."
+   [60]
+    1 string data = "Couch Co-op Actions"
+   [61]
+    1 string data = "All players can <color=menuhighlight>interact with the world</color> as if they were Player 1. In co-op, players can also press <button="HighFive"> to high-five each other for a <color=menuhighlight>speed boost</color>, or hold <button="Bubble"> to get in a <color=menuhighlight>bubble</color> and catch up with the group."
+   [62]
+    1 string data = "Mistral Bracelet"
+   [63]
+    1 string data = "Press <button="WindBracelet"> to shoot bursts of wind that can <color=menuhighlight>push blocks</color>."
+   [64]
+    1 string data = "Overview"
+   [65]
+    1 string data = "Wheels is a <color=menuhighlight>clockwork battler</color> where each player controls two <color=menuhighlight>Heroes</color>. Match <color=menuhighlight>Energy</color> to make your Heroes attack and bring the enemy <color=menuhighlight>Crown</color>'s HP to zero!"
+   [66]
+    1 string data = "Table & Player Wheel"
+   [67]
+    1 string data = "The table has a set of four <color=menuhighlight>default Wheels</color> on either side, completed by each players' <color=menuhighlight>Player Wheel</color>. Each side also displays its respective players' HP (Crown) and Heroes (figurines)."
+   [68]
+    1 string data = "Spinning the Wheels"
+   [69]
+    1 string data = "Players get up to three <color=menuhighlight>spins</color> per round. Spin with <button="AdvanceTime">. Wheels can be <color=menuhighlight>browsed</color> with <button="MoveHorizontal"> and <color=menuhighlight>locked</color>/<color=menuhighlight>unlocked</color> with <button="Interact"> in between spins."
+   [70]
+    1 string data = "Energy"
+   [71]
+    1 string data = "For a Hero to <color=menuhighlight>act</color>, its action rod must be lowered by matching the associated Energy. <color=menuhighlight>Square</color> Energy is for the <color=menuhighlight>left Hero</color>, while <color=menuhighlight>Diamond</color> is for the <color=menuhighlight>right Hero</color>. Energy is matched in "3oak+" fashion (3=1, 4=2, 5=3, 6=4, and so on)."
+   [72]
+    1 string data = "Bulwark"
+   [73]
+    1 string data = "The <color=menuhighlight>Bulwark</color> protects the Crown. It can be <color=menuhighlight>raised</color> to resist up to <color=menuhighlight>5</color> points of damage, and is raised by <color=menuhighlight>matching hammers</color> in "3oak+" fashion (3=1, 4=2, 5=3, 6=4, and so on)."
+   [74]
+    1 string data = "Evolving Heroes"
+   [75]
+    1 string data = "Heroes <color=menuhighlight>evolve</color> when they have enough XP. Heroes gain 1XP for each tile with a <color=menuhighlight>blue background</color> matching their Energy type (1=1, no 3oak rule), and gain 2XP whenever they <color=menuhighlight>act</color>. Heroes always start off at the <color=menuhighlight>Bronze</color> tier and can each evolve to <color=menuhighlight>Silver</color> and <color=menuhighlight>Gold</color>."
+   [76]
+    1 string data = "Bombs"
+   [77]
+    1 string data = "Filling the XP bar on a Gold Hero will spawn a <color=menuhighlight>Bomb</color> dealing <color=menuhighlight>2</color> damage directly to the opponent's Crown, disregarding their Bulwark."
+   [78]
+    1 string data = "Heroes"
+   [79]
+    1 string data = "Each Hero has its own <color=menuhighlight>strengths</color> and <color=menuhighlight>weaknesses</color>. There is a total of <color=menuhighlight>six</color> playable Heroes: Warrior, Mage, Archer, Engineer, Assassin, and Priest."
+   [80]
+    1 string data = "Warrior"
+   [81]
+    1 string data = "A steady and moderately fast damage dealer. Since damage doesn't carry over, this one is easily blocked by the Bulwark."
+   [82]
+    1 string data = "Mage"
+   [83]
+    1 string data = "Attacks twice. The first fireball is at the ground level and easily blocked by the Bulwark, while the second fireball flies at a height of 6 units, guaranteeing a hit on the Crown even if the Bulwark is maxed out."
+   [84]
+    1 string data = "Archer"
+   [85]
+    1 string data = "Strong against Crown (<sprite="dialog-generic-icons" name="wheels-main-damage">), weak against Bulwark (<sprite="dialog-generic-icons" name="wheels-wall-damage">). The arrow flies at a height of 3 units, hitting the Crown when the Bulwark is at 2 or less."
+   [86]
+    1 string data = "Engineer"
+   [87]
+    1 string data = "Strong against Bulwark (<sprite="dialog-generic-icons" name="wheels-wall-damage">), weak against Crown (<sprite="dialog-generic-icons" name="wheels-main-damage">). As a bonus, the engineer raises its team's Bulwark by 2 units whenever it acts."
+   [88]
+    1 string data = "Assassin"
+   [89]
+    1 string data = "Specialist Hero. Attacks delay the opponent's Hero (<sprite="dialog-generic-icons" name="wheels-energy-damage">) with the least amount of energy left before acting. Also deals low damage to the Crown (<sprite="dialog-generic-icons" name="wheels-main-damage">) directly, disregarding Bulwark."
+   [90]
+    1 string data = "Priest"
+   [91]
+    1 string data = "Support Hero. Heals its team's Crown (<sprite="dialog-generic-icons" name="wheels-healing">), and gives energy to its fellow Hero (<sprite="dialog-generic-icons" name="wheels-energy">)."
+   [92]
+    1 string data = "Champions and progression"
+   [93]
+    1 string data = "The Wheels journey begins with a Bronze Wheel and only the Warrior and Mage as playable Heroes. Rumors say that those who <color=menuhighlight>unlock</color> all <color=menuhighlight>six Heroes</color> and the <color=menuhighlight>Platinum Wheel</color> may challenge The Watchmaker herself!"

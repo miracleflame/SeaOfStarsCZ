@@ -1,0 +1,74 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "FerrymanOutpost_EN"
+ 1 string locCategoryId = "WraithIsland/FerrymanOutpost"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (30 items)
+   0 int size = 30
+   [0]
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?"
+   [1]
+    1 string data = "S Převozníkem se těžko domlouvá. Nechte to na mně."
+   [2]
+    1 string data = "*Ehm*…"
+   [3]
+    1 string data = "Převozníku, my zdravíme tě. Pravda, k průchodu potřebujeme tě."
+   [4]
+    1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
+   [5]
+    1 string data = "My… nevíme, jakou barvu plamene hledáš, avšak spěcháme a dosti hrozný cíl je náš."
+   [6]
+    1 string data = "Nuže mi musíte své otázky položiti, až pak já informace vám mohu svěřiti."
+   [7]
+    1 string data = "…"
+   [8]
+    1 string data = "Hele, musíme se rychle dostat do Doupěte nekromantky, nemůžeš nám prostě říct, jakou barvu potřebuješ?"
+   [9]
+    1 string data = "Prosím, omluv mé nepochopení, zdá se, že ses spletla při mluvení."
+   [10]
+    1 string data = "…"
+   [11]
+    1 string data = "*Ehm*…"
+   [12]
+    1 string data = "Znalče, čo neznámé vody mostí, zaveď nás tam, kde jsou stěny z kostí."
+   [13]
+    1 string data = "Říkáš tam, kde jsou stěny z kostí? Toť cesta mnohýma oplakaná dosti."
+   [14]
+    1 string data = "Však zdá se, že vy pospýcháte, jinak život v nouzi promrháte."
+   [15]
+    1 string data = "Zeleným plamenem mě obdaříte, a až pak vy snad stěn kosti zříte."
+   [16]
+    1 string data = "Takovou věc žel nelze přijmout… Šlo by i pozdní platbu přijmout?"
+   [17]
+    1 string data = "Nepřijatelné jsou tyto vaše podmínky, jelikož směr určujou zelené plamínky."
+   [18]
+    1 string data = "Na tohle nemáme čas!"
+   [19]
+    1 string data = "…"
+   [20]
+    1 string data = "Šetřila jsem si ji na něco jiného, ale nedáváš mi na výběr."
+   [21]
+    1 string data = "A teď své slovní hříčky zahoď a ten svůj zelený plamen nahoď!"
+   [22]
+    1 string data = "(!!!)"
+   [23]
+    1 string data = "(Mince nemrtvé úmluvy!?!)"
+   [24]
+    1 string data = "Jakožto nemrtvý jsem přinucen mincí směnnou, uplacen na cestu pouze jednosměrnou."
+   [25]
+    1 string data = "Rychle, až budeme mít kámen duší, pak můžeme řešit, jak se dostat zpátky."
+   [26]
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?"
+   [27]
+    1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
+   [28]
+    1 string data = "Nadechněte vzduch noci svěží, jdem ke<color=location>Zpola potopené věži</color>"
+   [29]
+    1 string data = "Nestraťte rozum 'ni obranu hbitou, poplujem teď na <color=location>Zatopený hřbitov</color>."

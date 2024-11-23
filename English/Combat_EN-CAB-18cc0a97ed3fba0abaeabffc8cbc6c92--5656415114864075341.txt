@@ -1,0 +1,612 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Combat_EN"
+ 1 string locCategoryId = "Combat"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (299 items)
+   0 int size = 299
+   [0]
+    1 string data = "Attack"
+   [1]
+    1 string data = "Skills"
+   [2]
+    1 string data = "Recharge"
+   [3]
+    1 string data = "Swap"
+   [4]
+    1 string data = "Items"
+   [5]
+    1 string data = "Combo"
+   [6]
+    1 string data = "Combo"
+   [7]
+    1 string data = "Hold Rune"
+   [8]
+    1 string data = "Heal"
+   [9]
+    1 string data = "Basic Attack (MP +3)"
+   [10]
+    1 string data = "Solar Attack (MP +3)"
+   [11]
+    1 string data = "Lunar Attack (MP +3)"
+   [12]
+    1 string data = "Focus on Lunar Rune to increase party damage."
+   [13]
+    1 string data = "Heal party."
+   [14]
+    1 string data = "Boost"
+   [15]
+    1 string data = "Healing Light"
+   [16]
+    1 string data = "Restores HP to a single ally."
+   [17]
+    1 string data = "Press <button="Interact"> near the end to boost."
+   [18]
+    1 string data = "Nourish"
+   [19]
+    1 string data = "Garl throws a snack at a friend (medium heal)."
+   [20]
+    1 string data = "Hurl"
+   [21]
+    1 string data = "Hurl an enemy to another position and reveal 1 lock (+1 per boost)."
+   [22]
+    1 string data = "Got [XP_AMOUNT] experience point(s)!"
+   [23]
+    1 string data = "Found [GOLD_AMOUNT] gold!"
+   [24]
+    1 string data = "Got [XP_AMOUNT] experience point(s) and [GOLD_AMOUNT] gold!"
+   [25]
+    1 string data = "Solstice Strike"
+   [26]
+    1 string data = "Dual attack. Can be timed to hit twice."
+   [27]
+    1 string data = "Cooker Surprise"
+   [28]
+    1 string data = "Area damage. Reveals 1 lock (+1 per boost)."
+   [29]
+    1 string data = "Press <button="Interact"> on throw to boost."
+   [30]
+    1 string data = "Garl learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-garl-cookersurprise"> <color=magic>Cooker Surprise</color>!"
+   [31]
+    1 string data = "Solen's Light: Salvation"
+   [32]
+    1 string data = "Zale's ultimate attack."
+   [33]
+    1 string data = "Luana's Might: Retribution"
+   [34]
+    1 string data = "Valere's ultimate attack."
+   [35]
+    1 string data = "Vespertine Cannons"
+   [36]
+    1 string data = "Seraï's ultimate attack."
+   [37]
+    1 string data = "Sleeper's Fury"
+   [38]
+    1 string data = "Garl's ultimate attack."
+   [39]
+    1 string data = "Altered B'st "
+   [40]
+    1 string data = "B'st's ultimate attack."
+   [41]
+    1 string data = "Ultimate"
+   [42]
+    1 string data = "Arcane Moons"
+   [43]
+    1 string data = "Arcane and Lunar magic damage to all targets."
+   [44]
+    1 string data = "Press on crash."
+   [45]
+    1 string data = "Valere and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-arcanemoon"> <color="magic">Arcane Moons</color>!"
+   [46]
+    1 string data = "Elbow Drop"
+   [47]
+    1 string data = "Moderate Blunt and Arcane damage to a single target."
+   [48]
+    1 string data = "Press <button="Interact"> when bouncing on the ground to gain more height."
+   [49]
+    1 string data = "Warble"
+   [50]
+    1 string data = "Inspires the target, curing KO'd state and healing slightly."
+   [51]
+    1 string data = "Press <button="Interact"> near the end for a boost."
+   [52]
+    1 string data = "Power Smash"
+   [53]
+    1 string data = "Arcane damage to a single target. Can be timed for bonus AoE damage."
+   [54]
+    1 string data = "Press <button="Interact"> on smash for bonus AoE damage."
+   [55]
+    1 string data = "Moonrock"
+   [56]
+    1 string data = "Blunt, Arcane and Moon damage to a single target."
+   [57]
+    1 string data = "Press <button="Interact"> when Valere's hit connects."
+   [58]
+    1 string data = "Valere and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-moondome"> <color="magic">Moonrock</color>!"
+   [59]
+    1 string data = "HurlSmash"
+   [60]
+    1 string data = "Garl hurls an enemy for B'st to power smash. Reveals 1 lock (+1 per boost)."
+   [61]
+    1 string data = "Press <button="Interact"> when Garl throws, and again when B'st's hit connects."
+   [62]
+    1 string data = "Garl and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-hurlsmash"> <color="magic">Hurl Smash</color>!"
+   [63]
+    1 string data = "Arcane Sun"
+   [64]
+    1 string data = "Arcane and Solar magic damage to a single target. Can be timed for bonus AoE."
+   [65]
+    1 string data = "Press <button="Interact"> as B'st's hit connects."
+   [66]
+    1 string data = "Zale and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-arcanesun"> <color="magic">Arcane Sun</color>!"
+   [67]
+    1 string data = "Elbow Loop"
+   [68]
+    1 string data = "Single target Blunt, Venom and Arcane damage."
+   [69]
+    1 string data = "Press <button="Interact"> when bouncing on the ground to gain more height."
+   [70]
+    1 string data = "Seraï and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-elbowloop"> <color="magic">Elbow Loop</color>!"
+   [71]
+    1 string data = "Bottle Punch"
+   [72]
+    1 string data = "High damage vs one target. Also deals splash damage."
+   [73]
+    1 string data = "Press <button="Interact"> as the hit connects."
+   [74]
+    1 string data = "Resh'an and B'st learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-bottlepunch"> <color="magic">Bottle Punch</color>!"
+   [75]
+    1 string data = "Item Roulette"
+   [76]
+    1 string data = "Garl picks a random item for a special effect."
+   [77]
+    1 string data = "Press <button=interact> to select item."
+   [78]
+    1 string data = "Garl and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-itemroulette"> <color="magic">Item Roulette</color>!"
+   [79]
+    1 string data = "Moon Shiv"
+   [80]
+    1 string data = "High damage vs one target."
+   [81]
+    1 string data = "Press <button="Interact"> as the hit connects."
+   [82]
+    1 string data = "Valere and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-moonstab"> <color="magic">Moon Shiv</color>!"
+   [83]
+    1 string data = "Venom Bomb"
+   [84]
+    1 string data = "Area damage. Reveals 1 lock (+1 per boost)."
+   [85]
+    1 string data = "Press <button="Interact"> on throw to boost."
+   [86]
+    1 string data = "Garl and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-poisonbomb"> <color="magic">Venom Bomb</color>!"
+   [87]
+    1 string data = "Solar Rain"
+   [88]
+    1 string data = "Sun damage that hits all enemies."
+   [89]
+    1 string data = "Hold <button="Interact"> for power!"
+   [90]
+    1 string data = "Zale and Garl learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-solarrain"> <color="magic">Solar Rain</color>!"
+   [91]
+    1 string data = "Dash Strike"
+   [92]
+    1 string data = "Sword and Sun damage that hits all enemies."
+   [93]
+    1 string data = "Press <button="Interact"> late to ignite sun runes."
+   [94]
+    1 string data = "Zale learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-zale-dashstrike"> <color="magic">Dash Strike</color>!"
+   [95]
+    1 string data = "Conflagrate"
+   [96]
+    1 string data = "Arcane and Solar magic damage (multi hit)."
+   [97]
+    1 string data = "Steer fire column with <button="MoveAll">!"
+   [98]
+    1 string data = "Zale and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-conflagrate"> <color="magic">Conflagrate</color>!"
+   [99]
+    1 string data = "X-Strike"
+   [100]
+    1 string data = "Sword, Sun and Venom damage that hits all enemies."
+   [101]
+    1 string data = "Press <button="Interact"> late to ignite sun runes."
+   [102]
+    1 string data = "Zale and Seraï learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-xstrike"> <color="magic">X-Strike</color>!"
+   [103]
+    1 string data = "Arcane Barrage"
+   [104]
+    1 string data = "Multiple arcane hits on a single target that also delays its turn."
+   [105]
+    1 string data = "Press <button="Interact"> to kick potions at the target."
+   [106]
+    1 string data = "Seraï and Resh'an learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-arcane-barage"> <color="magic">Arcane Barrage</color>!"
+   [107]
+    1 string data = "Bash Drop"
+   [108]
+    1 string data = "Moderate Blunt damage vs one target."
+   [109]
+    1 string data = "Press <button="Interact"> as the hit connects."
+   [110]
+    1 string data = "Valere and Garl learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-BashDrop"> <color="magic">Bash Drop</color>!"
+   [111]
+    1 string data = "Ebb"
+   [112]
+    1 string data = "Removes 1 random lock. Also reveals 1 lock (+1 per boost)."
+   [113]
+    1 string data = "Venom Flask (MP +3)"
+   [114]
+    1 string data = "Petrichor"
+   [115]
+    1 string data = "Soothing mist heals the party."
+   [116]
+    1 string data = "Abeyance"
+   [117]
+    1 string data = "Deals arcane damage while pulling enemies together."
+   [118]
+    1 string data = "The Great Eagle"
+   [119]
+    1 string data = "Resh'an's ultimate attack."
+   [120]
+    1 string data = "Eclipse"
+   [121]
+    1 string data = "Moon"
+   [122]
+    1 string data = "Sun"
+   [123]
+    1 string data = "SP Cost [COST]"
+   [124]
+    1 string data = "AP Cost"
+   [125]
+    1 string data = "Great"
+   [126]
+    1 string data = "Perfect!"
+   [127]
+    1 string data = "Sunball"
+   [128]
+    1 string data = "Solar magic projectile that splashes to nearby targets."
+   [129]
+    1 string data = "Hold <button="Interact"> for power!"
+   [130]
+    1 string data = "Moonerang"
+   [131]
+    1 string data = "Lunar magic projectile that can bounce to multiple targets."
+   [132]
+    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valere</color> to keep going."
+   [133]
+    1 string data = "Press <button="Interact"> to deflect!"
+   [134]
+    1 string data = "Press <button="Interact"> to kick!"
+   [135]
+    1 string data = "Crescent Arc"
+   [136]
+    1 string data = "Smashes enemies in an arc."
+   [137]
+    1 string data = "Press <button="Interact"> on hit for additional damage."
+   [138]
+    1 string data = "Lunar Shield"
+   [139]
+    1 string data = "Miniature moons each protect allies from a single hit and heal slightly."
+   [140]
+    1 string data = "Press <button="Interact"> late to increase healing done."
+   [141]
+    1 string data = "Valere learned combat skill <sprite="dialog-inventory-icons" name="icn-skills-valere-lunarshield"> <color="magic">Lunar Shield</color>!"
+   [142]
+    1 string data = "Mending Light"
+   [143]
+    1 string data = "Restores HP to all allies."
+   [144]
+    1 string data = "Press <button="Interact"> near the end to boost."
+   [145]
+    1 string data = "[MAINCHAR] and [OFFCHAR] learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-mendinglight"> <color="magic">Mending Light</color>!"
+   [146]
+    1 string data = "Soonrang"
+   [147]
+    1 string data = "Lunar and Solar magic projectile that can bounce to multiple targets."
+   [148]
+    1 string data = "Time <button="Interact"> as the projectile hits <color=moon>Valere</color> to keep going."
+   [149]
+    1 string data = "[MAINCHAR] and [OFFCHAR] learned combo skill <sprite="dialog-inventory-icons" name="icn-combos-soonrang"> <color="magic">Soonrang</color>!"
+   [150]
+    1 string data = "Thunder"
+   [151]
+    1 string data = "Heal"
+   [152]
+    1 string data = "Summon"
+   [153]
+    1 string data = "Flesh Shield"
+   [154]
+    1 string data = "Multishoot"
+   [155]
+    1 string data = "Spike Shower"
+   [156]
+    1 string data = "Ram"
+   [157]
+    1 string data = "+AP"
+   [158]
+    1 string data = "AP"
+   [159]
+    1 string data = "VULNERABLE!"
+   [160]
+    1 string data = "Resist"
+   [161]
+    1 string data = "Shielded"
+   [162]
+    1 string data = "<button="Combat_ChangeCharacterRight">"
+   [163]
+    1 string data = "<button="Combat_ChangeCharacterLeft">"
+   [164]
+    1 string data = "Acid Bug Bombs"
+   [165]
+    1 string data = "Tantrum"
+   [166]
+    1 string data = "Elder Mist's sword is feeling better"
+   [167]
+    1 string data = "Sword Active: Counter Slash"
+   [168]
+    1 string data = "Elder Mist's arm is feeling better."
+   [169]
+    1 string data = "Elder Mist's sword and arm are feeling better."
+   [170]
+    1 string data = "Shuffle weakness: Sun"
+   [171]
+    1 string data = "Shuffle weakness: Moon"
+   [172]
+    1 string data = "Shuffle weakness: Physical"
+   [173]
+    1 string data = "Healing Mist"
+   [174]
+    1 string data = "Heal"
+   [175]
+    1 string data = "Group Heal"
+   [176]
+    1 string data = "Energy Release"
+   [177]
+    1 string data = "Select position"
+   [178]
+    1 string data = "Confirm selection"
+   [179]
+    1 string data = "Stalagbite"
+   [180]
+    1 string data = "Teal Drop"
+   [181]
+    1 string data = "Bombs Away"
+   [182]
+    1 string data = "Salamanger"
+   [183]
+    1 string data = "Shovel Might"
+   [184]
+    1 string data = "Geobress"
+   [185]
+    1 string data = "Detonate"
+   [186]
+    1 string data = "Boomsplosion"
+   [187]
+    1 string data = "Bubble Drop"
+   [188]
+    1 string data = "Shapeshift"
+   [189]
+    1 string data = "Arcane Singularity"
+   [190]
+    1 string data = "Tournade"
+   [191]
+    1 string data = "Quillshot"
+   [192]
+    1 string data = "Felfire Rain"
+   [193]
+    1 string data = "Necromancy"
+   [194]
+    1 string data = "Disorient"
+   [195]
+    1 string data = "Stalls an enemy's action. Reveals 1 lock (+1 per boost)."
+   [196]
+    1 string data = "Press <button="Interact"> on hit to boost damage."
+   [197]
+    1 string data = "Chomp Chomp"
+   [198]
+    1 string data = "Mirror Images"
+   [199]
+    1 string data = "Soul Spikes"
+   [200]
+    1 string data = "Pain"
+   [201]
+    1 string data = "Spectral Scythes"
+   [202]
+    1 string data = "Fire"
+   [203]
+    1 string data = "Bubble Drop"
+   [204]
+    1 string data = "Thunder"
+   [205]
+    1 string data = "Phase Shiv"
+   [206]
+    1 string data = "Teleports to backstab the target with a venom-coated blade."
+   [207]
+    1 string data = "Venom Flurry"
+   [208]
+    1 string data = "Venomous darts hit all enemies."
+   [209]
+    1 string data = "Press <button="Interact"> on throw to keep going!"
+   [210]
+    1 string data = "Chain Lightning"
+   [211]
+    1 string data = "Ruler of Tides"
+   [212]
+    1 string data = "Soul Rend"
+   [213]
+    1 string data = "Cacstorm"
+   [214]
+    1 string data = "Slurp Kiss"
+   [215]
+    1 string data = "Tar Spikeball"
+   [216]
+    1 string data = "V-Attack"
+   [217]
+    1 string data = "Todome"
+   [218]
+    1 string data = "Snowball Crash"
+   [219]
+    1 string data = "Clone"
+   [220]
+    1 string data = "Icicle"
+   [221]
+    1 string data = "Funguspike"
+   [222]
+    1 string data = "Mirror Attack"
+   [223]
+    1 string data = "Tackle"
+   [224]
+    1 string data = "Quillshot"
+   [225]
+    1 string data = "Haste"
+   [226]
+    1 string data = "Spin Tackle"
+   [227]
+    1 string data = "Paincone"
+   [228]
+    1 string data = "Throw Leaves"
+   [229]
+    1 string data = "Burrow Bomb"
+   [230]
+    1 string data = "Items"
+   [231]
+    1 string data = "Combos"
+   [232]
+    1 string data = "Skills"
+   [233]
+    1 string data = "Torblado"
+   [234]
+    1 string data = "Pebble Arc"
+   [235]
+    1 string data = "Tremor"
+   [236]
+    1 string data = "Hex Shield"
+   [237]
+    1 string data = "Power Tackle"
+   [238]
+    1 string data = "Tectonics"
+   [239]
+    1 string data = "Bubble Drop"
+   [240]
+    1 string data = "Ruler of Tides"
+   [241]
+    1 string data = "Call Drones"
+   [242]
+    1 string data = "Taser Grip"
+   [243]
+    1 string data = "Power Shot"
+   [244]
+    1 string data = "Photon Salvo"
+   [245]
+    1 string data = "Plasma Saws"
+   [246]
+    1 string data = "Heat Spin"
+   [247]
+    1 string data = "Crash"
+   [248]
+    1 string data = "Eye Beam"
+   [249]
+    1 string data = "Split Ball"
+   [250]
+    1 string data = "Mirage"
+   [251]
+    1 string data = "Flourishing Death"
+   [252]
+    1 string data = "Pan Handling"
+   [253]
+    1 string data = "Eclipse Laser"
+   [254]
+    1 string data = "Soothe"
+   [255]
+    1 string data = "Sinferno"
+   [256]
+    1 string data = "Chomp"
+   [257]
+    1 string data = "Dread Stare"
+   [258]
+    1 string data = "Cross Shot"
+   [259]
+    1 string data = "Fan the hammer"
+   [260]
+    1 string data = "The Shot"
+   [261]
+    1 string data = "Spincut"
+   [262]
+    1 string data = "Telepounce"
+   [263]
+    1 string data = "YinkeYank"
+   [264]
+    1 string data = "L-Orb"
+   [265]
+    1 string data = "True Terror"
+   [266]
+    1 string data = "Stitch-a-Fiend"
+   [267]
+    1 string data = "Call Helpers"
+   [268]
+    1 string data = "Direct"
+   [269]
+    1 string data = "Sulsul"
+   [270]
+    1 string data = "Mend Mind"
+   [271]
+    1 string data = "Get zook'd"
+   [272]
+    1 string data = "Bone Cage"
+   [273]
+    1 string data = "Bone Pillar"
+   [274]
+    1 string data = "Roulette Punch"
+   [275]
+    1 string data = "Searing Pyramid"
+   [276]
+    1 string data = "Healing Rain"
+   [277]
+    1 string data = "Searing Beam"
+   [278]
+    1 string data = "Moonchakus"
+   [279]
+    1 string data = "Sunchakus"
+   [280]
+    1 string data = "Time for friends!"
+   [281]
+    1 string data = "Time for a snack!"
+   [282]
+    1 string data = "Time for... MAYHEM!!"
+   [283]
+    1 string data = "Telekinesis Crash"
+   [284]
+    1 string data = "The Pyramid"
+   [285]
+    1 string data = "Crystal Touch"
+   [286]
+    1 string data = "Shatter"
+   [287]
+    1 string data = "Life Leech"
+   [288]
+    1 string data = "Tail Active: Counter Whip"
+   [289]
+    1 string data = "Kondo Throwdown"
+   [290]
+    1 string data = "Petarade"
+   [291]
+    1 string data = "Throne of Flesh"
+   [292]
+    1 string data = "Maw"
+   [293]
+    1 string data = "Selapeleshot sur le jelakelestrap"
+   [294]
+    1 string data = "Super Sclout"
+   [295]
+    1 string data = "Gun Goddess' bullets are gone!"
+   [296]
+    1 string data = "Sonic Pain"
+   [297]
+    1 string data = "Belly Drop"
+   [298]
+    1 string data = "PWR"

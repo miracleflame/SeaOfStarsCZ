@@ -1,0 +1,62 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "HunterTower_EN"
+ 1 string locCategoryId = "SacrosanctSpireIsland/HunterTower"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (24 items)
+   0 int size = 24
+   [0]
+    1 string data = "Like fish in a barrel. Hehehe..."
+   [1]
+    1 string data = "Let us out!"
+   [2]
+    1 string data = "Afraid I can't do that, Repine gal."
+   [3]
+    1 string data = "(...)"
+   [4]
+    1 string data = "(The glass one sure is odd...)"
+   [5]
+    1 string data = "You heard her! Free us or else!"
+   [6]
+    1 string data = "Hehehe..."
+   [7]
+    1 string data = "Or else what? The sitting <color=bad>Triumvirate of Eminence</color> has remained unchallenged for centuries."
+   [8]
+    1 string data = "You think you lowlives have a shot at replacing us?"
+   [9]
+    1 string data = "We've been through worse."
+   [10]
+    1 string data = "Hehehe..."
+   [11]
+    1 string data = "Then get through this!"
+   [12]
+    1 string data = "..."
+   [13]
+    1 string data = "To the gallows they go."
+   [14]
+    1 string data = "It's all the same in the end. Hehehe..."
+   [15]
+    1 string data = "*unintelligible*"
+   [16]
+    1 string data = "A soundproof barrier. My magic can't break it."
+   [17]
+    1 string data = "This one is not a cultist. Might be able to help if we can free him."
+   [18]
+    1 string data = "Free at last! Thank you, benevolent strangers."
+   [19]
+    1 string data = "My wind magic can help you escape the gallows. Here."
+   [20]
+    1 string data = "The code compels me to leave the Spires, but I will not forget this debt."
+   [21]
+    1 string data = "Safe journeys!"
+   [22]
+    1 string data = "Not fooling me twice."
+   [23]
+    1 string data = "Here's hoping the release mechanism is this way..."

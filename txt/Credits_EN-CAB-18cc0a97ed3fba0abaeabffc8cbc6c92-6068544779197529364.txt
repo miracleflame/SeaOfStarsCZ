@@ -1,0 +1,132 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Credits_EN"
+ 1 string locCategoryId = "Credits"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (59 items)
+   0 int size = 59
+   [0]
+    1 string data = "Special Thanks"
+   [1]
+    1 string data = "And thank YOU for playing <3 <3 <3"
+   [2]
+    1 string data = "Game Director, Designer & Writer"
+   [3]
+    1 string data = "Gameplay Programmer"
+   [4]
+    1 string data = "Level Designer"
+   [5]
+    1 string data = "Lead Level & Environment Artist"
+   [6]
+    1 string data = "Level & Environment Artist"
+   [7]
+    1 string data = "Lead Composer & Sound Designer"
+   [8]
+    1 string data = "Guest Composer"
+   [9]
+    1 string data = "Technical Director"
+   [10]
+    1 string data = "Technical Artist & Graphics Programmer"
+   [11]
+    1 string data = "Dialogue & Cutscenes Integrator"
+   [12]
+    1 string data = "Tools Programmer"
+   [13]
+    1 string data = "Character Artist & Animation Team Coordinator"
+   [14]
+    1 string data = "Lead Animator & Character Artist"
+   [15]
+    1 string data = "Animator & Character Artist"
+   [16]
+    1 string data = "Animator & Character Artist"
+   [17]
+    1 string data = "Executive Producer"
+   [18]
+    1 string data = "Finances & Office Manager"
+   [19]
+    1 string data = "Character Designer & Concept Artist"
+   [20]
+    1 string data = " UI & Menus Graphic Designer"
+   [21]
+    1 string data = "Animator & VFX Artist"
+   [22]
+    1 string data = "Social Media & Community Manager"
+   [23]
+    1 string data = "Lead Moderator"
+   [24]
+    1 string data = "Gameplay Integrator"
+   [25]
+    1 string data = "QA Dev Support"
+   [26]
+    1 string data = "Additional Programming & Ports"
+   [27]
+    1 string data = "Additional Graphics Programming"
+   [28]
+    1 string data = "Additional Sound Design & Music"
+   [29]
+    1 string data = "Pirate Music Covers"
+   [30]
+    1 string data = "Portraits & Menu Icons Illustrator"
+   [31]
+    1 string data = "Dev Apprentice"
+   [32]
+    1 string data = "Best Boy"
+   [33]
+    1 string data = "-Production Babies-"
+   [34]
+    1 string data = "Top Backers"
+   [35]
+    1 string data = "Super Backers"
+   [36]
+    1 string data = "Backers"
+   [37]
+    1 string data = "Backers (cont.)"
+   [38]
+    1 string data = "-Dev Team-"
+   [39]
+    1 string data = "-In partnership with Du Coup Animation-"
+   [40]
+    1 string data = "-In partnership with Kowloon Nights-"
+   [41]
+    1 string data = "-In partnership with Procyon Studio-"
+   [42]
+    1 string data = "-In partnership with Kakehashi Games-"
+   [43]
+    1 string data = "-In partnership with IOIGamer-"
+   [44]
+    1 string data = "-Powered by Unity Engine-"
+   [45]
+    1 string data = "-Powered by Wwise-"
+   [46]
+    1 string data = "-PR Support by TinsleyPR-"
+   [47]
+    1 string data = "-LATAM Support by Masamune-"
+   [48]
+    1 string data = "Big thanks to our partners from Nintendo - ®"
+   [49]
+    1 string data = "Big thanks to our partners from Sony PlayStation - ®"
+   [50]
+    1 string data = "Big thanks to our partners from Microsoft Xbox"
+   [51]
+    1 string data = "-In partnership with iam8bit-"
+   [52]
+    1 string data = "-In partnership with Limited Run Games-"
+   [53]
+    1 string data = "-Keywords Studios-"
+   [54]
+    1 string data = "-Lionbridge Games-"
+   [55]
+    1 string data = "-Discord Moderators-"
+   [56]
+    1 string data = "-Additional Support-"
+   [57]
+    1 string data = "-Shoutout to our colleagues from the past-"
+   [58]
+    1 string data = "The End?"

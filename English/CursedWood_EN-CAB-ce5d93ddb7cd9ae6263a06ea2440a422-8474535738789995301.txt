@@ -1,0 +1,124 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "CursedWood_EN"
+ 1 string locCategoryId = "WraithIsland/CursedWood"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (55 items)
+   0 int size = 55
+   [0]
+    1 string data = "There he is!"
+   [1]
+    1 string data = "HEY, WAIT!!"
+   [2]
+    1 string data = "Gah! Where's that strength coming from!?"
+   [3]
+    1 string data = "Huff... huff..."
+   [4]
+    1 string data = "This poor villager..."
+   [5]
+    1 string data = "Captain was right, the Dweller's grasp is too strong..."
+   [6]
+    1 string data = "Can't we go in? Maybe it's not too late!"
+   [7]
+    1 string data = "We'd never be able to break that barrier. Even the Headmaster will need the eclipse to get us through."
+   [8]
+    1 string data = "So we just... give up?"
+   [9]
+    1 string data = "Can't help anyone if we die in vain."
+   [10]
+    1 string data = "...You're right."
+   [11]
+    1 string data = "Anyway, we'll save him during the cleansing, right?"
+   [12]
+    1 string data = "(...)"
+   [13]
+    1 string data = "(...)"
+   [14]
+    1 string data = "No point staying here, then. Let's go wait for the others."
+   [15]
+    1 string data = "It's singing again!"
+   [16]
+    1 string data = "Another one already?"
+   [17]
+    1 string data = "Garl?"
+   [18]
+    1 string data = "GARL, NO!!"
+   [19]
+    1 string data = "HANG ON, VALERE!!"
+   [20]
+    1 string data = "YOU CAN'T TAKE HIM!! THAT'S NOT FAIR!!"
+   [21]
+    1 string data = "HEY!!!"
+   [22]
+    1 string data = "I was hoping we would meet under different circumstances..."
+   [23]
+    1 string data = "Explain yourself right now!"
+   [24]
+    1 string data = "I am not your enemy."
+   [25]
+    1 string data = "This is numbing poison. Your friend's mind is still being controlled, but his body won't act."
+   [26]
+    1 string data = "You've bought us some time?"
+   [27]
+    1 string data = "It's a longshot, but if we hurry we might be able to fetch a <color=magic>soul stone</color> before the poison wears off."
+   [28]
+    1 string data = "A soul stone?"
+   [29]
+    1 string data = "<color=bad>Someone</color> on this island uses them to remain free of the Dweller's grasp."
+   [30]
+    1 string data = "If we get one, it should consume the mind control spell on your friend."
+   [31]
+    1 string data = "I know just the place, but..."
+   [32]
+    1 string data = "What are we waiting for, then?"
+   [33]
+    1 string data = "Zale, are you okay?"
+   [34]
+    1 string data = "(Garl...)"
+   [35]
+    1 string data = "I'm fine. Let's take him back to the inn first."
+   [36]
+    1 string data = "We must make haste. Over here."
+   [37]
+    1 string data = "This shortcut will help. Lead the way."
+   [38]
+    1 string data = "A mysterious assassin joins the party!"
+   [39]
+    1 string data = "If it's always dark here, how will we know when the eclipse happens?"
+   [40]
+    1 string data = "You'll know..."
+   [41]
+    1 string data = "..."
+   [42]
+    1 string data = "The curse of the Night Shroud is strong, but it won't withstand the eclipse."
+   [43]
+    1 string data = "Can't wait to see that!"
+   [44]
+    1 string data = "Any moment now..."
+   [45]
+    1 string data = "Huh!?"
+   [46]
+    1 string data = "Valere?"
+   [47]
+    1 string data = "The time has come!"
+   [48]
+    1 string data = "Solstice Warriors, channel through me!"
+   [49]
+    1 string data = "RIGHT ON!!!"
+   [50]
+    1 string data = "Quickly now. Our window is short."
+   [51]
+    1 string data = "Your friend doesn't have much time. Let's use the shortcut to the right."
+   [52]
+    1 string data = "There's no time. We must hurry back to Lucent."
+   [53]
+    1 string data = "Brambles are blocking the way. We should find their source."
+   [54]
+    1 string data = "Manor <sprite="dialog-generic-icons" name="arrow-north">\nLucent <sprite="dialog-generic-icons" name="arrow-south">"

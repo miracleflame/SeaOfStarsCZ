@@ -1,0 +1,374 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Characters_EN"
+ 1 string locCategoryId = "Characters"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (180 items)
+   0 int size = 180
+   [0]
+    1 string data = "Zale"
+   [1]
+    1 string data = "Valerie"
+   [2]
+    1 string data = "Solen"
+   [3]
+    1 string data = "Luana"
+   [4]
+    1 string data = "Garl"
+   [5]
+    1 string data = "Resh'an"
+   [6]
+    1 string data = "Seraï"
+   [7]
+    1 string data = "B'st"
+   [8]
+    1 string data = "B'st"
+   [9]
+    1 string data = "Tanečník čepele narozený o letním slunovratu.<br>Kráčí po stezce <color=sun>Solena, Božského Ochránce</color>."
+   [10]
+    1 string data = "Mniška narozená o zimním slunovratu.<br>Kráčí po stezce <color=#A4E4FC>Luany, Božské Ochránkyně</color>."
+   [11]
+    1 string data = "Solární tanečník čepele"
+   [12]
+    1 string data = "Lunární mniška"
+   [13]
+    1 string data = "Válečný kuchař"
+   [14]
+    1 string data = "Asasínka"
+   [15]
+    1 string data = "Nesmrtelný alchymista"
+   [16]
+    1 string data = "Golem z Živého skla"
+   [17]
+    1 string data = "Archivář"
+   [18]
+    1 string data = "Gorilí mládě"
+   [19]
+    1 string data = "Matriarcha goril"
+   [20]
+    1 string data = "Dokarrijský vesničan"
+   [21]
+    1 string data = "Služebník chrámu"
+   [22]
+    1 string data = "Dokarrijský stařešina"
+   [23]
+    1 string data = "Věštec přílivů a odlivů "
+   [24]
+    1 string data = "Dokarrijské dítě"
+   [25]
+    1 string data = "Apoštolka Kunus'nuku"
+   [26]
+    1 string data = "Gorilí mláďata"
+   [27]
+    1 string data = "SaboTeam"
+   [28]
+    1 string data = "Brugaves"
+   [29]
+    1 string data = "Erlina"
+   [30]
+    1 string data = "Ředitel Moraine"
+   [31]
+    1 string data = "Moraine"
+   [32]
+    1 string data = "Vesničan"
+   [33]
+    1 string data = "Vesničané"
+   [34]
+    1 string data = "Vesnické dítě"
+   [35]
+    1 string data = "Vesničan"
+   [36]
+    1 string data = "Vesničan"
+   [37]
+    1 string data = "Vesničan"
+   [38]
+    1 string data = "Vesničan"
+   [39]
+    1 string data = "Horník"
+   [40]
+    1 string data = "Wyrd"
+   [41]
+    1 string data = "Mlžný stařešina"
+   [42]
+    1 string data = "???"
+   [43]
+    1 string data = "Teaks"
+   [44]
+    1 string data = "Stařešina Teaks"
+   [45]
+    1 string data = "Stařešina Garl"
+   [46]
+    1 string data = "Molekinský vesničan"
+   [47]
+    1 string data = "Molekinský stařešina"
+   [48]
+    1 string data = "Malkomud"
+   [49]
+    1 string data = "Občan Svěžína"
+   [50]
+    1 string data = "Občan Svěžína"
+   [51]
+    1 string data = "Občan Svěžína"
+   [52]
+    1 string data = "Občan Svěžína"
+   [53]
+    1 string data = "Díte z Svěžínu"
+   [54]
+    1 string data = "Valtraid"
+   [55]
+    1 string data = "Kapitánka Klii'šaë"
+   [56]
+    1 string data = "Yolanda"
+   [57]
+    1 string data = "Keenathan"
+   [58]
+    1 string data = "Šéfkuchařka Skromné chlouby"
+   [59]
+    1 string data = "Kašpar"
+   [60]
+    1 string data = "Lambert"
+   [61]
+    1 string data = "Edgar"
+   [62]
+    1 string data = "Host"
+   [63]
+    1 string data = "Host"
+   [64]
+    1 string data = "Host"
+   [65]
+    1 string data = "Převozník"
+   [66]
+    1 string data = "Romaya"
+   [67]
+    1 string data = "Jednička"
+   [68]
+    1 string data = "Dvojka"
+   [69]
+    1 string data = "Trojka"
+   [70]
+    1 string data = "Čtyřka"
+   [71]
+    1 string data = "Vévoda Aventry"
+   [72]
+    1 string data = "Duch"
+   [73]
+    1 string data = "Mrzutý duch"
+   [74]
+    1 string data = "Duch"
+   [75]
+    1 string data = "Duch"
+   [76]
+    1 string data = "Tulák"
+   [77]
+    1 string data = "Hospodský"
+   [78]
+    1 string data = "Hortenzie"
+   [79]
+    1 string data = "Kupec"
+   [80]
+    1 string data = "Vesničan Veselí"
+   [81]
+    1 string data = "Vesničan Veselí"
+   [82]
+    1 string data = "Vesničan Veselí"
+   [83]
+    1 string data = "Vesničan Veselí"
+   [84]
+    1 string data = "Kryptochodec"
+   [85]
+    1 string data = "Gus"
+   [86]
+    1 string data = "Duše"
+   [87]
+    1 string data = "Khukharr"
+   [88]
+    1 string data = "X'tol"
+   [89]
+    1 string data = "Y'eet"
+   [90]
+    1 string data = "Puntie"
+   [91]
+    1 string data = "Potulný básník"
+   [92]
+    1 string data = "Yomara"
+   [93]
+    1 string data = "Aephorul"
+   [94]
+    1 string data = "Caël"
+   [95]
+    1 string data = "Hodinářka"
+   [96]
+    1 string data = "Dítě"
+   [97]
+    1 string data = "Dítě"
+   [98]
+    1 string data = "Dítě"
+   [99]
+    1 string data = "Dítě"
+   [100]
+    1 string data = "Dítě"
+   [101]
+    1 string data = "Ztracený"
+   [102]
+    1 string data = "Ztracený"
+   [103]
+    1 string data = "Ztracený "
+   [104]
+    1 string data = "Člen rady"
+   [105]
+    1 string data = "Člen rady"
+   [106]
+    1 string data = "Člen rady"
+   [107]
+    1 string data = "Wentworth"
+   [108]
+    1 string data = "Cedric"
+   [109]
+    1 string data = "Pán Kvízů"
+   [110]
+    1 string data = "Počítač"
+   [111]
+    1 string data = "Jádro AI"
+   [112]
+    1 string data = "Artifik"
+   [113]
+    1 string data = "LeJugg"
+   [114]
+    1 string data = "Jirard"
+   [115]
+    1 string data = "Stráž"
+   [116]
+    1 string data = "Quilliam"
+   [117]
+    1 string data = "Darro"
+   [118]
+    1 string data = "Toe"
+   [119]
+    1 string data = "Hammer"
+   [120]
+    1 string data = "Spike"
+   [121]
+    1 string data = "Locket"
+   [122]
+    1 string data = "Abstarak"
+   [123]
+    1 string data = "Bratr Casugin"
+   [124]
+    1 string data = "Rachater "
+   [125]
+    1 string data = "Verlot"
+   [126]
+    1 string data = "Kurátor duší"
+   [127]
+    1 string data = "Elysan'darëlle"
+   [128]
+    1 string data = "Kultista"
+   [129]
+    1 string data = "Tsig"
+   [130]
+    1 string data = "Mirna"
+   [131]
+    1 string data = "Šéfkuchař Bass"
+   [132]
+    1 string data = "Všichni"
+   [133]
+    1 string data = "Muž"
+   [134]
+    1 string data = "Žena"
+   [135]
+    1 string data = "Papoušek s ostřížím zrakem"
+   [136]
+    1 string data = "Stavitel Jirard"
+   [137]
+    1 string data = "Vrchní rybář"
+   [138]
+    1 string data = "Chi"
+   [139]
+    1 string data = "Člen posádky"
+   [140]
+    1 string data = "Croustalion"
+   [141]
+    1 string data = "Gaëtan Piment"
+   [142]
+    1 string data = "Pier-Luc"
+   [143]
+    1 string data = "Bryce"
+   [144]
+    1 string data = "Savannah"
+   [145]
+    1 string data = "Sylvain"
+   [146]
+    1 string data = "Philip"
+   [147]
+    1 string data = "Thierry"
+   [148]
+    1 string data = "Mathieu"
+   [149]
+    1 string data = "Thommy"
+   [150]
+    1 string data = "Axel"
+   [151]
+    1 string data = "Jean-Philippe"
+   [152]
+    1 string data = "Jean-Luc"
+   [153]
+    1 string data = "Michaël"
+   [154]
+    1 string data = "Bruno"
+   [155]
+    1 string data = "Greg"
+   [156]
+    1 string data = "Jake"
+   [157]
+    1 string data = "Jeakim"
+   [158]
+    1 string data = "Jean-Bernard"
+   [159]
+    1 string data = "Martina"
+   [160]
+    1 string data = "Philippe "Dzidzi""
+   [161]
+    1 string data = "Edouard"
+   [162]
+    1 string data = "Yasunori Mitsuda"
+   [163]
+    1 string data = "Eric"
+   [164]
+    1 string data = "Frédérik"
+   [165]
+    1 string data = "Carl"
+   [166]
+    1 string data = "Martin"
+   [167]
+    1 string data = "Anne-Marie"
+   [168]
+    1 string data = "Buddy"
+   [169]
+    1 string data = "Olivier"
+   [170]
+    1 string data = "Jack"
+   [171]
+    1 string data = "Reece"
+   [172]
+    1 string data = "Obchodnice"
+   [173]
+    1 string data = "Hráč Kotoučů"
+   [174]
+    1 string data = "Edward Roulette"
+   [175]
+    1 string data = "???"
+   [176]
+    1 string data = "Pan Truhla"
+   [177]
+    1 string data = "Pokladní Arény"
+   [178]
+    1 string data = "Malba"
+   [179]
+    1 string data = "Bob"

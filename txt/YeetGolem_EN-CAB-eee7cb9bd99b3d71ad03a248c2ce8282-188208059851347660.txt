@@ -1,0 +1,26 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "YeetGolem_EN"
+ 1 string locCategoryId = "SleeperIsland/YeetGolem"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (6 items)
+   0 int size = 6
+   [0]
+    1 string data = "Mlžný stařešina si nedělal legraci. Skvělá jízda."
+   [1]
+    1 string data = "Takže, tohle Spáčův ostrov... Co teď?"
+   [2]
+    1 string data = "Asi si musíme najít nějakou loď."
+   [3]
+    1 string data = "Sestoupíme teda až k moři?"
+   [4]
+    1 string data = "..."
+   [5]
+    1 string data = "X'tol je neaktivní. Škoda, že nemáme žádné jméno, které bychom mu mohli zadat..."

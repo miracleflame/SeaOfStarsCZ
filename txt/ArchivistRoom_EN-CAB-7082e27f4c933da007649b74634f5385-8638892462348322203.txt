@@ -1,0 +1,356 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ArchivistRoom_EN"
+ 1 string locCategoryId = "WatcherIsland/ArchivistRoom"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (171 items)
+   0 int size = 171
+   [0]
+    1 string data = "Vítej ve <color=location>Velkém archivu</color>, dobrodruhu. Předpokládám, že tě sem přivedla zvědavost."
+   [1]
+    1 string data = "Důležitá vlastnost, to je jisté."
+   [2]
+    1 string data = "Já jsem <color=good>Archivář</color>, nesmrtelný znalec alchymie."
+   [3]
+    1 string data = "Nebo to už snad víš?"
+   [4]
+    1 string data = "Po tisíciletích strávených zaznamenáváním mnoha událostí nesčetných časových linií jsem se rozhodl sem vrátit, abych si promyslel vše, co jsem viděl."
+   [5]
+    1 string data = "Při svých úvahách o příbězích, jimiž jsou vyplněny tyto knihy a svitky, jsem nedávno prozřel."
+   [6]
+    1 string data = "Zdá se, že jsem ve spěchu možná přehlédl právě to, co jsem doufal, že najdu."
+   [7]
+    1 string data = "A tak je tu jeden zvláštní příběh, ke kterému se chci vrátit. Příběh, který si zaslouží diváka."
+   [8]
+    1 string data = "A pokud Mlhy času dovolí drobnou změnu, věřím, že <color=magic>záblesk naděje</color>, který se kdysi nabízel, může ještě vykvést."
+   [9]
+    1 string data = "Tak kráčej dnes v noci se mnou a prozkoumáme příběh plný velkých dobrodružství."
+   [10]
+    1 string data = "O kouzlech a zradě, o přátelství a zázracích."
+   [11]
+    1 string data = "Ale především, příběh o hrdinství."
+   [12]
+    1 string data = "Věřím, že právě tento příběh nabídne cenné poznatky pro nalezení řešení soužení <color=bad>Karnimanta</color>."
+   [13]
+    1 string data = "Tak se podívejme, co zde nalezneme..."
+   [14]
+    1 string data = "Ach, ano!"
+   [15]
+    1 string data = "Náš příběh začíná ve světě, který před několika generacemi Karnimant navštívil, způsobil tam obrovský chaos a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
+   [16]
+    1 string data = "Kdesi na <color=location>Ostrově věčné mlhy</color> sní dvě statečné <color=good>Děti Slunovratu</color> a jejich nejlepší přitel o životě plném dobrodružství."
+   [17]
+    1 string data = "Ale přestože je vskutku čeká cesta <color=good>Bojovníků Slunovratu</color>, nebudou moci opustit hnízdo, dokud se nenaučí ovládnout svou vrozenou magii..."
+   [18]
+    1 string data = "Ve věži sice prokázali statečné úsilí, ale jak to osud k jejich smůle chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
+   [19]
+    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače světů."
+   [20]
+    1 string data = "Bojovali statečně, ale nakonec přišli o život i o svůj svět. "
+   [21]
+    1 string data = "Což nás přivádí k jádru dnešních úvah - k jediné otázce..."
+   [22]
+    1 string data = "Jak daleko by se dostali, kdybychom osud trochu postrčili a dveře, které kdysi bývaly zavřené, <color=good>otevřeli</color>?"
+   [23]
+    1 string data = "Pojďme to zjistit."
+   [24]
+    1 string data = "Vstupte."
+   [25]
+    1 string data = "Co je tohle za místo?"
+   [26]
+    1 string data = "Páchne to tu dost zatuchle!"
+   [27]
+    1 string data = "Dobrý večer, vítejte ve Velkém archivu."
+   [28]
+    1 string data = "Prosím, omluvte ten nepořádek, mám tendenci se zcela ponořit do práce."
+   [29]
+    1 string data = "!!"
+   [30]
+    1 string data = "Tak moment, vy jste opravdu..."
+   [31]
+    1 string data = "Tituly patří do příběhů a mýtů. Prosím, říkejte mi Resh'an."
+   [32]
+    1 string data = "Resh'an..."
+   [33]
+    1 string data = "To zní ještě hustěji než X'tol!"
+   [34]
+    1 string data = "Počkat, takže to VY jste ten nesmrtelný alchymista?"
+   [35]
+    1 string data = "Asi tomu tak bude."
+   [36]
+    1 string data = "Neskutečné!"
+   [37]
+    1 string data = "Alchymisto, pane, my..."
+   [38]
+    1 string data = "Prosím. Říkejte mi Resh'an."
+   [39]
+    1 string data = "*Ehm* Resh'ane, tohle jsme opravdu nečekali."
+   [40]
+    1 string data = "Jo, my... Nemůžete to teda všechno napravit?"
+   [41]
+    1 string data = "To bohužel nepůjde. Musím se držet velmi přísných pravidel."
+   [42]
+    1 string data = "Utrpení, které by nastalo, pokud bych vzal věci do vlastních rukou, se nedá slovy popsat."
+   [43]
+    1 string data = "Bylo by to horší než Přiživovač, co se promění v Požírače světů?"
+   [44]
+    1 string data = "Nechci to zlehčovat, ale musíte si uvědomit, že v širší perspektivě je vaše realita jen jednou z mnoha."
+   [45]
+    1 string data = "Kdybych ji měl zachránit, seslal bych <color=bad>Aephorulův</color> hněv na bezpočet dalších."
+   [46]
+    1 string data = "To nemohu dopustit."
+   [47]
+    1 string data = "Kdo je Aephorul?"
+   [48]
+    1 string data = "Můj bývalý společník."
+   [49]
+    1 string data = "V pověstech je znám jako Karnimant."
+   [50]
+    1 string data = "!!"
+   [51]
+    1 string data = "On se tady taky někde schovává?"
+   [52]
+    1 string data = "Váš svět je v bezpečí, alespoň v tomto ohledu. Aephorul už dávno odešel."
+   [53]
+    1 string data = "Pokud by se ovšem dozvěděl o mé přítomnosti zde..."
+   [54]
+    1 string data = "My bychom se mu postavili, není nic víc než ubožák!"
+   [55]
+    1 string data = "..."
+   [56]
+    1 string data = "A vypadá to, že nemáme času nazbyt."
+   [57]
+    1 string data = "Potřebujeme se dostat na ostrov Mesa. Pomůžete nám?"
+   [58]
+    1 string data = "Možná ano. Nejprve ale musíme zjistit, zdali jste si schopni pomoct sami."
+   [59]
+    1 string data = "Bojovat my umíme!"
+   [60]
+    1 string data = "To samozřejmě umíte, jde o to, jestli jste opravdu těmi, ve které jsem doufal."
+   [61]
+    1 string data = "Prozatím vás pošlu na vzdálené místo, kde se v ledu nachází dlouho ztracený <color=magic>artefakt</color>."
+   [62]
+    1 string data = "Jaký artefakt?"
+   [63]
+    1 string data = "Víc vám teď neprozradím. Pokud bylo mé rozhodnutí pustit vás sem správné, jeho moc vám o sobě dá vědět."
+   [64]
+    1 string data = "Tento portál vede tam, kde ten artefakt leží zapomenut."
+   [65]
+    1 string data = "Přineste jej zpět a poté ten váš plán zvážím."
+   [66]
+    1 string data = "Vy jste se vrátili."
+   [67]
+    1 string data = "A teď už nám na ostrov Mesa pomůžete?"
+   [68]
+    1 string data = "Před chvílí jste tam byli."
+   [69]
+    1 string data = "Takže to uděláme takhle? Vrátíme se a prostě z té hory sejdeme?"
+   [70]
+    1 string data = "Sejít pěšky z Ledovcového vrchu? To by udělalo jenom zvíře."
+   [71]
+    1 string data = "..."
+   [72]
+    1 string data = "Přijmete ještě poslední výzvu?"
+   [73]
+    1 string data = "Uspějete-li, slibuji, že vám pomůžu."
+   [74]
+    1 string data = "My tady spěcháme! Říkal jste-"
+   [75]
+    1 string data = "Já vím, já vím. Poslouchejte."
+   [76]
+    1 string data = "Jediný způsob, jak odstranit bariéru, je vzbudit obří kamennou hlavu."
+   [77]
+    1 string data = "Na to vám mohu uvařit lektvar, ale ten by vyžadoval staletí luhování."
+   [78]
+    1 string data = "Staletí? To je nám k ničemu!"
+   [79]
+    1 string data = "A právě proto od vás potřebuji, abyste získali zpět mou osobní alchymistickou lahvičku, <color=magic>Baňku času</color>."
+   [80]
+    1 string data = "Uvnitř ní mohu ovládat samotný čas. Přineste mi ji a já vám připravím to, co potřebujete, za pouhých pár sekund."
+   [81]
+    1 string data = "Páni..."
+   [82]
+    1 string data = "Dobře, tak kde můžeme tu vaši Baňku času najít?"
+   [83]
+    1 string data = "Aephorul ji před dávnou dobou schoval někde na Strážcově ostrově."
+   [84]
+    1 string data = "Určitě vím jen jedinou věc. Ta obří socha, podle níž nese ostrov své jméno, je klíč."
+   [85]
+    1 string data = "To víte jak?"
+   [86]
+    1 string data = "Aephorulovy lsti jsou vždy doprovázeny velkými sochami."
+   [87]
+    1 string data = "??"
+   [88]
+    1 string data = "Nakonec jsem došel k závěru, že bude muset přestat, pokud svou baňku nikdy nezískám zpět, ale nyní ji potřebujeme."
+   [89]
+    1 string data = "To má být vtip?"
+   [90]
+    1 string data = "Nazývej to, jak chceš, ale radím ti, abys tento úkol brala vážně--bude velice náročný."
+   [91]
+    1 string data = "Fajn, jak chcete. Jsme připraveni."
+   [92]
+    1 string data = "Vydejte se tedy na sever Strážcova ostrova a proveďte očistu Mučivého vrchu."
+   [93]
+    1 string data = "!!"
+   [94]
+    1 string data = "Očistu!? Tady je nějaký Přiživovač?"
+   [95]
+    1 string data = "Samozřejmě. Jde sice jenom o žert, ale Aephorul jej zavinil sám."
+   [96]
+    1 string data = "No ale když nebudou mít posílené schopnosti díky..."
+   [97]
+    1 string data = "Ano?"
+   [98]
+    1 string data = "V tom nám pomůže ten Amulet Slunovratu, ne?"
+   [99]
+    1 string data = "Přesně tak. Možná je starý, ale jeho magie ještě úplně nevyprchala."
+   [100]
+    1 string data = "S odvahou čelte Přiživovači muk a ten amulet bude rezonovat."
+   [101]
+    1 string data = "Schopnost vyvolat zatmění..."
+   [102]
+    1 string data = "Dobře, tohle zvládneme."
+   [103]
+    1 string data = "Mučivý vrch postihuje mysl prohnaným způsobem, ale vy si proti tomu zasloužíte dostat šanci. Tady máte."
+   [104]
+    1 string data = "Do toho, pijte."
+   [105]
+    1 string data = "Co je to?"
+   [106]
+    1 string data = "Jedna dávka lektvaru Ukotvené mysli pro každého z vás."
+   [107]
+    1 string data = "No tak, až do dna."
+   [108]
+    1 string data = "Cítím se pořád stejně."
+   [109]
+    1 string data = "A díky tomuto lektvaru budeš moci po návratu z toho hrozivého místa pronést totéž."
+   [110]
+    1 string data = "..."
+   [111]
+    1 string data = "A prý že nám nemůžete pomáhat přímo."
+   [112]
+    1 string data = "Jde jen o malé postrčení. To určitě může zůstat mezi námi."
+   [113]
+    1 string data = "Díky, Resh'ane!"
+   [114]
+    1 string data = "Tento portál můžete využívat k rychlému přesunu k jezeru Docarria a zpět."
+   [115]
+    1 string data = "Budu vás sledovat. Hodně štěstí."
+   [116]
+    1 string data = "Resh'ane, máme vaši baňku."
+   [117]
+    1 string data = "Zdá se, že ano, ale musíme se ujistit, není-li to napodobenina."
+   [118]
+    1 string data = "Garle, mohl bys s ní prosím hodit o zeď?"
+   [119]
+    1 string data = "Já..."
+   [120]
+    1 string data = "Vší silou."
+   [121]
+    1 string data = "A nerozbije se?"
+   [122]
+    1 string data = "Doufám, že ano."
+   [123]
+    1 string data = "No tak dobře."
+   [124]
+    1 string data = "Páni!!"
+   [125]
+    1 string data = "Baňko času, jak jsi mi jen chyběla."
+   [126]
+    1 string data = "Děkuji vám za znovunalezení mého nejcennějšího majetku. Prokázali jste velkou statečnost."
+   [127]
+    1 string data = "A teď už splňte, co jste nám slíbil. Už nás pro nic neposílejte!"
+   [128]
+    1 string data = "Nebuďte na omylu, budu vás doprovázet."
+   [129]
+    1 string data = "!!"
+   [130]
+    1 string data = "Ale svých zásad se pevně držím, a proto jsou tu určitá pravidla."
+   [131]
+    1 string data = "Zaprvé, mohu vám pomáhat v boji, ale nečekejte, že za vás budu vyhrávat."
+   [132]
+    1 string data = "Má moc tedy bude s tou vaší rovnocenná a nikdy ji nepředčí."
+   [133]
+    1 string data = "Počkat, vy se k nám fakt-"
+   [134]
+    1 string data = "Zadruhé, nikdo jiný kromě vás čtyř nesmí znát mou pravou totožnost."
+   [135]
+    1 string data = "Budete o mně mluvit pouze jako o Resh'anovi a nikoliv jako o Nesmrtelném alchymistovi."
+   [136]
+    1 string data = "Jasně! Asi bychom si měli dávat dobrý pozor kolem Teaks."
+   [137]
+    1 string data = "A zatřetí to nejdůležitější, za žádných okolností mi není dovoleno bojovat s Přiživovačem."
+   [138]
+    1 string data = "Dojde-li ke střetu s Přiživovačem sváru, zúčastníte se jej jen vy sami."
+   [139]
+    1 string data = "Rozumíme."
+   [140]
+    1 string data = "Půjdeme tedy?"
+   [141]
+    1 string data = "Um, Resh'ane?"
+   [142]
+    1 string data = "Hmm?"
+   [143]
+    1 string data = "Takhle nikam nemůžete, máte úplně potrhané šaty."
+   [144]
+    1 string data = "Hm?"
+   [145]
+    1 string data = "Jestli chcete, aby se nikdo o vaší nesmrtelnosti nedozvěděl, tak oblečení, co už se několik tisíciletí rozpadá, tomu nenapomůže!"
+   [146]
+    1 string data = "Hahaha!"
+   [147]
+    1 string data = "Něco na tom bude."
+   [148]
+    1 string data = "!!"
+   [149]
+    1 string data = "Lepší?"
+   [150]
+    1 string data = "Rozhodně!"
+   [151]
+    1 string data = "Tak pojďte. K ostrovu Mesa je to severovýchodním směrem. Je to ten s obří kamennou hlavou."
+   [152]
+    1 string data = "Nesmrtelný alchymista Resh'an se přidává do družiny!"
+   [153]
+    1 string data = "A tímto byli [MAINCHAR] a [OFFCHAR] v doprovodu svého nejlepšího přítele, válečného kuchaře, vysláni na začátek své cesty."
+   [154]
+    1 string data = "Při snaze dostat se na Přízračný ostrov, než nastane zatmění, se brzy vypořádají se dvěma mocnými čaroději."
+   [155]
+    1 string data = "Jeden je trápen zlostí, druhý zcela bez života..."
+   [156]
+    1 string data = "Překonáním iluzí mrtvého čaroděje si naši hrdinové zajistili plavbu na Přízračný ostrov, než nastane zatmění."
+   [157]
+    1 string data = "Na místě, kde je noc věčná a mrtví ožívají, se připravují na souboj s posledním známým Přiživovačem."
+   [158]
+    1 string data = "Zatímco síly zla vyčkávají na správný okamžik, strach udeří na citlivé místo..."
+   [159]
+    1 string data = "Svět, na němž zbyli pouze tři Bojovníci Slunovratu, má zdánlivě mizivou šanci po vzkříšení Přiživovače sváru, jenž zvěstuje návrat teroru považovaného navždy za minulost."
+   [160]
+    1 string data = "Nyní, když je závoj lží odkryt a kus jejich nevinnosti pryč, se naši hrdinové vrací do Svěžínu, zatímco jejich ředitel hledá způsob, jak se dostat na ostrov Mesa."
+   [161]
+    1 string data = "Odhodláni pomoci přeživším katastrofy, zanedlouho se vrhnou střemhlav do středu bouře, aby čelili legendární starodávné kletbě..."
+   [162]
+    1 string data = "A tak bylo založeno město Veselí, zatímco lidé, kteří upřednostnili zůstat vě Svěžíně, pracovali na obnovení jeho původní krásy."
+   [163]
+    1 string data = "Sklíčení, avšak pořád odhodláni, [MAINCHAR], [OFFCHAR], Garl a Seraï vyplouvají na Strážcův ostrov v naději, že najdou Věštce přílivů a odlivů."
+   [164]
+    1 string data = "Bude-li jejich vůle dostatečně silná, brzy se odehrají doposud nenapsané kapitoly..."
+   [165]
+    1 string data = "Teleportovat se k jezeru Docarria?"
+   [166]
+    1 string data = "Ano"
+   [167]
+    1 string data = "Ne"
+   [168]
+    1 string data = "Teleportovat se na Ledovcový vrch?"
+   [169]
+    1 string data = "Ano"
+   [170]
+    1 string data = "Ne"

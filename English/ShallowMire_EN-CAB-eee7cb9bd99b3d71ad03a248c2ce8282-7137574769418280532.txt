@@ -1,0 +1,142 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ShallowMire_EN"
+ 1 string locCategoryId = "SleeperIsland/ShallowMire"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (64 items)
+   0 int size = 64
+   [0]
+    1 string data = "Take in the sunlight, pals. Word is Wraith Island's reaaaal gloomy!"
+   [1]
+    1 string data = "Aye. A good ol' soul-based Dweller'll do that."
+   [2]
+    1 string data = "..."
+   [3]
+    1 string data = "Nothing ye solstice folk can't fix, ov course."
+   [4]
+    1 string data = "Well, 'least I hope so... Wouldn't want to end up moving there permanently!"
+   [5]
+    1 string data = "What do you mean?"
+   [6]
+    1 string data = "..."
+   [7]
+    1 string data = "Don't ya know 'bout the one-way trip thing?"
+   [8]
+    1 string data = "Well, here's another one y'all've never heard before."
+   [9]
+    1 string data = "No one that's been to Wraith Island has EVER RETURNED!"
+   [10]
+    1 string data = "..."
+   [11]
+    1 string data = "Why not?"
+   [12]
+    1 string data = "Keenathan?"
+   [13]
+    1 string data = "Stories say that the <color=bad>Dweller of Woe</color> has mind control powers."
+   [14]
+    1 string data = "Anyone setting foot on Wraith Island is cursed to remain there for the rest of their lives."
+   [15]
+    1 string data = "And life on Wraith Island is... lived day by day, for no one knows who the Dweller will prey on next."
+   [16]
+    1 string data = "Prey?"
+   [17]
+    1 string data = "These things feed, ain't ya heard?"
+   [18]
+    1 string data = "Aye, every so often, the Dweller sings with her <color=bad>cursed voice</color>, compelling one of the denizens of Wraith Island to sleepwalk into her lair, never to return..."
+   [19]
+    1 string data = "..."
+   [20]
+    1 string data = "Okay, that's..."
+   [21]
+    1 string data = "But why would people even go there, then?"
+   [22]
+    1 string data = "Beats me! Curiosity, boredom, a need to escape?"
+   [23]
+    1 string data = "Ye'll get to ask soon enough, in any case."
+   [24]
+    1 string data = "Did you guys know about all this?"
+   [25]
+    1 string data = "Don't worry, Garl. It's what we've been trained for."
+   [26]
+    1 string data = "And the Headmaster is in charge of the mission. He's dealt with many Dwellers before."
+   [27]
+    1 string data = "Erlina and Brugaves will be there too, and they're much stronger than us."
+   [28]
+    1 string data = "I'm sure you can handle it, it's just... kind of giving me the creeps."
+   [29]
+    1 string data = "With the eclipse to make it vulnerable, it'll be over quick. And don't forget, it's the last Dweller!"
+   [30]
+    1 string data = "..."
+   [31]
+    1 string data = "That means you'll be free from duty! We can travel the world!"
+   [32]
+    1 string data = "Ahoy, Captain! Seems the sun be setting."
+   [33]
+    1 string data = "..."
+   [34]
+    1 string data = "Don't ya blink now, or ye'll miss it."
+   [35]
+    1 string data = "!!!"
+   [36]
+    1 string data = "Behold, the legendary ghost ship that appears at dusk. <color=bad>The Vespertine</color>!"
+   [37]
+    1 string data = "Quite the prize..."
+   [38]
+    1 string data = "The Vespertine will be ours one day, or my name is not Keenathan!"
+   [39]
+    1 string data = "All in due time, mateys. For now, we're 'bout to hit the docks."
+   [40]
+    1 string data = "Hey, so we got to fly for a second time. That's pretty neat, huh?"
+   [41]
+    1 string data = "You should save your energy, Garl."
+   [42]
+    1 string data = "I'm okay, it doesn't hurt anymore."
+   [43]
+    1 string data = "I'm just reaaally sleepy."
+   [44]
+    1 string data = "We'll be with you until the end."
+   [45]
+    1 string data = "I know. I'm so lucky."
+   [46]
+    1 string data = "Hey, promise me one thing?"
+   [47]
+    1 string data = "Anything."
+   [48]
+    1 string data = "I want you to use this gift."
+   [49]
+    1 string data = "You'll travel across the <color=magic>Sea of Stars</color>, whatever that is?"
+   [50]
+    1 string data = "We'll do it... for you."
+   [51]
+    1 string data = "I mean, someone has to kick Erlina's butt and teach The Fleshmancer a lesson."
+   [52]
+    1 string data = "Might as well be you, right?"
+   [53]
+    1 string data = "We'll go and do that. Don't worry."
+   [54]
+    1 string data = "Oh, and you'll keep cooking too, right? Use what I taught you?"
+   [55]
+    1 string data = "Every day."
+   [56]
+    1 string data = "We'll miss you so much..."
+   [57]
+    1 string data = "[MAINCHAR], [OFFCHAR], I can't thank you enough... for everything..."
+   [58]
+    1 string data = "All those moments together... all the adventures..."
+   [59]
+    1 string data = "I couldn't have asked for better friends..."
+   [60]
+    1 string data = "I..."
+   [61]
+    1 string data = "..."
+   [62]
+    1 string data = "..."
+   [63]
+    1 string data = "..."

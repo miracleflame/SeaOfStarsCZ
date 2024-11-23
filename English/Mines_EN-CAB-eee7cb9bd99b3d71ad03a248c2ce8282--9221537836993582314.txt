@@ -1,0 +1,224 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Mines_EN"
+ 1 string locCategoryId = "SleeperIsland/Mines"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (105 items)
+   0 int size = 105
+   [0]
+    1 string data = "Are you the elder?"
+   [1]
+    1 string data = "Why, yes. And you are?"
+   [2]
+    1 string data = "Solstice Warriors. We're here to confront Malkomud."
+   [3]
+    1 string data = "My, how wonderful!"
+   [4]
+    1 string data = "What can you tell us about the situation?"
+   [5]
+    1 string data = "Not much, I'm afraid."
+   [6]
+    1 string data = "I was simply trying to get away from the noise of all this panic, when everyone started cheering as if I was going in to fix the problem."
+   [7]
+    1 string data = "..."
+   [8]
+    1 string data = "So now I am stuck here, equally afraid to venture forth as I am to return to my people without a solution..."
+   [9]
+    1 string data = "..."
+   [10]
+    1 string data = "Don't sweat it, elder, we got you!"
+   [11]
+    1 string data = "I certainly hope so."
+   [12]
+    1 string data = "Something's coming!"
+   [13]
+    1 string data = "I doubt it's the last we'll see of that one..."
+   [14]
+    1 string data = "Stay alert."
+   [15]
+    1 string data = "You broke into my fort!"
+   [16]
+    1 string data = "...Are you Malkomud?"
+   [17]
+    1 string data = "Why did you hurt my pet?"
+   [18]
+    1 string data = "..."
+   [19]
+    1 string data = "It's not fair. <color=good>Rockie</color> can't know that you're just playing if I'm not there with her!"
+   [20]
+    1 string data = "Playing? You're terrorizing the town!"
+   [21]
+    1 string data = "It's just to play, but no one else is strong enough..."
+   [22]
+    1 string data = "NO ONE EVER UNDERSTANDS!"
+   [23]
+    1 string data = "Did no one teach you about your powers?"
+   [24]
+    1 string data = "Magic is not a toy, Malkomud."
+   [25]
+    1 string data = "So you have come to berate me too?"
+   [26]
+    1 string data = "I GOT NOTHING TO TELL YOU!"
+   [27]
+    1 string data = "YOU HURT ROCKIE!"
+   [28]
+    1 string data = "GET OUT OF MY FORT!!"
+   [29]
+    1 string data = "You are very strong."
+   [30]
+    1 string data = "Did people berate you too when you were kids?"
+   [31]
+    1 string data = "Is this why you left your village?"
+   [32]
+    1 string data = "Listen Malkomud, you just happened to be born with special powers, and it's a shame no one was able to guide you through that."
+   [33]
+    1 string data = "..."
+   [34]
+    1 string data = "Guide me?"
+   [35]
+    1 string data = "Everyone just makes fun because I'm not the same. They say “Malkomud can't dig!”"
+   [36]
+    1 string data = "Well, have you given it a try?"
+   [37]
+    1 string data = "It is too boring, I cannot do it like everyone else."
+   [38]
+    1 string data = "Everyone likes it, but not me."
+   [39]
+    1 string data = "Everything was made only for others..."
+   [40]
+    1 string data = "And when I try they say “Malkomud is not good!” so I give up and then they say “Malkomud is lazy!”"
+   [41]
+    1 string data = "I really try but I don't understand..."
+   [42]
+    1 string data = "So I make a fort and show them!"
+   [43]
+    1 string data = "Aww..."
+   [44]
+    1 string data = "It's okay, Malkomud, you don't have to do like everyone else."
+   [45]
+    1 string data = "Garl is right!"
+   [46]
+    1 string data = "Normal doesn't have to be your thing, you do you!"
+   [47]
+    1 string data = "??"
+   [48]
+    1 string data = "You're pretty good with earth magic, aren't you?"
+   [49]
+    1 string data = "Yes I love doing magic with earth and rocks!"
+   [50]
+    1 string data = "But everyone says I must not do it..."
+   [51]
+    1 string data = "They just don't understand yet! I'm sure you could really help them if you wanted!"
+   [52]
+    1 string data = "..."
+   [53]
+    1 string data = "Don't you want to try and do good instead?"
+   [54]
+    1 string data = "They will only make fun because I am bad with digging."
+   [55]
+    1 string data = "Nah, they just need to see what you can really do!"
+   [56]
+    1 string data = "I don't want to show."
+   [57]
+    1 string data = "It's okay, buddy, take the time you need!"
+   [58]
+    1 string data = "..."
+   [59]
+    1 string data = "I can stay in the fort?"
+   [60]
+    1 string data = "I mean, it's yours, isn't it?"
+   [61]
+    1 string data = "Right, guys?"
+   [62]
+    1 string data = "Totally."
+   [63]
+    1 string data = "Yeah, plus your fort is pretty cool!"
+   [64]
+    1 string data = "I like you."
+   [65]
+    1 string data = "Well, then, can you do us a favor and agree to stop creating monsters?"
+   [66]
+    1 string data = "Rockie is not a monster."
+   [67]
+    1 string data = "Of course not, look at her!"
+   [68]
+    1 string data = "You understand."
+   [69]
+    1 string data = "..."
+   [70]
+    1 string data = "Okay. Maybe I will do good if something big need my magic."
+   [71]
+    1 string data = "For now I will stay here with Rockie."
+   [72]
+    1 string data = "Thank you I like you."
+   [73]
+    1 string data = "Take care, Malkomud!"
+   [74]
+    1 string data = "Not bad, Garl!"
+   [75]
+    1 string data = "Ha! Sometimes you just need a little positivity!"
+   [76]
+    1 string data = "Look at us, restoring peace to a small town."
+   [77]
+    1 string data = "Still no closer to finding a ship, though."
+   [78]
+    1 string data = "Wraith Island..."
+   [79]
+    1 string data = "Let's check on the villagers, surely we can use the lift now!"
+   [80]
+    1 string data = "Oh, you brought power back! I suppose I will be going then."
+   [81]
+    1 string data = "The mines continue below."
+   [82]
+    1 string data = "Please stop Malkomud."
+   [83]
+    1 string data = "It looks like some kind of key is required..."
+   [84]
+    1 string data = "The elevator will not work until the first windmill is reactivated. One of Malkomud's minions must be clogging its wind tunnel..."
+   [85]
+    1 string data = "Press <button="WindBracelet"> to release bursts of wind that can push blocks."
+   [86]
+    1 string data = "Miners Breakroom"
+   [87]
+    1 string data = "Security rules reminder: no jumping down!"
+   [88]
+    1 string data = "This device has a little windmill on it."
+   [89]
+    1 string data = "Maybe try the <color=magic>Mistral Bracelet</color> we found?"
+   [90]
+    1 string data = "Thank you for securing the place."
+   [91]
+    1 string data = "We can work without feeling in danger now, thanks to you."
+   [92]
+    1 string data = "Thank you again I like you."
+   [93]
+    1 string data = "Garl was the first person to be nice to me. I'm happy I helped but also sad he is gone."
+   [94]
+    1 string data = "It is good that Garl is back. It wasn't fair."
+   [95]
+    1 string data = "And what are the shafts for?"
+   [96]
+    1 string data = "Oh, there's going to be a whole lot of wheat!"
+   [97]
+    1 string data = "But you see, if we just drop it all in there, it should get ground up on its way down and leave us with flour at the bottom."
+   [98]
+    1 string data = "Grinding on volcanic stone?"
+   [99]
+    1 string data = "Yup, we're feeding a firebreather here!"
+   [100]
+    1 string data = "It is a big challenge. I don't know if I can do this."
+   [101]
+    1 string data = "But I will try for you."
+   [102]
+    1 string data = "Thanks, Malkomud, that's all I ask!"
+   [103]
+    1 string data = "Ready to go? Valere will have cleared the volcano by the time we get there."
+   [104]
+    1 string data = "Hey there! Need something for the road?"

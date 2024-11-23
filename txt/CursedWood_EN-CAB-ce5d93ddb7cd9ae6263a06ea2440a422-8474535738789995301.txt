@@ -1,0 +1,124 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "CursedWood_EN"
+ 1 string locCategoryId = "WraithIsland/CursedWood"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (55 items)
+   0 int size = 55
+   [0]
+    1 string data = "Tamhle je!"
+   [1]
+    1 string data = "HEJ, POČKEJTE!!"
+   [2]
+    1 string data = "Uf! Odkud se bere ta síla!?"
+   [3]
+    1 string data = "Huff… huff…"
+   [4]
+    1 string data = "Ubohá duše…"
+   [5]
+    1 string data = "Kapitánka měla pravdu, sevření Přiživovačky je příliš silné…"
+   [6]
+    1 string data = "Nemůžeme vejít dovnitř? Možná ještě není pozdě!"
+   [7]
+    1 string data = "V žádném případě bychom tu bariéru neprolomili! I ředitel bude potřebovat zatmění, aby nás dostal dál."
+   [8]
+    1 string data = "Takže to prostě… vzdáme?"
+   [9]
+    1 string data = "Pokud zemřeme zbytečně, nikomu tím nepomůžeme."
+   [10]
+    1 string data = "Máš pravdu."
+   [11]
+    1 string data = "A možná ještě nebude pozdě, až uděláte očistu?"
+   [12]
+    1 string data = "(…)"
+   [13]
+    1 string data = "(…)"
+   [14]
+    1 string data = "Nemá smysl tady zůstávat, pojdmě zpátky."
+   [15]
+    1 string data = "Zas ten zpěv!"
+   [16]
+    1 string data = "Další tak brzo?"
+   [17]
+    1 string data = "Garle?"
+   [18]
+    1 string data = "GARLE!? NE!"
+   [19]
+    1 string data = "Valerie, DRŽ HO!!"
+   [20]
+    1 string data = "NEMŮŽEŠ SI VZÍT JEHO!!! TO NENÍ FÉR!"
+   [21]
+    1 string data = "HEJ!!!"
+   [22]
+    1 string data = "Doufala jsem, že se potkáme za jiných okolností…"
+   [23]
+    1 string data = "Co jsi zač a co máš v plánu?!"
+   [24]
+    1 string data = "Nejsem vaším nepřítelem."
+   [25]
+    1 string data = "Jde o paralyzující jed. Mysl vašeho přítele je stále ovládána, ale jeho tělo nedokáže jednat."
+   [26]
+    1 string data = "Získala jsi nám čas navíc?"
+   [27]
+    1 string data = "Bude to dost riskantní, ale když si pohneme, možná se nám podaří získat <color=magic>kámen duší</color>, než účinky jedu pominou."
+   [28]
+    1 string data = "Kámen duší?"
+   [29]
+    1 string data = "<color=bad>Někdo</color> na tomto ostrově je používá, aby zůstal osvobozen od spárů Přiživovačky."
+   [30]
+    1 string data = "Pokud jeden takový získáme, měl by pohltit kouzlo ovládání mysli vašeho přítele."
+   [31]
+    1 string data = "Vím přesně, kde ho najdeme, ale…"
+   [32]
+    1 string data = "Tak na co čekáme?"
+   [33]
+    1 string data = "Zale, jsi v pořádku?"
+   [34]
+    1 string data = "Garl…"
+   [35]
+    1 string data = "V pohodě. Nejprve ho odneseme zpátky do hostince."
+   [36]
+    1 string data = "Musíme sebou hodit. Tudy."
+   [37]
+    1 string data = "Půjdeme touhle zkratkou."
+   [38]
+    1 string data = "Do družiny se přidává tajemná asasínka!"
+   [39]
+    1 string data = "Když je tu pořád tma, jak poznáme, kdy nastane zatmění?"
+   [40]
+    1 string data = "To poznáš…"
+   [41]
+    1 string data = "…"
+   [42]
+    1 string data = "Kletba Nočního závoje je silná, ale zatmění neodolá."
+   [43]
+    1 string data = "Nemůžu se dočkat, až to uvidím!"
+   [44]
+    1 string data = "Již každou chvíli…"
+   [45]
+    1 string data = "Hm!?"
+   [46]
+    1 string data = "Valerie?"
+   [47]
+    1 string data = "Nastal čas!"
+   [48]
+    1 string data = "Bojovníci Slunovratu, soustřeďte skrze mě svou magii!"
+   [49]
+    1 string data = "PECKA!!!"
+   [50]
+    1 string data = "A teď rychle. Mnoho času nemáme."
+   [51]
+    1 string data = "Vašemu příteli nezbývá moc času. Použijme zkratku napravo."
+   [52]
+    1 string data = "Není čas. Musíme si pospíšit zpátky do Lucentu."
+   [53]
+    1 string data = "Trny blokují cestu. Měli bychom najít jejich zdroj."
+   [54]
+    1 string data = "Sídlo <sprite="dialog-generic-icons" name="arrow-north">\nLucent <sprite="dialog-generic-icons" name="arrow-south">"

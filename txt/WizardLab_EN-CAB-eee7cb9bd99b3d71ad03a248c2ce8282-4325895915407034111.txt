@@ -1,0 +1,106 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "WizardLab_EN"
+ 1 string locCategoryId = "SleeperIsland/WizardLab"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (46 items)
+   0 int size = 46
+   [0]
+    1 string data = "Cítím ve dveřích magii, ale zdá se, že je budu moci zvednout jen o několik centimetrů."
+   [1]
+    1 string data = "Valtraide?"
+   [2]
+    1 string data = "Připrav se, kámo!"
+   [3]
+    1 string data = "Dělej!"
+   [4]
+    1 string data = "Yolando! Pospěš si!"
+   [5]
+    1 string data = "Neboj, chlapáku, demolice je moje druhé jméno!"
+   [6]
+    1 string data = "Ha ha! To máš za to, ty stará vykopávko!"
+   [7]
+    1 string data = "..."
+   [8]
+    1 string data = "I tak to šlo udělat..."
+   [9]
+    1 string data = "Dobře odvedená práce, braši!"
+   [10]
+    1 string data = "Raději dejte kapitánce vědět, že naše část mise byla úspěšná."
+   [11]
+    1 string data = "Bojovníci Slunovratu by mohli potřebovat pár rad, takže zatím zůstanu s nimi."
+   [12]
+    1 string data = "Jistě, není na škodu mít po ruce mága."
+   [13]
+    1 string data = "No, já se ukážu být hodnotným společníkem, jakože se Keenathan jmenuju!"
+   [14]
+    1 string data = "Tak ať je po tvém! Jdeš, Valtraide?"
+   [15]
+    1 string data = "Hm!?"
+   [16]
+    1 string data = "Halóóó, je tam někdo?"
+   [17]
+    1 string data = "Buď opatrný, Garle, nevíme, co můžeme čekat."
+   [18]
+    1 string data = "Něco jsem našel!"
+   [19]
+    1 string data = "..."
+   [20]
+    1 string data = "Co je to?"
+   [21]
+    1 string data = "Možná je tam ta mince?"
+   [22]
+    1 string data = "Počkat!"
+   [23]
+    1 string data = "Cítím sílu, připravte se!"
+   [24]
+    1 string data = "Koukejte, to musí být ta mince, kterou potřebujeme!"
+   [25]
+    1 string data = "Dobrá, to je naše vstupenka na Přízračný ostrov!"
+   [26]
+    1 string data = "Odstranit krystal?"
+   [27]
+    1 string data = "Ano"
+   [28]
+    1 string data = "Ne"
+   [29]
+    1 string data = "Vypadá to, jako by to mělo vyzařovat světlo, ale právě teď je to neaktivní."
+   [30]
+    1 string data = "Světlo svítí, ale něco tomu chybí."
+   [31]
+    1 string data = "Hej! ... Hej! Tady, ve studni!"
+   [32]
+    1 string data = "??"
+   [33]
+    1 string data = "Ztratil jsem hodinky v jezeře a spolkla je ryba. Mohli byste mi ji ulovit? Měla by svítit."
+   [34]
+    1 string data = "Našli jste moje hodinky?"
+   [35]
+    1 string data = "To se mi ulevilo! Moc vám děkuji, přátelé!"
+   [36]
+    1 string data = "Tady máte drobnost za vaši námahu."
+   [37]
+    1 string data = "Žádná odpověď..."
+   [38]
+    1 string data = "Panečku, tohle je ale prapodivné místo... a koukněte na to zařízení! Zajímalo by mě, co to dělá."
+   [39]
+    1 string data = "Musíme se nejdřív zorientovat. Co kdybyste to tu trochu prozkoumali?"
+   [40]
+    1 string data = "Podle starých nápisů byste měli být schopni smíchat <color=magic>světlo</color> z různých <color=magic>krystalů</color> a otevřít tak nové trasy. Docela fascinující."
+   [41]
+    1 string data = "Resetovat hádanku?"
+   [42]
+    1 string data = "Ano"
+   [43]
+    1 string data = "Ne"
+   [44]
+    1 string data = "Ahoy, máte minci! Dobrá práce!"
+   [45]
+    1 string data = "Vrátíme se do Svěžínu, kapitánka bude čekat."

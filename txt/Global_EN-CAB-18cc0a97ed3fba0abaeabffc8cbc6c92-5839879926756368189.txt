@@ -1,0 +1,160 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Global_EN"
+ 1 string locCategoryId = "Global"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (73 items)
+   0 int size = 73
+   [0]
+    1 string data = "[RewardText]"
+   [1]
+    1 string data = "[RewardText]"
+   [2]
+    1 string data = "Víc svačin neuneseme."
+   [3]
+    1 string data = "Hey there, looks like this is your first time booting the demo."
+   [4]
+    1 string data = "There are two things we need to get out of the way before leaving you to it forever."
+   [5]
+    1 string data = "First, here's a quick pop-up about Discord integration."
+   [6]
+    1 string data = "So it shall be. Now, just one last thing : the Pre-alpha Content Agreement."
+   [7]
+    1 string data = "While the audio-visual assets and gameplay mechanics included here represent the spirit of the game, we still have a long way to go."
+   [8]
+    1 string data = "About two years, to be precise."
+   [9]
+    1 string data = "This means a lot has yet to happen in order to fine tune controls, rendering, difficulty, polish and overall balancing."
+   [10]
+    1 string data = "By playing this early rendition, you understand that it is but a first pass on a larger vision."
+   [11]
+    1 string data = "You agree to partake in good faith, and awareness that all systems will be mindfully catered to until we are ready to call Sea of Stars finished."
+   [12]
+    1 string data = "While feedback is both welcome and expected, final judgement should be reserved for the official release in 2023."
+   [13]
+    1 string data = "That being said, you are more than welcome to stream, screenshot, record, review, or otherwise capture and share footage of your experience with this early build."
+   [14]
+    1 string data = "With sincere hope that it will bring you entertainment and joy, we made a game for you."
+   [15]
+    1 string data = "Safe journeys, and all the best!<br>-Saboteam"
+   [16]
+    1 string data = "[MemorialPrefix] [MemorialText][MemorialSuffix]"
+   [17]
+    1 string data = "Rychlodráhová síť je v provozu. Vyberte cíl cesty."
+   [18]
+    1 string data = "Repot"
+   [19]
+    1 string data = "Es'tristae"
+   [20]
+    1 string data = "Vesmírná základna"
+   [21]
+    1 string data = "Vstup do Moře hvězd"
+   [22]
+    1 string data = "Něco blýskavého"
+   [23]
+    1 string data = "Něco společenského"
+   [24]
+    1 string data = "Něco štědrého"
+   [25]
+    1 string data = "Něco transakčního"
+   [26]
+    1 string data = "Něco relaxačního"
+   [27]
+    1 string data = "Něco mazaného"
+   [28]
+    1 string data = "Něco zajímavého"
+   [29]
+    1 string data = "Něco užitečného"
+   [30]
+    1 string data = "Něco účinného"
+   [31]
+    1 string data = "Něco zdravého"
+   [32]
+    1 string data = "Něco meta"
+   [33]
+    1 string data = "Něco pevného"
+   [34]
+    1 string data = "Něco spolehlivého"
+   [35]
+    1 string data = "Něco rychlého"
+   [36]
+    1 string data = "Něco chatrného"
+   [37]
+    1 string data = "Chcete si zahrát <color=magic>Kotouče</color>?"
+   [38]
+    1 string data = "Nenáročná hra"
+   [39]
+    1 string data = "Hra o šampiona"
+   [40]
+    1 string data = "Možná později"
+   [41]
+    1 string data = "Můžeme si znovu zahrát o šampiona, ale už jste mě porazili, takže tentokrát nebude žádná velká odměna."
+   [42]
+    1 string data = "Fíha, remíza!"
+   [43]
+    1 string data = "Hej, výhra je vaše! Gratuluju, tady máte odměnu!"
+   [44]
+    1 string data = "Zvítězili jste!"
+   [45]
+    1 string data = "Zvítězil jsem!"
+   [46]
+    1 string data = "Už se vzdáváte?"
+   [47]
+    1 string data = "Tohle je stůl na <color=magic>Kotouče</color>! Hrát může každý, kdo má vlastní Kotouč a alespoň dvě figurky!"
+   [48]
+    1 string data = "Muzika je to nejvíc a nic než muzika není víc!"
+   [49]
+    1 string data = "Ten, co hraje na píšťalku, je zde pravou hvězdou."
+   [50]
+    1 string data = "Jak se vám líbí naše písničky?"
+   [51]
+    1 string data = "Nové noty, aye? Dejte je sem!"
+   [52]
+    1 string data = "Bardcore teď frčí!"
+   [53]
+    1 string data = "Líbí se vám naše show?"
+   [54]
+    1 string data = "S radostí doprovodíme vaši hru Kotoučů trochou muziky!"
+   [55]
+    1 string data = "Tohle je mazec, kamarádi!"
+   [56]
+    1 string data = "Keenathan je v tomhle borec."
+   [57]
+    1 string data = "Všimli jste si, jak jsem to roztočil?"
+   [58]
+    1 string data = "Aye, tohle jediné miluju víc než plavbu!"
+   [59]
+    1 string data = "Nikdy jsem se necítila víc živa!"
+   [60]
+    1 string data = "Vsadím se, že jsme jediná kapela, která má ducha."
+   [61]
+    1 string data = "Chcete si zahrát <color=magic>Kotouče</color>?"
+   [62]
+    1 string data = "Nenáročná hra"
+   [63]
+    1 string data = "Hra o šampiona"
+   [64]
+    1 string data = "Proti spoluhráči"
+   [65]
+    1 string data = "Možná později"
+   [66]
+    1 string data = "Můžeme si znovu zahrát o šampiona, ale už jste mě porazili, takže tentokrát nebude žádná velká odměna."
+   [67]
+    1 string data = "Fíha, remíza!"
+   [68]
+    1 string data = "Hej, výhra je vaše! Gratuluju, tady máte odměnu!"
+   [69]
+    1 string data = "Zvítězili jste!"
+   [70]
+    1 string data = "Zvítězil jsem!"
+   [71]
+    1 string data = "Už se vzdáváte?"
+   [72]
+    1 string data = "Tohle je stůl na <color=magic>Kotouče</color>! Hrát může každý, kdo má vlastní Kotouč a alespoň dvě figurky!"

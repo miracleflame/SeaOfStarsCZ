@@ -1,0 +1,718 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Lucent_EN"
+ 1 string locCategoryId = "WraithIsland/Lucent"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (352 items)
+   0 int size = 352
+   [0]
+    1 string data = "Welcome, new visitors, to <color=location>The First Stage of Grief</color>. I will be your enabler for tonight."
+   [1]
+    1 string data = "Please join us, and allow yourselves to cope in whichever way suits you best."
+   [2]
+    1 string data = "Just remember to be respectful and supportive of other patrons, and always entertain their stories!"
+   [3]
+    1 string data = "I'll let you grab a seat. Would you like anything to eat or drink to help your reassurances go down easier?"
+   [4]
+    1 string data = "We bring good news, innkeeper! The Solstice Warriors have arrived to take care of the Dweller!"
+   [5]
+    1 string data = "Why, of course they have!"
+   [6]
+    1 string data = "About my question though: Would you like any food or beverages to supplement the stories you'll be telling yourselves?"
+   [7]
+    1 string data = "But it's true!"
+   [8]
+    1 string data = "Undoubtedly! This will surely come to pass, just as my most recent day trip to Brisk! Oh, it was so lovely."
+   [9]
+    1 string data = "Now, for the third time, will you be needing anything else?"
+   [10]
+    1 string data = "We could use a room for a few days."
+   [11]
+    1 string data = "Naturally! Most newly arrived “temporary guests” do."
+   [12]
+    1 string data = "Sir, we really are here to cleanse the island. We're just waiting for the others."
+   [13]
+    1 string data = "My, that is quite obviously factual, and I am here by choice!"
+   [14]
+    1 string data = "Please let me know when you wish to go to your room. In the meantime, there is a show about to begin."
+   [15]
+    1 string data = "Enjoy your stay at The First Stage of Grief, and may it take your mind away from the inevitable."
+   [16]
+    1 string data = "Ouch..."
+   [17]
+    1 string data = "These poor people have been coping for so long."
+   [18]
+    1 string data = "They can't deal with reality anymore..."
+   [19]
+    1 string data = "Soon it won't matter anymore. We're ending this!"
+   [20]
+    1 string data = "I mean, as soon as we have the eclipse."
+   [21]
+    1 string data = "And backup."
+   [22]
+    1 string data = "You'll both do great!"
+   [23]
+    1 string data = "Whoa! Keenathan's got an accordion!"
+   [24]
+    1 string data = "Aaaactually young man, this here is a concertina!"
+   [25]
+    1 string data = "Listen here, chums!"
+   [26]
+    1 string data = "We be the pirate crew that will someday claim The Vespertine!"
+   [27]
+    1 string data = "Oh, that is SO happening!"
+   [28]
+    1 string data = "Our eyes have been on the prize for a long time now. Every day, we refine our plan."
+   [29]
+    1 string data = "And every night, we see her in our dreams."
+   [30]
+    1 string data = "I can leave anytime!"
+   [31]
+    1 string data = "Anytime? Hey, that's my middle name!"
+   [32]
+    1 string data = "We live for adventure, and for new horizons. Captain's word, one day we'll even sail the Sea ov-"
+   [33]
+    1 string data = "YOLANDE!"
+   [34]
+    1 string data = "Aye aye, Captain! Apologies, Captain!"
+   [35]
+    1 string data = "They could totally go right now!"
+   [36]
+    1 string data = "When the going gets tough, we like to play a song."
+   [37]
+    1 string data = "It goes something like this."
+   [38]
+    1 string data = "So, about Garl..."
+   [39]
+    1 string data = "Oh he's not fighting the Dweller with us."
+   [40]
+    1 string data = "Do you think we made a mistake?"
+   [41]
+    1 string data = "I mean, it's great to have him, it's just..."
+   [42]
+    1 string data = "I know. I could never forgive myself if we failed to protect him."
+   [43]
+    1 string data = "No way! You guys are unbelievable!"
+   [44]
+    1 string data = "At least he's having a good time."
+   [45]
+    1 string data = "He's really taking in this life of adventure we always dreamed of."
+   [46]
+    1 string data = "I've been thinking about the cleansing a lot..."
+   [47]
+    1 string data = "Sure glad we're not in charge."
+   [48]
+    1 string data = "I thought saving the world would be all action and glory, but what these people have endured is all too real..."
+   [49]
+    1 string data = "All the more reason to give it all we've got, right?"
+   [50]
+    1 string data = "..."
+   [51]
+    1 string data = "Right!"
+   [52]
+    1 string data = "So, what now?"
+   [53]
+    1 string data = "We take a break, I suppose?"
+   [54]
+    1 string data = "Now THAT is scary!"
+   [55]
+    1 string data = "Haha! Let's just try and enjoy the place."
+   [56]
+    1 string data = "Ready to rest?"
+   [57]
+    1 string data = "Yeah!"
+   [58]
+    1 string data = "No, wait..."
+   [59]
+    1 string data = "A few days of rest later..."
+   [60]
+    1 string data = "So, you're really going to buy a ghost ship with the magic coin we fetched?"
+   [61]
+    1 string data = "That's the plan!"
+   [62]
+    1 string data = "Hey, after the cleansing here is done, we'll be free to do whatever we want, right?"
+   [63]
+    1 string data = "Maybe we could sail with them for a while!"
+   [64]
+    1 string data = "..."
+   [65]
+    1 string data = "That sounds like fun."
+   [66]
+    1 string data = "Why, I reckon a bigger vessel will require more hands indeed!"
+   [67]
+    1 string data = "Ha! I could sure go for being a sailor cook..."
+   [68]
+    1 string data = "No, a pirate chef!"
+   [69]
+    1 string data = "Has a nice ring to it!"
+   [70]
+    1 string data = "Y'all are more than welcome aboard! Ironically, the Captain said that the three of you had-"
+   [71]
+    1 string data = "VALTRAID!"
+   [72]
+    1 string data = "Aye, apologies, Captain..."
+   [73]
+    1 string data = "Well, if luck would have it... Might be fun to sail together for a little while, just maybe..."
+   [74]
+    1 string data = "My, my, my! Remember ten seconds ago when ABSOLUTELY NOTHING happened?"
+   [75]
+    1 string data = "It was so boring!"
+   [76]
+    1 string data = "I wish something special occurred for once!"
+   [77]
+    1 string data = "Next round's on me!"
+   [78]
+    1 string data = "Woohoo!"
+   [79]
+    1 string data = "..."
+   [80]
+    1 string data = "That was..."
+   [81]
+    1 string data = "The Dweller of Woe."
+   [82]
+    1 string data = "So, it's true. This poor villager is just going to sleepwalk into the mansion, and..."
+   [83]
+    1 string data = "..."
+   [84]
+    1 string data = "Unless."
+   [85]
+    1 string data = "Unless."
+   [86]
+    1 string data = "Forget it! You can't save that villager!"
+   [87]
+    1 string data = "Y'alright, Captain? Ain't sounding like yerself!"
+   [88]
+    1 string data = "I mean... it be a useless endeavor, aye, it be."
+   [89]
+    1 string data = "Right."
+   [90]
+    1 string data = "Now how 'bout y'all follow the Captain's advice here, and belay trying anything stupid?"
+   [91]
+    1 string data = "We're going."
+   [92]
+    1 string data = "But you can't! The barrier is impenetrable, you have to wait for the eclipse!"
+   [93]
+    1 string data = "(??)"
+   [94]
+    1 string data = "We won't sit here while someone is about to be eaten alive!"
+   [95]
+    1 string data = "You don't understand, the mind control spell connects the Dweller to its prey."
+   [96]
+    1 string data = "You're not strong enough to stop that villager!"
+   [97]
+    1 string data = "(Captain??)"
+   [98]
+    1 string data = "..."
+   [99]
+    1 string data = "Wait for me!"
+   [100]
+    1 string data = "Ahoy, Captain! Something need doing?"
+   [101]
+    1 string data = "I... just need to check on the raft..."
+   [102]
+    1 string data = "Why not send Valtraid?"
+   [103]
+    1 string data = "Some fresh air will do me good."
+   [104]
+    1 string data = "Ov course, Captain, as you wish, Captain!"
+   [105]
+    1 string data = "The three of you stay here until I return."
+   [106]
+    1 string data = "And do try to liven up the place, these people be needing it."
+   [107]
+    1 string data = "Aye aye, Captain!"
+   [108]
+    1 string data = "(Time to improvise...)"
+   [109]
+    1 string data = "The Cursed Woods are to the north of Lucent. We should use the eastern exit."
+   [110]
+    1 string data = "We must hurry to the Necromancer's Lair."
+   [111]
+    1 string data = "How much time do we have?"
+   [112]
+    1 string data = "Barely enough, and it'll be dangerous."
+   [113]
+    1 string data = "If we're lucky, the master will be away and we can grab a soul stone unnoticed."
+   [114]
+    1 string data = "How bad could it be? We've been trained to fight death magic."
+   [115]
+    1 string data = "No doubt, but Romaya is one of the <color=bad>Three Sisters</color>. And the most formidable one of the bunch, too."
+   [116]
+    1 string data = "As to whether or not that makes her more powerful than Solstice Warriors, I hope we won't have to find out."
+   [117]
+    1 string data = "How can we get there?"
+   [118]
+    1 string data = "The <color=good>Ferryman</color>, east of Lucent. If we play our cards right, he'll take us across the bog."
+   [119]
+    1 string data = "This is the only way to the Necromancer's Lair."
+   [120]
+    1 string data = "Good. Thanks for... Hey, what's your name, by the way?"
+   [121]
+    1 string data = "..."
+   [122]
+    1 string data = "Seraï."
+   [123]
+    1 string data = "Thanks for the help, Seraï. Can't imagine where we'd be if you hadn't shown up."
+   [124]
+    1 string data = "..."
+   [125]
+    1 string data = "Don't mention it."
+   [126]
+    1 string data = "Garl... We won't fail you, I swear."
+   [127]
+    1 string data = "So how does this work?"
+   [128]
+    1 string data = "It's pulsating. Maybe if I just..."
+   [129]
+    1 string data = "That did it!"
+   [130]
+    1 string data = "Great! Seraï, how long do you think the poison will-"
+   [131]
+    1 string data = "Seraï?"
+   [132]
+    1 string data = "She left... Well, thanks anyway."
+   [133]
+    1 string data = "Might as well get comfortable, this could take a while."
+   [134]
+    1 string data = "Haha! And then you were all, “But if I don't get a sword, how will I do backflips?”"
+   [135]
+    1 string data = "You're one to talk with your “Bulwark of the innocents” thing, I'm so glad you gave that up."
+   [136]
+    1 string data = "To be fair, we did help a bunch of people already."
+   [137]
+    1 string data = "Sure, there's just no need to act all grand about it."
+   [138]
+    1 string data = "“If we're ever to ascend, as the solar one I will be the spark!”"
+   [139]
+    1 string data = "Oh, come on! I was ten!"
+   [140]
+    1 string data = "Valere, something happened to me in the woods, when he got mind controlled..."
+   [141]
+    1 string data = "Hmm?"
+   [142]
+    1 string data = "I don't understand it, it was like a floodgate opened in the pit of my stomach."
+   [143]
+    1 string data = "Like when we were first learning magic?"
+   [144]
+    1 string data = "Sort of, but... way, way stronger."
+   [145]
+    1 string data = "Do you think it was the Dweller?"
+   [146]
+    1 string data = "No, it didn't feel evil, or even bad."
+   [147]
+    1 string data = "It felt like a response to seeing Garl in danger..."
+   [148]
+    1 string data = "But I couldn't let it in, I feared it would overwhelm me."
+   [149]
+    1 string data = "..."
+   [150]
+    1 string data = "Maybe I could have helped him, but I..."
+   [151]
+    1 string data = "And if Seraï hadn't showed up..."
+   [152]
+    1 string data = "Zale, we're all safe now. That's all that matters."
+   [153]
+    1 string data = "...I think that was my prophecy, I think I missed the window."
+   [154]
+    1 string data = "What do you mean?"
+   [155]
+    1 string data = "The Elder Mist, he told me I had potential but first needed to “stare at the night inside of me.”"
+   [156]
+    1 string data = "I think this is what he meant... The thought of losing a loved one."
+   [157]
+    1 string data = "I felt the power, but I couldn't actualize it..."
+   [158]
+    1 string data = "I wouldn't overthink it. Garl is safe, and for all we know, most prophecies fail to come true."
+   [159]
+    1 string data = "Aren't you curious about yours?"
+   [160]
+    1 string data = "Mine? He said I might be able to “create paths on water.” What does that even mean?"
+   [161]
+    1 string data = "Yeah, talk about cryptic..."
+   [162]
+    1 string data = "The way I look at it, it's either going to happen, or not, no matter how much sleep I lose over it."
+   [163]
+    1 string data = "You have such a relaxed outlook. Sometimes I wish I was born on the winter solstice, too."
+   [164]
+    1 string data = "Haha! You and Erlina are definitely more feisty."
+   [165]
+    1 string data = "I suppose you and I even each other out, in a way."
+   [166]
+    1 string data = "It's why we make a good team!"
+   [167]
+    1 string data = "I guess, it's just..."
+   [168]
+    1 string data = "Or maybe it's because stealing my live mana helps you show off?"
+   [169]
+    1 string data = "Haha! Forget it, you do it way more than I do!"
+   [170]
+    1 string data = "Hggnn..."
+   [171]
+    1 string data = "Garl!"
+   [172]
+    1 string data = "..."
+   [173]
+    1 string data = "Hey, I..."
+   [174]
+    1 string data = "Welcome back, Garl!"
+   [175]
+    1 string data = "I just had a reaaally bad dream, you guys."
+   [176]
+    1 string data = "You're safe now, buddy. Don't worry about it."
+   [177]
+    1 string data = "What happened?"
+   [178]
+    1 string data = "After we tried to save the villager, the Dweller sang again, and..."
+   [179]
+    1 string data = "Whoa! You mean she could teleport?"
+   [180]
+    1 string data = "By carving magic gates out of thin air, somehow."
+   [181]
+    1 string data = "This is too much! Hopefully we'll meet her again, I've GOT to see that!"
+   [182]
+    1 string data = "Welcome to the First Stage of Grief! Please have a seat, and I will be right over."
+   [183]
+    1 string data = "Thank you, innkeeper. We won't be staying long."
+   [184]
+    1 string data = "Why, of course not!"
+   [185]
+    1 string data = "They're here!"
+   [186]
+    1 string data = "Well, look who made it here on time!"
+   [187]
+    1 string data = "Hey, everyone! It's good to see you!"
+   [188]
+    1 string data = "The eclipse is upon us, I should provide your briefing."
+   [189]
+    1 string data = "We wouldn't want one of you to end up mind controlled by the Dweller, now, would we?"
+   [190]
+    1 string data = "Oh, that happened already!"
+   [191]
+    1 string data = "Excuse me?"
+   [192]
+    1 string data = "We went into the woods, and the Dweller got me, but an assassin used paralyzing poison to buy some time, then they went to fight a necromancer, and-"
+   [193]
+    1 string data = "A necromancer? You mean to tell me [MAINCHAR] and [OFFCHAR] fought Romaya and lived?"
+   [194]
+    1 string data = "We had help."
+   [195]
+    1 string data = "(These two, I swear...)"
+   [196]
+    1 string data = "No matter. We must leave for the Dweller's lair at once. I will explain on the way."
+   [197]
+    1 string data = "Finish your preparations, and let me know when you are ready."
+   [198]
+    1 string data = "Ready for the cleansing?"
+   [199]
+    1 string data = "Yes"
+   [200]
+    1 string data = "Wait..."
+   [201]
+    1 string data = "Stay close to me, everyone."
+   [202]
+    1 string data = "Onwards, to the cleansing!"
+   [203]
+    1 string data = "Hmm? Surely you weren't thinking of coming with us?"
+   [204]
+    1 string data = "Hey, I can fight, and I'm a good support!"
+   [205]
+    1 string data = "Dwellers are impervious to all but solstice magic. Your mere presence would be a liability."
+   [206]
+    1 string data = "Well, the Elder Mist gave me special permission!"
+   [207]
+    1 string data = "What?"
+   [208]
+    1 string data = "I'll know when to step aside, don't worry!"
+   [209]
+    1 string data = "..."
+   [210]
+    1 string data = "Make sure you don't get in the way."
+   [211]
+    1 string data = "You got it, Headmaster!"
+   [212]
+    1 string data = "...Which I didn't need to hear, given that earnest is my middle name!"
+   [213]
+    1 string data = "Anyway, then he said he never used any spells on regular monsters, only to use nothing but the most expensive one when he fought a boss!"
+   [214]
+    1 string data = "I am confused as to how any of this can be considered fun."
+   [215]
+    1 string data = "Well, to each their own, I guess."
+   [216]
+    1 string data = "Going somewhere, Captain?"
+   [217]
+    1 string data = "…"
+   [218]
+    1 string data = "He doesn't seem badly hurt, probably just a lot to take in."
+   [219]
+    1 string data = "Nothing soup won't fix!"
+   [220]
+    1 string data = "NOT THE TWINS!"
+   [221]
+    1 string data = "Easy, Headmaster. You need rest."
+   [222]
+    1 string data = "Thank you, young lad, you have been quite caring."
+   [223]
+    1 string data = "Don't mention it!"
+   [224]
+    1 string data = "[MAINCHAR]. [OFFCHAR]. I need more time to recover."
+   [225]
+    1 string data = "Our enemies must be at The Fleshmancer's old castle on Mesa Island by now."
+   [226]
+    1 string data = "The island is currently unreachable, but I trust a solution will come to me if I meditate."
+   [227]
+    1 string data = "In the meantime, please go check on Brisk. Assess the damage, and do your best to help any survivors in need."
+   [228]
+    1 string data = "Right away."
+   [229]
+    1 string data = "Thank you, young ones. I will catch up with you when I am ready."
+   [230]
+    1 string data = "I'll go immediately. See you in Brisk."
+   [231]
+    1 string data = "Well, y'all went and did yer thing, congratulations!"
+   [232]
+    1 string data = "..."
+   [233]
+    1 string data = "Aren't ye proud? Y'all just saved a lot of people, pals!"
+   [234]
+    1 string data = "We... A lot has happened, and we're still catching up..."
+   [235]
+    1 string data = "Why the long face? Did something UNPREDICTABLE occur?"
+   [236]
+    1 string data = "Y'all look like yer mentor turned out to be the bad guy all along or something!"
+   [237]
+    1 string data = "Oh, is that the one?"
+   [238]
+    1 string data = "Look, well-meaning is my middle name... I'm sorry, didn't know it was this bad, I..."
+   [239]
+    1 string data = "It's okay, Yolande. We'll just need a bit of time."
+   [240]
+    1 string data = "Well, anything I can do to help, ya let me know, alright?"
+   [241]
+    1 string data = "There is something."
+   [242]
+    1 string data = "Lay it on me!"
+   [243]
+    1 string data = "Brisk was hit pretty hard. Our orders are to go back and assess the damage, see how we can help."
+   [244]
+    1 string data = "Consider it done, son!"
+   [245]
+    1 string data = "Y'all ready to set sail, then? Assuming yer all done here, ov course."
+   [246]
+    1 string data = "Yes"
+   [247]
+    1 string data = "No"
+   [248]
+    1 string data = "We must hurry back to Brisk. Yolande can take us."
+   [249]
+    1 string data = "Did you come to play?"
+   [250]
+    1 string data = "Yes"
+   [251]
+    1 string data = "No"
+   [252]
+    1 string data = "Gooooood evening, everyone! Please welcome our new contestant, [MAINCHAR]!"
+   [253]
+    1 string data = "No point taking any risks before the eclipse. We should rest at the inn."
+   [254]
+    1 string data = "The pirates said they would be at the inn. We should check it out."
+   [255]
+    1 string data = "Hang in there, Garl, we'll be back with a soul stone!"
+   [256]
+    1 string data = "Looking for equipment?"
+   [257]
+    1 string data = "Looking for items?"
+   [258]
+    1 string data = "..."
+   [259]
+    1 string data = "These guys are good!"
+   [260]
+    1 string data = "Wanna see me slap that bass, pal?"
+   [261]
+    1 string data = "Captain just left. Ain't been acting like herself since we arrived here..."
+   [262]
+    1 string data = "Music, now that's one thing I can get behind!"
+   [263]
+    1 string data = "Guess we're lucky it ain't one of us that got cursed, huh?"
+   [264]
+    1 string data = "Had you not met my little friend here? Amazing flutist!"
+   [265]
+    1 string data = "I'd steer clear of the Cursed Woods if I were you."
+   [266]
+    1 string data = "Would you like to stay for the night?"
+   [267]
+    1 string data = "Yes"
+   [268]
+    1 string data = "No"
+   [269]
+    1 string data = "Please come by another time."
+   [270]
+    1 string data = "Thank you for your patronage. Have a pleasant stay."
+   [271]
+    1 string data = "Where is it? Where is it?"
+   [272]
+    1 string data = "Oh, hello! Have you seen my <color=magic>Turbo Cookie</color>? I could really go about eating it right now."
+   [273]
+    1 string data = "Oh! Thank you so much!"
+   [274]
+    1 string data = "Now my reign of terror can finally begin. FACE ME!!!"
+   [275]
+    1 string data = "Thank... you..."
+   [276]
+    1 string data = "Search... my... grave..."
+   [277]
+    1 string data = "General Store"
+   [278]
+    1 string data = "<color=location>The First Stage of Grief</color>"
+   [279]
+    1 string data = "Oh no! Oh no no no! You are NOT getting the contents of my chest!"
+   [280]
+    1 string data = "If you want it, you're going to have to get my <color=good>BROTHER</color> to make AMENDS!"
+   [281]
+    1 string data = "You're not getting anything unless you get my <color=good>BROTHER</color> to make AMENDS!"
+   [282]
+    1 string data = "What do you want?"
+   [283]
+    1 string data = "Is this... from my brother?"
+   [284]
+    1 string data = "Oh, thank you! My treasure is yours!"
+   [285]
+    1 string data = "I can't eat the jam, but it still means the world. Thanks again."
+   [286]
+    1 string data = "I haven't heard from my <color=good>brother</color> in a while."
+   [287]
+    1 string data = "What? He's still mad at ME?"
+   [288]
+    1 string data = "All I did was eat a snack that I didn't know was his!"
+   [289]
+    1 string data = "What does he want me to do? Give him some <color=magic>Berry Jam</color>? We're portraits now! I can't!"
+   [290]
+    1 string data = "I can't believe he's still mad over some stupid <color=magic>Berry Jam</color>."
+   [291]
+    1 string data = "Oh, you gave him some jam and he calmed down? Wow, okay..."
+   [292]
+    1 string data = "The cleansing won't be easy. Better make sure you're well equipped."
+   [293]
+    1 string data = "Is it true that you were able to defeat Romaya?"
+   [294]
+    1 string data = "Dear visitors, if I may trouble you, one of my two brothers has recently found himself out of work."
+   [295]
+    1 string data = "I promised to put the word out for him. Would you happen to be aware of an opportunity fit for an innkeeper?"
+   [296]
+    1 string data = "Mirth, you say? This does sound like the perfect opportunity! I will send him a message and forward your invitation right away. Thank you!"
+   [297]
+    1 string data = "The inn is now available in Mirth!"
+   [298]
+    1 string data = "Please use the river entrance. -QuizMaster"
+   [299]
+    1 string data = "Zzz... Zzz..."
+   [300]
+    1 string data = "Something huge fell down from the sky and crashed into Brisk... I hope everyone's alright..."
+   [301]
+    1 string data = "My, this is quite a good show. Better enjoy it before the band leaves for another island. Probably tomorrow."
+   [302]
+    1 string data = "I'm making a toast to our last departed. I mean, not that there's been a departed recently or anything."
+   [303]
+    1 string data = "Wait, you're truly here to help? I..."
+   [304]
+    1 string data = "Lots of new faces today. It seems everyone wants to come to Lucent, and I can see why. This place is flawless!"
+   [305]
+    1 string data = "Solstice Warriors, now? The stories we tell ourselves are getting pretty good, ha!"
+   [306]
+    1 string data = "Looks like the Night Shroud is staying, but to be rid of the banshee... No more fear..."
+   [307]
+    1 string data = "Another round, please!"
+   [308]
+    1 string data = "My daughter LOVES music!"
+   [309]
+    1 string data = "Oh, you defeated the Dweller of Woe? Yeah, nice story!"
+   [310]
+    1 string data = "The only reason I'm staying in Lucent is to be with my friends!"
+   [311]
+    1 string data = "My friend went for a walk yesterday, but I'm thinking maybe he'll just sail to another island and never return. He was always the adventurous type..."
+   [312]
+    1 string data = "Part of me doesn't want to believe, but the old man with the moon staff sure seems to know what he's doing..."
+   [313]
+    1 string data = "Wasn't there one more of you?"
+   [314]
+    1 string data = "Now THAT's what I call good music!"
+   [315]
+    1 string data = "Is your friend alright? Did he eat something weird in the forest?"
+   [316]
+    1 string data = "Are... you really a group of Solstice Warriors?"
+   [317]
+    1 string data = "Wraith Island is free... Thank you, thank you so much!"
+   [318]
+    1 string data = "What's a concertina?"
+   [319]
+    1 string data = "Yeah! This is so fun!!"
+   [320]
+    1 string data = "Solstice Warriors, you say? Well, as long as everyone is having fun. "
+   [321]
+    1 string data = "So it was all true? You really did it?"
+   [322]
+    1 string data = "Adults are too afraid to come outside, like that changes anything!"
+   [323]
+    1 string data = "My mom told me you were Solstice Warriors. Is it true?"
+   [324]
+    1 string data = "So the banshee is gone? We should be celebrating, why are the adults still afraid?"
+   [325]
+    1 string data = "I tried to enter the shed on the other side of the bridge, but it's locked. I wonder what's in there..."
+   [326]
+    1 string data = "I saw a group heading towards the mansion. Are you with them?"
+   [327]
+    1 string data = "Will everyone want to come outside now?"
+   [328]
+    1 string data = "Sometimes I can hear cheers and applause coming from the river. It's really strange."
+   [329]
+    1 string data = "It becomes tiring, always being on edge wondering who will be next... I can't blame those who choose to spend their time at the tavern."
+   [330]
+    1 string data = "The eclipse finally came, and you Solstice Warriors... Thank you, we will do our best with this new beginning."
+   [331]
+    1 string data = "There isn't much to do here. Kind of ironic that the stew is our signature dish. That's all we do all day ourselves! Stew!"
+   [332]
+    1 string data = "I never thought I'd see the day! No more fear! If that means the banshee is gone, the Night Shroud is more than welcome to stay!"
+   [333]
+    1 string data = "Have you seen the ghost at the western end of the village? I'm not going anywhere near that thing!"
+   [334]
+    1 string data = "Hey, the ghost is gone! Was it your doing?"
+   [335]
+    1 string data = "I also grew up never knowing when the next <color=bad>call</color> would be. But still, I feel for my kids..."
+   [336]
+    1 string data = "We're free? All my life, I've braced for the call, but now... I don't even know what to make of this... Thank you."
+   [337]
+    1 string data = "Those who try to leave just get <color=bad>called</color> right away. I don't know why you came here, but I'm sorry to say, you're now stuck here all the same..."
+   [338]
+    1 string data = "I still can't believe it. That means we can go to Brisk and see the sun..."
+   [339]
+    1 string data = "That mansion and its <color=bad>Cursed Voice</color> took everything from me. My son... my husband... and too many of my friends."
+   [340]
+    1 string data = "Why hasn't she called me yet?"
+   [341]
+    1 string data = "So we're rid of the curse at last. Doesn't bring my loved ones back, but it still feels good a little bit."
+   [342]
+    1 string data = "Old dusty novels."
+   [343]
+    1 string data = "A painting of "Aventry Manor.""
+   [344]
+    1 string data = "Materials used to craft equipment."
+   [345]
+    1 string data = "A well-organized rack."
+   [346]
+    1 string data = "All of the books in there look extremely old and boring."
+   [347]
+    1 string data = "The smell isn't pleasant."
+   [348]
+    1 string data = "An assortment of snacks."
+   [349]
+    1 string data = "This fountain has seen better days..."
+   [350]
+    1 string data = "A bunch of armor pieces."
+   [351]
+    1 string data = "Nothing of interest here."

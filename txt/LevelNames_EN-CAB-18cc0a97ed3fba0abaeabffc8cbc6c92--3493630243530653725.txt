@@ -1,0 +1,262 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "LevelNames_EN"
+ 1 string locCategoryId = "LevelNames"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (124 items)
+   0 int size = 124
+   [0]
+    1 string data = "???"
+   [1]
+    1 string data = "Velký archiv"
+   [2]
+    1 string data = "Stezka džunglí"
+   [3]
+    1 string data = "Docarrijská vesnice"
+   [4]
+    1 string data = "Strážcův ostrov"
+   [5]
+    1 string data = "Spáčův ostrov"
+   [6]
+    1 string data = "Amazonský chrám"
+   [7]
+    1 string data = "Ruiny džungle"
+   [8]
+    1 string data = "Mechová skrýš"
+   [9]
+    1 string data = "Mučivý vrch"
+   [10]
+    1 string data = "Zapečetěný vchod"
+   [11]
+    1 string data = "Ostrov věčné mlhy"
+   [12]
+    1 string data = "Měsíční Kolébka "
+   [13]
+    1 string data = "Zakázaná jeskyně"
+   [14]
+    1 string data = "Jezero sluneční záře"
+   [15]
+    1 string data = "Svatyně Slunovratu"
+   [16]
+    1 string data = "Horská stezka"
+   [17]
+    1 string data = "Zkoušky Mlžného stařešiny"
+   [18]
+    1 string data = "X'tolova přistávací plocha"
+   [19]
+    1 string data = "Vřesoviště"
+   [20]
+    1 string data = "Hornická vesnička"
+   [21]
+    1 string data = "Doly Větrných tunelů"
+   [22]
+    1 string data = "Větrné jezero"
+   [23]
+    1 string data = "Korálové kaskády"
+   [24]
+    1 string data = "Přístavní město Svěžín"
+   [25]
+    1 string data = "Čarodějova opuštěná laboratoř"
+   [26]
+    1 string data = "Výtah"
+   [27]
+    1 string data = "Molo na Přízračném ostrově"
+   [28]
+    1 string data = "Město Lucent"
+   [29]
+    1 string data = "Strašidelné sídlo"
+   [30]
+    1 string data = "Převozníkova hlídka"
+   [31]
+    1 string data = "Zatopený hřbitov"
+   [32]
+    1 string data = "Doupě nekromantky"
+   [33]
+    1 string data = "Večernice"
+   [34]
+    1 string data = "Moře nočních můr"
+   [35]
+    1 string data = "Moře nočních můr"
+   [36]
+    1 string data = "Moře nočních můr"
+   [37]
+    1 string data = "Vodní vír"
+   [38]
+    1 string data = "Prokletý les"
+   [39]
+    1 string data = "Veselí"
+   [40]
+    1 string data = "Nová země"
+   [41]
+    1 string data = "Starobylá krypta"
+   [42]
+    1 string data = "Antsudlo"
+   [43]
+    1 string data = "Ledovcový vrch"
+   [44]
+    1 string data = "Výšlap na Mesa"
+   [45]
+    1 string data = "Podzimní kopce"
+   [46]
+    1 string data = "Bažina zpěvných hub"
+   [47]
+    1 string data = "Babiznin pozemek"
+   [48]
+    1 string data = "Mechanický hrad"
+   [49]
+    1 string data = "Odpočívadlo"
+   [50]
+    1 string data = "Nebeská svatyně"
+   [51]
+    1 string data = "Oblačné království"
+   [52]
+    1 string data = "Podzemní základna"
+   [53]
+    1 string data = "Skvostné jezero"
+   [54]
+    1 string data = "Jezero Docarria"
+   [55]
+    1 string data = "Putování do středu světa"
+   [56]
+    1 string data = "Moře hvězd"
+   [57]
+    1 string data = "Nebeská země vzdušného živlu"
+   [58]
+    1 string data = "Laguna na nebesích"
+   [59]
+    1 string data = "Zpustlá továrna"
+   [60]
+    1 string data = "Repot"
+   [61]
+    1 string data = "Azurová vodní nádrž"
+   [62]
+    1 string data = "Azurová pustina"
+   [63]
+    1 string data = "Vesnice Ztracených"
+   [64]
+    1 string data = "Vesmírná základna"
+   [65]
+    1 string data = "Svatosvaté věže"
+   [66]
+    1 string data = "Lovecká pole"
+   [67]
+    1 string data = "Svatosvaté věže"
+   [68]
+    1 string data = "Nekonečná hlubina"
+   [69]
+    1 string data = "Karnimantovo doupě"
+   [70]
+    1 string data = "Svatyně Slunovratu"
+   [71]
+    1 string data = "Svatyně Slunovratu"
+   [72]
+    1 string data = "Svatyně Slunovratu"
+   [73]
+    1 string data = "Svatyně Slunovratu"
+   [74]
+    1 string data = "Potopené Docarrijské ruiny"
+   [75]
+    1 string data = "Potopené Docarrijské ruiny"
+   [76]
+    1 string data = "Potopené Docarrijské ruiny"
+   [77]
+    1 string data = "Potopené Docarrijské ruiny"
+   [78]
+    1 string data = "Polopotopená věž"
+   [79]
+    1 string data = "Sídlo Triumvirátu"
+   [80]
+    1 string data = "Rozhledna Es'tristae"
+   [81]
+    1 string data = "Potopené Docarrijské ruiny"
+   [82]
+    1 string data = "Potopené Docarrijské ruiny"
+   [83]
+    1 string data = "Potopené Docarrijské ruiny"
+   [84]
+    1 string data = "Večernice"
+   [85]
+    1 string data = "Moře nočních můr"
+   [86]
+    1 string data = "???"
+   [87]
+    1 string data = "Azurový ostrov"
+   [88]
+    1 string data = "Ostrov nehybného rybníku"
+   [89]
+    1 string data = "Karnimantovo doupě"
+   [90]
+    1 string data = "Nekonečná hlubina"
+   [91]
+    1 string data = "Čedičový ostrov"
+   [92]
+    1 string data = "Ostrov Mesa"
+   [93]
+    1 string data = "Svatosvaté věže"
+   [94]
+    1 string data = "Cesta k Moři hvězd"
+   [95]
+    1 string data = "Ostrov osadníků"
+   [96]
+    1 string data = "Vesmírná základna"
+   [97]
+    1 string data = "Nebeská země"
+   [98]
+    1 string data = "Ostrov svatyně Slunovratu"
+   [99]
+    1 string data = "Ostrov svatyně Slunovratu"
+   [100]
+    1 string data = "Ostrov svatyně Slunovratu"
+   [101]
+    1 string data = "Stanice Rychlodráhy"
+   [102]
+    1 string data = "???"
+   [103]
+    1 string data = "Přízračný ostrov"
+   [104]
+    1 string data = "Bambusový potok"
+   [105]
+    1 string data = "Ledovcový vrch"
+   [106]
+    1 string data = "Sirná kotlina"
+   [107]
+    1 string data = "Hora Pec"
+   [108]
+    1 string data = "Tyrkysové jezero"
+   [109]
+    1 string data = "Poloostrov"
+   [110]
+    1 string data = "Trůn královny, jež byla"
+   [111]
+    1 string data = "Romayin tajný průchod"
+   [112]
+    1 string data = "Romayin tajný průchod"
+   [113]
+    1 string data = "Posvátný háj"
+   [114]
+    1 string data = "Osadníkův odpočinek"
+   [115]
+    1 string data = "Nebeská svatyně"
+   [116]
+    1 string data = "Most Nebeské svatyně"
+   [117]
+    1 string data = "Stanice Rychlodráhy"
+   [118]
+    1 string data = "Strážcův rybník"
+   [119]
+    1 string data = "Strašidelná zátoka"
+   [120]
+    1 string data = "Přistávací plocha Ostrova věčné mlhy"
+   [121]
+    1 string data = "Domovský svět"
+   [122]
+    1 string data = "Seraïin svět"
+   [123]
+    1 string data = "Mapa světa"

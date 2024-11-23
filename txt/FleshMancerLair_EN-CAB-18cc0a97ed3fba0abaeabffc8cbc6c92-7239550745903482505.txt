@@ -1,0 +1,640 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "FleshMancerLair_EN"
+ 1 string locCategoryId = "FleshMancerLairIsland/FleshMancerLair"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (313 items)
+   0 int size = 313
+   [0]
+    1 string data = "This is it. The Fleshmancer's Lair."
+   [1]
+    1 string data = "There is no gate... It seems he wants us to come in."
+   [2]
+    1 string data = "Good."
+   [3]
+    1 string data = "Storming the castle, are we?"
+   [4]
+    1 string data = "It's over. Step aside."
+   [5]
+    1 string data = "I'll take that as a yes."
+   [6]
+    1 string data = "Oh... hohoho! The oddities I will create with you..."
+   [7]
+    1 string data = "Enough! You're going down!"
+   [8]
+    1 string data = "Hmhmhm..."
+   [9]
+    1 string data = "Come, then!"
+   [10]
+    1 string data = "*huff*... *huff*..."
+   [11]
+    1 string data = "A worthy prey..."
+   [12]
+    1 string data = "The master said to drink this when..."
+   [13]
+    1 string data = "Yes, yes..."
+   [14]
+    1 string data = "Hmhmhmhm..."
+   [15]
+    1 string data = "PREPARE TO JOIN US!!!"
+   [16]
+    1 string data = "*huff*... *huff*..."
+   [17]
+    1 string data = "Your bodies... are strong..."
+   [18]
+    1 string data = "But the <color=bad>Halls of Illusion</color> await..."
+   [19]
+    1 string data = "Your minds... will not make it..."
+   [20]
+    1 string data = "You made it."
+   [21]
+    1 string data = "Congratulations, you have been quite the nuisance."
+   [22]
+    1 string data = "Prepare yourself!"
+   [23]
+    1 string data = "Prepare myself? Hahahaha!"
+   [24]
+    1 string data = "My foolish child, fighting Solstice Warriors is beneath me."
+   [25]
+    1 string data = "..."
+   [26]
+    1 string data = "But you did make it all the way here, so I will play by the rules."
+   [27]
+    1 string data = "The time has come to decide on the fate of your realm and all of its worlds..."
+   [28]
+    1 string data = "Can you defeat my strongest lieutenant?"
+   [29]
+    1 string data = "Or will she reign supreme over the cyborgs?"
+   [30]
+    1 string data = "Never!"
+   [31]
+    1 string data = "Your evil has no place here anymore."
+   [32]
+    1 string data = "My, haven't we grown boastful."
+   [33]
+    1 string data = "Let the matter be settled, then."
+   [34]
+    1 string data = "I call on you, my champion."
+   [35]
+    1 string data = "Destroy these interlopers, and claim your rightful place as ruler of this world."
+   [36]
+    1 string data = "COME, <color=bad>ELYSAN'DARËLLE</color>!"
+   [37]
+    1 string data = "Erlina..."
+   [38]
+    1 string data = "..."
+   [39]
+    1 string data = "What have you become..."
+   [40]
+    1 string data = "Who dares challenge my reign?"
+   [41]
+    1 string data = "Don't you recognize us?"
+   [42]
+    1 string data = "I recognize Solstice Warrior vermin... Vermin which must be eradicated."
+   [43]
+    1 string data = "She's completely gone..."
+   [44]
+    1 string data = "SILENCE! YOU WILL BOW BEFORE ME!!!"
+   [45]
+    1 string data = "Brace yourselves!"
+   [46]
+    1 string data = "NOOOOOOOO!!!"
+   [47]
+    1 string data = "I NEED MORE POWER!"
+   [48]
+    1 string data = "I NEED MOOOOOORE!!!"
+   [49]
+    1 string data = "AAAAAAAAAAAHHH!"
+   [50]
+    1 string data = "My power..."
+   [51]
+    1 string data = "Master... you promised..."
+   [52]
+    1 string data = "I promised opportunity. Nothing more."
+   [53]
+    1 string data = "Hey!"
+   [54]
+    1 string data = "They've won. It's time to leave, Aephorul."
+   [55]
+    1 string data = "!!"
+   [56]
+    1 string data = "Oh come on, I want to be there when they see the final surprise!"
+   [57]
+    1 string data = "What are you on about?"
+   [58]
+    1 string data = "Pfff! Ask your new “Guardian Gods.”"
+   [59]
+    1 string data = "Can you feel it?"
+   [60]
+    1 string data = "It's... coming from so far away..."
+   [61]
+    1 string data = "A <color=bad>World Eater</color>..."
+   [62]
+    1 string data = "You are the only ones who can destroy it."
+   [63]
+    1 string data = "Godspeed, [MAINCHAR_GODNAME] and [OFFCHAR_GODNAME]!"
+   [64]
+    1 string data = "He's really gone... We're free..."
+   [65]
+    1 string data = "Hope. It's been so long..."
+   [66]
+    1 string data = "[MAINCHAR], [OFFCHAR]..."
+   [67]
+    1 string data = "We must go now, Seraï."
+   [68]
+    1 string data = "The World Eater has to be stopped."
+   [69]
+    1 string data = "Will you return?"
+   [70]
+    1 string data = "..."
+   [71]
+    1 string data = "We can feel everything now. There's just so much for us to do."
+   [72]
+    1 string data = "So many worlds, I had no idea..."
+   [73]
+    1 string data = "This is goodbye, then?"
+   [74]
+    1 string data = "I guess so, B'st. Thank-"
+   [75]
+    1 string data = "Wait!!!"
+   [76]
+    1 string data = "*huff*... *huff*..."
+   [77]
+    1 string data = "Before you go, could I just..."
+   [78]
+    1 string data = "Right."
+   [79]
+    1 string data = "It's been great knowing you! I'll make sure future generations know your story and remember you always!"
+   [80]
+    1 string data = "It's been great knowing you as well, Teaks."
+   [81]
+    1 string data = "Please stay safe."
+   [82]
+    1 string data = "It's not about us anymore. You take good care of yourselves and your people, okay?"
+   [83]
+    1 string data = "We'll do our best... in your memory."
+   [84]
+    1 string data = "It's time to go, Valere."
+   [85]
+    1 string data = "..."
+   [86]
+    1 string data = "And so our watch begins. Here's hoping it won't be too boring."
+   [87]
+    1 string data = "That'd be a first."
+   [88]
+    1 string data = "Hahaha!"
+   [89]
+    1 string data = "Hey, don't forget to visit whenever you fly by."
+   [90]
+    1 string data = "You bet."
+   [91]
+    1 string data = "You made it."
+   [92]
+    1 string data = "Congratulations, you have been quite the nuisance."
+   [93]
+    1 string data = "Prepare yourself!"
+   [94]
+    1 string data = "Prepare myself? Hahahaha!"
+   [95]
+    1 string data = "My foolish child, fighting Solstice Warriors is beneath me."
+   [96]
+    1 string data = "..."
+   [97]
+    1 string data = "But you did make it all the way here, so I will play by the rules."
+   [98]
+    1 string data = "The time has come to decide on the fate of your realm and all of its worlds..."
+   [99]
+    1 string data = "Can you defeat my strongest lieutenant?"
+   [100]
+    1 string data = "Or will she reign supreme over the cyborgs?"
+   [101]
+    1 string data = "Never!"
+   [102]
+    1 string data = "Your evil has no place here anymore."
+   [103]
+    1 string data = "My, haven't we grown boastful."
+   [104]
+    1 string data = "Let the matter be settled, then."
+   [105]
+    1 string data = "I call on you, my champion-"
+   [106]
+    1 string data = "Hey, you coward, how about fighting your own battles for a change?"
+   [107]
+    1 string data = "You!?..."
+   [108]
+    1 string data = "All you do is corrupt everything you touch and make people suffer. I'm kicking you out!"
+   [109]
+    1 string data = "You would challenge a God?"
+   [110]
+    1 string data = "God!? I told you once, you son of a creep, you're nothing but a loser!"
+   [111]
+    1 string data = "And so the fool repeats his mistake..."
+   [112]
+    1 string data = "There will be no time-travel trick saving you this time."
+   [113]
+    1 string data = "Come, then! Eternal pain awaits!"
+   [114]
+    1 string data = "How is this possible? HOW!?"
+   [115]
+    1 string data = "Better start believing! We're kicking you out!"
+   [116]
+    1 string data = "He's really gone... We're free..."
+   [117]
+    1 string data = "Hope. It's been so long..."
+   [118]
+    1 string data = "Zale..."
+   [119]
+    1 string data = "I can feel it too. We have to go right now and face the <color=bad>World Eater</color>."
+   [120]
+    1 string data = "Will you return?"
+   [121]
+    1 string data = "..."
+   [122]
+    1 string data = "We can feel everything now. There's just so much for us to do."
+   [123]
+    1 string data = "So many worlds, I had no idea..."
+   [124]
+    1 string data = "This is goodbye, then?"
+   [125]
+    1 string data = "I guess so, B'st. Thank-"
+   [126]
+    1 string data = "Oh, stop being so dramatic!"
+   [127]
+    1 string data = "Just promise you'll visit from time to time, okay?"
+   [128]
+    1 string data = "I... Of course."
+   [129]
+    1 string data = "That's more like it!"
+   [130]
+    1 string data = "We'll see you soon, Garl, first we-"
+   [131]
+    1 string data = "I know, I know! You do your [MAINCHAR_GODNAME] and [OFFCHAR_GODNAME] stuff whenever you have to, but you'll always be [MAINCHAR] and [OFFCHAR] to me!"
+   [132]
+    1 string data = "Wouldn't want it any other way."
+   [133]
+    1 string data = "Seriously, we did something good here. Good job, everyone!"
+   [134]
+    1 string data = "Well, go on, then! And don't you EVER miss my birthday!"
+   [135]
+    1 string data = "You can count on it!"
+   [136]
+    1 string data = "Promise?"
+   [137]
+    1 string data = "Promise!"
+   [138]
+    1 string data = "Promise!"
+   [139]
+    1 string data = "Well, we should-"
+   [140]
+    1 string data = "Wait!!!"
+   [141]
+    1 string data = "*huff*... *huff*..."
+   [142]
+    1 string data = "Before you go, could I just..."
+   [143]
+    1 string data = "Right."
+   [144]
+    1 string data = "It's been great knowing you! I'll make sure future generations know your story and remember you always!"
+   [145]
+    1 string data = "It's been great knowing you as well, Teaks."
+   [146]
+    1 string data = "Please stay safe."
+   [147]
+    1 string data = "It's not about us anymore. You take good care of yourselves and your people, okay?"
+   [148]
+    1 string data = "We'll do our best... in your memory."
+   [149]
+    1 string data = "It's time to go, Valere."
+   [150]
+    1 string data = "..."
+   [151]
+    1 string data = "And so our watch begins. Here's hoping it won't be too boring."
+   [152]
+    1 string data = "That'd be a first."
+   [153]
+    1 string data = "Hahaha!"
+   [154]
+    1 string data = "Hey, don't wait too long before your first visit."
+   [155]
+    1 string data = "You bet."
+   [156]
+    1 string data = "[MAINCHAR]. There you are."
+   [157]
+    1 string data = "Aren't you tired, [MAINCHAR]? It's time to sleep."
+   [158]
+    1 string data = "We are all resting. Why don't you join us?"
+   [159]
+    1 string data = "Hey there! Are you the new hire?"
+   [160]
+    1 string data = "What? Where... where am I?"
+   [161]
+    1 string data = "Uh, look, it's..."
+   [162]
+    1 string data = "Do you mind helping with the <color=magic>jars</color>? I'll be in big trouble if I don't put everything in place before <color=bad>the boss</color> returns."
+   [163]
+    1 string data = "I... Okay..."
+   [164]
+    1 string data = "Great!"
+   [165]
+    1 string data = "Just grab the <color=magic>big ones</color>. They go on the <color=magic>pillars</color> up there."
+   [166]
+    1 string data = "..."
+   [167]
+    1 string data = "The <color=location>Humble Boast</color>?"
+   [168]
+    1 string data = "Is this a dream?"
+   [169]
+    1 string data = "And now a lake?"
+   [170]
+    1 string data = "What is happening..."
+   [171]
+    1 string data = "Just grab the <color=magic>big ones</color>. They go on the <color=magic>pillars</color> up there."
+   [172]
+    1 string data = "Nicely done, you'll fit right in."
+   [173]
+    1 string data = "But you're working too hard. Why don't you go and <color=bad>relax</color> with your colleagues?"
+   [174]
+    1 string data = "Dubreux? DUBREUX!? "
+   [175]
+    1 string data = "Ugh, where is he again!? All these customers are waiting..."
+   [176]
+    1 string data = "Hey, you! We need a waiter, report to the kitchen posthaste!"
+   [177]
+    1 string data = "Me?"
+   [178]
+    1 string data = "Excuse me, did I hear you complain?"
+   [179]
+    1 string data = "Uh... nope!"
+   [180]
+    1 string data = "Step it up, we have hungry customers!"
+   [181]
+    1 string data = "Not bad, rookie. I should schedule some more shifts for you."
+   [182]
+    1 string data = "Do you like <color=bad>fishing</color>?"
+   [183]
+    1 string data = "Where's my food!?"
+   [184]
+    1 string data = "Ah, about time! "
+   [185]
+    1 string data = "*chomp, chomp, chomp*"
+   [186]
+    1 string data = "Come on, I'm starving here!"
+   [187]
+    1 string data = "Finally!"
+   [188]
+    1 string data = "*munch, munch, gulp*"
+   [189]
+    1 string data = "Is my ration ready? I did my work!"
+   [190]
+    1 string data = "There it is!"
+   [191]
+    1 string data = "*nom nom nom*"
+   [192]
+    1 string data = "*BURP!*"
+   [193]
+    1 string data = "Arhm arhm arhm! I'm almost full, hur hur hur."
+   [194]
+    1 string data = "So tender... so tasty!"
+   [195]
+    1 string data = "Where's the waiter? I'm busy enough as it is!"
+   [196]
+    1 string data = "Plate's on the table behind me. I'll prepare more while you serve this one."
+   [197]
+    1 string data = "Good work. You should report back to the innkeeper."
+   [198]
+    1 string data = "The fishing tournament is almost over! You better hurry up, there's only one catch left!"
+   [199]
+    1 string data = "Caught anything?"
+   [200]
+    1 string data = "Interesting. This is a really nice <color=bad>skull</color> indeed!"
+   [201]
+    1 string data = "Skull? No, I caught a fish!"
+   [202]
+    1 string data = "Oh, did you now?"
+   [203]
+    1 string data = "..."
+   [204]
+    1 string data = "My catch wasn't really good today..."
+   [205]
+    1 string data = "I beat my personal best today!"
+   [206]
+    1 string data = "I'll do better tomorrow."
+   [207]
+    1 string data = "..."
+   [208]
+    1 string data = "We'll need to refill the pond soon."
+   [209]
+    1 string data = "I don't use bait. Why bother?"
+   [210]
+    1 string data = "..."
+   [211]
+    1 string data = "!!"
+   [212]
+    1 string data = "What!? How did you manage to destroy my corruption crystals!?"
+   [213]
+    1 string data = "..."
+   [214]
+    1 string data = "Solstice Warriors. Just my luck."
+   [215]
+    1 string data = "Soul Curator! I should have known you were behind this!"
+   [216]
+    1 string data = "Oh, and what do we have here? A child of the Catalyst?"
+   [217]
+    1 string data = "You will pay for what you did to my people."
+   [218]
+    1 string data = "I made you better and stronger. You should be thanking me."
+   [219]
+    1 string data = "I'm about to!"
+   [220]
+    1 string data = "Yes. Show me how you fare with those gifts."
+   [221]
+    1 string data = "Oh? You're not so bad after all!"
+   [222]
+    1 string data = "I suppose it would only be fair for me to also have allies..."
+   [223]
+    1 string data = "Run all you want, I have your scent!"
+   [224]
+    1 string data = "These minions are worthless!"
+   [225]
+    1 string data = "How dare you!? My creations should be the best!!!"
+   [226]
+    1 string data = "That's enough, you coward! Let's finish this!"
+   [227]
+    1 string data = "Oh, rest assured, we will finish this."
+   [228]
+    1 string data = "..."
+   [229]
+    1 string data = "..."
+   [230]
+    1 string data = "Workplace disruptions must be eradicated!"
+   [231]
+    1 string data = "Minions! To me!"
+   [232]
+    1 string data = "Fancy meeting you here. How about I introduce you to my bigger friends?"
+   [233]
+    1 string data = "Look!"
+   [234]
+    1 string data = "Good. This is the last batch for today."
+   [235]
+    1 string data = "We have you cornered now!"
+   [236]
+    1 string data = "Oh, there you are."
+   [237]
+    1 string data = "*ahem*"
+   [238]
+    1 string data = "Summoners! The <color=bad>Room of Sending</color> has been infiltrated."
+   [239]
+    1 string data = "I require four souls to call upon the Portal's <color=bad>protector</color>."
+   [240]
+    1 string data = "The time has come. Fulfill the ultimate vow!"
+   [241]
+    1 string data = "<color=bad>Phase Reaper</color>!"
+   [242]
+    1 string data = "Our master's compound is under siege."
+   [243]
+    1 string data = "Do your job!"
+   [244]
+    1 string data = "IMPOSSIBLE!!!"
+   [245]
+    1 string data = "You defeated the Phase Reaper!? Its speed is second to none..."
+   [246]
+    1 string data = "Hmm... I suppose we do have someone faster now..."
+   [247]
+    1 string data = "You leave me no choice. Our new recruit will make short work of you lot."
+   [248]
+    1 string data = "You're done hiding behind your minions."
+   [249]
+    1 string data = "Huh!? What is this!?"
+   [250]
+    1 string data = "Comeuppance."
+   [251]
+    1 string data = "NOOOOOOOOO!!!"
+   [252]
+    1 string data = "Finally rid of this monster..."
+   [253]
+    1 string data = "Thank you, everyone."
+   [254]
+    1 string data = "Don't mention it, Seraï. We're in this together until the end."
+   [255]
+    1 string data = "Do you need a moment?"
+   [256]
+    1 string data = "I'm good. First time I feel like smiling in forever, actually."
+   [257]
+    1 string data = "Haha! That's great!"
+   [258]
+    1 string data = "Since we are taking out the trash, do you reckon we can destroy this <color=bad>portal</color>?"
+   [259]
+    1 string data = "Valere?"
+   [260]
+    1 string data = "With pleasure."
+   [261]
+    1 string data = "Gah!!"
+   [262]
+    1 string data = "!!!"
+   [263]
+    1 string data = "..."
+   [264]
+    1 string data = "What happened!?"
+   [265]
+    1 string data = "It's like it backfired..."
+   [266]
+    1 string data = "Cedric. Any readings on this thing?"
+   [267]
+    1 string data = "Deep tissue scanner online."
+   [268]
+    1 string data = "Scan complete."
+   [269]
+    1 string data = "Report?"
+   [270]
+    1 string data = "Analyzing. Please hold."
+   [271]
+    1 string data = "Results indicate strong presence of an unknown material consisting of an advanced mix of biotics and cybernetics."
+   [272]
+    1 string data = "Based on the particles in the air, your attempt at destroying it caused an estimated 0.00005% of its mass to explode."
+   [273]
+    1 string data = "This thing is booby trapped?"
+   [274]
+    1 string data = "Affirmative. What you have before you is a bomb powerful enough to obliterate this very planet."
+   [275]
+    1 string data = "Recommended action: leave it be."
+   [276]
+    1 string data = "But this thing sends monsters across the universe!"
+   [277]
+    1 string data = "There has to be a way."
+   [278]
+    1 string data = "Negative. The structure is enmeshed with an infinitely intricate pattern of nerves."
+   [279]
+    1 string data = "Only a very fast series of precise cuts could deactivate it."
+   [280]
+    1 string data = "I'm sure Zale can do it."
+   [281]
+    1 string data = "Negative. Material is designed to react to Solstice Magic especially."
+   [282]
+    1 string data = "Extrapolation models indicate that given its volatility, The Fleshmancer is yet unable to weave this material into Dwellers."
+   [283]
+    1 string data = "Recommended action: knock on wood."
+   [284]
+    1 string data = "..."
+   [285]
+    1 string data = "Allow me!"
+   [286]
+    1 string data = "Verlot?"
+   [287]
+    1 string data = "The Sacrosanct Spires almost took my mind, but in the end, I found what I was looking for."
+   [288]
+    1 string data = "You have accomplished many great deeds, brave ones, but this is a job for my windblades."
+   [289]
+    1 string data = "Please step aside."
+   [290]
+    1 string data = "Amazing footwork!"
+   [291]
+    1 string data = "I have played my part. It now falls to you to put an end to this."
+   [292]
+    1 string data = "Please be kind to the Summoners in the rooms ahead. Their minds are still addled by Soul Curator's mind control spell, but they will not engage you."
+   [293]
+    1 string data = "You would be wise to take this opportunity to rest and resupply there."
+   [294]
+    1 string data = "Thank you for your help, Verlot."
+   [295]
+    1 string data = "No, it is I who thanks you for saving my world, [MAINCHAR_GODNAME] and [OFFCHAR_GODNAME]."
+   [296]
+    1 string data = "You and your companions have come a long way. The Fleshmancer awaits right above the Summoners' room."
+   [297]
+    1 string data = "Godspeed!"
+   [298]
+    1 string data = "I carry a small inventory. Do you need anything?"
+   [299]
+    1 string data = "Feel free to use the room to my right as a place to rest. Also, the teleporter to my left can take you back to the entrance if you want."
+   [300]
+    1 string data = "Your business is with our master. No quarrel will come from us--we are peaceful servants."
+   [301]
+    1 string data = "Oh, great Fleshmancer, please hear my prayer..."
+   [302]
+    1 string data = "The Fleshmancer watches over countless worlds. We are honored to be so close to him."
+   [303]
+    1 string data = "We are not here to challenge your right to an audience with our master--you have already earned it by reaching this place. "
+   [304]
+    1 string data = "You are going to meet with our great leader? I envy you."
+   [305]
+    1 string data = "It's been a long journey. We deserve some rest."
+   [306]
+    1 string data = "You should sleep."
+   [307]
+    1 string data = "Zzz...zzz..."
+   [308]
+    1 string data = "Is something wrong? You seem surprised to see me."
+   [309]
+    1 string data = "*chomp, chomp, chomp*"
+   [310]
+    1 string data = "*nom nom nom*"
+   [311]
+    1 string data = "*munch, munch, gulp*"
+   [312]
+    1 string data = "Still missing a jar."

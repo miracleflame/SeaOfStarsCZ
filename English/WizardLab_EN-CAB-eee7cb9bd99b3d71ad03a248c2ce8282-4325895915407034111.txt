@@ -1,0 +1,106 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "WizardLab_EN"
+ 1 string locCategoryId = "SleeperIsland/WizardLab"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (46 items)
+   0 int size = 46
+   [0]
+    1 string data = "I can feel the door's magic, but it seems I will only be able to lift it a few inches."
+   [1]
+    1 string data = "Valtraid?"
+   [2]
+    1 string data = "On yer mark, pal!"
+   [3]
+    1 string data = "Commence!"
+   [4]
+    1 string data = "Yolande! Hurry!"
+   [5]
+    1 string data = "No sweat, big guy, demolition is my middle name!"
+   [6]
+    1 string data = "Haha! That's what ye get, ye old ruin!"
+   [7]
+    1 string data = "..."
+   [8]
+    1 string data = "That's one way to do it..."
+   [9]
+    1 string data = "A job well done, mateys!"
+   [10]
+    1 string data = "Better let the Captain know our part of the mission was a success."
+   [11]
+    1 string data = "[MAINCHAR]'s crew might need a few pointers in there, so I will remain with them for now."
+   [12]
+    1 string data = "Can't hurt to have a mage around!"
+   [13]
+    1 string data = "Oh, I will prove to be a valuable companion, or my name is not Keenathan!"
+   [14]
+    1 string data = "Have it yer way, then! C'mon, Valtraid."
+   [15]
+    1 string data = "Huh!?"
+   [16]
+    1 string data = "Helloooo, anybody out there?"
+   [17]
+    1 string data = "Be careful, Garl, we don't know what to expect here."
+   [18]
+    1 string data = "I found something!"
+   [19]
+    1 string data = "..."
+   [20]
+    1 string data = "What is that?"
+   [21]
+    1 string data = "Maybe the coin is in there?"
+   [22]
+    1 string data = "Wait!"
+   [23]
+    1 string data = "Feels powerful, get ready!"
+   [24]
+    1 string data = "That's gotta be the coin we need!"
+   [25]
+    1 string data = "And there's our ticket to Wraith Island."
+   [26]
+    1 string data = "Remove the crystal?"
+   [27]
+    1 string data = "Yes"
+   [28]
+    1 string data = "No"
+   [29]
+    1 string data = "It looks like it should emit light, but it's inactive right now."
+   [30]
+    1 string data = "The light is on, but it's missing a piece."
+   [31]
+    1 string data = "Hey! ... Hey! Right here, in the well!"
+   [32]
+    1 string data = "??"
+   [33]
+    1 string data = "I lost my watch in the lake and a fish swallowed it. Would you mind catching it for me? Ought to be glowing."
+   [34]
+    1 string data = "Did you find my watch?"
+   [35]
+    1 string data = "That's the one! Thank you very much, my friend!"
+   [36]
+    1 string data = "Here's a little something for your trouble."
+   [37]
+    1 string data = "No response..."
+   [38]
+    1 string data = "My, what an improbable place... and look at this device! I wonder what it does."
+   [39]
+    1 string data = "This is a lot to take in. Why don't you explore a bit?"
+   [40]
+    1 string data = "According to old scriptures, you should be able to mix the <color=magic>light</color> from different <color=magic>crystals</color> to open new paths. Quite fascinating."
+   [41]
+    1 string data = "Reset Puzzle?"
+   [42]
+    1 string data = "Yes"
+   [43]
+    1 string data = "No"
+   [44]
+    1 string data = "Ahoy, you got the coin! A job well done."
+   [45]
+    1 string data = "Let's go back to Brisk, the Captain'll be waiting."

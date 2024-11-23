@@ -1,0 +1,678 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Camping_EN"
+ 1 string locCategoryId = "Camping"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (332 items)
+   0 int size = 332
+   [0]
+    1 string data = "The campfire feels cozy and warm."
+   [1]
+    1 string data = "Cook"
+   [2]
+    1 string data = "Rest"
+   [3]
+    1 string data = "Back"
+   [4]
+    1 string data = "The campfire feels cozy and warm."
+   [5]
+    1 string data = "Rest"
+   [6]
+    1 string data = "Back"
+   [7]
+    1 string data = "The campfire feels cozy and warm."
+   [8]
+    1 string data = "Cook"
+   [9]
+    1 string data = "Rest"
+   [10]
+    1 string data = "Back"
+   [11]
+    1 string data = "The campfire feels cozy and warm."
+   [12]
+    1 string data = "Rest"
+   [13]
+    1 string data = "Back"
+   [14]
+    1 string data = "Go to sleep?"
+   [15]
+    1 string data = "Yes"
+   [16]
+    1 string data = "No"
+   [17]
+    1 string data = "The campfire feels cozy and warm."
+   [18]
+    1 string data = "Cook"
+   [19]
+    1 string data = "Rest"
+   [20]
+    1 string data = "Back"
+   [21]
+    1 string data = "The campfire feels cozy and warm."
+   [22]
+    1 string data = "Cook"
+   [23]
+    1 string data = "Back"
+   [24]
+    1 string data = "The campfire feels <color=bad>dreadful</color> and <color=bad>cold</color>."
+   [25]
+    1 string data = "Rest"
+   [26]
+    1 string data = "Ahoy! What'll it be?"
+   [27]
+    1 string data = "Set sail"
+   [28]
+    1 string data = "Never mind"
+   [29]
+    1 string data = "Want me to take the lead?"
+   [30]
+    1 string data = "Yes"
+   [31]
+    1 string data = "No"
+   [32]
+    1 string data = "I wish we could go back for Garl."
+   [33]
+    1 string data = "The Elder Mist. I wonder what he looks like…"
+   [34]
+    1 string data = "We have to reach Wraith Island in time for the eclipse, wherever that is."
+   [35]
+    1 string data = "It feels so good to be with Garl again."
+   [36]
+    1 string data = "The Elder Mist Trials. After that, we'll officially be Solstice Warriors!"
+   [37]
+    1 string data = "Time to use our new powers to cross over to the big statue atop Mountain Trail."
+   [38]
+    1 string data = "Shame we didn't get to see Garl before leaving."
+   [39]
+    1 string data = "The Elder Mist, huh? Just need to find this mountain, I suppose."
+   [40]
+    1 string data = "If we're to reach Wraith Island for the eclipse, I guess we'll need a boat or something."
+   [41]
+    1 string data = "It didn't feel right without Garl."
+   [42]
+    1 string data = "The Elder Mist Trials. After that, we'll officially be Solstice Warriors!"
+   [43]
+    1 string data = "Time to use our new powers to cross over to the big statue atop Mountain Trail."
+   [44]
+    1 string data = "[MAINCHAR], I'm so glad we're finally all back together!"
+   [45]
+    1 string data = "Don't forget to prepare snacks for the road."
+   [46]
+    1 string data = "This Live Mana thing is unreal, I want to boost all the time!"
+   [47]
+    1 string data = "We'll never find a ship at this altitude. There has to be a way down."
+   [48]
+    1 string data = "We have to reach Wraith Island in time for the eclipse, wherever that is."
+   [49]
+    1 string data = "I didn't think we'd go around trying to save a small town, but here we are."
+   [50]
+    1 string data = "It felt good using our powers to help."
+   [51]
+    1 string data = "With the big lift operational, we can get to Brisk now."
+   [52]
+    1 string data = "Should we go and see what these pirates have to offer?"
+   [53]
+    1 string data = "Let's be on our guard when we bring the coin to Captain Klee'shaë."
+   [54]
+    1 string data = "No boats up here, I guess we just have to keep going east."
+   [55]
+    1 string data = "If we're to reach Wraith Island for the eclipse, I guess we'll need a boat or something."
+   [56]
+    1 string data = "I hope we can help the Molekin, they seem so peaceful."
+   [57]
+    1 string data = "I'm glad we could help."
+   [58]
+    1 string data = "With the big lift operational, we can get to Brisk now."
+   [59]
+    1 string data = "I'm not too sure about dealing with pirates either, but we do need a boat ride…"
+   [60]
+    1 string data = "Here's hoping Captain Klee'shaë will hold up her end of the bargain…"
+   [61]
+    1 string data = "I want to travel in the ball again!"
+   [62]
+    1 string data = "The air is SO GOOD out here!"
+   [63]
+    1 string data = "Fighting an evil wizard was totally on my bucket list!"
+   [64]
+    1 string data = "Malkomud's clogging the mine's wind tunnels. We have to do something before The Sleeper wakes up!"
+   [65]
+    1 string data = "It's not fair how people have been treating Malkomud."
+   [66]
+    1 string data = "Good thing we fixed the big lift in the Molekin Outpost--I can't wait to see Brisk!"
+   [67]
+    1 string data = "This Live Mana thing is unreal, I want to boost all the time!"
+   [68]
+    1 string data = "I can't believe we have a meeting with pirates! This is unreal!"
+   [69]
+    1 string data = ""The Coin of Undeath Accord can be found in the Wizard Lab north of Brisk." Now THAT'S a proper quest!"
+   [70]
+    1 string data = "Nothing quite like a worthwhile quest to keep some spring in one's steps!"
+   [71]
+    1 string data = "That's just like our Captain to know when and where we'd stumble upon the perfect helpers for this quest!"
+   [72]
+    1 string data = "Remember to hit that Save Point from time to time, eh kid? Be a shame if ye beat something big and then had to do it all over again. Believe me!"
+   [73]
+    1 string data = "The plan worked out pretty well in the end."
+   [74]
+    1 string data = "We should rest at the inn."
+   [75]
+    1 string data = "We should hurry into the woods."
+   [76]
+    1 string data = "Hang in there, Garl…"
+   [77]
+    1 string data = "We never learned anything about necromancers. I guess we'll just have to wing it."
+   [78]
+    1 string data = "We fought well back there."
+   [79]
+    1 string data = "We should talk to Moraine as soon as possible."
+   [80]
+    1 string data = "We have to make our way to the gardens somehow."
+   [81]
+    1 string data = "The Dweller of Woe is next. I'm ready."
+   [82]
+    1 string data = "..."
+   [83]
+    1 string data = "Wraith Island. We made it."
+   [84]
+    1 string data = "We should rest at the inn."
+   [85]
+    1 string data = "I hope we're not too late."
+   [86]
+    1 string data = "Good thing Seraï arrived when she did."
+   [87]
+    1 string data = "A soul stone… we can do this…"
+   [88]
+    1 string data = "Garl. We're coming!"
+   [89]
+    1 string data = "We need to go see Moraine."
+   [90]
+    1 string data = "Moraine said the gardens were through the library."
+   [91]
+    1 string data = "Time to face the Dweller of Woe."
+   [92]
+    1 string data = "..."
+   [93]
+    1 string data = "We should find that tavern Valtraid was talking about--I want to see them play!"
+   [94]
+    1 string data = "So, if the villager went into the Cursed Woods, does that mean that the Dweller's lair is also north of Lucent?"
+   [95]
+    1 string data = "Almost time for the eclipse, huh?"
+   [96]
+    1 string data = "Seraï sounds so cool, I hope I can meet her!"
+   [97]
+    1 string data = "Your first cleansing! Aren't you a little bit excited?"
+   [98]
+    1 string data = "I wonder how Malkomud is doing…"
+   [99]
+    1 string data = "Your first cleansing! Aren't you a little bit excited?"
+   [100]
+    1 string data = "Moraine will be fine, at least…"
+   [101]
+    1 string data = "Ferryman's Vigil is east of Lucent."
+   [102]
+    1 string data = "Stay alert. The necromancer won't be happy to see us."
+   [103]
+    1 string data = "We should hurry back."
+   [104]
+    1 string data = "The Botanical Horror… I'll help however I can."
+   [105]
+    1 string data = "Hortence seems nice. We're doing something good here."
+   [106]
+    1 string data = "It's Erlina I'm the most angry at."
+   [107]
+    1 string data = "We've come such a long way already…"
+   [108]
+    1 string data = "Hortence said the island we are looking for is to the northeast of Brisk."
+   [109]
+    1 string data = "Garl is really good at leading the efforts."
+   [110]
+    1 string data = "Maelstrom Point, huh? We can do this."
+   [111]
+    1 string data = "Seeing Hortence stuck here like this, I feel bad for Duke Aventry."
+   [112]
+    1 string data = "I still can't believe Erlina and Brugaves would do that…"
+   [113]
+    1 string data = "Hortence said the island we are looking for is to the northeast of Brisk."
+   [114]
+    1 string data = "It feels good to be giving these people a new start."
+   [115]
+    1 string data = "Hortence sure is something. Can you imagine holding the bar for that long?"
+   [116]
+    1 string data = "So, the plan is to claim this ship as ours?"
+   [117]
+    1 string data = "Ghost pirates were not on my bucket list, but I'll take it!"
+   [118]
+    1 string data = "These people need a new start. I know just how to plan this!"
+   [119]
+    1 string data = "Stormcaller… About time someone puts an end to this."
+   [120]
+    1 string data = "…"
+   [121]
+    1 string data = "Need anythin'?"
+   [122]
+    1 string data = "It's good to know the people of Mirth are safe."
+   [123]
+    1 string data = "Do you think we should go for that shrine near Mountain Trail? We'd just have to go back to X'tol."
+   [124]
+    1 string data = "Erlina and Brugaves won't get away with this…"
+   [125]
+    1 string data = "The Oracle of Tides… Fingers crossed that this gets us onto Mesa Island…"
+   [126]
+    1 string data = "Any guesses on what we'll find up that tower?"
+   [127]
+    1 string data = "The magic pull is strong, what do you think we'll find?"
+   [128]
+    1 string data = "Resh'an will be waiting for us."
+   [129]
+    1 string data = "To think there was an unknown Dweller..."
+   [130]
+    1 string data = "Glad that Dweller is behind us now."
+   [131]
+    1 string data = "Garl really turned things around for Moraine."
+   [132]
+    1 string data = "That key Moraine gave us. Bit of a hike getting back to X'tol, but it might be worth checking out that shrine."
+   [133]
+    1 string data = "Mesa Island… That's where the Dweller and the Acolytes are…"
+   [134]
+    1 string data = "Here's hoping the Oracle of Tides can actually help…"
+   [135]
+    1 string data = "So, no one's ever been inside that tower, huh? That's kind of exciting."
+   [136]
+    1 string data = "I wonder what we'll find up there. Definitely feels powerful."
+   [137]
+    1 string data = "Let's go back to Resh'an."
+   [138]
+    1 string data = "We can do this cleansing. We must."
+   [139]
+    1 string data = "Now to bring Resh'an his vial."
+   [140]
+    1 string data = "I still can't believe we have our own ship now, this is awesome!"
+   [141]
+    1 string data = "The Coral Hammer… Are we really going to find a hidden city underwater now?"
+   [142]
+    1 string data = "The seashell is so pretty! And water breathing? That's too much!"
+   [143]
+    1 string data = "I always knew you two were special, but a big mysterious tower built just for you is something else!"
+   [144]
+    1 string data = "A Flask of Borrowed Time… I'll have to remember that, sounded important."
+   [145]
+    1 string data = "I like the cold--makes the campfire feel even cozier!"
+   [146]
+    1 string data = "I just know you can take that Dweller on your own without Moraine! I'll help however I can."
+   [147]
+    1 string data = "The way Seraï brought the light in Torment Peak, it was unbelievable!"
+   [148]
+    1 string data = "Don't forget to prepare snacks for the road."
+   [149]
+    1 string data = "Watcher Island is in the southeast area. There's a mysterious tower sticking out of the ocean right next to it."
+   [150]
+    1 string data = "..."
+   [151]
+    1 string data = "We made it. Now to see what this Coral Hammer does…"
+   [152]
+    1 string data = "After attuning the seashell at the Sacred Grove on Watcher Island, we should be able to reach the bottom of Lake Docarria…"
+   [153]
+    1 string data = "It felt like a big deal to be allowed through the waterfall in the Oracle's room. Whatever we find in that tower, I've got your back."
+   [154]
+    1 string data = "The Acolytes are probably watching. Don't let your guard down."
+   [155]
+    1 string data = "Torment Peak is north of Lake Docarria, on Watcher Island."
+   [156]
+    1 string data = "Now that the prism is back on the Watcher statue, you should be able to drive a light beam through it to find the cache Resh'an was talking about."
+   [157]
+    1 string data = "Glad that Dweller is behind us now."
+   [158]
+    1 string data = "Finally on Mesa Island. Are you ready for the big confrontation?"
+   [159]
+    1 string data = "If Erlina and Brugaves get in our way, I won't hesitate."
+   [160]
+    1 string data = "Yomara mentioned "the dead of a forgotten race." I wonder what that is."
+   [161]
+    1 string data = "Erlina…"
+   [162]
+    1 string data = "I'm ready."
+   [163]
+    1 string data = "Mesa Island. Finally."
+   [164]
+    1 string data = "Mesa Island. It was about time."
+   [165]
+    1 string data = "Erlina and Brugaves… I still can't believe what they did…"
+   [166]
+    1 string data = "What Yomara said to Resh'an… What did she mean?"
+   [167]
+    1 string data = "Brugaves…"
+   [168]
+    1 string data = "I'm ready."
+   [169]
+    1 string data = "So Resh'an's an immortal, huh? Oh, right! Shhh!"
+   [170]
+    1 string data = "The way Seraï brought the light in Torment Peak, it was unbelievable!"
+   [171]
+    1 string data = "Don't forget to prepare snacks for the road."
+   [172]
+    1 string data = "Must be hard thinking about this whole Erlina and Brugaves situation. I'm here, okay?"
+   [173]
+    1 string data = "I wonder what Resh'an wants in all of this. Seemed to think you and [OFFCHAR] were special, which I agree!"
+   [174]
+    1 string data = "There's something special about Mesa Island, don't you think?"
+   [175]
+    1 string data = "Yomara's pear was unreal!"
+   [176]
+    1 string data = "It mustn't have been easy, but you did great during the duel."
+   [177]
+    1 string data = "We'll be fighting the Dweller soon. I know you can do this!"
+   [178]
+    1 string data = "I don't trust the alchemist yet."
+   [179]
+    1 string data = "The Clockwork Castle is on the east side of Mesa Island. We'll have to cross it on foot."
+   [180]
+    1 string data = "The Acolytes are probably watching. Don't let your guard down."
+   [181]
+    1 string data = "Caël said the Watchmaker's key is the only way forward. Fingers crossed that she'll be willing to help."
+   [182]
+    1 string data = "The big fight is coming--make sure you're well prepared."
+   [183]
+    1 string data = "Mesa Island is to the northeast. The one with a giant stone head."
+   [184]
+    1 string data = "It's nice to stretch my legs a bit."
+   [185]
+    1 string data = "Under no circumstances am I fighting a Dweller."
+   [186]
+    1 string data = "(Living Glass…)"
+   [187]
+    1 string data = "With the Watchmaker's key, we can make it to the Dweller. But remember, I cannot help you in that fight."
+   [188]
+    1 string data = "As long as it's what Garl wants…"
+   [189]
+    1 string data = "My power's growing, do you feel it too?"
+   [190]
+    1 string data = "I'll do anything for Garl…"
+   [191]
+    1 string data = "That was really something, what you did with the water bridge."
+   [192]
+    1 string data = "The strange device just south of Mesa Island. It seems out of reach, but maybe we should look at the small island just below it."
+   [193]
+    1 string data = "The place should be up there, just gotta use that bridge made of water."
+   [194]
+    1 string data = "It'll take some convincing, but I have an idea."
+   [195]
+    1 string data = "Brugaves is gone, but Erlina will pay for this."
+   [196]
+    1 string data = "I feel so sorry for Garl…"
+   [197]
+    1 string data = "…"
+   [198]
+    1 string data = "The Air Elemental Skyland is to the west."
+   [199]
+    1 string data = "Stay strong, Zale. You will see your friend again before his time is up."
+   [200]
+    1 string data = "Take heart, Valere. Your friend's time isn't up just yet."
+   [201]
+    1 string data = "..."
+   [202]
+    1 string data = "We have to help Seraï and her people."
+   [203]
+    1 string data = "Still thinking about Garl all the time…"
+   [204]
+    1 string data = "Fingers crossed for that Living Glass thing… It seems like B'st is our only way into the Sacrosanct Spires."
+   [205]
+    1 string data = "Garl would have loved to see all of this."
+   [206]
+    1 string data = "..."
+   [207]
+    1 string data = "What happened to Seraï, it's terrible…"
+   [208]
+    1 string data = "Garl is just…always there in my thoughts."
+   [209]
+    1 string data = "So, if Resh'an can pull this off, we should be able to enter the Sacrosanct Spires."
+   [210]
+    1 string data = "I'm glad we're able to help Seraï."
+   [211]
+    1 string data = "I bet Garl would have loved Cedric."
+   [212]
+    1 string data = "I'm so sorry for your loss…"
+   [213]
+    1 string data = "Thank you for your help. I'm eager to visit my home and show you what we're up against."
+   [214]
+    1 string data = "I… I know I'm asking for a lot, especially with everything that happened…"
+   [215]
+    1 string data = "The probe will help us find our way in the Cerulean Expanse. Its light will blink faster when it detects something of relevance."
+   [216]
+    1 string data = "The Fleshmancer's workshop is in B'st's village on Cerulean Island."
+   [217]
+    1 string data = "Let's be careful, B'st said there was an abomination in here."
+   [218]
+    1 string data = "I hope this works. The only way to bring power back is to release the brakes on Es'tristae."
+   [219]
+    1 string data = "The Sacrosanct Spires are in the northwest corner. Let's hurry."
+   [220]
+    1 string data = "Whenever you are ready, the sky council should be ready to see us now."
+   [221]
+    1 string data = "The way to the Sea of Stars has been opened. The way is through the four sunken giants, just north of Wraith Island."
+   [222]
+    1 string data = "Seraï's village is to the east of this world, on an island with blue sand."
+   [223]
+    1 string data = "..."
+   [224]
+    1 string data = "(The dead of a forgotten race…)"
+   [225]
+    1 string data = "(Living Glass…)"
+   [226]
+    1 string data = "(Living Glass… The Crone was right…)"
+   [227]
+    1 string data = "Through the Spires, then. We can do this."
+   [228]
+    1 string data = "Garl would have loved to see all of this."
+   [229]
+    1 string data = "We're gaining ground."
+   [230]
+    1 string data = "We should travel back to our world."
+   [231]
+    1 string data = "Time to go see Caël on Mesa Island."
+   [232]
+    1 string data = "Ready for one last cleansing, Zale?"
+   [233]
+    1 string data = "It felt good to take a break in Mirth. It was like he was with us..."
+   [234]
+    1 string data = "I'm ready."
+   [235]
+    1 string data = "B'st is so ready for this, it's nice having him around."
+   [236]
+    1 string data = "I bet Garl would have loved Cedric."
+   [237]
+    1 string data = "The plan was a longshot, but we're doing great."
+   [238]
+    1 string data = "Time to travel back to our world."
+   [239]
+    1 string data = "We should go see Caël on Mesa Island."
+   [240]
+    1 string data = "We'll be fighting our last Dweller soon. I'm ready."
+   [241]
+    1 string data = "I love Mirth so much, it feels like he'll just show up at any moment..."
+   [242]
+    1 string data = "Let's do this."
+   [243]
+    1 string data = "We must press on. The only way to bring power back is to release the brakes on Es'tristae."
+   [244]
+    1 string data = "The Sacrosanct Spires are in the northwest corner. Let's hurry."
+   [245]
+    1 string data = "This is the place. Now, if we find The Catalyst…"
+   [246]
+    1 string data = "Now that power is back, we can use a speedball to get to Sky Base."
+   [247]
+    1 string data = "Here's hoping the kids can help."
+   [248]
+    1 string data = "Back to my world, then."
+   [249]
+    1 string data = "We have to take Arty to Sky Base. Just need to use a speedball again."
+   [250]
+    1 string data = "Whenever you're ready, the Dweller of Dread's lair is underwater, by the sunken moon."
+   [251]
+    1 string data = "I have never been to this world, but the magic in here feels…familiar…"
+   [252]
+    1 string data = "(Living Glass… The Crone was right…)"
+   [253]
+    1 string data = "Resh'an's puppet remains still…"
+   [254]
+    1 string data = "I am eager to test my new form."
+   [255]
+    1 string data = "Opening the way to the spires was the least I could do--I hope I can prove myself a valuable ally."
+   [256]
+    1 string data = "I am eager to test my new form."
+   [257]
+    1 string data = "Sky Base used to be so good for my world…"
+   [258]
+    1 string data = "A Clockwork Castle? Interesting."
+   [259]
+    1 string data = "Arty had quite the intro!"
+   [260]
+    1 string data = "I wonder what the Great Alchemist is up to."
+   [261]
+    1 string data = "It will be an honor to stand by your side during a cleansing."
+   [262]
+    1 string data = "Just take me to that machine in Sky Base and I'll do the rest!"
+   [263]
+    1 string data = "There are Solstice Shrines left. Maybe we should seek them out."
+   [264]
+    1 string data = "It feels so nice to have Garl with us again."
+   [265]
+    1 string data = "I've been thinking about the Solstice Shrines... Might be worth finding the remaining ones."
+   [266]
+    1 string data = "Things just weren't the same, this is too good!"
+   [267]
+    1 string data = "We're almost at the end..."
+   [268]
+    1 string data = "Is something troubling you?"
+   [269]
+    1 string data = "..."
+   [270]
+    1 string data = "There's another potential threat to my people... one I'm not sure I can handle on my own..."
+   [271]
+    1 string data = "What is it?"
+   [272]
+    1 string data = "..."
+   [273]
+    1 string data = "<color=bad>The Queen That Was</color>..."
+   [274]
+    1 string data = "We've been mapping the Cerulean Expanse for a long time, but it feels like we'll never find her."
+   [275]
+    1 string data = "If she gets the jump on Repine..."
+   [276]
+    1 string data = "A gruesome thought indeed. Is there any lead we could follow?"
+   [277]
+    1 string data = "It's a longshot, but a probe brought this back from one of the search parties."
+   [278]
+    1 string data = "I was hoping we could give it to Teaks and see what we can learn. If we have the time, of course."
+   [279]
+    1 string data = "It's worth a shot, at least."
+   [280]
+    1 string data = "The Queen That Was... I hope Teaks will have something for us to go on..."
+   [281]
+    1 string data = "Thanks again for the help. It's good to know my people will be safe."
+   [282]
+    1 string data = "I can't help but wonder why Resh'an wouldn't just save Garl in the first place if that was his wish."
+   [283]
+    1 string data = "We'll never know for sure, but I think he first needed [MAINCHAR] and [OFFCHAR] to be ready for something!"
+   [284]
+    1 string data = "Seems to me like these alchemists are just incredibly immature for all their millennia of experience..."
+   [285]
+    1 string data = "Huh!?"
+   [286]
+    1 string data = "Resh'an's puppet points at something on the map."
+   [287]
+    1 string data = "Great Alchemist, are you trying to tell us something?"
+   [288]
+    1 string data = "..."
+   [289]
+    1 string data = "Perhaps we should investigate the location?"
+   [290]
+    1 string data = "A shame Resh'an left. I hope I can thank him someday..."
+   [291]
+    1 string data = "I wouldn't presume to understand the Great Alchemist's mind, but I believe it is he who meant to thank you."
+   [292]
+    1 string data = "[MAINCHAR], a word, if I may?"
+   [293]
+    1 string data = "Of course, what's up?"
+   [294]
+    1 string data = "Ever since the Great Alchemist granted me this form, I have been eager to prove myself a true warrior."
+   [295]
+    1 string data = "For what it's worth, you've definitely been pulling your weight and then some."
+   [296]
+    1 string data = "I appreciate the thought, brave monk, but I desire something more... official."
+   [297]
+    1 string data = "Like what?"
+   [298]
+    1 string data = "During my time on your home world, I heard a rumor about a place where fighters engage in friendly competition."
+   [299]
+    1 string data = ""Dweller's Fall Arena," in Brisk."
+   [300]
+    1 string data = "According to Yolande, the townspeople built it to reclaim the big crater left by the Dweller of Strife."
+   [301]
+    1 string data = "Sounds like it could be fun!"
+   [302]
+    1 string data = "[MAINCHAR], I know we are pressed for time, but if there is any chance we could visit the arena in Brisk, I would be very grateful."
+   [303]
+    1 string data = "Croustalion was a worthy opponent. What a great team we are!"
+   [304]
+    1 string data = "Now even I think the party felt incomplete without Garl."
+   [305]
+    1 string data = "*slurp* *slurp*"
+   [306]
+    1 string data = "He does grow on people fast."
+   [307]
+    1 string data = "B'st, how did it feel when you took the blast?"
+   [308]
+    1 string data = "Purposeful. Like I was doing the right thing."
+   [309]
+    1 string data = "We're forever indebted to you for that."
+   [310]
+    1 string data = "You brought hope to my world and crowned me champion of the arena."
+   [311]
+    1 string data = "As far as I'm concerned, it is I who still owes you."
+   [312]
+    1 string data = "Haha! Fair enough."
+   [313]
+    1 string data = "What a time, huh? I sure didn't have RESURRECTION on my list when we started our adventure!"
+   [314]
+    1 string data = "Now that's one for Teaks' storybook."
+   [315]
+    1 string data = "Seriously though, it did get kind of scary..."
+   [316]
+    1 string data = "Anyway, thanks for pulling me out of there! I know activating The Chronophage took a lot of effort."
+   [317]
+    1 string data = "We'd have done it faster if we knew. And come on, you'd do the same for us!"
+   [318]
+    1 string data = "In a heartbeat!"
+   [319]
+    1 string data = "Oh, right! There's this thing I wanted to share."
+   [320]
+    1 string data = "So, I'm not allowed to talk about what I saw on the other side, but when it became clear that I would return, I was allowed to make a single wish."
+   [321]
+    1 string data = "Right."
+   [322]
+    1 string data = "What did you ask for?"
+   [323]
+    1 string data = "Dinner with all my friends at the Golden Pelican!"
+   [324]
+    1 string data = "Oh yeah?"
+   [325]
+    1 string data = "Sure did! I'm going to host my own reverse funeral, and I want the best food there is!"
+   [326]
+    1 string data = "Haha! I like this guy."
+   [327]
+    1 string data = "Thing is though, I'm not too sure how that works. All I was given is this fishing hook..."
+   [328]
+    1 string data = "I'm sure we'll figure it out!"
+   [329]
+    1 string data = "If we have the time, there's an island that I feel is connected to the magic fish hook I was given. Right here."
+   [330]
+    1 string data = "The Golden Pelican was everything I was hoping for!"
+   [331]
+    1 string data = "Chef Bass gave us the invite, we should go to Brisk and try the Golden Pelican!"

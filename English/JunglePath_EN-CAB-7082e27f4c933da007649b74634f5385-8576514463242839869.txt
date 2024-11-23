@@ -1,0 +1,42 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "JunglePath_EN"
+ 1 string locCategoryId = "WatcherIsland/JunglePath"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (14 items)
+   0 int size = 14
+   [0]
+    1 string data = "Watcher Island."
+   [1]
+    1 string data = "The hidden city of the Docarri should be somewhere beyond this jungle.\n"
+   [2]
+    1 string data = "We've got the Coral Hammer, let's do this!"
+   [3]
+    1 string data = "YOU!"
+   [4]
+    1 string data = "Now, now, let us talk. There is no need for you to see this errand through."
+   [5]
+    1 string data = "What's wrong? Getting nervous?"
+   [6]
+    1 string data = "My, aren't we feisty."
+   [7]
+    1 string data = "We do not have to quarrel. Simply hand over the Coral Hammer, and we will be on our way."
+   [8]
+    1 string data = "Come and get it, then!"
+   [9]
+    1 string data = "Three?"
+   [10]
+    1 string data = "Commence!"
+   [11]
+    1 string data = "It seems this round is yours."
+   [12]
+    1 string data = "Savor it. The next time we meet will be the last."
+   [13]
+    1 string data = "The mural depicts some kind of curse involving a flower."

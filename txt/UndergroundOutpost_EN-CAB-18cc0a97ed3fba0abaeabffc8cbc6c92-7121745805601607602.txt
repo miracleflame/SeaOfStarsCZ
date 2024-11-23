@@ -1,0 +1,122 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "UndergroundOutpost_EN"
+ 1 string locCategoryId = "TrekToPlanetCenter/UndergroundOutpost"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (54 items)
+   0 int size = 54
+   [0]
+    1 string data = "Jak daleko od domova asi jsme?"
+   [1]
+    1 string data = "..."
+   [2]
+    1 string data = "POPLACH: VETŘELCI"
+   [3]
+    1 string data = "DO OBJEKTU PRONIKLY ENTITY Z JINÉHO SVĚTA"
+   [4]
+    1 string data = "ELIMINACE ZAHÁJENA"
+   [5]
+    1 string data = "Pozor!"
+   [6]
+    1 string data = "Vypadá to, že technologie je tady mnohem vyspělejší..."
+   [7]
+    1 string data = "O ničem takovém se žádné záznamy nezmiňují."
+   [8]
+    1 string data = "??"
+   [9]
+    1 string data = "(...)"
+   [10]
+    1 string data = "Vítejte v mém světě."
+   [11]
+    1 string data = "Zoufale vás tady potřebujeme."
+   [12]
+    1 string data = "Seraï..."
+   [13]
+    1 string data = "Proč jsi nám o ničem neřekla?"
+   [14]
+    1 string data = "Nevěděla jsem jak..."
+   [15]
+    1 string data = "Chtěli byste se mnou vůbec ještě něco mít?"
+   [16]
+    1 string data = "Samozřejmě že ano! Bez tebe bychom nic nedokázali."
+   [17]
+    1 string data = "Můj svět už dávno padl do rukou <color=bad>Karnimanta</color>."
+   [18]
+    1 string data = "Je... úplně v troskách..."
+   [19]
+    1 string data = "Z <color=location>Vesmírné základny</color> na obloze proudí husté mraky, které blokují sluneční světlo."
+   [20]
+    1 string data = "A Měsíc... Karnimant ho potopil do oceánu..."
+   [21]
+    1 string data = "!!"
+   [22]
+    1 string data = "Víte, co to znamená?"
+   [23]
+    1 string data = "Bez propojení se Sluncem a Měsícem..."
+   [24]
+    1 string data = "Se nerodí žádné další Děti Slunovratu..."
+   [25]
+    1 string data = "Pomůžete nám?"
+   [26]
+    1 string data = "Ty víš, že pomůžeme."
+   [27]
+    1 string data = "Čím začneme?"
+   [28]
+    1 string data = "Návštěvou mého domova. Byla jsem pryč až moc dlouho."
+   [29]
+    1 string data = "Moji lidé..."
+   [30]
+    1 string data = "I oni jsou..."
+   [31]
+    1 string data = "Jako já?"
+   [32]
+    1 string data = "Ano."
+   [33]
+    1 string data = "<color=bad>Catalyst</color>, inteligentní zlý stroj, z nás všech postupně udělal kyborgy..."
+   [34]
+    1 string data = "A takhle, bez možnosti zemřít, moji lidé bezmocně setrvávají naživu, zatímco jim <color=bad>Přiživovač hrůzy</color> pomalu požírá duše."
+   [35]
+    1 string data = "Seraï, to je mi tak stašně moc líto..."
+   [36]
+    1 string data = "Vy nám můžete pomoct. Právě proto jsem odešla."
+   [37]
+    1 string data = "Abych našla Bojovníky Slunovratu. Abych našla vás."
+   [38]
+    1 string data = "Pokud se nám podaří zbavit těch mraků, Měsíc znovu zazáří."
+   [39]
+    1 string data = "A potom bude Přiživovač hrůzy zranitelný."
+   [40]
+    1 string data = "My tvůj svět očistíme. To ti přísahám."
+   [41]
+    1 string data = "A já ti to přísahám taky."
+   [42]
+    1 string data = "Děkuju vám."
+   [43]
+    1 string data = "Dostat se na Vesmírnou základnu nebude snadné, ale mezitím, co jsem byla pryč, mohla být objevena nějaká stopa."
+   [44]
+    1 string data = "Vydáme se do <color=location>Repotu</color>, mého rodného města. Chci vám ukázat, proti čemu tady bojujeme."
+   [45]
+    1 string data = "Ale co Karnimant?"
+   [46]
+    1 string data = "Ten má doupě na létajícím ostrově."
+   [47]
+    1 string data = "Nemám nejmenší tušení, jak se tam dostat."
+   [48]
+    1 string data = "Dobře, všechno pěkně popořádku. Nejdřív navštívíme tvé město."
+   [49]
+    1 string data = "Repot je na <color=location>Azurovém ostrově</color>, který odsud leží směrem na východ."
+   [50]
+    1 string data = "Tak fajn. Pojďme."
+   [51]
+    1 string data = "Teď se nikam vracet nebudeme."
+   [52]
+    1 string data = "Jakási pokročilá technologie, která se zdá být běžnou součástí Seraïna světa..."
+   [53]
+    1 string data = "Jakási technologie zobrazující světelné útvary."

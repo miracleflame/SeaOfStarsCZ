@@ -1,0 +1,356 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ArchivistRoom_EN"
+ 1 string locCategoryId = "WatcherIsland/ArchivistRoom"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (171 items)
+   0 int size = 171
+   [0]
+    1 string data = "Welcome to the <color=location>Great Archives</color>, adventurer. I suppose curiosity brought you here."
+   [1]
+    1 string data = "An important trait, to be sure."
+   [2]
+    1 string data = "I am <color=good>The Archivist</color>, an immortal versed in the ways of alchemy."
+   [3]
+    1 string data = "But perhaps you knew that already?"
+   [4]
+    1 string data = "After spending millennia cataloging the many events of countless timelines, I decided to return here to mull over everything I had seen."
+   [5]
+    1 string data = "In my musings about the stories that fill these books and scrolls, I had a recent epiphany."
+   [6]
+    1 string data = "It seems that, in my haste, I may have overlooked the very thing I was hoping to find."
+   [7]
+    1 string data = "As such, there is one special story I wish to revisit. One deserving of a witness."
+   [8]
+    1 string data = "And should the Mists of Time allow a slight alteration, I believe the <color=magic>ray of hope</color> that was once offered may yet bloom."
+   [9]
+    1 string data = "So walk with me tonight, and we will explore a tale of high adventure."
+   [10]
+    1 string data = "Of magic and deceit, of friendship and wonder."
+   [11]
+    1 string data = "But mostly, a tale of heroism."
+   [12]
+    1 string data = "One that, I believe, will offer valuable insight in the search for a resolution to the throes of <color=bad>The Fleshmancer</color>."
+   [13]
+    1 string data = "Now, let us see what we find in there..."
+   [14]
+    1 string data = "Ah, yes!"
+   [15]
+    1 string data = "Our story begins in a world visited by The Fleshmancer generations prior, causing much turmoil and leaving a mark that has yet to be fully cleansed."
+   [16]
+    1 string data = "Somewhere on <color=location>Evermist Island</color>, two young <color=good>Children of the Solstice</color> and their best friend are daydreaming about a life of adventure."
+   [17]
+    1 string data = "But while the path of the <color=good>Solstice Warrior</color> awaits them indeed, there will be no leaving the nest until they can harness their innate magic..."
+   [18]
+    1 string data = "Their efforts in the tower proved valiant, but alas, as fate would have it when these events first occurred, the mysterious door remained <color=bad>firmly shut</color>."
+   [19]
+    1 string data = "Despite their courage in the face of this setback, our heroes were unable to reach Mesa Island in time, and the Dweller of Strife turned into a World Eater."
+   [20]
+    1 string data = "They fought ever so bravely, but in the end, their lives, and their world, were lost. "
+   [21]
+    1 string data = "Which brings us to the crux of tonight's musings: a single question."
+   [22]
+    1 string data = "How far might they go, should fate be given a nudge, and the door that once sat closed were to be <color=good>opened</color>?"
+   [23]
+    1 string data = "Let us find out."
+   [24]
+    1 string data = "Come in."
+   [25]
+    1 string data = "What is this place?"
+   [26]
+    1 string data = "Smells musty!"
+   [27]
+    1 string data = "Good evening, and welcome to The Great Archives."
+   [28]
+    1 string data = "Please excuse the mess, I tend to get absorbed in my work."
+   [29]
+    1 string data = "!!"
+   [30]
+    1 string data = "Wait, are you-"
+   [31]
+    1 string data = "Titles are for stories and myths. Please call me Resh'an."
+   [32]
+    1 string data = "Resh'an..."
+   [33]
+    1 string data = "That's even cooler than X'tol!"
+   [34]
+    1 string data = "Wait, so YOU'RE the immortal alchemist?"
+   [35]
+    1 string data = "I suppose so."
+   [36]
+    1 string data = "Un-REAL!"
+   [37]
+    1 string data = "Alchemist, sir, we..."
+   [38]
+    1 string data = "Please. Call me Resh'an."
+   [39]
+    1 string data = "*ahem* Resh'an, this is really unexpected."
+   [40]
+    1 string data = "Yeah, we... Can't you just fix all of this, then?"
+   [41]
+    1 string data = "Unfortunately, no. I am bound by a very strict code."
+   [42]
+    1 string data = "There are no words to express the suffering that would ensue were I to take matters into my own hands."
+   [43]
+    1 string data = "Worse than a Dweller turning into a World Eater?"
+   [44]
+    1 string data = "Not to minimize, but you must understand that, in the grand scheme of things, your reality is simply one of many."
+   [45]
+    1 string data = "By fixing your realm, I would unleash <color=bad>Aephorul</color>'s wrath on countless others."
+   [46]
+    1 string data = "That is unacceptable."
+   [47]
+    1 string data = "Who's Aephorul?"
+   [48]
+    1 string data = "My former associate."
+   [49]
+    1 string data = "Stories refer to him as The Fleshmancer."
+   [50]
+    1 string data = "!!"
+   [51]
+    1 string data = "Is he hiding somewhere here too?"
+   [52]
+    1 string data = "Your world is safe, at least in this regard. Aephorul left a long time ago."
+   [53]
+    1 string data = "Should he learn of my presence here, however..."
+   [54]
+    1 string data = "We'd take him on, he's nothing but a loser!"
+   [55]
+    1 string data = "..."
+   [56]
+    1 string data = "Now, it appears time is of the essence."
+   [57]
+    1 string data = "We need to get onto Mesa Island. Can you help?"
+   [58]
+    1 string data = "I might. But first, we must determine whether or not you can help yourselves."
+   [59]
+    1 string data = "We know how to fight!"
+   [60]
+    1 string data = "Of course you do, but this matter is about whether you truly are who I am hoping you are."
+   [61]
+    1 string data = "For now, I would send you to a remote location where, encased in the ice, lies a long lost <color=magic>artifact</color>."
+   [62]
+    1 string data = "What kind of artifact?"
+   [63]
+    1 string data = "I will say no more at this time. If letting you in here was the proper course of action, its power will call to you."
+   [64]
+    1 string data = "This portal leads to where it went forgotten."
+   [65]
+    1 string data = "Recover the artifact. Then I shall entertain this plan of yours."
+   [66]
+    1 string data = "You have returned."
+   [67]
+    1 string data = "Will you help us get to Mesa Island now?"
+   [68]
+    1 string data = "Oh, you were just there a few moments ago."
+   [69]
+    1 string data = "Is this the way then? We just go back and hike down the mountain?"
+   [70]
+    1 string data = "Hiking Glacial Peak on foot? Only an animal would do that."
+   [71]
+    1 string data = "..."
+   [72]
+    1 string data = "Will you accept one final challenge?"
+   [73]
+    1 string data = "If you succeed, I promise I will help."
+   [74]
+    1 string data = "We're in a hurry! You said-"
+   [75]
+    1 string data = "I know, I know. Hear me out."
+   [76]
+    1 string data = "The only way to remove the barrier is to wake the giant stone head."
+   [77]
+    1 string data = "I can make the potion for you, but brewing it requires centuries of maceration."
+   [78]
+    1 string data = "Centuries? That's useless!"
+   [79]
+    1 string data = "That is why I need you to recover my personal alchemy bottle, the <color=magic>Vial of Time</color>."
+   [80]
+    1 string data = "Within it, I can control time itself. Bring it back to me and I will prepare what you need in mere seconds."
+   [81]
+    1 string data = "No way..."
+   [82]
+    1 string data = "Alright, where can we find it?"
+   [83]
+    1 string data = "Aephorul hid it somewhere on Watcher Island a long time ago."
+   [84]
+    1 string data = "All I know for certain is that the giant statue from which the island got its name is the key."
+   [85]
+    1 string data = "How do you know?"
+   [86]
+    1 string data = "Aephorul's tricks always involve big statues."
+   [87]
+    1 string data = "??"
+   [88]
+    1 string data = "Eventually, I figured he would have to stop if I never recovered my vial, but here we are in need of it."
+   [89]
+    1 string data = "This is ridiculous."
+   [90]
+    1 string data = "Call it what you will, but I recommend you take this task seriously, for it will be very trying."
+   [91]
+    1 string data = "Sure, whatever. We're ready."
+   [92]
+    1 string data = "Then go to the northern part of Watcher Island, and perform the cleansing of Torment Peak."
+   [93]
+    1 string data = "!!"
+   [94]
+    1 string data = "Cleansing!? There's a Dweller here?"
+   [95]
+    1 string data = "Of course. It may be just a prank, but Aephorul played it himself."
+   [96]
+    1 string data = "But, without their powers augmented by..."
+   [97]
+    1 string data = "Yes?"
+   [98]
+    1 string data = "That's what the Solstice Amulet is really for, isn't it?"
+   [99]
+    1 string data = "Precisely. It may be old, but its magic has yet to fade."
+   [100]
+    1 string data = "Face the Dweller of Torment with conviction, and the amulet will resonate."
+   [101]
+    1 string data = "The power to conjure an eclipse..."
+   [102]
+    1 string data = "Alright, we can do this."
+   [103]
+    1 string data = "Torment Peak afflicts the mind in devilish ways, but you deserve a fighting chance. Here."
+   [104]
+    1 string data = "Go on, drink."
+   [105]
+    1 string data = "What is it?"
+   [106]
+    1 string data = "One dose of Tethered Mind Potion for each of you."
+   [107]
+    1 string data = "Come on now, bottoms up."
+   [108]
+    1 string data = "I don't feel any different."
+   [109]
+    1 string data = "And thanks to this potion, you will be able to say the same after spending time in that wicked place."
+   [110]
+    1 string data = "..."
+   [111]
+    1 string data = "I thought you couldn't help directly."
+   [112]
+    1 string data = "It's just a little nudge. Surely this can stay between us."
+   [113]
+    1 string data = "Thanks, Resh'an!"
+   [114]
+    1 string data = "Feel free to use the portal for quick travel between here and Lake Docarria."
+   [115]
+    1 string data = "I will be watching. Good luck."
+   [116]
+    1 string data = "Resh'an, we have your vial."
+   [117]
+    1 string data = "It appears so. Let's make sure it's not an imitation."
+   [118]
+    1 string data = "Garl, would you kindly throw it at the wall?"
+   [119]
+    1 string data = "I..."
+   [120]
+    1 string data = "With all your strength."
+   [121]
+    1 string data = "Won't it break?"
+   [122]
+    1 string data = "Hopefully."
+   [123]
+    1 string data = "Well, okay."
+   [124]
+    1 string data = "Whoa!!"
+   [125]
+    1 string data = "Vial of Time, oh how I've missed you."
+   [126]
+    1 string data = "Thank you for recovering my most prized possession. You have shown much bravery."
+   [127]
+    1 string data = "You better hold up your end of the bargain now. No more errands!"
+   [128]
+    1 string data = "Oh, make no mistake, I'm coming with you."
+   [129]
+    1 string data = "!!"
+   [130]
+    1 string data = "But my code is strict, so there are rules."
+   [131]
+    1 string data = "First, I may assist in battle, but it is not my place to win for you."
+   [132]
+    1 string data = "As such, I will match your power, but never exceed it."
+   [133]
+    1 string data = "Wait, you're really going to-"
+   [134]
+    1 string data = "Next, no one other than the four of you can be aware of my true identity."
+   [135]
+    1 string data = "You are to refer to me exclusively as Resh'an, and never as The Immortal Alchemist."
+   [136]
+    1 string data = "You got it! Might want to be extra careful around Teaks, though."
+   [137]
+    1 string data = "Lastly, and most importantly, I am under no circumstances allowed to fight a Dweller."
+   [138]
+    1 string data = "If a confrontation occurs with the Dweller of Strife, that fight will be yours and yours alone."
+   [139]
+    1 string data = "Understood."
+   [140]
+    1 string data = "Shall we go, then?"
+   [141]
+    1 string data = "Uh, Resh'an?"
+   [142]
+    1 string data = "Hmm?"
+   [143]
+    1 string data = "You can't go out like this, your robes are all tattered."
+   [144]
+    1 string data = "Oh?"
+   [145]
+    1 string data = "If you don't want people to know you're immortal, maybe clothes that have been decaying for millennia aren't the safest bet!"
+   [146]
+    1 string data = "Hahaha!"
+   [147]
+    1 string data = "Fair enough."
+   [148]
+    1 string data = "!!"
+   [149]
+    1 string data = "Better?"
+   [150]
+    1 string data = "Totally!"
+   [151]
+    1 string data = "Then lead the way. Mesa Island is the one with a giant stone head, to the northeast."
+   [152]
+    1 string data = "Resh'an the Immortal Alchemist joins the party!"
+   [153]
+    1 string data = "And so it was that [MAINCHAR] and [OFFCHAR] were sent off to begin their journey, with their best friend the warrior-cook in tow."
+   [154]
+    1 string data = "In their quest to get to Wraith Island in time for the eclipse, they would soon come to grips with two very powerful wizards."
+   [155]
+    1 string data = "One by anger beset, the other of life bereft..."
+   [156]
+    1 string data = "By overcoming the dead wizard's illusions, our heroes have secured passage to Wraith Island in time for the eclipse."
+   [157]
+    1 string data = "In this place where the night is everlasting and the dead still live, they brace themselves to fight the last known Dweller."
+   [158]
+    1 string data = "While evil forces prepare to play their hand, fear is set to strike very close to home..."
+   [159]
+    1 string data = "With the resurrection of the Dweller of Strife announcing a reign of terror thought forever gone, hope appears slim for a world with only three Solstice Warriors left."
+   [160]
+    1 string data = "The veil of lies now lifted and part of their innocence left behind, our heroes head back to Brisk while their Headmaster searches for a way to reach Mesa Island."
+   [161]
+    1 string data = "Committed to helping the cataclysm survivors, they will soon dive headfirst into the eye of the storm to confront a legendary ancient curse..."
+   [162]
+    1 string data = "Thus, the Town of Mirth was founded, while those who preferred to stay in Brisk worked on restoring it to its former beauty."
+   [163]
+    1 string data = "While down but certainly not out, [MAINCHAR], [OFFCHAR], Garl and Seraï set sail for Watcher Island in hopes of finding the Oracle of Tides."
+   [164]
+    1 string data = "Should their will prove strong enough, the chapters yet to be written would soon unfold..."
+   [165]
+    1 string data = "Teleport to Lake Docarria?"
+   [166]
+    1 string data = "Yes"
+   [167]
+    1 string data = "No"
+   [168]
+    1 string data = "Teleport to Glacial Peak?"
+   [169]
+    1 string data = "Yes"
+   [170]
+    1 string data = "No"
