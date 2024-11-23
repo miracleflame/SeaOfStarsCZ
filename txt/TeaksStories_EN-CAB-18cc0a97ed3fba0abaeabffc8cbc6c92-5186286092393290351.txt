@@ -139,23 +139,23 @@
    [62]
     1 string data = "Konec příběhu."
    [63]
-    1 string data = "Povídá se, že pokaždé, když se o slunovratu narodí dvojčata, samotný osud si hodil mincí."
+    1 string data = "Povídá se, že pokaždé, když se o slunovratu narodí dvojčata, samotný osud si hodí mincí."
    [64]
-    1 string data = "Jejich vrozená magie by byla buď neuvěřitelně umocněna, nebo zkažena v něco, co by mělo být omezeno pro vyšší dobro."
+    1 string data = "Jejich vrozená magie je buď neuvěřitelně umocněna, nebo zkažena v něco, co by mělo být pro vyšší dobro zadrženo."
    [65]
-    1 string data = "Po celé generace mnoho dvojčat Bojovníků Slunovratu vykonalo veliké skutky, ale navzdory svému obrovskému potenciálu se nikdy nemohli povznést na Božské Ochránce."
+    1 string data = "Po celé generace vykonávalo mnoho dvojčat Bojovníků Slunovratu veliké skutky, ale navzdory svému obrovskému potenciálu se nikdy nemohla povznést na Božské Ochránce."
    [66]
-    1 string data = "K povznesení je totiž zapotřebí jeden ze zimního a jeden z letního... Ale spřízněné duše se nemají rozloučit na věčnost."
+    1 string data = "K povznesení je totiž zapotřebí jeden ze zimního a jeden z letního slunovratu... Ale spřízněné duše se nemají rozloučit na věčnost."
    [67]
     1 string data = "Za obzvlášť horkého letního slunovratu dopadla mince osudu na hranu a narodila se trojčata."
    [68]
-    1 string data = "Jak naznačovaly instinkty Velkého Orla, brzy se ukázalo, že mravnost se rozdělila ve tři, snad aby viděla, jak se jejich vrozená magie projeví v odlišných podobách."
+    1 string data = "Jak naznačovaly instinkty Velkého orla, brzy se ukázalo, že mravnost se rozdělila ve tři, snad aby viděla, jak se jejich vrozená magie projeví v odlišných podobách."
    [69]
-    1 string data = "Jelikož by je jejich činy nevyhnutelně od sebe vzdálily, dostali otravně podobná jména: Moyara, Yomara a Romaya."
+    1 string data = "Jelikož se měly od sebe svými činy nevyhnutelně vzdálit, dostaly otravně podobná jména: Moyara, Yomara a Romaya."
    [70]
-    1 string data = "Moyara odletěla do Měsíční kolébky, kde se z ní stala ohromná Bojovnice Slunovratu a ředitelka Akademie Zenit."
+    1 string data = "Moyara byla odnesena do Měsíční Kolébky, kde se z ní stala ohromná Bojovnice Slunovratu a ředitelka Akademie Zenit."
    [71]
-    1 string data = "Moyara, odjakživa neochvějná ochránkyně, položila svůj život, když vedla útok proti Přiživovači sváru."
+    1 string data = "Jako odjakživa neochvějná ochránkyně položila svůj život, když vedla útok proti Přiživovači sváru."
    [72]
     1 string data = "Yomara byla nestranná, známá spíše jako Babizna z Bažiny zpěvných hub."
    [73]
@@ -163,13 +163,13 @@
    [74]
     1 string data = "Ve svých pěti letech správně předpověděla, že Karnimant odejde, pokud bude Přiživovač sváru poražen - i za cenu života Moyary."
    [75]
-    1 string data = "Navzdory své nesmírné moci zůstává ve všech konfliktech nestranná."
+    1 string data = "Navzdory své nesmírné moci zůstává nestranná ve všech konfliktech."
    [76]
     1 string data = "Mezitím Romaya věnovala každou volnou chvíli studiu všeho, co se dalo poznat o způsobech Karnimanta a sama rozvíjela zakázaná umění."
    [77]
-    1 string data = "Skrze poznání magie krve se stala první nekromantkou a vynalezla způsob, jak uvěznit duše v předmětech."
+    1 string data = "Skrze poznání magie krve se stala první nekromantkou a přišla na způsob, jak uvěznit duše v předmětech."
    [78]
-    1 string data = "Jedním z jejích pozoruhodných vynálezů jsou svíčky, které nikdy nevyhoří, jež jsou charakteristické Romayiným zeleným ohněm."
+    1 string data = "Jedním z jejích pozoruhodných vynálezů jsou svíčky, které nikdy nedohoří, jež jsou charakteristické Romayiným zeleným ohněm."
    [79]
     1 string data = "Svou krajní oddaností odlišným stezkám daly Tři sestry podnět k nesčetným úvahám o tom, jaká rozhodnutí člověk v životě činí."
    [80]
@@ -177,11 +177,11 @@
    [81]
     1 string data = "Nebo žít tichým a poklidným, třebaže osamělým životem jako Yomara, vzdát se ambicí kvůli bezpečí, avšak nikdy neobjevit své pravé já."
    [82]
-    1 string data = "Anebo se snad oddávat jako Romaya, s naprostou sebejistotou ve své schopnosti překonat jakoukoli odplatu, které by mohla čelit v důsledku své zkaženosti."
+    1 string data = "Anebo se snad oddávat jako Romaya, s naprostou důvěrou ve svou schopnost překonat jakoukoliv odplatu, které by mohla v důsledku své zkaženosti čelit."
    [83]
-    1 string data = "Mohly by být Tři sestry skutečně hříčkou osudu, nebo zlovolnou hrou neznámých bohů?"
+    1 string data = "Mohly by být Tři sestry skutečně hříčkou osudu nebo zlomyslnou hrou neznámých bohů?"
    [84]
-    1 string data = "Anebo je to prostě tak, že při hledání smyslu někdy zaměňujeme čirou nahodilost za proroctví?"
+    1 string data = "Anebo je to prostě tak, že při hledání smyslu někdy zaměňujeme čirou náhodu za proroctví?"
    [85]
     1 string data = "Nejspíš bude lepší, pokud se to nikdy nedozvíme."
    [86]
