@@ -13,14 +13,14 @@
   1 Array Array (6 items)
    0 int size = 6
    [0]
-    1 string data = "Alright, let's see ya sail!"
+    1 string data = "*Fajn, kouknem se jak poplujete!"
    [1]
-    1 string data = "Three islands, one rod each. Once they're out, we can dock at Maelstrom Point and take the fight to Stormcaller!"
+    1 string data = "*Tři ostrovy, na každém jedena bleskozvod. Jakmile budou venku, můžeme zaútočit na Vodní vír a přenést boj k Vyzývateli bouří!"
    [2]
-    1 string data = "While sailing, hold <button=Boat_Accelerate> to move forward, and <button=MoveHorizontal> to steer the ship."
+    1 string data = "Během plavby držte <button=Boat_Accelerate> pro pohyb vpřed a <button=MoveHorizontal> pro kormidlování lodě."
    [3]
-    1 string data = "The <color=magic>Map</color> can be opened by pressing <button=UI_PingHud>. It shows your current location, as well as your objective."
+    1 string data = "<color=magic>Mapu</color> lze otevřít stisknutím <button=UI_PingHud>. Zobrazuje vaši aktuální polohu a také váš cíl cesty."
    [4]
-    1 string data = "No go, chief! Gotta get rid ov the rods on all three islands first!"
+    1 string data = "*Ni, šéfe! Deprem až se postaráme o ty bleskozvody na všech třech ostrovech!"
    [5]
-    1 string data = "The crystals are powering this thing. We can probably use the graplou to break them."
+    1 string data = "Pravděpodobně můžeme použít Zahák, abychom rozbili ty krystaly..."

@@ -13,42 +13,42 @@
   1 Array Array (20 items)
    0 int size = 20
    [0]
-    1 string data = "The tide brings trespassers to my realm..."
+    1 string data = "Příliv přináší vetřelce do mé říše..."
    [1]
-    1 string data = "We have come to free The Vespertine from your curse."
+    1 string data = "Přišli jsme osvobodit Večernici od tvého prokletí."
    [2]
-    1 string data = "Oh, is this how landlubbers refer to my ship now?"
+    1 string data = "Ó, takhle teď suchozemci nazývaj mou loď?"
    [3]
-    1 string data = "Who cares! We are ending this now!"
+    1 string data = "Koho to zajímá! Ukončíme to teď!"
    [4]
     1 string data = "..."
    [5]
-    1 string data = "And so it is that my reign is challenged once more."
+    1 string data = "A tak je má vláda opět zpochybněna."
    [6]
-    1 string data = "I am Stormcaller."
+    1 string data = "Já jsem Vyzyvatel bouří."
    [7]
-    1 string data = "The Sea of Nightmare corrupts all, and in time, consumes all."
+    1 string data = "Moře nočních můr všechny zkazí a časem vše pohltí."
    [8]
-    1 string data = "If you would try your luck, make sure your aim is true..."
+    1 string data = "Chcete-li zkusit své štěstí, ujistěte se, že vaše muška je opravdová..."
    [9]
-    1 string data = "FOR NOW, THE STORM CALLS FOR YOU!"
+    1 string data = "NEBOŤ TEĎ VÁS BOUŘE POHLTÍ!"
    [10]
-    1 string data = "NOOOOOOOOOOOOOOOOOOO!!!"
+    1 string data = "NEEEEEEEEEEEEEEEEEEE!!!"
    [11]
-    1 string data = "Phew... We did it..."
+    1 string data = "Uf... Dokázali jsme to..."
    [12]
-    1 string data = "There's a tidal wave coming! To the ship!"
+    1 string data = "Blíží se přílivová vlna! Na loď!"
    [13]
-    1 string data = "Aye, just throw <color=magic>this pearl</color> into the water where ye fought Stormcaller."
+    1 string data = "*Aye, jenom hoď <color=magic>tuto perlu</color> do vody, kde jste bojovali s Vyzyvatelem bouří."
    [14]
-    1 string data = "And here's a lil' something fer the fight. Best ov luck!"
+    1 string data = "*A tady je malá pozornost za souboj. Hodně štěstí!"
    [15]
-    1 string data = "Need anything?"
+    1 string data = "Potřebujete něco?"
    [16]
-    1 string data = "Here goes nothing."
+    1 string data = "Jdem na to."
    [17]
-    1 string data = "Garl was right. This scale will produce Magic Dew."
+    1 string data = "Garl měl pravdu. Tahle šupina bude vytvářet Magickou rosu."
    [18]
-    1 string data = "Time for the great harvest."
+    1 string data = "Čas na velkou sklizeň."
    [19]
-    1 string data = "We must hurry to Hydralion."
+    1 string data = "Musíme si pospíšit k Hydralionu."

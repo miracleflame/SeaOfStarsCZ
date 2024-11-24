@@ -13,112 +13,112 @@
   1 Array Array (55 items)
    0 int size = 55
    [0]
-    1 string data = "It's nice to meet you, Teaks. I am also a traveler of sorts."
+    1 string data = "Těší mě, Teaks. Jsem také tak trochu cestovatel."
    [1]
-    1 string data = "Resh'an, huh? So you make potions?"
+    1 string data = "Takže Resh'an? A vy vyrábíte lektvary?"
    [2]
-    1 string data = "You could say that."
+    1 string data = "Dalo by se to tak říct."
    [3]
-    1 string data = "Now, wait a minute..."
+    1 string data = "Tak počkat..."
    [4]
-    1 string data = "There's more to you!"
+    1 string data = "Na vás je toho víc!"
    [5]
     1 string data = "!!"
    [6]
-    1 string data = "I see... Don't worry, I won't tell! Would you mind though?"
+    1 string data = "Chápu... Nebojte se, nic neřeknu! Pardon, můžu?"
    [7]
     1 string data = "..."
    [8]
-    1 string data = "If you promise not to tell of my true identity, you can have my story, yes."
+    1 string data = "Pokud slíbíte, že neprozradíte mou pravou identitu, můžete si vzít můj příběh, ano."
    [9]
-    1 string data = "I promise! Just stand still for one second here and..."
+    1 string data = "Slibuji! Jenom na chvíli stůjte nehybně a..."
    [10]
-    1 string data = "Thanks!"
+    1 string data = "Děkuji!"
    [11]
-    1 string data = "Hey, we were just wondering what to do with the glass dome."
+    1 string data = "Hej, právě jsme přemýšleli, co udělat s tou skleněnou kopulí."
    [12]
-    1 string data = "You can use it as a greenhouse! Come, I'll show you!"
+    1 string data = "Můžete ji použít jako skleník! Pojďte, ukážu vám!"
    [13]
-    1 string data = "Potion guy is welcome to stay, ov course!"
+    1 string data = "*Lektvarista je vítaný, žano!"
    [14]
-    1 string data = "Mesa Island, eh?"
+    1 string data = "Tak tedy ostrov Mesa?"
    [15]
-    1 string data = "That's where we're headed."
+    1 string data = "Tam máme namířeno."
    [16]
-    1 string data = "Aye, that be roughly to the north ov here. Big stone head, can't miss it."
+    1 string data = "*Aye, to je zhruba severně odtud. Velká kamenná hlava, nemožno ji minout."
    [17]
-    1 string data = "Just grab the wheel whenever yer ready!"
+    1 string data = "*Jen se chopte kormidla, až budete připraveni!"
    [18]
-    1 string data = "Ahoy! I was hopin' I could trouble ye with a lil' research I been doin'..."
+    1 string data = "*Ahoy! Doufala jsem, že bych vás pootravovala s mým malým výzkumem, který jsem tuhle prováděla..."
    [19]
-    1 string data = "Of course. What's on your mind, Hortence?"
+    1 string data = "Jistě. Co máš na mysli, Hortenzie?"
    [20]
-    1 string data = "Well, y'see, we undead folk share some sort ov a connection."
+    1 string data = "*Inu, víte, nás nemrtvé spojuje jakési pouto."
    [21]
-    1 string data = "It ain't telepathy per se, but we can kind ov feel what others be feelin'."
+    1 string data = "*Není to telepatie jako taková, ale cítíme, co cítí vostatní."
    [22]
-    1 string data = "Anyway, there be one among us with a bad case of longing."
+    1 string data = "*Každopádně je tu mezi náma někdo s těžkým případem stesku."
    [23]
-    1 string data = "I'm talking REALLY bad. Bloke be carryin' enough sadness to drown the ocean itself."
+    1 string data = "*Ale vopravdu TĚŽKÝM. Kápo v sobě nosí tolik smutku, že by to utopilo i samotný oceán."
    [24]
-    1 string data = "Appears ye've met him. Used to be some noble ov sorts."
+    1 string data = "*Zdá se, že jste ho již potkali. Býval to ňáký šlechtic."
    [25]
-    1 string data = "Duke Aventry?"
+    1 string data = "Vévoda Aventry?"
    [26]
     1 string data = "Aye."
    [27]
-    1 string data = "Went and got cursed pretty bad, that one."
+    1 string data = "*Nechal se pěkně proklít, tendleten."
    [28]
-    1 string data = "He be ready to leave this world, but some necromancer be keepin' him on a leash."
+    1 string data = "*Je připraven vopustit tendle svět, ale ňáký nekromant ho drží na provázku."
    [29]
     1 string data = "Romaya..."
    [30]
-    1 string data = "His soul's gotta be bound to some magical object somewhere."
+    1 string data = "*Jeho duše musí být svázána s ňákým magickým předmětem."
    [31]
-    1 string data = "Any idea where that object might be?"
+    1 string data = "Nenapadá tě, kde by ten předmět mohl být?"
    [32]
-    1 string data = "All I knows fer sure is it'd have to be in a place dear to him, or the tether wouldn't work."
+    1 string data = "*S jistotou můžu říct jedine to, že musí být na místě, které je mu drahé, jinak by to pouto nefungovalo."
    [33]
-    1 string data = "That's not much to go on..."
+    1 string data = "To není nic moc jako vodítko..."
    [34]
-    1 string data = "Well, seems that necromancer ain't that much ov the careful type."
+    1 string data = "*No, zdá se, že nekromantka není zrovna pečlivý typ."
    [35]
-    1 string data = "Crew's been seein' her enter some secret passage. Mayhaps she be hidin' a thing or two of relevance there."
+    1 string data = "*Posádka ji viděla vcházet do ňáké tajné chodby. Možná tam skrývá něco významného."
    [36]
-    1 string data = "If ye're interested in helping the poor sod, Yolande's got some more details."
+    1 string data = "*Pokud máte zájem tomu ubožákovi pomoci, Yolanda zná další podrobnosti."
    [37]
-    1 string data = "Hortence give you the rundown?"
+    1 string data = "Dá vám Hortenzie sumár?"
    [38]
-    1 string data = "The necromancer's been spotted on an isolated plateau just off the coast of Wraith Island. Here, I'll show ya."
+    1 string data = "*Nekromantka byla spatřena na odlehlé plošině kousek od pobřeží Přízračného ostrova. Tady, ukážu vám to."
    [39]
-    1 string data = "Reckon ye could fly there?"
+    1 string data = "Hádám, že byste tam mohli letět?"
    [40]
-    1 string data = "Ahoy! Fancy a game o'<color=magic>Wheels</color>?"
+    1 string data = "Ahoy! Máte chuť si zahrát <color=magic>Kotouče</color>?"
    [41]
-    1 string data = "Casual game"
+    1 string data = "Nenáročná hra"
    [42]
-    1 string data = "Champion game"
+    1 string data = "Hra o šampiona"
    [43]
-    1 string data = "Versus player"
+    1 string data = "Proti spoluhráči"	
    [44]
-    1 string data = "Maybe later"
+    1 string data = "Možná později"
    [45]
-    1 string data = "Happy to play Champion again, but ye've already beaten me, so there won't be no reward."
+    1 string data = "*Rád si znovu zahraju o šampiona, ale už jste mě porazili, takže žádná odměna nebude."
    [46]
-    1 string data = "Hey, it's a tie!"
+    1 string data = "*Hej, je to remíza!"
    [47]
-    1 string data = "Well, ye went and did it! Congratulations, here's yer prize!"
+    1 string data = "*Helemese, dokázali jste to! Gratuluji, tumáte odměnu!"
    [48]
-    1 string data = "Ye won!"
+    1 string data = "*Vyhráli jste!"
    [49]
-    1 string data = "This round be mine!"
+    1 string data = "*Toto kolo je mé!"
    [50]
-    1 string data = "Quitting already, aye?"
+    1 string data = "*Už to vzdáváte, aye?"
    [51]
-    1 string data = "Go to sleep?"
+    1 string data = "Jít spát?"
    [52]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [53]
-    1 string data = "Not now"
+    1 string data = "Teď ne"
    [54]
-    1 string data = "B'gawk!"
+    1 string data = "B'waak!"
