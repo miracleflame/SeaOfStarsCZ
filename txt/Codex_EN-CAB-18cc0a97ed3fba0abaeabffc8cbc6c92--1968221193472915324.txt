@@ -10,8 +10,8 @@
  1 string locCategoryId = "Codex"
  0 int language = 0
  0 vector strings
-  1 Array Array (95 items)
-   0 int size = 95
+  1 Array Array (94 items)
+   0 int size = 94
    [0]
     1 string data = "Obecné"
    [1]
@@ -135,70 +135,68 @@
    [60]
     1 string data = "Gaučová kooperace: Akce"
    [61]
-    1 string data = "Všichni hráči mohou <color=menuhighlight>interagovat se světem</color>, jako by byli Hráčem 1. V kooperaci si hráči mohou také stisknutím <button="HighFive"> plácnout a tím<color=menuhighlight>zrychlit</color>, nebo podržením <button="Bubble"> vstoupit do <color=menuhighlight>bubliny</color> a dohnat tak skupinu."
-   [62]
     1 string data = "Všichni hráči mohou <color=menuhighlight>interagovat se světem</color>, jako by byli Hráčem 1. V kooperaci si hráči mohou také stisknutím <button="HighFive"> plácnout a tím <color=menuhighlight>zrychlit</color>, nebo podržením <button="Bubble"> vstoupit do <color=menuhighlight>bubliny</color> a dohnat tak skupinu."
-   [63]
+   [62]
     1 string data = "Mistrálový náramek"
-   [64]
+   [63]
     1 string data = "Stisknutím <button="WindBracelet"> vypustíte proud větru, který může <color=menuhighlight>odstrčit bloky</color>."
-   [65]
+   [64]
     1 string data = "Přehled"
-   [66]
+   [65]
     1 string data = "Kotouče jsou <color=menuhighlight>mechanická desková hra</color>, ve které každý hráč ovládá dva <color=menuhighlight>Hrdiny</color>. Sbírejte <color=menuhighlight>Energii</color> aby vaši hrdinové konali a snížili BŽ nepřátelské <color=menuhighlight>Koruny</color> na nulu!"
-   [67]
+   [66]
     1 string data = "Stůl a hráčův kotouč"
-   [68]
+   [67]
     1 string data = "Stůl má na protějších stranách sadu čtyř <color=menuhighlight>přednastavených kotoučů</color>, které doplňuje <color=menuhighlight>hráčův kotouč</color>. Na každé straně jsou také zobrazeny BŽ (Koruny) a hrdinové (figurky)."
-   [69]
+   [68]
     1 string data = "Roztáčení kotoučů"
-   [70]
+   [69]
     1 string data = "Hráči <color=menuhighlight>roztáčí</color> kotouče až třikrát za kolo. Roztočte kotouče pomocí <button="AdvanceTime">. Kotouče lze <color=menuhighlight>procházet</color> pomocí <button="MoveHorizontal"> a <color=menuhighlight>upevnit</color>/<color=menuhighlight>uvolnit</color> pomocí <button="Interact"> mezi jednotlivými roztáčkami."
-   [71]
+   [70]
     1 string data = "Energie"
-   [72]
+   [71]
     1 string data = "Aby mohl hrdina <color=menuhighlight>konat</color>, musí jeho akční tyč klesnout sbíráním odpovídající Energie. <color=menuhighlight>Čtvercová</color> Energie je pro <color=menuhighlight>levého hrdinu</color>, zatímco <color=menuhighlight>Kárová</color> je pro <color=menuhighlight>pravého hrdinu</color>. Energie se přiřazuje pouze pro trojice a víc (3=1 pokles, 4=2 poklesy, 5=3 poklesy, 6=4 atd.)."
-   [73]
+   [72]
     1 string data = "Hradba"
-   [74]
+   [73]
     1 string data = "<color=menuhighlight>Hradba</color> chrání Korunu. Může být <color=menuhighlight>zvednuta</color> na takovou úroveň, aby odolala až <color=menuhighlight>pěti</color> bodům poškození, a zvedá se pomocí <color=menuhighlight>odpovídajících kladiv</color> způsobem trojice a víc (3=1 zvednutí, 4=2 zvednutí, 5=3 zvednutí, 6=4 atd.)."
-   [75]
+   [74]
     1 string data = "Vývoj hrdinů"
-   [76]
+   [75]
     1 string data = "Hrdinové <color=menuhighlight>se vyvíjejí</color>, když mají dostatek XP. Hrdinové získávají 1XP za každou destičku s <color=menuhighlight>modrým pozadím</color> odpovídajícím jejich typu energie (1=1, bez pravidla trojic) a získávají 2XP, kdykoliv <color=menuhighlight>konají</color>. Hrdinové vždy začínají na <color=menuhighlight>Bronzové</color> úrovni a každý z nich se může vyvinout na <color=menuhighlight>Stříbrnou</color> a <color=menuhighlight>Zlatou</color>."
-   [77]
+   [76]
     1 string data = "Bomby"
-   [78]
+   [77]
     1 string data = "Naplnění XP lišty na zlatém hrdinovi vyvolá <color=menuhighlight>Bombu</color>, která způsobí <color=menuhighlight>2</color> poškození přímo na Koruně soupeře a nebere ohled na jeho hradbu."
-   [79]
+   [78]
     1 string data = "Hrdinové"
-   [80]
+   [79]
     1 string data = "Každý hrdina má své <color=menuhighlight>silné stránky</color> a <color=menuhighlight>slabé stránky</color>. Hratelných hrdinů je celkem <color=menuhighlight>šest</color>: Válečník, Čaroděj, Lukostřelec, Stavitel, Vrah a Kněz."
-   [81]
+   [80]
     1 string data = "Válečník"
-   [82]
+   [81]
     1 string data = "Stabilní a středně rychlý rozdavač poškození. Jelikož se poškození nepřenáší za Hradbu, je tento útok snadno blokován."
-   [83]
+   [82]
     1 string data = "Čaroděj"
-   [84]
+   [83]
     1 string data = "Útočí dvakrát. První ohnivá koule je na úrovni země a snadno ji blokuje Hradba, zatímco druhá ohnivá koule letí ve výšce, což zaručuje zásah Koruny, i když je Hradba na nejvyšší úrovni."
-   [85]
+   [84]
     1 string data = "Lukostřelec"
-   [86]
+   [85]
     1 string data = "Silný proti Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">), slabý proti Hradbě (<sprite="dialog-generic-icons" name="wheels-wall-damage">). Šíp letí ve výšce 3 jednotek a zasáhne Korunu, jen když je Hradba ve výšce 2 nebo méně."
-   [87]
+   [86]
     1 string data = "Stavitel"
-   [88]
+   [87]
     1 string data = "Silný proti Hradbě (<sprite="dialog-generic-icons" name="wheels-wall-damage">), slabý proti Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">). Jako bonus Stavitel zvýší ochranný val svého týmu o 2 jednotky, kdykoliv koná."
-   [89]
+   [88]
     1 string data = "Vrah"
-   [90]
+   [89]
     1 string data = "Hrdina specialista. Útokem zpožďuje soupeřova hrdinu (<sprite="dialog-generic-icons" name="wheels-energy-damage">), kterému ke konání zbývá nejméně energie. Rovněž způsobuje nízké poškození přímo Koruně (<sprite="dialog-generic-icons" name="wheels-main-damage">), přičemž nebere ohled na Hradbu."
-   [91]
+   [90]
     1 string data = "Kněz"
-   [92]
+   [91]
     1 string data = "Podpůrný hrdina. Léčí korunu svého týmu (<sprite="dialog-generic-icons" name="wheels-healing">) a dodává energii svému spolubojovníkovi (<sprite="dialog-generic-icons" name="wheels-energy">)."
-   [93]
+   [92]
     1 string data = "Šampioni a postup"
-   [94]
+   [93]
     1 string data = "Cesta Kotoučů začíná s Bronzovým kotoučem a pouze s Válečníkem a Čarodějem jako hratelnými Hrdiny. Povídá se, že ti, kteří <color=menuhighlight>odemknou</color> všech <color=menuhighlight>šest Hrdinů</color> a <color=menuhighlight>Platinový kotouč</color>, mohou vyzvat samotnou Hodinářku!"

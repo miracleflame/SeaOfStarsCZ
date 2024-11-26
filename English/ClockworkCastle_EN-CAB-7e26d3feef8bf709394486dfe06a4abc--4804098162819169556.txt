@@ -467,7 +467,7 @@
    [226]
     1 string data = "Then leave now alongside my dearest creation, and in time, I will see to your transformation."
    [227]
-    1 string data = "Yes... The four of you will be merged with the Dweller to become its conscience."
+    1 string data = "Yes... The four of you will be merged with the Dweller to become its consciousness."
    [228]
     1 string data = "In the distant future, you shall return together as one, the <color=bad>king</color> of a new race!"
    [229]
@@ -827,7 +827,7 @@
    [406]
     1 string data = "There's plenty of room for all of us!"
    [407]
-    1 string data = "A shared conscience..."
+    1 string data = "A shared consciousness..."
    [408]
     1 string data = "That'll do you some good, Caël, you've always been too serious."
    [409]
