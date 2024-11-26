@@ -15,9 +15,9 @@
    [0]
     1 string data = "Noví návštěvníci, vítejte v <color=location>První fázi žalu</color>."
    [1]
-    1 string data = "Prosím, připojte se k nám a dovolte si vyrovnat se s tím, jak vám to nejlépe vyhovuje. Pro dnešní noc budu k vaším službám."
+    1 string data = "Prosím, připojte se k nám a dovolte si vyrovnat se s tím, jak vám to nejlépe vyhovuje. Pro dnešní noc budu k vašim službám."
    [2]
-    1 string data = "Hlavně mějte na paměti úctu a podporu pro ostatní hosty a pokaždé si zdělte pohádky!"
+    1 string data = "Hlavně mějte na paměti úctu a podporu pro ostatní hosty a pokaždé si sdělte pohádky!"
    [3]
     1 string data = "Nechám vás, abyste se posadili. Dáte si něco k jídlu nebo pití, aby se vám ubezpečování lépe snášelo?"
    [4]
@@ -243,7 +243,7 @@
    [114]
     1 string data = "Jak nebezpečné to bude? My jsme cvičeni v boji proti nemrtvé magii."
    [115]
-    1 string data = "Nepochybně, ale Romaya je jednou ze <color=bad>Tří sester</color> a říká se o ní, že je ze všech ta nejobávanější."
+    1 string data = "To jste, ale Romaya je jednou ze <color=bad>Tří sester</color> a říká se o ní, že je ze všech ta nejobávanější."
    [116]
     1 string data = "Zda to znamená, že je mocnější než Bojovníci Slunovratu, snad nebudeme muset zjišťovat."
    [117]
@@ -683,9 +683,9 @@
    [334]
     1 string data = "Hej, ten duch zmizel! To je vaše práce?"
    [335]
-    1 string data = "Také jsem vyrůstal bez vědomí, kdy nastane další <color=bad>volání</color>. Ale stejně s dětmi soucítím…"
+    1 string data = "Také jsem vyrůstala bez vědomí, kdy nastane další <color=bad>volání</color>. Ale stejně s dětmi soucítím…"
    [336]
-    1 string data = "Jsme osvobozeni? Celý život jsem se připravoval na volání, ale teď… Ani nevím, co si o tom mám myslet… Děkujeme vám."
+    1 string data = "Jsme osvobozeni? Celý život jsem se připravovala na volání, ale teď… Ani nevím, co si o tom mám myslet… Děkujeme vám."
    [337]
     1 string data = "Ti, kdo se pokusí odejít, jsou prostě <color=bad>zavoláni</color> okamžitě. Nevím, proč jste sem přišli, ale je mi vás líto, že tu teď trčíte stejně tak…"
    [338]

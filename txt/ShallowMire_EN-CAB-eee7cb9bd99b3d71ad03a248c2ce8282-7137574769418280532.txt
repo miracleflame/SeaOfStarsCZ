@@ -21,7 +21,7 @@
    [3]
     1 string data = "Nic, co byste vy, Slunovratníci, nespravili, žano."
    [4]
-    1 string data = "V to aspoň doufám... Nerada bych se nakonec tama zaplantala nafurt!"
+    1 string data = "V to aspoň doufám... Nerada bych se nakonec tam zaplantala nafurt!"
    [5]
     1 string data = "Co tím myslíš?"
    [6]
@@ -49,7 +49,7 @@
    [17]
     1 string data = "Tydle věci se krmí, to jste neslyšali?"
    [18]
-    1 string data = "Aye, tu a tam Přiživovačka zapěje svým <color=bad>proklatým hlasem</color> a přiměje jednoho z obyvatel Přízračného ostrova, aby náměsíčně odkráčel do jejího doupěte a už se nikdy nevrátil..."
+    1 string data = "Aye, tu a tam Přiživovačka zapěje svým <color=bad>prokletým hlasem</color> a přiměje jednoho z obyvatel Přízračného ostrova, aby náměsíčně odkráčel do jejího doupěte a už se nikdy nevrátil..."
    [19]
     1 string data = "..."
    [20]

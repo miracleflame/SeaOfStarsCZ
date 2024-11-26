@@ -63,7 +63,7 @@
    [24]
     1 string data = "Magie není na hraní, Malkomude."
    [25]
-    1 string data = "Tak vy jste mi přišli vyhubovat taky?"
+    1 string data = "Tak vy jste mi taky přišli vyhubovat?"
    [26]
     1 string data = "NEMÁM VÁM CO ŘÍCT!"
    [27]

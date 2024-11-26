@@ -13,7 +13,7 @@
   1 Array Array (324 items)
    0 int size = 324
    [0]
-    1 string data = "Jsme tady! Jen se podívejte na tohle místo!!"
+    1 string data = "Jsme tady! Jen se na tohle místo podívejte!!"
    [1]
     1 string data = "Hotovo, kapitánko! Cedule by je měly dovést přímo k nám."
    [2]
@@ -29,7 +29,7 @@
    [7]
     1 string data = "Zadržte, cizinci!"
    [8]
-    1 string data = "Chceteli něco kapitánce, řeknete to mně!"
+    1 string data = "Chcete-li něco kapitánce, řeknete to mně!"
    [9]
     1 string data = "První důstojník <color=good>Yolanda Fortwal</color>, k vašim službám. Služba je vlastně moje druhé jméno!"
    [10]
@@ -37,9 +37,9 @@
    [11]
     1 string data = "Nalézt lék v jeskyni, jen abychom zjistili, že město mezitím vyhořelo? Hotovka!"
    [12]
-    1 string data = "Zůstat s jediním bodem života, aby nás velký padouch mohl 'příště zabít'? Dvakrát hotovka!"
+    1 string data = "Zůstat s jediným bodem života, aby nás velký padouch mohl 'zabít příště'? Dvakrát hotovka!"
    [13]
-    1 string data = "Sakra, už jsme dokonce byli i ve vězení, protože se během dialogu místo náhodného setkání objevili čtyři císařští vojáci!"
+    1 string data = "Sakra, už jsme dokonce byli i ve vězení, protože se čtyři císařští vojáci objevili během dialogu místo náhodného setkání!"
    [14]
     1 string data = "..."
    [15]
@@ -167,7 +167,7 @@
    [76]
     1 string data = "Přijímáme."
    [77]
-    1 string data = "HEJ VŠICHNI! ZÁPAS V PÁCE!!!"
+    1 string data = "HEJ, VŠICHNI! ZÁPAS V PÁCE!!!"
    [78]
     1 string data = "Jedem!"
    [79]
@@ -199,9 +199,9 @@
    [92]
     1 string data = "Na tři!"
    [93]
-    1 string data = "Jedna!"
+    1 string data = "Raz!"
    [94]
-    1 string data = "Dvě!"
+    1 string data = "Dva!"
    [95]
     1 string data = "Tři!"
    [96]
@@ -215,7 +215,7 @@
    [100]
     1 string data = "Promiň, kámo, rozkaz kapitánky."
    [101]
-    1 string data = "Děláš si prdel? To bylo úžasné!"
+    1 string data = "Děláš si srandu? To bylo úžasné!"
    [102]
     1 string data = "..."
    [103]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Severně od Svěžínu se nachází opuštěná laboratoř dávno zesnulého arkánového čaroděje."
    [113]
-    1 string data = "Po staletí ji nikdo neotevřel, ale podle pověstí ukrývá <color=magic>Minci nemrtvé úmluvy</color>"
+    1 string data = "Po staletí ji nikdo neotevřel, ale podle pověstí ukrývá <color=magic>Minci nemrtvé úmluvy</color>."
    [114]
     1 string data = "Proč ji sháníš?"
    [115]
@@ -273,7 +273,7 @@
    [129]
     1 string data = "Zadržte! Poslouchejte mě, než odejdeme."
    [130]
-    1 string data = "Všimli jste si těch <color=magic>Kotoučů</color> támhle v koutě? <color=good>Hodinářka</color> vymyslela tuhle hru - za ta léta se stala velmi populární!"
+    1 string data = "Všimli jste si těch <color=magic>Kotoučů</color> támhle v koutě? Tuhle hru vymyslela <color=good>Hodinářka</color> - za ta léta se stala velmi populární!"
    [131]
     1 string data = "...A?"
    [132]
@@ -285,7 +285,7 @@
    [135]
     1 string data = "Pravidla si můžete prohlédnout v sekci Jak hrát v nabídce pauzy."
    [136]
-    1 string data = "Neváhejte a vyzkoušejte si to hned, nebo můžeme rovnou zamířit do té Čarodějově laboratoře, jestli chcete!"
+    1 string data = "Neváhejte a vyzkoušejte si to hned, nebo můžeme rovnou zamířit do té Čarodějovy laboratoře, jestli chcete!"
    [137]
     1 string data = "No teda, vy jste to dokázali!"
    [138]
@@ -383,7 +383,7 @@
    [184]
     1 string data = "Tedy pokud u sebe náhodou nemáte <color=magic>Pečeť obchodníka</color>?"
    [185]
-    1 string data = "To jsem si myslel. No, přeji vám hezký den."
+    1 string data = "To jsem si myslela. No, přeji vám hezký den."
    [186]
     1 string data = "Aha! Tak to už mění věc, že ano?"
    [187]
@@ -411,7 +411,7 @@
    [198]
     1 string data = "Hlídat tohle místo je docela nuda. Pořád se nic neděje..."
    [199]
-    1 string data = "Teď bych si určitě šel zaplavat!"
+    1 string data = "Teď bych si určitě šla zaplavat!"
    [200]
     1 string data = "Miluju svou práci, stejně bych se celý den flákal na sluníčku!"
    [201]
@@ -433,7 +433,7 @@
    [209]
     1 string data = "Děti souhlasili, že si budou zase hrát spolu. Konečně!"
    [210]
-    1 string data = "Slyšel jsem, že se vrátila pirátská posádka. Zřejmě hledají nějakou minci?"
+    1 string data = "Slyšela jsem, že se vrátila pirátská posádka. Zřejmě hledají nějakou minci?"
    [211]
     1 string data = "Piráti se shromáždili v přístavu. Snad to jistě znamená, že se chystají odplout?"
    [212]
@@ -455,7 +455,7 @@
    [220]
     1 string data = "Našli jste <color=magic>Ulitu</color> v té truhle nahoře? Zajímalo by mě, k čemu jsou..."
    [221]
-    1 string data = "I čištění oblečení je zábava, když máš pláž!"
+    1 string data = "I praní oblečení je zábava, když máš pláž!"
    [222]
     1 string data = "Čarodějova opuštěná laboratoř je na sever od Svěžínu... Láká mě jít se tam podívat, jestli tam není nějaký poklad, ale ta věc nemá ani dveře!"
    [223]
@@ -503,7 +503,7 @@
    [244]
     1 string data = "Vidíte tu sochu Spáče? Můj kamarád říká, že je někde schovaná její starší verze, ale já mu nevěřím!"
    [245]
-    1 string data = "Jenom vnímej ten vánek..."
+    1 string data = "Jenom vnímejte ten vánek..."
    [246]
     1 string data = "Tenhle vor vypadá pěkně omšele. Doufám, že ho nikdo neplánuje použít..."
    [247]
@@ -515,13 +515,13 @@
    [250]
     1 string data = "Nechám to být, jen dokud si nebudete dál myslet, že jsem se to právě dozvěděl."
    [251]
-    1 string data = "Což jsem nepotřeboval slyšet, protože jsem to prakticky vymyslel!"
+    1 string data = "Což jsem nepotřebovala slyšet, protože jsem to prakticky vymyslela!"
    [252]
     1 string data = "Jednou jsem byl na výletě v <color=location>Lucentu</color> a tam měli taky stoličky na sezení."
    [253]
-    1 string data = "Jo? No, jednou to bylo ani ne DESET metrů od mé lodi!"
+    1 string data = "Jo? No, od mé lodi jednou byla ani ne DESET metrů!"
    [254]
-    1 string data = "Říkám ti, viděl jsem to na vlastní oči. Bylo to méně než sto metrů před mou lodí!"
+    1 string data = "Říkám ti, viděl jsem ji na vlastní oči. Byla méně než sto metrů před mou lodí!"
    [255]
     1 string data = "Tady můj přítel, který je jedním z mých mnoha známých po celém světě, mi právě řekl, co se stalo ve Větrných tunelech."
    [256]

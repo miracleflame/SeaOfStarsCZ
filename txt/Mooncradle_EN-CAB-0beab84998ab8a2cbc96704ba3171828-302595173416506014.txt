@@ -47,7 +47,7 @@
    [16]
     1 string data = "Proč ne?"
    [17]
-    1 string data = "Prý jsou v hoře otvory, kterými fouká vítr, a tím hraje melodii, která ho udržuje ve spánku."
+    1 string data = "Prý jsou v hoře otvory, kterými fouká vítr, a tím hraje melodii, co ho udržuje ve spánku."
    [18]
     1 string data = "Páni..."
    [19]

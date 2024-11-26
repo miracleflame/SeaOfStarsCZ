@@ -59,7 +59,7 @@
    [22]
     1 string data = "Nebojte se, vašeho stařešinu najdeme."
    [23]
-    1 string data = "Zlý čaroděj, říkáte, jdeme dnu!"
+    1 string data = "A toho zlého čaroděje dostaneme!"
    [24]
     1 string data = "Jaké to štěstí! Děkuji vám!"
    [25]

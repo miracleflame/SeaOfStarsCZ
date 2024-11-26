@@ -27,11 +27,11 @@
    [6]
     1 string data = "Hortenzie, jejíž první láskou byla hudba, prohlásila, že chce zanechat pirátského života a věnovat se naplno svému umění."
    [7]
-    1 string data = "Vždy oddaný přesvědčení, že opravdovými poklady jsou ty, které člověk objeví na cestě, přijal Vyzývatel bouří její rezignaci... špatně."
+    1 string data = "Vždy oddaný přesvědčení, že opravdové poklady člověk objeví na cestě, přijal Vyzývatel bouří její rezignaci... špatně."
    [8]
     1 string data = "Naprosto uražen přestal vyvolávat vítr do plachet a zastavil loď přímo uprostřed oceánu."
    [9]
-    1 string data = ""A tady zůstaneme," řekl, "dokud si naše NAVIGÁTORKA nevyžene z hlavy ten hloupý nápad!""
+    1 string data = ""A tady zůstaneme," řekl, "dokud si naše NAVIGÁTORKA nevyžene ten hloupý nápad z hlavy!""
    [10]
     1 string data = "Ale Hortenzie se už definitivně rozhodla."
    [11]
@@ -41,7 +41,7 @@
    [13]
     1 string data = "Pak se jednoho dne po západu slunce piráti štvaní hladem a žízní vzbouřili a donutili svého kapitána skočit z prkna."
    [14]
-    1 string data = "A jak se potápěl do hlubin, Vyzývatel bouří proklel svou posádku a vyčaroval věčné vězení."
+    1 string data = "A jak se potápěl do hlubin, Vyzývatel bouří svou posádku proklel a vyčaroval pro ně věčné vězení."
    [15]
     1 string data = "V <color=bad>Moři nočních můr</color> jim přivolával smrtonosnou bouři, aby je sužovala navěky."
    [16]
@@ -63,15 +63,15 @@
    [24]
     1 string data = "Dnes už málokdo ví, že Kunus'nuku byla vykázána již před Velkým přivoláním."
    [25]
-    1 string data = "Přípravy začaly už několik měsíců předem, ještě v době, kdy měli Ještěří lidé navrch."
+    1 string data = "Přípravy začaly už několik měsíců předem, ještě v době, kdy měli ještěří lidé navrch."
    [26]
-    1 string data = "Stalo se to ke konci bitvy vleklé desetiletí, poté, co bylo jasné, že Molekinští mágové zvítězí."
+    1 string data = "Stalo se to ke konci bitvy vleklé desetiletí, poté, co bylo jasné, že molekinští mágové zvítězí."
    [27]
     1 string data = "Této noci všech nocí se vzduchem nesly časné pokřiky vítězství po celém souostroví."
    [28]
-    1 string data = "Náhle se roztrhla sama obloha a z ní se vynořil obrovský Nebeský had, aby rozséval spoušť."
+    1 string data = "Náhle se samotná obloha roztrhla a z ní se vynořil obrovský Nebeský had, aby rozséval spoušť."
    [29]
-    1 string data = "Historici se dodnes přou o původu Nebeského hada."
+    1 string data = "Historici se dodnes o původu Nebeského hada přou."
    [30]
     1 string data = "Někteří říkají, že je to monstrum čirého zla, které bylo odcizeno z jiné roviny existence a donuceno zůstat zde."
    [31]

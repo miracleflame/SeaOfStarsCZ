@@ -21,7 +21,7 @@
    [3]
     1 string data = "Tohle musí být ono."
    [4]
-    1 string data = "No jo, tá opravdu má styl!"
+    1 string data = "No jo, ta má opravdu styl!"
    [5]
     1 string data = "Buďte ostražití. <color=bad>Romaya</color> by mohla být doma."
    [6]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "Jak se dalo očekávat, jsi přirozený talent."
    [26]
-    1 string data = "Šťastnou cestu, mládeži."
+    1 string data = "Šťastnou cestu, mladí dobrodruzi."
    [27]
     1 string data = "Vrátili jste se s kamenem duší. Docela působivé, ačkoli předpokládám, že to znamená, že se na mě má paní bude dosti zlobit."
    [28]

@@ -13,7 +13,7 @@
   1 Array Array (55 items)
    0 int size = 55
    [0]
-    1 string data = "Tamhle je!"
+    1 string data = "Támhle je!"
    [1]
     1 string data = "HEJ, POČKEJTE!!"
    [2]
