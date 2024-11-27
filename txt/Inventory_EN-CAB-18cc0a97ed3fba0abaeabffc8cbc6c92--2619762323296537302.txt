@@ -1091,7 +1091,7 @@
    [538]
     1 string data = "Prokletý dublon"
    [539]
-    1 string data = "Kulaté s lebkou uprostřed."
+    1 string data = "Kulatý s lebkou uprostřed."
    [540]
     1 string data = "Získáno: <color=magic>[name]</color>!"
    [541]

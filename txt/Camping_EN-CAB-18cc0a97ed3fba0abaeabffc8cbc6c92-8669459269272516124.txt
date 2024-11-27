@@ -251,7 +251,7 @@
    [118]
     1 string data = "Tihle lidé potřebují nový začátek. Vím přesně, jak to naplánovat!"
    [119]
-    1 string data = "Stormcaller… Nejvyšší čas, aby s tím někdo skoncoval."
+    1 string data = "Vyzyvatel bouří… Nejvyšší čas, aby s tím někdo skoncoval."
    [120]
     1 string data = "…"
    [121]

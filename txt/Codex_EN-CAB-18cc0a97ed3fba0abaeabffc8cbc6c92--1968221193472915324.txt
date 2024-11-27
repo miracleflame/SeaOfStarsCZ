@@ -35,7 +35,7 @@
    [10]
     1 string data = "Předměty"
    [11]
-    1 string data = "Předměty (limit nosnosti 10) jsou svačiny <color=menuhighlight>připravené při táboření</color> nebo <color=menuhighlight>zakoupené v obchodech</color>. Možná je čas na svačinu, když potřebujete obnovit trochu <color=menuhighlight>Bodů Života</color>, ale nemůžete si dovolit kouzlo nebo potřebujete <color=menuhighlight>Bodů Many</color>, ale nemáte čas zaútočit pro regeneraci!"
+    1 string data = "Předměty jsou svačiny <color=menuhighlight>připravené při táboření</color> nebo <color=menuhighlight>zakoupené v obchodech</color>. Možná je čas na svačinu, když potřebujete obnovit trochu <color=menuhighlight>Bodů Života</color>, ale nemůžete si dovolit kouzlo nebo potřebujete <color=menuhighlight>Bodů Many</color>, ale nemáte čas zaútočit pro regeneraci!"
    [12]
     1 string data = "Posílení pomocí Živé many"
    [13]

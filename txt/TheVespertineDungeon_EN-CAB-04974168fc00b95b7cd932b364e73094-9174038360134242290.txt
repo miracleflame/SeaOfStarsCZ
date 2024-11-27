@@ -103,7 +103,7 @@
    [44]
     1 string data = "*Aye, kouzelná mapa se spojuje s mořem. Měla by vám pomoct udělat si vobraz o vokolí."
    [45]
-    1 string data = "*Co kdyby jste se chopili kormidla? Přestávka by im docela padla."
+    1 string data = "*Co kdyby jste se chopili kormidla? Přestávka by mi docela padla."
    [46]
     1 string data = "Vypadá to jako deník."
    [47]

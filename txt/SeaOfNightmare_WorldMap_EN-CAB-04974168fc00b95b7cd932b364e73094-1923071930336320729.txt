@@ -15,7 +15,7 @@
    [0]
     1 string data = "*Fajn, kouknem se jak poplujete!"
    [1]
-    1 string data = "*Tři ostrovy, na každém jedena bleskozvod. Jakmile budou venku, můžeme zaútočit na Vodní vír a přenést boj k Vyzývateli bouří!"
+    1 string data = "*Tři ostrovy, na každém jeden bleskozvod. Jakmile budou venku, můžeme zaútočit na Vodní vír a přenést boj k Vyzývateli bouří!"
    [2]
     1 string data = "Během plavby držte <button=Boat_Accelerate> pro pohyb vpřed a <button=MoveHorizontal> pro kormidlování lodě."
    [3]

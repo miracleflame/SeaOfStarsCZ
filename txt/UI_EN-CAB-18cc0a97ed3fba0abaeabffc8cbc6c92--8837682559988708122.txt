@@ -563,7 +563,7 @@
    [274]
     1 string data = "V Inventáři [množství]"
    [275]
-    1 string data = "ÚROVEŇ VZROSTLA!"
+    1 string data = "ÚROVEŇ STOUPLA!"
    [276]
     1 string data = "Společník"
    [277]
