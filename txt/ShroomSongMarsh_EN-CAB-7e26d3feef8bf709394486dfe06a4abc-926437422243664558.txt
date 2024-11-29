@@ -13,133 +13,133 @@
   1 Array Array (77 items)
    0 int size = 77
    [0]
-    1 string data = "An abandoned house?"
+    1 string data = "Opuštěný dům?"
    [1]
-    1 string data = "Welcome, welcome."
+    1 string data = "Vítejte, vítejte."
    [2]
-    1 string data = "I am <color=good>Yomara</color>, a simple hermit."
+    1 string data = "Jsem <color=good>Yomara</color>, prostá poustevnice."
    [3]
-    1 string data = "We've already met your sister, the necromancer!"
+    1 string data = "Jo, tvoji nekromantskou sestru už jsme potkali!"
    [4]
-    1 string data = "Please, there's no need for that."
+    1 string data = "Prosím, tohle si můžeš odpustit."
    [5]
-    1 string data = "Romaya's evil ways are precisely that. Romaya's."
+    1 string data = "Romayino páchání zla se týká jen jí samotné."
    [6]
-    1 string data = "I am but a neutral observer in the affairs of this world."
+    1 string data = "Já jsem pouze nestranný pozorovatel záležitostí tohoto světa."
    [7]
-    1 string data = "You're a seer, aren't you? Does that mean we're getting a prophecy again?"
+    1 string data = "Vy jste vědma, že? Znamená to, že dostaneme další proroctví?"
    [8]
-    1 string data = "Why, if it ain't the Warrior Cook!"
+    1 string data = "No jestlipak to není Válečný kuchař!"
    [9]
-    1 string data = "I have been expecting you."
+    1 string data = "Očekávala jsem tě."
    [10]
-    1 string data = "Please, eat a fruit from my tree."
+    1 string data = "Prosím, vem si ovoce z mého stromu."
    [11]
-    1 string data = "Really? Don't mind if I do!"
+    1 string data = "Vážně? Tak to vám moc děkuju!"
    [12]
-    1 string data = "Just one now."
+    1 string data = "Jenom jedno."
    [13]
-    1 string data = "The taste is unbelievable! What are they called?"
+    1 string data = "Ta chuť je neuvěřitelná! Jak se jmenují?"
    [14]
-    1 string data = "Pears."
+    1 string data = "Hrušky."
    [15]
-    1 string data = "Well, I would never use pears for cooking, they're perfect just the way they are!"
+    1 string data = "No, nikdy bych s hruškami nevařil, jsou dokonalé samy od sebe!"
    [16]
-    1 string data = "I knew you were the chosen one."
+    1 string data = "Já věděla, že ty jsi ten vyvolený."
    [17]
     1 string data = "Hmm?"
    [18]
-    1 string data = "Being a seer has its perks. Like knowing who is capable of fully appreciating a fresh pear."
+    1 string data = "Být vědmou má své výhody. Třeba vědět, kdo dokáže naplno ocenit čerstvou hrušku."
    [19]
     1 string data = "..."
    [20]
-    1 string data = "So..."
+    1 string data = "Takže..."
    [21]
-    1 string data = "That's it?"
+    1 string data = "To je všechno?"
    [22]
-    1 string data = "Yes. The threads of fate seldom speak to me about the near future."
+    1 string data = "Ano. Příze osudu mi blízkou budoucnost sdělují jen zřídkakdy."
    [23]
-    1 string data = "I only deal in the cataloging of grander arcs."
+    1 string data = "Zabývám se pouze zaznamenáváním dlouhodobějších událostí."
    [24]
-    1 string data = "My apologies, but I have no insights for you."
+    1 string data = "Omlouvám se, ale pro vás žádná proroctví nemám."
    [25]
-    1 string data = "You..."
+    1 string data = "Vy..."
    [26]
-    1 string data = "You are..."
+    1 string data = "Vy jste..."
    [27]
-    1 string data = "A cold breeze is rising. Why don't you come in for a little bit?"
+    1 string data = "Zvedá se studený vítr. Nechtěli byste jít na chvíli dál?"
    [28]
     1 string data = "..."
    [29]
-    1 string data = "Now, which volume was it..."
+    1 string data = "Tak, ve kterém svazku to bylo..."
    [30]
-    1 string data = "Probably somewhere with my older work..."
+    1 string data = "Asi to bude v jednom z mých starších děl..."
    [31]
-    1 string data = "<color=good>The spirit that will carry the night</color>, I was really overthinking titles back then..."
+    1 string data = "<color=good>Duch, jenž ponese noc</color>, tenkrát jsem ty názvy promýšlela až moc..."
    [32]
-    1 string data = "<color=bad>Primal Fear</color>, no..."
+    1 string data = "<color=bad>Prvotní strach</color>, ne..."
    [33]
-    1 string data = "Oh, that's where I put <color=good>Ovate of Seasons</color>!"
+    1 string data = "Aha, tak sem jsem dala <color=good>Ovata ročních období</color>!"
    [34]
     1 string data = "..."
    [35]
-    1 string data = "Ah, there it is! <color=magic>Ethereal Occurrences Vol. 2</color>."
+    1 string data = "Á, tady to je! <color=magic>Éterické jevy, část 2.</color>."
    [36]
-    1 string data = "Let's see here..."
+    1 string data = "Tak se na to podívejme..."
    [37]
     1 string data = "..."
    [38]
-    1 string data = "Oh yes, I remember now."
+    1 string data = "Ano, už si vzpomínám."
    [39]
-    1 string data = "Another prophecy, this is exciting!"
+    1 string data = "Další proroctví, tohle je tak vzrušující!"
    [40]
-    1 string data = "*ahem*... Immortal Alchemist, step forward!"
+    1 string data = "*ehm*... Nesmrtelný alchymisto, předstupte!"
    [41]
-    1 string data = "Excuse me?"
+    1 string data = "Co prosím?"
    [42]
-    1 string data = "You can fancy yourself a god if you like, but you remain bound by fate all the same."
+    1 string data = "Chcete-li, klidně se považujte za boha, ale osudem jste vázán stejně jako každý jiný."
    [43]
-    1 string data = "Now, listen up."
+    1 string data = "A teď dobře poslouchejte."
    [44]
-    1 string data = "During your travels with these young adventurers, you will meet <color=magic>the dead of a forgotten race</color>."
+    1 string data = "Na cestách s těmito mladými dobrodruhy potkáte <color=magic>mrtvé lidi zapomenutého národa</color>."
    [45]
-    1 string data = "Among them will be one asking to fight alongside Solstice Warriors."
+    1 string data = "Jeden z nich bude žádat, aby mohl bojovat po boku Bojovníků Slunovratu."
    [46]
-    1 string data = "Be welcoming, for this entity's unbreakable will is the key to achieving the one great feat of alchemy that eludes you still."
+    1 string data = "Buďte vlídný, neboť nezlomná vůle této bytosti je klíčem k úspěchu v tom velkém alchymistickém počinu, jenž vám stále uniká."
    [47]
     1 string data = "!!!"
    [48]
-    1 string data = "What is she talking about?"
+    1 string data = "O čem to mluví?"
    [49]
-    1 string data = "(Living Glass...)"
+    1 string data = "(Živoucí sklo...)"
    [50]
-    1 string data = "(Could it truly work at last?)"
+    1 string data = "(Mohlo by to konečně fungovat?)"
    [51]
-    1 string data = "Thank you, Crone of the Marsh."
+    1 string data = "Děkuji ti, Babizno z Bažiny."
    [52]
-    1 string data = "That will be all."
+    1 string data = "To bude všechno."
    [53]
-    1 string data = "I carry a small inventory of items for sale, and the fireplace is yours if you need to cook or rest."
+    1 string data = "Nabízím malé množství předmětů na prodej a jestli si potřebujete odpočinout nebo něco uvařit, krb je váš."
    [54]
-    1 string data = "Oh, and you will need a key for the gate south of here. Here."
+    1 string data = "A taky budete potřebovat klíč k bráně na jihu. Tady."
    [55]
-    1 string data = "Thanks, Yomara! "
+    1 string data = "Díky, Yomaro! "
    [56]
-    1 string data = "Be well."
+    1 string data = "Šťastnou cestu."
    [57]
-    1 string data = "Feel free to rest at the fireplace. Did you need anything from my storage?"
+    1 string data = "Klidně si odpočiňte u krbu. Potřebujete něco z mých zásob?"
    [58]
-    1 string data = "Looks like this big mushroom should react to the Time of Day."
+    1 string data = "Vypadá to, že tahle velká houba by měla reagovat na denní dobu."
    [59]
-    1 string data = "I know why you are here, but as always, I must remain neutral."
+    1 string data = "Vím, proč jste tady, ale jako vždy musím zůstat nestranná."
    [60]
-    1 string data = "This means I can neither help you, nor can I prevent you from staring into my <color=magic>cauldron</color>."
+    1 string data = "To znamená, že vám nemůžu ani pomoct, ani vám zabránit nahlédnout do mého <color=magic>kotle</color>."
    [61]
     1 string data = "??"
    [62]
-    1 string data = "As the liquid stirs, a vision appears..."
+    1 string data = "Kapalina se víří a objevuje se vize..."
    [63]
-    1 string data = "These runes... Perhaps we should take some notes?"
+    1 string data = "Tyhle runy... Možná bychom si je měli poznačit?"
    [64]
     1 string data = "Oh. you want to play <color=magic>Wheels</color> with me?"
    [65]
@@ -161,8 +161,8 @@
    [73]
     1 string data = "You prefer to play some other time?"
    [74]
-    1 string data = "Yomara's pear tree."
+    1 string data = "Yomařina hrušeň."
    [75]
-    1 string data = "The bookshelf is filled with dusty tomes."
+    1 string data = "Tato police je plná zaprášených knih."
    [76]
-    1 string data = "Full of incoherent notes that seem to come from a racing mind."
+    1 string data = "Plná nesouvislých poznámek, které byly pravděpodobně napsány ve spěchu."

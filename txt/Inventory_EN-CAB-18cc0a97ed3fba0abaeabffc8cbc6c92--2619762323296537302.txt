@@ -523,7 +523,7 @@
    [254]
     1 string data = "Šance na automatické načasování bloků."
    [255]
-    1 string data = "V kolektivním stavu vyšší koncentrace mají členové party <color=magic>35%</color> šanci blokovat příchozí útoky. Pojistka, která stále umožňuje hráči, aby bloky načasoval sám."
+    1 string data = "V kolektivním stavu vyšší koncentrace mají členové družiny <color=magic>35%</color> šanci blokovat příchozí útoky. Pojistka, která stále umožňuje hráči, aby bloky načasoval sám."
    [256]
     1 string data = "Střep adamantu"
    [257]

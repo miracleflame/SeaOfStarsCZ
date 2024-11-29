@@ -21,7 +21,7 @@
    [3]
     1 string data = "Bárka, loď, bárka, loď, bárka, loď, bárka, loď, Svěžín!"
    [4]
-    1 string data = "Tady není žádná loď. Raději se vydejte do Svěžínu na východě!"
+    1 string data = "Tady není žádná loď. Raději se vydejte do Svěžína na východě!"
    [5]
     1 string data = "Jestli hledáte loď, už jste skoro tam."
    [6]

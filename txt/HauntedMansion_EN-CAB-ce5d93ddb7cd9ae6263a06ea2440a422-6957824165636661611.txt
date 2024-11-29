@@ -49,7 +49,7 @@
    [17]
     1 string data = "Asasínka Seraï se přidává do družiny!"
    [18]
-    1 string data = "Ke změně složení party použijte příkaz <color=magic>Pořadí</color> v menu hry nebo <color=magic>Vystřídat</color> v souboji!"
+    1 string data = "Ke změně složení družiny použijte příkaz <color=magic>Pořadí</color> v menu hry nebo <color=magic>Vystřídat</color> v souboji!"
    [19]
     1 string data = "Dobrá, náš úkol v této misi jsme splnili."
    [20]
@@ -295,7 +295,7 @@
    [140]
     1 string data = "Když se to stalo, zrovna jsme přímo tady večeřeli."
    [141]
-    1 string data = "Jednoho dne jsem se vzbudil a Noční závoj už tady byl."
+    1 string data = "Jednoho dne jsem se vzbudil a Noční závoj tady najednou byl."
    [142]
     1 string data = "Nejdřív vám řeknou, ať vyjádříte svůj názor, a potom jste podle nich mrzout..."
    [143]
@@ -371,7 +371,7 @@
    [178]
     1 string data = "Ahoj. Vy teda vypadáte divně, jste snad naživu nebo co?"
    [179]
-    1 string data = "Ahoj, příteli, hledáme taneční sál. Věděla bys, kde je?"
+    1 string data = "Ahoj, kamarádko, hledáme taneční sál. Věděla bys, kde je?"
    [180]
     1 string data = "Hm? Ano, je někde za těmihle dveřmi."
    [181]

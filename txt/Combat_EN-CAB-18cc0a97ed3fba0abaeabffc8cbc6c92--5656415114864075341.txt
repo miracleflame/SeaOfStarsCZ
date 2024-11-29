@@ -37,9 +37,9 @@
    [11]
     1 string data = "Měsíční útok (BM +3)"
    [12]
-    1 string data = "Zaměřte se na lunární runu, abyste zvýšili poškození skupiny."
+    1 string data = "Zaměřte se na lunární runu, abyste zvýšili poškození družiny."
    [13]
-    1 string data = "Léčit partu."
+    1 string data = "Léčit družinu."
    [14]
     1 string data = "Posílení"
    [15]

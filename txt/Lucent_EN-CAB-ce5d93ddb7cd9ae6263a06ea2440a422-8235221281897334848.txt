@@ -325,7 +325,7 @@
    [155]
     1 string data = "Mlžný stařešina mi sdělil, že mám potenciál, ale že nejdřív musím "pohlédnout do noci v mém nitru.""
    [156]
-    1 string data = "Podle mně měl namysli tohle… Pomyšlení na ztrátu milované osoby."
+    1 string data = "Podle mě měl namysli tohle… Pomyšlení na ztrátu milované osoby."
    [157]
     1 string data = "Cítil jsem sílu, ale nedokázal jsem ji využít…"
    [158]
@@ -415,11 +415,11 @@
    [200]
     1 string data = "Počkat…"
    [201]
-    1 string data = "Tak tedy vyrazíme. Držte se u mě všichni."
+    1 string data = "Tak tedy vyrazíme. Držte se u mě, všichni."
    [202]
     1 string data = "Kupředu, k očistě!"
    [203]
-    1 string data = "Hmm? Hádám tě nenapadlo chtít jít s námi?"
+    1 string data = "Hmm? Snad tě nenapadlo chtít jít s námi?"
    [204]
     1 string data = "Hele, umím bojovat a jsem fajn podpora!"
    [205]
@@ -473,7 +473,7 @@
    [229]
     1 string data = "Děkuji vám, mládeži. Doženu vás, až budu připraven."
    [230]
-    1 string data = "Já jdu hned. Uvidíme se v Svěžíně."
+    1 string data = "Já jdu hned. Uvidíme se ve Svěžíně."
    [231]
     1 string data = "Tak jste se tedy všichni sebrali a šli to udělat po svém, blahopřeji!"
    [232]
@@ -517,7 +517,7 @@
    [251]
     1 string data = "Ne"
    [252]
-    1 string data = "Doooobrý večer všem! Přivítejte, prosím, našeho nového soutěžícího, [MAINCHAR] !"
+    1 string data = "Doooobrý večer všem! Přivítejte, prosím, našeho nového soutěžícího, [MAINCHAR]!"
    [253]
     1 string data = "Před zatměním nemá smysl riskovat. Měli bychom si odpočinout v hostinci."
    [254]
@@ -527,7 +527,7 @@
    [256]
     1 string data = "Hledáte vybavení?"
    [257]
-    1 string data = "Hledáte věcičky?"
+    1 string data = "Hledáte potraviny?"
    [258]
     1 string data = "…"
    [259]

@@ -43,7 +43,7 @@
    [14]
     1 string data = "A jestli se Spáč vzbudí..."
    [15]
-    1 string data = "Navíc ucpal tunel napájející větrník velkého výtahu, takže ani nemůžeme zajít do <color=location>Svěžínu</color> pro pomoc..."
+    1 string data = "Navíc ucpal tunel napájející větrník velkého výtahu, takže ani nemůžeme zajít do <color=location>Svěžína</color> pro pomoc..."
    [16]
     1 string data = "Jestli to bude takhle pokračovat dál, Malkomudovy příšery se začnou valit z dolu, a pak..."
    [17]
@@ -165,7 +165,7 @@
    [75]
     1 string data = "Opět vám děkuji, že jste nám s Malkomudem pomohli. Slibuji, že od teď se budeme chovat lépe."
    [76]
-    1 string data = "Pokud se chcete dostat do Svěžínu, můžete použít ten velký létající výtah jižně od vesnice."
+    1 string data = "Pokud se chcete dostat do Svěžína, můžete použít ten velký létající výtah jižně od vesnice."
    [77]
     1 string data = "Dobrý den, Bojovníci Slunovratu. Od té doby, co jste nám pomohli, šlo s Malkomudem všechno dobře."
    [78]
@@ -243,7 +243,7 @@
    [114]
     1 string data = "Tohle je zatím mé nejlepší dílo, ale musím se neustále zlepšovat."
    [115]
-    1 string data = "Cože? V Svěžínu je modelka, která by chtěla zachytit svou podstatu?"
+    1 string data = "Cože? V Svěžíně je modelka, která by chtěla zachytit svou podstatu?"
    [116]
     1 string data = "To je přesně ten druh inspirace, který jsem hledal!"
    [117]
@@ -299,7 +299,7 @@
    [142]
     1 string data = "Kdo ví, jaký přínos získáte úlevou od stresu."
    [143]
-    1 string data = "To, co se stalo v Svěžínu, je hrozné. Jakmile se připravíme, vyšleme tam pomocný tým!"
+    1 string data = "To, co se stalo v Svěžíně, je hrozné. Jakmile se připravíme, vyšleme tam pomocný tým!"
    [144]
     1 string data = "Nějaké těžařské nářadí."
    [145]

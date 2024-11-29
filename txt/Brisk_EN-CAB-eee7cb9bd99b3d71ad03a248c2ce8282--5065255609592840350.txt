@@ -237,7 +237,7 @@
    [111]
     1 string data = "Kapitánko?"
    [112]
-    1 string data = "Severně od Svěžínu se nachází opuštěná laboratoř dávno zesnulého arkánového čaroděje."
+    1 string data = "Severně od Svěžína se nachází opuštěná laboratoř dávno zesnulého arkánového čaroděje."
    [113]
     1 string data = "Po staletí ji nikdo neotevřel, ale podle pověstí ukrývá <color=magic>Minci nemrtvé úmluvy</color>."
    [114]
@@ -457,7 +457,7 @@
    [221]
     1 string data = "I praní oblečení je zábava, když máš pláž!"
    [222]
-    1 string data = "Čarodějova opuštěná laboratoř je na sever od Svěžínu... Láká mě jít se tam podívat, jestli tam není nějaký poklad, ale ta věc nemá ani dveře!"
+    1 string data = "Čarodějova opuštěná laboratoř je na sever od Svěžína... Láká mě jít se tam podívat, jestli tam není nějaký poklad, ale ta věc nemá ani dveře!"
    [223]
     1 string data = "Otevřeli jste průchod k arkánovým ruinám? No, stejně se mi tam nechce, zní to nebezpečně!"
    [224]
@@ -473,7 +473,7 @@
    [229]
     1 string data = "Až vyrostu, chci být pirátem!"
    [230]
-    1 string data = "Zkoušeli jste někdy rybařit na jezeře severně od Svěžínu? Chodím tam pořád odpočívat!"
+    1 string data = "Zkoušeli jste někdy rybařit na jezeře severně od Svěžína? Chodím tam pořád odpočívat!"
    [231]
     1 string data = "Dnes připravuji synovo oblíbené jídlo."
    [232]

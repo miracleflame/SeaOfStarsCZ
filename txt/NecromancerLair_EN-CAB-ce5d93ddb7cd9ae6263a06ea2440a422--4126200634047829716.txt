@@ -59,9 +59,9 @@
    [22]
     1 string data = "Vzdávám se... prozatím."
    [23]
-    1 string data = "Tady máte váš kámen duší. "
+    1 string data = "Tady máte ten váš kámen duší."
    [24]
-    1 string data = "A teď odejděte!"
+    1 string data = "A teď odsud zmizte!"
    [25]
     1 string data = "..."
    [26]
