@@ -117,7 +117,7 @@
    [51]
     1 string data = "*DRŽTE SE!!!"
    [52]
-    1 string data = "Konečně na svobode..."
+    1 string data = "Konečně svoboda..."
    [53]
     1 string data = "A je po všem!"
    [54]
@@ -125,7 +125,7 @@
    [55]
     1 string data = "A proč vůbec potřebujete tuto loď?"
    [56]
-    1 string data = "Musíme pomoci s přemístěním jistých lidí. Ale klidně si odechni, právě jsi se vysvobodila."
+    1 string data = "Musíme pomoci s přestěhováním jistých lidí. Ale klidně si oddechni, právě jsi se vysvobodila."
    [57]
     1 string data = "*Voddáchnu si pak, chlapče! Něco vám dlužím a vaši přátelé jsou i moji přátelé."
    [58]

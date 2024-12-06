@@ -43,13 +43,13 @@
    [14]
     1 string data = "Hrušky."
    [15]
-    1 string data = "No, nikdy bych s hruškami nevařil, jsou dokonalé samy od sebe!"
+    1 string data = "No, nikdy bych s hruškami nevařil, jsou dokonalé samy o sobě!"
    [16]
     1 string data = "Já věděla, že ty jsi ten vyvolený."
    [17]
     1 string data = "Hmm?"
    [18]
-    1 string data = "Být vědmou má své výhody. Třeba vědět, kdo dokáže naplno ocenit čerstvou hrušku."
+    1 string data = "Být vědmou má své výhody. Třeba vědět, kdo uní naplno ocenit čerstvou hrušku."
    [19]
     1 string data = "..."
    [20]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "..."
    [35]
-    1 string data = "Á, tady to je! <color=magic>Éterické jevy, část 2.</color>."
+    1 string data = "Á, tady to je! <color=magic>Éterické jevy, 2. svazek</color>."
    [36]
     1 string data = "Tak se na to podívejme..."
    [37]
@@ -103,7 +103,7 @@
    [44]
     1 string data = "Na cestách s těmito mladými dobrodruhy potkáte <color=magic>mrtvé lidi zapomenutého národa</color>."
    [45]
-    1 string data = "Jeden z nich bude žádat, aby mohl bojovat po boku Bojovníků Slunovratu."
+    1 string data = "Jeden z nich bude žádat o možnost bojovat po boku Bojovníků Slunovratu."
    [46]
     1 string data = "Buďte vlídný, neboť nezlomná vůle této bytosti je klíčem k úspěchu v tom velkém alchymistickém počinu, jenž vám stále uniká."
    [47]

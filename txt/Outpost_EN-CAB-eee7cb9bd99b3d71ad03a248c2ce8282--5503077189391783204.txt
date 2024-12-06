@@ -243,7 +243,7 @@
    [114]
     1 string data = "Tohle je zatím mé nejlepší dílo, ale musím se neustále zlepšovat."
    [115]
-    1 string data = "Cože? V Svěžíně je modelka, která by chtěla zachytit svou podstatu?"
+    1 string data = "Cože? Ve Svěžíně je modelka, která by chtěla zachytit svou podstatu?"
    [116]
     1 string data = "To je přesně ten druh inspirace, který jsem hledal!"
    [117]
@@ -299,7 +299,7 @@
    [142]
     1 string data = "Kdo ví, jaký přínos získáte úlevou od stresu."
    [143]
-    1 string data = "To, co se stalo v Svěžíně, je hrozné. Jakmile se připravíme, vyšleme tam pomocný tým!"
+    1 string data = "To, co se stalo ve Svěžíně, je hrozné. Jakmile se připravíme, vyšleme tam pomocný tým!"
    [144]
     1 string data = "Nějaké těžařské nářadí."
    [145]

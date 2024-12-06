@@ -33,7 +33,7 @@
    [9]
     1 string data = "Čaroděj Malkomud"
    [10]
-    1 string data = "Kupředu do Svěžínu"
+    1 string data = "Kupředu do Svěžína"
    [11]
     1 string data = "Čestné pirátské"
    [12]

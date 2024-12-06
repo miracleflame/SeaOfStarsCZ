@@ -333,7 +333,7 @@
    [159]
     1 string data = "Svět, na němž zbyli pouze tři Bojovníci Slunovratu, má zdánlivě mizivou šanci po vzkříšení Přiživovače sváru, jenž zvěstuje návrat teroru považovaného navždy za minulost."
    [160]
-    1 string data = "Nyní, když je závoj lží odkryt a kus jejich nevinnosti pryč, se naši hrdinové vrací do Svěžínu, zatímco jejich ředitel hledá způsob, jak se dostat na ostrov Mesa."
+    1 string data = "Nyní, když je závoj lží odkryt a kus jejich nevinnosti pryč, se naši hrdinové vrací do Svěžína, zatímco jejich ředitel hledá způsob, jak se dostat na ostrov Mesa."
    [161]
     1 string data = "Odhodláni pomoci přeživším katastrofy, zanedlouho se vrhnou střemhlav do středu bouře, aby čelili legendární starodávné kletbě..."
    [162]

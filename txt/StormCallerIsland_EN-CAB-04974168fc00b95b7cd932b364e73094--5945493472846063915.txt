@@ -37,7 +37,7 @@
    [11]
     1 string data = "Uf... Dokázali jsme to..."
    [12]
-    1 string data = "Blíží se přílivová vlna! Na loď!"
+    1 string data = "Blíží se přílivová vlna! Honem na loď!"
    [13]
     1 string data = "*Aye, jenom hoď <color=magic>tuto perlu</color> do vody, kde jste bojovali s Vyzyvatelem bouří."
    [14]

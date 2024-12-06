@@ -119,7 +119,7 @@
    [52]
     1 string data = "Občan Svěžína"
    [53]
-    1 string data = "Díte z Svěžínu"
+    1 string data = "Díte z Svěžína"
    [54]
     1 string data = "Valtraid"
    [55]

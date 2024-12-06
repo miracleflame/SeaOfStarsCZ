@@ -115,7 +115,7 @@
    [50]
     1 string data = "Byl to dobrý pocit, použít své schopnosti, abychom pomohli."
    [51]
-    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Svěžínu."
+    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Svěžína."
    [52]
     1 string data = "Měli bychom se jít podívat, co nám ti piráti mohou nabídnout?"
    [53]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Jsem rád, že jsme dokázali pomoci."
    [58]
-    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Svěžínu."
+    1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Svěžína."
    [59]
     1 string data = "Taky nemám zrovna dobrý pocit z jednání s piráty, ale potřebujeme se svézt na lodi…"
    [60]
@@ -151,7 +151,7 @@
    [68]
     1 string data = "Nemůžu uvěřit, že máme schůzku s piráty! To je neskutečné!"
    [69]
-    1 string data = ""Mince nemrtvé úmluvy se nachází v Čarodějově laboratoři severně od Svěžínu." Tak TOMUHLE říkám úkol!"
+    1 string data = ""Mince nemrtvé úmluvy se nachází v Čarodějově laboratoři severně od Svěžína." Tak TOMUHLE říkám úkol!"
    [70]
     1 string data = "Není nic lepšího než pořádný úkol, jenž udrží pružnost v kroku!"
    [71]
@@ -229,7 +229,7 @@
    [107]
     1 string data = "Už jsme ušli tak dlouhou cestu…"
    [108]
-    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžínu."
+    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžína."
    [109]
     1 string data = "Garl je opravdu usilovný tahoun."
    [110]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Pořád nemůžu uvěřit, že by to Erlina a Brugaves udělali…"
    [113]
-    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžínu."
+    1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžína."
    [114]
     1 string data = "Je dobrý pocit umožnit těm lidem začít nanovo."
    [115]

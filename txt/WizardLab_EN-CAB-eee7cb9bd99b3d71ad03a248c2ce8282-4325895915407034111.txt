@@ -103,4 +103,4 @@
    [44]
     1 string data = "Ahoy, máte minci! Dobrá práce!"
    [45]
-    1 string data = "Vrátíme se do Svěžínu, kapitánka bude čekat."
+    1 string data = "Vrátíme se do Svěžína, kapitánka bude čekat."
