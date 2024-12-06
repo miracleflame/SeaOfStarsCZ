@@ -199,7 +199,7 @@
    [92]
     1 string data = "Down Low"
    [93]
-    1 string data = "Try every high fives combinations"
+    1 string data = "Try all high-five combinations"
    [94]
     1 string data = "Fishing Trip"
    [95]
