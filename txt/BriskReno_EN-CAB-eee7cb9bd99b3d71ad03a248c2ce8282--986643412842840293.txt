@@ -13,106 +13,106 @@
   1 Array Array (52 items)
    0 int size = 52
    [0]
-    1 string data = "But I must admit, the sea monster kind of creeped me out!"
+    1 string data = "Ale musím přiznat, že mě ta mořská příšera docela vyděsila!"
    [1]
-    1 string data = "Was it called Hydralion?"
+    1 string data = "Jmenovala se Hydralion?"
    [2]
-    1 string data = "No idea, but it was MASSIVE!"
+    1 string data = "Nemám tušení, ale byla MASIVNÍ!"
    [3]
-    1 string data = "Oh, I hope Hortence will let me ask her some questions. I have so many!"
+    1 string data = "Doufám, že mi Hortenzie dovolí zeptat se pár otázek. Mám jich tolik!"
    [4]
-    1 string data = "That there be a quest worthy of my support."
+    1 string data = "*To už je úkol hodný mé podpory."
    [5]
-    1 string data = "So we have a deal?"
+    1 string data = "Takže platí?"
    [6]
-    1 string data = "Aye. Ship's yers, and I'll be yer navigator."
+    1 string data = "*Aye. Loď je vaše a já vám budu dělat navigátorku."
    [7]
-    1 string data = "I've only sailed it once, but I'll be double-damned if I can't pull it off again."
+    1 string data = "*Plavila jsem se na ní jen jednou, ale ať jsem dvakrát prokletá, jestli to nedokážu zopáknout."
    [8]
     1 string data = "..."
    [9]
-    1 string data = "How much do you know?"
+    1 string data = "Kolik toho víš?"
    [10]
-    1 string data = "Enough to see through yer disguises."
+    1 string data = "*Dost na to, abych prokoukla tvůj převlek."
    [11]
     1 string data = "..."
    [12]
-    1 string data = "No worries, I ain't telling."
+    1 string data = "*Bez obav, nic neprozradím."
    [13]
-    1 string data = "The two Solstice Warriors be coming along to help?"
+    1 string data = "*Půjdou ti dva Bojovníci Slunovratu na pomoc?"
    [14]
-    1 string data = "I was hoping that in the end they would, if I helped them first..."
+    1 string data = "Doufala jsem, že nakonec půjdou, když jim nejdřív pomůžu já..."
    [15]
-    1 string data = "Well then, I reckon we have a shot."
+    1 string data = "*Tak to asi máme šanci."
    [16]
-    1 string data = "Hortence, I..."
+    1 string data = "Hortenzie, já..."
    [17]
-    1 string data = "Don't mention it. I owe ye one for pulling me out ov actual hell, aye?"
+    1 string data = "To nestojí za řeč. Jsem tvou dlužnicí po tom, cos mě vytáhla ze skutečného pekla, aye?"
    [18]
-    1 string data = "I..."
+    1 string data = "Já..."
    [19]
-    1 string data = "Thank you..."
+    1 string data = "Děkuji..."
    [20]
-    1 string data = "Ahoy, navigator!"
+    1 string data = "Ahoy, navigátorko!"
    [21]
-    1 string data = "Hortence be the name. Use it."
+    1 string data = "Hortenzie jméno mé. Použivej ho."
    [22]
-    1 string data = "Aye, it's just, stories say ye were quite the mandolin player back in the day."
+    1 string data = "*Aye, já jen... Vypráví se, že jsi kdysi docela válela s mandolínou."
    [23]
-    1 string data = "That's OCTAVE mandolin, son! She won a duel against the legendary Shredrick!"
+    1 string data = "*S VOKTÁVOVOU mandolínou, synku! Vyhrála souboj s legendárním Shredrickem!"
    [24]
-    1 string data = "Well?"
+    1 string data = "No?"
    [25]
-    1 string data = "Whoa!"
+    1 string data = "Síla!"
    [26]
-    1 string data = "My, I reckon you should join this little bardcore band of ours!"
+    1 string data = "*Já myslím, že by ses měla přidat k té naší malé bardcorové kapele!"
    [27]
-    1 string data = "Haha, I don't see why not!"
+    1 string data = "Haha, nevidím důvod, proč ne!"
    [28]
-    1 string data = "Huzzah!"
+    1 string data = "Hurrá!"
    [29]
-    1 string data = "This eternity thing just got a whole lot better!"
+    1 string data = "Tendlec úděl s věčností začína nabírat mnohem lepší obrátky!"
    [30]
-    1 string data = "Welcome to the crew, Hortence!"
+    1 string data = "Buď vítána v posádce, Hortenzie!"
    [31]
-    1 string data = "The Vespertine is ours. Just talk to Hortence when you're ready to transport the settlers."
+    1 string data = "Večernice patří nám. Až budete připraveni přepravit osadníky, promluvte si s Hortenzií."
    [32]
-    1 string data = "Y'all ready to take the settlers to their new land?"
+    1 string data = "Jste připraveni přestěhovat osadníky do jejich nové země?"
    [33]
-    1 string data = "Let's go!"
+    1 string data = "Jdeme na to!"
    [34]
-    1 string data = "Wait"
+    1 string data = "Počkat"
    [35]
-    1 string data = "My magic map should work in this realm too. To the northeast, then!"
+    1 string data = "Moje kouzelná mapa by měla fungovat i v této sféře. Tak tedy k severovýchodu!"
    [36]
-    1 string data = "Those who want to leave for the new land, all aboard!"
+    1 string data = "Všichni kdo chtějí odejít do nové země, na palubu!"
    [37]
-    1 string data = "Some people would rather start anew somewhere else. Thank you for taking care of us."
+    1 string data = "Někteří lidé by raději začali znovu někde jinde. Děkujeme, že jste se o nás postarali."
    [38]
-    1 string data = "Brisk's reconstruction is underway. We will make something good from all this."
+    1 string data = "Rekonstrukce Svěžína je v plném proudu. Vytvoříme z toho všeho něco dobrého."
    [39]
-    1 string data = "It's too dangerous to go beyond this point, the renovations are underway."
+    1 string data = "Je příliš nebezpečné jít dál, rekonstrukce je v plném proudu."
    [40]
-    1 string data = "I'm hesitating on what I should take with me to this new place."
+    1 string data = "Váhám, co bych si měl vzít s sebou na toto nové místo."
    [41]
-    1 string data = "It's been good to see everyone work together."
+    1 string data = "Bylo hezké vidět, jak všichni spolupracují."
    [42]
-    1 string data = "I shouldn't have judged the pirate crew so fast, they're really kindhearted."
+    1 string data = "Neměl jsem pirátskou posádku tak rychle odsuzovat, jsou opravdu dobrosrdeční."
    [43]
-    1 string data = "This will be a big change for my son. I hope he'll be alright..."
+    1 string data = "Pro mého syna to bude velká změna. Doufám, že bude v pořádku..."
    [44]
-    1 string data = "Mom, mom, MOOOOMMM! Are we really going to sail in that super cool boat!?"
+    1 string data = "Mami, mami, MAAMIIIII! Opravdu se budeme plavit na té super cool lodi!?"
    [45]
-    1 string data = "We are ready to leave when you are. "
+    1 string data = "Jsme připraveni vyrazit, jakmile budete i vy. "
    [46]
-    1 string data = "I feel for these people."
+    1 string data = "Cítím s těmi lidmi."
    [47]
-    1 string data = "Building a new town from the ground up, huh? This should be fun!"
+    1 string data = "Stavět nové město od základů, jo? To bude zábava!"
    [48]
-    1 string data = "After all this time, The Vespertine is ours! Haha!"
+    1 string data = "Po tak dlouhé době je Večernice naše! Haha!"
    [49]
-    1 string data = "Thanks again for your help."
+    1 string data = "Ještě jednou díky za pomoc."
    [50]
-    1 string data = "The Vespertine, I can't believe it!"
+    1 string data = "Večernice, nemůžu tomu uvěřit!"
    [51]
-    1 string data = "Do you need anything? I've got a few items."
+    1 string data = "Potřebujete něco? Mám pár věcí."
