@@ -97,7 +97,7 @@
    [41]
     1 string data = "Bylo hezké vidět, jak všichni spolupracují."
    [42]
-    1 string data = "Neměl jsem pirátskou posádku tak rychle odsuzovat, jsou opravdu dobrosrdeční."
+    1 string data = "Neměla jsem pirátskou posádku tak rychle odsuzovat, jsou opravdu dobrosrdeční."
    [43]
     1 string data = "Pro mého syna to bude velká změna. Doufám, že bude v pořádku..."
    [44]

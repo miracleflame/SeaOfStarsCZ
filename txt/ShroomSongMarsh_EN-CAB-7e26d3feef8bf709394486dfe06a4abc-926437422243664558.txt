@@ -49,7 +49,7 @@
    [17]
     1 string data = "Hmm?"
    [18]
-    1 string data = "Být vědmou má své výhody. Třeba vědět, kdo uní naplno ocenit čerstvou hrušku."
+    1 string data = "Být vědmou má své výhody. Třeba vědět, kdo umí naplno ocenit čerstvou hrušku."
    [19]
     1 string data = "..."
    [20]

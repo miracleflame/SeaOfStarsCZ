@@ -13,357 +13,357 @@
   1 Array Array (284 items)
    0 int size = 284
    [0]
-    1 string data = "Alright, everyone! There's plenty of wood here to start building hovels."
+    1 string data = "Všichni poslouchejte! Je tu spousta dřeva na stavbu přístřešků."
    [1]
-    1 string data = "Ready to work!"
+    1 string data = "Připraveni k práci!"
    [2]
-    1 string data = "Those who can use an axe should get to it right now."
+    1 string data = "Ti, kdo umí zacházet se sekerou, by se do toho měli pustit hned teď."
    [3]
-    1 string data = "I can do that!"
+    1 string data = "Já jdu na to!"
    [4]
-    1 string data = "I'll get a stew going to keep us all fed. Whenever someone's in need of a task, just come see me!"
+    1 string data = "Připravím guláš, abychom všichni byli nasyceni. Kdykoliv bude někdo potřebovat nějaký úkol, stačí přijít za mnou!"
    [5]
-    1 string data = "I'll go fishing!"
+    1 string data = "Jdu na ryby!"
    [6]
-    1 string data = "A few days later..."
+    1 string data = "O několik dní později..."
    [7]
-    1 string data = "It's really coming together."
+    1 string data = "Opravdu se to dává dohromady."
    [8]
-    1 string data = "Solstice Warriors, a moment of your time, please?"
+    1 string data = "Bojovníci Slunovratu, chvilku vaší pozornosti, prosím?"
    [9]
-    1 string data = "Of course, what's the matter?"
+    1 string data = "Samozřejmě, co se děje?"
    [10]
-    1 string data = "We went woodcutting deeper into the island and found a <color=location>strange entrance</color>."
+    1 string data = "Šli jsme kácet dřevo hlouběji do pevniny a našli jsme <color=location>podivný vchod</color>."
    [11]
-    1 string data = "Was anyone hurt?"
+    1 string data = "Byl někdo zraněn?"
    [12]
-    1 string data = "No, we left right away because it felt kind of eerie. We thought the island was completely deserted."
+    1 string data = "Ne, hned jsme odešli, protože nám to připadalo trochu desivé. Mysleli jsme si, že ostrov je úplně opuštěný."
    [13]
-    1 string data = "We'll go right now."
+    1 string data = "Hned tam půjdeme."
    [14]
-    1 string data = "Thank you!"
+    1 string data = "Děkujeme!"
    [15]
-    1 string data = "Could you please let Garl know? We'll be back as soon as possible."
+    1 string data = "Mohli byste prosím dát vědět Garlovi? Vrátíme se co nejdříve."
    [16]
-    1 string data = "Will do!"
+    1 string data = "Řeknu mu to!"
    [17]
-    1 string data = "Hey, you're right on time for the next town gathering! What did you find?"
+    1 string data = "Hej, jdete právě včas na další městské shromáždění! Co jste našli?"
    [18]
-    1 string data = "It's just a very old crypt. The spirit who lives there is friendly and says we are welcome to build here."
+    1 string data = "Je to jen velmi stará krypta. Duch, který v ní žije, je přátelský a říká, že tu můžeme stavět."
    [19]
-    1 string data = "Great!"
+    1 string data = "Skvělé!"
    [20]
-    1 string data = "ALRIGHT, GATHER AROUND, EVERYONE!"
+    1 string data = "DOBŘE, VŠICHNI POJĎTE SEM!"
    [21]
-    1 string data = "First off, [MAINCHAR] and [OFFCHAR] investigated the entrance in the woods and were able to confirm that it is completely safe!"
+    1 string data = "Za prvé, [MAINCHAR] a [OFFCHAR] prozkoumali vchod v lesích a potvrdili, že je zcela bezpečný!"
    [22]
-    1 string data = "Yay!"
+    1 string data = "Jó!"
    [23]
-    1 string data = "What a relief!"
+    1 string data = "To je ale úleva!"
    [24]
-    1 string data = "And now, time to name this town! Big thanks to all who dropped ideas in the bag."
+    1 string data = "A nyní je čas pojmenovat toto město! Velké díky všem, kteří vhodili nápady do pytle."
    [25]
-    1 string data = "I guess I'll just..."
+    1 string data = "Myslím, že jenom..."
    [26]
-    1 string data = "And the name is..."
+    1 string data = "A název je..."
    [27]
-    1 string data = "Garl?"
+    1 string data = "Garle?"
    [28]
-    1 string data = "Hold on here..."
+    1 string data = "Vydržte chvíli..."
    [29]
-    1 string data = "Garl..."
+    1 string data = "Garle..."
    [30]
-    1 string data = "Garl!"
+    1 string data = "Garle!"
    [31]
-    1 string data = "That's no name for a village!"
+    1 string data = "To nemůže být jméno pro vesnici!"
    [32]
-    1 string data = "Look alive, son! Seems to me these people want ya to name the place!"
+    1 string data = "Hele, synku! Tak se mi zdá, že ty lidičky chtěj, abys to tu pojmenoval!"
    [33]
     1 string data = "..."
    [34]
-    1 string data = "Me?"
+    1 string data = "Já?"
    [35]
-    1 string data = "Ye've been quite the leader, pal! The honor should be yers."
+    1 string data = "Ukázal ses jako vůdce, kamaráde! Ta čest by ti měla patřit."
    [36]
-    1 string data = "Garl!"
+    1 string data = "Garle!"
    [37]
-    1 string data = "Gaaaaaaaaarl!"
+    1 string data = "Gaaaaaaaaarle!"
    [38]
-    1 string data = "Okay, I'll try!"
+    1 string data = "Dobře, zkusím to!"
    [39]
-    1 string data = "(What's the one thing these people need...)"
+    1 string data = "(Copak je to, co tito lidé potřebují...)"
    [40]
-    1 string data = "(Joy?)"
+    1 string data = "(Radost?)"
    [41]
-    1 string data = "(Nah, too on the nose...)"
+    1 string data = "(Ne, to je moc okaté...)"
    [42]
     1 string data = "(...)"
    [43]
-    1 string data = "(New beginning...)"
+    1 string data = "(Nový začátek...)"
    [44]
-    1 string data = "(Positive outlook...)"
+    1 string data = "(Pozitivní vyhlídky...)"
    [45]
-    1 string data = "Mirth!"
+    1 string data = "Veselí!"
    [46]
-    1 string data = "<color=location>TOWN OF MIRTH</color>!"
+    1 string data = "<color=location>MĚSTEČKO VESELÍ</color>!"
    [47]
-    1 string data = "MIRTH!"
+    1 string data = "VESELÍ!"
    [48]
-    1 string data = "That's so pretty!"
+    1 string data = "To je tak hezké!"
    [49]
-    1 string data = "Town of Mirth! Town of Mirth!"
+    1 string data = "Městečko Veselí! Městečko Veselí!"
    [50]
-    1 string data = "A fitting name indeed!"
+    1 string data = "Vskutku příhodné jméno!"
    [51]
-    1 string data = "Haha! Leave it to Garl!"
+    1 string data = "Haha! Nechte to na Garla!"
    [52]
-    1 string data = "Alright, let's get back to work! We still have lots to do!"
+    1 string data = "Dobře, zpátky do práce! Máme toho ještě hodně před sebou!"
    [53]
-    1 string data = "A few more days later..."
+    1 string data = "O pár dní později..."
    [54]
-    1 string data = "That was a lot! Looks like they can take it from here."
+    1 string data = "To bylo hodně! Zdá se, že odtud to už zvládnou."
    [55]
-    1 string data = "Way to step up, Garl."
+    1 string data = "Pěkně ses hecnul, Garle."
    [56]
-    1 string data = "Fun little change of pace, too!"
+    1 string data = "A taky to byla příjemná změna tempa!"
    [57]
-    1 string data = "Young masters?"
+    1 string data = "Mladí mistři?"
    [58]
-    1 string data = "An old man is here to see you."
+    1 string data = "Přišel za vámi starý pán."
    [59]
-    1 string data = "Must be the Headmaster!"
+    1 string data = "To musí být ředitel!"
    [60]
-    1 string data = "Oh, I don't know about that."
+    1 string data = "Tak to nevím."
    [61]
-    1 string data = "Where is he?"
+    1 string data = "Kde je?"
    [62]
-    1 string data = "He just arrived at-"
+    1 string data = "Právě přijel na-"
    [63]
-    1 string data = "Oh, there he is!"
+    1 string data = "Aha, tady je!"
    [64]
-    1 string data = "I see you have done well."
+    1 string data = "Vidím, že jste si vedli dobře."
    [65]
-    1 string data = "Headmaster, where have you been?"
+    1 string data = "Pane řediteli, kde jste byl?"
    [66]
-    1 string data = "At the Academy, doing research and racking my brain."
+    1 string data = "Na Akademii, dělal jsem výzkum a lámal si hlavu."
    [67]
-    1 string data = "And?"
+    1 string data = "A?"
    [68]
     1 string data = "..."
    [69]
-    1 string data = "I'm afraid I bring bad news..."
+    1 string data = "Obávám se, že přináším špatné zprávy..."
    [70]
-    1 string data = "We simply do not have the numbers to fight the <color=bad>Dweller of Strife</color>."
+    1 string data = "Na boj s <color=bad>Přiživovačem sváru</color> prostě nemáme dost sil."
    [71]
     1 string data = "..."
    [72]
-    1 string data = "But there has to be a way!"
+    1 string data = "Musí přece existovat způsob!"
    [73]
-    1 string data = "I'm sorry, Valere. If the miracle we need exists, it is not documented within our walls..."
+    1 string data = "Je mi líto, Valerie. Pokud existuje zázrak, který potřebujeme, není v našich zdech zaznamenán..."
    [74]
-    1 string data = "Then we hunt it down and give it all we've got!"
+    1 string data = "Tak ho vystopujeme a dáme mu co proto!"
    [75]
-    1 string data = "I won't be joining you."
+    1 string data = "Já se k vám nepřidám."
    [76]
     1 string data = "!!"
    [77]
-    1 string data = "But you're the Headmaster... Surely you don't mean that!?"
+    1 string data = "Ale vy jste ředitel... To jistě nemyslíte vážně!?"
    [78]
-    1 string data = "YOU DO NOT UNDERSTAND!"
+    1 string data = "NECHÁPETE!"
    [79]
-    1 string data = "The Dweller of Strife has immeasurable power."
+    1 string data = "Přiživovač sváru má nezměrnou moc."
    [80]
-    1 string data = "Without an eclipse, it stands impervious even to our magic, and there won't be one before it is done gathering its power."
+    1 string data = "Bez zatmění je odolný vůči naší magii a k žádnému nedojde dříve, než stihne nashromáždit svou moc."
    [81]
-    1 string data = "That Dweller took almost everything away, even back when our order was in its prime."
+    1 string data = "Ten Přiživovač nám vzal skoro všechno, dokonce i v době, kdy byl náš řád v plné síle."
    [82]
-    1 string data = "I won't let it take any more from me."
+    1 string data = "Nedovolím, aby mi vzal ještě víc."
    [83]
     1 string data = "..."
    [84]
-    1 string data = "Headmaster..."
+    1 string data = "Pane řediteli..."
    [85]
-    1 string data = "I resign."
+    1 string data = "Rezignuji."
    [86]
-    1 string data = "Until the Dweller strikes, I want to live free of the burden I have carried my entire life."
+    1 string data = "Dokud Přiživovač nezasáhne, chci žít bez břemene, které jsem nesl celý život."
    [87]
     1 string data = "..."
    [88]
-    1 string data = "Please... allow me this... I have endured more than can be expressed."
+    1 string data = "Prosím... dopřejte mi to... Vydržel jsem víc, než lze vyjádřit."
    [89]
-    1 string data = "As you wish, Headmaster... We can't force you."
+    1 string data = "Jak si přejete, pane řediteli... Nemůžeme vás nutit."
    [90]
-    1 string data = "Thank you... I have much grieving to do."
+    1 string data = "Děkuji... Mám před sebou mnoho truchlení."
    [91]
-    1 string data = "Getting onto Mesa Island is impossible anyway without the help of its guardian. We're lucky to still have X'tol and Y'eet."
+    1 string data = "Stejně dostat se na ostrov Mesa je bez pomoci jeho strážce nemožné. Ještě štěstí, že máme X'tola a Y'eeta."
    [92]
-    1 string data = "Y'eet?"
+    1 string data = "Y'eeta?"
    [93]
-    1 string data = "Y'eet, yes."
+    1 string data = "Ano, Y'eeta."
    [94]
-    1 string data = "Didn't the Elder Mist give you the name of the giant that takes you home?"
+    1 string data = "Neřekl vám Mlžný stařešina jméno obra, který vás vezme domů?"
    [95]
     1 string data = "..."
    [96]
-    1 string data = "But I digress. Mesa Island's giant has been put to sleep by the Fleshmancer Acolytes."
+    1 string data = "Ale to odbočuji. Obra z ostrova Mesa uspali akolyté Karnimanta."
    [97]
-    1 string data = "Only it could remove the magic barrier concealing the island, but it refuses to wake. For all my research, it seems that it is not a curse we can break."
+    1 string data = "Jedině on by mohl odstranit magickou bariéru, co skrývá ostrov, ale odmítá se probudit. Ze všech mých výzkumů vyplývá, že nejde o kletbu, kterou bychom dokázali zlomit."
    [98]
-    1 string data = "Zale and I are not giving up."
+    1 string data = "Zale a já se nevzdáme."
    [99]
-    1 string data = "My dear Valere, I had a hunch you would say that."
+    1 string data = "Drahá Valerie, tušil jsem, že to řekneš."
    [100]
-    1 string data = "So you are adamant on trying to reach The Fleshmancer's old castle and taking a shot at that thing?"
+    1 string data = "Takže jste neoblomně odhodláni pokusit se dostat do starého zámku Karnimanta a utkat se s ním?"
    [101]
-    1 string data = "Absolutely."
+    1 string data = "Rozhodně."
    [102]
-    1 string data = "Then you will need to remove that barrier."
+    1 string data = "Pak budete muset odstranit onu bariéru."
    [103]
-    1 string data = "While I do not know how this may be achieved, there might be someone who does."
+    1 string data = "Já sice nevím, jak toho lze dosáhnout, ale možná se najde někdo, kdo to ví."
    [104]
-    1 string data = "So you do have a lead for us?"
+    1 string data = "Takže máte pro nás vodítko?"
    [105]
-    1 string data = "It is my nerves that have given up, not my faith in you."
+    1 string data = "To moje nervy se vzdaly, ne moje víra ve vás."
    [106]
-    1 string data = "Here is your final gift from me. The <color=magic>Coral Hammer</color>."
+    1 string data = "Tady máte ode mě poslední dar. <color=magic>Korálové kladivo</color>."
    [107]
-    1 string data = "Make for <color=location>Watcher Island</color>, where the lost city of the Docarri lies deep under the waves of a blue lake."
+    1 string data = "Dostaňte se na <color=location>Strážcův ostrov</color>, kde hluboko pod vlnami modrého jezera leží ztracené město Docarri."
    [108]
-    1 string data = "Ring the bell with the Coral Hammer, and they will know you were sent by a friend."
+    1 string data = "Zazvoňte na zvon s Korálovým kladivem a oni poznají, že vás poslal přítel."
    [109]
-    1 string data = "Seek an audience at their temple. If anyone can offer you guidance now, it is the <color=good>Oracle of Tides</color>."
+    1 string data = "Vyhledejte audienci v jejich chrámu. Pokud vám teď někdo může nabídnout vedení, pak jedině <color=good>Věštec přílivů a odlivů</color>."
    [110]
-    1 string data = "Oh, and you may want to visit Evermist Island again. You are ready for its <color=magic>shrine</color> now. Here's the key."
+    1 string data = "A také možná budete chtít znovu navštívit Ostrov věčné mlhy. Nyní jste připraveni na jeho <color=magic>svatyni</color>. Tady je klíč."
    [111]
-    1 string data = "Thank you, Headmaster. This is more than enough to go on."
+    1 string data = "Děkujeme, pane řediteli. To je víc než dost na to, abychom mohli pokračovat."
    [112]
-    1 string data = "Please just call me Moraine from now on."
+    1 string data = "Odteď mi prosím říkejte jen Moraine."
    [113]
-    1 string data = "So, where will you go now?"
+    1 string data = "A kam se teď vydáte vy?"
    [114]
-    1 string data = "Anywhere that isn't Zenith Academy."
+    1 string data = "Kamkoli, kde není Akademie Zenitu."
    [115]
-    1 string data = "Hey, why don't you stay here in Mirth?"
+    1 string data = "Hele, proč nezůstanete tady ve Veselí?"
    [116]
     1 string data = "Hmm??"
    [117]
-    1 string data = "Everyone here is also looking for a fresh start!"
+    1 string data = "Všichni tady také hledají nový začátek!"
    [118]
     1 string data = "..."
    [119]
-    1 string data = "Garl's right!"
+    1 string data = "Garl má pravdu!"
    [120]
-    1 string data = "Plus, it's missing an official town elder!"
+    1 string data = "Navíc městečku chybí formální stařešina!"
    [121]
-    1 string data = "Haha! That does sound like a job I could do."
+    1 string data = "Haha! To zní jako práce, kterou bych zvládl."
    [122]
-    1 string data = "The townsfolk will be more than happy to help you get settled!"
+    1 string data = "Osadníci vám rádi pomohou se zabydlením!"
    [123]
-    1 string data = "Yes, this place carries the kind of peace I need."
+    1 string data = "Ano, tohle místo přináší klid, který potřebuji."
    [124]
-    1 string data = "Thank you, brave Garl, for making me smile at such a time."
+    1 string data = "Děkuji ti, statečný Garle, že jsi mi v takových časech navrátil úsměv."
    [125]
-    1 string data = "Sure thing, Town Elder!"
+    1 string data = "I příště, stařešino!"
    [126]
     1 string data = "Hahaha!"
    [127]
-    1 string data = "So, the order is down to the two of us now."
+    1 string data = "Takže řád se zmenšil na nás dva."
    [128]
-    1 string data = "Time to find our own way."
+    1 string data = "Je čas najít si vlastní cestu."
    [129]
-    1 string data = "Where do you want to go next?"
+    1 string data = "Kam chcete jít teď?"
    [130]
-    1 string data = "Now that we know the name of the giant, it sounds like you could learn new powers if we visited the shrine on Evermist Island."
+    1 string data = "Teď, když známe jméno obra, hádám, že bysme se mohli naučit nové schopnosti, kdybychom navštívili svatyni na Ostrově věčné mhly."
    [131]
-    1 string data = "Or we could save that for later and go looking for the Oracle of Tides now. Watcher Island is the one with a big meditating statue."
+    1 string data = "Nebo bychom si to mohli nechat na později a jít nyní hledat Věštce přílivů a odlivů. Strážcův ostrov je ten s velkou meditující sochou."
    [132]
-    1 string data = "We're with you either way!"
+    1 string data = "Jsme s vámi tak jako tak!"
    [133]
-    1 string data = "We should check this place to the north before going back."
+    1 string data = "Než se vrátíme, měli bychom se podívat na to místo na severu."
    [134]
-    1 string data = "Ready to set sail?"
+    1 string data = "Připraveni vyplout?"
    [135]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [136]
-    1 string data = "No"
+    1 string data = "Ne"
    [137]
-    1 string data = "Yolande says the crew be done fixin' what needed fixin'. Reckon ye might be in for some extra firepower, should the need arise."
+    1 string data = "*Yolanda říká, že posádka už opravila, co bylo třeba. Hádám, že by se vám mohla hodit nějaká ta palebná síla navíc, kdyby bylo potřeba."
    [138]
-    1 string data = "Seraï learns ultimate attack <sprite="dialog-inventory-icons" name="icn-skills-serai-verspertinecannons"> <color=magic>Vespertine Cannons</color>."
+    1 string data = "Seraï se naučila ultimátní útok <sprite="dialog-inventory-icons" name="icn-skills-serai-verspertinecannons"> <color=magic>Kanóny Večernice</color>."
    [139]
-    1 string data = "Build the ultimate attack gauge by spending combo points in battle!"
+    1 string data = "Za kombo body proveďte v souboji ultimátní kalibr útoku!"
    [140]
-    1 string data = "We got Caël's message. I'll take ye there directly whenever yer ready."
+    1 string data = "*Dostali jsme Caëlovu zprávu. Vezmu vás tam přímo, až budete připraveni."
    [141]
-    1 string data = "Ready"
+    1 string data = "Připraveni"
    [142]
-    1 string data = "Wait"
+    1 string data = "Počkat"
    [143]
-    1 string data = "...And so we must come together for his final wish."
+    1 string data = "...A tak se musíme spojit pro jeho poslední přání."
    [144]
-    1 string data = "Who's with us? FOR GARL!"
+    1 string data = "Kdo je s námi? ZA GARLA!"
    [145]
-    1 string data = "FOR GARL!"
+    1 string data = "ZA GARLA!"
    [146]
-    1 string data = "FOR GARL!"
+    1 string data = "ZA GARLA!"
    [147]
-    1 string data = "FOR GARL!"
+    1 string data = "ZA GARLA!"
    [148]
-    1 string data = "Great job, everyone! That there hold be full to the brim!"
+    1 string data = "*Skvělá práce, všichni! Tamto podpalubí je plné až po okraj!"
    [149]
-    1 string data = "A valiant effort!"
+    1 string data = "Chrabré to úsilí!"
    [150]
-    1 string data = "All aboard! Time to set sail."
+    1 string data = "Všichni na palubu! Je čas vyplout."
    [151]
-    1 string data = "Wait for me!"
+    1 string data = "Počkejte na mě!"
    [152]
-    1 string data = "I can't believe my eyes."
+    1 string data = "Nemohu uvěřit vlastním očím."
    [153]
-    1 string data = "I wish I had conversed with Resh'an a bit more. His understanding of alchemy is unprecedented."
+    1 string data = "Škoda, že jsem si s Resh'anem nepopovídal trochu víc. Jeho znalosti alchymie jsou nevídané."
    [154]
-    1 string data = "Does it hurt when you get hit?"
+    1 string data = "Bolí to, když dostanete ránu?"
    [155]
-    1 string data = "Not in a physical way."
+    1 string data = "Fyzicky ne."
    [156]
-    1 string data = "It tugs at my mind, but my resolve is absolute."
+    1 string data = "Trhá to mou myslí, ale moje odhodlání je absolutní."
    [157]
-    1 string data = "Most interesting."
+    1 string data = "Nanejvýš zajímavé."
    [158]
-    1 string data = "Hmm. I should put in a word for you..."
+    1 string data = "Hmm. Měl bych se za vás přimluvit..."
    [159]
-    1 string data = "A word?"
+    1 string data = "Přimluvit?"
    [160]
-    1 string data = "After this journey is over, you may find yourself in search of meaning."
+    1 string data = "Až tato výprava skončí, možná se ocitnete v bode hledání svého smyslu."
    [161]
-    1 string data = "Should that time come, seek The Elder Mist."
+    1 string data = "Pokud ten čas nastane, vyhledejte Mlžného stařešinu."
    [162]
-    1 string data = "The Elder Mist..."
+    1 string data = "Mlžného stařešinu..."
    [163]
-    1 string data = "Good morning!"
+    1 string data = "Dobré ráno!"
    [164]
-    1 string data = "Sleep is so much better here in Mirth."
+    1 string data = "Tady ve Veselí se spí mnohem lépe."
    [165]
-    1 string data = "It's been a couple of days. Caël should be done by now."
+    1 string data = "Už je to pár dní. Caël už by měl být hotový."
    [166]
-    1 string data = "Right. Let's go check on him."
+    1 string data = "Správně. Pojďme ho omrknout."
    [167]
-    1 string data = "This place is perfect! Thank you for letting use the space."
+    1 string data = "Tohle místo je perfektní! Děkuji, že jste nám umožnili využít tento prostor."
    [168]
-    1 string data = "Welcome to <color=location>Spa Le Best</color>!"
+    1 string data = "Vítejte ve <color=location>Spa Le Best</color>!"
    [169]
-    1 string data = "Treat yourself to a relaxing time enveloped in the stunning nature of Mirth while bathing in our mineral hot springs that nurture the skin and relieve stress."
+    1 string data = "Dopřejte si čas relaxace obklopeni úchvatnou přírodou Veselí při koupeli v našich minerálních horkých pramenech, které vyživují pokožku a uvolňují stres."
    [170]
-    1 string data = "Will someone be using the service today? Only 250G."
+    1 string data = "Využije dnes někdo tuto službu? Pouze 250G."
    [171]
-    1 string data = "Pay 250G"
+    1 string data = "Zaplatit 250G"
    [172]
-    1 string data = "Maybe later"
+    1 string data = "Možná později"
    [173]
-    1 string data = "I'm sorry, it seems you don't have enough gold. Maybe some other time!"
+    1 string data = "Je mi líto, ale zdá se, že nemáte dost zlata. Možná někdy příště!"
    [174]
-    1 string data = "And who is the lucky one?"
+    1 string data = "A kdo bude ten šťastlivec?"
    [175]
-    1 string data = "Valere"
+    1 string data = "Valerie"
    [176]
     1 string data = "Zale"
    [177]
@@ -375,208 +375,208 @@
    [180]
     1 string data = "Garl"
    [181]
-    1 string data = "I wish you a most relaxing session."
+    1 string data = "Přeji vám nanejvýš uvolňující chvíle."
    [182]
-    1 string data = "Valere went into a deep meditation and reflected upon the challenges ahead."
+    1 string data = "Valerie se ponořila do hluboké meditace a přemýšlela o výzvách, které ji čekají."
    [183]
-    1 string data = "After a while, she noticed that the tension in her right shoulder was gone."
+    1 string data = "Po chvíli si všimla, že napětí v jejím pravém rameni pominulo."
    [184]
-    1 string data = "Valere's ATK increased by 9!"
+    1 string data = "Valerin Útok se zvýšil o 9!"
    [185]
-    1 string data = "Zale wished the springs had been slightly hotter, but his upper back still felt tremendous relief."
+    1 string data = "Zale si přál, aby byly prameny o něco teplejší, ale i tak cítil v horní části zad obrovskou úlevu."
    [186]
-    1 string data = "After a short nap, he rose with even more spring in his step."
+    1 string data = "Po krátkém zdřímnutí se zvedl s ještě pružnějším pohybem."
    [187]
-    1 string data = "Zale's M. ATK increased by 7!"
+    1 string data = "Zaleův Magický útok se zvýšil o 7!"
    [188]
-    1 string data = "Seraï didn't really see the point, but she decided to play along anyway."
+    1 string data = "Seraï v tom neviděla smysl, ale přesto se rozhodla, že se do toho zapojí."
    [189]
-    1 string data = "She eventually realized that the experience wasn't only physical, embraced the silence, and ended up feeling more energized."
+    1 string data = "Nakonec si uvědomila, že požitek není jen fyzický. Obsáhla to ticho a nakonec se cítila více nabitá energií."
    [190]
-    1 string data = "Seraï's ATK increased by 9!"
+    1 string data = "Seraïin Útok se zvýšil o 9!"
    [191]
-    1 string data = "While Resh'an didn't actually bathe in the water that day, it felt to everyone as if part of him was thankful that the party had so readily invested in his well-being."
+    1 string data = "I když se Resh'an toho dne ve vodě skutečně nekoupal, všem připadalo, jako by část jeho já byla vděčná, že družina tak ochotně investovala do jeho blaha."
    [192]
-    1 string data = "Whatever thoughts he lost himself in, or whether he was even there at all, no one would ever know..."
+    1 string data = "Ať už se ztratil v jakýchkoli myšlenkách, nebo zda tam vůbec byl, to se nikdo nikdy nedozví..."
    [193]
-    1 string data = "Resh'an's M. DEF increased by 8!"
+    1 string data = "Resh'anova Magická obrana se zvýšila o 8!"
    [194]
-    1 string data = "Though he was unable to feel the heat, B'st had fun looking underwater through his glass body."
+    1 string data = "Ačkoli nemohl pocítit to teplo, B'st se bavil pohledem pod vodou skrz své skleněné tělo."
    [195]
-    1 string data = "He spent some time meditating on the idea of a container within a container and altering his shape to make the water move in captivating ways."
+    1 string data = "Nějakou dobu meditoval nad ideou nádoby v nádobě a měnil svůj tvar tak, aby se voda podmanivě vlnila."
    [196]
-    1 string data = "B'st's M. ATK increased by 7!"
+    1 string data = "B'stův Magický Útok se zvýšil o 7!"
    [197]
-    1 string data = "Garl took it all in at first, but soon thought of something he wanted to tell Seraï."
+    1 string data = "Garl to nejdřív všechno vstřebával, ale brzy ho napadlo něco, co by chtěl říct Seraï."
    [198]
-    1 string data = "Despite his lack of concentration, he enjoyed the experience overall and appreciated how good it felt to give his feet a break."
+    1 string data = "Navzdory nedostatku soustředění se mu to celkově líbilo a ocenil, jak je dobré dopřát nohám oddech."
    [199]
-    1 string data = "Garl's max HP increased by 35!"
+    1 string data = "Garlův maximální počet BŽ se zvýšil o 35!"
    [200]
-    1 string data = "Are we beginning construction on the spa soon? Bob just needs building plans!"
+    1 string data = "Začneme brzy stavět lázně? Bob potřebuje pouze stavební plány!"
    [201]
-    1 string data = "This place is perfect! Even better than I imagined!"
+    1 string data = "Tohle místo je perfektní! Ještě lepší, než jsem si představoval!"
    [202]
-    1 string data = "Welcome to the Item Shop."
+    1 string data = "Vítejte v obchodě s věcmi."
    [203]
-    1 string data = "Mom says we'll have our own item shop soon! Do you have the building plans for Bob?"
+    1 string data = "Máma říkala, že brzy budeme mít vlastní obchod s věcmi! Nemáte pro Boba stavební plány?"
    [204]
-    1 string data = "Yes, this will do so well! I can already hear the clients coming in!"
+    1 string data = "Ano, tohle půjde skvěle! Už slyším, jak přicházejí zákazníci!"
    [205]
-    1 string data = "Welcome to the Equipment Shop."
+    1 string data = "Vítejte v obchodě s vybavením."
    [206]
-    1 string data = "Bob says we'll have a nice shop as soon as he gets the building plans!"
+    1 string data = "Bob říká, že budeme mít pěkný obchod, jakmile získá stavební plány!"
    [207]
-    1 string data = "Welcome to Mirth's one and only fishing house! I want to thank you again for letting me use this place, it's a fisherman's dream come true!"
+    1 string data = "Vítejte v jediném rybářském domě ve Veselí! Chci vám ještě jednou poděkovat za to, že jste mi umožnili mít toto místo, je to splněný rybářův sen!"
    [208]
-    1 string data = "I have three <color=magic>fishing rod upgrades</color> for you, but you will need to earn them!"
+    1 string data = "Mám pro vás tři <color=magic>vylepšení rybářského prutu</color>, ale budete si je muset zasloužit!"
    [209]
-    1 string data = "It's pretty simple. I'll be tracking how many different <color=magic>species</color> you have caught, and at certain milestones, you get an upgrade. Sound good?"
+    1 string data = "Je to docela jednoduché. Budu zaznamenávat, kolik různých <color=magic>druhů</color> jste ulovili, a při dosažení určitých milníků dostanete vylepšení. Zní to fajn?"
    [210]
-    1 string data = "Good! There aren't any fish unique to the lake connected to this house, but I'll be adding to it any species you have already caught. Let's see if we can complete the roster, shall we?"
+    1 string data = "Dobře! V jezeře pod tímto domem nejsou žádné jedinečné ryby, ale budu k nim přidávat všechny druhy, které jste již ulovili. Uvidíme, jestli se nám podaří zkompletovat seznam, ano?"
    [211]
-    1 string data = "Hey there, did you go fishing lately?"
+    1 string data = "Ahoj, byli jste v poslední době na rybách?"
    [212]
-    1 string data = "Check species count"
+    1 string data = "Zkontrolovat počet druhů"
    [213]
-    1 string data = "See rewards list"
+    1 string data = "Zobrazit seznam odměn"
    [214]
-    1 string data = "Never mind"
+    1 string data = "To stačí"
    [215]
-    1 string data = "Hey, you caught [FISHTYPE_COUNT] different species! That means I got something for you!"
+    1 string data = "Hej, ulovili jste [FISHTYPE_COUNT] různých druhů! To znamená, že pro vás něco mám!"
    [216]
-    1 string data = "Impressive, you caught them all! You are a true fisherman now."
+    1 string data = "Působivé, ulovili jste je všechny! Teď už jste opravdoví rybáří."
    [217]
-    1 string data = "Welcome to the Fishing Shop."
+    1 string data = "Vítejte v rybářském obchodě."
    [218]
-    1 string data = "You've found [FISHTYPE_COUNT] fishes so far. Keep them coming."
+    1 string data = "Zatím jste našli [FISHTYPE_COUNT] ryb. Ať vám přibývají."
    [219]
-    1 string data = "This place will do just right, just gotta find some building plans for Bob now!"
+    1 string data = "Tohle místo bude tak akorát, jen teď musíme najít nějaké stavební plány pro Boba!"
    [220]
-    1 string data = "Oh, [MAINCHAR]! I must thank you again for inviting me to take care of Mirth's inn. I will make sure it becomes a noteworthy establishment."
+    1 string data = "Á, [MAINCHAR]! Musím ti ještě jednou poděkovat za pozvání, abych se postaral o hostinec Veselí. Dohlédnu na to, aby se z něj stal pozoruhodný podnik."
    [221]
-    1 string data = "Welcome, [MAINCHAR]. How may I help you today?"
+    1 string data = "Vítej, [MAINCHAR]. Jak ti mohu dnes pomoci?"
    [222]
-    1 string data = "Rest"
+    1 string data = "Odpočinek"
    [223]
-    1 string data = "Leave"
+    1 string data = "Odejít"
    [224]
-    1 string data = "Sleep well!"
+    1 string data = "Dobře se vyspěte!"
    [225]
-    1 string data = "My brother sent me your offer. Thank you, I cannot wait to start serving... Did you have building plans for Bob?"
+    1 string data = "Můj bratr mi poslal vaši nabídku. Děkuji, nemohu se dočkat, až začnu obsluhovat... Měli jste pro Boba stavební plány?"
    [226]
-    1 string data = "Innkeeper wanted."
+    1 string data = "Hledá se hostinský."
    [227]
-    1 string data = "Shopkeeper wanted."
+    1 string data = "Hledá se prodavač."
    [228]
-    1 string data = "Fisherman wanted."
+    1 string data = "Hledá se rybář."
    [229]
-    1 string data = "Relaxation professional wanted."
+    1 string data = "Hledá se odborník na relaxaci."
    [230]
-    1 string data = "Hahaha, they remind me of you two when you were young!"
+    1 string data = "Hahaha, připomínají mi vás dva, když jste byli mladí!"
    [231]
-    1 string data = "This is a really nice house. Thank you, I wasn't expecting so much..."
+    1 string data = "Tohle je opravdu pěkný dům. Děkuji, nečekal jsem tolik..."
    [232]
-    1 string data = "Everyone from Mooncradle to Mirth is mourning the loss of Garl. While very sad, it goes to show how many hearts he touched..."
+    1 string data = "Všichni od Měsíční kolébky po Veselí truchlí nad ztrátou Garla. Je to sice velmi smutné, ale ukazuje to, kolika srdcí se dotkl..."
    [233]
-    1 string data = "I should have said it out loud before, but... I'm really proud of you two."
+    1 string data = "Měl jsem to říct nahlas už dřív, ale... Jsem na vás dva opravdu hrdý."
    [234]
-    1 string data = "I think I'm starting to get the hang of this town elder thing."
+    1 string data = "Myslím, že už začínám chápat, co je to ten městský stařešina."
    [235]
-    1 string data = "You did it, [MAINCHAR_GODNAME] and [OFFCHAR_GODNAME]. Above all else, you have demonstrated unparalleled teamwork and trust in each other. I am proud of you."
+    1 string data = "Dokázali jste to, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]. Především jste prokázali bezkonkurenční týmovou spolupráci a vzájemnou důvěru. Jsem na vás hrdý."
    [236]
-    1 string data = "Did you know? Moraine is an old Solstice Warrior, and he was also a master or something!"
+    1 string data = "To jste věděli? Moraine je starý Bojovník Slunovratu a byl to také mistr nebo tak něco!"
    [237]
-    1 string data = "Ya! Ya! Take this!"
+    1 string data = "Ja! Ja! Berte!"
    [238]
-    1 string data = "I miss Garl ..."
+    1 string data = "Chybí mi Garl ..."
    [239]
-    1 string data = "Is it true that you can fly?"
+    1 string data = "Je pravda, že umíš létat?"
    [240]
-    1 string data = "Moraine! Moraine! What's your favorite color? Do you like animals? Do you have a lot of friends? What's your favorite food? Moraine!"
+    1 string data = "Moraine! Moraine! Jaká je vaše oblíbená barva? Máte rád zvířata? Máte hodně kamarádů? Jaké je vaše oblíbené jídlo? Moraine!"
    [241]
-    1 string data = "We're only training as a game, but Elder Moraine sure takes it seriously..."
+    1 string data = "Trénujeme jen jako, ale stařešina Moraine to určitě bere vážně..."
    [242]
-    1 string data = "Garl always took the time to answer all of my questions. He was really nice."
+    1 string data = "Garl si vždycky našel čas, aby mi odpověděl na všechny otázky. Byl opravdu milý."
    [243]
-    1 string data = "I think I'll be a lumberjack when I grow up!"
+    1 string data = "Myslím, že až vyrostu, budu dřevorubcem!"
    [244]
-    1 string data = "Now that everyone has shelter, we can now focus on the next steps for Mirth."
+    1 string data = "Teď, když mají všichni přístřeší, se můžeme soustředit na další kroky pro Veselí."
    [245]
-    1 string data = "My back is starting to hurt, I should treat myself to some relaxation."
+    1 string data = "Začínají mě bolet záda, měl bych si dopřát trochu odpočinku."
    [246]
-    1 string data = "Garl really came up with the perfect name for Mirth."
+    1 string data = "Garl opravdu vymyslel pro Veselí dokonalé jméno."
    [247]
-    1 string data = "Wow, that spa was really something! I could almost feel my health improving. Haha!"
+    1 string data = "Teda, ty lázně byly fakt něco! Skoro jsem cítila, jak se mi zlepšuje zdraví. Haha!"
    [248]
-    1 string data = "Feels good to be worrying about mundane tasks already!"
+    1 string data = "Je to příjemný pocit starat se o všední úkoly!"
    [249]
-    1 string data = "I didn't know the pirates could play music! They're good!"
+    1 string data = "Nevěděl jsem, že piráti umí být hudebníci! Jsou dobří!"
    [250]
-    1 string data = "That poor Garl was way too young to die..."
+    1 string data = "Ten chudák Garl byl příliš mladý na to, aby zemřel..."
    [251]
-    1 string data = "I don't know how and I don't care! All that matters is that Garl is back!"
+    1 string data = "Nechápu jak a je mi to jedno! Záleží jen na tom, že je Garl zpátky!"
    [252]
-    1 string data = "Hey, we have a town elder now! I think I'll build his house right here. Will you come back later to see it?"
+    1 string data = "Hej, teď máme stařešinu města! Myslím, že mu tady postavím dům. Přijdete se na něj později podívat?"
    [253]
-    1 string data = "Elder Moraine's house is all done! Have to say I'm pretty happy with the result."
+    1 string data = "Dům stařešiny Moraina je hotový! Musím říct, že jsem s výsledkem docela spokojený."
    [254]
-    1 string data = "Mirth feels so right!"
+    1 string data = "Veselí je opravdu dobré!"
    [255]
-    1 string data = "There's still a lot of work left to be done, but we have a good thing going on here."
+    1 string data = "Ještě zbývá udělat spoustu práce, ale máme to tady dobře rozjeté."
    [256]
-    1 string data = "We have a really nice fishing pond, it's become my new hobby!"
+    1 string data = "Máme opravdu pěkný rybník, začínám mít nový koníček!"
    [257]
-    1 string data = "I don't know what to think about Garl's death. I... I just..."
+    1 string data = "Nevím, co si mám myslet o Garlově smrti. Já... Já prostě..."
    [258]
-    1 string data = "I'm so glad I moved here. As soon as I smelled the piny air, I knew it was the right decision!"
+    1 string data = "Jsem tak šťastný, že jsem se sem přestěhoval. Jakmile jsem ucítil vzduch plný borovic, věděl jsem, že to bylo správné rozhodnutí!"
    [259]
-    1 string data = "This place is so peaceful..."
+    1 string data = "Tohle místo je tak klidné..."
    [260]
-    1 string data = "I'm impressed with how everyone worked so hard. I suppose that's purpose for you."
+    1 string data = "Jsem ohromen tím, jak všichni tvrdě pracují. Předpokládám, že je to tím účelem."
    [261]
-    1 string data = "The air is so good here."
+    1 string data = "Je tu tak dobrý vzduch."
    [262]
-    1 string data = "I should go check out the Crypt north of town. Some people went and said it was really impressive."
+    1 string data = "Měl bych se jít podívat do Krypty na severu od města. Někteří lidé tam byli a říkali, že je to opravdu působivé."
    [263]
-    1 string data = "I went to the Crypt. It'll take more than one visit if I'm to take it all in!"
+    1 string data = "Šel jsem se podívat do Krypty. Bude to chtít víc než jednu návštěvu, jestli to mám všechno pojmout!"
    [264]
-    1 string data = "After losing almost everything in Brisk, it's great to be starting anew."
+    1 string data = "Je skvělé začít znovu poté, co jsem ve Veselí přišel skoro o všechno."
    [265]
-    1 string data = "I'm so saddened by Garl's death..."
+    1 string data = "Jsem moc zarmoucený Garlovou smrtí..."
    [266]
-    1 string data = "I'm so gladdened by Garl's return!"
+    1 string data = "Jsem moc potěšen Garlovým návratem!"
    [267]
-    1 string data = "We even have a town elder? Mirth feels so real already!"
+    1 string data = "Máme dokonce městského stařešinu? Veselí už začíná být opravdové!"
    [268]
-    1 string data = "Elder Moraine is very wise, but he seems to be carrying a lot of grief... I hope Mirth can bring him peace."
+    1 string data = "Stařešina Moraine je velmi moudrý, ale zdá se, že v sobě nese spoustu zármutku... Doufám, že mu Veselí přinese klid."
    [269]
-    1 string data = "And now for a well-deserved break!"
+    1 string data = "A teď zasloužená přestávka!"
    [270]
-    1 string data = "I should go and visit my old friends in Brisk soon, see how they're holding up."
+    1 string data = "Měl bych brzy navštívit své staré přátele ve Svěžíně, podívat se, jak se drží."
    [271]
-    1 string data = "Oh, [MAINCHAR] and [OFFCHAR]! Perhaps you could help me? I feel like Mirth could benefit from more amenities, but I find myself at an impasse."
+    1 string data = "Ach, [MAINCHAR] a [OFFCHAR]! Možná byste mi mohli pomoci? Mám pocit, že by Veselí prospělo více služeb, ale ocitl jsem se ve slepé uličce."
    [272]
-    1 string data = "You see, building small houses is easy enough, but for more complex structures, we would need some <color=magic>plans</color>."
+    1 string data = "Víte, stavět malé domky je dost snadné, ale pro složitější stavby bychom potřebovali nějaké <color=magic>plány</color>."
    [273]
-    1 string data = "If you find any, would you mind bringing them to me? Mirth would only be better for it!"
+    1 string data = "Pokud nějaké najdete, nevadilo by vám přinést mi je? Veselí by to jen prospělo!"
    [274]
-    1 string data = "Have you found any new <color=magic>building plans</color>?"
+    1 string data = "Našli jste nějaké nové <color=magic>stavební plány</color>?"
    [275]
-    1 string data = "Interesting! Let's get to work!"
+    1 string data = "Zajímavé! Pojďme se pustit do práce!"
    [276]
-    1 string data = "That worked out nicely! Had you already found a professional to run the place?"
+    1 string data = "To se hezky povedlo! Už jste našli profesionála, který to tu bude provozovat?"
    [277]
-    1 string data = "The place feels complete now. We really have something special here, thanks again for your help!"
+    1 string data = "Tohle místo se už zdá být kompletní. Máme tu opravdu něco výjimečného, ještě jednou díky za pomoc!"
    [278]
-    1 string data = "A shop has been unlocked in Mirth!"
+    1 string data = "Ve Veselí byl odemčen obchod!"
    [279]
-    1 string data = "You can now fish at the new house in Mirth!"
+    1 string data = "Ve Veselí můžete nyní rybařit v novém domě!"
    [280]
-    1 string data = "This special lake will contain random selections from the species you've already caught."
+    1 string data = "Tento speciální rybník bude obsahovat náhodný výběr z druhů, které jste již ulovili."
    [281]
-    1 string data = "You can now relax at the spa in Mirth!"
+    1 string data = "Nyní můžete relaxovat v lázních ve Veselí!"
    [282]
-    1 string data = "Who knows what benefits may come from relieving some stress?"
+    1 string data = "Kdo ví, jaké přínosy může mít uvolnění stresu?"
    [283]
-    1 string data = "The inn is now available in Mirth!"
+    1 string data = "Ve Veselí je nyní k dispozici hostinec!"
