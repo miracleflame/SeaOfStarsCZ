@@ -13,141 +13,141 @@
   1 Array Array (359 items)
    0 int size = 359
    [0]
-    1 string data = "This place seems huge, but I don't sense any evil anywhere..."
+    1 string data = "Vypadá to tu být obrovské, ale nikde necítím žádné zlo..."
    [1]
-    1 string data = "It feels so ancient..."
+    1 string data = "Působí to starobyle..."
    [2]
-    1 string data = "My oh my, visitors!"
+    1 string data = "Ty jo, návštěvníci!"
    [3]
-    1 string data = "Huh??"
+    1 string data = "Hmm??"
    [4]
-    1 string data = "Oh, just here, to your right."
+    1 string data = "Aha, tady, napravo."
    [5]
-    1 string data = "Welcome to <color=location>The Crypt</color>!"
+    1 string data = "Vítejte v <color=location>Kryptě</color>!"
    [6]
-    1 string data = "Are... you trapped in the lantern?"
+    1 string data = "Vy jste... uvězněni v lucerně?""
    [7]
-    1 string data = "I am <color=good>The Cryptwalker</color>! And no, this lantern is my home."
+    1 string data = "Já jsem <color=dobrá>Kryptochodec</color>! A ne, v této lucerně jsem doma."
    [8]
-    1 string data = "Though I must admit, I do feel limited seeing as my fire went out..."
+    1 string data = "I když musím přiznat, že se cítím omezený, když mi zhasl oheň..."
    [9]
-    1 string data = "You, the sun one, mind giving me a little spark?"
+    1 string data = "Ty, sluneční, mohl bys mi dát trochu jiskry?"
    [10]
-    1 string data = "Uh, sure..."
+    1 string data = "Uh, jistě..."
    [11]
-    1 string data = "Much better! Please follow me, it's right this way."
+    1 string data = "O mnoho lepší! Prosím, následujte mě, je to přímo tudy."
    [12]
-    1 string data = "Now, who have you come to commemorate today?"
+    1 string data = "Tak, komu jste dnes přišli uctít památku?"
    [13]
-    1 string data = "Commemorate? We... aren't here for that..."
+    1 string data = "Uctít památku? My... tu nejsme kvůli tomu..."
    [14]
-    1 string data = "Oh?"
+    1 string data = "Aha?"
    [15]
-    1 string data = "We brought a group of settlers to this island without knowing it was occupied."
+    1 string data = "Přivedli jsme na tento ostrov skupinu osadníků, aniž bychom věděli, že je obsazený."
    [16]
-    1 string data = "Well, technically, it is not!"
+    1 string data = "No, technicky vzato není!"
    [17]
-    1 string data = "You say people have come to live near The Crypt, then?"
+    1 string data = "Říkáte tedy, že lidé přišli žít do blízkosti Krypty?"
    [18]
-    1 string data = "Yes, if that's okay with you. We really need to make sure they'll be safe."
+    1 string data = "Ano, pokud vám to nevadí. Opravdu se musíme ujistit, že budou v bezpečí."
    [19]
-    1 string data = "Oh, absolutely!"
+    1 string data = "Ach, to rozhodně!"
    [20]
-    1 string data = "Visitors, neighbors, the more the merrier! All I want is for the Crypt's mementos to be witnessed."
+    1 string data = "Návštěvníci, sousedé, čím více, tím lépe! Vše, co chci, je, aby památky na Kryptu měly diváky."
    [21]
-    1 string data = "This place contains thousands of stones, statues and monuments dedicated to the memory of the early builders and visionaries of this little world of ours."
+    1 string data = "Na tomto místě jsou tisíce kamenů, soch a pomníků věnovaných památce prvních stavitelů a vizionářů tohoto našeho malého světa."
    [22]
-    1 string data = "And I do mean thousands!"
+    1 string data = "A tím opravdu myslím tisíce!"
    [23]
-    1 string data = "Feel free to appreciate the place and its monuments at your convenience."
+    1 string data = "Neváhejte a vychutnejte si toto místo a jeho monumenty dle libosti."
    [24]
-    1 string data = "If there is a specific piece you are looking for and have its coordinates, I'll be happy to show you to it."
+    1 string data = "Pokud hledáte nějaký konkrétní kousek a máte jeho souřadnice, rád vás k němu zavedu".
    [25]
-    1 string data = "Otherwise, rest assured that this crypt is entirely neutral and optional, so if you would rather move on with your adventures, you can do so right away."
+    1 string data = "Jinak si buďte jisti, že tato krypta je zcela neutrální a dobrovolná, takže pokud byste raději pokračovali ve svých dobrodružstvích, můžete tak učinit hned."
    [26]
-    1 string data = "Don't be a stranger now!"
+    1 string data = "Jako doma!"
    [27]
-    1 string data = "What were your plans in The Crypt today?"
+    1 string data = "Jaké byly vaše dnešní plány v Kryptě?"
    [28]
-    1 string data = "I have a code"
+    1 string data = "Mám kód"
    [29]
-    1 string data = "Just checking"
+    1 string data = "Jenom se rozhlížíme"
    [30]
-    1 string data = "Add this memorial to the display room?"
+    1 string data = "Přidat tento pomník do výstavní místnosti?"
    [31]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [32]
-    1 string data = "No"
+    1 string data = "Ne"
    [33]
-    1 string data = "The display slot can be edited."
+    1 string data = "Výstavu lze upravovat."
    [34]
-    1 string data = "Remove Memorial"
+    1 string data = "Odstranit pomník"
    [35]
-    1 string data = "Enter a code"
+    1 string data = "Zadejte kód"
    [36]
-    1 string data = "This memorial doesn't fit here."
+    1 string data = "Tento pomník se sem nevejde."
    [37]
-    1 string data = "You can set which memorial goes here by entering its code."
+    1 string data = "Můžete určit, který pomník půjde sem, zadáním jeho kódu."
    [38]
-    1 string data = "Enter code"
+    1 string data = "Zadejte kód"
    [39]
-    1 string data = "Maybe later"
+    1 string data = "Možná později"
    [40]
-    1 string data = "This memorial doesn't fit here."
+    1 string data = "Tento pomník se sem nevejde."
    [41]
-    1 string data = "How's the progress?"
+    1 string data = "Jak to jde?"
    [42]
-    1 string data = "Pretty good!"
+    1 string data = "Docela dobrý!"
    [43]
-    1 string data = "I've been thinking about Yomara's notes. You know, about the flood."
+    1 string data = "Přemýšlel jsem o poznámkách Yomary. Víš, o té povodni."
    [44]
-    1 string data = "No worries, I'll make the big window extra thick!"
+    1 string data = "Bez obav, udělám to velké okno obzvlášť tlusté!"
    [45]
-    1 string data = "Well, do you like the central piece?"
+    1 string data = "Tak co, líbí se ti ten centrální kousek?"
    [46]
-    1 string data = "Yes. It's perfect."
+    1 string data = "Ano, je perfektní."
    [47]
-    1 string data = "How's the progress?"
+    1 string data = "Jak to jde?"
    [48]
-    1 string data = "Pretty good!"
+    1 string data = "Docela dobrý!"
    [49]
-    1 string data = "I've been thinking about Yomara's notes. You know, about the flood."
+    1 string data = "Přemýšlel jsem o poznámkách Yomary. Víš, o té povodni."
    [50]
-    1 string data = "No worries, I'll make the big window extra thick!"
+    1 string data = "Bez obav, udělám to velké okno obzvlášť tlusté!"
    [51]
-    1 string data = "Well, do you like the central piece?"
+    1 string data = "Tak co, líbí se ti ten centrální kousek?"
    [52]
-    1 string data = "Yes. It's perfect."
+    1 string data = "Ano, je perfektní."
    [53]
     1 string data = "Ha!"
    [54]
-    1 string data = "Hey, you'll be late if you don't leave soon."
+    1 string data = "Hej, jestli brzy neodejdeš, přijdeš pozdě."
    [55]
-    1 string data = "Oops! Yeah, I guess I should head out."
+    1 string data = "Jejda! Jo, asi bych měl vyrazit."
    [56]
-    1 string data = "Hey, old friend!"
+    1 string data = "Ahoj, starý příteli!"
    [57]
-    1 string data = "Happy birthday, Master."
+    1 string data = "Všechno nejlepší, Pane."
    [58]
-    1 string data = "For the millionth time, please stop calling me that."
+    1 string data = "Po milionté tě žádám prosím, přestaň mi tak říkat."
    [59]
-    1 string data = "Are you ready to go, then?"
+    1 string data = "Tak co, už můžete jít?"
    [60]
-    1 string data = "Oh yeah! Can't be late for that!"
+    1 string data = "To jo! Tohle nemůžu zmeškat!"
    [61]
-    1 string data = "The wall looks rather <color=magic>flimsy</color>..."
+    1 string data = "Ta zeď vypadá poněkud <color=magic>chabě</color>..."
    [62]
-    1 string data = "It was not an easy task making all this but I'm incredibly proud of everyone in here. I hope you enjoyed it!"
+    1 string data = "Nebylo snadné to všechno vytvořit, ale jsem na všechny tady neuvěřitelně hrdý. Doufám, že se vám to líbilo!"
    [63]
-    1 string data = "(That'll save Dzidzi a lot of time for sure.)"
+    1 string data = "(To určitě ušetří Dzidzi spoustu času.)"
    [64]
     1 string data = "..."
    [65]
     1 string data = "..."
    [66]
-    1 string data = "*undecipherable graphics programming conversation*"
+    1 string data = "*nesrozumitelná konverzace o grafickém programování*"
    [67]
-    1 string data = "Out of all the characters I helped to create, Conan is my favorite. His mom gets most of the credit though."
+    1 string data = "Ze všech postav, které jsem pomáhal vytvořit, je Conan můj nejoblíbenější. Největší zásluhu na tom má ale jeho máma."
    [68]
     1 string data = "..."
    [69]
@@ -157,117 +157,117 @@
    [71]
     1 string data = "..."
    [72]
-    1 string data = "If you want to pretend the characters are having dance-offs instead of fighting, I give you my official animator permission."
+    1 string data = "Pokud chcete předstírat, že postavy místo boje tančí, dávám vám oficiální svolení animátora."
    [73]
-    1 string data = "Erlina for me today."
+    1 string data = "Dnes za mně Erlina."
    [74]
     1 string data = "..."
    [75]
-    1 string data = "(Duke Aventry's hammer has to feel HEAVY.)"
+    1 string data = "(Kladivo vévody Aventryho musí být těžké.)"
    [76]
     1 string data = "Mangouste?"
    [77]
-    1 string data = "I hope you enjoyed the game as much as I think I would have if I didn't get it spoiled by working on it."
+    1 string data = "Doufám, že jste si hru užili tak, jak si myslím, že bych si ji užil já, kdybych si ji nezkazil prací na ní."
    [78]
-    1 string data = "(The character controller for The Messenger was a lot simpler.)"
+    1 string data = "(Ovladání postavy v The Messenger bylo mnohem jednodušší.)"
    [79]
     1 string data = "..."
    [80]
-    1 string data = "Lots of bugs to fix, but we're getting there."
+    1 string data = "Je třeba opravit spoustu chyb, ale už se nám to daří."
    [81]
-    1 string data = "Going camping tomorrow!"
+    1 string data = "Zítra jedeme kempovat!"
    [82]
     1 string data = "Merci <color=good>Thierry</color>."
    [83]
-    1 string data = "Numbers are good!"
+    1 string data = "Čísla jsou dobrá!"
    [84]
     1 string data = "..."
    [85]
-    1 string data = "I'm sure people will be excited about Seraï."
+    1 string data = "Jsem si jistý, že lidé budou ze Seraï nadšení."
    [86]
-    1 string data = "The week went by so fast."
+    1 string data = "Ten týden uběhl tak rychle."
    [87]
-    1 string data = "I'll miss this production, but getting some sleep will be nice. Did you have fun playing? The team worked really hard on making it as good as possible!"
+    1 string data = "Bude mi chybět tahle produkce, ale vyspat se bude fajn. Bavilo vás hraní? Tým se opravdu snažil, aby to bylo co nejlepší!"
    [88]
-    1 string data = "(I really hope people will like the script...)"
+    1 string data = "(Opravdu doufám, že se scénář bude lidem líbit...)"
    [89]
-    1 string data = "Did you come for the all-hands meeting? Sorry, we have to keep the next game's idea to ourselves for now!"
+    1 string data = "Přišli jste na hromadné setkání všech? Omlouváme se, ale nápad na další hru si zatím musíme nechat pro sebe!"
    [90]
-    1 string data = "We're in build review! And it's the final one too, can you believe it?"
+    1 string data = "Revidujeme build! A zhodou okolností je to ten finální, věřili byste tomu?"
    [91]
-    1 string data = "This team is awesome. What a blessing."
+    1 string data = "Tenhle tým je úžasný. Jaké to požehnání."
    [92]
-    1 string data = "I'm so blessed as a community manager. The Sea of Stars community is simply the best, don't you think?"
+    1 string data = "Jako komunitní manažer jsem naprosto blažený. Komunita Sea of Stars je prostě nejlepší, nemyslíte?"
    [93]
-    1 string data = "Sorry I can't talk, have to reply to all these comments!"
+    1 string data = "Omlouvám se, že nemůžu mluvit, musím odpovídat na všechny ty komentáře!"
    [94]
     1 string data = "..."
    [95]
-    1 string data = "This'll be good!"
+    1 string data = "To bude dobré!"
    [96]
-    1 string data = "Hey there!"
+    1 string data = "Čauky!"
    [97]
-    1 string data = "I hope we could show you something new on this journey back to our childhoods."
+    1 string data = "Doufám, že jsme vám na této cestě zpět do našich dětských let mohli ukázat něco nového."
    [98]
-    1 string data = "If being late to the meeting is wrong, I don't want to be right."
+    1 string data = "Pokud je pozdní příchod na schůzku špatný, nechci být správný".
    [99]
     1 string data = "..."
    [100]
-    1 string data = "Morning!"
+    1 string data = "Ránko!"
    [101]
-    1 string data = "Friday vibes!"
+    1 string data = "Páteční vibrace!"
    [102]
-    1 string data = "Am I speaking to the player or [MAINCHAR]? In any case, hope you had fun discovering the world!"
+    1 string data = "Je to [MAINCHAR] nebo hráč, ke komu mluvím? Každopádně doufám, že jste se při objevování světa dobře bavili!"
    [103]
-    1 string data = "(A clockwork door, huh?)"
+    1 string data = "(Mechanické dveře, co?)"
    [104]
     1 string data = "..."
    [105]
-    1 string data = "(Work, work.)"
+    1 string data = "(Makat, makat.)"
    [106]
-    1 string data = "I always make sure we stop working at 4pm on Fridays."
+    1 string data = "Vždycky dbám na to, abychom v pátek přestali pracovat v 16:00."
    [107]
-    1 string data = "I'm J-P, an integrator. I used to find bugs, but now I fix them! And also cause them... I don't know... I'm not a mechanic!"
+    1 string data = "Jsem J-P, integrátor. Dřív jsem hledal chyby, ale teď je opravuji! A také je způsobuji... Já nevím... Nejsem mechanik!"
    [108]
-    1 string data = "(Wait, we need this to activate the door, not the elevator.)"
+    1 string data = "(Počkat, tohle potřebujeme k aktivaci dveří, ne výtahu.)"
    [109]
     1 string data = "..."
    [110]
-    1 string data = "(It's shaping up!)"
+    1 string data = "(Nabírá to formu!)"
    [111]
-    1 string data = "I'm playing some retro games tonight. Tomorrow too."
+    1 string data = "Dnes večer budu hrát nějaké retro hry. Zítra taky."
    [112]
-    1 string data = "Whoa!!! Have you seen all those animations !?! I'm so proud of what we have accomplished!"
+    1 string data = "Wou!!!! Viděli jste všechny ty animace !?! Jsem tak hrdý na to, co jsme dokázali!"
    [113]
-    1 string data = "I'll make sure the lists are up to date."
+    1 string data = "Zajistím, aby byly seznamy aktuální."
    [114]
     1 string data = "..."
    [115]
-    1 string data = "(Wait, I need to put that in the other column...)"
+    1 string data = "(Počkat, to musím dát do druhého sloupce...)"
    [116]
-    1 string data = "Everything's on track!"
+    1 string data = "Vše je na správné cestě!"
    [117]
-    1 string data = "Hey, I'm Miko! I create the visuals for the environments in our games! Did you enjoy discovering all the vistas?"
+    1 string data = "Ahoj, já jsem Miko! Vytvářím vizualizace prostředí v našich hrách! Líbilo se vám objevování všech výhledů?"
    [118]
-    1 string data = "(Nothing like working on a new biome!)"
+    1 string data = "(Není nad to pracovat na novém biomu!)"
    [119]
     1 string data = "..."
    [120]
-    1 string data = "Just doing minor tweaks at this point."
+    1 string data = "V tuto chvíli děláme jen drobné úpravy."
    [121]
-    1 string data = "Another productive week behind us. Feels good to chill a bit."
+    1 string data = "Další produktivní týden za námi. Je příjemné se trochu zklidnit."
    [122]
-    1 string data = "Office hours? Ever since those solstice kids came around, no one can really tell the time of day!"
+    1 string data = "Úřední hodiny? Od té doby, co se objevily ty děti slunovratu, nikdo nedokáže určit, kolik je hodin!"
    [123]
-    1 string data = "I'm working on X'tol today."
+    1 string data = "Dnes pracuji na X'tolovi."
    [124]
     1 string data = "..."
    [125]
-    1 string data = "(Oh, this'll be good!)"
+    1 string data = "(Ó, to bude dobré!)"
    [126]
-    1 string data = "It's always fun to spend time with the team."
+    1 string data = "Trávit čas s týmem je vždycky zábava."
    [127]
-    1 string data = "Huh? Oh, I'm Greg. The squirrels will tell you different, but I'm an animator. Don't listen to their squeaky whispers... they tell lies."
+    1 string data = "Hm? Oh, já jsem Greg. Veverky vám řeknou něco jiného, ale já jsem animátor. Neposlouchejte jejich pisklavé šeptání... lžou."
    [128]
     1 string data = "..."
    [129]
@@ -277,9 +277,9 @@
    [131]
     1 string data = "..."
    [132]
-    1 string data = "I'm Jake, I helped Eric with the music and sound effects. This is the first game I've ever worked on and I couldn't have asked to be a part of a better team!"
+    1 string data = "Jsem Jake, pomáhal jsem Ericovi s hudbou a zvukovými efekty. Je to první hra, na které jsem kdy pracoval, a nemohl jsem si přát být součástí lepšího týmu!"
    [133]
-    1 string data = "Maybe a modal key change would add to the musicality of the piece without being an overly heavy-handed metaphor within the context of the thematic material."
+    1 string data = "Možná by změna modální tóniny přispěla k muzikálnosti díla, aniž by to byla příliš těžkopádná metafora v kontextu tematického materiálu."
    [134]
     1 string data = "..."
    [135]
@@ -287,27 +287,27 @@
    [136]
     1 string data = "..."
    [137]
-    1 string data = "Now THAT would be a great buzzword for a graphics feature! *laughs in HLSL*"
+    1 string data = "Tak TOHLE by byl skvělý buzzword pro grafickou funkci! *směje se v HLSL*"
    [138]
-    1 string data = "(And now to batch this process...)"
+    1 string data = "(A nyní k dávkování tohoto procesu...)"
    [139]
     1 string data = "..."
    [140]
     1 string data = "..."
    [141]
-    1 string data = "*undecipherable graphics programming conversation*"
+    1 string data = "*nesrozumitelná konverzace o grafickém programování*"
    [142]
-    1 string data = "This textbox should be nudged half a pixel to the left."
+    1 string data = "Toto textové pole by mělo být posunuto o půl pixelu doleva."
    [143]
-    1 string data = "(Inventory, now that's fun!)"
+    1 string data = "(Inventář, tak to je ještě jenom zábava!)"
    [144]
     1 string data = "..."
    [145]
-    1 string data = "Want to see the launch trailer? I'm almost done!"
+    1 string data = "Chcete se podívat na upoutávku vydání? Už jsem skoro hotový!"
    [146]
-    1 string data = "My weekend's all booked already."
+    1 string data = "Přes víkend už mám obsazeno."
    [147]
-    1 string data = "Now, where did I put that thing again..."
+    1 string data = "Kam jsem to zase dal..."
    [148]
     1 string data = "..."
    [149]
@@ -317,27 +317,27 @@
    [151]
     1 string data = "..."
    [152]
-    1 string data = "I sincerely hope that we were able to communicate the love we have for games through the Sea of Stars experience."
+    1 string data = "Upřímně doufám, že se nám prostřednictvím zážitku ze Sea of stars podařilo předat lásku, kterou chováme ke hrám."
    [153]
-    1 string data = "(Glacial Peak, it's been a while...)"
+    1 string data = "(Ledovcový vrch, už je to nějaký čas...)"
    [154]
     1 string data = "..."
    [155]
-    1 string data = "It feels like the whole team is genuinely happy with the game. What a time."
+    1 string data = "Mám pocit, že celý tým je se hrou upřímně spokojený. Tomuhle říkám časy."
    [156]
-    1 string data = "Lots on my plate still, but the weekend will be good!"
+    1 string data = "Ještě toho mám hodně na talíři, ale víkend bude dobrý!"
    [157]
-    1 string data = "I hope I made things move in a way that moved you."
+    1 string data = "Doufám, že jsem věci rozhýbal tak, aby vás to dojalo."
    [158]
-    1 string data = "More climb animations!"
+    1 string data = "Další animace lezení!"
    [159]
     1 string data = "..."
    [160]
-    1 string data = "(Ultimate attacks are so fun to work on!)"
+    1 string data = "(Ultimátní útoky jsou tak zábavné!)"
    [161]
-    1 string data = "Might be going out after!"
+    1 string data = "Možná půjdeme pak ven!"
    [162]
-    1 string data = "I enjoyed composing for Sea of Stars. I hope you enjoyed the nostalgic music."
+    1 string data = "Skládání pro Sea of Stars mě bavilo. Doufám, že se vám nostalgická hudba líbila."
    [163]
     1 string data = "..."
    [164]
@@ -347,9 +347,9 @@
    [166]
     1 string data = "..."
    [167]
-    1 string data = "Eric's the name, music and audio design is the game. For the game. It's my own game within the game. This game, in fact. Oh no, help!! I'm trapped inside the game!!"
+    1 string data = "Eric je jméno, hudba a zvukový design je hra. Pro hru. Je to moje vlastní hra ve hře. Vlastně tahle hra. Ale ne, pomoc!!! Jsem uvězněn uvnitř hry!!!"
    [168]
-    1 string data = "What if we side-chained the multiband compressor to attenuate the lows every time there's a sharp transient in the 4khz range?"
+    1 řetězcová data = "Co kdybychom bočně zřetězili vícepásmový kompresor, aby utlumil nízké tóny pokaždé, když se objeví ostrý přechodový jev v rozsahu 4 khz?".
    [169]
     1 string data = "..."
    [170]
@@ -357,61 +357,61 @@
    [171]
     1 string data = "..."
    [172]
-    1 string data = "It was a really fun journey being a part of this production. I think we ended up with a pretty cool game, do you agree?"
+    1 string data = "Byla to opravdu zábavná cesta být součástí této inscenace. Myslím, že jsme nakonec vytvořili docela dobrou hru, souhlasíte?"
    [173]
-    1 string data = "Oh hey, I'm doing a backup of all the work files tonight, make sure to commit everything you need before 8, okay?"
+    1 string data = "Hele, dneska večer dělám zálohu všech pracovních souborů, nezapomeň do osmi odevzdat všechno, co potřebuješ, jo?"
    [174]
     1 string data = "..."
    [175]
-    1 string data = "Optimization is going well, we're hitting 60 fps for real!"
+    1 string data = "Optimalizace probíhá dobře, už se opravdu dostáváme na 60 fps!"
    [176]
-    1 string data = "I might do another backup over the weekend to be safe."
+    1 string data = "O víkendu možná pro jistotu provedu další zálohu."
    [177]
-    1 string data = "Around the age of 6 I fell in love with RPGs after playing FF1 and decided this is what I wanted to do when I grow up. 30 years later and with the best team ever, my childhood dream has come true!"
+    1 string data = "Asi v šesti letech jsem se po hraní FF1 zamiloval do RPG a rozhodl se, že tohle chci dělat, až vyrostu. O 30 let později a s nejlepším týmem všech dob se mi splnil dětský sen!"
    [178]
-    1 string data = "(With a little camera shake here and...)"
+    1 string data = "(S trochou třesu kamery tady a tady...)"
    [179]
     1 string data = "..."
    [180]
-    1 string data = "Only got about thirty notes this time. Should be a breeze!"
+    1 string data = "Tentokrát mám jen asi třicet not. Měla by to být hračka!"
    [181]
-    1 string data = "Cheers!"
+    1 string data = "Na zdraví!"
    [182]
-    1 string data = "Hey! I animated a few characters, and then I started blowing them up instead! ... Sorry about all the explosions you took to the face!"
+    1 string data = "Hej! Animoval jsem pár znaků a pak jsem je místo toho začal vyhazovat do vzduchu! ... Omlouvám se za všechny ty výbuchy, které jsi schytal do obličeje!"
    [183]
-    1 string data = "VFX for me! I want to improve the Dweller of Woe's death sequence."
+    1 string data = "VFX pro mě! Chci vylepšit sekvenci smrti Obyvatele běd."
    [184]
     1 string data = "..."
    [185]
-    1 string data = "(Can't wait to show Jeakim!)"
+    1 string data = "(Nemůžu se dočkat, až to ukážu Jeakimovi!)"
    [186]
-    1 string data = "Hey, good to see you!"
+    1 string data = "Ahoj, rád tě vidím!"
    [187]
-    1 string data = "I'm so proud I got to be a part of this amazing team!"
+    1 string data = "Jsem tak hrdý, že jsem se stal součástí tohoto úžasného týmu!"
    [188]
-    1 string data = "Hello, did you need anything?"
+    1 string data = "Ahoj, nepotřebuješ něco?"
    [189]
     1 string data = "..."
    [190]
-    1 string data = "Everyone is doing such a good job."
+    1 string data = "Všichni dělají tak dobrou práci."
    [191]
-    1 string data = "Hey, are you here for happy hour?"
+    1 string data = "Ahoj, jsi tady na šťastnou hodinku?"
    [192]
-    1 string data = "*Buddy stares softly, relieving a tightness in your chest you didn't even know was there.*"
+    1 string data = "*Kamarádka se na tebe jemně dívá a uvolňuje ti napětí v hrudi, o kterém jsi ani nevěděl, že tam je.*"
    [193]
-    1 string data = "I'm Olivier from Berzerk! I coded mostly under-the-hood stuff but I also managed the publishing of the game. If you are playing, it means we did it! Yay! Hope you enjoy it!"
+    1 string data = "Já jsem Olivier z Berzerku! Kódoval jsem hlavně věci pod pokličkou, ale také jsem řídil vydávání hry. Pokud hrajete, znamená to, že se nám to povedlo! Hurá! Doufám, že se vám to bude líbit!"
    [194]
-    1 string data = "(I should probably start hooking up the achievements...)"
+    1 string data = "(Asi bych měl začít připojovat achievementy...)"
    [195]
     1 string data = "..."
    [196]
-    1 string data = "(Wait, that can't be right... Oh! I see.)"
+    1 string data = "(Počkat, to nemůže být pravda... Aha! Už chápu.)"
    [197]
     1 string data = "..."
    [198]
-    1 string data = "I'm the one finding the bugs now that J-P is causing them!"
+    1 string data = "To já teď hledám chyby, když je způsobuje J-P!"
    [199]
-    1 string data = "The game runs great!"
+    1 string data = "Hra běží skvěle!"
    [200]
     1 string data = "..."
    [201]
@@ -419,7 +419,7 @@
    [202]
     1 string data = "..."
    [203]
-    1 string data = "Yo! I'm Reece and I play acoustic instruments. I don't really know how I got here but hot dog am I glad to be a part of this rad game! Also, feel free to mail me a hot dog!"
+    1 string data = "Yo! Jsem Reece a hraju na akustické nástroje. Ani nevím, jak jsem se sem dostal, ale těší mě, že jsem součástí téhle skvělé hry! A taky mi klidně pošlete hot dog!"
    [204]
     1 string data = "..."
    [205]
@@ -429,29 +429,29 @@
    [207]
     1 string data = "..."
    [208]
-    1 string data = "Fourth wall, huh?"
+    1 string data = "Čtvrtá zeď, co?"
    [209]
-    1 string data = "Sure, let's chat."
+    1 string data = "Jistě, pojďme si popovídat."
    [210]
     1 string data = "Scuse me."
    [211]
     1 string data = "..."
    [212]
-    1 string data = "Have we met before?"
+    1 string data = "Už jsme se někdy setkali?"
    [213]
-    1 string data = "Well, if we have and you're about to complain about some time paradox, maybe consider that it was you who just broke the fourth wall."
+    1 string data = "No, pokud ano a chystáš se stěžovat si na nějaký časový paradox, možná zvaž, že jsi to byl ty, kdo právě prolomil čtvrtou stěnu."
    [214]
-    1 string data = "You're probably not getting a raise either, but the cabinet's all yours if you wanna knock yourself out."
+    1 string data = "Nejspíš taky nedostaneš přidáno, ale skříň je celá tvoje, jestli se chceš odrovnat."
    [215]
-    1 string data = "Well, look at you! You've made it to the end."
+    1 string data = "No, podívejme se na tebe! Zvládl jsi to až do konce."
    [216]
-    1 string data = "What?"
+    1 string data = "Cože?"
    [217]
-    1 string data = "You did it all, it's over."
+    1 string data = "Zvládl jsi to všechno, je konec."
    [218]
-    1 string data = "You just met the actual team, what more do you want?"
+    1 string data = "Právě jsi poznal skutečný tým, co víc chceš?"
    [219]
-    1 string data = "The show's over, I'm going to bed and so should you."
+    1 string data = "Představení skončilo, jdu spát a ty bys měl jít taky."
    [220]
     1 string data = "..."
    [221]
@@ -475,129 +475,129 @@
    [230]
     1 string data = "..."
    [231]
-    1 string data = "Alright, you wanna hear a rant?"
+    1 string data = "Dobrá, chcete slyšet tlachy?"
    [232]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [233]
-    1 string data = "No"
+    1 string data = "Ne"
    [234]
-    1 string data = "Are you sure? There's no cutting me off."
+    1 string data = "Určitě? Nejde mě přerušit."
    [235]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [236]
-    1 string data = "No"
+    1 string data = "Ne"
    [237]
-    1 string data = "Fine."
+    1 string data = "Fajn."
    [238]
-    1 string data = "So, you beat the game. Did you like it?"
+    1 string data = "Takže jste dohráli hru. Líbila se vám?"
    [239]
-    1 string data = "Did the show STEAL ITSELF?"
+    1 string data = "Překonala ta hra samu sebe?"
    [240]
-    1 string data = "Did it do everything you wanted?"
+    1 string data = "Udělala vše, co jste chtěli?"
    [241]
-    1 string data = "And more importantly, did it "respect your time?""
+    1 string data = "A co je důležitější, ‚respektovala váš čas?‘"
    [242]
-    1 string data = "Would you say the team created some content here, or are you reserving that term for those who will play it in front of a virtual crowd?"
+    1 string data = "Řekli byste, že zde tým vytvořil nějaký 'content', nebo si tento termín vyhrazujete pro ty, kteří jej budou hrát před virtuálním publikem?"
    [243]
     1 string data = "..."
    [244]
-    1 string data = "Okay, let's start slow."
+    1 string data = "Dobře, začněme pomalu."
    [245]
-    1 string data = "Congratulations, you defeated all the bosses!"
+    1 string data = "Gratulace, porazili jste všechny bossy!"
    [246]
-    1 string data = "You resurrected your best friend!"
+    1 string data = "Vzkřísili jste svého nejlepšího kamaráda!"
    [247]
-    1 string data = "You found all the Rainbow Conches!"
+    1 string data = "Našli jste všechny duhové šišky!"
    [248]
-    1 string data = "You fished all the fish!"
+    1 string data = "Ulovili jste všechny ryby!"
    [249]
-    1 string data = "You wheeled all the wheels!"
+    1 string data = "Vyhráli jste všechny kotouče!"
    [250]
-    1 string data = "You quizzed all the quizzes!"
+    1 string data = "Vyhráli jste všechny kvízy!"
    [251]
     1 string data = "..."
    [252]
-    1 string data = "Ugh, last time I tried being boring I ended up making friends who thought we needed more products using “alpha and omega” in their marketing."
+    1 string data = "Uf, když jsem se naposledy snažil být nudný, skončilo to tím, že jsem si našel přátele, kteří si mysleli, že potřebujeme více produktů, které ve svém marketingu používají ‚alfa a omega‘."
    [253]
-    1 string data = "I'm not about to risk that happening again, so let's move on to talking in absolutes, shall we?"
+    1 string data = "Nehodlám riskovat, že se to bude opakovat, takže přejděme k mluvení v absolutních hodnotách, ano?"
    [254]
-    1 string data = "To make a good video game, you need to have grass in the first area, lava close to the fake ending, and a secret boss that's harder than the final boss."
+    1 string data = "Abyste udělali dobrou videohru, musíte mít v první oblasti trávu, poblíž falešného konce lávu a tajného bosse, který je těžší než závěrečný boss."
    [255]
-    1 string data = "Look, I do make the rules. You can either disagree or take some notes."
+    1 string data = "Podívej, to já tvořím pravidla. Můžete buď nesouhlasit, nebo si dělat poznámky."
    [256]
-    1 string data = "For what it's worth I hope you disagree though, if only for the irony of you standing here right now after having turned every stone."
+    1 string data = "Ať už to za to stojí nebo ne, doufám, že nesouhlasíte, už jen kvůli té ironii, že tu teď stojíte poté, co jste obrátili každý kámen."
    [257]
-    1 string data = "If you find me annoying already, just consider that it's not like healthy sleep schedules come easy for me. Also, I don't brush my teeth at work after lunch."
+    1 string data = "Jestli vám už teď připadám otravný, tak vezměte v úvahu, že to ne, že bych neměl nouzi o zdravý režim spánku. A taky si v práci po obědě nečistím zuby."
    [258]
-    1 string data = "I consider myself quite bearable, in fact."
+    1 string data = "Vlastně se považuji za docela snesitelného."
    [259]
-    1 string data = "Anyway, thanks for the warm-up. I'll be here if you feel like getting real."
+    1 string data = "Každopádně díky za rozcvičku. Budu tady, kdybyste to mysleli vážne."
    [260]
-    1 string data = "Still here? I've got more if you want, but it goes a bit deeper."
+    1 string data = "Ještě jste tady? Mám toho víc, jestli chcete, ale jde to trochu hlouběji."
    [261]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [262]
-    1 string data = "No"
+    1 string data = "Ne"
    [263]
-    1 string data = "Are you absolutely sure? There's no cutting me off, and I tend to ramble."
+    1 string data = "Jste si naprosto jisti? Není možné mě přerušit a já mám tendenci blábolit."
    [264]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [265]
-    1 string data = "No"
+    1 string data = "Ne"
    [266]
-    1 string data = "Okay, you asked."
+    1 string data = "Dobrá, řekli jste si o to."
    [267]
-    1 string data = "You know the kind of people who use a niche word they just learned as if everyone knew what it was, but it's really only so someone will ask them to explain it?"
+    1 string data = "Znáte ten typ lidí, kteří používají nicneříkající slovo, které se právě naučili, jako by ho všichni znali, ale ve skutečnosti to dělají jen proto, aby je někdo požádal o vysvětlení?"
    [268]
-    1 string data = "That used to get to me, like there was some injustice in people earning points through manipulation and lying by omission."
+    1 string data = "Kdysi mě to žralo, jako by v tom byla nějaká nespravedlnost, že lidé získávají body manipulací a nepřímou lží."
    [269]
-    1 string data = "But let me tell you one perk about getting older: you start seeing the later chapters of some stories, and they have a lot to teach."
+    1 string data = "Ale řeknu ti jednu výhodu stárnutí: začneš vidět pozdější kapitoly některých příběhů a ty mají co naučit."
    [270]
-    1 string data = "Then one day the realization just hit me: A lot of people are part of a race where no one even knows what they're trying to win."
+    1 string data = "Jednoho dne mi to došlo: Spousta lidí se účastní závodu, kde nikdo ani neví, co se snaží vyhrát."
    [271]
-    1 string data = "And I don't know what the supposed prize is either, I just know that I don't want it."
+    1 string data = "A já taky nevím, co je ta předpokládaná výhra, vím jen, že ji nechci."
    [272]
-    1 string data = "It was kind of freeing, to realize that there can't be anything of substance in a game that doesn't value integrity."
+    1 string data = "Bylo to docela osvobozující, uvědomit si, že ve hře, která si neváží integrity, nemůže být nic podstatného."
    [273]
-    1 string data = "Now, all I feel towards that is slight disappointment when I think of the friendships that could have been."
+    1 string data = "Teď k tomu cítím jen lehké zklamání, když si vzpomenu na přátelství, která mohla být."
    [274]
-    1 string data = "But nothing too disappointing, just kind of like noticing that the bread contains raisins."
+    1 string data = "Ale nic moc zklamání, jen něco jako zjištění, že ten bochník obsahuje rozinky."
    [275]
-    1 string data = "So that's what I do now, I avoid raisin bread without engaging, and it's something I wish I'd started doing decades ago."
+    1 string data = "Tak to teď dělám, vyhýbám se chlebu s rozinkami, aniž bych se angažoval, a je to něco, co bych si přál začít dělat už před desítkami let."
    [276]
-    1 string data = "Are you still with me? I'll save the rest of the real talk for the final part in case this is your stop."
+    1 string data = "Jste pořád se mnou? Zbytek pořádného povídání si nechám na závěrečnou část pro případ, že by vás tohle zastavilo."
    [277]
-    1 string data = "There won't be any judgement from this side in any case."
+    1 string data = "V žádném případě nebude z mé strany žádné posuzování."
    [278]
-    1 string data = "Let's tone it down by talking about music."
+    1 string data = "Zklidníme to tím, že budeme mluvit o hudbě."
    [279]
-    1 string data = "You ever go to a metal show where the musicians paint their faces?"
+    1 string data = "Byli jste někdy na metalovém koncertě, kde si hudebníci malují obličeje?"
    [280]
-    1 string data = "I used to think they were just exaggerating their characters to play to the crowd."
+    1 string data = "Dřív jsem si myslel, že jen přehánějí své postavy, aby hráli na publikum."
    [281]
-    1 string data = "And while I'm sure there's plenty for whom that's the reason, it also dawned on me that some probably just need a persona."
+    1 string data = "A i když jsem si jistý, že pro mnohé je to opravdový důvod, taky mi došlo, že někteří nejspíš jen potřebují osobnost."
    [282]
-    1 string data = "Something that they can become in order to remove whatever insecurities that would prevent them from engaging in pure expression."
+    1 string data = "Něco, čím se mohou stát, aby odstranili jakoukoli váhavost, která by jim bránila zapojit se do čistého projevu."
    [283]
-    1 string data = "Something that provides just enough of a sense of being hidden to tap into a healthy form of anonymity, the empowering kind."
+    1 string data = "Něco, co poskytuje dostatečný pocit utajení, aby se mohli napojit na zdravou formu anonymity, takovou tu posilující."
    [284]
-    1 string data = "Sort of like how wearing sunglasses can remove the extra layer of social anxiety that comes from eye contact."
+    1 string data = "Něco jako když nošení slunečních brýlí dokáže odstranit další vrstvu sociální úzkosti, která vzniká při očním kontaktu."
    [285]
-    1 string data = "To be honest, I've lost count of how many times sunglasses allowed me to say no in public."
+    1 string data = "Abych byl upřímný, už jsem ztratil přehled o tom, kolikrát mi sluneční brýle umožnily veřejně říct ne."
    [286]
-    1 string data = "Anyway, so about those metal shows."
+    1 string data = "Nicméně, k těm metalovým koncertům."
    [287]
-    1 string data = "It's not lost on me that I might just be imagining all of this, that maybe they all just like the aesthetics and that's all there is to it."
+    1 string data = "Neuniká mi, že si to všechno možná jenom namlouvám, že se jim všem možná jenom líbí estetika a nic víc."
    [288]
-    1 string data = "But they still played an important role in letting me believe in the benefits of personas, and in picturing a viable path to expressing myself."
+    1 string data = "Ale i tak sehrály důležitou roli v tom, že jsem uvěřil v přínos osobností a představil si schůdnou cestu k sebevyjádření."
    [289]
-    1 string data = "If that sounds confusing, the point is that any interpretation of an artist's work is valid, though it may not represent the artist's intention."
+    1 string data = "Pokud to zní zmateně, jde o to, že jakákoli interpretace umělcova díla je validní, i když nemusí reprezentovat umělcův záměr."
    [290]
-    1 string data = "If that still sounds confusing, you could replace painting your face with building a virtual world for all your made up characters to live in."
+    1 string data = "Jestli to stále zní poněkud zmatečně, můžete malování na obličej nahradit budováním virtuálního světa, ve kterém budou žít všechny vaše vymyšlené postavy."
    [291]
-    1 string data = "And if that still sounds confusing, the point is that I like this cloak."
+    1 string data = "A pokud to stále zní zmatečně, jde o to, že se mi ten plášť líbí."
    [292]
-    1 string data = "I have to go soon, but we can do one more round if you want."
+    1 string data = "Musím brzy odejít, ale jestli chcete, můžeme si dát ještě jedno kolo."
    [293]
     1 string data = "Do you want me to get real?"
    [294]
