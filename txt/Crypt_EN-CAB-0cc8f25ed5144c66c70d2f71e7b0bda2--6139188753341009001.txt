@@ -25,9 +25,9 @@
    [5]
     1 string data = "Vítejte v <color=location>Kryptě</color>!"
    [6]
-    1 string data = "Vy jste... uvězněni v lucerně?""
+    1 string data = "Vy jste... uvězněn v lucerně?"
    [7]
-    1 string data = "Já jsem <color=dobrá>Kryptochodec</color>! A ne, v této lucerně jsem doma."
+    1 string data = "Já jsem <color=good>Kryptochodec</color>! A ne, v této lucerně jsem doma."
    [8]
     1 string data = "I když musím přiznat, že se cítím omezený, když mi zhasl oheň..."
    [9]
@@ -61,11 +61,11 @@
    [23]
     1 string data = "Neváhejte a vychutnejte si toto místo a jeho monumenty dle libosti."
    [24]
-    1 string data = "Pokud hledáte nějaký konkrétní kousek a máte jeho souřadnice, rád vás k němu zavedu".
+    1 string data = "Pokud hledáte nějaký konkrétní kousek a máte jeho souřadnice, rád vás k němu zavedu."
    [25]
     1 string data = "Jinak si buďte jisti, že tato krypta je zcela neutrální a dobrovolná, takže pokud byste raději pokračovali ve svých dobrodružstvích, můžete tak učinit hned."
    [26]
-    1 string data = "Jako doma!"
+    1 string data = "Tak na viděnou!"
    [27]
     1 string data = "Jaké byly vaše dnešní plány v Kryptě?"
    [28]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "Ten týden uběhl tak rychle."
    [87]
-    1 string data = "Bude mi chybět tahle produkce, ale vyspat se bude fajn. Bavilo vás hraní? Tým se opravdu snažil, aby to bylo co nejlepší!"
+    1 string data = "Bude mi chybět tahle produkce, ale vyspat se bude fajn. Bavila vás hra? Tým se opravdu snažil, aby byla co nejlepší!"
    [88]
     1 string data = "(Opravdu doufám, že se scénář bude lidem líbit...)"
    [89]
@@ -209,7 +209,7 @@
    [97]
     1 string data = "Doufám, že jsme vám na této cestě zpět do našich dětských let mohli ukázat něco nového."
    [98]
-    1 string data = "Pokud je pozdní příchod na schůzku špatný, nechci být správný".
+    1 string data = "Pokud je pozdní příchod na schůzku špatný, nechci být správný."
    [99]
     1 string data = "..."
    [100]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "Dnes večer budu hrát nějaké retro hry. Zítra taky."
    [112]
-    1 string data = "Wou!!!! Viděli jste všechny ty animace !?! Jsem tak hrdý na to, co jsme dokázali!"
+    1 string data = "Wou!!!! Viděli jste všechny ty animace!?! Jsem tak hrdý na to, co jsme dokázali!"
    [113]
     1 string data = "Zajistím, aby byly seznamy aktuální."
    [114]
@@ -255,7 +255,7 @@
    [120]
     1 string data = "V tuto chvíli děláme jen drobné úpravy."
    [121]
-    1 string data = "Další produktivní týden za námi. Je příjemné se trochu zklidnit."
+    1 string data = "Další produktivní týden za námi. Je to příjemné, trochu se zklidnit."
    [122]
     1 string data = "Úřední hodiny? Od té doby, co se objevily ty děti slunovratu, nikdo nedokáže určit, kolik je hodin!"
    [123]
@@ -349,7 +349,7 @@
    [167]
     1 string data = "Eric je jméno, hudba a zvukový design je hra. Pro hru. Je to moje vlastní hra ve hře. Vlastně tahle hra. Ale ne, pomoc!!! Jsem uvězněn uvnitř hry!!!"
    [168]
-    1 řetězcová data = "Co kdybychom bočně zřetězili vícepásmový kompresor, aby utlumil nízké tóny pokaždé, když se objeví ostrý přechodový jev v rozsahu 4 khz?".
+    1 string data = "Co kdybychom bočně zřetězili vícepásmový kompresor, aby utlumil hloubky pokaždé, když se objeví ostrý přechod v rozsahu 4 khz?."
    [169]
     1 string data = "..."
    [170]
@@ -357,7 +357,7 @@
    [171]
     1 string data = "..."
    [172]
-    1 string data = "Byla to opravdu zábavná cesta být součástí této inscenace. Myslím, že jsme nakonec vytvořili docela dobrou hru, souhlasíte?"
+    1 string data = "Byla to opravdu zábavná cesta být součástí této inscenace. Myslím, že jsme nakonec vytvořili docela dobrou hru, je tak?"
    [173]
     1 string data = "Hele, dneska večer dělám zálohu všech pracovních souborů, nezapomeň do osmi odevzdat všechno, co potřebuješ, jo?"
    [174]
@@ -369,7 +369,7 @@
    [177]
     1 string data = "Asi v šesti letech jsem se po hraní FF1 zamiloval do RPG a rozhodl se, že tohle chci dělat, až vyrostu. O 30 let později a s nejlepším týmem všech dob se mi splnil dětský sen!"
    [178]
-    1 string data = "(S trochou třesu kamery tady a tady...)"
+    1 string data = "(S trochu roztřesenou kamerou tady a...)"
    [179]
     1 string data = "..."
    [180]
@@ -377,9 +377,9 @@
    [181]
     1 string data = "Na zdraví!"
    [182]
-    1 string data = "Hej! Animoval jsem pár znaků a pak jsem je místo toho začal vyhazovat do vzduchu! ... Omlouvám se za všechny ty výbuchy, které jsi schytal do obličeje!"
+    1 string data = "Hej! Animoval jsem pár postav a pak jsem je místo toho začal vyhazovat do vzduchu! ... Omlouvám se za všechny ty výbuchy, které jsi schytal do obličeje!"
    [183]
-    1 string data = "VFX pro mě! Chci vylepšit sekvenci smrti Obyvatele běd."
+    1 string data = "Za mě VFX! Chci vylepšit sekvenci smrti Přiživovačky žalu."
    [184]
     1 string data = "..."
    [185]
@@ -389,15 +389,15 @@
    [187]
     1 string data = "Jsem tak hrdý, že jsem se stal součástí tohoto úžasného týmu!"
    [188]
-    1 string data = "Ahoj, nepotřebuješ něco?"
+    1 string data = "Ahoj, potřebuješ něco?"
    [189]
     1 string data = "..."
    [190]
-    1 string data = "Všichni dělají tak dobrou práci."
+    1 string data = "Všichni odvádějí skvělou práci."
    [191]
     1 string data = "Ahoj, jsi tady na šťastnou hodinku?"
    [192]
-    1 string data = "*Kamarádka se na tebe jemně dívá a uvolňuje ti napětí v hrudi, o kterém jsi ani nevěděl, že tam je.*"
+    1 string data = "*Buddy se něžně dívá a uvolňuje ti napětí v hrudi, o kterém jsi ani nevěděl, že tam je.*"
    [193]
     1 string data = "Já jsem Olivier z Berzerku! Kódoval jsem hlavně věci pod pokličkou, ale také jsem řídil vydávání hry. Pokud hrajete, znamená to, že se nám to povedlo! Hurá! Doufám, že se vám to bude líbit!"
    [194]
@@ -405,7 +405,7 @@
    [195]
     1 string data = "..."
    [196]
-    1 string data = "(Počkat, to nemůže být pravda... Aha! Už chápu.)"
+    1 string data = "(Počkat, to nemůže být správně... Aha! Už chápu.)"
    [197]
     1 string data = "..."
    [198]
@@ -419,7 +419,7 @@
    [202]
     1 string data = "..."
    [203]
-    1 string data = "Yo! Jsem Reece a hraju na akustické nástroje. Ani nevím, jak jsem se sem dostal, ale těší mě, že jsem součástí téhle skvělé hry! A taky mi klidně pošlete hot dog!"
+    1 string data = "Jou! Jsem Reece a hraju na akustické nástroje. Ani nevím, jak jsem se sem dostal, ale těší mě, že jsem součástí téhle skvělé hry! A taky mi klidně pošlete hot dog!"
    [204]
     1 string data = "..."
    [205]
@@ -429,7 +429,7 @@
    [207]
     1 string data = "..."
    [208]
-    1 string data = "Čtvrtá zeď, co?"
+    1 string data = "Takže čtvrtá zeď?"
    [209]
     1 string data = "Jistě, pojďme si popovídat."
    [210]
@@ -441,7 +441,7 @@
    [213]
     1 string data = "No, pokud ano a chystáš se stěžovat si na nějaký časový paradox, možná zvaž, že jsi to byl ty, kdo právě prolomil čtvrtou stěnu."
    [214]
-    1 string data = "Nejspíš taky nedostaneš přidáno, ale skříň je celá tvoje, jestli se chceš odrovnat."
+    1 string data = "Nejspíš taky nedostaneš přidáno, ale skříň je celá tvoje, jestli se chceš vyřádit."
    [215]
     1 string data = "No, podívejme se na tebe! Zvládl jsi to až do konce."
    [216]
