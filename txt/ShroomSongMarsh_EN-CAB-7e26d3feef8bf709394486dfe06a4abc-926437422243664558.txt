@@ -115,7 +115,7 @@
    [50]
     1 string data = "(Mohlo by to konečně fungovat?)"
    [51]
-    1 string data = "Děkuji ti, Babizno z Bažiny."
+    1 string data = "Děkuji ti, Babizno z Bažin."
    [52]
     1 string data = "To bude všechno."
    [53]

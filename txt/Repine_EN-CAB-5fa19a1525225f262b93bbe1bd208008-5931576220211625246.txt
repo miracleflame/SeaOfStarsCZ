@@ -15,127 +15,127 @@
    [0]
     1 string data = "..."
    [1]
-    1 string data = "My house is all the way up. We can make our plans there."
+    1 string data = "Můj dům je až tam nahoře. Tam se můžeme domluvit na dalším postupu."
    [2]
-    1 string data = "Good morning, <color=good>Cedric</color>."
+    1 string data = "Dobré ráno, <color=good>Cedricu</color>."
    [3]
-    1 string data = "Good morning, Seraï."
+    1 string data = "Dobré ráno, Seraï."
    [4]
-    1 string data = "I see your journey to other worlds in search of Solstice Warriors has proven successful."
+    1 string data = "Vidím, že tvá cesta do jiných světů za Bojovníky Slunovratu byla úspěšná."
    [5]
-    1 string data = "Odds increase: drastic."
+    1 string data = "Zvýšení šancí: ohromné."
    [6]
-    1 string data = "What's the status?"
+    1 string data = "Jak to vypadá?"
    [7]
-    1 string data = "Moon still sunken."
+    1 string data = "Měsíc stále potopen."
    [8]
-    1 string data = "Sun remains blocked by clouds."
+    1 string data = "Slunce zůstává zakryto mraky."
    [9]
-    1 string data = "Fleshmancer yet inhabits the castle which cannot be reached."
+    1 string data = "Karnimant stále obývá nedosažitelný hrad."
    [10]
-    1 string data = "Active Threat: Dweller of Dread."
+    1 string data = "Aktivní hrozba: Přiživovač hrůzy."
    [11]
-    1 string data = "Any recent events?"
+    1 string data = "Nějaké nedávné události?"
    [12]
-    1 string data = "Fleshmancer activity detected a few days ago."
+    1 string data = "Před několika dny byl zaznamenán přesun Karnimanta."
    [13]
-    1 string data = "Fleshmancer left briefly for another world. Returned with new monster lieutenant named <color=bad>Elysan'darëlle</color>."
+    1 string data = "Karnimant se krátce stavil na jiném světě. Vrátil se s novou příšeří poručicí jménem <color=bad>Elysan'darëlle</color>."
    [14]
     1 string data = "Erlina..."
    [15]
-    1 string data = "Confrontation with Elysan'darëlle not recommended."
+    1 string data = "Střet s Elysan'darëlle není doporučen."
    [16]
-    1 string data = "We'll see about that!"
+    1 string data = "To se ještě uvidí!"
    [17]
-    1 string data = "Recommended action: use Solstice Warriors to defeat Dweller of Dread."
+    1 string data = "Doporučený postup: pomocí Bojovníků Slunovratu porazit Přiživovače hrůzy."
    [18]
-    1 string data = "Recommended action dependency: make for Sky Base to remove clouds and reconnect sun and moon."
+    1 string data = "Podmínka doporučeného postupu: vydat se na Vesmírnou základnu a znovu propojit Slunce a Měsíc."
    [19]
     1 string data = "..."
    [20]
-    1 string data = "But how to get there..."
+    1 string data = "Ale jak se tam jen dostat..."
    [21]
-    1 string data = "Report: Surveyal of the <color=location>Cerulean Expanse</color> continued while you were away."
+    1 string data = "Hlášení: Zatímco jsi byla pryč, pokračoval průzkum <color=location>Azurové pustiny</color>."
    [22]
-    1 string data = "And?"
+    1 string data = "A?"
    [23]
-    1 string data = "Faint energy was detected. Concordant with old records about <color=magic>the dead of a forgotten race</color>."
+    1 string data = "Byla zaznamenána slabá energie. Shoduje se se starými záznamy o <color=magic>mrtvých lidech zapomenutého národa</color>."
    [24]
     1 string data = "(!!)"
    [25]
-    1 string data = "Rumored builders of the speedball network. Might know a way to bring it back online."
+    1 string data = "Údajně postavili rychlodráhu. Mohli by vědět, jak ji opět zprovoznit."
    [26]
-    1 string data = "Analysis of rails and ramps confirm speedball network as a potential route into Sky Base."
+    1 string data = "Analýza dráhy a ramp potvrzuje potenciální cestu na Vesmírnou základnu."
    [27]
-    1 string data = "Recommended action: Follow survey probe through Cerulean Expanse and investigate signal."
+    1 string data = "Doporučený postup: Sledovat průzkumnou sondu napříč Azurovou pustinou a ten signál prověřit."
    [28]
-    1 string data = "Shot analysis: long."
+    1 string data = "Pravděpodobnost úspěchu: malá."
    [29]
-    1 string data = "At least we have a lead."
+    1 string data = "Alespoň máme nějaké vodítko."
    [30]
-    1 string data = "Presence confirmed of servants to <color=bad>The Queen That Was</color>. Confrontation likely unavoidable."
+    1 string data = "Byla potrvrzena přítomnost přisluhovačů <color=bad>Královny, jež byla</color>. Střet je pravděpodobně nevyhnutelný."
    [31]
-    1 string data = "Don't worry, they can fight."
+    1 string data = "Tihleti si v boji poradí, to se neboj."
    [32]
-    1 string data = "Probe calibrated. Will beep faster to show objects of interest."
+    1 string data = "Sonda zkalibrována. Bude pípat rychleji v přítomnosti zajímavých objektů."
    [33]
-    1 string data = "Good luck."
+    1 string data = "Hodně štěstí."
    [34]
-    1 string data = "(The Cerulean Expanse...)"
+    1 string data = "(Azurová pustina...)"
    [35]
-    1 string data = "(Could they really be somewhere in there? And still alive somehow?)"
+    1 string data = "(Vážně by tam někde mohli být? A nějakým způsobem stále naživu?)"
    [36]
-    1 string data = "One more thing, Cedric."
+    1 string data = "Cedricu, ještě něco."
    [37]
-    1 string data = "Yes?"
+    1 string data = "Ano?"
    [38]
     1 string data = "..."
    [39]
-    1 string data = "I want them to see what we are facing."
+    1 string data = "Chci, aby viděli, proti čemu stojíme."
    [40]
-    1 string data = "The Dweller of Dread?"
+    1 string data = "Přiživovače hrůzy?"
    [41]
-    1 string data = "Show them."
+    1 string data = "Ukaž jim ho."
    [42]
-    1 string data = "Dispatching drone."
+    1 string data = "Vysílám dron."
    [43]
-    1 string data = "Your people..."
+    1 string data = "Tvoji lidé..."
    [44]
-    1 string data = "We're taking this thing down!"
+    1 string data = "My tu věc sejmeme!"
    [45]
-    1 string data = "Solstice Warriors demonstrate emotional investment. Might negatively affect performance."
+    1 string data = "Bojovníci Slunovratu vykazují silnou citovou odezvu. Může negativně ovlivnit výkon."
    [46]
-    1 string data = "Recommended action: breathe in."
+    1 string data = "Doporučený postup: nádech."
    [47]
-    1 string data = "Don't worry about us, that monster is getting its due!"
+    1 string data = "O nás si nedělej starosti, ta potvora to má spočítané!"
    [48]
-    1 string data = "Recommended action: breathe out."
+    1 string data = "Doporučený postup: výdech."
    [49]
     1 string data = "..."
    [50]
-    1 string data = "Hahaha! Thanks, Cedric."
+    1 string data = "Hahaha! Díky, Cedricu."
    [51]
-    1 string data = "Okay, first the moon has to shine again. We need you two at full power."
+    1 string data = "Fajn, nejprve se musí rozzářit Měsíc. Vás dva potřebujeme v plné síle."
    [52]
-    1 string data = "The Cerulean Expanse is east of Repine."
+    1 string data = "Azurová pustina je od Repotu na východ."
    [53]
-    1 string data = "Here's hoping whatever we find there will be able to help..."
+    1 string data = "Ať už tam najdeme cokoliv, snad nám to pomůže..."
    [54]
     1 string data = "Teaks?"
    [55]
-    1 string data = "You go ahead, I want to talk with Cedric."
+    1 string data = "Jen jděte napřed, já chci hodit řeč tady s Cedricem."
    [56]
-    1 string data = "I'll catch up later!"
+    1 string data = "Později vás doženu!"
    [57]
-    1 string data = "Look..."
+    1 string data = "Podívejte..."
    [58]
-    1 string data = "And the clouds are gone too..."
+    1 string data = "A mraky jsou taky pryč..."
    [59]
-    1 string data = "Do you need to rest?"
+    1 string data = "Potřebujete si odpočinout?"
    [60]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [61]
-    1 string data = "No"
+    1 string data = "Ne"
    [62]
     1 string data = "..."
    [63]
@@ -145,144 +145,144 @@
    [65]
     1 string data = "..."
    [66]
-    1 string data = "Probe calibrated for Cerulean Expanse."
+    1 string data = "Sonda zkalibrována pro Azurovou pustinu."
    [67]
-    1 string data = "Will beep faster to show objects of interest."
+    1 string data = "Bude pípat rychleji v přítomnosti zajímavých objektů."
    [68]
-    1 string data = "Good luck."
+    1 string data = "Hodně štěstí."
    [69]
-    1 string data = "Safe travels."
+    1 string data = "Dávejte na sebe pozor."
    [70]
-    1 string data = "Dweller of Dread eliminated. Odds increase: significant."
+    1 string data = "Přiživovač hrůzy eliminován. Zvýšení šancí: značné."
    [71]
-    1 string data = "Fascinating..."
+    1 string data = "Fascinující..."
    [72]
-    1 string data = "Decryption console online. Please present any <color=magic>Data Strips</color> you may have."
+    1 string data = "Dešifrovací panel online. Prosím, předložte veškeré své <color=magic>datové moduly</color>."
    [73]
-    1 string data = "Decryption not possible unless more Data Strips are found."
+    1 string data = "Dešifrování není možné, dokud nebudou nalezeny další datové moduly."
    [74]
-    1 string data = "Recommended action: Find more Data Strips."
+    1 string data = "Doporučený postup: najděte více datových modulů."
    [75]
-    1 string data = "There is now enough data to extrapolate encryption pattern."
+    1 string data = "Je k dispozici dostatek dat k dedukci šifrovacího vzorce."
    [76]
-    1 string data = "Operation successful. Printing <color=magic>Cypher</color>."
+    1 string data = "Operace úspěšně dokončena. Tisknu <color=magic>šifru</color>."
    [77]
-    1 string data = "Decryption console offline."
+    1 string data = "Dešifrovací panel offline."
    [78]
-    1 string data = "Feed me something SWEET."
+    1 string data = "Nakrmte mě něčím SLADKÝM."
    [79]
-    1 string data = "Feed me something WARMING."
+    1 string data = "Nakrmte mě něčím TEPLÝM."
    [80]
-    1 string data = "Feed me something MEATY."
+    1 string data = "Nakrmte mě něčím MASOVÝM."
    [81]
-    1 string data = "Feed me something LIGHT."
+    1 string data = "Nakrmte mě něčím LEHKÝM."
    [82]
-    1 string data = "Feed me something FROM THE WATER."
+    1 string data = "Nakrmte mě něčím Z VODY."
    [83]
-    1 string data = "Tasty."
+    1 string data = "Mňamka."
    [84]
-    1 string data = "Not SWEET enough."
+    1 string data = "Nedostatečně SLADKÉ."
    [85]
-    1 string data = "Not WARMING enough."
+    1 string data = "Nedostatečně TEPLÉ."
    [86]
-    1 string data = "Not MEATY enough."
+    1 string data = "Nedostatečně MASOVÉ."
    [87]
-    1 string data = "Not LIGHT enough."
+    1 string data = "Nedostatečně LEHKÉ."
    [88]
-    1 string data = "Not FROM THE WATER enough."
+    1 string data = "Nedostatečně Z VODY."
    [89]
-    1 string data = "This was everything I ever wanted and more. Dispensing reward."
+    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a ještě víc než to. Vydávám odměnu."
    [90]
-    1 string data = "This was everything I ever wanted and more."
+    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a ještě víc než to."
    [91]
-    1 string data = "Man, I wish there was some way to cheer people up. It's like I'm the only one other than Seraï who still has some energy, but I'm no fighter!"
+    1 string data = "Ach jo, kéž by tu byl nějaký způsob, jak tyhle lidi rozveselit. Zdá se, že kromě Seraï jsem tu jediná, komu zbyla nějaká energie, ale boj není nic pro mě!"
    [92]
-    1 string data = "You're from another world, right? You got any games out there?"
+    1 string data = "Vy jste z jiného světa, že? Máte tam nějaké hry?"
    [93]
-    1 string data = "Wheels, huh? That does sound like it could be fun!"
+    1 string data = "Kotouče, hm? To zní jako zábava!"
    [94]
-    1 string data = "Could you do me a favor and ask that Watchmaker from your world if there's any way to get a table delivered here? I'd love to play some Wheels!"
+    1 string data = "Mohli byste mi prokázat laskavost a zeptat se té vaší Hodinářky, jestli by sem šel poslat jeden herní stůl? Kotouče si zahraju ráda!"
    [95]
-    1 string data = "Want to play some <color=magic>Wheels</color> with me?"
+    1 string data = "Chcete si se mnou zahrát <color=magic>Kotouče</color>?"
    [96]
-    1 string data = "Casual"
+    1 string data = "Nenáročná hra"
    [97]
-    1 string data = "Champion"
+    1 string data = "Hra o šampiona"
    [98]
-    1 string data = "Versus Player"
+    1 string data = "Proti spoluhráči"
    [99]
-    1 string data = "Maybe later"
+    1 string data = "Možná později"
    [100]
-    1 string data = "Ah... Too bad..."
+    1 string data = "Ah... Škoda..."
    [101]
-    1 string data = "There it is!!"
+    1 string data = "Tady je!!"
    [102]
-    1 string data = "It's a tie!"
+    1 string data = "Remíza!"
    [103]
-    1 string data = "Hey, you win!"
+    1 string data = "Hej, vyhráli jste!"
    [104]
-    1 string data = "Congratulations, you won! Here's something for you!"
+    1 string data = "Gratuluji, vyhráli jste! Tady něco máte!"
    [105]
-    1 string data = "Ha! I win!"
+    1 string data = "Ha! Vyhrála jsem!"
    [106]
-    1 string data = "Quitting already?"
+    1 string data = "Vzdáváte se?"
    [107]
-    1 string data = "Happy to play Champion, but you got a reward from me already."
+    1 string data = "Klidně si o šampiona zahraju, ale odměnu jste už dostali."
    [108]
-    1 string data = "I see. Well, these rules are simple enough."
+    1 string data = "Rozumím. No, ta pravidla jsou dost jednoduchá."
    [109]
-    1 string data = "I'll just take a few moments to analyze all the patterns!"
+    1 string data = "Jen si během chvíle zanalyzuju všechny možnosti!"
    [110]
-    1 string data = "Okay! I'm a champion now, wanna try me?"
+    1 string data = "Fajn! Teď je ze mě šampionka, chcete si zahrát?"
    [111]
-    1 string data = "I still see it in my dreams."
+    1 string data = "Pořád ho vidím ve snech."
    [112]
-    1 string data = "Will the nightmares go away now?"
+    1 string data = "Přestanou teď konečně ty noční můry?"
    [113]
-    1 string data = "I want a way back to my mind."
+    1 string data = "Chci zpět do své mysli."
    [114]
-    1 string data = "The Dweller is no more?"
+    1 string data = "Přiživovač je pryč?"
    [115]
-    1 string data = "Get it out of my head..."
+    1 string data = "Dostaňte ho z mé hlavy..."
    [116]
-    1 string data = "The Catalyst... the pain..."
+    1 string data = "Catalyst... ta bolest..."
    [117]
-    1 string data = "I used to feel..."
+    1 string data = "Dříve jsem cítil..."
    [118]
-    1 string data = "I saw it... please tell me I saw it..."
+    1 string data = "Viděl jsem to... prosím, řekněte mi, že jsem to viděl..."
    [119]
-    1 string data = "I wish that I could give up..."
+    1 string data = "Kéž bych to mohl vzdát..."
    [120]
-    1 string data = "The clouds... how...?"
+    1 string data = "Ty mraky... jak...?"
    [121]
-    1 string data = "They did too much to us..."
+    1 string data = "Provedli nám toho až moc..."
    [122]
-    1 string data = "What... is there to even save...?"
+    1 string data = "Co... se vůbec ještě dá zachránit...?"
    [123]
-    1 string data = "There's no peace left in our hearts."
+    1 string data = "V srdcích nám nezbyl žádný klid."
    [124]
-    1 string data = "Our queen's betrayal... Seraï... almost saved us..."
+    1 string data = "Zrada naší královny... Seraï... nás skoro zachránila..."
    [125]
-    1 string data = "I don't want to stay."
+    1 string data = "Nechci tu zůstat."
    [126]
-    1 string data = "Should I... believe...?"
+    1 string data = "Měl bych... věřit...?"
    [127]
-    1 string data = "We should have turned the other way."
+    1 string data = "Měli jsme to nechat být."
    [128]
-    1 string data = "Soul Curator... I remember now..."
+    1 string data = "Kurátor duší... už si vzpomínám..."
    [129]
-    1 string data = "Seraï... Why would you return...?"
+    1 string data = "Seraï... Proč by ses vracela...?"
    [130]
-    1 string data = "Seraï... it's supposed to be impossible..."
+    1 string data = "Seraï... mělo to přece být nemožné..."
    [131]
-    1 string data = "Someone must have known..."
+    1 string data = "Někdo to musel vědět..."
    [132]
-    1 string data = "The moon..."
+    1 string data = "Měsíc..."
    [133]
-    1 string data = "How can I go on?"
+    1 string data = "Jak jenom můžu pokračovat?"
    [134]
-    1 string data = "Is it a trick of the mind... hope...?"
+    1 string data = "Zdá se mi to snad... naděje...?"
    [135]
-    1 string data = "...S...SW...SE...S..."
+    1 string data = "...J...JZ...JV...J..."
    [136]
-    1 string data = "Sealed using powerful encryption. A <color=magic>Cypher</color> might do the trick."
+    1 string data = "Důmyslně zašifrováno. <color=magic>Šifra</color> by to měla rozlousknout."
