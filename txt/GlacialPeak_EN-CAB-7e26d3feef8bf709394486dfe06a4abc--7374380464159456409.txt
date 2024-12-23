@@ -13,48 +13,48 @@
   1 Array Array (23 items)
    0 int size = 23
    [0]
-    1 string data = "However you did it, you are foolish for showing up here."
+    1 string data = "Ať už se vám to podařilo jakkoliv, jste pěkně hloupí, že se tu ukazujete."
    [1]
-    1 string data = "Foolish, and cornered too!"
+    1 string data = "Hloupí, a ještě k tomu nemáte kam utéct!"
    [2]
-    1 string data = "Your friends already tried acting tough, didn't you get their report?"
+    1 string data = "Vaši kolegové si už na drsňáky hrát zkoušeli, nepodali vám snad hlášení?"
    [3]
-    1 string data = "My, they truly are feisty!"
+    1 string data = "No, ti jsou mi teda od rány!"
    [4]
-    1 string data = "Feisty, and arrogant too!"
+    1 string data = "Od rány, a ještě k tomu namyšlení!"
    [5]
-    1 string data = "Come, then!"
+    1 string data = "Tak pojďte!"
    [6]
-    1 string data = "Argh! You got lucky. Next time we will win."
+    1 string data = "Argh! Jen jste měli štěstí. Příště vyhrajeme my."
    [7]
-    1 string data = "Huff... huff... Win, and celebrate too!"
+    1 string data = "uf... uf... Vyhrajeme, a ještě k tomu to oslavíme!"
    [8]
-    1 string data = "And don't come back!"
+    1 string data = "A už se nevracejte!"
    [9]
-    1 string data = "We're close, I can feel it."
+    1 string data = "Blížíme se, cítím to."
    [10]
-    1 string data = "Let's do this."
+    1 string data = "Tak jdem."
    [11]
-    1 string data = "So much energy..."
+    1 string data = "Tolik energie..."
    [12]
-    1 string data = "It's the same kind of power as..."
+    1 string data = "Je to stejný druh síly jako..."
    [13]
-    1 string data = "How do we get out of here?"
+    1 string data = "Jak se odsud dostaneme?"
    [14]
-    1 string data = "This block could be melted, but the Celestial Rune is busted..."
+    1 string data = "Ten led by se dal rozpustit, ale Nebeská runa je zničená..."
    [15]
     1 string data = "??"
    [16]
-    1 string data = "You can now control the Time of Day with <button=AdvanceTime>&<button=RewindTime> without needing to stand on a Celestial Rune."
+    1 string data = "Nyní můžete měnit čas dne pomocí <button=AdvanceTime>&<button=RewindTime> bez nutnosti stát na Nebeské runě."
    [17]
-    1 string data = "Whoa! So you can just do this at will now??"
+    1 string data = "Fíha! Takže teď tohle můžete dělat, kdykoliv chcete??"
    [18]
-    1 string data = "The amulet's resonance with our magic is really strong."
+    1 string data = "Ten amulet velmi silně rezonuje s naší magií."
    [19]
-    1 string data = "We got what we needed. Let's go back to Resh'an."
+    1 string data = "Máme to, co potřebujeme. Vraťme se k Resh'anovi."
    [20]
-    1 string data = "Teleport to the Archives?"
+    1 string data = "Teleportovat se do Archivu?"
    [21]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [22]
-    1 string data = "No"
+    1 string data = "Ne"
