@@ -35,7 +35,7 @@
    [10]
     1 string data = "Uh, jistě..."
    [11]
-    1 string data = "O mnoho lepší! Prosím, následujte mě, je to přímo tudy."
+    1 string data = "O mnoho lepší! Prosím, následujte mě, přímo tudy."
    [12]
     1 string data = "Tak, komu jste dnes přišli uctít památku?"
    [13]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "Aha?"
    [15]
-    1 string data = "Přivedli jsme na tento ostrov skupinu osadníků, aniž bychom věděli, že je obsazený."
+    1 string data = "Přivedli jsme na tento ostrov skupinu osadníků, aniž bychom věděli, že je obývaný."
    [16]
     1 string data = "No, technicky vzato není!"
    [17]

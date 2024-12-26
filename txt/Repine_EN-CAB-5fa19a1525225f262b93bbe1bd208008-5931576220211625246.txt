@@ -39,7 +39,7 @@
    [12]
     1 string data = "Před několika dny byl zaznamenán přesun Karnimanta."
    [13]
-    1 string data = "Karnimant se krátce stavil na jiném světě. Vrátil se s novou příšeří poručicí jménem <color=bad>Elysan'darëlle</color>."
+    1 string data = "Karnimant se krátce stavil na jiném světě. Vrátil se s novou poručicí příšeř jménem <color=bad>Elysan'darëlle</color>."
    [14]
     1 string data = "Erlina..."
    [15]
