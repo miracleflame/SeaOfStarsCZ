@@ -241,55 +241,55 @@
    [113]
     1 string data = "Konec příběhu."
    [114]
-    1 string data = "It was as compelling as invitations could get."
+    1 string data = "Bylo to pozvání tak přesvědčivé, jak jen pozvání mohou být."
    [115]
-    1 string data = "All of the best artisans the world over received it: a personalized letter signed by the mysterious Great Eagle."
+    1 string data = "Obdrželi jej ti nejzdatnější řemeslníci světa: osobní dopis podepsán tajemným Velkým orlem."
    [116]
-    1 string data = "Enclosed were directions, along with the promise of a worthwhile endeavor and a touch of magic."
+    1 string data = "K němu byly přiloženy instrukce slibující přínosnou práci s nádechem magie."
    [117]
-    1 string data = "They gathered en masse on the barren island to the southwest, hoping to meet the mysterious "Great Eagle” who had signed their invitations."
+    1 string data = "Shromáždili se na neobydleném ostrově směrem na jihozápad doufajíce, že potkají toho záhadného "Velkého orla”, co se podepsal pod jejich pozvání."
    [118]
-    1 string data = "But all they found when they arrived were three vials, two of which were sealed."
+    1 string data = "Ovšem to jediné, co po svém příchodu nalezli, byly tři baňky, z nichž dvě byly pevně zapečetěny."
    [119]
-    1 string data = "When they opened the first vial, it became clear to all that there was even more to the Great Eagle than what the stories had shared."
+    1 string data = "Když otevřeli tu první, bylo jim hned všem jasné, že Velký orel je mnohem víc, než se o něm povídalo."
    [120]
-    1 string data = "As the cork was removed, a solar eclipse occurred and magical light flew in from above the sky, reshaping the peninsula into a crescent."
+    1 string data = "Po odejmutí zátky nastalo zatmění Slunce a z oblohy přiletělo magické světlo, jež vytvarovalo poloostrov do srpku."
    [121]
-    1 string data = "At the end of its dance, the light coalesced on the cliffside and gave birth to a tree so beautiful it appeared to belong in a dream."
+    1 string data = "Na konci svého tance se všechno světlo spojilo na kraj útesu a z něj se zrodil strom tak nádherný, že vypadal jako ze snu."
    [122]
-    1 string data = "The Celestial Willow rose up while the grass turned to its signature purple hue."
+    1 string data = "Tak vyrostla Nebeská vrba, zatímco tráva kolem získala purpurovou barvu, kterou známe dnes."
    [123]
-    1 string data = "As if the magic had spoken directly to their minds, the builders knew exactly what they had to do."
+    1 string data = "Jakoby tato magie promluvila přímo k jejich myšlenkám, stavitelé věděli přesně, co mají dělat."
    [124]
-    1 string data = "They would build the town of Mooncradle, and hold a festival by the Celestial Willow twice a year, in expectation of the Great Eagle's visit."
+    1 string data = "Měli postavit vesnici Měsíční Kolébku a dvakrát do roka uspořádat u Nebeské vrby slavnosti v očekávání návštěvy Velkého orla."
    [125]
-    1 string data = "Unless they happened to be born in Mooncradle, Children of the Solstice would never know their real parents."
+    1 string data = "Pokud se nenarodí v Měsíční Kolébce, Děti Slunovratu své skutečné rodiče nikdy nepoznají."
    [126]
-    1 string data = "So that no one would feel different or rejected, Mooncradle was built around one core tenet: community."
+    1 string data = "Aby se tedy nikdo necítil jako podivín nebo vyvrhel, Měsíční Kolébka byla založena na jedné hlavní myšlence: sounáležitosti."
    [127]
-    1 string data = "They built a common dormitory for everyone, along with a single shared dining hall."
+    1 string data = "Postavili pro všechny společnou ložnici a jídelnu."
    [128]
-    1 string data = "Zenith Academy was also clearly visible in all of their minds. They built it, but had no idea how to give it its final touch."
+    1 string data = "Ve své mysli také jasně viděli Akademii Zenit. Postavili ji, ale neměli tušení, jak mají provést poslední krok."
    [129]
-    1 string data = "That was when the second vial uncorked itself."
+    1 string data = "V tu chvíli se druhá baňka sama odzátkovala."
    [130]
-    1 string data = "Glowing runes flew out and embedded themselves into Zenith Academy's foundation, enchanting it with levitation magic. The School in the Sky was born."
+    1 string data = "Vylétly z ní svítící runy a přichytily se k základům Akademie Zenit, čímž ji očarovaly magií levitace. A tak vznikla Škola na nebi."
    [131]
-    1 string data = "As if to celebrate the builders' efforts, the third seal was undone, and out of the tiny vial flowed a seemingly endless stream of mist."
+    1 string data = "Jako na oslavu odvedené práce stavitelů se otevřela třetí baňka, z níž začal vycházet zdánlivě nekonečný proud mlhy."
    [132]
-    1 string data = "It permeated Evermist Island, giving it its name. In the end, a peculiar voice spoke to their minds."
+    1 string data = "Ta obklopila Ostrov věčné mlhy, který tím dostal své jméno. Nakonec jim v mysli promluvil podivný hlas."
    [133]
-    1 string data = "The voice provided guidelines for the education of Solstice Warriors, and stressed the importance of seeking out "The Elder Mist" once their training was complete."
+    1 string data = "Tento hlas poskytl pokyny pro vzdělávání Bojovníků Slunovratu a zdůraznil důležitost vyhledání "Mlžného stařešiny", až bude jejich trénink u konce."
    [134]
-    1 string data = "As the voice grew faint, the three vials disappeared."
+    1 string data = "A jak se hlas vytrácel, tři baňky zmizely."
    [135]
-    1 string data = "Since that day, the people of Mooncradle have held the festival to welcome Children of the Solstice, taking it upon themselves to nurture them until they come of age."
+    1 string data = "Od tohoto dne obyvatelé Měsíční Kolébky pořádají slavnosti, aby uvítali Děti Slunovratu, a berou na sebe odpovědnost o ně pečovat, dokud nedospějí."
    [136]
-    1 string data = "Solstice Warriors would come and go, protecting the world while attempting to fulfill the prophecies bestowed upon them by The Elder Mist."
+    1 string data = "Bojovníci Slunovratu přichází a odchází, chrání svět a snaží se naplnit proroctví, která jim pověděl Mlžný stařešina."
    [137]
-    1 string data = "As the battle continues between Dwellers and Solstice Warriors, Mooncradle represents the hope that someday, Guardian Gods may rise and bring about lasting peace."
+    1 string data = "V pokračující bitvě mezi Přiživovači a Bojovníky Slunovratu představuje Měsíční Kolébka naději, že jednoho dne budou povzneseni Božští ochránci a s nimi nastane trvalý mír."
    [138]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [139]
     1 string data = "When Aephorul first arrived in our realm, he brought with him a group of kid geniuses."
    [140]
