@@ -75,7 +75,7 @@
    [30]
     1 string data = "Někteří říkají, že je to monstrum čirého zla, které bylo odcizeno z jiné roviny existence a donuceno zůstat zde."
    [31]
-    1 string data = "Jiní se domnívají, že přišel daleko zpoza mraků - kdysi přátelský tvor, jehož mysl zkalila černá magie."
+    1 string data = "Jiní se domnívají, že přišel daleko zpoza oblohy - kdysi přátelský tvor, jehož mysl zkalila černá magie."
    [32]
     1 string data = "Ale bez ohledu na svůj původ byl Nebeský had předurčen k tomu, aby navždy změnil svět."
    [33]
