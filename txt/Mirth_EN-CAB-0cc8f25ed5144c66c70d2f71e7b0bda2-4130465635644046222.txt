@@ -413,19 +413,19 @@
    [199]
     1 string data = "Garlův maximální počet BŽ se zvýšil o 35!"
    [200]
-    1 string data = "Začneme brzy stavět lázně? Bob potřebuje pouze stavební plány!"
+    1 string data = "Začneme brzy stavět lázně? Bob potřebuje pouze stavební schémata!"
    [201]
     1 string data = "Tohle místo je perfektní! Ještě lepší, než jsem si představoval!"
    [202]
     1 string data = "Vítejte v obchodě s věcmi."
    [203]
-    1 string data = "Máma říkala, že brzy budeme mít vlastní obchod s věcmi! Nemáte pro Boba stavební plány?"
+    1 string data = "Máma říkala, že brzy budeme mít vlastní obchod s věcmi! Nemáte pro Boba stavební schémata?"
    [204]
     1 string data = "Ano, tohle půjde skvěle! Už slyším, jak přicházejí zákazníci!"
    [205]
     1 string data = "Vítejte v obchodě s vybavením."
    [206]
-    1 string data = "Bob říká, že budeme mít pěkný obchod, jakmile získá stavební plány!"
+    1 string data = "Bob říká, že budeme mít pěkný obchod, jakmile získá stavební schémata!"
    [207]
     1 string data = "Vítejte v jediném rybářském domě ve Veselí! Chci vám ještě jednou poděkovat za to, že jste mi umožnili mít toto místo, je to splněný rybářův sen!"
    [208]
@@ -451,7 +451,7 @@
    [218]
     1 string data = "Zatím jste našli [FISHTYPE_COUNT] ryb. Ať vám přibývají."
    [219]
-    1 string data = "Tohle místo bude tak akorát, jen teď musíme najít nějaké stavební plány pro Boba!"
+    1 string data = "Tohle místo bude tak akorát, jen teď musíme najít nějaké stavební schémata pro Boba!"
    [220]
     1 string data = "Á, [MAINCHAR]! Musím ti ještě jednou poděkovat za pozvání, abych se postaral o hostinec Veselí. Dohlédnu na to, aby se z něj stal pozoruhodný podnik."
    [221]
@@ -463,7 +463,7 @@
    [224]
     1 string data = "Dobře se vyspěte!"
    [225]
-    1 string data = "Můj bratr mi poslal vaši nabídku. Děkuji, nemohu se dočkat, až začnu obsluhovat... Měli jste pro Boba stavební plány?"
+    1 string data = "Můj bratr mi poslal vaši nabídku. Děkuji, nemohu se dočkat, až začnu obsluhovat... Měli jste pro Boba stavební schémata?"
    [226]
     1 string data = "Hledá se hostinský."
    [227]
@@ -541,7 +541,7 @@
    [263]
     1 string data = "Šel jsem se podívat do Krypty. Bude to chtít víc než jednu návštěvu, jestli to mám všechno pojmout!"
    [264]
-    1 string data = "Je skvělé začít znovu poté, co jsem ve Veselí přišel skoro o všechno."
+    1 string data = "Je skvělé začít znovu poté, co jsem ve Svěžíně přišel skoro o všechno."
    [265]
     1 string data = "Jsem moc zarmoucený Garlovou smrtí..."
    [266]
@@ -561,7 +561,7 @@
    [273]
     1 string data = "Pokud nějaké najdete, nevadilo by vám přinést mi je? Veselí by to jen prospělo!"
    [274]
-    1 string data = "Našli jste nějaké nové <color=magic>stavební plány</color>?"
+    1 string data = "Našli jste nějaké nové <color=magic>stavební schémata</color>?"
    [275]
     1 string data = "Zajímavé! Pojďme se pustit do práce!"
    [276]

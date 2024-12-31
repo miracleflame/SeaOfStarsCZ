@@ -13,10 +13,10 @@
   1 Array Array (4 items)
    0 int size = 4
    [0]
-    1 string data = "That's our altar."
+    1 string data = "Tady je náš oltář."
    [1]
-    1 string data = "So the seashell goes here, and..."
+    1 string data = "Takže mušle padne sem a..."
    [2]
-    1 string data = "That did it, I can feel the magic!"
+    1 string data = "Zabralo to, cítím magii!"
    [3]
-    1 string data = "You can now explore underwater sections by entering <color=magic>whirlpools</color>!"
+    1 string data = "Nyní můžete prozkoumávat podvodní sekce tím, že vstoupíte do <color=magic>vodních vírů</color>!"

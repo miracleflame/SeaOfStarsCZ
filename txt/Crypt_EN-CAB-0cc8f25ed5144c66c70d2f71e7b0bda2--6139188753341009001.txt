@@ -507,7 +507,7 @@
    [246]
     1 string data = "Vzkřísili jste svého nejlepšího kamaráda!"
    [247]
-    1 string data = "Našli jste všechny duhové šišky!"
+    1 string data = "Našli jste všechny Duhové ulity!"
    [248]
     1 string data = "Ulovili jste všechny ryby!"
    [249]

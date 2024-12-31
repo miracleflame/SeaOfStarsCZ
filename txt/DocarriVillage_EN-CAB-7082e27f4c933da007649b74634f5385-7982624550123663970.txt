@@ -13,414 +13,414 @@
   1 Array Array (206 items)
    0 int size = 206
    [0]
-    1 string data = ""Under the waves of a blue lake dwells the lost city.""
+    1 string data = ""Pod vlnami modrého jezera se rozkládá ztracené město.""
    [1]
-    1 string data = "I'm all for a swim, but this looks DEEP."
+    1 string data = "Jsem pro koupání, ale tohle vypadá být HLUBOKÉ."
    [2]
-    1 string data = "No way we can hold our breath for that long. "
+    1 string data = "Ani náhodou nedokážeme zadržet dech na tak dlouho. "
    [3]
-    1 string data = "Well, if it comes down to it, there's something I've been meaning to-"
+    1 string data = "No, když přijde na to, je tu něco, co bych..."
    [4]
-    1 string data = "Hey, see that bell over there?"
+    1 string data = "Hele, vidíš támhle ten zvon?"
    [5]
-    1 string data = "It looks similar to the hammer Moraine gave us."
+    1 string data = "Vypadá podobně jako to kladivo, co nám dal Moraine."
    [6]
     1 string data = "..."
    [7]
-    1 string data = "Right."
+    1 string data = "Pravda."
    [8]
-    1 string data = "Let's hit it and see what happens."
+    1 string data = "Udeřme do něj a uvidíme, co se stane."
    [9]
-    1 string data = "Welcome to <color=location>Lake Docarria</color>, travelers."
+    1 string data = "Buďte vítáni na <color=location>Jezeře Docarria</color>, cestovatelé."
    [10]
-    1 string data = "Hello! We're looking for the Oracle of Tides!"
+    1 string data = "Ahoj! Hledáme Věštce přílivu a odlivu!"
    [11]
-    1 string data = "Why yes, your coming has been foreseen. Solstice Warriors are always welcome here."
+    1 string data = "Ovšem, váš příchod byl předvídán. Bojovníci Slunovratu jsou zde vždy vítáni."
    [12]
-    1 string data = "Is this the temple, then?"
+    1 string data = "Tak tohle je ten chrám?"
    [13]
-    1 string data = "Oh, no. The temple is in Docarri Village. It sits on the ocean floor, deep below this lake."
+    1 string data = "Ale ne. Chrám je v Docarrijské vesnici. Nachází se na dně oceánu, hluboko pod tímto jezerem."
    [14]
-    1 string data = "But..."
+    1 string data = "Ale..."
    [15]
-    1 string data = "Worry not, travelers. You will soon become attuned to the deep."
+    1 string data = "Nemějte obavy, cestovatelé. Brzy se s hlubinami sžijete."
    [16]
-    1 string data = "Come! The first step of the ritual is right here."
+    1 string data = "Pojďte! První krok rituálu je právě zde."
    [17]
-    1 string data = "Oh, this is exciting!"
+    1 string data = "Tohle je vzrušující!"
    [18]
-    1 string data = "Now, please pick the seashell that is most beautiful to you."
+    1 string data = "Nyní si prosím vyberte mušli, která je pro vás nejkrásnější."
    [19]
-    1 string data = "We get to keep one!?"
+    1 string data = "Můžeme si jednu nechat!?"
    [20]
-    1 string data = "Oops! Sorry, do you mind? This is so special!"
+    1 string data = "Jejda! Promiňte, mohu? Tohle je tak výjimečné!"
    [21]
-    1 string data = "Haha! Sure, go for it!"
+    1 string data = "Haha! Jasně, jdi do toho!"
    [22]
-    1 string data = "I think I'll do this one!"
+    1 string data = "Myslím, že to bude tahle!"
    [23]
-    1 string data = "Or maybe this one!"
+    1 string data = "Nebo možná tahle!"
    [24]
-    1 string data = "Take your time."
+    1 string data = "Dej tomu čas."
    [25]
-    1 string data = "This one is the best! What do you think, Seraï?"
+    1 string data = "Tahle je nejlepší! Co myslíš, Seraï?"
    [26]
-    1 string data = "What? Uh... sure..."
+    1 string data = "Co? Aha... jasně..."
    [27]
-    1 string data = "Okay, this is the one!"
+    1 string data = "Dobře, tohle je ona!"
    [28]
-    1 string data = "A good pick."
+    1 string data = "Dobrá volba."
    [29]
-    1 string data = "To complete the ritual, you must now go to the <color=location>Sacred Grove</color> and let the seashell drink from its altar."
+    1 string data = "K dokončení rituálu se nyní musíte vydat do <color=location>Svatého háje</color> a nechat mušli napít z tamního oltáře."
    [30]
-    1 string data = "Only then will its magic resonate with you."
+    1 string data = "Teprve pak s vámi bude rezonovat její magie."
    [31]
-    1 string data = "What kind of magic?"
+    1 string data = "Co je to za magii?"
    [32]
-    1 string data = "Why, the kind that will let you breathe underwater."
+    1 string data = "No přece taková, která vám umožní dýchat pod vodou."
    [33]
-    1 string data = "Whoa!"
+    1 string data = "Páni!"
    [34]
-    1 string data = "It is the only way for you to reach Docarri Village and meet with the oracle."
+    1 string data = "Je to jediný způsob, jak se dostat do Docarrijské vesnice a setkat se s Věštcem."
    [35]
-    1 string data = "Will it work for all of us?"
+    1 string data = "Bude to fungovat pro všechny?"
    [36]
-    1 string data = "Absolutely, provided you stay close to one another."
+    1 string data = "Zajisté, ovšem za předpokladu, že se budete držet blízko u sebe."
    [37]
-    1 string data = "It's probably best if you hold onto it, then."
+    1 string data = "Asi bude nejlepší, když se jí tedy budete dotýkat."
    [38]
-    1 string data = "I will unlock the lake's north gate for you. Your destination is to the northwest."
+    1 string data = "Odemknu vám severní bránu jezera. Váš cíl je na severozápadě."
    [39]
-    1 string data = "Make for the sacred grove, and remember to steer clear of <color=bad>Torment Peak</color>!"
+    1 string data = "Vydejte se k posvátnému háji a nezapomeňte se vyhnout <color=bad>Mučivému vrchu</color>!"
    [40]
-    1 string data = "Thank you for honoring our tradition. You can now visit Docarri Village at your convenience."
+    1 string data = "Děkujeme, že ctíte naši tradici. Nyní můžete navštevovat Docarrijskou vesnici dle libosti."
    [41]
-    1 string data = "Whenever you are ready, the way is through the big whirlpool."
+    1 string data = "Jakmile budete připraveni, cesta vede přes velký vír."
    [42]
-    1 string data = "As foreseen, a new generation of Solstice Warriors has come to seek guidance. The tides never lie."
+    1 string data = "Jak bylo předpovězeno, nová generace Bojovníků Slunovratu přišla hledat vedení. Příliv a odliv nikdy nelže."
    [43]
-    1 string data = "I am the Oracle of Tides, one of the three seers. Welcome."
+    1 string data = "Jsem Věštec přílivů a odlivú, jeden ze tří jasnovidců. Buďte vítáni."
    [44]
-    1 string data = "Thank you for seeing us, Oracle. We are looking for a way onto Mesa Island."
+    1 string data = "Děkujeme za přijetí, Věštče. Hledáme cestu na ostrov Mesa."
    [45]
-    1 string data = "Straight to the point, I see."
+    1 string data = "Jak vidím, jdeme rovnou k věci."
    [46]
-    1 string data = "The monster you are hunting has put to shame a sizable force of your order in the past, and now it seems only the two of you remain."
+    1 string data = "Netvor, kterého lovíte, v minulosti zahanbil nemalou sílu vašeho řádu a nyní se zdá, že jste zůstali jen vy dva."
    [47]
-    1 string data = "Still, you would venture into The Fleshmancer's old castle?"
+    1 string data = "Přesto byste se odvážili vstoupit do starého zámku Karnimanta?"
    [48]
-    1 string data = "Whatever it takes."
+    1 string data = "Za každou cenu."
    [49]
-    1 string data = "Then I suppose we should make this a serious audience."
+    1 string data = "Pak bychom z toho tedy asi měli udělat seriózní audienci."
    [50]
-    1 string data = "Allow me a moment to commune with the waters, and see what the flow of time is willing to reveal."
+    1 string data = "Dovolte mi chvíli rozmlouvat s vodami a podívat se, co je tok času ochoten odhalit."
    [51]
-    1 string data = "We're in a hurry, the Dweller of Strife could wake at any moment!"
+    1 string data = "Máme naspěch, Přiživovač sváru se může každou chvíli probudit!"
    [52]
-    1 string data = "Can you get us onto Mesa Island or not?"
+    1 string data = "Dokážete nás dostat na ostrov Mesa, nebo ne?"
    [53]
-    1 string data = "The one who does not belong here is eager to speak, I see."
+    1 string data = "Vidím, že ten, kdo sem nepatří, je dychtivý promluvit."
    [54]
     1 string data = "!!"
    [55]
-    1 string data = "It is not the place of a seer to offer direct help, but rather to provide insight."
+    1 string data = "Věštci nepřísluší nabízet přímou pomoc, ale spíše poskytovat vhled."
    [56]
-    1 string data = "May I assume it is understood that there will be no prophecy for you, foreign child?"
+    1 string data = "Mohu předpokládat, že pro tebe, cizí dítě, jak se rozumí, žádné proroctví nebude?"
    [57]
-    1 string data = "I..."
+    1 string data = "Já..."
    [58]
-    1 string data = "Yes, of course..."
+    1 string data = "Ano, jistě..."
    [59]
-    1 string data = "Very well, then."
+    1 string data = "Dobrá tedy."
    [60]
-    1 string data = "Warrior Cook! Step forward."
+    1 string data = "Válečný kuchař! Přistup blíž."
    [61]
-    1 string data = "Hey, that's exactly-"
+    1 string data = "Hele, to je přesně..."
    [62]
-    1 string data = "Step forward!"
+    1 string data = "Přistup blíž!"
    [63]
-    1 string data = "There is a great deed you might be capable of, but it will only be revealed to you once it is too late to act on it."
+    1 string data = "Je tu jeden velký čin, kterého bys mohl být schopen, ale bude ti odhalen, až když bude pozdě na to, abys ho vykonal."
    [64]
-    1 string data = "Okay, sure!"
+    1 string data = "Okej, fajn!"
    [65]
-    1 string data = "When that moment comes, demand a <color=magic>Flask of Borrowed Time</color>."
+    1 string data = "Až ta chvíle nadejde, vyžádej si <color=magic>baňku Vypůjčeného času</color>."
    [66]
-    1 string data = "Flask of Borrowed Time. Got it, thanks!"
+    1 string data = "Baňku Vypůjčeného času. Chápu, díky!"
    [67]
-    1 string data = "Children of the Solstice! Step forward."
+    1 string data = "Děti Slunovratu! Přistupte."
    [68]
-    1 string data = "Hold still."
+    1 string data = "Nehýbejte se."
    [69]
     1 string data = "(...)"
    [70]
-    1 string data = "(Very interesting...)"
+    1 string data = "(Velmi zajímavé...)"
    [71]
-    1 string data = "(But the order of these events...)"
+    1 string data = "(Ale pořadí těchto událostí...)"
    [72]
-    1 string data = "(A real shame...)"
+    1 string data = "(Opravdová škoda...)"
    [73]
-    1 string data = "*ahem*... You have been upfront with me, so I shall do the same."
+    1 string data = "*Ehm*... Byli jste ke mně upřímní, tak já udělám totéž."
    [74]
-    1 string data = "But first, some closure."
+    1 string data = "Ale nejdřív nějaké to završení."
    [75]
-    1 string data = "Seeing you now as I have seen you in my dreams, I know that the watch of the Docarri Oracles is at an end."
+    1 string data = "Když vás teď vidím, jak jsem vás viděl ve svých snech, vím, že dozor Docarrijských věštců je u konce."
    [76]
-    1 string data = "At long last, the ones we have been expecting for centuries have come."
+    1 string data = "Konečně přišli ti, které jsme očekávali celá staletí."
    [77]
-    1 string data = "This waterfall is the gateway to our world's greatest mystery. One that is yours to unveil."
+    1 string data = "Tento vodopád je branou k největšímu tajemství našeho světa. Takovému, jehož odhalení je na vás."
    [78]
-    1 string data = "The Tower of <color=location>Antsudlo</color>."
+    1 string data = "Věž <color=location>Antsudlo</color>."
    [79]
-    1 string data = "An enigmatic structure concealing a door that has remained firmly shut since time immemorial."
+    1 string data = "Záhadná stavba ukrývá dveře, které zůstávají od nepaměti pevně zavřené."
    [80]
-    1 string data = "Waiting for two Children of the Solstice with a slim but very real chance of altering fate..."
+    1 string data = "Čekají na dvě Děti Slunovratu s mizivou, ale velmi reálnou šancí zvrátit osud..."
    [81]
-    1 string data = "Waiting... for you!"
+    1 string data = "Čekají... na vás!"
    [82]
-    1 string data = "Right on! I always knew [MAINCHAR] and [OFFCHAR] were special!"
+    1 string data = "To je síla! Vždycky jsem věděl, že [MAINCHAR] a [OFFCHAR] jsou výjimeční!"
    [83]
-    1 string data = "There is one other thing of which I am certain."
+    1 string data = "Je tu ještě jedna věc, kterou jsem si jistý."
    [84]
     1 string data = "??"
    [85]
-    1 string data = "Of all the possible outcomes, there is not a single one where you defeat the Dweller of Strife in battle."
+    1 string data = "Ze všech možných následků neexistuje ani jeden, ve kterém byste porazili Přiživovače sváru v boji."
    [86]
-    1 string data = "But there must be a way! Didn't you just say we might be able to “alter fate”?"
+    1 string data = "Ale musí existovat způsob! Neříkali jste právě, že bychom mohli "zvrátit osud"?"
    [87]
-    1 string data = "I do not make the rules, my child. You have had plenty of time to stare at the night inside of you."
+    1 string data = "Já pravidla nevytvářím, mé dítě. Měl jsi dost času na to, abys pohlédnul do noci v tvém nitru."
    [88]
-    1 string data = "Your potential is immense, but you will not be prepared in time for the big confrontation."
+    1 string data = "Váš potenciál je obrovský, ale na velkou konfrontaci nebudete včas připraveni."
    [89]
-    1 string data = "Regardless of what happens in that tower, there is no possible outcome where you defeat the Dweller of Strife."
+    1 string data = "Bez ohledu na to, co se stane v té věži, není možný výsledek, kdy byste porazili Přiživovače sváru."
    [90]
-    1 string data = "But we have to fight!"
+    1 string data = "Ale my musíme bojovat!"
    [91]
-    1 string data = "And fight you will, but victory will not be yours."
+    1 string data = "A bojovat taky budete, ale vítězství nebude vaše."
    [92]
     1 string data = "..."
    [93]
-    1 string data = "And you, Lunar Monk, with but a simple spark, you could have been the one to create paths on water and mend the connection at long last..."
+    1 string data = "A ty, lunární mniško, stačila pouhá jiskra a mohla jsi to být ty, kdo by vytvořil cesty na vodě a konečně napravil spojení..."
    [94]
     1 string data = "(...)"
    [95]
-    1 string data = "(So close, and yet so far...)"
+    1 string data = "(Tak blízko, a přece tak daleko...)"
    [96]
-    1 string data = "(But alas, it appears the problem begets the solution...)"
+    1 string data = "(Ale napokon se zdá, že problém plodí řešení...)"
    [97]
-    1 string data = "We're still going to try! Isn't there anything you can do to help?"
+    1 string data = "Stejně to zkusíme! Nemůžete nám nějak pomoci?"
    [98]
-    1 string data = "It is not within my power to help you make it onto Mesa Island."
+    1 string data = "Není v mých silách vám pomoci dostat se na ostrov Mesa."
    [99]
-    1 string data = "Whatever fate has in store for you, all I know for certain is that your next step is beyond this waterfall."
+    1 string data = "Ať už pro vás osud přichystal cokoli, vím jistě jen to, že váš další krok je za tímto vodopádem."
    [100]
-    1 string data = "The mysterious Tower of Antsudlo awaits."
+    1 string data = "Tajemná věž Antsudlo čeká."
    [101]
-    1 string data = "Survive its trials, and discover the secret that has been waiting for you all along."
+    1 string data = "Přežijte její zkoušky a objevte tajemství, které na vás celou dobu čekalo."
    [102]
-    1 string data = "Godspeed, Solstice Warriors!"
+    1 string data = "Bůh vám pomáhej, Bojovníci Slunovratu!"
    [103]
-    1 string data = "My part has been played."
+    1 string data = "Moje role byla sehrána."
    [104]
-    1 string data = "Godspeed, and safe journeys!"
+    1 string data = "Bůh vám žehnej a šťastnou cestu!"
    [105]
-    1 string data = "Welcome to <color=location>Docarri Village</color>, adventurers! It has been so long since we had visitors."
+    1 string data = "Vítejte v <color=location>Dokarrijské vesnici</color>, dobrodruzi! Už je to tak dlouho, co jsme tu měli návštěvníky."
    [106]
-    1 string data = "Nice to meet you! We're looking for the Oracle of Tides."
+    1 string data = "Rádi vás poznáváme! Hledáme Věštce přílivů a odlivů."
    [107]
-    1 string data = "Why, of course you are!"
+    1 string data = "No jistě, že hledáte!"
    [108]
-    1 string data = "The temple is just up north from here. That's where the Oracle resides."
+    1 string data = "Chrám je kousek odtud na sever. Věštec sídlí tam."
    [109]
-    1 string data = "He's no doubt expecting you."
+    1 string data = "Bezpochyby vás očekává."
    [110]
-    1 string data = "Welcome to <color=location>Docarri Village</color>, adventurers!"
+    1 string data = "Vítejte v <color=location>Docarrijské vesnici</color>, dobrodruzi!"
    [111]
-    1 string data = "This is our temple, where the Oracle of Tides communes with the waters of the world to keep us informed of important events."
+    1 string data = "Tohle je náš chrám, kde Věštec přílivu a odlivu rozmlouvá s vodami světa, aby nás informoval o důležitých událostech."
    [112]
-    1 string data = "We knew you were coming, of course. Feel free to enter!"
+    1 string data = "Samozřejmě jsme věděli, že přijdete. Neváhejte a vstupte!"
    [113]
-    1 string data = "Every Docarri house has an inner chamber. We come up to the part above the surface when we want to socialize."
+    1 string data = "Každý dokarrijský dům má vnitřní pokoj. Do části nad povrchem přicházíme, když se chceme scházet."
    [114]
-    1 string data = "While inner chambers are a bit more private and customized to their owner's preferences, visitors are always free to come and go as they please."
+    1 string data = "Vnitřní pokoje jsou sice o něco soukromější a přizpůsobené potřebám jejich vlastníka, ale návštěvníci mohou vždy volně přicházet a odcházet, jak se jim zlíbí."
    [115]
-    1 string data = "Don't be shy now!"
+    1 string data = "Neostýchejte se!"
    [116]
-    1 string data = "Some Docarri prefer to remain in their inner chambers most of the time."
+    1 string data = "Někteří Docarriové raději zůstávají po většinu času ve svých vnitřních pokojích."
    [117]
-    1 string data = "As a tribe, we learned not to take offense at such behavior, and to celebrate each community member's freedom to engage and associate to the extent that they desire."
+    1 string data = "Jako kmen jsme se naučili nepohoršovat se nad takovým chováním a oslavujeme svobodu každého člena komunity angažovat se a sdružovat se v takové míře, jakou si přeje."
    [118]
-    1 string data = "Our tribe comes from <color=location>The Deep Blue</color>, far below the ocean floor."
+    1 string data = "Náš kmen pochází z <color=location>Hluboké modři</color>, ležící hluboko pod oceánským dnem."
    [119]
-    1 string data = "As aquatic nomads, we followed the guidance of the Oracle of Tides for generations, establishing encampments ever closer to the surface."
+    1 string data = "Jako vodní kočovníci jsme se po generace řídili pokyny Věštce přílivu a odlivu a zakládali jsme osady stále blíže k hladině."
    [120]
-    1 string data = "As you can see, we eventually made it to our destination! After Docarri Village was founded, we abandoned our nomadic way of life."
+    1 string data = "Jak vidíte, nakonec jsme se dostali k našemu cíli! Po založení Docarrijské vesnice jsme se vzdali našeho kočovného způsobu života."
    [121]
-    1 string data = "I love hanging out here, there's something about diving into the water and climbing back out only to dive in again that never loses its appeal."
+    1 string data = "Miluji se tu potloukat, něco na tom nikdy neztratí půvab, že se ponořím do vody a vylezu nazpátek, jen abych se zase ponořil."
    [122]
-    1 string data = "It's like an endless vacation!"
+    1 string data = "Je to jako nekonečná dovolená!"
    [123]
-    1 string data = "It doesn't beat fresh water, but fresh air isn't bad."
+    1 string data = "Sladkou vodu to nepřekoná, ale čerstvý vzduch není špatný."
    [124]
-    1 string data = "Us Docarri have a particular relationship with water, which our sensitive skin feels as very enveloping. It keeps us calm and composed."
+    1 string data = "My, Docarriové, máme zvláštní vztah k vodě, kterou naše citlivá pokožka vnímá jako velmi objímavou. Udržuje nás v klidu a vyrovnanosti."
    [125]
-    1 string data = "If we spend too much time outside of a body of water, we are compelled by anxiety to find that comfort again."
+    1 string data = "Pokud strávíme příliš mnoho času mimo vodní plochu, úzkost nás nutí tuto útěchu znovu najít."
    [126]
-    1 string data = "Each of us have their own threshold, some preferring to remain in their inner chambers at all times."
+    1 string data = "Každý z nás má svůj vlastní práh, někteří raději zůstávají po celou dobu ve svých vnitřních pokojích."
    [127]
-    1 string data = "You're welcome to visit them by using the water vortexes. Even though they are often forgotten, the more sensitive types have as much need for connection as anyone."
+    1 string data = "Můžete je navštívit pomocí vodních vírů. I když se na ně často zapomíná, citlivější typy mají stejnou potřebu spojení jako kdokoli jiný."
    [128]
-    1 string data = "North of here is the dreadful mountain known as <color=bad>Torment Peak</color>."
+    1 string data = "Severně odtud se nachází strašlivá hora známá jako <color=bad>Mučivý vrch</color>."
    [129]
-    1 string data = "Stories say that generations ago, Solstice Warriors sealed an evil within it."
+    1 string data = "Pověsti vyprávějí, že před generacemi v ní Bojovníci Slunovratu zapečetili zlo."
    [130]
-    1 string data = "Which makes me wonder, how can something be so dreadful that even they would run from it...?"
+    1 string data = "Což mě nutí k zamyšlení, jak může být něco tak strašného, že by před tím utíkali i oni...?"
    [131]
-    1 string data = "Welp, now I'm scared."
+    1 string data = "No paráda, teď mám strach."
    [132]
-    1 string data = "While some of us can wield a trident with relative efficiency, we are not a tribe of warriors."
+    1 string data = "Někteří z nás sice umí relativně zdatně zacházet s trojzubcem, ale nejsme kmen válečníků."
    [133]
-    1 string data = "Or rather, not anymore."
+    1 string data = "Nebo spíš už nejsme."
    [134]
-    1 string data = "You're Solstice Warriors, aren't you?"
+    1 string data = "Vy jste Bojovníci Slunovratu, že?"
    [135]
-    1 string data = "Does the Elder Mist really exist?"
+    1 string data = "Mlžný stařešina opravdu existuje?"
    [136]
-    1 string data = "You bet!"
+    1 string data = "To si piš!"
    [137]
-    1 string data = "Whoa!"
+    1 string data = "Prima!"
    [138]
-    1 string data = "I thought Wheels would be hard to get a grasp of, but I just played a couple of games and it all made sense."
+    1 string data = "Myslel jsem si, že bude těžké pochopit Kotouče, ale stačilo mi odehrát pár her a všechno začalo dávat smysl."
    [139]
-    1 string data = "I came here to see the pirates!"
+    1 string data = "Přišel jsem se podívat na piráty!"
    [140]
-    1 string data = "Hey, you emptied my stocks! What a fruitful collaboration this was!"
+    1 string data = "Hej, vykoupili jste mi zásoby! To byla ale plodná spolupráce!"
    [141]
-    1 string data = "That last item was my most peculiar one. No idea what it's for, though."
+    1 string data = "Ten poslední předmět byl můj nejsvéráznější. Nemám ale tušení, k čemu slouží."
    [142]
-    1 string data = "The <color=magic>Rainbow Star</color> flew up and disappeared..."
+    1 string data = "Ta <color=magic>Douhová hvězda</color> vylétla a zmizela..."
    [143]
-    1 string data = "Did you see that? Oh well, guess that one was a dud after all."
+    1 string data = "Viděli jste to? No, hádám, že tohle byl přece jenom omyl."
    [144]
-    1 string data = "Hello there, adventurers! Congratulations on finding Mirna's Market of Marvels!"
+    1 string data = "Zdravím vás, dobrodruzi! Blahopřeju k nalezení Mirnina trh úžasů!"
    [145]
-    1 string data = "Turn in your <color=magic>Rainbow Conches</color> right here for UNIQUE rewards!"
+    1 string data = "Přímo zde zaměňte své <color=magic>Duhové ulity</color> za UNIKÁTNÍ odměny!"
    [146]
-    1 string data = "Oh? Are you running a shop?"
+    1 string data = "Aha? Ty provozuješ obchod?"
    [147]
-    1 string data = "That's MARKET OF MARVELS! Grandpa left me a whole bunch of items and relics, all up for grabs to whoever helps me grow my Rainbow Conch collection!"
+    1 string data = "Je to TRH ÚŽASŮ! Dědeček mi odkázal spoustu předmětů a relikvií, všechny jsou k mání pro toho, kdo mi pomůže rozšířit sbírku Duhových ulit!"
    [148]
-    1 string data = "Where can we find them?"
+    1 string data = "Kde je najdeme?"
    [149]
-    1 string data = "Around! Though Rainbow Conches are all the rage as of late, so the easy ones are mostly gone. Just need to keep your eyes peeled for secret areas."
+    1 string data = "Tu a tam! Ačkoli Duhové ulity jsou poslední dobou v módě, takže ty snadné jsou většinou fuč. Třeba jen mít oči na stopkách a hledat tajné prostory."
    [150]
-    1 string data = "Some people might be swayed into giving theirs up, too!"
+    1 string data = "Někteří lidé by se mohli nechat přemluvit, aby se vzdali i těch svých!"
    [151]
-    1 string data = "You seem to know a lot for your age."
+    1 string data = "Zdá se, že toho na svůj věk víš hodně."
    [152]
-    1 string data = "Business is a game of MUTUAL BENEFIT and LEVERAGE."
+    1 string data = "Podnikání je hra o VZÁJEMNÉM PROSPĚCHU a VYJEDNÁVÁNÍ."
    [153]
-    1 string data = "I did my homework. I know you won't be able to resist schematics to build a tavern and a fishing house in that town you founded."
+    1 string data = "Nezahálel jsem. Vím, že neodoláte schématům na výstavbu hostince a rybářského domu v tom městečku, které jste založili."
    [154]
-    1 string data = "What's that? You'd prefer EPIC LOOT like <color=magic>Relics</color>? You've come to the right place, Solstice Warriors!"
+    1 string data = "Ale co to? Dali byste přednost EPICKÉMU ZBOŽÍ jako jsou<color=magic>Relikvie</color>? Jste na správném místě, Bojovníci Slunovratu!"
    [155]
-    1 string data = "See? MUTUAL BENEFIT! You work for me, and my Rainbow Conch collection will be unbeatable!"
+    1 string data = "Vidíte? VZÁJEMNÝ PROSPĚCH! Pracujte pro mě a moje sbírka duhových ulit bude nepřekonatelná!"
    [156]
-    1 string data = "Well, you sure have the drive!"
+    1 string data = "No, rozhodně máš elán!"
    [157]
-    1 string data = "Question is, do YOU have the RAINBOW CONCHES?"
+    1 string data = "Otázkou je, jestli VY máte ty DUHOVÉ ULITY?"
    [158]
-    1 string data = "Any business for me today?"
+    1 string data = "Uděláme dnes obchod?"
    [159]
-    1 string data = "Turn in Conches"
+    1 string data = "Zaměnit ulity"
    [160]
-    1 string data = "See rewards list"
+    1 string data = "Zobrazit seznam odměn"
    [161]
-    1 string data = "Not now"
+    1 string data = "Teď ne"
    [162]
-    1 string data = "No new ones today, huh? Keep it up, your Rainbow Conch total is [CONCH_COUNT] so far!"
+    1 string data = "Dneska nic nové, co? Nepolevujte, dosud jste nalezli [CONCH_COUNT] Duhových ulit!"
    [163]
-    1 string data = "You've found [CONCH_COUNT] Conches so far! Keep 'em coming!"
+    1 string data = "Zatím jste našli [CONCH_COUNT] ulit! Jen tak dál!"
    [164]
-    1 string data = "[CONCH_COUNT] Conches? Congratulations, I have something for you!"
+    1 string data = "[CONCH_COUNT] ulit? Blahopřeji, něco pro vás mám!"
    [165]
-    1 string data = "That's all of them! Thank you for your patronage."
+    1 string data = "To jsou všechny! Děkuji vám za vaši přízeň."
    [166]
-    1 string data = "Mirna's Market of Marvels"
+    1 string data = "Mirnin trh úžasů"
    [167]
-    1 string data = "Greetings, travelers! Did you need a room for the night?"
+    1 string data = "Zdravím vás, cestovatelé! Potřebovali byste nocleh?"
    [168]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [169]
-    1 string data = "No"
+    1 string data = "Ne"
    [170]
-    1 string data = "Come back anytime!"
+    1 string data = "Vraťte se kdykoli!"
    [171]
-    1 string data = "Sweet dreams! "
+    1 string data = "Sladké sny! "
    [172]
-    1 string data = "Looking for items?"
+    1 string data = "Hledáte zboží?"
    [173]
-    1 string data = "Welcome, we have a vast selection of equipment!"
+    1 string data = "Vítejte, máme široký výběr vybavení!"
    [174]
-    1 string data = "Good day, adventurers, might you help an old man out?"
+    1 string data = "Dobrý den, dobrodruzi, mohli byste pomoci starému muži?"
    [175]
-    1 string data = "Maybe, what's the matter?"
+    1 string data = "Možná, co se děje?"
    [176]
-    1 string data = "It's my <color=good>three grandkids</color>. They wanted to play hide and seek, and, well, I simply cannot find them."
+    1 string data = "To moje <color=good>tři vnoučata</color>. Chtěli si hrát na schovávanou, no a já je prostě nemůžu najít."
    [177]
-    1 string data = "They have a habit of hiding in random inner chambers, and being from an older generation, I find myself quite unwilling to barge into other people's homes."
+    1 string data = "Mají ve zvyku schovávat se v náhodných vnitřních pokojích, a protože jsem ze starší generace, docela nerad se vtírám do cizích domovů."
    [178]
-    1 string data = "If you could find them for me, I would be forever grateful."
+    1 string data = "Kdybyste je pro mě našli, byl bych vám nesmírně vděčný."
    [179]
-    1 string data = "Have you found my three grandkids, then?"
+    1 string data = "Našli jste tedy moje tři vnoučata?"
    [180]
-    1 string data = "Still working on it, we'll be back."
+    1 string data = "Ještě na tom děláme, vrátíme se."
    [181]
-    1 string data = "You have my thanks! I do love my little fellas, but they can be quite a strain on these old knees."
+    1 string data = "Máte mé díky! Miluji své prcky, ale pro tyto stará kolena umí být pěkná zátěž."
    [182]
-    1 string data = "Here, for your troubles. I suggest you turn these in to our local entrepreneur, she carries quite the inventory."
+    1 string data = "Tady máte za své starosti. Doporučuji je zaměnit u naší místní podnikatelky, má u sebe docela slušný sortiment."
    [183]
-    1 string data = "Best of luck in your travels!"
+    1 string data = "Hodně štěstí na vašich cestách!"
    [184]
-    1 string data = "Go away, you're ruining my hiding spot!"
+    1 string data = "Jděte pryč, kazíte mi schovávačku!"
    [185]
-    1 string data = "Hey, your grandpa asked us to find you."
+    1 string data = "Hele, tvůj děda nás požádal, abychom tě našli."
    [186]
-    1 string data = "Really? But I wanted to play with HIM!"
+    1 string data = "Opravdu? Ale já jsem si chtěl hrát s NÍM!"
    [187]
-    1 string data = "I think you got a little too good at hiding. He gives up."
+    1 string data = "Myslím, že jsi se uměl až moc dobře schovávat. Vzdává se."
    [188]
-    1 string data = "Ha! I'm the BEST!"
+    1 string data = "Ha! Jsem NEJLEPŠÍ!"
    [189]
-    1 string data = "Watch out!"
+    1 string data = "Pozor!"
    [190]
-    1 string data = "Hey, who are you?"
+    1 string data = "Ahoj, kdo jste?"
    [191]
-    1 string data = "We're here on behalf of your grandpa."
+    1 string data = "Jsme tu jménem tvého dědečka."
    [192]
-    1 string data = "Oh, so he sent you?"
+    1 string data = "Aha, takže vás poslal?"
    [193]
-    1 string data = "Yes."
+    1 string data = "Ano."
    [194]
-    1 string data = "About time! I was getting bored. Well, I win!"
+    1 string data = "Bylo na čase! Už jsem se nudil. Tak jsem vyhrál!"
    [195]
-    1 string data = "Haha, you won't catch me!"
+    1 string data = "Haha, nechytíš mě!"
    [196]
-    1 string data = "Hello!"
+    1 string data = "Ahoj!"
    [197]
-    1 string data = "Hey, your grandpa sent us to find you. He gives up."
+    1 string data = "Ahoj, tvůj děda nás poslal, abychom tě našli. Vzdává to."
    [198]
-    1 string data = "Oh, he's getting more and more tired every day, that's no fun."
+    1 string data = "Ach jo, on je každým dnem víc a víc unavený, to není žádná legrace."
    [199]
-    1 string data = "Guess I win!"
+    1 string data = "Asi jsem vyhrál!"
    [200]
-    1 string data = "Wait for me!"
+    1 string data = "Počkej na mě!"
    [201]
-    1 string data = "I'd love to take my son around the world, but we also want to run our own family store."
+    1 string data = "Rád bych vzal svého synka na cestu kolem světa, ale chceme také provozovat vlastní rodinný obchod."
    [202]
-    1 string data = "We thought of moving to Brisk, but everything is way too established there, we'd never break through..."
+    1 string data = "Přemýšleli jsme, že bychom se přestěhovali do Svežína, ale tam je už všechno příliš etablované, nikdy bychom neprorazili..."
    [203]
-    1 string data = "Mirth? That sure sounds interesting!"
+    1 string data = "Veselí? To zní nanejvíš zajímavě!"
    [204]
-    1 string data = "We'll pack our things right away. Thanks, make sure you drop by!"
+    1 string data = "Hned si sbalíme věci. Díky, určitě se zastavte!"
    [205]
-    1 string data = "A shop has been unlocked in Mirth!"
+    1 string data = "Ve Veselí byl odemčen obchod!"
