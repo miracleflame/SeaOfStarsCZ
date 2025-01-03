@@ -19,7 +19,7 @@
    [2]
     1 string data = "Stezka džunglí"
    [3]
-    1 string data = "Docarrijská vesnice"
+    1 string data = "Docarrijská osada"
    [4]
     1 string data = "Strážcův ostrov"
    [5]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Azurová pustina"
    [63]
-    1 string data = "Vesnice Ztracených"
+    1 string data = "Osada Ztracených"
    [64]
     1 string data = "Vesmírná základna"
    [65]

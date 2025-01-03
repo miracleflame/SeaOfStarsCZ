@@ -679,9 +679,9 @@
    [332]
     1 string data = "Kyberrak poustevníček"
    [333]
-    1 string data = "Fluorescentní piraňa"
+    1 string data = "Piraňa fluorescenta"
    [334]
-    1 string data = "Fluorescentní piraňa"
+    1 string data = "Piraňa fluorescenta"
    [335]
     1 string data = "Jeseduch"
    [336]
@@ -1569,21 +1569,21 @@
    [777]
     1 string data = "Klíč od ředitelovy kanceláře v Akademii Zenit."
    [778]
-    1 string data = "Plány lázní"
+    1 string data = "Schémata lázní"
    [779]
-    1 string data = "Plány na výstavbu lázní ve Veselí."
+    1 string data = "Schémata na výstavbu lázní ve Veselí."
    [780]
-    1 string data = "Plány hostince"
+    1 string data = "Schémata hostince"
    [781]
-    1 string data = "Plány na výstavbu hostince ve Veselí."
+    1 string data = "Schémata na výstavbu hostince ve Veselí."
    [782]
-    1 string data = "Plány rybářské chaty"
+    1 string data = "Schémata rybářské chaty"
    [783]
-    1 string data = "Plány na výstavbu rybářské chaty ve Veselí."
+    1 string data = "Schémata na výstavbu rybářské chaty ve Veselí."
    [784]
-    1 string data = "Plány obchodu"
+    1 string data = "Schémata obchodu"
    [785]
-    1 string data = "Plány na stavbu obchodu ve Veselí."
+    1 string data = "Schémata na stavbu obchodu ve Veselí."
    [786]
     1 string data = "Absolventský žeton"
    [787]

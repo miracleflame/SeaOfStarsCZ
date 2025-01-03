@@ -439,7 +439,7 @@
    [212]
     1 string data = "Štěpení duše"
    [213]
-    1 string data = "Cacstorm"
+    1 string data = "Směť"
    [214]
     1 string data = "Slintavý polibek"
    [215]

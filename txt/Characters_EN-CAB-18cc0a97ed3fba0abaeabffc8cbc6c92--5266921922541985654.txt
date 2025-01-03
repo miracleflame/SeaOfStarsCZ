@@ -53,7 +53,7 @@
    [19]
     1 string data = "Matriarcha goril"
    [20]
-    1 string data = "Dokarrijský vesničan"
+    1 string data = "Dokarrijec"
    [21]
     1 string data = "Služebník chrámu"
    [22]
@@ -105,9 +105,9 @@
    [45]
     1 string data = "Stařešina Garl"
    [46]
-    1 string data = "Molekinský vesničan"
+    1 string data = "Molekin"
    [47]
-    1 string data = "Molekinský stařešina"
+    1 string data = "Stařešina Molekinů"
    [48]
     1 string data = "Malkomud"
    [49]

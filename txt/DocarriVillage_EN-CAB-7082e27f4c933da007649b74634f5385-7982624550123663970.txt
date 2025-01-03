@@ -21,7 +21,7 @@
    [3]
     1 string data = "No, když přijde na to, je tu něco, co bych..."
    [4]
-    1 string data = "Hele, vidíš támhle ten zvon?"
+    1 string data = "Hele, vidíte támhle ten zvon?"
    [5]
     1 string data = "Vypadá podobně jako to kladivo, co nám dal Moraine."
    [6]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "Tak tohle je ten chrám?"
    [13]
-    1 string data = "Ale ne. Chrám je v Docarrijské vesnici. Nachází se na dně oceánu, hluboko pod tímto jezerem."
+    1 string data = "Ale ne. Chrám je v Docarrijské osadě. Nachází se na dně oceánu, hluboko pod tímto jezerem."
    [14]
     1 string data = "Ale..."
    [15]
@@ -81,19 +81,19 @@
    [33]
     1 string data = "Páni!"
    [34]
-    1 string data = "Je to jediný způsob, jak se dostat do Docarrijské vesnice a setkat se s Věštcem."
+    1 string data = "Je to jediný způsob, jak se dostat do Docarrijské osadě a setkat se s Věštcem."
    [35]
     1 string data = "Bude to fungovat pro všechny?"
    [36]
     1 string data = "Zajisté, ovšem za předpokladu, že se budete držet blízko u sebe."
    [37]
-    1 string data = "Asi bude nejlepší, když se jí tedy budete dotýkat."
+    1 string data = "Asi bude nejlepší, abychom zůstali pohromade."
    [38]
     1 string data = "Odemknu vám severní bránu jezera. Váš cíl je na severozápadě."
    [39]
     1 string data = "Vydejte se k posvátnému háji a nezapomeňte se vyhnout <color=bad>Mučivému vrchu</color>!"
    [40]
-    1 string data = "Děkujeme, že ctíte naši tradici. Nyní můžete navštevovat Docarrijskou vesnici dle libosti."
+    1 string data = "Děkujeme, že ctíte naši tradici. Nyní můžete navštevovat Docarrijskou osadu dle libosti."
    [41]
     1 string data = "Jakmile budete připraveni, cesta vede přes velký vír."
    [42]
@@ -119,7 +119,7 @@
    [52]
     1 string data = "Dokážete nás dostat na ostrov Mesa, nebo ne?"
    [53]
-    1 string data = "Vidím, že ten, kdo sem nepatří, je dychtivý promluvit."
+    1 string data = "Vidím, že ta, kdo sem nepatří, je dychtivá promluvit."
    [54]
     1 string data = "!!"
    [55]
@@ -223,7 +223,7 @@
    [104]
     1 string data = "Bůh vám žehnej a šťastnou cestu!"
    [105]
-    1 string data = "Vítejte v <color=location>Dokarrijské vesnici</color>, dobrodruzi! Už je to tak dlouho, co jsme tu měli návštěvníky."
+    1 string data = "Vítejte v <color=location>Dokarrijské osadě</color>, dobrodruzi! Už je to tak dlouho, co jsme tu měli návštěvníky."
    [106]
     1 string data = "Rádi vás poznáváme! Hledáme Věštce přílivů a odlivů."
    [107]
@@ -233,7 +233,7 @@
    [109]
     1 string data = "Bezpochyby vás očekává."
    [110]
-    1 string data = "Vítejte v <color=location>Docarrijské vesnici</color>, dobrodruzi!"
+    1 string data = "Vítejte v <color=location>Docarrijské osadě</color>, dobrodruzi!"
    [111]
     1 string data = "Tohle je náš chrám, kde Věštec přílivu a odlivu rozmlouvá s vodami světa, aby nás informoval o důležitých událostech."
    [112]
@@ -253,7 +253,7 @@
    [119]
     1 string data = "Jako vodní kočovníci jsme se po generace řídili pokyny Věštce přílivu a odlivu a zakládali jsme osady stále blíže k hladině."
    [120]
-    1 string data = "Jak vidíte, nakonec jsme se dostali k našemu cíli! Po založení Docarrijské vesnice jsme se vzdali našeho kočovného způsobu života."
+    1 string data = "Jak vidíte, nakonec jsme se dostali k našemu cíli! Po založení Docarrijské osady jsme se vzdali našeho kočovného způsobu života."
    [121]
     1 string data = "Miluji se tu potloukat, něco na tom nikdy neztratí půvab, že se ponořím do vody a vylezu nazpátek, jen abych se zase ponořil."
    [122]
@@ -267,7 +267,7 @@
    [126]
     1 string data = "Každý z nás má svůj vlastní práh, někteří raději zůstávají po celou dobu ve svých vnitřních pokojích."
    [127]
-    1 string data = "Můžete je navštívit pomocí vodních vírů. I když se na ně často zapomíná, citlivější typy mají stejnou potřebu spojení jako kdokoli jiný."
+    1 string data = "I když se na ně často zapomíná, citlivější typy mají stejnou potřebu spojení jako kdokoli jiný. Můžete je navštívit pomocí vodních vírů."
    [128]
     1 string data = "Severně odtud se nachází strašlivá hora známá jako <color=bad>Mučivý vrch</color>."
    [129]
@@ -301,7 +301,7 @@
    [143]
     1 string data = "Viděli jste to? No, hádám, že tohle byl přece jenom omyl."
    [144]
-    1 string data = "Zdravím vás, dobrodruzi! Blahopřeju k nalezení Mirnina trh úžasů!"
+    1 string data = "Zdravím vás, dobrodruzi! Blahopřeju k nalezení Mirnina trhu úžasů!"
    [145]
     1 string data = "Přímo zde zaměňte své <color=magic>Duhové ulity</color> za UNIKÁTNÍ odměny!"
    [146]
@@ -321,7 +321,7 @@
    [153]
     1 string data = "Nezahálel jsem. Vím, že neodoláte schématům na výstavbu hostince a rybářského domu v tom městečku, které jste založili."
    [154]
-    1 string data = "Ale co to? Dali byste přednost EPICKÉMU ZBOŽÍ jako jsou<color=magic>Relikvie</color>? Jste na správném místě, Bojovníci Slunovratu!"
+    1 string data = "Ale co to? Dali byste přednost EPICKÉMU ZBOŽÍ jako jsou <color=magic>Relikvie</color>? Jste na správném místě, Bojovníci Slunovratu!"
    [155]
     1 string data = "Vidíte? VZÁJEMNÝ PROSPĚCH! Pracujte pro mě a moje sbírka duhových ulit bude nepřekonatelná!"
    [156]
@@ -397,11 +397,11 @@
    [191]
     1 string data = "Jsme tu jménem tvého dědečka."
    [192]
-    1 string data = "Aha, takže vás poslal?"
+    1 string data = "Aha, takže on vás poslal?"
    [193]
     1 string data = "Ano."
    [194]
-    1 string data = "Bylo na čase! Už jsem se nudil. Tak jsem vyhrál!"
+    1 string data = "Bylo na čase! Už jsem se nudil. Takže jsem vyhrál!"
    [195]
     1 string data = "Haha, nechytíš mě!"
    [196]

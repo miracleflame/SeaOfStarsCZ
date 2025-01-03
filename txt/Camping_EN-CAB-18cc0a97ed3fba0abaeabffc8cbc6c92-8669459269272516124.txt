@@ -127,11 +127,11 @@
    [56]
     1 string data = "Doufám, že dokážeme pomoci Molekinům, působí tak mírumilovně."
    [57]
-    1 string data = "Jsem rád, že jsme dokázali pomoci."
+    1 string data = "Mám radost, že jsme dokázali pomoci."
    [58]
     1 string data = "Když už je velký výtah v provozu, můžeme se teď dostat do Svěžína."
    [59]
-    1 string data = "Taky nemám zrovna dobrý pocit z jednání s piráty, ale potřebujeme se svézt na lodi…"
+    1 string data = "Taky nemám zrovna dobrý pocit z paktovaní s piráty, ale potřebujeme se svézt na lodi…"
    [60]
     1 string data = "Doufám, že kapitánka Klii'šaë dodrží svou část dohody…"
    [61]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "Nebylo fér, jak se ostatní k Malkomudovi chovali."
    [66]
-    1 string data = "Ještěže jsme opravili ten velký výtah ve vesnici Molekinů - už se nemůžu dočkat, až uvidím Svěžín!"
+    1 string data = "Ještěže jsme opravili ten velký výtah ve vesničce Molekinů - už se nemůžu dočkat, až uvidím Svěžín!"
    [67]
     1 string data = "Ta věc s Živou manou je neskutečná, chci pořád posilovat!"
    [68]
@@ -241,7 +241,7 @@
    [113]
     1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžína."
    [114]
-    1 string data = "Je dobrý pocit umožnit těm lidem začít nanovo."
+    1 string data = "Je to dobrý pocit umožnit těm lidem začít nanovo."
    [115]
     1 string data = "Hortenzie je třída. Dovedeš si představit, že se udržela tak dlouho?"
    [116]
@@ -273,111 +273,111 @@
    [129]
     1 string data = "Když si pomyslím, že jsme o nějakém Přiživovači nevěděli…"
    [130]
-    1 string data = "Glad that Dweller is behind us now."
+    1 string data = "Mám radost, že je Přiživovačka za námi."
    [131]
-    1 string data = "Garl really turned things around for Moraine."
+    1 string data = "Garl to pro Moraina opravdu rozhýbal."
    [132]
-    1 string data = "That key Moraine gave us. Bit of a hike getting back to X'tol, but it might be worth checking out that shrine."
+    1 string data = "Ten klíč, co nám dal Moraine... Návrat k X'tolu je trochu štreka, ale možná by stálo za to podívat se do té svatyně."
    [133]
-    1 string data = "Mesa Island… That's where the Dweller and the acolytes are…"
+    1 string data = "Ostrov Mesa... Tam prý je Přiživovač a akolyté..."
    [134]
-    1 string data = "Here's hoping the Oracle of Tides can actually help…"
+    1 string data = "Doufám, že Věštec přílivů a odliů bude moct opravdu pomoct..."
    [135]
-    1 string data = "So, no one's ever been inside that tower, huh? That's kind of exciting."
+    1 string data = "Takže v té věži ještě nikdo nebyl, co? To je docela vzrušující."
    [136]
-    1 string data = "I wonder what we'll find up there. Definitely feels powerful."
+    1 string data = "Přemítám, co tam nahoře najdeme. Rozhodně z toho jde nejaká moc."
    [137]
-    1 string data = "Let's go back to Resh'an"
+    1 string data = "Vraťme se za Resh'anem."
    [138]
-    1 string data = "We can do this cleansing. We must."
+    1 string data = "Tuto očistu zvládneme. Musíme."
    [139]
-    1 string data = "Now to bring Resh'an his vial."
+    1 string data = "Už jenom přinést tu lahvičku Resh'anovi."
    [140]
-    1 string data = "I still can't believe we have our own ship now, this is awesome!"
+    1 string data = "Pořád nemůžu uvěřit, že teď máme vlastní loď, to je úžasné!"
    [141]
-    1 string data = "The Coral Hammer… Are we really going to find a hidden city underwater now?"
+    1 string data = "Korálové kladivo... Opravdu teď najdeme skryté město pod vodou?"
    [142]
-    1 string data = "The seashell is so pretty! And water breathing? That's too much!"
+    1 string data = "Ta mušle je tak hezká! A dýchání pod vodou? To už je něco!"
    [143]
-    1 string data = "I always knew you two were special, but a big mysterious tower built just for you is something else!"
+    1 string data = "Vždycky jsem věděl, že vy dva jste výjimeční, ale velká tajemná věž postavená jen pro vás, o už je něco jiného!"
    [144]
-    1 string data = "A Flask of Borrowed Time… I'll have to remember that, sounded important."
+    1 string data = "Baňka vypůjčeného času... To si budu muset zapamatovat, znělo to důležitě."
    [145]
-    1 string data = "I like the cold--makes the campfire feel even cozier!"
+    1 string data = "Mám rád zimu - u táboráku je pak ještě příjemněji!"
    [146]
-    1 string data = "I just know you can take that Dweller on your own without Moraine! I'll help however I can."
+    1 string data = "Já prostě vím, že toho Přiživovače zvládnete sami i bez Moraina! Pomůžu vám, jak budu moct."
    [147]
-    1 string data = "The way Seraï brought the light in Torment Peak, it was unbelievable!"
+    1 string data = "Jak Seraï přinesla to světlo na Mučivý vrch, to bylo neuvěřitelné!"
    [148]
-    1 string data = "Don't forget to prepare snacks for the road."
+    1 string data = "Nezapomeňme si připravit svačinu na cestu."
    [149]
-    1 string data = "Watcher Island is in the southeast area. There's a mysterious tower sticking out of the ocean right next to it."
+    1 string data = "Strážcův ostrov se nachází v jihovýchodní oblasti. Hned vedle něj trčí z oceánu tajemná věž."
    [150]
     1 string data = "…"
    [151]
-    1 string data = "We made it. Now to see what this Coral Hammer does…"
+    1 string data = "Zvládli jsme to. Teď ještě zjistit, co dělá to Korálové kladivo..."
    [152]
-    1 string data = "After attuning the seashell at the Sacred Grove on Watcher Island, we should be able to reach the bottom of Lake Docarria…"
+    1 string data = "Po naladění mušle v Posvátném háji na Strážcově ostrově bychom měli být schopni se dostat na dno jezera Docarria..."
    [153]
-    1 string data = "It felt like a big deal to be allowed through the waterfall in the Oracle's room. Whatever we find in that tower, I've got your back."
+    1 string data = "Připadalo mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoli, kryju vám záda."
    [154]
-    1 string data = "The acolytes are probably watching. Don't let your guard down."
+    1 string data = "Akolyté se pravděpodobně dívají. Nepolevujme v ostražitosti."
    [155]
-    1 string data = "Torment Peak is north of Lake Docarria, on Watcher Island."
+    1 string data = "Mučivý vrch je severně od jezera Docarria, na Strážcově ostrově."
    [156]
-    1 string data = "Now that the prism is back on the Watcher statue, you should be able to drive a light beam through it to find the cache Resh'an was talking about."
+    1 string data = "Teď, když je hranol zpátky na soše Strážce, mělo by se podařit přes něj prosvítit světelný paprsek a najít skrýš, o které mluvil Resh'an."
    [157]
-    1 string data = "Glad that Dweller is behind us now."
+    1 string data = "Mám radost, že je Přiživovačka za námi."
    [158]
-    1 string data = "Finally on Mesa Island. Are you ready for the big confrontation?"
+    1 string data = "Konečně na ostrově Mesa. Jste připraveni na velkou konfrontaci?"
    [159]
-    1 string data = "If Erlina and Brugaves get in our way, I won't hesitate."
+    1 string data = "Pokud se nám Erlina a Brugaves postaví do cesty, nebudu váhat."
    [160]
-    1 string data = "Yomara mentioned "the dead of a forgotten race." I wonder what that is."
+    1 string data = "Yomara se zmínila o 'mrtvých zapomenuté rasy'. Zajímalo by mě, co to je."
    [161]
     1 string data = "Erlina…"
    [162]
-    1 string data = "I'm ready."
+    1 string data = "Jsem připraven."
    [163]
-    1 string data = "Mesa Island. Finally."
+    1 string data = "Ostrov Mesa. Konečně."
    [164]
-    1 string data = "Mesa Island. It was about time."
+    1 string data = "Ostrov Mesa. Už bylo na čase."
    [165]
-    1 string data = "Erlina and Brugaves… I still can't believe what they did…"
+    1 string data = "Erlina a Brugaves… Pořád nemůžu uvěřit tomu, co udělali…"
    [166]
-    1 string data = "What Yomara said to Resh'an… What did she mean?"
+    1 string data = "To co řekla Yomara Resh'anovi… Co tím myslela?"
    [167]
     1 string data = "Brugaves…"
    [168]
-    1 string data = "I'm ready."
+    1 string data = "Jsem v pohotovosti."
    [169]
-    1 string data = "So Resh'an's an immortal, huh? Oh, right! Shhh!"
+    1 string data = "Takže Resh'an je nesmrtelný, co? Aha, jasně! Ani muk!"
    [170]
-    1 string data = "The way Seraï brought the light in Torment Peak, it was unbelievable!"
+    1 string data = "Jak Seraï přinesla to světlo na Mučivý vrch, to bylo neuvěřitelné!"
    [171]
-    1 string data = "Don't forget to prepare snacks for the road."
+    1 string data = "Nezapomeňme si připravit svačinu na cestu."
    [172]
-    1 string data = "Must be hard thinking about this whole Erlina and Brugaves situation. I'm here, okay?"
+    1 string data = "Musí to být těžké myslet na celou tu situaci s Erlinou a Brugavesem. Jsem tady, jo?"
    [173]
-    1 string data = "I wonder what Resh'an wants in all of this. Seemed to think you and [OFFCHAR] were special, which I agree!"
+    1 string data = "Zajímalo by mě, co v tom všem chce Resh'an. Zdá se, že podle něj jste ty a [OFFCHAR] výjimeční, s čímž souhlasím!"
    [174]
-    1 string data = "There's something special about Mesa Island, don't you think?"
+    1 string data = "Na ostrově Mesa je něco zvláštního, nemyslíš?"
    [175]
-    1 string data = "Yomara's pear was unreal!"
+    1 string data = "Yomařina hruška byla neskutečná!"
    [176]
-    1 string data = "It mustn't have been easy, but you did great during the duel."
+    1 string data = "Nemuselo to být snadné, ale během souboje jste si vedli skvěle."
    [177]
-    1 string data = "We'll be fighting the Dweller soon. I know you can do this!"
+    1 string data = "Brzy budeme bojovat s Přiživovačem. Vím, že to zvládnete!"
    [178]
-    1 string data = "I don't trust the alchemist yet."
+    1 string data = "Alchymistovi zatím nevěřím."
    [179]
-    1 string data = "The Clockwork Castle is on the east side of Mesa Island. We'll have to cross it on foot."
+    1 string data = "Mechanický hrad je na východní straně ostrova Mesa. Budeme jej muset přejít pěšky."
    [180]
-    1 string data = "The acolytes are probably watching. Don't let your guard down."
+    1 string data = "Akolyté se pravděpodobně dívají. Nepolevujme v ostražitosti."
    [181]
-    1 string data = "Caël said the Watchmaker's key is the only way forward. Fingers crossed that she'll be willing to help."
+    1 string data = "Caël říkal, že klíč od Hodinářky představuje jedinou cestu vpřed. Přeju si, aby byla ochotná pomoci."
    [182]
-    1 string data = "The big fight is coming--make sure you're well prepared."
+    1 string data = "Velký souboj se blíží - ujistěte se, že jste dobře připraveni."
    [183]
     1 string data = "Mesa Island is to the northeast.The one with a giant stone head."
    [184]
