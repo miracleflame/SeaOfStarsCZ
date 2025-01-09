@@ -1313,7 +1313,7 @@
    [649]
     1 string data = "Dóza na sušenky"
    [650]
-    1 string data = "Z té doby, kdy se Garl vplížil do Akademie Zenitu."
+    1 string data = "Z té doby, kdy se Garl vplížil do Akademie Zenit."
    [651]
     1 string data = "Turbo sušenka"
    [652]

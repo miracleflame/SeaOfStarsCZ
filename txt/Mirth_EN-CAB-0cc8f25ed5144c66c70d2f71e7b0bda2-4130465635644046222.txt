@@ -241,7 +241,7 @@
    [113]
     1 string data = "A kam se teď vydáte vy?"
    [114]
-    1 string data = "Kamkoli, kde není Akademie Zenitu."
+    1 string data = "Kamkoli, kde není Akademie Zenit."
    [115]
     1 string data = "Hele, proč nezůstanete tady ve Veselí?"
    [116]
@@ -477,7 +477,7 @@
    [231]
     1 string data = "Tohle je opravdu pěkný dům. Děkuji, nečekal jsem tolik..."
    [232]
-    1 string data = "Všichni od Měsíční kolébky po Veselí truchlí nad ztrátou Garla. Je to sice velmi smutné, ale ukazuje to, kolika srdcí se dotkl..."
+    1 string data = "Všichni od Měsíční Kolébky po Veselí truchlí nad ztrátou Garla. Je to sice velmi smutné, ale ukazuje to, kolika srdcí se dotkl..."
    [233]
     1 string data = "Měl jsem to říct nahlas už dřív, ale... Jsem na vás dva opravdu hrdý."
    [234]

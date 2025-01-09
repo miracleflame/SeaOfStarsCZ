@@ -15,7 +15,7 @@
    [0]
     1 string data = "Buďme tam ostražití, o tomhle Přiživovači nic nevíme."
    [1]
-    1 string data = "Jsem hned za tebou."
+    1 string data = "Jsem hned za váma."
    [2]
     1 string data = "Uh... Zale?"
    [3]

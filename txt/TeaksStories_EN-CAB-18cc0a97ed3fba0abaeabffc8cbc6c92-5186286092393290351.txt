@@ -353,9 +353,9 @@
    [169]
     1 string data = "Když dosáhli své zaslíbené země, začali s výstavbou u věže."
    [170]
-    1 string data = "Od toho dne se stali strážcemi věže Antsudlo a čekali na ty, kterým bylo souzeno otevřít její brány." 
+    1 string data = "V Docarrijské osadě měli generace přicházet a odcházet, a každá se měla řídit vedením svého příslušného Věštce přílivů a odlivů."
    [171]
-    1 string data = "V Docarrijské osadě generace přicházely a odcházely, a každá se řídila vedením svého příslušného Věštce přílivů a odlivů."
+    1 string data = "Počnouc tímto dnem se stali strážcemi věže Antsudlo a čekali na ty, kterým bylo souzeno otevřít její brány."
    [172]
     1 string data = "V této nové éře přežívají vzpomínky na jejich kočovné dny v tradičních pověstech, které vypravují o skutcích velkých objevitelů a mocných válečníků."
    [173]
@@ -621,7 +621,7 @@
    [303]
     1 string data = "Odemčen nový příběh: Dva alchymisté"
    [304]
-    1 string data = "Odemčen nový příběh: Měsíční kolébka"
+    1 string data = "Odemčen nový příběh: Měsíční Kolébka"
    [305]
     1 string data = "Odemčen nový příběh: Mechanický hrad"
    [306]
@@ -647,7 +647,7 @@
    [316]
     1 string data = "Dva alchymisté"
    [317]
-    1 string data = "Měsíční kolébka a Mlžný stařešina"
+    1 string data = "Měsíční Kolébka a Mlžný stařešina"
    [318]
     1 string data = "Mechanický hrad"
    [319]
