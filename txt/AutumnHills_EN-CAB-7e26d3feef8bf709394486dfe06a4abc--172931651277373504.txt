@@ -13,14 +13,14 @@
   1 Array Array (6 items)
    0 int size = 6
    [0]
-    1 string data = "When the moon shines bright on autumn sheaves..."
+    1 string data = "Když měsíc jasně svítí na podzimní šustí..."
    [1]
-    1 string data = "Comes forth the abomination of roots and leaves..."
+    1 string data = "Vychází vpřed ohavnost kořenů a listí..."
    [2]
     1 string data = "..."
    [3]
-    1 string data = "[MAINCHAR], [OFFCHAR], please understand..."
+    1 string data = "[MAINCHAR], [OFFCHAR], prosím, pochopte..."
    [4]
-    1 string data = "Please accept..."
+    1 string data = "Přijměte, prosím,..."
    [5]
-    1 string data = "Some people say this is a bad spot for a shop, but I bet others will follow in my tracks!"
+    1 string data = "Někteří lidé říkají, že je to špatné místo pro obchod, ale vsadím se, že ostatní půjdou v mých stopách!"

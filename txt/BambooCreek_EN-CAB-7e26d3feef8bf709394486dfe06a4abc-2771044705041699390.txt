@@ -13,4 +13,4 @@
   1 Array Array (1 items)
    0 int size = 1
    [0]
-    1 string data = "The gruesome statue stands, a testament of struggles from a time long past..."
+    1 string data = "Odporná socha tu stojí jako svědectví útrap z dob dávno minulých..."
