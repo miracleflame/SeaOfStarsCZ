@@ -269,7 +269,7 @@
    [127]
     1 string data = "A teď už splňte, co jste nám slíbil. Už nás pro nic neposílejte!"
    [128]
-    1 string data = "Nebuďte na omylu, budu vás doprovázet."
+    1 string data = "Budu vás doprovázet, o tom není pochyb."
    [129]
     1 string data = "!!"
    [130]

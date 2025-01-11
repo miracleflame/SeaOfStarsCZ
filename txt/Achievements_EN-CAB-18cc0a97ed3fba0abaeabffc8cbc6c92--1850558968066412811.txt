@@ -17,7 +17,7 @@
    [1]
     1 string data = "Porazit bosse Zakázané jeskyně"
    [2]
-    1 string data = "Ne, počkat!"
+    1 string data = "Ne, počkej!"
    [3]
     1 string data = "Vyslání na Spáčův ostrov"
    [4]
@@ -35,7 +35,7 @@
    [10]
     1 string data = "Kdo by si to jen pomyslel?"
    [11]
-    1 string data = "Zjistit pravou identitu kapitánky Klii'šaë"
+    1 string data = "Odhalit pravou identitu kapitánky Klii'šaë"
    [12]
     1 string data = "Yo, Ho!"
    [13]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "Všude dobře, doma nejlíp"
    [15]
-    1 string data = "Postavit si vlastní město"
+    1 string data = "Vybudovat své vlastní město"
    [16]
     1 string data = "Moc Slunovratu"
    [17]
@@ -75,7 +75,7 @@
    [30]
     1 string data = "Kdo by si to jen pomyslel podruhé"
    [31]
-    1 string data = "Zjistit Seraïnu pravou identitu"
+    1 string data = "Odhalit Seraïnu pravou identitu"
    [32]
     1 string data = "Hlavu vzhůru!"
    [33]
@@ -125,9 +125,9 @@
    [55]
     1 string data = "Osvobodit duši vévody Aventryho"
    [56]
-    1 string data = "Všude dobře, v hnízdečku nejlíp"
+    1 string data = "Všude dobře, ve hnízdečku nejlíp"
    [57]
-    1 string data = "Postavit lázně, hostinec, obchod a rybářskou chýši ve Veselí"
+    1 string data = "Vybudovat lázně, hostinec, obchod a rybářskou chýši ve Veselí"
    [58]
     1 string data = "Mistr ulit"
    [59]
@@ -135,7 +135,7 @@
    [60]
     1 string data = "Mistr rybař"
    [61]
-    1 string data = "Chytit alespoň jednu rybu z každého druhu"
+    1 string data = "Chytit alespoň jednu z každého druhu ryb"
    [62]
     1 string data = "Živoucí encyklopedie"
    [63]
@@ -175,7 +175,7 @@
    [80]
     1 string data = "Lovec Pokladů"
    [81]
-    1 string data = "Najít každý poklad"
+    1 string data = "Najít včechny poklady"
    [82]
     1 string data = "Můj den"
    [83]
@@ -183,7 +183,7 @@
    [84]
     1 string data = "Pravý Bojovník Slunovratu"
    [85]
-    1 string data = "Úspěšně dosáhnout všech vlastností"
+    1 string data = "Uskutečnit všechny Činy"
    [86]
     1 string data = "Krunýřová síla"
    [87]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Ověřovací lupa"
    [89]
-    1 string data = "Odhalit zámek buď jeho prolomením, nebo použitím speciálního tahu s funkcí skenování"
+    1 string data = "Odhalit zámek prolomením, nebo speciálním tahem s funkcí skenování"
    [90]
     1 string data = "Týmová síla"
    [91]
@@ -201,7 +201,7 @@
    [93]
     1 string data = "Vyzkoušet všechny kombinace plácnutí"
    [94]
-    1 string data = "Rybářský trip"
+    1 string data = "Rybačka"
    [95]
     1 string data = "S každou postavou chytit alespoň jednu rybu"
    [96]

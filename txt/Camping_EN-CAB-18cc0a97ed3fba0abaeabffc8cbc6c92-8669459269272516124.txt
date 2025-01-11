@@ -273,7 +273,7 @@
    [129]
     1 string data = "Když si pomyslím, že jsme o nějakém Přiživovači nevěděli…"
    [130]
-    1 string data = "Mám radost, že je Přiživovačka za námi."
+    1 string data = "Mám radost, že je ten Přiživovač za námi."
    [131]
     1 string data = "Garl to pro Moraina opravdu rozhýbal."
    [132]
@@ -307,7 +307,7 @@
    [146]
     1 string data = "Já prostě vím, že toho Přiživovače zvládnete sami i bez Moraina! Pomůžu vám, jak budu moct."
    [147]
-    1 string data = "Jak Seraï přinesla to světlo na Mučivý vrch, to bylo neuvěřitelné!"
+    1 string data = "Jak Seraï přivedla to světlo do Mučivého vrchu, to bylo neuvěřitelné!"
    [148]
     1 string data = "Nezapomeňme si připravit svačinu na cestu."
    [149]
@@ -327,7 +327,7 @@
    [156]
     1 string data = "Teď, když je hranol zpátky na soše Strážce, mělo by se podařit přes něj prosvítit světelný paprsek a najít skrýš, o které mluvil Resh'an."
    [157]
-    1 string data = "Mám radost, že je Přiživovačka za námi."
+    1 string data = "Mám radost, že je ten Přiživovač za námi."
    [158]
     1 string data = "Konečně na ostrově Mesa. Jste připraveni na velkou konfrontaci?"
    [159]
@@ -353,7 +353,7 @@
    [169]
     1 string data = "Takže Resh'an je nesmrtelný, co? Aha, jasně! Ani muk!"
    [170]
-    1 string data = "Jak Seraï přinesla to světlo na Mučivý vrch, to bylo neuvěřitelné!"
+    1 string data = "Jak Seraï přivedla to světlo do Mučivého vrchu, to bylo neuvěřitelné!"
    [171]
     1 string data = "Nezapomeňme si připravit svačinu na cestu."
    [172]

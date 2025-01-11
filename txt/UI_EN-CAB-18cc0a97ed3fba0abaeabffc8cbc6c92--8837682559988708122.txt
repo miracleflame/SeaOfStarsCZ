@@ -305,7 +305,7 @@
    [145]
     1 string data = "Utábořit se"
    [146]
-    1 string data = "Nalodit se"
+    1 string data = "Na palubu"
    [147]
     1 string data = "Zrychlit"
    [148]
@@ -621,7 +621,7 @@
    [303]
     1 string data = "<button="DeployParty"> Utábořit se"
    [304]
-    1 string data = "<button="Boat_EnterBoat"> Nalodit se"
+    1 string data = "<button="Boat_EnterBoat"> Na palubu"
    [305]
     1 string data = "<button="Boat_Accelerate"> Zrychlit"
    [306]
