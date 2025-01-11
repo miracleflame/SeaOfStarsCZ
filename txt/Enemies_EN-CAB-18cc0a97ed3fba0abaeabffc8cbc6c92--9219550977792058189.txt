@@ -157,7 +157,7 @@
    [71]
     1 string data = "Fungelva"
    [72]
-    1 string data = "Listová příšera"
+    1 string data = "Listová potvora"
    [73]
     1 string data = "Hodinový zombie"
    [74]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Elysan'darëlle"
    [113]
-    1 string data = "Croustalion"
+    1 string data = "Krustalion"
    [114]
     1 string data = "Mokladnice"
    [115]

@@ -13,208 +13,208 @@
   1 Array Array (103 items)
    0 int size = 103
    [0]
-    1 string data = "Boss Slugged"
+    1 string data = "Bosslimáknuto"
    [1]
-    1 string data = "Defeat Forbidden Cavern's boss"
+    1 string data = "Porazit bosse Zakázané jeskyně"
    [2]
-    1 string data = "No, wait!"
+    1 string data = "Ne, počkat!"
    [3]
-    1 string data = "Get sent to Sleeper Island"
+    1 string data = "Vyslání na Spáčův ostrov"
    [4]
-    1 string data = "Stretch Quest"
+    1 string data = "Protahovací úkol"
    [5]
-    1 string data = "Defeat Chromatic Apparition"
+    1 string data = "Porazit Chromatický zjev"
    [6]
-    1 string data = "Now give me that!"
+    1 string data = "Dej to sem!"
    [7]
-    1 string data = "Defeat Romaya"
+    1 string data = "Porazit Romayu"
    [8]
-    1 string data = "Dweller of Woe"
+    1 string data = "Přiživovačka žalu"
    [9]
-    1 string data = "Defeat the Dweller of Woe"
+    1 string data = "Porazit Přiživovačku žalu"
    [10]
-    1 string data = "Who would have thought?"
+    1 string data = "Kdo by si to jen pomyslel?"
    [11]
-    1 string data = "Learn Captain Klee'shaë's true identity"
+    1 string data = "Zjistit pravou identitu kapitánky Klii'šaë"
    [12]
     1 string data = "Yo, Ho!"
    [13]
-    1 string data = "Defeat Stormcaller"
+    1 string data = "Porazit Vyzyvatele bouří"
    [14]
-    1 string data = "Home sweet home"
+    1 string data = "Všude dobře, doma nejlíp"
    [15]
-    1 string data = "Build your own town"
+    1 string data = "Postavit si vlastní město"
    [16]
-    1 string data = "Solstice Power"
+    1 string data = "Moc Slunovratu"
    [17]
-    1 string data = "Find the Solstice Amulet"
+    1 string data = "Najít amulet Slunovratu"
    [18]
-    1 string data = "Dweller of Torment"
+    1 string data = "Přiživovač muk"
    [19]
-    1 string data = "Defeat the Dweller of Torment"
+    1 string data = "Porazit Přiživovače"
    [20]
-    1 string data = "Detritus Fallen"
+    1 string data = "Rozklad podzimu"
    [21]
-    1 string data = "Defeat the Leaf Monster"
+    1 string data = "Porazit listovou potvoru"
    [22]
-    1 string data = "And stay down, too!"
+    1 string data = "A už nevstávejte!"
    [23]
-    1 string data = "Defeat the Acolytes"
+    1 string data = "Porazit akolyty"
    [24]
-    1 string data = "Dweller of Strife"
+    1 string data = "Přiživovač sváru"
    [25]
-    1 string data = "Fight the Dweller of Strife"
+    1 string data = "Bojovat s Přiživovačem sváru"
    [26]
-    1 string data = "Fight fire with lunar"
+    1 string data = "Hasit oheň lunou"
    [27]
-    1 string data = "Defeat the Toadcano"
+    1 string data = "Porazit Sopuchu"
    [28]
-    1 string data = "The Warrior Cook"
+    1 string data = "Válečný kuchař"
    [29]
-    1 string data = "Attend the ceremony"
+    1 string data = "Zúčastnit se obřadu"
    [30]
-    1 string data = "Who would have thought? Part 2"
+    1 string data = "Kdo by si to jen pomyslel podruhé"
    [31]
-    1 string data = "Learn Seraï's true identity"
+    1 string data = "Zjistit Seraïnu pravou identitu"
    [32]
-    1 string data = "Chin up!"
+    1 string data = "Hlavu vzhůru!"
    [33]
-    1 string data = "Defeat Meduso"
+    1 string data = "Porazit Medúzu"
    [34]
-    1 string data = "Featherweight"
+    1 string data = "Pírkovážnost"
    [35]
-    1 string data = "Defeat the Triumvirate of Eminence"
+    1 string data = "Porazit Triumvirát Eminence"
    [36]
-    1 string data = "Enter the Artificer"
+    1 string data = "Budiž Artifik"
    [37]
-    1 string data = "Meet Arty"
+    1 string data = "Spoznat Artyho"
    [38]
-    1 string data = "Dweller of Dread"
+    1 string data = "Přiživovač hrůzy"
    [39]
-    1 string data = "Defeat the Dweller of Dread"
+    1 string data = "Porazit Přiživovače hrůzy"
    [40]
     1 string data = "Lieupedant"
    [41]
-    1 string data = "Defeat Elysan'darëlle"
+    1 string data = "Porazit Elysan'darëlle"
    [42]
-    1 string data = "Clockwork Champion"
+    1 string data = "Mechanický šampion"
    [43]
-    1 string data = "Defeat The Watchmaker in a game of Wheels"
+    1 string data = "Porazit Hodinářku ve hře Kotoučů"
    [44]
-    1 string data = "Wholesome Food"
+    1 string data = "Výdatné jídlo"
    [45]
-    1 string data = "Have dinner at the Golden Pelican"
+    1 string data = "Povečeřet u Zlatého pelikána"
    [46]
-    1 string data = "Better off dead"
+    1 string data = "Nejlépe mrtvá"
    [47]
-    1 string data = "Defeat the Gun Goddess"
+    1 string data = "Porazit Bohyni zbraní"
    [48]
-    1 string data = "Hey, that's a reskin!"
+    1 string data = "Hele, to je reskin!"
    [49]
-    1 string data = "Defeat the Sea Slug"
+    1 string data = "Porazit Mořského slimáka"
    [50]
-    1 string data = "Elder Dissed"
+    1 string data = "Zdissovaný Stařešina"
    [51]
-    1 string data = "Defeat the Elder Mist for a second time"
+    1 string data = "Porazit Mlžného stařešinu podruhé"
    [52]
-    1 string data = "Glassdiator"
+    1 string data = "Sklodiátor"
    [53]
-    1 string data = "Defeat Croustalion"
+    1 string data = "Porazit Krustaliona"
    [54]
-    1 string data = "Free from serviduke"
+    1 string data = "Svéboda"
    [55]
-    1 string data = "Free Duke Aventry's soul"
+    1 string data = "Osvobodit duši vévody Aventryho"
    [56]
-    1 string data = "Home Neat Home"
+    1 string data = "Všude dobře, v hnízdečku nejlíp"
    [57]
-    1 string data = "Build a Spa, an Inn, a Shop and a Fishing Hut in Mirth"
+    1 string data = "Postavit lázně, hostinec, obchod a rybářskou chýši ve Veselí"
    [58]
-    1 string data = "Conch Master"
+    1 string data = "Mistr ulit"
    [59]
-    1 string data = "Bring all Conches to Mirna in Docarri Village"
+    1 string data = "Přinést všechny ulity k Mirně v Dokarijské osadě"
    [60]
-    1 string data = "Master Angler"
+    1 string data = "Mistr rybař"
    [61]
-    1 string data = "Catch every fish species at least once"
+    1 string data = "Chytit alespoň jednu rybu z každého druhu"
    [62]
-    1 string data = "Living Encyclopedia"
+    1 string data = "Živoucí encyklopedie"
    [63]
-    1 string data = "Achieve pro rank in every single Quiz Question pack"
+    1 string data = "Dosáhnout hodnocení PRO v každém balíčku kvízových otázek"
    [64]
-    1 string data = "New Garl +"
+    1 string data = "Nový Garl +"
    [65]
-    1 string data = "Fulfill the ultimate wish"
+    1 string data = "Splnit si ultimátní přání"
    [66]
-    1 string data = "No God of mine"
+    1 string data = "Žádný pán bůh tvůj"
    [67]
-    1 string data = "Defeat The Fleshmancer"
+    1 string data = "Porazit Karnimanta"
    [68]
-    1 string data = "Bouncy"
+    1 string data = "Odrážečka"
    [69]
-    1 string data = "Bounce a Moonerang 25 times in a row"
+    1 string data = "Odrazit Lunarang 25x za sebou"
    [70]
-    1 string data = "Lock's Myth"
+    1 string data = "Zámytník"
    [71]
-    1 string data = "Break a total 50 locks in battle"
+    1 string data = "Prolomit v souboji celkem 50 zámků"
    [72]
-    1 string data = "What a technique!"
+    1 string data = "Jaká to technika!"
    [73]
-    1 string data = "Defeat 10 bosses with Artful Gambit relic on"
+    1 string data = "Porazit 10 bossů se zapnutou relikvií Umělecký gambit"
    [74]
-    1 string data = "Gustative Completion"
+    1 string data = "Gustiózní úplnost"
    [75]
-    1 string data = "Cook every recipe at least once"
+    1 string data = "Ukuchit každý recept alespoň jednou"
    [76]
-    1 string data = "To the teeth"
+    1 string data = "Po zuby"
    [77]
-    1 string data = "Unlock all combos"
+    1 string data = "Odemknout všechna komba"
    [78]
-    1 string data = "Well read (to)"
+    1 string data = "Hezky přečteno"
    [79]
-    1 string data = "Listen to all of the campfire stories"
+    1 string data = "Poslechnout si všechny příběhy u táboráku"
    [80]
-    1 string data = "Measure Hunter"
+    1 string data = "Lovec Pokladů"
    [81]
-    1 string data = "Find every single treasure"
+    1 string data = "Najít každý poklad"
    [82]
-    1 string data = "Me day"
+    1 string data = "Můj den"
    [83]
-    1 string data = "Use the spa in Mirth with all 6 playable characters"
+    1 string data = "Využít lázně ve Veselí se všemi 6 hratelnými postavami"
    [84]
-    1 string data = "True Solstice Warrior"
+    1 string data = "Pravý Bojovník Slunovratu"
    [85]
-    1 string data = "Successfully achieve all of the Feats"
+    1 string data = "Úspěšně dosáhnout všech vlastností"
    [86]
-    1 string data = "Turtle Power"
+    1 string data = "Krunýřová síla"
    [87]
-    1 string data = "Do a team Timed Block with three players"
+    1 string data = "Provést týmový časovaný blok se třemi hráči"
    [88]
-    1 string data = "Verifying Glass"
+    1 string data = "Ověřovací lupa"
    [89]
-    1 string data = "Reveal a lock by either breaking it or using a special move with the scan function"
+    1 string data = "Odhalit zámek buď jeho prolomením, nebo použitím speciálního tahu s funkcí skenování"
    [90]
-    1 string data = "Team Power"
+    1 string data = "Týmová síla"
    [91]
-    1 string data = "Do a team Timed Hit or Block"
+    1 string data = "Provést týmový časovaný zásah nebo blok"
    [92]
     1 string data = "Down Low"
    [93]
-    1 string data = "Try every high fives combinations"
+    1 string data = "Vyzkoušet všechny kombinace plácnutí"
    [94]
-    1 string data = "Fishing Trip"
+    1 string data = "Rybářský trip"
    [95]
-    1 string data = "Catch at least one fish with each character"
+    1 string data = "S každou postavou chytit alespoň jednu rybu"
    [96]
-    1 string data = "I'm walking here!"
+    1 string data = "Já tudy procházím!"
    [97]
-    1 string data = "Make the giant lift both feet"
+    1 string data = "Přinutit obra zvednout obě nohy"
    [98]
-    1 string data = "Trophies for Sea of Stars"
+    1 string data = "Trofeje ze Sea of stars"
    [99]
-    1 string data = "The Journey"
+    1 string data = "Výprava"
    [100]
-    1 string data = "Story"
+    1 string data = "Příběh"
    [101]
-    1 string data = "Co-op Update"
+    1 string data = "Kooperační aktualizace"
    [102]
-    1 string data = "Trophies related to the co-op update"
+    1 string data = "Trofeje související s aktualizací kooperace"
