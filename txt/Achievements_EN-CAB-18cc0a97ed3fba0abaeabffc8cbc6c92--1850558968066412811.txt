@@ -197,7 +197,7 @@
    [91]
     1 string data = "Provést týmový časovaný zásah nebo blok"
    [92]
-    1 string data = "Down Low"
+    1 string data = "High Five"
    [93]
     1 string data = "Vyzkoušet všechny kombinace plácnutí"
    [94]
