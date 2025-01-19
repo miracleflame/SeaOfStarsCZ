@@ -13,45 +13,45 @@
   1 Array Array (34 items)
    0 int size = 34
    [0]
-    1 string data = "Gooooood evening, everyone, and welcome to the Quiz Show with our contestant, [MAINCHAR]!"
+    1 string data = "Dobrýý večééér všem a vítejte v Quiz Show, kde dnes soutěží [MAINCHAR]!"
    [1]
-    1 string data = "Here we are again, tonight only, with [MAINCHAR] for Trivia Time!"
+    1 string data = "A je to tu zas, pouze dnes večer je s náma [MAINCHAR] pro trochu Trivia Time!"
    [2]
-    1 string data = "Welcome all, to tonight's event featuring none other than [MAINCHAR]!"
+    1 string data = "Vítejte všichni na dnešní akci, ve které nebude účinkovat nikdo jiný než [MAINCHAR]!"
    [3]
-    1 string data = "That answer is CORRECT!"
+    1 string data = "Tato odpověď je SPRÁVNÁ!"
    [4]
-    1 string data = "Precisely!"
+    1 string data = "Přesně tak!"
    [5]
-    1 string data = "Score one for [MAINCHAR]!"
+    1 string data = "Bod pro tebe, [MAINCHAR]!"
    [6]
-    1 string data = "Uh oh! We've got a WRONG answer here!"
+    1 string data = "O-ou! Máme tu ŠPATNOU odpověď!"
    [7]
-    1 string data = "Ooooh, unfortunately, that's not what we were looking for."
+    1 string data = "Óó, bohužel to není to, co jsme chtěli slyšet."
    [8]
-    1 string data = "Incorrect!"
+    1 string data = "Nesprávně!"
    [9]
-    1 string data = "It appears you are out of tries. Thank you for playing!"
+    1 string data = "Zdá se, že vám došly pokusy. Děkujeme za účast ve hře!"
    [10]
-    1 string data = "Oh, you are good! Here's a little something for that impressive performance."
+    1 string data = "No, jde vám to! Tady máte nějakou drobnost za ten působivý výkon."
    [11]
-    1 string data = "Alright, next question!"
+    1 string data = "Dobře, další otázka!"
    [12]
-    1 string data = "Okay, let's try this one!"
+    1 string data = "Dobře, zkusíme tuhle!"
    [13]
-    1 string data = "Listen carefully now!"
+    1 string data = "Teď pozorně poslouchejte!"
    [14]
-    1 string data = "Oh, this one's easy!"
+    1 string data = "Aha, tohle je snadné!"
    [15]
     1 string data = "[TeaksAnswerText]"
    [16]
-    1 string data = "Do you want to play?"
+    1 string data = "Chcete si zahrát?"
    [17]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [18]
-    1 string data = "No"
+    1 string data = "Ne"
    [19]
-    1 string data = "And we have a winner! Congratulations!"
+    1 string data = "A máme vítěze! Gratulujeme!"
    [20]
     1 string data = "[QuestionText]"
    [21]
@@ -61,22 +61,22 @@
    [23]
     1 string data = "[ChoiceText3]"
    [24]
-    1 string data = "Want to play again?"
+    1 string data = "Chcete hrát znovu?"
    [25]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [26]
-    1 string data = "Maybe later"
+    1 string data = "Možná později"
    [27]
-    1 string data = "Aaaaaand GAME! As you can see, it's very simple. I ask some questions, and you do your best to answer them. If you win, you get a prize!"
+    1 string data = "Aaaaaa HRAJEME! Jak sami uvidíte, je to velmi jednoduché. Položím vám několik otázek a vy se na ně posnažíte co nejlépe odpovědět. Pokud vyhrajete, získáte cenu!"
    [28]
-    1 string data = "Oh, there's also a "call on your friend" thing, but I'll just let you experiment with that yourself!"
+    1 string data = "No, a je tu také něco jako 'přítel na telefonu', ale s tím vás nechám experimentovat po svém!"
    [29]
-    1 string data = "We've got a couple of <color=magic>question packs</color>, but rumor has it, there are more of them to be found! If you find any, be sure to <color=magic>bring them to me</color> and we'll play, alright?"
+    1 string data = "Máme tu pár <color=magic>balíčků otázek</color>, ale proslýchá se, že jich je ještě víc! Pokud nějaké najdete, určitě mi je <color=magic>přineste</color> a zahrajeme si, jo?"
    [30]
-    1 string data = "Okay, that's it for today, then! Thanks for playing, and I'll see YOU next time!"
+    1 string data = "Dobrá, tak to je pro dnešek všechno! Díky za účast ve hře a uvidíme se S VÁMA příště!"
    [31]
-    1 string data = "This is it, folks! [MAINCHAR] has completed all of the question packs and is officially LORE MASTER!!!"
+    1 string data = "To je vše, přátelé! [MAINCHAR] má za sebou všechny balíčky otázek a je oficiálně MISTREM LORU!!!"
    [32]
-    1 string data = "You have earned the ultimate prize. Congratulations!"
+    1 string data = "Získali jste hlavní cenu. Gratulujeme!"
    [33]
-    1 string data = "Thank you for playing, and please feel free to drop by if you want to try some of the packs again!"
+    1 string data = "Děkujeme za účast ve hře a pokud si budete chtít vyzkoušet některý z balíčků znovu, neváhejte se zastavit!"

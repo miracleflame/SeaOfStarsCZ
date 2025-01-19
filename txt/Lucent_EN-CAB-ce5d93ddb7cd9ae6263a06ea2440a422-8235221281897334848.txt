@@ -517,7 +517,7 @@
    [251]
     1 string data = "Ne"
    [252]
-    1 string data = "Doooobrý večer všem! Přivítejte, prosím, našeho nového soutěžícího, [MAINCHAR]!"
+    1 string data = "Dobrýý večééér všem! Přivítejme, prosím, našeho nového soutěžícího, tohle je [MAINCHAR]!"
    [253]
     1 string data = "Před zatměním nemá smysl riskovat. Měli bychom si odpočinout v hostinci."
    [254]

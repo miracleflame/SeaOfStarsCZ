@@ -1207,7 +1207,7 @@
    [596]
     1 string data = "Vyvážený kámen. Pasuje do ohniště v Akademii Zenit."
    [597]
-    1 string data = "Lesklá perla"
+    1 string data = "Třpitivá perla"
    [598]
     1 string data = "Cennost určená k prodeji."
    [599]
@@ -1303,11 +1303,11 @@
    [644]
     1 string data = "Mohl by zajímat Pána kvízů."
    [645]
-    1 string data = "Klíč ke Svatyni Slunovratu A"
+    1 string data = "Klíč Svatyně Slunovratu A"
    [646]
     1 string data = "Nalezen ve Svatyni Slunovratu."
    [647]
-    1 string data = "Klíč ke Svatyni Slunovratu B"
+    1 string data = "Klíč Svatyně Slunovratu B"
    [648]
     1 string data = "Nalezen ve Svatyni Slunovratu."
    [649]
@@ -1627,7 +1627,7 @@
    [806]
     1 string data = "Umožňuje funkci přeskakování titulků."
    [807]
-    1 string data = "Turistické zásoby"
+    1 string data = "Turistické provianty"
    [808]
     1 string data = "Pro ty, kteří dávají přednost lehčí výzvě."
    [809]

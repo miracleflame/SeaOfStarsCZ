@@ -13,34 +13,34 @@
   1 Array Array (16 items)
    0 int size = 16
    [0]
-    1 string data = "Question Pack #1"
+    1 string data = "Balíček otázek #1"
    [1]
-    1 string data = "Question Pack #2"
+    1 string data = "Balíček otázek #2"
    [2]
-    1 string data = "Question Pack #3"
+    1 string data = "Balíček otázek #3"
    [3]
-    1 string data = "Question Pack #4"
+    1 string data = "Balíček otázek #4"
    [4]
-    1 string data = "Question Pack #5"
+    1 string data = "Balíček otázek #5"
    [5]
-    1 string data = "Question Pack #6"
+    1 string data = "Balíček otázek #6"
    [6]
-    1 string data = "Question Pack #7"
+    1 string data = "Balíček otázek #7"
    [7]
-    1 string data = "Question Pack #8"
+    1 string data = "Balíček otázek #8"
    [8]
-    1 string data = "Question Pack #9"
+    1 string data = "Balíček otázek #9"
    [9]
-    1 string data = "Question Pack #10"
+    1 string data = "Balíček otázek #10"
    [10]
-    1 string data = "Question Pack #11"
+    1 string data = "Balíček otázek #11"
    [11]
-    1 string data = "Call Teaks ([CALLS_REMAINING] left) <button="Player_GameMenu">"
+    1 string data = "Teaks na telefonu (zbývá [CALLS_REMAINING]) <button="Player_GameMenu">"
    [12]
-    1 string data = "Casual"
+    1 string data = "Návštěvník"
    [13]
     1 string data = "Expert"
    [14]
-    1 string data = "Casual or Expert?"
+    1 string data = "Návštěvník nebo Expert?"
    [15]
-    1 string data = "Which pack should we play?"
+    1 string data = "Který balíček si zahrajeme?"
