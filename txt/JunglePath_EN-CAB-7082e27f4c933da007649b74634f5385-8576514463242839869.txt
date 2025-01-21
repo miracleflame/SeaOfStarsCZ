@@ -39,4 +39,4 @@
    [12]
     1 string data = "Vychutnejte si to. Příště se setkáme naposledy."
    [13]
-    1 string data = "Nástěnná malba zobrazuje nějakou kletbu zahrnující květinu."
+    1 string data = "Nástěnná malba vyobrazuje nějakou kletbu kolem květiny."

@@ -877,7 +877,7 @@
    [431]
     1 string data = "Jdeme pozdě..."
    [432]
-    1 string data = "Chtěl jsem vidět <color=good>paní ředitelku</color> v její bojové výstroji!"
+    1 string data = "Chtěla jsem vidět <color=good>paní ředitelku</color> v její bojové výstroji!"
    [433]
     1 string data = "Jak vypadala?" 
    [434]
@@ -885,7 +885,7 @@
    [435]
     1 string data = "Jak dlouho to bude trvat? Moc ji chci vidět, až se všichni vrátí."
    [436]
-    1 string data = "To bys mohl!"
+    1 string data = "To bys mohla!"
    [437]
     1 string data = "Dnešní očistu provede největší skupina, jaká kdy porazila Přiživovače."
    [438]
@@ -911,7 +911,7 @@
    [448]
     1 string data = "To brnění? Ne, jen když je zatmění."
    [449]
-    1 string data = "Přál bych si vidět ředitelku Moyaru, jak bojuje."
+    1 string data = "Přála bych si vidět ředitelku Moyaru, jak bojuje."
    [450]
     1 string data = "Vsadím se, že sama sejme Přiživovače."
    [451]
@@ -935,7 +935,7 @@
    [460]
     1 string data = "Brugavesi?"
    [461]
-    1 string data = "Fajn, jdi si lehnout. Já budu hlídat."
+    1 string data = "Fajn, zdřímni si. Já budu hlídat."
    [462]
     1 string data = "VRÁTILI SE!"
    [463]
@@ -1039,7 +1039,7 @@
    [512]
     1 string data = "Hej, přidáte se k nám?"
    [513]
-    1 string data = "Je toho dost pro všechny, ale nejsem si jistá, jestli vám můžeme ukázat náš tajný úkryt."
+    1 string data = "Je toho dost pro všechny, ale nejsem si jistý, jestli vám můžeme ukázat náš tajný úkryt."
    [514]
     1 string data = "Musíme se hlásit u ředitele."
    [515]

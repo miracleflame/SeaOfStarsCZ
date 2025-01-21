@@ -13,9 +13,9 @@
   1 Array Array (34 items)
    0 int size = 34
    [0]
-    1 string data = "Dobrýý večééér všem a vítejte v Quiz Show, kde dnes soutěží [MAINCHAR]!"
+    1 string data = "Dobrýý večééér všem a vítejte v Quiz Show, kde bude dnešním soutěžícím [MAINCHAR]!"
    [1]
-    1 string data = "A je to tu zas, pouze dnes večer je s náma [MAINCHAR] pro trochu Trivia Time!"
+    1 string data = "A je to tu zas, pouze dnes večer je s náma [MAINCHAR] na chvilku vědomostního soutěžení!"
    [2]
     1 string data = "Vítejte všichni na dnešní akci, ve které nebude účinkovat nikdo jiný než [MAINCHAR]!"
    [3]

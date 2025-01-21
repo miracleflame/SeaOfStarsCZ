@@ -185,7 +185,7 @@
    [85]
     1 string data = "Stiskněte <button="Interact"> při hodu pro posílení."
    [86]
-    1 string data = "Garl a Resh'an se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-poisonbomb"> <color="magic">Venom Bomb</color>!"
+    1 string data = "Garl a Resh'an se naučili kombo <sprite="dialog-inventory-icons" name="icn-combos-poisonbomb"> <color="magic">Jedová bomba</color>!"
    [87]
     1 string data = "Solární déšť"
    [88]
@@ -465,7 +465,7 @@
    [225]
     1 string data = "Spěch"
    [226]
-    1 string data = "Spin Tackle"
+    1 string data = "Kladkotoč"
    [227]
     1 string data = "Kornaut"
    [228]

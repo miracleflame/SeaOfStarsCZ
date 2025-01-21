@@ -35,7 +35,7 @@
    [10]
     1 string data = "Rozumím."
    [11]
-    1 string data = "Teď ty."
+    1 string data = "Teď vy."
    [12]
     1 string data = "Ahoj, Khukharre!"
    [13]

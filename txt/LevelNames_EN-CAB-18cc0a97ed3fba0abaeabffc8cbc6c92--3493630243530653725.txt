@@ -143,11 +143,11 @@
    [64]
     1 string data = "Vesmírná základna"
    [65]
-    1 string data = "Svatosvaté věže"
+    1 string data = "Svatosakrální věže"
    [66]
     1 string data = "Lovecká pole"
    [67]
-    1 string data = "Svatosvaté věže"
+    1 string data = "Svatosakrální věže"
    [68]
     1 string data = "Nekonečná hlubina"
    [69]
