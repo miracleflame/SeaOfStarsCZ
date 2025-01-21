@@ -277,11 +277,11 @@
    [131]
     1 string data = "Garl to pro Moraina opravdu rozhýbal."
    [132]
-    1 string data = "Ten klíč, co nám dal Moraine... Návrat k X'tolu je trochu štreka, ale možná by stálo za to podívat se do té svatyně."
+    1 string data = "Ten klíč, co nám dal Moraine… Návrat k X'tolu je trochu štreka, ale možná by stálo za to podívat se do té svatyně."
    [133]
-    1 string data = "Ostrov Mesa... Tam prý je Přiživovač a akolyté..."
+    1 string data = "Ostrov Mesa… Tam prý je Přiživovač a akolyté…"
    [134]
-    1 string data = "Doufám, že Věštec přílivů a odliů bude moct opravdu pomoct..."
+    1 string data = "Doufám, že Věštec přílivů a odliů bude moct opravdu pomoct…"
    [135]
     1 string data = "Takže v té věži ještě nikdo nebyl, co? To je docela vzrušující."
    [136]
@@ -295,13 +295,13 @@
    [140]
     1 string data = "Pořád nemůžu uvěřit, že teď máme vlastní loď, to je úžasné!"
    [141]
-    1 string data = "Korálové kladivo... Opravdu teď najdeme skryté město pod vodou?"
+    1 string data = "Korálové kladivo… Opravdu teď najdeme skryté město pod vodou?"
    [142]
     1 string data = "Ta mušle je tak hezká! A dýchání pod vodou? To už je něco!"
    [143]
     1 string data = "Vždycky jsem věděl, že vy dva jste výjimeční, ale velká tajemná věž postavená jen pro vás, o už je něco jiného!"
    [144]
-    1 string data = "Baňka vypůjčeného času... To si budu muset zapamatovat, znělo to důležitě."
+    1 string data = "Baňka vypůjčeného času… To si budu muset zapamatovat, znělo to důležitě."
    [145]
     1 string data = "Mám rád zimu - u táboráku je pak ještě příjemněji!"
    [146]
@@ -315,9 +315,9 @@
    [150]
     1 string data = "…"
    [151]
-    1 string data = "Zvládli jsme to. Teď ještě zjistit, co dělá to Korálové kladivo..."
+    1 string data = "Zvládli jsme to. Teď ještě zjistit, co dělá to Korálové kladivo…"
    [152]
-    1 string data = "Po naladění mušle v Posvátném háji na Strážcově ostrově bychom měli být schopni se dostat na dno jezera Docarria..."
+    1 string data = "Po naladění mušle v Posvátném háji na Strážcově ostrově bychom měli být schopni se dostat na dno jezera Docarria…"
    [153]
     1 string data = "Připadalo mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoli, kryju vám záda."
    [154]
@@ -379,302 +379,302 @@
    [182]
     1 string data = "Velký souboj se blíží - ujistěte se, že jste dobře připraveni."
    [183]
-    1 string data = "Mesa Island is to the northeast.The one with a giant stone head."
+    1 string data = "Ostrov Mesa je na severovýchodě. Ten s tou obří kamennou hlavou."
    [184]
-    1 string data = "It's nice to stretch my legs a bit."
+    1 string data = "Je to příjemné trochu si protáhnout nohy."
    [185]
-    1 string data = "Under no circumstances am I fighting a Dweller."
+    1 string data = "V žádném případě nebudu bojovat s Přiživovačem."
    [186]
-    1 string data = "(Living Glass…)"
+    1 string data = "(Živoucí sklo…)"
    [187]
-    1 string data = "With the Watchmaker's key we can make it to the Dweller. But remember, I cannot help you in that fight."
+    1 string data = "S klíčem od Hodinářky se můžeme dostat k Přiživovači. Ale pamatujte, že v tom boji nemohu pomoci."
    [188]
-    1 string data = "As long as it's what Garl wants…"
+    1 string data = "Pokud to Garl chce…"
    [189]
-    1 string data = "My power's growing, do you feel it too?"
+    1 string data = "Moje moc roste, cítíš to taky?"
    [190]
-    1 string data = "I'll do anything for Garl…"
+    1 string data = "Pro Garla udělám cokoli…"
    [191]
-    1 string data = "That was really something, what you did with the water bridge."
+    1 string data = "To, co jste udělali s tím vodním mostem, to bylo opravdu něco."
    [192]
-    1 string data = "The strange device just south of Mesa Island. It seems out of reach, but maybe we should look at the small island just below it."
+    1 string data = "To podivné zařízení jižně od ostrova Mesa. Zdá se, že je mimo náš dosah, ale možná bychom se měli podívat na ten malý ostrov hned pod ním."
    [193]
-    1 string data = "The place should be up there, after we use the shrine Valerie gave us access to."
+    1 string data = "To místo by mělo být někde nahoře, až použijeme svatyni, do které nám Valerie dala přístup."
    [194]
-    1 string data = "It'll take some convincing, but I have an idea."
+    1 string data = "Mám nápad, ale bude to chtít trochu přesvědčování."
    [195]
-    1 string data = "Brugaves is gone, but Erlina will pay for this."
+    1 string data = "Brugaves je pryč, no Erlina za to zaplatí."
    [196]
-    1 string data = "I feel so sorry for Garl…"
+    1 string data = "Je mi Garla moc líto…"
    [197]
     1 string data = "…"
    [198]
-    1 string data = "The air elemental skyland is to the west."
+    1 string data = "Nebeská země vzdušného živlu je na západě."
    [199]
-    1 string data = "Stay strong, Zale. You will see your friend again before his time is up."
+    1 string data = "Zůstaň silný, Zale. Svého přítele uvidíš ještě dřív, než vyprší jeho čas."
    [200]
-    1 string data = "Take heart, Valerie. Your friend's time isn't up just yet."
+    1 string data = "Vzchop se, Valerie. Čas tvého přítele ještě nevypršel."
    [201]
     1 string data = "…"
    [202]
-    1 string data = "We have to help Seraï and her people."
+    1 string data = "Musíme pomoci Seraï a jejímu lidu."
    [203]
-    1 string data = "Still thinking about Garl all the time…"
+    1 string data = "Pořád myslím jenom na Garla…"
    [204]
-    1 string data = "Fingers crossed for that Living Glass thing… It seems like B'st is our only way into the Sacrosanct Spires."
+    1 string data = "Držím palce ať to s tím Živoucím sklem vyjde… Zdá se, že B'st je naše jediná cesta do Svatosakrálních věží."
    [205]
-    1 string data = "Garl would have loved to see all of this."
+    1 string data = "Garl by byl unešen, kdyby to všechno viděl."
    [206]
     1 string data = "…"
    [207]
-    1 string data = "What happened to Seraï, it's terrible…"
+    1 string data = "To, co se stalo se Seraï, je příšerné…"
    [208]
-    1 string data = "Garl is just…always there in my thoughts."
+    1 string data = "Garl je prostě… pořád v mých myšlenkách."
    [209]
-    1 string data = "So, if Resh'an can pull this off we should be able to enter the Sacrosanct Spires."
+    1 string data = "Takže jestli to Resh'an zvládne, měli bychom být schopni vstoupit do Svatosakrálních věží."
    [210]
-    1 string data = "I'm glad we're able to help Seraï."
+    1 string data = "Jsem rád, že můžeme pomoci Seraï."
    [211]
-    1 string data = "I bet Garl would have loved Cedric."
+    1 string data = "Vsadím se, že Garl by měl Cedrika rád."
    [212]
-    1 string data = "I'm so sorry for your loss…"
+    1 string data = "Je mi moc líto vaší ztráty…"
    [213]
-    1 string data = "Thank you for your help. I'm eager to visit my home and show you what we're up against."
+    1 string data = "Děkuji za vaši pomoc. Už se nemohu dočkat, až navštívíme můj domov a ukážu vám, proti čemu stojíme."
    [214]
-    1 string data = "I… I know I'm asking for a lot, especially with everything that happened…"
+    1 string data = "Já… vím, že žádám o hodně, zvlášť po tom všem, co se stalo…"
    [215]
-    1 string data = "The probe will help us find our way in the Cerulean Expanse. Its light will blink faster when it detects something of relevance."
+    1 string data = "Sonda nám pomůže orientovat se v Azurové pustině. Její světlo bude blikat rychleji, když zaznamená něco důležitého."
    [216]
-    1 string data = "The Fleshmancer's workshop is in B'st's village on Cerulean Island."
+    1 string data = "Karnimantova továrna se nachází v B'stově osadě na Azurovém ostrově."
    [217]
-    1 string data = "Let's be careful, B'st said there was an abomination in here."
+    1 string data = "Buďme opatrní, B'st říkal, že je tu ohavnost."
    [218]
-    1 string data = "I hope this works. The only way to bring power back is to release the brakes on Es'tristae."
+    1 string data = "Doufám, že to zabere. Jediný způsob, jak nahodit proud, je uvolnit brzdy Es'tristae."
    [219]
-    1 string data = "The Sacrosanct Spires are in the northwest corner. Let's hurry."
+    1 string data = "Svatosakrální věže jsou v severozápadním rohu. Pospěšme si."
    [220]
-    1 string data = "Whenever you are ready, the sky council should be ready to see us now."
+    1 string data = "Jakmile budete připraveni, nebeská rada by měla být ochotna přijmout nás hned."
    [221]
-    1 string data = "The way to the Sea of Stars has been opened. The way is through the four sunken giants, just north of Wraith Island."
+    1 string data = "Cesta k Moři Hvězd se otevřela. Vede přes čtyři potopené obry, severně od Přízračného ostrovu."
    [222]
-    1 string data = "Seraï's village is to the east of this world, on an island with blue sand."
+    1 string data = "Seraïna osada se nachází na východě tohoto světa, na ostrově s modrým pískem."
    [223]
     1 string data = "…"
    [224]
-    1 string data = "(The dead of a forgotten race…)"
+    1 string data = "(Mrtví zapomenuté rasy…)"
    [225]
-    1 string data = "(Living Glass…)"
+    1 string data = "(Živoucí sklo…)"
    [226]
-    1 string data = "(Living Glass… The Crone was right…)"
+    1 string data = "(Živoucí sklo… Babizna měla pravdu…)"
    [227]
-    1 string data = "Through the spires, then. We can do this."
+    1 string data = "Tak tedy přes věže. My to dokážeme."
    [228]
-    1 string data = "Garl would have loved to see all of this."
+    1 string data = "Garl by byl unešen, kdyby to všechno viděl."
    [229]
-    1 string data = "We're gaining ground."
+    1 string data = "Začínáme mít půdu pod nohama."
    [230]
-    1 string data = "We should travel back to our world."
+    1 string data = "Měli bychom cestovat zpět do našeho světa."
    [231]
-    1 string data = "Time to go see Caël on Mesa Island."
+    1 string data = "Je čas jít za Caëlem na ostrově Mesa."
    [232]
-    1 string data = "Ready for one last cleansing, Zale?"
+    1 string data = "Připraven na poslední očistu, Zale?"
    [233]
-    1 string data = "It felt good to take a break in Mirth. It was like he was with us…"
+    1 string data = "Bylo to příjemné odpočinout si ve Veselí. Jako by byl s námi…"
    [234]
-    1 string data = "I'm ready."
+    1 string data = "Jsem připravena."
    [235]
-    1 string data = "B'st is so ready for this, it's nice having him around."
+    1 string data = "B'st je na tohle skvěle připravený, je fajn mít ho sebou."
    [236]
-    1 string data = "I bet Garl would have loved Cedric."
+    1 string data = "Vsadím se, že Garl by měl Cedrika rád."
    [237]
-    1 string data = "The plan was a longshot, but we're doing great."
+    1 string data = "Ten plán byl běh na dlouhou trať, ale daří se nám skvěle."
    [238]
-    1 string data = "Time to travel back to our world."
+    1 string data = "Je čas vrátit se do našeho světa."
    [239]
-    1 string data = "We should go see Caël on Mesa Island."
+    1 string data = "Měli bychom jít navštívit Caëla na ostrově Mesa."
    [240]
-    1 string data = "We'll be fighting our last Dweller soon. I'm ready."
+    1 string data = "Brzy budeme bojovat s naším posledním Přiživovačem. Jsem připraven."
    [241]
-    1 string data = "I love Mirth so much, it feels like he'll just show up at any moment…"
+    1 string data = "Ve Veselí to miluju tak moc, až mám pocit, že se každou chvíli objeví…"
    [242]
-    1 string data = "Let's do this."
+    1 string data = "Jdeme na to."
    [243]
-    1 string data = "We must press on. The only way to bring power back is to release the brakes on Es'tristae."
+    1 string data = "Musíme postupovat dál. Jediný způsob, jak obnovit energii, je uvolnit brzdy Es'tristae."
    [244]
-    1 string data = "The Sacrosanct Spires are in the northwest corner. Let's hurry."
+    1 string data = "Svatosakrální věže jsou v severozápadním rohu. Pospěšme si."
    [245]
-    1 string data = "This is the place. Now, if we find The Catalyst…"
+    1 string data = "Tohle je to místo. Už jenom najít Katalyzátor..."
    [246]
-    1 string data = "Now that power is back, we can use a speedball to get to Sky Base."
+    1 string data = "Teď, když jsme obnovili energii, můžeme použít rychlodráhu a dostat se na Nebeskou základnu."
    [247]
-    1 string data = "Here's hoping the kids can help."
+    1 string data = "Já doufám, že nám děti pomohou."
    [248]
-    1 string data = "Back to my world, then."
+    1 string data = "Tak tedy zpátky do mého světa."
    [249]
-    1 string data = "We have to take Arty to Sky Base. Just need to use a speedball again."
+    1 string data = "Musíme vzít Artyho na Nebeskou základnu. Jen je třeba znovu použít rychlodráhu."
    [250]
-    1 string data = "Whenever you're ready, the Dweller of Dread's lair is underwater, by the sunken moon."
+    1 string data = "Až budete připraveni, doupě Přiživovače hrůzy je pod vodou, u potopeného měsíce."
    [251]
-    1 string data = "I have never been to this world, but the magic in here feels…familiar…"
+    1 string data = "Nikdy jsem v tomto světě nebyl, ale zdejší magie je mi... povědomá..."
    [252]
-    1 string data = "(Living Glass… The Crone was right…)"
+    1 string data = "(Živoucí sklo... Babizna měla pravdu...)"
    [253]
-    1 string data = "Resh'an's puppet stands still…"
+    1 string data = "Resh'anova loutka stojí nehybně..."
    [254]
-    1 string data = "I am eager to test my new form."
+    1 string data = "Dychtím vyzkoušet si svou novou formu."
    [255]
-    1 string data = "Opening the way to the spires was the least I could do--I hope I can prove myself a valuable ally."
+    1 string data = "Otevřít cestu k věžím bylo to nejmenší, co jsem mohl udělat - doufám, že se osvědčím jako cenný spojenec."
    [256]
-    1 string data = "I am eager to test my new form."
+    1 string data = "Dychtím vyzkoušet si svou novou formu."
    [257]
-    1 string data = "Sky Base used to be so good for my world…"
+    1 string data = "Nebeská základna bývala kdysi pro můj svět opravdu dobrá..."
    [258]
-    1 string data = "A Clockwork Castle? Interesting."
+    1 string data = "Mechanický hrad? Zajímavé."
    [259]
-    1 string data = "Arty had quite the intro!"
+    1 string data = "Arty se hezky uvedl!"
    [260]
-    1 string data = "I wonder what the Great Alchemist is up to."
+    1 string data = "Zajímalo by mě, co má Velký alchymista za lubem."
    [261]
-    1 string data = "It will be an honor to stand by your side during a cleansing."
+    1 string data = "Bude mi ctí stát po vašem boku během očisty."
    [262]
-    1 string data = "Just take me to that machine in Sky Base and I'll do the rest!"
+    1 string data = "Stačí mě dovést k tomu stroji na Nebeské základně a o zbytek se postarám!"
    [263]
-    1 string data = "There are Solstice Shrines left. Maybe we should seek them out."
+    1 string data = "Ješte zbývají nějaké Svatyně Slunovratu. Možná bychom je měli vyhledat."
    [264]
-    1 string data = "It feels so nice to have Garl with us again."
+    1 string data = "Je to tak příjemné mít Garla zase s sebou."
    [265]
-    1 string data = "I've been thinking about the Solstice Shrines… Might be worth finding the remaining ones."
+    1 string data = "Přemýšlel jsem o Svatyních slunovratu... Možná by stálo za to najít ty zbývající."
    [266]
-    1 string data = "Things just weren't the same, this is too good!"
+    1 string data = "Už to prostě nebylo ono, a tohle je moc dobré!"
    [267]
-    1 string data = "We're almost at the end…"
+    1 string data = "Už jsme skoro na konci..."
    [268]
-    1 string data = "Is something troubling you?"
+    1 string data = "Trápí tě něco?"
    [269]
-    1 string data = "…"
+    1 string data = "..."
    [270]
-    1 string data = "There's another potential threat to my people… one I'm not sure I can handle on my own…"
+    1 string data = "Je tu další potenciální hrozba pro můj lid... nejsem si jistý, jestli ji zvládnu sám..."
    [271]
-    1 string data = "What is it?"
+    1 string data = "Copak?"
    [272]
-    1 string data = "…"
+    1 string data = "..."
    [273]
-    1 string data = "<color=bad>The Queen That Was</color>…"
+    1 string data = "<color=bad>Královna, jež byla</color>..."
    [274]
-    1 string data = "We've been mapping the Cerulean Expanse for a long time, but it feels like we'll never find her."
+    1 string data = "Dlouho jsme mapovali Azurovou pustinu, ale zdá se, že ji nikdy nenajdeme."
    [275]
-    1 string data = "If she gets the jump on Repine…"
+    1 string data = "Jestli se jí podaří dostat do Repotu..."
    [276]
-    1 string data = "A gruesome thought indeed. Is there any lead we could follow?"
+    1 string data = "Vskutku odporné pomyšlení. Máme nějaké vodítko, po kterém bychom se mohli vydat?"
    [277]
-    1 string data = "It's a longshot, but a probe brought this back from one of the search parties."
+    1 string data = "Je to na dlouhé lokty, ale tohle je to, co sonda přinesla od jedné z pátracích skupin."
    [278]
-    1 string data = "I was hoping we could give it to Teaks and see what we can learn. If we have the time, of course."
+    1 string data = "Doufala jsem, že bychom to mohli dát Teaks a zjistit, co se z toho dá vyčíst. Pokud na to ovšem budeme mít čas."
    [279]
-    1 string data = "It's worth a shot, at least."
+    1 string data = "Přinejmenším za pokus to stojí."
    [280]
-    1 string data = "The Queen That Was… I hope Teaks will have something for us to go on…"
+    1 string data = "Královna, jež byla... Doufám, že Teaks bude mít pro nás něco, od čeho bychom se odrazili..."
    [281]
-    1 string data = "Thanks again for the help. It's good to know my people will be safe."
+    1 string data = "Ještě jednou díky za pomoc. Je skvělé vědět, že moji lidé budou v bezpečí."
    [282]
-    1 string data = "I can't help but wonder why Resh'an wouldn't just save Garl in the first place if that was his wish."
+    1 string data = "Nemůžu si pomoct, ale zajímalo by mě, proč Resh'an prostě nezachránil Garla hned na začátku, když to bylo jeho přání."
    [283]
-    1 string data = "We'll never know for sure, but I think he first needed [MAINCHAR] and [OFFCHAR] to be ready for something!"
+    1 string data = "To se nikdy s jistotou nedozvíme, ale myslím, že nejdřív potřeboval aby byli [MAINCHAR] a [OFFCHAR] na něco připraveni!"
    [284]
-    1 string data = "Seems to me like these alchemists are just incredibly immature for all their millenia of experience…"
+    1 string data = "Zdá se mi, že tihle alchymisté jsou na všechna ta tisíciletí zkušeností prostě neuvěřitelně nevyzrálí..."
    [285]
-    1 string data = "Huh!?"
+    1 string data = "Hm!?"
    [286]
-    1 string data = "Resh'an's puppet points at something on the map."
+    1 string data = "Resh'anova loutka ukazuje na něco na mapě."
    [287]
-    1 string data = "Great Alchemist, are you trying to tell us something?"
+    1 string data = "Velký alchymisto, snažíš se nám něco říct?"
    [288]
-    1 string data = "…"
+    1 string data = "..."
    [289]
-    1 string data = "Perhaps we should investigate the location?"
+    1 string data = "Možná bychom to místo měli prozkoumat?"
    [290]
-    1 string data = "A shame Resh'an left. I hope I can thank him someday…"
+    1 string data = "Škoda, že Resh'an odešel. Doufám, že mu jednou budu moci poděkovat..."
    [291]
-    1 string data = "I wouldn't presume to understand the Great Alchemist's mind, but I believe it is he who meant to thank you."
+    1 string data = "Netroufám si rozumět smýšlení Velkého alchymisty, ale věřím, že právě on chtěl poděkovat vám."
    [292]
-    1 string data = "[MAINCHAR], a word, if I may?"
+    1 string data = "[MAINCHAR], na slovíčko, mohu-li?"
    [293]
-    1 string data = "Of course, what's up?"
+    1 string data = "Samozřejmě, o co jde?"
    [294]
-    1 string data = "Ever since the Great Alchemist granted me this form, I have been eager to prove myself a true warrior."
+    1 string data = "Od té doby, co mi Velký alchymista udělil tuto podobu, toužím prokázat, že jsem pravý válečník."
    [295]
-    1 string data = "For what it's worth, you've definitely been pulling your weight and then some."
+    1 string data = "Pokud to pro tebe něco znamená, rozhodně jsi se činil víc než dost."
    [296]
-    1 string data = "I appreciate the thought, brave monk, but I desire something more… official."
+    1 string data = "Oceňuji tvou připomínku, statečná mniško, ale toužím po něčem... oficiálnějším."
    [297]
-    1 string data = "Like what?"
+    1 string data = "Jako co?"
    [298]
-    1 string data = "During my time on your home world, I heard a rumor about a place where fighters engage in friendly competition."
+    1 string data = "Během mého pobytu na vašem domovském světě jsem zaslechl zvěsti o místě, kde se bojovníci zapojují do přátelského soupeření."
    [299]
-    1 string data = ""Dweller's Fall Arena," in Svěžín."
+    1 string data = ""Aréna pádu Přiživovače" ve Svěžíně.""
    [300]
-    1 string data = "According to Yolande, the townspeople built it to reclaim the big crater left by the Dweller of Strife."
+    1 string data = "Podle Yolandy ji postavili obyvatelé města, aby využili velký kráter, který zanechal Přiživovač sváru."
    [301]
-    1 string data = "Sounds like it could be fun!"
+    1 string data = "To by mohla být zábava!"
    [302]
-    1 string data = "[MAINCHAR], I know we are pressed for time, but if there is any chance we could visit the arena in Svěžín I would be very grateful."
+    1 string data = "[MAINCHAR], vím, že nás tlačí čas, ale kdyby byla jakákoliv možnost navštívit arénu ve Svěžíně, byl bych ti velmi vděčný."
    [303]
-    1 string data = "Croustalion was a worthy opponent. What a great team we are!"
+    1 string data = "Krustalion byl důstojným soupeřem. Jsme skvělý tým!"
    [304]
-    1 string data = "Now even I think the party felt incomplete without Garl."
+    1 string data = "Už se dokonce i mně zdá, že bez Garla parta není úplná."
    [305]
-    1 string data = "*slurp* *slurp*"
+    1 string data = "*smrk* *smrk*"
    [306]
-    1 string data = "He does grow on people fast."
+    1 string data = "On lidem opravdu rychle přiroste k srdci."
    [307]
-    1 string data = "B'st, how did it feel when you took the blast?"
+    1 string data = "B'st, jaký to byl pocit, když jsi dostal tu ránu?"
    [308]
-    1 string data = "Purposeful. Like I was doing the right thing."
+    1 string data = "Účelné. Jako že dělám správnou věc."
    [309]
-    1 string data = "We're forever indebted to you for that."
+    1 string data = "Za to jsme ti navždy zavázáni."
    [310]
-    1 string data = "You brought hope to my world and crowned me champion of the arena."
+    1 string data = "Přinesli jste naději do mého světa a korunovali jste mě šampionem arény."
    [311]
-    1 string data = "As far as I'm concerned, it is I who still owes you."
+    1 string data = "Pokud jde o mě, jsem to já, kdo je vám stále zavázán."
    [312]
-    1 string data = "Haha! Fair enough."
+    1 string data = "Haha! To je fér."
    [313]
-    1 string data = "What a time, huh? I sure didn't have RESURRECTION on my list when we started our adventure!"
+    1 string data = "To je ale doba, co? Určitě jsem neměl na seznamu VZKŘÍŠENÍ, když jsme začínali naše dobrodružství!"
    [314]
     1 string data = "Hahaha!"
    [315]
-    1 string data = "One more for Teaks' storybook, I guess!"
+    1 string data = "Další do knihy příběhů pro Teaks, že jo!"
    [316]
-    1 string data = "Seriously though, it did get kind of scary…"
+    1 string data = "Ale vážně, bylo to docela děsivé..."
    [317]
-    1 string data = "Thanks for pulling me out of there, I know activating The Chronophage took a lot of effort."
+    1 string data = "Díky, že jste mě odtamtud vytáhli, vím, že aktivace Chronofága stála hodně úsilí."
    [318]
-    1 string data = "We'd have done it faster if we knew. And come on, you'd do the same for us!"
+    1 string data = "Kdybychom to věděli, udělali bychom to rychleji. A hele, ty bys pro nás udělal to samé!"
    [319]
-    1 string data = "In a heartbeat!"
+    1 string data = "Bez rozmyslu!"
    [320]
-    1 string data = "Oh, right! There's this thing I wanted to share."
+    1 string data = "No, jasně! Je tu jedna věc, o kterou se chci podělit."
    [321]
-    1 string data = "So, I'm not allowed to talk about what I saw on the other side, but when it became clear that I would return I was allowed to make a single wish."
+    1 string data = "Takže o tom, co jsem viděl na druhé straně, nesmím mluvit, ale když bylo jasné, že se vrátím, směl jsem vyslovit jedno přání."
    [322]
-    1 string data = "Right."
+    1 string data = "Jistě."
    [323]
-    1 string data = "What did you ask for?"
+    1 string data = "O co jsi žádal?"
    [324]
-    1 string data = "Dinner with all my friends at the Golden Pelican!"
+    1 string data = "Večeře se všemi mými přáteli u Zlatého pelikána!"
    [325]
-    1 string data = "Oh yeah?"
+    1 string data = "To vážně?"
    [326]
-    1 string data = "Sure did! I'm going to host my own reverse funeral, and I want the best food there is!"
+    1 string data = "Jasně že jo! Chystám se uspořádat svůj vlastní kar a chci to nejlepší jídlo, co tam je!"
    [327]
-    1 string data = "Haha! I like this guy."
+    1 string data = "Haha! Žeru tohohle chlápka."
    [328]
-    1 string data = "Thing is though, I'm not too sure how that works. All I was given is this fishing hook…"
+    1 string data = "Věc se má tak, že si nejsem moc jistý, jak to funguje. Dostal jsem jen tenhle rybářský háček..."
    [329]
-    1 string data = "I'm sure we'll figure it out!"
+    1 string data = "Určitě na to přijdeme!"
    [330]
-    1 string data = "If we have the time, there's an island that I feel is connected to the magic fish hook I was given. Right here."
+    1 string data = "Pokud budeme mít čas, je tu jeden ostrov, o kterém se domnívám, že je spojen s tím kouzelným rybářským háčkem, co jsem dostal. Přímo tady."
    [331]
-    1 string data = "The Golden Pelican was everything I was hoping for!"
+    1 string data = "Zlatý pelikán byl vším, v co jsem doufal!"
    [332]
-    1 string data = "Chef Bass gave us the invite, we should go to Svěžín and try the Golden Pelican!"
+    1 string data = "Šéfkuchař Bass nám dal pozvánku, měli bychom jet do Svěžína a skusit Zlatého pelikána!"
