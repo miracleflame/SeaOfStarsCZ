@@ -13,120 +13,120 @@
   1 Array Array (59 items)
    0 int size = 59
    [0]
-    1 string data = "Special Thanks"
+    1 string data = "Zvláštní poděkování"
    [1]
-    1 string data = "And thank YOU for playing <3 <3 <3"
+    1 string data = "A děkujeme VÁM za hraní <3 <3 <3"
    [2]
-    1 string data = "Game Director, Designer & Writer"
+    1 string data = "Herní režisér, návrhář a scenárista"
    [3]
-    1 string data = "Gameplay Programmer"
+    1 string data = "Programátor herních mechanik"
    [4]
-    1 string data = "Level Designer"
+    1 string data = "Návrhář úrovní"
    [5]
-    1 string data = "Lead Level & Environment Artist"
+    1 string data = "Vedoucí výtvarník úrovní a prostředí"
    [6]
-    1 string data = "Level & Environment Artist"
+    1 string data = "Výtvarník úrovní a prostředí"
    [7]
-    1 string data = "Lead Composer & Sound Designer"
+    1 string data = "Vedoucí skladatel a zvukový návrhář"
    [8]
-    1 string data = "Guest Composer"
+    1 string data = "Hostující skladatel"
    [9]
-    1 string data = "Technical Director"
+    1 string data = "Technický režisér"
    [10]
-    1 string data = "Technical Artist & Graphics Programmer"
+    1 string data = "Technický výtvarník a programátor grafiky"
    [11]
-    1 string data = "Dialogue & Cutscenes Integrator"
+    1 string data = "Integrátor dialogů a cutscén"
    [12]
-    1 string data = "Tools Programmer"
+    1 string data = "Programátor nástrojů"
    [13]
-    1 string data = "Character Artist & Animation Team Coordinator"
+    1 string data = "Koordinátor týmu výtvarníků postav a animátorů"
    [14]
-    1 string data = "Lead Animator & Character Artist"
+    1 string data = "Hlavní animátor a výtvarník postav"
    [15]
-    1 string data = "Animator & Character Artist"
+    1 string data = "Animátor a výtvarník postav"
    [16]
-    1 string data = "Animator & Character Artist"
+    1 string data = "Animátor a výtvarník postav"
    [17]
-    1 string data = "Executive Producer"
+    1 string data = "Výkonný producent"
    [18]
-    1 string data = "Finances & Office Manager"
+    1 string data = "Finanční ředitel a vedoucí kanceláře"
    [19]
-    1 string data = "Character Designer & Concept Artist"
+    1 string data = "Návrhář postav a koncepční výtvarník"
    [20]
-    1 string data = " UI & Menus Graphic Designer"
+    1 string data = "Grafik uživatelského rozhraní a menu"
    [21]
-    1 string data = "Animator & VFX Artist"
+    1 string data = "Animátor a výtvarník vizuálních efektů"
    [22]
-    1 string data = "Social Media & Community Manager"
+    1 string data = "Manažér sociálních médií a komunity"
    [23]
-    1 string data = "Lead Moderator"
+    1 string data = "Hlavní moderátor"
    [24]
-    1 string data = "Gameplay Integrator"
+    1 string data = "Herní integrátor"
    [25]
-    1 string data = "QA Dev Support"
+    1 string data = "Podpora pro vývojáře a záruka kvality"
    [26]
-    1 string data = "Additional Programming & Ports"
+    1 string data = "Další programování a porty"
    [27]
-    1 string data = "Additional Graphics Programming"
+    1 string data = "Další programování grafiky"
    [28]
-    1 string data = "Additional Sound Design & Music"
+    1 string data = "Další dizajn zvuku a hudby"
    [29]
-    1 string data = "Pirate Music Covers"
+    1 string data = "Pirátské hudební obaly"
    [30]
-    1 string data = "Portraits & Menu Icons Illustrator"
+    1 string data = "Ilustrátor portrétů a ikon menu"
    [31]
-    1 string data = "Dev Apprentice"
+    1 string data = "Vývojářský učeň"
    [32]
-    1 string data = "Best Boy"
+    1 string data = "Nejlepší chlapec"
    [33]
-    1 string data = "-Production Babies-"
+    1 string data = "-Produkční mimina-"
    [34]
-    1 string data = "Top Backers"
+    1 string data = "Top podporovatelé"
    [35]
-    1 string data = "Super Backers"
+    1 string data = "Super podporovatelé"
    [36]
-    1 string data = "Backers"
+    1 string data = "Podporovatelé"
    [37]
-    1 string data = "Backers (cont.)"
+    1 string data = "Podporovatelé (pokr.)"
    [38]
-    1 string data = "-Dev Team-"
+    1 string data = "-Tým vývojářů-"
    [39]
-    1 string data = "-In partnership with Du Coup Animation-"
+    1 string data = "-V partnerství s Du Coup Animation-"
    [40]
-    1 string data = "-In partnership with Kowloon Nights-"
+    1 string data = "-V partnerství s Kowloon Nights-"
    [41]
-    1 string data = "-In partnership with Procyon Studio-"
+    1 string data = "-V partnerství se studiem Procyon-"
    [42]
-    1 string data = "-In partnership with Kakehashi Games-"
+    1 string data = "-V partnerství s Kakehashi Games-"
    [43]
-    1 string data = "-In partnership with IOIGamer-"
+    1 string data = "-V partnerství s IOIGamer-"
    [44]
-    1 string data = "-Powered by Unity Engine-"
+    1 string data = "-Poháněno Unity Enginem-"
    [45]
-    1 string data = "-Powered by Wwise-"
+    1 string data = "-Poháněno Wwise-"
    [46]
-    1 string data = "-PR Support by TinsleyPR-"
+    1 string data = "-Podpora styku s veřejností od TinsleyPR-"
    [47]
-    1 string data = "-LATAM Support by Masamune-"
+    1 string data = "-Podpora LATAM od Masamune-"
    [48]
-    1 string data = "Big thanks to our partners from Nintendo - ®"
+    1 string data = "Velké díky našim partnerům z Nintenda - ®"
    [49]
-    1 string data = "Big thanks to our partners from Sony PlayStation - ®"
+    1 string data = "Velké díky našim partnerům ze Sony PlayStation - ®"
    [50]
-    1 string data = "Big thanks to our partners from Microsoft Xbox"
+    1 string data = "Velké díky našim partnerům z Microsoft Xbox"
    [51]
-    1 string data = "-In partnership with iam8bit-"
+    1 string data = "-V partnerství s iam8bit-"
    [52]
-    1 string data = "-In partnership with Limited Run Games-"
+    1 string data = "-V partnerství s Limited Run Games-"
    [53]
     1 string data = "-Keywords Studios-"
    [54]
     1 string data = "-Lionbridge Games-"
    [55]
-    1 string data = "-Discord Moderators-"
+    1 string data = "-Moderátoři Discordu-"
    [56]
-    1 string data = "-Additional Support-"
+    1 string data = "-Dodatečná podpora-"
    [57]
-    1 string data = "-Shoutout to our colleagues from the past-"
+    1 string data = "-Pozdrav našim kolegům z minulosti-"
    [58]
-    1 string data = "The End?"
+    1 string data = "Konec?"

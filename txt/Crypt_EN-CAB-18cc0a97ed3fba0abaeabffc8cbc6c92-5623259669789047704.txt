@@ -13,122 +13,122 @@
   1 Array Array (60 items)
    0 int size = 60
    [0]
-    1 string data = "Never forget"
+    1 string data = "Nikdy nezapomenem"
    [1]
-    1 string data = "Here lies"
+    1 string data = "Zde leží"
    [2]
-    1 string data = "In honor of"
+    1 string data = "Na počest"
    [3]
-    1 string data = "In memory of"
+    1 string data = "Na památku"
    [4]
-    1 string data = "Therein lay"
+    1 string data = "Zde odpočívá"
    [5]
-    1 string data = "Rest in peace"
+    1 string data = "Odpočívej v pokoji"
    [6]
-    1 string data = "May we forever remember"
+    1 string data = "Vzpomínáme navždy"
    [7]
-    1 string data = "For the love of my life,"
+    1 string data = "Pro lásku mého života,"
    [8]
-    1 string data = "For my son,"
+    1 string data = "Pro mého syna,"
    [9]
-    1 string data = "For my daughter,"
+    1 string data = "Pro mou dceru,"
    [10]
-    1 string data = "For my father"
+    1 string data = "Pro mého otce"
    [11]
-    1 string data = "For my mother"
+    1 string data = "Pro mou matku"
    [12]
-    1 string data = "To the greatest,"
+    1 string data = "Pro toho nejlepšího,"
    [13]
-    1 string data = "In loving memory of"
+    1 string data = "Na láskyplnou památku"
    [14]
-    1 string data = "For my friend"
+    1 string data = "Pro mého přítele"
    [15]
-    1 string data = "For my wife"
+    1 string data = "Pro mou ženu"
    [16]
-    1 string data = "For my husband"
+    1 string data = "Pro mého manžela"
    [17]
-    1 string data = "For my love"
+    1 string data = "Pro mou lásku"
    [18]
-    1 string data = "For my beloved"
+    1 string data = "Pro mého milovaného"
    [19]
-    1 string data = "For the best pet,"
+    1 string data = "Pro nejlepšího domácího mazlíčka,"
    [20]
-    1 string data = "Forever remember"
+    1 string data = "Navždy ve vzpomínkach"
    [21]
-    1 string data = "Precious are the memories of"
+    1 string data = "Vzácné jsou vzpomínky na tebe"
    [22]
-    1 string data = "To a true hero,"
+    1 string data = "Opravdovému hrdinovi,"
    [23]
-    1 string data = "To the fiercest of all,"
+    1 string data = "Na nejvášnivějšího ze všech,"
    [24]
-    1 string data = "To the kindest of all,"
+    1 string data = "Na nejlaskavějšího ze všech,"
    [25]
-    1 string data = "To the bravest of all,"
+    1 string data = "Na nejstatečnějšího ze všech,"
    [26]
-    1 string data = "To the funniest of all,"
+    1 string data = "Na nejvtipnějšího ze všech,"
    [27]
-    1 string data = "May your memories live on"
+    1 string data = "Ať vaše vzpomínky žijí dál"
    [28]
     1 string data = " "
    [29]
-    1 string data = ", a captivating storyteller."
+    1 string data = ", poutavý vypravěč."
    [30]
-    1 string data = ", an avid gamer."
+    1 string data = ", vášnivý hráč."
    [31]
-    1 string data = ", a crafty tactician."
+    1 string data = ", mazaný taktik."
    [32]
-    1 string data = ", a true protector of the community."
+    1 string data = ", opravdový ochránce komunity."
    [33]
-    1 string data = ", a meticulous worker."
+    1 string data = ", pečlivý pracovník."
    [34]
-    1 string data = ", a lover of life."
+    1 string data = ", milovník života."
    [35]
-    1 string data = ", a very unique soul."
+    1 string data = ", velmi jedinečná duše."
    [36]
-    1 string data = ", a generous host."
+    1 string data = ", velkorysý hostitel."
    [37]
-    1 string data = ", thank you for everything."
+    1 string data = ", děkujeme za všechno."
    [38]
-    1 string data = ", and to the positive impact felt by so many."
+    1 string data = ", a za pozitivní vliv, který pocítilo tolik lidí."
    [39]
-    1 string data = ", a passionate reader."
+    1 string data = ", vášnivý čtenář."
    [40]
-    1 string data = ", a lover of nature."
+    1 string data = ", milovník přírody."
    [41]
-    1 string data = ", who brought so much meaning into my life."
+    1 string data = ", který vnesl do mého života tolik smyslu."
    [42]
-    1 string data = ", without whom nothing would be worth it."
+    1 string data = ", bez kterého by nic nemělo cenu."
    [43]
-    1 string data = ", with sincere hope that, somehow, we may meet again."
+    1 string data = ", s upřímnou nadějí, že se nějak znovu setkáme."
    [44]
-    1 string data = ", the best of companions."
+    1 string data = ", nejlepší společník."
    [45]
-    1 string data = ", a true inspiration."
+    1 string data = ", opravdová inspirace."
    [46]
-    1 string data = ", a fierce warrior."
+    1 string data = ", vášnivý bojovník."
    [47]
-    1 string data = ", a fierce leader."
+    1 string data = ", nelítostný vůdce."
    [48]
-    1 string data = ", a wonderful artist."
+    1 string data = ", úžasný umělec."
    [49]
-    1 string data = ", a gentle soul."
+    1 string data = ", jemná duše."
    [50]
-    1 string data = ", a wise soul."
+    1 string data = ", moudrá duše."
    [51]
-    1 string data = ", an enthusiastic traveler."
+    1 string data = ", nadšený cestovatel."
    [52]
-    1 string data = ", an inspiring philosopher."
+    1 string data = ", inspirativní filozof."
    [53]
-    1 string data = ", who inspired us all."
+    1 string data = ", který nás všechny inspiroval."
    [54]
-    1 string data = ", who made the world a better place."
+    1 string data = ", který učinil svět lepším místem."
    [55]
-    1 string data = ", who meant everything to me."
+    1 string data = ", který pro mě znamenal všechno."
    [56]
-    1 string data = ", who inspired me to be a better person."
+    1 string data = ", který mě inspiroval, abych byl lepším člověkem."
    [57]
     1 string data = " "
    [58]
-    1 string data = "Favorite <button="WindBracelet">"
+    1 string data = "Označit oblibu <button="WindBracelet">"
    [59]
-    1 string data = "Edit Favorite <button="WindBracelet">"
+    1 string data = "Upravit oblíbené <button="WindBracelet">"
