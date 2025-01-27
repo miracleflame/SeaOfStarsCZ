@@ -13,40 +13,40 @@
   1 Array Array (19 items)
    0 int size = 19
    [0]
-    1 string data = "Any idea what this is? "
+    1 string data = "Máte představu, co to je?"
    [1]
-    1 string data = "A highly refined crystal. Its energy matches the one containing Zephyr."
+    1 string data = "Přecizně opracovaný krystal. Jeho energie odpovídá té, kterou obsahuje Zephyr."
    [2]
-    1 string data = "Could it be used to break the other one?"
+    1 string data = "Lze jej použít k rozbití toho druhého?"
    [3]
-    1 string data = "Without a doubt, but it won't budge."
+    1 string data = "Bezpochyby, ale nepohne se."
    [4]
     1 string data = "..."
    [5]
-    1 string data = "...I suppose I could extract the essence and frequency..."
+    1 string data = "...předpokládám, že bych mohl extrahovat esenci a frekvenci..."
    [6]
-    1 string data = "Zale, do you have any magic item with a proper handle?"
+    1 string data = "Zale, máš nějaký magický předmět s pořádnou rukojetí?"
    [7]
     1 string data = "Hmmm..."
    [8]
-    1 string data = "How about the Coral Hammer?"
+    1 string data = "Co třeba korálové kladivo?"
    [9]
-    1 string data = "Let's see it."
+    1 string data = "Pojďme se na to podívat."
    [10]
-    1 string data = "Here. This will work."
+    1 string data = "Na. Tohle bude fungovat."
    [11]
-    1 string data = "Thanks, Resh'an!"
+    1 string data = "Díky, Resh'ane!"
    [12]
-    1 string data = "The Coral Hammer has been upgraded. You can now <color=magic>break blue crystals</color> with it."
+    1 string data = "Korálové kladivo bylo vylepšeno. Nyní s ním můžete <color=magic>rozbíjet modré krystaly</color>."
    [13]
-    1 string data = "<color=magic>Zephyr</color> is in there, but we'll need something that can shatter the crystal. Let's explore a bit."
+    1 string data = "<color=magic>Zephyr</color> je uvnitř, ale budeme potřebovat něco, co dokáže rozbít krystal. Pojďme to tu trochu prozkoumat."
    [14]
-    1 string data = "So... how do we capture wind?"
+    1 string data = "Takže... jak zachytíme vítr?"
    [15]
-    1 string data = "Leave it to me."
+    1 string data = "Nech to na mně."
    [16]
-    1 string data = "That’s it for us, then. I hope the others are okay..."
+    1 string data = "Tak to je za nás všechno. Doufám, že ostatní jsou v pořádku..."
    [17]
-    1 string data = "It looks like a <color=magic>hexagonal object</color> would fit in here."
+    1 string data = "Zdá se, že by se sem vešel <color=magic>šestiúhelníkový objekt</color>."
    [18]
-    1 string data = "It looks like a <color=magic>triangular object</color> would fit in here."
+    1 string data = "Zdá se, že by se sem vešel <color=magic>trojúhelníkový objekt</color>."

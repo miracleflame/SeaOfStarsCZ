@@ -13,258 +13,258 @@
   1 Array Array (128 items)
    0 int size = 128
    [0]
-    1 string data = "The entrance is blocked. Nothing we can do for now."
+    1 string data = "Vchod je zablokován. Zatím nemůžeme nic dělat."
    [1]
-    1 string data = "Garl needs us to clear the place. No time to lose!"
+    1 string data = "Garl potřebuje, abychom to tu vyklidili. Není času nazbyt!"
    [2]
-    1 string data = "The volcano's been opened."
+    1 string data = "Sopka je otevřena."
    [3]
-    1 string data = "Let's clear the place so Garl and Malkomud can build their thing."
+    1 string data = "Vykliďme to tu, aby Garl a Malkomud mohli udělat svou věc."
    [4]
-    1 string data = "I'm right behind you."
+    1 string data = "Jdu hned za váma."
    [5]
-    1 string data = "Your <color=magic>Mistral Bracelet</color> should be able to push that."
+    1 string data = "Tvůj <color=magic>Mistrálový náramek</color> by to měl zvládnout odtlačit."
    [6]
-    1 string data = "This is our target?"
+    1 string data = "Tohle je náš cíl?"
    [7]
-    1 string data = "Yes."
+    1 string data = "Ano."
    [8]
-    1 string data = "It will be vulnerable to your lunar magic."
+    1 string data = "Bude zranitelný vůči tvé měsíční magii."
    [9]
-    1 string data = "Good."
+    1 string data = "Dobře."
    [10]
-    1 string data = "Thanks for the help, Resh’an."
+    1 string data = "Děkuji za pomoc, Resh'ane."
    [11]
-    1 string data = "Naturally."
+    1 string data = "Samozřejmě."
    [12]
-    1 string data = "Now to wait for the others."
+    1 string data = "Teď už jen počkat na ostatní."
    [13]
-    1 string data = "Totally! And the face on Zale, too!"
+    1 string data = "Naprosto! A ten obličej na Zaleovi taky!"
    [14]
     1 string data = "Hahaha!"
    [15]
     1 string data = "..."
    [16]
-    1 string data = "Garl, do you think-"
+    1 string data = "Garle, myslíš, že..."
    [17]
     1 string data = "Zale!"
    [18]
-    1 string data = "So, you got Zephyr?"
+    1 string data = "Tak co, máte Zephyra?"
    [19]
-    1 string data = "Right here."
+    1 string data = "Tady."
    [20]
-    1 string data = "How about Malkomud?"
+    1 string data = "A co Malkomud?"
    [21]
-    1 string data = "He’s still working on it."
+    1 string data = "Ještě na tom pracuje."
    [22]
-    1 string data = "We’ll need time anyway, there's lots of crops in The Vespertine!"
+    1 string data = "Stejně budeme potřebovat čas, na Večernici je spousta obilí!"
    [23]
-    1 string data = "Right! Let’s all go and-"
+    1 string data = "Jasně! Pojďme všichni a..."
    [24]
     1 string data = "Aahh..."
    [25]
-    1 string data = "Garl!"
+    1 string data = "Garle!"
    [26]
-    1 string data = "I’m okay, Valere. Just need a moment here."
+    1 string data = "Jsem v pořádku, Valerie. Jen potřebuju chvilku."
    [27]
     1 string data = "Gah..."
    [28]
     1 string data = "..."
    [29]
-    1 string data = "You just sit, okay? We’ll carry the crops."
+    1 string data = "Jen seď, anoo? My odneseme obilí."
    [30]
-    1 string data = "But..."
+    1 string data = "Ale..."
    [31]
-    1 string data = "You're right... That’s probably best..."
+    1 string data = "Máte pravdu... To bude asi nejlepší..."
    [32]
     1 string data = "..."
    [33]
-    1 string data = "I'll take care of it. You spend some time with your friend."
+    1 string data = "Postarám se o to. Pobudněte chvilku se svým přítelem."
    [34]
-    1 string data = "I..."
+    1 string data = "Já..."
    [35]
-    1 string data = "Thank you, Seraï."
+    1 string data = "Díky, Seraï."
    [36]
-    1 string data = "Haha! That’s one way to-"
+    1 string data = "Haha! To je jeden ze způsobů, jak..."
    [37]
     1 string data = "GAAH!!"
    [38]
-    1 string data = "Take it easy, Garl."
+    1 string data = "Jen klid, Garle."
    [39]
-    1 string data = "That one really hurt."
+    1 string data = "Tohle opravdu bolelo."
    [40]
-    1 string data = "I hope I’ll be able to-"
+    1 string data = "Doufám, že budu moci..."
    [41]
-    1 string data = "We're with you no matter what."
+    1 string data = "Jsme s tebou, ať se děje, co se děje."
    [42]
     1 string data = "..."
    [43]
-    1 string data = "We didn't come this far for nothing. I'll see this through."
+    1 string data = "Nedošli jsme tak daleko pro nic. Já to dotáhnu do konce."
    [44]
-    1 string data = "I think I have finished."
+    1 string data = "Myslím, že jsem hotov."
    [45]
-    1 string data = "Yeah? Are you happy with the result?"
+    1 string data = "Jo? Jsi s výsledkem spokojený?"
    [46]
     1 string data = "..."
    [47]
-    1 string data = "Why do you ask? I did for you."
+    1 string data = "Proč se ptáš? Udělal jsem to pro tebe."
    [48]
-    1 string data = "Well, are you happy you did it for me?"
+    1 string data = "No, a jsi rád, že jsi to pro mě udělal?"
    [49]
-    1 string data = "Yes but I hope you like."
+    1 string data = "Ano, ale doufám, že se ti líbí."
    [50]
-    1 string data = "I’m sure he will, Malkomud."
+    1 string data = "Určitě ano, Malkomude."
    [51]
-    1 string data = "I remember you. You can look too."
+    1 string data = "Vzpomínám si na vás. Můžete se také podívat."
    [52]
-    1 string data = "Yes!"
+    1 string data = "Ano!"
    [53]
-    1 string data = "Yes, yes!"
+    1 string data = "Ano, ano!"
    [54]
-    1 string data = "So the crops go up there, chuck them in..."
+    1 string data = "Takže obilí jde nahoru, pomele se tam..."
    [55]
-    1 string data = "Flour fills up here for mixing..."
+    1 string data = "Mouka se naplní sem nahoru, aby se pomísila..."
    [56]
-    1 string data = "After a little kneading, bring it up there, knead some more, let it sit with the heat and..."
+    1 string data = "Po chvilce hnětení se přesune sem nahoru, ještě se trochu promísí, nechá se v klidu a v teple a..."
    [57]
-    1 string data = "Good job, Malkomud! It’s perfect!"
+    1 string data = "Dobrá práce, Malkomude! Je to perfektní!"
    [58]
-    1 string data = "I only follow your plan."
+    1 string data = "Řídím se pouze tvým dizajnem."
    [59]
-    1 string data = "Guys, this is going to be HUGE!"
+    1 string data = "Lidi, tohle bude VELKÝ!"
    [60]
-    1 string data = "Can we help?"
+    1 string data = "Můžeme pomoci?"
    [61]
-    1 string data = "Of course!"
+    1 string data = "Samozřejmě!"
    [62]
-    1 string data = "Alright, Malkomud, time for the heat!"
+    1 string data = "Dobře, Malkomude, je čas přitopit!"
    [63]
-    1 string data = "Perfection! Now we let it bake."
+    1 string data = "Dokonalost! Teď to necháme upéct."
    [64]
-    1 string data = "It comes and goes. Like right now I feel just fine."
+    1 string data = "Přichází to a zas odchází. Třeba zrovna teď se cítím dobře."
    [65]
-    1 string data = "Let's just share more memories, okay? It's all I want."
+    1 string data = "Pojďme se ještě zavzpomínat, ano? Nic víc nechci."
    [66]
     1 string data = "..."
    [67]
-    1 string data = "Oh, I know: Remember when I brought you cookies while you were at the academy?"
+    1 string data = "Aha, už vím: Pamatujete, jak jsem vám přinesl ty sušenky, když jste byli na akademii?"
    [68]
-    1 string data = "You never told us how you managed to make the flying platform move."
+    1 string data = "Nikdy jsi nám neřekl, jak se ti podařilo dát do pohybu létací plošinu."
    [69]
-    1 string data = "With a monocle!"
+    1 string data = "Pomocí lupy!"
    [70]
-    1 string data = "Huh? Was it a magic monocle?"
+    1 string data = "Co? Byla to kouzelná lupa?"
    [71]
-    1 string data = "Oh no, I used it to focus sunlight directly onto the rune."
+    1 string data = "Ale ne, použil jsem jí k soustředění slunečního světla přímo na runu."
    [72]
-    1 string data = "It made sense, so I just went for it and it worked! The beam wasn't very strong, though."
+    1 string data = "Dávalo mi to smysl, tak jsem to vyskoušel a ono to zabralo! Paprsek však nebyl moc silný."
    [73]
-    1 string data = "That must have taken hours."
+    1 string data = "Muselo to trvat hodiny."
    [74]
-    1 string data = "Sure did. Eight, in fact."
+    1 string data = "To také trvalo. Popravdě osm."
    [75]
-    1 string data = "Haha, no way!"
+    1 string data = "Haha, kecáš!"
    [76]
-    1 string data = "Yup."
+    1 string data = "Opravdu."
    [77]
-    1 string data = "Well, eight hours of sunlight, to be exact. That's excluding the night I spent halfway up in the air."
+    1 string data = "No, přesněji řečeno osm hodin slunečního svitu. To nepočítám noc, kterou jsem strávil napůl ve vzduchu."
    [78]
-    1 string data = "How did you not get caught?"
+    1 string data = "Jak to, že tě nechytili?"
    [79]
-    1 string data = "Oh, I got caught, but I was already out of reach by the time Gran saw me."
+    1 string data = "Ale chytili mě, jenomže už jsem byl mimo jejich dosah, když mě babička uviděla."
    [80]
-    1 string data = "I wish I could have seen her face!"
+    1 string data = "Kéž bych mohl vidět její tvář!"
    [81]
-    1 string data = "Believe me, I wish I hadn’t."
+    1 string data = "Věř mi, raději bych ji neviděl."
    [82]
-    1 string data = "And then-"
+    1 string data = "A pak..."
    [83]
     1 string data = "Ahh... GAH..."
    [84]
-    1 string data = "*cough cough*"
+    1 string data = "*kašle kašle*"
    [85]
-    1 string data = "Garl!"
+    1 string data = "Garle!"
    [86]
-    1 string data = "I’m..."
+    1 string data = "Já..."
    [87]
-    1 string data = "I think my time’s almost up."
+    1 string data = "Myslím, že můj čas téměř vypršel."
    [88]
-    1 string data = "Don’t say that."
+    1 string data = "To neříkej."
    [89]
-    1 string data = "I have to..."
+    1 string data = "Musím..."
    [90]
-    1 string data = "Have to finish this."
+    1 string data = "Musím to dokončit."
    [91]
-    1 string data = "Valere, please tell Malkomud to cut the lava flow."
+    1 string data = "Valerie, prosím, řekni Malkomudovi, aby zastavil proud lávy."
    [92]
-    1 string data = "Gah... Zale, I need Zephyr now."
+    1 string data = "Gah... Zale, potřebuju Zephyra."
    [93]
     1 string data = "..."
    [94]
-    1 string data = "Here..."
+    1 string data = "Tady..."
    [95]
     1 string data = "..."
    [96]
-    1 string data = "I hope this works..."
+    1 string data = "Doufám, že to vyjde..."
    [97]
-    1 string data = "Thank you, curious one, for this unprecedented act of goodness and generosity."
+    1 string data = "Děkuji ti, zvědavče, za tento bezprecedentní akt dobroty a velkorysosti."
    [98]
-    1 string data = "Through your creation, the elements have soothed my long tormented soul."
+    1 string data = "Díky tvému výtvoru živly uklidnily mou dlouho sužovanou duši."
    [99]
-    1 string data = "Hey, anytime. It’s just bread really."
+    1 string data = "Hele, kdykoli. Je to fakt jen chléb."
    [100]
-    1 string data = "This marks a new beginning for me."
+    1 string data = "Tohle pro mě znamená nový začátek."
    [101]
-    1 string data = "If it is not too much to ask, would you be willing to give me a new name?"
+    1 string data = "Jestli nežádám příliš, byl bys ochoten mi dát nové jméno?"
    [102]
-    1 string data = "I..."
+    1 string data = "Já..."
    [103]
-    1 string data = "Sure."
+    1 string data = "Jistě."
    [104]
     1 string data = "AUGHHH!!!"
    [105]
-    1 string data = "I still have a bit of time... I can do this..."
+    1 string data = "Mám ještě trochu času... Tohle zvládnu..."
    [106]
-    1 string data = "Okay... So, what are your ambitions?"
+    1 string data = "Dobrá... Tak jaké jsou tvé ambice?"
    [107]
-    1 string data = "My past was one of anger and destruction, but you have shown me the way to a higher purpose."
+    1 string data = "Moje minulost byla plná hněvu a destrukce, ale ty jsi mi ukázal cestu k vyššímu cíli."
    [108]
-    1 string data = "I wish to honor your memory by becoming a devoted caterer."
+    1 string data = "Chci uctít tvou památku tím, že se stanu oddaným gastronomem."
    [109]
-    1 string data = "Aww, that's so nice of you to say."
+    1 string data = "Ó, to je od tebe moc hezké."
    [110]
-    1 string data = "*cough cough*"
+    1 string data = "*kašle*"
    [111]
-    1 string data = "So a butler, huh?"
+    1 string data = "Takže zřízenec, co?"
    [112]
-    1 string data = "How about Sinclair?"
+    1 string data = "Co třeba Sinclair?"
    [113]
-    1 string data = "Nah, hold on."
+    1 string data = "Ne, počkej."
    [114]
-    1 string data = "Oh, I know!"
+    1 string data = "Aha, já vím!"
    [115]
-    1 string data = "For this new life, I shall name you <color=good>Wentworth</color>."
+    1 string data = "Pro tento nový život tě pojmenuji <color=dobrá>Wentworth</color>."
    [116]
     1 string data = "Wentworth..."
    [117]
-    1 string data = "Once again, I thank you. Never have I encountered such a caring soul."
+    1 string data = "Ještě jednou ti děkuji. Ještě nikdy jsem se nesetkal s tak starostlivou duší."
    [118]
-    1 string data = "I understand your time is almost up."
+    1 string data = "Chápu, že tvůj čas se blíží ke konci."
    [119]
-    1 string data = "Is there anything I can do to repay your kindness?"
+    1 string data = "Mohu ti nějak oplatit tvou laskavost?"
    [120]
-    1 string data = "There is one thing, yes."
+    1 string data = "Něco by se našlo, ano."
    [121]
-    1 string data = "For my final journey, I’d like to fly on your back with my friends."
+    1 string data = "Svou poslední cestu bych rád letěl na tvých zádech se svými přáteli."
    [122]
     1 string data = "..."
    [123]
-    1 string data = "It would be my honor and privilege."
+    1 string data = "Bylo by mi ctí a výsadou."
    [124]
-    1 string data = "Then please take us to Mooncradle. I want to be buried under the Celestial Willow."
+    1 string data = "Pak nás prosím vezmi do Měsíční Kolébky. Chci být pohřben pod Nebeskou vrbou."
    [125]
-    1 string data = "Garl..."
+    1 string data = "Garle..."
    [126]
-    1 string data = "Garl was just at our outpost and mentioned you'd be coming. I came after grabbing what I could--do you need anything?"
+    1 string data = "Garl byl právě v naší vesničce a zmínil se, že dorazíte. Přišel jsem hned, co jsem popadl, co šlo - nepotřebujete něco?"
    [127]
-    1 string data = "Do you need anything?"
+    1 string data = "Potřebujete něco?"

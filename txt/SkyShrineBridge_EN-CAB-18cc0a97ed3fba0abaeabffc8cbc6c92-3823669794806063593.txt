@@ -13,30 +13,30 @@
   1 Array Array (14 items)
    0 int size = 14
    [0]
-    1 string data = "The shrine you saw, it's that thing over there?"
+    1 string data = "Ta svatyně, cos viděl, je to ta věc támhle?"
    [1]
-    1 string data = "Yes, I'm sure of it."
+    1 string data = "Ano, tím jsem si jistý."
    [2]
-    1 string data = "This is how we reach the ones who can grant access to the Sea of Stars."
+    1 string data = "Tímto způsobem se dostaneme k těm, kteří nám umožní přístup k Moři hvězd."
    [3]
-    1 string data = "It's way out of reach..."
+    1 string data = "Je to daleko mimo náš dosah..."
    [4]
-    1 string data = "Did your vision show anything about how to get to it?"
+    1 string data = "Bylo v tvé vizi něco o tom, jak se k ní dostat?"
    [5]
-    1 string data = "I..."
+    1 string data = "Já..."
    [6]
-    1 string data = "Not really, I just know deep down that we have everything we need."
+    1 string data = "Ani ne, jen v hloubi duše vím, že máme vše, co potřebujeme."
    [7]
-    1 string data = "Valere?"
+    1 string data = "Valerie?"
    [8]
-    1 string data = "Paths on water..."
+    1 string data = "Cesty na vodě..."
    [9]
-    1 string data = "Huh??"
+    1 string data = "Hm??"
    [10]
-    1 string data = "Way to go, Valere!"
+    1 string data = "To bylo něco, Valerie!"
    [11]
-    1 string data = "Quite impressive. How did you know?"
+    1 string data = "Docela působivé. Jak jsi to věděla?"
    [12]
-    1 string data = "The Oracle of Tides... he said I could "mend the connection.""
+    1 string data = "Věštec přílivů a odlivů... říkal, že mohu "napravit spojení.""
    [13]
-    1 string data = "And now we get to walk on it! Let's do this!"
+    1 string data = "A teď se po tom můžeme projít! Jdeme na to!"

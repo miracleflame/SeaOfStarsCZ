@@ -57,7 +57,7 @@
    [21]
     1 string data = "(Ups! Omlouvám se, prosím, pokračujte.)"
    [22]
-    1 string data = "(Mlhy jsou v tvém případě nejasné, ale zdá se, že tvé srdce by mohlo být dostatečně vřelé, aby <color=magic>uklidnilo dlouho sužovanou duši</color>.")"
+    1 string data = "(Mlhy jsou v tvém případě nejasné, ale zdá se, že tvé srdce by mohlo být dostatečně vřelé, aby <color=magic>ukonejšilo dlouho sužovanou duši</color>.)"
    [23]
     1 string data = "Dobře, udělám, co bude v mých silách!"
    [24]

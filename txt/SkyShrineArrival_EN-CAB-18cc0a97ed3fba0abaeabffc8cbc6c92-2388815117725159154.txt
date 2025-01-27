@@ -13,14 +13,14 @@
   1 Array Array (6 items)
    0 int size = 6
    [0]
-    1 string data = "That tickled!"
+    1 string data = "Lechtá to!"
    [1]
-    1 string data = "Did it work?"
+    1 string data = "A zabralo to?"
    [2]
-    1 string data = "Sure did!"
+    1 string data = "Určitě ano!"
    [3]
-    1 string data = "This is definitely the place. Just follow the path!"
+    1 string data = "Tohle je zaručeně to místo. Stačí jít po cestě!"
    [4]
-    1 string data = "The Air Elemental Skyland is to the northwest. We should hurry and get Zephyr for Garl."
+    1 string data = "Nebeská země vzdušných živlů je na severozápadě. Měli bychom si pospíšit a sehnat Zephyra pro Garla."
    [5]
-    1 string data = "Right... "
+    1 string data = "Jasně..."

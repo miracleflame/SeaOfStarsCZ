@@ -665,7 +665,7 @@
    [325]
     1 string data = "To vážně?"
    [326]
-    1 string data = "Jasně že jo! Chystám se uspořádat svůj vlastní kar a chci to nejlepší jídlo, co tam je!"
+    1 string data = "Jasně, že jo! Chystám se uspořádat svůj vlastní kar a chci to nejlepší jídlo, co může být!"
    [327]
     1 string data = "Haha! Žeru tohohle chlápka."
    [328]
