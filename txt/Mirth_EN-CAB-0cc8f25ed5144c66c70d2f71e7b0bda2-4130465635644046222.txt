@@ -37,7 +37,7 @@
    [11]
     1 string data = "Byl někdo zraněn?"
    [12]
-    1 string data = "Ne, hned jsme odešli, protože nám to připadalo trochu desivé. Mysleli jsme si, že ostrov je úplně opuštěný."
+    1 string data = "Ne, hned jsme odešli, protože nám to připadalo trochu děsivé. Mysleli jsme si, že ostrov je úplně opuštěný."
    [13]
     1 string data = "Hned tam půjdeme."
    [14]
@@ -61,19 +61,19 @@
    [23]
     1 string data = "To je ale úleva!"
    [24]
-    1 string data = "A nyní je čas pojmenovat toto město! Velké díky všem, kteří vhodili nápady do pytle."
+    1 string data = "A nyní je čas pojmenovat toto město! Velké díky všem, kteří mi vhodili nápady do batohu."
    [25]
     1 string data = "Myslím, že jenom..."
    [26]
     1 string data = "A název je..."
    [27]
-    1 string data = "Garle?"
+    1 string data = "Garl?"
    [28]
     1 string data = "Vydržte chvíli..."
    [29]
-    1 string data = "Garle..."
+    1 string data = "Garl..."
    [30]
-    1 string data = "Garle!"
+    1 string data = "Garl!"
    [31]
     1 string data = "To nemůže být jméno pro vesnici!"
    [32]
@@ -85,9 +85,9 @@
    [35]
     1 string data = "Ukázal ses jako vůdce, kamaráde! Ta čest by ti měla patřit."
    [36]
-    1 string data = "Garle!"
+    1 string data = "Garl!"
    [37]
-    1 string data = "Gaaaaaaaaarle!"
+    1 string data = "Gaaaaaaaaarl!"
    [38]
     1 string data = "Dobře, zkusím to!"
    [39]
@@ -121,7 +121,7 @@
    [53]
     1 string data = "O pár dní později..."
    [54]
-    1 string data = "To bylo hodně! Zdá se, že odtud to už zvládnou."
+    1 string data = "To bylo hodně! Zdá se, že odtud to už zvládnou sami."
    [55]
     1 string data = "Pěkně ses hecnul, Garle."
    [56]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Mladí mistři?"
    [58]
-    1 string data = "Přišel za vámi starý pán."
+    1 string data = "Přišel za vámi nějaký starý pán."
    [59]
     1 string data = "To musí být ředitel!"
    [60]
@@ -201,7 +201,7 @@
    [93]
     1 string data = "Ano, Y'eeta."
    [94]
-    1 string data = "Neřekl vám Mlžný stařešina jméno obra, který vás vezme domů?"
+    1 string data = "Neřekl vám Mlžný stařešina jméno obra, které vás vezme domů?"
    [95]
     1 string data = "..."
    [96]
