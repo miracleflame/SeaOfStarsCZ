@@ -39,11 +39,11 @@
    [12]
     1 string data = "Dělám to velmi nerad, ale musíme zajistit, že Akolyté dokončí rituál probuzení."
    [13]
-    1 string data = "Do your worst!"
+    1 string data = "Předveďte se!"
    [14]
     1 string data = "Tak sem s tím!"
    [15]
-    1 string data = "*ehm* Uh, hej, myslím... že tuhle bitvu bychom měli přenechat jim."
+    1 string data = "*ehm* Uh, hele, já myslím... že tuhle bitvu bychom měli přenechat jim."
    [16]
     1 string data = "..."
    [17]
@@ -51,15 +51,15 @@
    [18]
     1 string data = "Stále se k nám můžete přidat, jestli-"
    [19]
-    1 string data = "Ani to nezkoušej!"
+    1 string data = "Neopovažuj se!"
    [20]
-    1 string data = "Padej už!"
+    1 string data = "Padejte už!"
    [21]
     1 string data = "..."
    [22]
     1 string data = "Jdeme, Brugavesi."
    [23]
-    1 string data = "Ano! To je ono."
+    1 string data = "Ano! To stačí."
    [24]
     1 string data = "To budou čučet, nemůžu se dočkat, haha!"
    [25]
@@ -75,7 +75,7 @@
    [30]
     1 string data = "Ty jsi člověk?"
    [31]
-    1 string data = "Víc vrásek než takové běžné dítě, že?"
+    1 string data = "Na dítě máš trochu víc vrásek, ne?"
    [32]
     1 string data = "..."
    [33]
@@ -103,7 +103,7 @@
    [44]
     1 string data = "A navíc zůstaneme navždy dětmi. A to je dost super, ne?"
    [45]
-    1 string data = "Vyrábět přístroje padouchům sice úplně ideální není, ale pořád lepší než ta druhá možnost."
+    1 string data = "Vyrábět stroje pro padouchy sice úplně ideální není, ale pořád lepší než ta druhá možnost."
    [46]
     1 string data = "A co je ta druhá možnost?"
    [47]
@@ -157,11 +157,11 @@
    [71]
     1 string data = "Důkaz, že Magie Zatmění se dá přeměnit."
    [72]
-    1 string data = "Možné důsledky jsou neuvěřitelné."
+    1 string data = "Možné důsledky jsou nepopsatelné."
    [73]
-    1 string data = "To, znamená, že nám můžete pomoct?"
+    1 string data = "Znamená to, že nám můžete pomoct?"
    [74]
-    1 string data = "Ano, tenhle pokus všechno mění."
+    1 string data = "Ano, tenhle experiment ledacos mění."
    [75]
     1 string data = "Máme zařízení, které vám s Přiživovačem sváru pomůže."
    [76]
@@ -171,7 +171,7 @@
    [78]
     1 string data = "To bylo TAK HUSTÝ!"
    [79]
-    1 string data = "Kéž bych taky mohl ovládat světlo!"
+    1 string data = "Kéž bych taky uměl ovládat světlo!"
    [80]
     1 string data = "Pojďme to zkusit!"
    [81]
@@ -257,7 +257,7 @@
    [121]
     1 string data = "Paráda. Teď jen odemknout tyhle dveře. Vy zabavíte Akolyty, my s tím zařízením proklouzneme přes rituálnu."
    [122]
-    1 string data = "Před časem jsme ho navrhli, aby sedělo na druhou věž, takže tam budete muset Přiživovače nějak nalákat."
+    1 string data = "Před časem jsme ho navrhli tak, aby sedělo na druhou věž, takže tam budete muset Přiživovače nějak nalákat."
    [123]
     1 string data = "Rozumíme."
    [124]
@@ -375,9 +375,9 @@
    [180]
     1 string data = "Na podmínky vám já kašlu!"
    [181]
-    1 string data = "YOU FOOL!"
+    1 string data = "ZEŠÍLELAS?!"
    [182]
-    1 string data = "Oh, to se vám teda povedlo!"
+    1 string data = "Ó, to se vám teda povedlo!"
    [183]
     1 string data = "Co se děje?"
    [184]
@@ -387,13 +387,13 @@
    [186]
     1 string data = "Náš pán se konečně vrátil!"
    [187]
-    1 string data = "Our lord, and master too!"
+    1 string data = "Náš pán a ještě k tomu i mistr!"
    [188]
     1 string data = "Myslel jsem si, že jsme se na něčem dohodli."
    [189]
     1 string data = "Já jsem to neudělal."
    [190]
-    1 string data = "Oh, nech těch ohraných výmluv."
+    1 string data = "Ach, nech těch ohraných výmluv."
    [191]
     1 string data = "Baňka času zasáhla Přiživovače, ať už jsi ji hodil sám, nebo to nechal udělat někoho jiného. Můžeš za to ty."
    [192]
@@ -401,11 +401,11 @@
    [193]
     1 string data = "Přiživovač sváru... jak je to možné?"
    [194]
-    1 string data = "Karnimante, Pane, my..."
+    1 string data = "Karnimante, mistre, my..."
    [195]
     1 string data = "Jedničko?"
    [196]
-    1 string data = "Ano, Pane! Jsem poctěn, že si na mě pamatujete."
+    1 string data = "Ano, mistre! Jsem poctěn, že si na mě pamatujete."
    [197]
     1 string data = "Jak jste mohli zůstat naživu tak dlouho?"
    [198]
@@ -427,7 +427,7 @@
    [206]
     1 string data = "Vaši oddanost chválím."
    [207]
-    1 string data = "Pane!"
+    1 string data = "Mistre!"
    [208]
     1 string data = "Ale stejně, oživení Přiživovače..."
    [209]
@@ -439,7 +439,7 @@
    [212]
     1 string data = "Jaké je vaše přání?"
    [213]
-    1 string data = "Pane, jestli mohu..."
+    1 string data = "Mistre, jestli mohu..."
    [214]
     1 string data = "Mluv."
    [215]
@@ -459,7 +459,7 @@
    [222]
     1 string data = "Akolyté!"
    [223]
-    1 string data = "Pane?"
+    1 string data = "Mistre?"
    [224]
     1 string data = "Jste připraveni sloužit celou věčnost?"
    [225]
@@ -471,11 +471,11 @@
    [228]
     1 string data = "V daleké budoucnosti se vrátíte jako jeden, jako <color=bad>král</color> nové rasy!"
    [229]
-    1 string data = "Děkujeme, Pane!"
+    1 string data = "Děkujeme, mistre!"
    [230]
-    1 string data = "Děkujeme, Pane!"
+    1 string data = "Děkujeme, mistre!"
    [231]
-    1 string data = "Děkujeme, Pane!"
+    1 string data = "Děkujeme, mistre!"
    [232]
     1 string data = "Nepleť se do toho."
    [233]
@@ -503,7 +503,7 @@
    [244]
     1 string data = "..."
    [245]
-    1 string data = "Zachrań sám sebe, to je jediné, co teď můžeš udělat."
+    1 string data = "Zachraň sám sebe, to je jediné, co teď můžeš udělat."
    [246]
     1 string data = "Erlino..."
    [247]
@@ -549,7 +549,7 @@
    [267]
     1 string data = "Pročpak, bojíš se snad, že víc nevydrží?"
    [268]
-    1 string data = "Do your worst! Nejsi nic víc než ubožák!"
+    1 string data = "Jenom se předveď! Nejsi nic víc než ubožák!"
    [269]
     1 string data = "GARLE!"
    [270]
@@ -559,7 +559,7 @@
    [272]
     1 string data = "??"
    [273]
-    1 string data = "Myslel jsem, že jsme přece ověřili, že čas je nemožné zastavit..."
+    1 string data = "Měl jsem za to, že jsme ustanovili nemožnost zastavit čas..."
    [274]
     1 string data = "Jak si to udělal, Resh'ane?"
    [275]
@@ -583,7 +583,7 @@
    [284]
     1 string data = "..."
    [285]
-    1 string data = "Zase jsi pár století trucoval zalezlý v tom svého archivu?"
+    1 string data = "Zase jsi pár století trucoval zalezlý v tom svém archivu?"
    [286]
     1 string data = "Copak ti to pořád nestačí, Aephorule?"
    [287]
@@ -599,7 +599,7 @@
    [292]
     1 string data = "To teprve uvidíme."
    [293]
-    1 string data = "Myslíš si, že po mně půjdou? To jsem si znovu vysloužil a slap on the wrist again?"
+    1 string data = "Myslíš si, že po mně půjdou? To jsem si znovu vysloužil na vyučenou po prstech?"
    [294]
     1 string data = "PODROBIL SIS CELÝ ŽIVOČIŠNÝ DRUH!"
    [295]
@@ -641,7 +641,7 @@
    [313]
     1 string data = "Jak je libo."
    [314]
-    1 string data = "Díky za rozhovor, zlato."
+    1 string data = "Díky za rozhovor, parťáku."
    [315]
     1 string data = "ARGH!!..."
    [316]
@@ -667,7 +667,7 @@
    [326]
     1 string data = "NEMŮŽEME TĚ ZTRATIT!!"
    [327]
-    1 string data = "Huh?.."
+    1 string data = "Eh?.."
    [328]
     1 string data = "(Zale...)"
    [329]
@@ -697,7 +697,7 @@
    [341]
     1 string data = "Jen si utíkej, dokud můžeš, Karnimante. My si pro tebe dojdeme!"
    [342]
-    1 string data = "S tou čarodějkou už vás budeme čekat."
+    1 string data = "Budu vás i s čarodějkou očekávat."
    [343]
     1 string data = "(Garle!)"
    [344]

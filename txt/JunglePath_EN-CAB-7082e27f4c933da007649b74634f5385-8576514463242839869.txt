@@ -33,7 +33,7 @@
    [9]
     1 string data = "Trojko?"
    [10]
-    1 string data = "Jdem na to!"
+    1 string data = "Útok!"
    [11]
     1 string data = "Zdá se, že toto kolo patří vám."
    [12]
