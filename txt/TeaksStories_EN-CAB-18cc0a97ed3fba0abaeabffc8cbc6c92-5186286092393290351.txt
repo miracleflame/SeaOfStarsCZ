@@ -201,7 +201,7 @@
    [93]
     1 string data = "Jak tomu osud chtěl, Aephorul plně přijal zlo a vešel ve známost jako Karnimant, pomstychtivá nesmrtelná bytost, co sužuje svět obludnými výtvory."
    [94]
-    1 string data = "Resh'an se snažil zakročit, jak nejlépe dovedl, ale jediné, co následovalo, byl nevýslovný chaos a vedlejší škody napáchány témeř božskou silou soubojů dvou bývalých přátel."
+    1 string data = "Resh'an se snažil zakročit, jak nejlépe dovedl, ale jediné, co následovalo, byl nevýslovný chaos a vedlejší škody napáchány téměř božskou silou soubojů dvou bývalých přátel."
    [95]
     1 string data = "Po dlouhém trápení Resh'an přišel na to, že jedinou slabinou těchto nestvůr je magie Slunce a Měsíce - moc udělena těm, kdo se narodili o slunovratu."
    [96]
@@ -381,89 +381,89 @@
    [183]
     1 string data = "Konec příběhu."
    [184]
-    1 string data = "Ewilda was a fair leader who cared not for titles."
+    1 string data = "Ewilda byla spravedlivá vůdkyně, které na titulech nezáleželo."
    [185]
-    1 string data = "Stories say that she spent equal time at Aventry Manor as she did in town with her people."
+    1 string data = "Říká se, že ve městě se svými lidmi trávila stejně tolik času jako v Aventryho sídle."
    [186]
-    1 string data = "Under her reign, Lucent knew prosperity, and upheld its title as Bastion of Light like never before."
+    1 string data = "Za její vlády Lucent prosperoval a dařilo se mu jako nikdy předtím dostát svému přízvisku "Bašta Světla"."
    [187]
-    1 string data = "By her side was Duke Aventry, a proud noble and fierce defender of his land and people."
+    1 string data = "Po boku jí stál vévoda Aventry, hrdý šlechtic a rozhodný ochránce své země a lidu."
    [188]
-    1 string data = "Ever stalwart, it is said that the flame of his dedication to Lucent burned only cooler than that of his fiery love for Ewilda."
+    1 string data = "Vždy byl statečný a plamen jeho oddanosti k Lucentu údajně hořel jen o něco chladněji než plamen jeho vášnivé lásky k Ewildě."
    [189]
-    1 string data = "Despite the looming threat of the Clockwork Castle, they managed to keep their people safe, happy, and hopeful."
+    1 string data = "Navzdory sílící hrozbě v podobě Mechanického hradu se jim úspěšně dařilo mezi poddanými zachovávat pocit bezpečí, štěstí a naděje."
    [190]
-    1 string data = "One night, during a long journey abroad like so many others, Duke Aventry was awoken by an emissary carrying urgent orders."
+    1 string data = "Jednou v noci, během obvyklé zahraniční cesty, probudil vévodu Aventryho posel přinášející naléhavou zprávu."
    [191]
-    1 string data = "Ewilda demanded that he return to Lucent at once, offering no explanation beyond hinting at some dire threat."
+    1 string data = "Ewilda požadovala, aby se ihned vrátil do Lucentu, aniž by poskytla jakékoliv vysvětlení kromě náznaku vážné hrozby."
    [192]
-    1 string data = "When the Duke arrived, he was greeted by a raging firestorm. A sizeable portion of the land was burning, but there were no enemy forces in sight."
+    1 string data = "Když vévoda dorazil, uvítal ho zuřící požár. Značná část krajiny byla v plamenech, ale nikde nebyli vidět žádní nepřátelští vojáci."
    [193]
-    1 string data = "A Sun Solstice Warrior had turned evil."
+    1 string data = "Sluneční Bojovník Slunovratu se obrátil ke zlu."
    [194]
-    1 string data = "Hiding somewhere on the island, he would come out once a day to deplete his powers, slowly burning away at the landscape."
+    1 string data = "Schovával se někde na ostrově a jednou za den vycházel, aby vyčerpal svou sílu, čímž pomalu spaloval celé okolí."
    [195]
-    1 string data = "Thanks to the trail of conflagration, he was easily tracked."
+    1 string data = "Díky ohnivé stopě ho vévoda snadno vypátral."
    [196]
-    1 string data = "Their fight persisted for days on end, but for all his might, Duke Aventry was unable to defeat the evil Solstice Warrior."
+    1 string data = "Jejich souboj trval celé dny, ale přes veškerou svou sílu nedokázal vévoda Aventry zlého Bojovníka Slunovratu porazit."
    [197]
-    1 string data = "Seeing the collateral damage caused by their battle, he accepted they were at a stalemate and retreated, in order to avoid further destruction of his already bleeding land."
+    1 string data = "Když spatřil vedlejší škody, které jejich střet způsobil, přijal, že se ocitli v patové situaci a stáhl se, aby se vyhnul další zkáze jeho už tak trpící země."
    [198]
-    1 string data = "Struck by despair in the face of his inability to protect his people, Duke Aventry let his guard down, and in walked the enemy."
+    1 string data = "V zoufalství nad svou neschopností ochránit svůj lid vévoda Aventry polevil v ostražitosti a následně se objevil nepřítel."
    [199]
-    1 string data = "Fleshmancer Acolyte Two approached in disguise, and offered him a magic shard."
+    1 string data = "V přestrojení za ním přišla Karnimantova Akolyta Dvojka a nabídla mu magický střep."
    [200]
-    1 string data = ""This ancient shard was made by the Ovates themselves,” she lied, fully aware of Duke Aventry's weakened state of mind."
+    1 string data = ""Tento starobylý střep vytvořili samotní Ovati,” lhala, dobře si vědoma Aventryho špatného rozpoložení."
    [201]
-    1 string data = ""It will shroud your island in complete darkness for one day, blocking all light from the sun and moon.”"
+    1 string data = ""Na jeden den zahalí váš ostrov do úplné tmy, nepropustí měsíční ani sluneční světlo.”"
    [202]
-    1 string data = ""My enemy's powers would...” he mused, "But...”"
+    1 string data = ""Moc mého nepřítele by...” přemítal, "Ale...”"
    [203]
-    1 string data = "Playing to Duke Aventry's sense of honor, Two gave him the final nudge: "The Solstice Warrior hasn't been playing by the rules, either.”"
+    1 string data = "Využitím vévodova smyslu pro čest mu Dvojka dala poslední popud: "Ten Bojovník Slunovratu také nehrál podle pravidel.”"
    [204]
-    1 string data = ""Surely you wish to protect your people?” she asked."
+    1 string data = ""Chcete přece ochránit svůj lid, ne snad?” zeptala se."
    [205]
-    1 string data = "Duke Aventry accepted the shard and thanked her for her help."
+    1 string data = "Vévoda Aventry střep přijal a poděkoval jí za pomoc."
    [206]
-    1 string data = ""Simply smash the shard with conviction, and its magic will awaken.” Two explained on her way out."
+    1 string data = ""Jednoduše střep s jistotou rozbijte a jeho magie se probudí,” vysvětlila Dvojka, když byla na odchodu."
    [207]
-    1 string data = "He wasted no time in smashing the shard, and by voluntarily activating the curse on his island, played right into the Acolytes' hands."
+    1 string data = "S rozbitím střepu nemeškal, a tak dobrovolným vyvoláním kletby nad svým ostrovem zahrál Akolytům přímo do karet."
    [208]
-    1 string data = "Everything went fine at first. The Night Shroud covered the land, and Duke Aventry made short work of the weakened Solstice Warrior."
+    1 string data = "Zpočátku šlo všechno dobře. Noční závoj zahalil ostrov a vévoda Aventry udělal s oslabeným Bojovníkem Slunovratu krátký proces."
    [209]
-    1 string data = "As celebrations began, they put out a call for wind mages to gather waves strong enough to flood the eastern part the island."
+    1 string data = "Započaly slavnosti a byli svoláni větrní mágové, aby vytvořili vlny dost silné k zaplavení východní části ostrova."
    [210]
-    1 string data = "The flames were extinguished at last, but in doing so, those areas were transformed into the famous swamps we know today."
+    1 string data = "Požár tak byl konečně uhašen, ale kvůli tomu se tyto oblasti proměnily v dnes už proslavené bažiny."
    [211]
-    1 string data = "It was a change welcomed by all, for it came hand in hand with their victory."
+    1 string data = "Všichni tuto změnu uvítali, neboť šla ruku v ruce s jejich vítězstvím."
    [212]
-    1 string data = "It took a few weeks until it became clear to all that The Night Shroud would never recede."
+    1 string data = "Trvalo několik týdnů, než si uvědomili, že Noční závoj nikdy nezmizí."
    [213]
-    1 string data = "Despite overwhelming support from his people, Duke Aventry could not forgive himself for his mistake."
+    1 string data = "Ani přes obrovskou podporu svého lidu si vévoda Aventry svou chybu nedokázal odpustit."
    [214]
-    1 string data = "Finally realizing who had really given him the magic shard, he departed for the Clockwork Castle."
+    1 string data = "Když si konečně uvědomil, kdo mu vlastně ten magický střep předal, vypravil se do Mechanického hradu."
    [215]
-    1 string data = "On that day, Duke Aventry played into the Acolytes' hands for the second time."
+    1 string data = "Ten den zahrál vévoda Aventry Akolytům do karet podruhé."
    [216]
-    1 string data = "While he was away, Fleshmancer Acolyte Three infiltrated Aventry Manor and killed Ewilda."
+    1 string data = "Zatímco byl pryč, Karnimantův Akolyta Trojka se infiltroval do Aventryho sídla a zabil Ewildu."
    [217]
-    1 string data = "Thus was the ritual completed, and a Seed of Evil was planted in the mansion which, a few centuries later, would grow into the Dweller of Woe."
+    1 string data = "A tudíž byl rituál dokončen a v sídle bylo zaseto Semeno zla, ze kterého o pár století později měla vyrůst Přiživovačka žalu."
    [218]
-    1 string data = "Completely defeated, over the following days Duke Aventry died of sadness and despair."
+    1 string data = "Naprosto poražený Aventry během několika dní zemřel smutkem a zoufalstvím."
    [219]
-    1 string data = "As if fate hadn't been cruel enough, over two hundred years later Romaya found his urn and raised him from the dead to be her bodyguard."
+    1 string data = "A jako kdyby jeho osud nebyl i tak dost krutý, o více než dvě stě let později našla Romaya jeho urnu a vzkřísila ho z mrtvých, aby jí dělal osobního strážce."
    [220]
-    1 string data = "For decades the Duke roamed the swamps he once ruled over, his memory completely gone, feeling nothing save for an unexplainable sadness."
+    1 string data = "Po celá desetiletí se potuloval po bažinách, kterým kdysi vládl, zbaven všech vzpomínek, bez jediného pocitu kromě nevysvětlitelného zármutku."
    [221]
-    1 string data = "In bouts of clarity, he would feel a brief but very deep yearning for something he just couldn't put his finger on."
+    1 string data = "Ve chvílích, kdy mohl jasně myslet, cítil krátkou, ale zato velmi hlubokou touhu po něčem, co nedokázal přesně určit."
    [222]
-    1 string data = "Such was the Duke's lot for half a century until, one day, young Solstice Warriors reclaimed Ewilda's locket and brought it to him."
+    1 string data = "Takový byl vévodův úděl po dobu půl století, než jednoho dne dva mladí Bojovníci Slunovratu získali zpět Ewildin medailonek a donesli mu jej."
    [223]
-    1 string data = "His memory now restored, Duke Aventry smashed the locket, and in doing so broke the tether binding his soul to the material plane."
+    1 string data = "S obnovenými vzpomínkami vévoda Aventry medailonek rozbil, a tím přetrhl pouto vázající jeho duši k hmotné existenci."
    [224]
-    1 string data = "At long last, he found peace and was free to leave this world."
+    1 string data = "Konečně nalezl klid a mohl tento svět opustit."
    [225]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [226]
     1 string data = "Of the many events from the time of the Ovates, many consider the foundation of the Kingdom in the Clouds to be the most significant."
    [227]
