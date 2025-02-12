@@ -13,4 +13,4 @@
   1 Array Array (1 items)
    0 int size = 1
    [0]
-    1 string data = "To je ta baňka! Seberme ji k Resh'anovi."
+    1 string data = "To je ta baňka! Vezměme ji k Resh'anovi."

@@ -1207,7 +1207,7 @@
    [596]
     1 string data = "Vyvážený kámen. Pasuje do ohniště v Akademii Zenit."
    [597]
-    1 string data = "Třpitivá perla"
+    1 string data = "Třpytivá perla"
    [598]
     1 string data = "Cennost určená k prodeji."
    [599]

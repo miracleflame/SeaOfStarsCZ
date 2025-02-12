@@ -33,7 +33,7 @@
    [9]
     1 string data = "Gejza Dusík"
    [10]
-    1 string data = "Kolik BM se získá z běžného útoku bez jakéhokoli vybavení?"
+    1 string data = "Kolik BM se získá z běžného útoku bez jakéhokoliv vybavení?"
    [11]
     1 string data = "2"
    [12]
@@ -41,7 +41,7 @@
    [13]
     1 string data = "4"
    [14]
-    1 string data = "Kolik BM stojí Zaleova Sluneční koule bez jakéhokoli vybavení?"
+    1 string data = "Kolik BM stojí Zaleova Sluneční koule bez jakéhokoliv vybavení?"
    [15]
     1 string data = "6"
    [16]
@@ -51,7 +51,7 @@
    [18]
     1 string data = "Stojíte proti nepříteli se dvěma Tupými a dvěma Sečnými zámky. Kterým kombem se lze dostat z této situace?"
    [19]
-    1 string data = "Ozdravné svetlo"
+    1 string data = "Světlo zotavení"
    [20]
     1 string data = "Úder Slunovratu"
    [21]
@@ -73,7 +73,7 @@
    [29]
     1 string data = "Požádat někoho, aby kouzlil"
    [30]
-    1 string data = "Na ostrově Věčné mlhy se nachází odlehlá vesnice, kam přilétaj Děti Slunovratu. Jak se tato vesnice jmenuje?"
+    1 string data = "Na ostrově Věčné mlhy se nachází odlehlá vesnice, kam jsou přinášeny Děti Slunovratu. Jak se tato vesnice jmenuje?"
    [31]
     1 string data = "Sluneční Kolébka"
    [32]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "Kdy má Valerie narozeniny?"
    [35]
-    1 string data = "O ĺetním slunovratu"
+    1 string data = "O letním slunovratu"
    [36]
     1 string data = "O zimním slunovratu"
    [37]
@@ -111,9 +111,9 @@
    [48]
     1 string data = "3"
    [49]
-    1 string data = "Který z těchto nepřátel NENÍ přítomen v Moorlands?"
+    1 string data = "Který z těchto nepřátel NENÍ přítomen ve Vřesovišti?"
    [50]
-    1 string data = "Ant Bruiser"
+    1 string data = "Mralovec"
    [51]
     1 string data = "Vrtopýr"
    [52]
@@ -155,9 +155,9 @@
    [70]
     1 string data = "Zlatý pelikán"
    [71]
-    1 string data = "Ospalý zednář"
+    1 string data = "Ospalý kameník"
    [72]
-    1 string data = "První fáze smutku"
+    1 string data = "První fáze žalu"
    [73]
     1 string data = "Skromná chlouba"
    [74]
@@ -171,7 +171,7 @@
    [78]
     1 string data = "Rock thee"
    [79]
-    1 string data = "V Hornické vesničce se Molekinové starají o větrné tunely, aby mohli dál plnit jakou funkci?"
+    1 string data = "V Hornické vesničce se Molekinové starají o větrné tunely, aby mohly dál plnit jakou funkci?"
    [80]
     1 string data = "Sušit šaty"
    [81]
@@ -179,15 +179,15 @@
    [82]
     1 string data = "Dělat dojem na obyvatele Svěžína"
    [83]
-    1 string data = "Těžba jantaru"
+    1 string data = "Těžit jantar"
    [84]
-    1 string data = "Pravda nebo nepravda: První fáze smutku byla tak pojmenována proto, že lidé z Lucentu se rádi sdružují, aby vědomě přijali svou situaci."
+    1 string data = "Pravda nebo nepravda: První fáze žalu byla tak pojmenována proto, že lidé z Lucentu se rádi sdružují, aby vědomě přijali svou situaci."
    [85]
     1 string data = "PRAVDA"
    [86]
     1 string data = "NEPRAVDA"
    [87]
-    1 string data = "Pravda nebo nepravda: Vévodu Aventryho vzkřísila z jeho popela nekromantka Romaya."
+    1 string data = "Pravda nebo nepravda: Vévodu Aventryho vzkřísila z popela nekromantka Romaya."
    [88]
     1 string data = "PRAVDA"
    [89]
@@ -203,7 +203,7 @@
    [94]
     1 string data = "84"
    [95]
-    1 string data = "Jak se jmenuje nepřítel v Prokletém lese, kterého bylo třeba zničit, abyste se zbavili révy?"
+    1 string data = "Jak se jmenuje nepřítel v Prokletém lese, kterého bylo třeba zničit, abyste se zbavili trnů?"
    [96]
     1 string data = "Boulbe"
    [97]
@@ -213,7 +213,7 @@
    [99]
     1 string data = "Meuporg"
    [100]
-    1 string data = "Která z těchto dovedností stojí Seraï 9 BM bez jakéhokoli vybavení?"
+    1 string data = "Která z těchto dovedností stojí Seraï 9 BM bez jakéhokoliv vybavení?"
    [101]
     1 string data = "Dezorientace"
    [102]
@@ -225,13 +225,13 @@
    [105]
     1 string data = "Když správně načasujete Garlovu Výživu, čím je nahrazeno jablko?"
    [106]
-    1 string data = "Zmzlinou"
+    1 string data = "Zmrzlinou"
    [107]
     1 string data = "Sendvičem"
    [108]
     1 string data = "Půlkou sendviče"
    [109]
-    1 string data = "Dvěma sendviči"
+    1 string data = "Dvěma zmrzlinami"
    [110]
     1 string data = "Jak se jmenuje nástroj, který umožňuje vymrštit se na kůly a šplhatelné povrchy?"
    [111]
@@ -251,7 +251,7 @@
    [118]
     1 string data = "Přízračná Přiživovačka"
    [119]
-    1 string data = "Přiživovačka sklizne"
+    1 string data = "Přiživovačka sklizně"
    [120]
     1 string data = "Když chce Gulgul uniknout z bitvy, co udělá?"
    [121]
@@ -263,7 +263,7 @@
    [124]
     1 string data = "Odletí"
    [125]
-    1 string data = "Jak se jmenují nepřátelé čarodějnického typu, které lze nalézt v Nekromantově doupěti?"
+    1 string data = "Jak se jmenují nepřátelé čarodějnického typu, které lze nalézt v Doupěti nekromantky?"
    [126]
     1 string data = "Mezmorfzodar"
    [127]
@@ -285,7 +285,7 @@
    [135]
     1 string data = "NEPRAVDA"
    [136]
-    1 string data = "Jak se přezývá Hydralion, mořská příšera povolaná Vyzyvatelem bouří k jeho ultimátnímu útoku?"
+    1 string data = "Jak se přezdívá Hydralionovi, mořské příšeře povolané Vyzyvatelem bouří k jeho ultimátnímu útoku?"
    [137]
     1 string data = "Nositel přílivů a odlivů"
    [138]
@@ -307,9 +307,9 @@
    [146]
     1 string data = "Jak se jmenuje duch, který obývá Kryptu?"
    [147]
-    1 string data = "Kryptochod"
-   [148]
     1 string data = "Kryptochodec"
+   [148]
+    1 string data = "Kryptochod"
    [149]
     1 string data = "Kryptotvoř"
    [150]
@@ -355,7 +355,7 @@
    [170]
     1 string data = "7"
    [171]
-    1 string data = "Kolik BM stojí Valeriin Lunární štít bez jakéhokoli vybavení?"
+    1 string data = "Kolik BM stojí Valeriin Lunární štít bez jakéhokoliv vybavení?"
    [172]
     1 string data = "9"
    [173]
@@ -371,7 +371,7 @@
    [178]
     1 string data = "NEPRAVDA"
    [179]
-    1 string data = "Pravda nebo nepravda: Seraïna Jedová metelice a Valeriin Lunarang stojí bez jakéhokoli vybavení stejně BM."
+    1 string data = "Pravda nebo nepravda: Seraïna Jedová metelice a Valeriin Lunarang stojí bez jakéhokoliv vybavení stejně BM."
    [180]
     1 string data = "PRAVDA"
    [181]
@@ -389,7 +389,7 @@
    [187]
     1 string data = "Mučivý vrch navštívilo kdysi dávno jiné pokolení Bojovníků Slunovratu. Co udělali, když odcházeli?"
    [188]
-    1 string data = "Zapečetil vchod jednou"
+    1 string data = "Zapečetili vchod jednou"
    [189]
     1 string data = "Zapečetili vchod dvakrát"
    [190]
@@ -453,7 +453,7 @@
    [219]
     1 string data = "Baňka vypůjčeného času"
    [220]
-    1 string data = "Vědma přílivů a odlivů"
+    1 string data = "Věštec přílivů a odlivů"
    [221]
     1 string data = "Stařešina Molekinů"
    [222]
@@ -535,7 +535,7 @@
    [260]
     1 string data = "Náušnice zdraví"
    [261]
-    1 string data = "Nekonečná Jablka"
+    1 string data = "Jablko Nekonečna"
    [262]
     1 string data = "Bufet"
    [263]

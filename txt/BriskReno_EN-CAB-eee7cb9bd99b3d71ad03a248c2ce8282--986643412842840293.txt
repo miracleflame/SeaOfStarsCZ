@@ -19,7 +19,7 @@
    [2]
     1 string data = "Nemám tušení, ale byla MASIVNÍ!"
    [3]
-    1 string data = "Doufám, že mi Hortenzie dovolí zeptat se pár otázek. Mám jich tolik!"
+    1 string data = "Doufám, že mi Hortenzie dovolí položit jí pár otázek. Mám jich tolik!"
    [4]
     1 string data = "*To už je úkol hodný mé podpory."
    [5]
@@ -27,13 +27,13 @@
    [6]
     1 string data = "*Aye. Loď je vaše a já vám budu dělat navigátorku."
    [7]
-    1 string data = "*Plavila jsem se na ní jen jednou, ale ať jsem dvakrát prokletá, jestli to nedokážu zopáknout."
+    1 string data = "*Plavila jsem se po něm jen jednou, ale ať jsem dvakrát prokletá, jestli to nedokážu zopáknout."
    [8]
     1 string data = "..."
    [9]
     1 string data = "Kolik toho víš?"
    [10]
-    1 string data = "*Dost na to, abych prokoukla tvůj převlek."
+    1 string data = "*Dost na to, abych prokoukla tvoje převleky."
    [11]
     1 string data = "..."
    [12]
@@ -69,9 +69,9 @@
    [27]
     1 string data = "Haha, nevidím důvod, proč ne!"
    [28]
-    1 string data = "Hurrá!"
+    1 string data = "Hurá!"
    [29]
-    1 string data = "Tendlec úděl s věčností začína nabírat mnohem lepší obrátky!"
+    1 string data = "Tendlec úděl s věčností začíná nabírat mnohem lepší obrátky!"
    [30]
     1 string data = "Buď vítána v posádce, Hortenzie!"
    [31]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "Počkat"
    [35]
-    1 string data = "Moje kouzelná mapa by měla fungovat i v této sféře. Tak tedy k severovýchodu!"
+    1 string data = "Moje kouzelná mapa by měla fungovat i v této dimenzi. Tak tedy k severovýchodu!"
    [36]
     1 string data = "Všichni kdo chtějí odejít do nové země, na palubu!"
    [37]
@@ -93,7 +93,7 @@
    [39]
     1 string data = "Je příliš nebezpečné jít dál, rekonstrukce je v plném proudu."
    [40]
-    1 string data = "Váhám, co bych si měl vzít s sebou na toto nové místo."
+    1 string data = "Váhám nad tím, co bych si měl vzít na to nové místo s sebou."
    [41]
     1 string data = "Bylo hezké vidět, jak všichni spolupracují."
    [42]
@@ -101,11 +101,11 @@
    [43]
     1 string data = "Pro mého syna to bude velká změna. Doufám, že bude v pořádku..."
    [44]
-    1 string data = "Mami, mami, MAAMIIIII! Opravdu se budeme plavit na té super cool lodi!?"
+    1 string data = "Mami, mami, MAAMIIIII! Opravdu se budeme plavit na té superhusté lodi!?"
    [45]
     1 string data = "Jsme připraveni vyrazit, jakmile budete i vy. "
    [46]
-    1 string data = "Cítím s těmi lidmi."
+    1 string data = "S těmito lidmi soucítím."
    [47]
     1 string data = "Stavět nové město od základů, jo? To bude zábava!"
    [48]

@@ -13,21 +13,21 @@
   1 Array Array (46 items)
    0 int size = 46
    [0]
-    1 string data = "Tak, už to chce jenom sto a padesát let..."
+    1 string data = "Tak, už to chce jenom sto padesát let..."
    [1]
     1 string data = "Dobré ráno, <color=good>Khukharre</color>."
    [2]
-    1 string data = "Mistře... Přišel jste zkontrolovat mou práci?"
+    1 string data = "Pane... Přišel jste zkontrolovat mou práci?"
    [3]
     1 string data = "Jak vidíte, nepolevil jsem."
    [4]
     1 string data = "Chválím tvou oddanost."
    [5]
-    1 string data = "Děkuji, mistře."
+    1 string data = "Děkuji, pane."
    [6]
     1 string data = "Voda poměrně dost stoupla, jak dlouho jsem spal?"
    [7]
-    1 string data = "Irelevantní dotaz. Aeforul odešel už dávno a jeho akolyté ztratili většinu svých schopností. V dohledné době se to již nebude opakovat."
+    1 string data = "To není podstatné. Aephorul už dávno odešel a jeho Akolyté ztratili většinu svých schopností. V dohledné době se to již nebude opakovat."
    [8]
     1 string data = "Rozumím. Jak vám mohu pomoci?"
    [9]
@@ -45,11 +45,11 @@
    [15]
     1 string data = "Mým hlavním posláním je držet ostrov Mesa přesně v této výšce."
    [16]
-    1 string data = "Rád udělám cokoli, co mohu, aniž bych narušil své držení, příteli."
+    1 string data = "Rád udělám cokoliv, co mohu, aniž bych narušil své držení, příteli."
    [17]
     1 string data = "Chceme prozkoumat tvůj ostrov. Mohl bys pro nás odstranit tu bariéru?"
    [18]
-    1 string data = "Aha? Jistě víte o <color=bad>zlověstném zámku</color>, jenž tam stojí. Není to místo, kam bychom posílali přátele."
+    1 string data = "Aha? Jistě víte o <color=bad>zlověstném hradu</color>, jenž tam stojí. Není to místo, kam bychom posílali přátele."
    [19]
     1 string data = "Přesto tam máme namířeno."
    [20]
@@ -57,15 +57,15 @@
    [21]
     1 string data = "Dobré ráno, Khukharre."
    [22]
-    1 string data = "Mistře... Přišel jste zkontrolovat mou práci?"
+    1 string data = "Pane... Přišel jste zkontrolovat mou práci?"
    [23]
     1 string data = "Jak vidíte, nepolevil jsem."
    [24]
     1 string data = "Chválím tvou oddanost."
    [25]
-    1 string data = "Děkuji, mistře. Jak vám mohu pomoci?"
+    1 string data = "Děkuji, pane. Jak vám mohu pomoci?"
    [26]
-    1 string data = "Tito lidé jsou dobrodruzi na velmi důležitém poslání a potřebují tvou pomoc."
+    1 string data = "Tito lidé jsou dobrodruzi na velmi důležité misi a potřebují tvou pomoc."
    [27]
     1 string data = "Rozumím."
    [28]
@@ -99,7 +99,7 @@
    [42]
     1 string data = "Díky, Khukharre!"
    [43]
-    1 string data = "Přirozeně. Šťastnou cestu, dobrodruzi."
+    1 string data = "Rádo se stalo. Šťastnou cestu, dobrodruzi."
    [44]
     1 string data = "Tak jdeme nahoru."
    [45]
