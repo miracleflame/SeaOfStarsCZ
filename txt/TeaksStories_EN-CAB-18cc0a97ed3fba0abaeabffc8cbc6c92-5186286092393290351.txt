@@ -513,59 +513,59 @@
    [249]
     1 string data = "The end."
    [250]
-    1 string data = "When the birdmen accepted Aephorul's deal, he knew that granting their species access to mind magic would be easy for him."
+    1 string data = "Když ptačí lidé přijali Aephorulovu nabídku, věděl, že poskytnout jejich druhu přístup k magii mysli pro něj bude snadné."
    [251]
-    1 string data = "There was only the matter of giving them their own god to worship."
+    1 string data = "Ještě zbývalo dát jim vlastního boha k uctívání."
    [252]
-    1 string data = "And so as always, when a problem wouldn't also serve to advance his research, he delegated."
+    1 string data = "A tak jako pokaždé, když mu nějaký problém nepřinášel nic nového pro výzkum, nechal jeho řešení na někom jiném."
    [253]
-    1 string data = "The Songsters were capable builders. Not as tech-savvy as the humans who built Sky Base, but he just needed a giant construct--and no tricks."
+    1 string data = "Pěvci byli zkušení stavitelé. Sice se v technologii nevyznali tolik jako lidé, kteří postavili Vesmírnou základnu, ale to jediné, co potřeboval, byla obří konstrukce--bez jakýchkoliv úskoků."
    [254]
-    1 string data = "With proper incentives in place in the form of hostages, Aephorul put T'kor in charge."
+    1 string data = "S náležitou pobídkou v podobě rukojmích pověřil Aephorul tímto úkolem T'kora."
    [255]
-    1 string data = "A team was formed and together they started building the Sacrosanct Spires, with its pretend god as the centerpiece: the giant, Es'tristae."
+    1 string data = "Byla sestavena pracovní skupina, která se pustila do stavby Svatosakrálních věží a falešného boha coby jejich středobodu: obra Es'tristae."
    [256]
-    1 string data = "But T'kor was no fool--he knew all too well that Aephorul wouldn't stop until every single shred of life had been exploited or corrupted."
+    1 string data = "Ale T'kor nebyl žádný hlupák--moc dobře věděl, že se Aephorul nezastaví, dokud všechno živé nevyužije nebo nezkazí."
    [257]
-    1 string data = "On the third night, the Songsters performed a ritual chant to summon a vision of the distant future to T'kor's mind..."
+    1 string data = "O třetí noci provedli Pěvci rituální zpěv, aby v T'korově mysli vyvolali vizi vzdálené budoucnosti..."
    [258]
-    1 string data = "...Sky Base, the regulator of climate, corrupted. The death of all fauna and flora..."
+    1 string data = "...Vesmírná základna, regulátor podnebí, zneužita. Vymírání veškeré fauny a flóry..."
    [259]
-    1 string data = "...The megacity completely razed, his land reduced to an ocean of blue sand..."
+    1 string data = "...Velkoměsto zcela zničeno, z jeho země zbyl jen oceán modrého písku..."
    [260]
-    1 string data = "...The tech-savvy humans, their souls detached from their bodies, and tethered to cyborgs by a wicked machine..."
+    1 string data = "...Technologicky zdatní lidé, jejich duše odpoutány od vlastních těl a vloženy zlovolným strojem do kovových..."
    [261]
-    1 string data = "...Forced to live in despair, their minds food for a growing sea monster..."
+    1 string data = "...Donuceni žít v zoufalství, jejich mysl sloužící jako potrava pro rostoucí mořskou příšeru..."
    [262]
-    1 string data = "...A world without sun, without hope--and the moon, sunken into the abyssal depths..."
+    1 string data = "...Svět bez slunce, bez naděje--s Měsícem potopeným do hlubin moře..."
    [263]
-    1 string data = "...And his own people... What cruel fate..."
+    1 string data = "...A národ jeho samotného... Jak krutý osud..."
    [264]
-    1 string data = "...Heroes of the future, this world's only hope, capable yet without any means to reach Sky Base, with power offline..."
+    1 string data = "...Hrdinové v budoucnosti, jediná šance pro tento svět, schopní, ale nemající možnost dostat se na Vesmírnou základnu bez elektřiny..."
    [265]
-    1 string data = "The vision faded and T'kor focused his mind on dreaming a sanguine dream."
+    1 string data = "Vize se vytratila a T'kor obrátil pozornost na snění krásného snu."
    [266]
-    1 string data = "The next morning, he woke up with purpose--when the time came, the heroes would have the spark needed to reclaim their world."
+    1 string data = "Další ráno se probudil s jasným cílem--až ten čas přijde, ti hrdinové budou mít potřebnou energii, aby osvobodili jejich svět."
    [267]
-    1 string data = "The solution had to be so simple, it would be invisible to Aephorul and his elitist mind."
+    1 string data = "Řešení muselo být tak jednoduché, že si ho Aephorul pro svůj elitářský pohled na svět ani nevšimne."
    [268]
-    1 string data = "And so they built Es'tristae on a vertical power rail connected to the planet's grid."
+    1 string data = "A tak postavili Es'tristae na vertikální elektrické kolejnici napojené na rozvodnou síť planety."
    [269]
-    1 string data = "For the final touch, they raised an enormous slab of stone for the giant statue to hold firmly in its hands."
+    1 string data = "Na závěr vyzdvihli obrovský kamenný kvádr, který měla socha pevně držet v rukou."
    [270]
-    1 string data = "The most primitive form of battery which, when dropped, would grind on the rail and return power to the grid."
+    1 string data = "Nejjednodušší podoba baterie, která po upuštění sjede po kolejnici a vrátí elektřinu do sítě."
    [271]
-    1 string data = "Their plan worked--Aephorul wrote it off as a purely artistic choice."
+    1 string data = "Jejich plán vyšel--Aephorul to celé považoval za pouhý umělecký prvek."
    [272]
-    1 string data = "Centuries went by, and with the rise of The Fleshmancer, the world lay helpless as T'kor's visions of suffering and destruction came to be."
+    1 string data = "Staletí ubíhala a při vzestupu Karnimanta byl svět bezmocný, jak se naplňovaly T'korovy vize utrpení a zkázy."
    [273]
-    1 string data = "All the while Es'tristae stood there, never getting so much as a second look from Aephorul."
+    1 string data = "Po celou tu dobu Es'tristae jen stál dál, aniž by mu Aephorul věnoval jakoukoliv další pozornost."
    [274]
-    1 string data = "For centuries and more the fail-safe was hidden in plain sight, ready to support the heroes of the future in their last ditch effort to reclaim this world."
+    1 string data = "Přes mnohá staletí bylo toto nouzové řešení schováno všem na očích, připraveno v budoucnu podpořit hrdiny v jejich poslední snaze osvobodit tento svět."
    [275]
-    1 string data = "While T'kor wouldn't live to see the day of their arrival, he died knowing that his world, and his people, at least stood a chance."
+    1 string data = "I když se T'kor nedožil dne jejich příchodu, zemřel s vědomím, že jeho svět a lidé mají alespoň nějakou šanci."
    [276]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [277]
     1 string data = "This one is special--it's an adventurer's log! Might want to take some notes."
    [278]
