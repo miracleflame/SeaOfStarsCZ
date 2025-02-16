@@ -247,7 +247,7 @@
    [116]
     1 string data = "K němu byly přiloženy instrukce slibující přínosnou práci s nádechem magie."
    [117]
-    1 string data = "Shromáždili se na neobydleném ostrově směrem na jihozápad doufajíce, že potkají toho záhadného "Velkého orla”, co se podepsal pod jejich pozvání."
+    1 string data = "Shromáždili se na neobydleném ostrově směrem na jihozápad doufajíce, že potkají toho záhadného "Velkého orla", co se podepsal pod jejich pozvání."
    [118]
     1 string data = "Ovšem to jediné, co po svém příchodu nalezli, byly tři baňky, z nichž dvě byly pevně zapečetěny."
    [119]
@@ -291,55 +291,55 @@
    [138]
     1 string data = "Konec příběhu."
    [139]
-    1 string data = "When Aephorul first arrived in our realm, he brought with him a group of kid geniuses."
+    1 string data = "Když Aephorul poprvé dorazil do naší říše, přivedl s sebou skupinu geniálních dětí."
    [140]
-    1 string data = "If stories are to be believed, Caël and his friends had struck a deal with him to free their people."
+    1 string data = "Pokud se dá věřit pověstem, Caël a jeho přátelé s ním uzavřeli dohodu o osvobození svého lidu."
    [141]
-    1 string data = "In The Fleshmancer's new base of operations, they would toil away, creating machines for obscure uses in realms unknown."
+    1 string data = "V nové základně Karnimanta se měli dřít a vyrábět stroje pro obskurní použití v neznámých sférách."
    [142]
-    1 string data = "But such a base had yet to be built, so as always Aephorul set out to locate the best collaborator there was to be found."
+    1 string data = "Takovou základnu však bylo třeba teprve vybudovat, a tak se Aephorul jako vždy vydal hledat nejlepšího spolupracovníka, jaký se dal najít."
    [143]
-    1 string data = "He needed someone morally neutral--for it was execution he desired, not competition."
+    1 string data = "Potřeboval někoho morálně neutrálního - neboť mu šlo o provedení, ne o soutěž."
    [144]
-    1 string data = "With this new lair, he would prove himself superior to Resh'an by building a castle that would control time within itself."
+    1 string data = "Kdyby postavil hrad, který by uvintř ovládal čas, dokázal by Resh'anovi tímto novým doupětem, že je nadřazený."
    [145]
-    1 string data = "The Watchmaker was the perfect fit. She was only interested in her craft, and otherwise had no interest in Aephorul's machinations."
+    1 string data = "Hodinářka se mu na to dokonale hodila. Zajímalo ji pouze její řemeslo a jinak se o Aephorulovy machinace nezajímala."
    [146]
-    1 string data = "All she asked for in return was a workshop of her own, where she could be left to her devices."
+    1 string data = "Jediné, o co na oplátku žádala, byla její vlastní dílna, kde by se mohla věnovat svým věcem."
    [147]
-    1 string data = "The deal was struck, and together they designed the Clockwork Castle."
+    1 string data = "Uzavřeli dohodu a společně navrhli Mechanický hrad."
    [148]
-    1 string data = "The Watchmaker began drafting schematics for the kids to start production on, while she'd handle the more intricate parts herself."
+    1 string data = "Hodinářka začala kreslit schémata, podle kterých by děti mohly začít s výrobou, zatímco ona sama by se starala o složitější části."
    [149]
-    1 string data = "Meanwhile, Aephorul enchanted countless cogs and bricks, giving them an aura of magic that none could understand."
+    1 string data = "Mezitím Aephorul očaroval nespočet ozubených kol a cihel a dodal jim auru magie, které nikdo nerozuměl."
    [150]
-    1 string data = "Construction was almost complete when Caël and his crew made their move."
+    1 string data = "Stavba byla téměř dokončena, když se Caël a jeho parta rozhodli k činu."
    [151]
-    1 string data = "One night, they flipped exactly the right cogs so that once the castle's perpetual movement was activated, its core function would backfire."
+    1 string data = "Jedné noci přehodili právě ta správná ozubená kolečka, takže jakmile by se dal hrad do věčného pohybu, jeho klíčová funkce by se zvrtla."
    [152]
-    1 string data = "They had no goal in mind other than foiling The Fleshmancer's plans, and in that respect, they'd succeeded resoundingly."
+    1 string data = "Nešlo jim o nic jiného než zmařit plány Karnimanta, a v tomto ohledu se jim to podařilo na výbornou."
    [153]
-    1 string data = "What came of the sabotage was that time now came to a halt within the Clockwork Castle, or rather, within its inhabitants."
+    1 string data = "Ze sabotáže vzešlo zastavení času v Mechanickém hradu, respektive v jeho obyvatelích."
    [154]
-    1 string data = "And they had played their trick so well, that Aephorul didn't even know they'd done it on purpose."
+    1 string data = "A svůj trik zahráli tak dobře, že Aephorul v tom ani nepoznal jejich úmysl."
    [155]
-    1 string data = "There would be no impressing Resh'an this time, but he could definitely see some upsides to a workshop that operated forever."
+    1 string data = "Na Resh'ana by tentokrát žádný dojem neudělal, ale rozhodně viděl i pozitiva dílny, která byla ve věčním provozu."
    [156]
-    1 string data = "As a final touch, he ensured that any mortal leaving the castle would see themselves age instantly by the amount of time they'd spent inside."
+    1 string data = "Na závěr zajistil, že každý smrtelník, jež by hrad opustil, by okamžitě zestárnul podle doby, kterou v něm strávil."
    [157]
-    1 string data = "Upon completion, Aephorul locked everyone inside for a century, ensuring that The Watchmaker and the children could never leave, lest they die instantly of old age."
+    1 string data = "Po dokončení stavby Aephorul všechny uvnitř na sto let uzamkl a postaral se o to, aby Hodinářka ani děti nemohli nikdy odejít, jinak by okamžitě zemřeli stářím."
    [158]
-    1 string data = "The Watchmaker thought nothing of it, and relished the opportunity to focus on her craft for an eternity."
+    1 string data = "Hodinářka si z toho nic nedělala a vychutnávala si možnost soustředit se na své řemeslo po celou věčnost."
    [159]
-    1 string data = "Yet in this time prison, Caël and his friends would have to work day and night."
+    1 string data = "Přesto by v tomto časovém vězení Caël a jeho přátelé museli pracovat ve dne v noci."
    [160]
-    1 string data = "Proud of having done the right thing, it seems they are at peace with their situation. Perhaps getting to be kids forever helps, in a way."
+    1 string data = "Hrdí na to, že udělali správnou věc, se zdají být se svou situací smířeni. Možná jim svým způsobem pomáhá, že navždy zůstanou dětmi."
    [161]
-    1 string data = "From day one they would always deliver, while adding just the right amount of breakage to give The Fleshmancer countless headaches without raising suspicion."
+    1 string data = "Od prvního dne vždycky plnili očekávání, a přitom přimísili přesnou míru vad, aby Karnimantovi způsobili nesčetné bolesti hlavy, aniž by vzbudili podezření."
    [162]
-    1 string data = "One can only feel gratitude when contemplating the suffering that's been delayed, or even prevented, thanks to their cunning game of wasting Aephorul's time."
+    1 string data = "Člověk může cítit jen vděčnost, když pomýšlí na utrpení, které bylo oddáleno, nebo dokonce odvráceno díky jejich mazané hře plýtvání Aephorulovým časem."
    [163]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [164]
     1 string data = "Bylo to jako sen."
    [165]
@@ -413,19 +413,19 @@
    [199]
     1 string data = "V přestrojení za ním přišla Karnimantova Akolyta Dvojka a nabídla mu magický střep."
    [200]
-    1 string data = ""Tento starobylý střep vytvořili samotní Ovati,” lhala, dobře si vědoma Aventryho špatného rozpoložení."
+    1 string data = ""Tento starobylý střep vytvořili samotní Ovati," lhala, dobře si vědoma Aventryho špatného rozpoložení."
    [201]
-    1 string data = ""Na jeden den zahalí váš ostrov do úplné tmy, nepropustí měsíční ani sluneční světlo.”"
+    1 string data = ""Na jeden den zahalí váš ostrov do úplné tmy, nepropustí měsíční ani sluneční světlo.""
    [202]
-    1 string data = ""Moc mého nepřítele by...” přemítal, "Ale...”"
+    1 string data = ""Moc mého nepřítele by..." přemítal, "Ale...""
    [203]
-    1 string data = "Využitím vévodova smyslu pro čest mu Dvojka dala poslední popud: "Ten Bojovník Slunovratu také nehrál podle pravidel.”"
+    1 string data = "Využitím vévodova smyslu pro čest mu Dvojka dala poslední popud: "Ten Bojovník Slunovratu také nehrál podle pravidel.""
    [204]
-    1 string data = ""Chcete přece ochránit svůj lid, ne snad?” zeptala se."
+    1 string data = ""Chcete přece ochránit svůj lid, ne snad?" zeptala se."
    [205]
     1 string data = "Vévoda Aventry střep přijal a poděkoval jí za pomoc."
    [206]
-    1 string data = ""Jednoduše střep s jistotou rozbijte a jeho magie se probudí,” vysvětlila Dvojka, když byla na odchodu."
+    1 string data = ""Jednoduše střep s jistotou rozbijte a jeho magie se probudí," vysvětlila Dvojka, když byla na odchodu."
    [207]
     1 string data = "S rozbitím střepu nemeškal, a tak dobrovolným vyvoláním kletby nad svým ostrovem zahrál Akolytům přímo do karet."
    [208]
@@ -519,13 +519,13 @@
    [252]
     1 string data = "A tak jako pokaždé, když mu nějaký problém nepřinášel nic nového pro výzkum, nechal jeho řešení na někom jiném."
    [253]
-    1 string data = "Pěvci byli zkušení stavitelé. Sice se v technologii nevyznali tolik jako lidé, kteří postavili Vesmírnou základnu, ale to jediné, co potřeboval, byla obří konstrukce--bez jakýchkoliv úskoků."
+    1 string data = "Pěvci byli zkušení stavitelé. Sice se v technologii nevyznali tolik jako lidé, kteří postavili Vesmírnou základnu, ale on potřeboval jenom obří konstrukci - bez šizení."
    [254]
     1 string data = "S náležitou pobídkou v podobě rukojmích pověřil Aephorul tímto úkolem T'kora."
    [255]
     1 string data = "Byla sestavena pracovní skupina, která se pustila do stavby Svatosakrálních věží a falešného boha coby jejich středobodu: obra Es'tristae."
    [256]
-    1 string data = "Ale T'kor nebyl žádný hlupák--moc dobře věděl, že se Aephorul nezastaví, dokud všechno živé nevyužije nebo nezkazí."
+    1 string data = "Ale T'kor nebyl žádný hlupák - moc dobře věděl, že se Aephorul nezastaví, dokud nezneužije a nezkazí i poslední kousek života."
    [257]
     1 string data = "O třetí noci provedli Pěvci rituální zpěv, aby v T'korově mysli vyvolali vizi vzdálené budoucnosti..."
    [258]
@@ -533,21 +533,21 @@
    [259]
     1 string data = "...Velkoměsto zcela zničeno, z jeho země zbyl jen oceán modrého písku..."
    [260]
-    1 string data = "...Technologicky zdatní lidé, jejich duše odpoutány od vlastních těl a vloženy zlovolným strojem do kovových..."
+    1 string data = "...Technologicky zdatní lidé, jejich duše odpoutány od vlastních těl a zlovolným strojem vloženy do kybernetických..."
    [261]
-    1 string data = "...Donuceni žít v zoufalství, jejich mysl sloužící jako potrava pro rostoucí mořskou příšeru..."
+    1 string data = "...Donuceni žít v zoufalství, jejich mysl jako potrava pro rostoucí mořskou příšeru..."
    [262]
-    1 string data = "...Svět bez slunce, bez naděje--s Měsícem potopeným do hlubin moře..."
+    1 string data = "...Svět bez slunce, bez naděje - s Měsícem potopeným do hlubin moře..."
    [263]
     1 string data = "...A národ jeho samotného... Jak krutý osud..."
    [264]
-    1 string data = "...Hrdinové v budoucnosti, jediná šance pro tento svět, schopní, ale nemající možnost dostat se na Vesmírnou základnu bez elektřiny..."
+    1 string data = "...Hrdinové v budoucnosti, jediná šance pro tento svět, schopní, ale bez možnosti dostat se na Vesmírnou základnu bez napájení rychlodráhy..."
    [265]
-    1 string data = "Vize se vytratila a T'kor obrátil pozornost na snění krásného snu."
+    1 string data = "Vize se vytratila a T'kor obrátil pozornost na snění bujně živého snu."
    [266]
-    1 string data = "Další ráno se probudil s jasným cílem--až ten čas přijde, ti hrdinové budou mít potřebnou energii, aby osvobodili jejich svět."
+    1 string data = "Další ráno se probudil s jasným posláním - až nadejde čas, hrdinové musí mít potřebnou energii na osvobození jejich světa."
    [267]
-    1 string data = "Řešení muselo být tak jednoduché, že si ho Aephorul pro svůj elitářský pohled na svět ani nevšimne."
+    1 string data = "Řešení muselo být tak jednoduché, aby si ho Aephorul se svým elitářským pohledem na svět nevšimnul."
    [268]
     1 string data = "A tak postavili Es'tristae na vertikální elektrické kolejnici napojené na rozvodnou síť planety."
    [269]
@@ -555,19 +555,19 @@
    [270]
     1 string data = "Nejjednodušší podoba baterie, která po upuštění sjede po kolejnici a vrátí elektřinu do sítě."
    [271]
-    1 string data = "Jejich plán vyšel--Aephorul to celé považoval za pouhý umělecký prvek."
+    1 string data = "Jejich plán vyšel - Aephorul to celé považoval za pouhý umělecký prvek."
    [272]
     1 string data = "Staletí ubíhala a při vzestupu Karnimanta byl svět bezmocný, jak se naplňovaly T'korovy vize utrpení a zkázy."
    [273]
     1 string data = "Po celou tu dobu Es'tristae jen stál dál, aniž by mu Aephorul věnoval jakoukoliv další pozornost."
    [274]
-    1 string data = "Přes mnohá staletí bylo toto nouzové řešení schováno všem na očích, připraveno v budoucnu podpořit hrdiny v jejich poslední snaze osvobodit tento svět."
+    1 string data = "Přes mnohá staletí bylo toto nouzové řešení schováno všem na očích, připraveno v budoucnu pomoci hrdinům v jejich poslední snaze osvobodit tento svět."
    [275]
     1 string data = "I když se T'kor nedožil dne jejich příchodu, zemřel s vědomím, že jeho svět a lidé mají alespoň nějakou šanci."
    [276]
     1 string data = "Konec příběhu."
    [277]
-    1 string data = "This one is special--it's an adventurer's log! Might want to take some notes."
+    1 string data = "This one is special - it's an adventurer's log! Might want to take some notes."
    [278]
     1 string data = ""Joce's log - Cerulean Expedition Day 1."
    [279]
