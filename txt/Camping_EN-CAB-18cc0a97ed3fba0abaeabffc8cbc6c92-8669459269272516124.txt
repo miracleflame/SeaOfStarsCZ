@@ -175,7 +175,7 @@
    [80]
     1 string data = "Musíme se nějak dostat na zahradu."
    [81]
-    1 string data = "Na řadě je Přiživovačka žalu. Jsem připravena."
+    1 string data = "Na řadě je Přiživovačka žalu. Musím se připravit."
    [82]
     1 string data = "…"
    [83]
@@ -337,7 +337,7 @@
    [161]
     1 string data = "Erlina…"
    [162]
-    1 string data = "Jsem připraven."
+    1 string data = "Musím se připravit."
    [163]
     1 string data = "Ostrov Mesa. Konečně."
    [164]
@@ -481,7 +481,7 @@
    [233]
     1 string data = "Bylo to příjemné odpočinout si ve Veselí. Jako by byl s námi…"
    [234]
-    1 string data = "Jsem připravena."
+    1 string data = "Musím se připravit."
    [235]
     1 string data = "B'st je na tohle skvěle připravený, je fajn mít ho sebou."
    [236]
@@ -493,7 +493,7 @@
    [239]
     1 string data = "Měli bychom jít navštívit Caëla na ostrově Mesa."
    [240]
-    1 string data = "Brzy budeme bojovat s naším posledním Přiživovačem. Jsem připraven."
+    1 string data = "Brzy budeme bojovat s naším posledním Přiživovačem. Musím se připravit."
    [241]
     1 string data = "Ve Veselí to miluju tak moc, až mám pocit, že se každou chvíli objeví…"
    [242]

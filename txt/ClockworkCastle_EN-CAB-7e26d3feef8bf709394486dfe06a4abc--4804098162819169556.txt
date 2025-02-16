@@ -33,7 +33,7 @@
    [9]
     1 string data = "..."
    [10]
-    1 string data = "Potřebujeme jenom získat čas. Prosím, Zale, vzdejte se."
+    1 string data = "Potřebujeme jenom získat čas. Prosím, Zale, vzdejte to."
    [11]
     1 string data = "Na to zapomeň!"
    [12]

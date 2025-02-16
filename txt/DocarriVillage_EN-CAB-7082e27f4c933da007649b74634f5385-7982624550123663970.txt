@@ -199,7 +199,7 @@
    [92]
     1 string data = "..."
    [93]
-    1 string data = "A ty, lunární mniško, stačí pouhá jiskra a mohla bys to být ty, kdo by vytvoří cesty na vodě a konečně napraví spojení..."
+    1 string data = "A ty, lunární mniško, stačí pouhá jiskra a mohla bys to být ty, kdo vytvoří cesty na vodě a konečně napraví spojení..."
    [94]
     1 string data = "(...)"
    [95]
