@@ -291,25 +291,25 @@
    [138]
     1 string data = "Konec příběhu."
    [139]
-    1 string data = "Když Aephorul poprvé dorazil do naší říše, přivedl s sebou skupinu geniálních dětí."
+    1 string data = "Když Aephorul poprvé dorazil na náš svět, přivedl s sebou skupinu geniálních dětí."
    [140]
     1 string data = "Pokud se dá věřit pověstem, Caël a jeho přátelé s ním uzavřeli dohodu o osvobození svého lidu."
    [141]
-    1 string data = "V nové základně Karnimanta se měli dřít a vyrábět stroje pro obskurní použití v neznámých sférách."
+    1 string data = "V nové základně Karnimanta se měli dřít a vyrábět stroje pro nejasná použití na neznámých světech."
    [142]
     1 string data = "Takovou základnu však bylo třeba teprve vybudovat, a tak se Aephorul jako vždy vydal hledat nejlepšího spolupracovníka, jaký se dal najít."
    [143]
     1 string data = "Potřeboval někoho morálně neutrálního - neboť mu šlo o provedení, ne o soutěž."
    [144]
-    1 string data = "Kdyby postavil hrad, který by uvintř ovládal čas, dokázal by Resh'anovi tímto novým doupětem, že je nadřazený."
+    1 string data = "Kdyby postavil hrad, který by uvnitř ovládal čas, dokázal by Resh'anovi tímto novým doupětem, že je nadřazený."
    [145]
     1 string data = "Hodinářka se mu na to dokonale hodila. Zajímalo ji pouze její řemeslo a jinak se o Aephorulovy machinace nezajímala."
    [146]
-    1 string data = "Jediné, o co na oplátku žádala, byla její vlastní dílna, kde by se mohla věnovat svým věcem."
+    1 string data = "Jediné, co na oplátku žádala, byla její vlastní dílna, kde by se mohla věnovat svým věcem."
    [147]
     1 string data = "Uzavřeli dohodu a společně navrhli Mechanický hrad."
    [148]
-    1 string data = "Hodinářka začala kreslit schémata, podle kterých by děti mohly začít s výrobou, zatímco ona sama by se starala o složitější části."
+    1 string data = "Hodinářka začala kreslit schémata, podle kterých děti mohly začít s výrobou, zatímco ona sama se postarala o složitější části."
    [149]
     1 string data = "Mezitím Aephorul očaroval nespočet ozubených kol a cihel a dodal jim auru magie, které nikdo nerozuměl."
    [150]
@@ -325,13 +325,13 @@
    [155]
     1 string data = "Na Resh'ana by tentokrát žádný dojem neudělal, ale rozhodně viděl i pozitiva dílny, která byla ve věčním provozu."
    [156]
-    1 string data = "Na závěr zajistil, že každý smrtelník, jež by hrad opustil, by okamžitě zestárnul podle doby, kterou v něm strávil."
+    1 string data = "Na závěr zajistil, aby každý smrtelník, jenž by hrad opustil, okamžitě zestárnul podle doby, kterou v něm strávil."
    [157]
-    1 string data = "Po dokončení stavby Aephorul všechny uvnitř na sto let uzamkl a postaral se o to, aby Hodinářka ani děti nemohli nikdy odejít, jinak by okamžitě zemřeli stářím."
+    1 string data = "Po dokončení stavby Aephorul všechny na sto let uzamkl uvnitř, a tím se postaral o to, aby Hodinářka ani děti nemohly nikdy odejít, jinak by okamžitě zemřely stářím."
    [158]
     1 string data = "Hodinářka si z toho nic nedělala a vychutnávala si možnost soustředit se na své řemeslo po celou věčnost."
    [159]
-    1 string data = "Přesto by v tomto časovém vězení Caël a jeho přátelé museli pracovat ve dne v noci."
+    1 string data = "Přesto v tomto časovém vězení museli Caël a jeho přátelé pracovat ve dne v noci."
    [160]
     1 string data = "Hrdí na to, že udělali správnou věc, se zdají být se svou situací smířeni. Možná jim svým způsobem pomáhá, že navždy zůstanou dětmi."
    [161]
