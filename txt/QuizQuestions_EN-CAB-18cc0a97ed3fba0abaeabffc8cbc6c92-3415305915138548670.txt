@@ -539,29 +539,29 @@
    [262]
     1 string data = "Bufet"
    [263]
-    1 string data = "Of the following skills, which is the one that can cause enemy displacement?"
+    1 string data = "Která z následujících dovedností může změnit pozici nepřátel?"
    [264]
-    1 string data = "Crescent Arc"
+    1 string data = "Srpkový oblouk"
    [265]
-    1 string data = "Abeyance"
+    1 string data = "Pohov"
    [266]
-    1 string data = "Solstice Strike"
+    1 string data = "Úder Slunovratu"
    [267]
-    1 string data = "Phase Shiv"
+    1 string data = "Fázová kudla"
    [268]
-    1 string data = "Pravda nebo nepravda: The only two enemies present in the Air Elemental Skyland are the Sling Rabbit and the Braidzard."
+    1 string data = "Pravda nebo nepravda: Jediní dva nepřátelé v Nebeské zemi vzdušného živlu jsou Králík Sling a Pletoděj."
    [269]
     1 string data = "PRAVDA"
    [270]
     1 string data = "NEPRAVDA"
    [271]
-    1 string data = "Pravda nebo nepravda: The Cloud Kingdom is ruled by a king and a queen."
+    1 string data = "Pravda nebo nepravda: Oblačnému království vládne král s královnou."
    [272]
     1 string data = "PRAVDA"
    [273]
     1 string data = "NEPRAVDA"
    [274]
-    1 string data = "Excluding Puntie and The Council, how many Sky Giants are there in Cloud Kingdom?"
+    1 string data = "Když nepočítáme Puntie a radu, kolik Nebeských obrů se nachází v Oblačném království?"
    [275]
     1 string data = "3"
    [276]
@@ -571,27 +571,27 @@
    [278]
     1 string data = "9"
    [279]
-    1 string data = "What was the name of the lava monster guarding what is now known as Kiln Mountain?"
+    1 string data = "Jak se jmenovala lávová příšera, která strážila horu, které se teď říká Pec?"
    [280]
-    1 string data = "Magmamphibian"
+    1 string data = "Magmoživelník"
    [281]
-    1 string data = "Toadcano"
+    1 string data = "Sopucha"
    [282]
-    1 string data = "Frogcano"
+    1 string data = "Žabovulkán"
    [283]
-    1 string data = "Volcanoad"
+    1 string data = "Vulpucha"
    [284]
-    1 string data = "To gain 15% bonus damage versus undead targets, which of these trinkets should one equip?"
+    1 string data = "Který z těchto předmětů si vezmete, abyste získali 15% bonusové poškození proti nemrtvým?"
    [285]
-    1 string data = "Spirit of Ninja"
+    1 string data = "Duch nindži"
    [286]
-    1 string data = "Power Belt"
+    1 string data = "Silový opasek"
    [287]
-    1 string data = "Shimmering Shard"
+    1 string data = "Třpytivý střep"
    [288]
-    1 string data = "Green Leaf"
+    1 string data = "Jehličí"
    [289]
-    1 string data = "What name did Garl give the Sky Serpent formerly known as The Sleeper?"
+    1 string data = "Jaké jméno dal Garl Nebeskému hadovi, kterému se dříve říkalo Spáč?"
    [290]
     1 string data = "Wentworth"
    [291]
@@ -601,79 +601,79 @@
    [293]
     1 string data = "Kamme"
    [294]
-    1 string data = "Who taught Zale to use the combat skill Dash Strike?"
+    1 string data = "Kdo naučil Zalea bojovou dovednost Řetězový úder?"
    [295]
-    1 string data = "Malkomud and Rockie"
+    1 string data = "Malkomud a Rockie"
    [296]
-    1 string data = "Duke Aventry"
+    1 string data = "Vévoda Aventry"
    [297]
     1 string data = "Seraï"
    [298]
     1 string data = "Romaya"
    [299]
-    1 string data = "What is the name of the haute cuisine restaurant found in the Port Town of Brisk?"
+    1 string data = "Jak se jmenuje luxusní restaurace v přístavním městě Svěžíně?"
    [300]
-    1 string data = "The Gilded Seagull"
+    1 string data = "U Pozlaceného racka"
    [301]
-    1 string data = "The Folded Cardigan"
+    1 string data = "U Složeného svetru"
    [302]
-    1 string data = "The Golden Pelican"
+    1 string data = "U Zlatého pelikána"
    [303]
-    1 string data = "The Haughty Cormoran"
+    1 string data = "U Povýšeného kormorána"
    [304]
-    1 string data = "What is Big Buggy's special attack called?"
+    1 string data = "Jak se jmenuje speciální útok Bigbrouka?"
    [305]
-    1 string data = "Stalagbite"
+    1 string data = "Stalagštip"
    [306]
-    1 string data = "Tectonics"
+    1 string data = "Tektonika"
    [307]
-    1 string data = "Geopuncture"
+    1 string data = "Geopunktura"
    [308]
-    1 string data = "Stomp"
+    1 string data = "Dupnutí"
    [309]
-    1 string data = "Of these ingredients, which one is NOT part of the recipe to make a Parfait?"
+    1 string data = "Která z těchto ingrediencí NENÍ součástí receptu na Parfait?"
    [310]
-    1 string data = "Dairy"
+    1 string data = "Mléko"
    [311]
-    1 string data = "Peach"
+    1 string data = "Broskev"
    [312]
-    1 string data = "Red berry"
+    1 string data = "Červené bobule"
    [313]
-    1 string data = "Maple syrup"
+    1 string data = "Javorový syrup"
    [314]
-    1 string data = "Pravda nebo nepravda: The monstrosity found in The Fleshmancer's Workshop had more than four tentacles."
+    1 string data = "Pravda nebo nepravda: Obludnost v Karnimantově dílně měla více než čtyři chapadla."
    [315]
     1 string data = "PRAVDA"
    [316]
     1 string data = "NEPRAVDA"
    [317]
-    1 string data = "Pravda nebo nepravda: Seraï's computer companion is named Cedrick."
+    1 string data = "Pravda nebo nepravda: Seraïin počítačový asistent se jmenuje Cedrick."
    [318]
     1 string data = "PRAVDA"
    [319]
     1 string data = "NEPRAVDA"
    [320]
-    1 string data = "Who invented the famous board game Wheels?"
+    1 string data = "Kdo vynalezl slavnou stolní hru Kotouče?"
    [321]
     1 string data = "Caël"
    [322]
-    1 string data = "The Watchmaker"
+    1 string data = "Hodinářka"
    [323]
-    1 string data = "The Fleshmancer"
+    1 string data = "Karnimant"
    [324]
-    1 string data = "Yolande"
+    1 string data = "Yolanda"
    [325]
-    1 string data = "Of the following species, which one can NOT be fished on Cerulean Island?"
+    1 string data = "Který z následujících druhů NEMŮŽE být uloven na Azurovém ostrově?"
    [326]
-    1 string data = "Cybernardl'Hermite"
+    1 string data = "Kyberrak poustevníček"
    [327]
-    1 string data = "Laser Burbot"
+    1 string data = "Mník laserový"
    [328]
-    1 string data = "Rock Shrimp"
+    1 string data = "Kreveta skalní"
    [329]
-    1 string data = "Silicium Sponge"
+    1 string data = "Houba křemíková"
    [330]
-    1 string data = "How many units of fish are required to make one portion of Sashimi?"
+    1 string data = "Kolik ryb je potřeba na jedno Sashimi?"
    [331]
     1 string data = "4"
    [332]
@@ -683,79 +683,79 @@
    [334]
     1 string data = "9"
    [335]
-    1 string data = "Of the following skills, which one costs the LEAST amount of MP?"
+    1 string data = "Která z následujících dovedností stojí NEJMÉNĚ BM?"
    [336]
-    1 string data = "Disorient"
+    1 string data = "Dezorientace"
    [337]
-    1 string data = "Ebb"
+    1 string data = "Odliv"
    [338]
-    1 string data = "Warble"
+    1 string data = "Trylkovat"
    [339]
-    1 string data = "Lunar Shield"
+    1 string data = "Lunární štít"
    [340]
-    1 string data = "What is the name of Seraï and Resh'an's combo attack?"
+    1 string data = "Jak se jmenuje kombo útok Seraï a Resh'ana?"
    [341]
-    1 string data = "Arcane Shiv"
+    1 string data = "Arkánová kudla"
    [342]
-    1 string data = "Arcane Barrage"
+    1 string data = "Arkánová palba"
    [343]
-    1 string data = "Potion Kick"
+    1 string data = "Lektvarový kopanec"
    [344]
-    1 string data = "Arcane Flurry"
+    1 string data = "Arkánová smršť"
    [345]
-    1 string data = "Which of these enemies does NOT appear in the Derelict Factory?"
+    1 string data = "Který z těchto nepřátel se NEOBJEVUJE ve Zpustlé továrně?"
    [346]
-    1 string data = "Hoarsemech"
+    1 string data = "Hřemech"
    [347]
-    1 string data = "Drone"
+    1 string data = "Dron"
    [348]
-    1 string data = "Ronin Cowboy"
+    1 string data = "Kovboj Ronin"
    [349]
-    1 string data = "Turret"
+    1 string data = "Věž"
    [350]
-    1 string data = "What is Seraï's village called?"
+    1 string data = "Jak se jmenuje Seraïina vesnice?"
    [351]
-    1 string data = "Repine"
+    1 string data = "Repot"
    [352]
-    1 string data = "Languor"
+    1 string data = "Malátnost"
    [353]
-    1 string data = "Drear"
+    1 string data = "Chmur"
    [354]
-    1 string data = "Dread"
+    1 string data = "Děs"
    [355]
-    1 string data = "In our home world, which entity is in charge of granting access to the Sea of Stars?"
+    1 string data = "Která entita se v našem domovském světě stará o přístup do Moře hvězd?"
    [356]
-    1 string data = "The Oracle of Tides"
+    1 string data = "Věštec přílivů a odlivů"
    [357]
-    1 string data = "The Elder Mist"
+    1 string data = "Mlžný stařešina"
    [358]
-    1 string data = "The Sky Giants Council"
+    1 string data = "Rada nebeských obrů"
    [359]
-    1 string data = "The Great Eagle"
+    1 string data = "Velký orel"
    [360]
-    1 string data = "Pravda nebo nepravda: The Dweller living at the bottom of the Infinite Abyss was called the Dweller of Dead."
+    1 string data = "Pravda nebo nepravda: Přiživovač žijící na dně Nekonečné hlubiny se jmenoval Přiživovač děsu."
    [361]
     1 string data = "PRAVDA"
    [362]
     1 string data = "NEPRAVDA"
    [363]
-    1 string data = "Pravda nebo nepravda: Seraï and her people were turned into cyborgs by a machine called The Catalyst."
+    1 string data = "Pravda nebo nepravda: Seraï a její lidé byli proměněni v kyborgy strojem jménem Catalyst."
    [364]
     1 string data = "PRAVDA"
    [365]
     1 string data = "NEPRAVDA"
    [366]
-    1 string data = "Why did Seraï leave her home world?"
+    1 string data = "Proč Seraï opustila svůj domovský svět?"
    [367]
-    1 string data = "To take a break"
+    1 string data = "Aby si odpočinula"
    [368]
-    1 string data = "To find Solstice Warriors"
+    1 string data = "Aby našla Bojovníky Slunovratu"
    [369]
-    1 string data = "To meet with The Elder Mist"
+    1 string data = "Aby se setkala s Mlžným stařešinou"
    [370]
-    1 string data = "To become a pirate"
+    1 string data = "Aby se stala pirátkou"
    [371]
-    1 string data = "Of these three names, which one was NOT a member of the Triumvirate of Eminence?"
+    1 string data = "Které z těchto jmen NEMĚL žádný člen Triumvirátu Eminence?"
    [372]
     1 string data = "Casugin"
    [373]
@@ -763,27 +763,27 @@
    [374]
     1 string data = "Retrachter"
    [375]
-    1 string data = "Of these items, which one is NOT for sale in Sky Base's vending machine?"
+    1 string data = "Který z těchto předmětů NENÍ na prodej v automatu na Vesmírné základně?"
    [376]
-    1 string data = "Wireplate Armor"
+    1 string data = "Drátěná zbroj"
    [377]
-    1 string data = "Neobsidian Staff"
+    1 string data = "Neoobsidiánová hůl"
    [378]
-    1 string data = "Plasma Daggers"
+    1 string data = "Plazmové dýky"
    [379]
-    1 string data = "Rosewood Cork"
+    1 string data = "Palisandrová zátka"
    [380]
-    1 string data = "What type of object was hidden in plain sight on Es'tristae, the giant statue at the center of the Sacrosanct Spires?"
+    1 string data = "Jaký předmět byl ukryt na Es'tristae, obří soše uprostřed Svatosakrálních věží?"
    [381]
-    1 string data = "A giant megaphone"
+    1 string data = "Obří megafon"
    [382]
-    1 string data = "A gravity-based battery"
+    1 string data = "Gravitační baterie"
    [383]
-    1 string data = "A portable house"
+    1 string data = "Přenosný dům"
    [384]
-    1 string data = "A speedball"
+    1 string data = "Kabina rychlodráhy"
    [385]
-    1 string data = "At a minimum, how many Combo Points must be spent to fill the ultimate bar?"
+    1 string data = "Kolik Kombo bodů je třeba použít k naplnění prázdného ukazatele ultimátního útoku?"
    [386]
     1 string data = "7"
    [387]
@@ -801,39 +801,39 @@
    [393]
     1 string data = "Genius incarnate"
    [394]
-    1 string data = "In Sky Base's final rest area before The Catalyst's room, which of these elements was NOT present?"
+    1 string data = "Který z těchto prvků se NENACHÁZÍ v odpočinkové místnosti před Catalystem na Vesmírné základně?"
    [395]
-    1 string data = "A vending machine"
+    1 string data = "Automat"
    [396]
-    1 string data = "A save point"
+    1 string data = "Místo k uložení"
    [397]
-    1 string data = "A window"
+    1 string data = "Okno"
    [398]
-    1 string data = "A teleporter to the entrance"
+    1 string data = "Teleportér k východu"
    [399]
-    1 string data = "What is the name of the Dweller of Dread's ultimate attack?"
+    1 string data = "Jak se jmenuje ultimátní útok Přiživovače hrůzy?"
    [400]
-    1 string data = "Visions of Fear"
+    1 string data = "Vize strachu"
    [401]
-    1 string data = "Dead Stare"
+    1 string data = "Pohled smrti"
    [402]
-    1 string data = "Night Mare"
+    1 string data = "Noční můra"
    [403]
-    1 string data = "Dread Stare"
+    1 string data = "Pohled hrůzy"
    [404]
-    1 string data = "Pravda nebo nepravda: The Fleshmancer's Lair is to the east of the Sacrosanct Spires."
+    1 string data = "Pravda nebo nepravda: Karnimantovo doupě se nachází východně od Svatosakrálních věží."
    [405]
     1 string data = "PRAVDA"
    [406]
     1 string data = "NEPRAVDA"
    [407]
-    1 string data = "Pravda nebo nepravda: There is a hidden oasis with treasure chests in the Cerulean Expanse."
+    1 string data = "Pravda nebo nepravda: V Azurové pustině je skrytá oáza s truhlami s pokladem."
    [408]
     1 string data = "PRAVDA"
    [409]
     1 string data = "NEPRAVDA"
    [410]
-    1 string data = "What was the name given to Erlina along with her new form?"
+    1 string data = "Jaké jméno dostala Erlina spolu se svou novou podobou?"
    [411]
     1 string data = "Elysan'darëlle"
    [412]
@@ -851,13 +851,13 @@
    [418]
     1 string data = "Comeuppance"
    [419]
-    1 string data = "Of these combo moves, which one costs the least amount of Combo Points?"
+    1 string data = "Která z těchto kombo dovedností stojí nejmíň Kombo bodů?"
    [420]
-    1 string data = "Moon Shiv"
+    1 string data = "Měsíční kudla"
    [421]
-    1 string data = "X-Strike"
+    1 string data = "Zásah do X"
    [422]
-    1 string data = "Conflagrate"
+    1 string data = "Podpal"
    [423]
     1 string data = "What is the meaning behind the enemy with "OAF" as a name?"
    [424]
@@ -869,7 +869,7 @@
    [427]
     1 string data = "Over All Famous"
    [428]
-    1 string data = "During the vision of The Humble Boast in the Fleshmancer's Lair, what was the name of the employee the innkeeper was looking for?"
+    1 string data = "Jak se jmenoval zaměstnanec, kterého sháněla hostinská ve vizi Skromné chlouby v Karnimantově doupěti?"
    [429]
     1 string data = "Nicole"
    [430]
@@ -877,7 +877,7 @@
    [431]
     1 string data = "Carl"
    [432]
-    1 string data = "How much HP is recovered from eating a Gourmet Burger?"
+    1 string data = "Kolik BŽ obnovuje Gourmet Burger?"
    [433]
     1 string data = "175"
    [434]
@@ -887,7 +887,7 @@
    [436]
     1 string data = "160"
    [437]
-    1 string data = "What is the name of the Phase Reaper's ultimate attack?"
+    1 string data = "Jak se jmenuje ultimátní útok Fázového žence?"
    [438]
     1 string data = "Phase Strike"
    [439]
@@ -897,15 +897,15 @@
    [441]
     1 string data = "Billowing Strike"
    [442]
-    1 string data = "What was LeJugg's color transition when he went from his first to his second form?"
+    1 string data = "Jak se změnila LeJuggova barva, když přešel z první fáze do druhé?"
    [443]
-    1 string data = "From red to blue"
+    1 string data = "Z červené na modrou"
    [444]
-    1 string data = "From blue to red"
+    1 string data = "Z modré na červenou"
    [445]
-    1 string data = "From gray to yellow"
+    1 string data = "Z šedé na žlutou"
    [446]
-    1 string data = "When fighting the Gun Goddess, how many bullets would be fired by "Fan the hammer" if two had previously been destroyed?"
+    1 string data = "Kolik nábojů vystřelí Bohyně zbraní při "Rychlé palbě", pokud už dva byly předtím zničeny?"
    [447]
     1 string data = "3"
    [448]
@@ -917,17 +917,17 @@
    [451]
     1 string data = "10"
    [452]
-    1 string data = "After focusing Aephorul on a diversion, Resh'an placed an anchor in time linked to a magic device he would later place in the Moorlands. What is the device called?"
+    1 string data = "Po tom, co odvedl Aephorulovu pozornost, Resh'an umístil háček v čase napojený na magické zařízení, které později zanechal ve Vřesovišti. Jak se to zařízení jmenuje?"
    [453]
-    1 string data = "The Time Egg"
+    1 string data = "Časovejce"
    [454]
-    1 string data = "The Resurrect Clock"
+    1 string data = "Hodiny vzkříšení"
    [455]
-    1 string data = "The Chronophage"
+    1 string data = "Chronofág"
    [456]
-    1 string data = "The Portal Frame"
+    1 string data = "Rám portálu"
    [457]
-    1 string data = "What was the name of the one in charge of the team that built Es'tristae?"
+    1 string data = "Kdo byl pověřen vedením skupiny, která postavila Es'tristae?"
    [458]
     1 string data = "X'tol"
    [459]
@@ -937,27 +937,27 @@
    [461]
     1 string data = "R'tok"
    [462]
-    1 string data = "What were the names of three people in charge of the Cerulean Expedition that found the clues which led to The Queen That Was?"
+    1 string data = "Jak se jmenovali tři velitelé Azurové expedice, kteří našli vodítka k nalezení Královny, jež byla?"
    [463]
-    1 string data = "Joce, Brochu and Elbi"
+    1 string data = "Joce, Brochu a Elbi"
    [464]
-    1 string data = "Joyce, Dubreux and Elbi"
+    1 string data = "Joyce, Dubreux a Elbi"
    [465]
-    1 string data = "Joss, Brochet and Elbi"
+    1 string data = "Joss, Brochet a Elbi"
    [466]
-    1 string data = "Josh, Dubreux and Elbi"
+    1 string data = "Josh, Dubreux a Elbi"
    [467]
-    1 string data = "During the ancient battle between the Molekin mages and the Kunus'nuku zealots, what is the name used to refer to the moment when the Sky Serpent appeared?"
+    1 string data = "Jak se říká události, při které se během dávné bitvy mezi molekinskými mágy a uctívači Kunus'nuku objevil Nebeský had?"
    [468]
-    1 string data = "The Great Cataclysm"
+    1 string data = "Velká katastrofa"
    [469]
-    1 string data = "The Great Summoning"
+    1 string data = "Velké přivolání"
    [470]
-    1 string data = "The Great Conjuring"
+    1 string data = "Velké čarování"
    [471]
-    1 string data = "The Great Collapse"
+    1 string data = "Velký kolaps"
    [472]
-    1 string data = "What number is obtained by putting together the base MP costs of Moonerang and Dash Strike, then subtracting the MP cost of Petrichor?"
+    1 string data = "Jaké číslo dostaneme, když sečteme základní ceny BM Lunarangu a Řetězového úderu a následně odečteme cenu BM Petrichoru?"
    [473]
     1 string data = "0"
    [474]
@@ -967,17 +967,17 @@
    [476]
     1 string data = "9"
    [477]
-    1 string data = "When playing Wheels, which of these units deals the most damage to the enemy's bulwark (wall)?"
+    1 string data = "Která jednotka nejvíce poškodí hradbu protivníka při hře Kotoučů?"
    [478]
-    1 string data = "Level 2 Warrior"
+    1 string data = "Válečník úrovně 2"
    [479]
-    1 string data = "Level 1 Engineer"
+    1 string data = "Stavitel úrovně 1"
    [480]
-    1 string data = "Level 2 Priest"
+    1 string data = "Kněz úrovně 2"
    [481]
-    1 string data = "Level 2 Mage"
+    1 string data = "Čaroděj úrovně 2"
    [482]
-    1 string data = "Across all fishing lakes, how many unique species are there to be caught?"
+    1 string data = "Kolik jednotlivých druhů ryb se dá chytit napříč všemi jezery na rybaření?"
    [483]
     1 string data = "12"
    [484]
@@ -987,42 +987,42 @@
    [486]
     1 string data = "23"
    [487]
-    1 string data = "Which of the Fleshmancer Acolytes gave Duke Aventry the magic shard that would summon the Night Shroud?"
+    1 string data = "Kdo z Karnimantových Akolytů dal vévodovi Aventrymu kouzelný střep, který vyvolal Noční závoj?"
    [488]
-    1 string data = "One"
+    1 string data = "Jednička"
    [489]
-    1 string data = "Two"
+    1 string data = "Dvojka"
    [490]
-    1 string data = "Three"
+    1 string data = "Trojka"
    [491]
-    1 string data = "Four"
+    1 string data = "Čtyřka"
    [492]
-    1 string data = "In his pursuit to achieve the great alchemical feat known as Living Glass, what was the one ingredient Resh'an had always been missing in his subject?"
+    1 string data = "Jaká ingredience Resh'anovi vždy u subjektů chyběla při snaze dosáhnout velkého alchymistického počinu známého jako Živoucí sklo?"
    [493]
-    1 string data = "Unbeatable wits"
+    1 string data = "Nepřekonatelný důvtip"
    [494]
-    1 string data = "Unwavering courage"
+    1 string data = "Neochvějná odvaha"
    [495]
-    1 string data = "Unfathomable strength"
+    1 string data = "Nepochopitelná síla"
    [496]
-    1 string data = "Unbreakable will"
+    1 string data = "Nezlomná vůle"
    [497]
-    1 string data = "Here in Lucent, which item had to be given to a ghost in order to obtain the key that unlocked the shed?"
+    1 string data = "Který předmět jste museli dát tady v Lucentu duchovi, abyste získali klíč od kůlny?"
    [498]
-    1 string data = "Ectoplasm Pasta"
+    1 string data = "Ektoplazmatické těstoviny"
    [499]
-    1 string data = "Turbo Cookie"
+    1 string data = "Turbo sušenka"
    [500]
-    1 string data = "Spectral Pastry"
+    1 string data = "Spektrální cukroví"
    [501]
-    1 string data = "Bone Burger"
+    1 string data = "Kostěný burgr"
    [502]
-    1 string data = "Which of these areas appeared first in [MAINCHAR] and [OFFCHAR]'s adventure?"
+    1 string data = "Která z těchto oblastí se v dobrodružství Zalea a Valerie objevila nejdřív?"
    [503]
-    1 string data = "Autumn Hills"
+    1 string data = "Podzimní kopce"
    [504]
-    1 string data = "Songshroom Marsh"
+    1 string data = "Bažina zpěvných hub"
    [505]
-    1 string data = "Glacial Peak"
+    1 string data = "Ledovcový vrch"
    [506]
-    1 string data = "Clockwork Castle"
+    1 string data = "Mechanický hrad"
