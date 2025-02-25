@@ -253,8 +253,8 @@
    [119]
     1 string data = "Cvičný krab"
    [120]
-    1 string data = "OAF"
+    1 string data = "PCH"
    [121]
-    1 string data = "Catalyst"
+    1 string data = "Katalyzátor"
    [122]
     1 string data = "Cvičný panák"

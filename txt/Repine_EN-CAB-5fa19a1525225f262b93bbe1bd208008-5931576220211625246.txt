@@ -245,7 +245,7 @@
    [115]
     1 string data = "Dostaňte ho z mé hlavy..."
    [116]
-    1 string data = "Catalyst... ta bolest..."
+    1 string data = "Katalyzátor... ta bolest..."
    [117]
     1 string data = "Dříve jsem cítil..."
    [118]

@@ -79,7 +79,7 @@
    [32]
     1 string data = "Ano."
    [33]
-    1 string data = "<color=bad>Catalyst</color>, inteligentní zlý stroj, z nás všech postupně udělal kyborgy..."
+    1 string data = "<color=bad>Katalyzátor</color>, inteligentní zlý stroj, z nás všech postupně udělal kyborgy..."
    [34]
     1 string data = "A takhle, bez možnosti zemřít, moji lidé bezmocně setrvávají naživu, zatímco jim <color=bad>Přiživovač hrůzy</color> pomalu požírá duše."
    [35]

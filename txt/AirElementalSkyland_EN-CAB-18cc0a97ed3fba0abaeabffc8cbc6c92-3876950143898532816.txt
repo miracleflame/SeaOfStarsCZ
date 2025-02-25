@@ -19,7 +19,7 @@
    [2]
     1 string data = "Lze jej použít k rozbití toho druhého?"
    [3]
-    1 string data = "Bezpochyby, ale nepohne se."
+    1 string data = "Bezpochyby, jenomže se ani nehne."
    [4]
     1 string data = "..."
    [5]
@@ -31,9 +31,9 @@
    [8]
     1 string data = "Co třeba korálové kladivo?"
    [9]
-    1 string data = "Pojďme se na to podívat."
+    1 string data = "Uvidíme."
    [10]
-    1 string data = "Na. Tohle bude fungovat."
+    1 string data = "Tumáš. Tohle bude fungovat."
    [11]
     1 string data = "Díky, Resh'ane!"
    [12]

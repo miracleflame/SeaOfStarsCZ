@@ -713,11 +713,11 @@
    [349]
     1 string data = "Věž"
    [350]
-    1 string data = "Jak se jmenuje Seraïina vesnice?"
+    1 string data = "Jak se jmenuje Seraïina osada?"
    [351]
     1 string data = "Repot"
    [352]
-    1 string data = "Malátnost"
+    1 string data = "Šoufl"
    [353]
     1 string data = "Chmur"
    [354]
@@ -739,7 +739,7 @@
    [362]
     1 string data = "NEPRAVDA"
    [363]
-    1 string data = "Pravda nebo nepravda: Seraï a její lidé byli proměněni v kyborgy strojem jménem Catalyst."
+    1 string data = "Pravda nebo nepravda: Seraï a její lidé byli proměněni v kyborgy strojem jménem Katalyzátor."
    [364]
     1 string data = "PRAVDA"
    [365]
@@ -801,7 +801,7 @@
    [393]
     1 string data = "Genius incarnate"
    [394]
-    1 string data = "Který z těchto prvků se NENACHÁZÍ v odpočinkové místnosti před Catalystem na Vesmírné základně?"
+    1 string data = "Který z těchto prvků se NENACHÁZÍ v odpočinkové místnosti před Katalyzátorem na Vesmírné základně?"
    [395]
     1 string data = "Automat"
    [396]
@@ -859,15 +859,15 @@
    [422]
     1 string data = "Podpal"
    [423]
-    1 string data = "What is the meaning behind the enemy with "OAF" as a name?"
+    1 string data = "Co má vlastně znamenat akronym ve jméně nepřítele "PCH"?"
    [424]
-    1 string data = "Over Again Fail"
+    1 string data = "Plno Chyb"
    [425]
-    1 string data = "Open All Fears"
+    1 string data = "Pouze Chapadla"
    [426]
-    1 string data = "Oops All Feet"
+    1 string data = "Pouze Chodidla"
    [427]
-    1 string data = "Over All Famous"
+    1 string data = "Pravý Chlapák"
    [428]
     1 string data = "Jak se jmenoval zaměstnanec, kterého sháněla hostinská ve vizi Skromné chlouby v Karnimantově doupěti?"
    [429]
@@ -889,13 +889,13 @@
    [437]
     1 string data = "Jak se jmenuje ultimátní útok Fázového žence?"
    [438]
-    1 string data = "Phase Strike"
+    1 string data = "Fázový švih"
    [439]
-    1 string data = "Flowering Breath"
+    1 string data = "Bujný dech"
    [440]
-    1 string data = "Flourishing Death"
+    1 string data = "Rozkvět smrti"
    [441]
-    1 string data = "Billowing Strike"
+    1 string data = "Dmoucí švih"
    [442]
     1 string data = "Jak se změnila LeJuggova barva, když přešel z první fáze do druhé?"
    [443]
@@ -1013,7 +1013,7 @@
    [499]
     1 string data = "Turbo sušenka"
    [500]
-    1 string data = "Spektrální cukroví"
+    1 string data = "Spektrální moučník"
    [501]
     1 string data = "Kostěný burgr"
    [502]

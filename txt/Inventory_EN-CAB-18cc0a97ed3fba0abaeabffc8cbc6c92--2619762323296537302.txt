@@ -1379,7 +1379,7 @@
    [682]
     1 string data = "Jádro AI"
    [683]
-    1 string data = "Nalezeno, jak žije uvnitř nechvalně proslulého Catalystu."
+    1 string data = "Nalezeno, jak žije uvnitř nechvalně proslulého Katalyzátoru."
    [684]
     1 string data = "Aventryho medailonek"
    [685]

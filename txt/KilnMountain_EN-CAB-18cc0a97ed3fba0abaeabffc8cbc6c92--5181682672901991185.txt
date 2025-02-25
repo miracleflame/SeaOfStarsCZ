@@ -19,9 +19,9 @@
    [2]
     1 string data = "Sopka je otevřena."
    [3]
-    1 string data = "Vykliďme to tu, aby Garl a Malkomud mohli udělat svou věc."
+    1 string data = "Vykliďme to tu, aby Garl a Malkomud mohli udělat své."
    [4]
-    1 string data = "Jdu hned za váma."
+    1 string data = "Jdu hned za tebou."
    [5]
     1 string data = "Tvůj <color=magic>Mistrálový náramek</color> by to měl zvládnout odtlačit."
    [6]
@@ -71,7 +71,7 @@
    [28]
     1 string data = "..."
    [29]
-    1 string data = "Jen seď, anoo? My odneseme obilí."
+    1 string data = "Jen seď, ano? My to obilí odneseme."
    [30]
     1 string data = "Ale..."
    [31]
@@ -111,15 +111,15 @@
    [48]
     1 string data = "No, a jsi rád, že jsi to pro mě udělal?"
    [49]
-    1 string data = "Ano, ale doufám, že se ti líbí."
+    1 string data = "Ano, ale doufám, že se ti to bude líbit."
    [50]
     1 string data = "Určitě ano, Malkomude."
    [51]
     1 string data = "Vzpomínám si na vás. Můžete se také podívat."
    [52]
-    1 string data = "Ano!"
+    1 string data = "Jo!"
    [53]
-    1 string data = "Ano, ano!"
+    1 string data = "Jo, jo!"
    [54]
     1 string data = "Takže obilí jde nahoru, pomele se tam..."
    [55]
@@ -155,7 +155,7 @@
    [70]
     1 string data = "Co? Byla to kouzelná lupa?"
    [71]
-    1 string data = "Ale ne, použil jsem jí k soustředění slunečního světla přímo na runu."
+    1 string data = "Ale ne, použil jsem jí k soustředění slunečního paprsku přímo na runu."
    [72]
     1 string data = "Dávalo mi to smysl, tak jsem to vyskoušel a ono to zabralo! Paprsek však nebyl moc silný."
    [73]
@@ -173,7 +173,7 @@
    [79]
     1 string data = "Ale chytili mě, jenomže už jsem byl mimo jejich dosah, když mě babička uviděla."
    [80]
-    1 string data = "Kéž bych mohl vidět její tvář!"
+    1 string data = "Kéž bych mohla vidět její tvář!"
    [81]
     1 string data = "Věř mi, raději bych ji neviděl."
    [82]
@@ -181,7 +181,7 @@
    [83]
     1 string data = "Ahh... GAH..."
    [84]
-    1 string data = "*kašle kašle*"
+    1 string data = "*kašel kašel*"
    [85]
     1 string data = "Garle!"
    [86]
@@ -209,7 +209,7 @@
    [97]
     1 string data = "Děkuji ti, zvědavče, za tento bezprecedentní akt dobroty a velkorysosti."
    [98]
-    1 string data = "Díky tvému výtvoru živly uklidnily mou dlouho sužovanou duši."
+    1 string data = "Díky tvému výtvoru živly ukonejšili mou dlouho sužovanou duši."
    [99]
     1 string data = "Hele, kdykoli. Je to fakt jen chléb."
    [100]
@@ -233,9 +233,9 @@
    [109]
     1 string data = "Ó, to je od tebe moc hezké."
    [110]
-    1 string data = "*kašle*"
+    1 string data = "*kašel*"
    [111]
-    1 string data = "Takže zřízenec, co?"
+    1 string data = "Takže komorní, co?"
    [112]
     1 string data = "Co třeba Sinclair?"
    [113]
@@ -243,7 +243,7 @@
    [114]
     1 string data = "Aha, já vím!"
    [115]
-    1 string data = "Pro tento nový život tě pojmenuji <color=dobrá>Wentworth</color>."
+    1 string data = "Pro tento nový život tě pojmenuji <color=good>Wentworth</color>."
    [116]
     1 string data = "Wentworth..."
    [117]

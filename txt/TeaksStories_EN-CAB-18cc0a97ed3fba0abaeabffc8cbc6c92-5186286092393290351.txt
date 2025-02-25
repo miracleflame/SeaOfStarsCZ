@@ -309,7 +309,7 @@
    [147]
     1 string data = "Uzavřeli dohodu a společně navrhli Mechanický hrad."
    [148]
-    1 string data = "Hodinářka začala kreslit schémata, podle kterých děti mohly začít s výrobou, zatímco ona sama se postarala o složitější části."
+    1 string data = "Hodinářka začala kreslit schémata, podle kterých děti mohly začít s výrobou, zatímco ona sama se měla postarat o složitější části."
    [149]
     1 string data = "Mezitím Aephorul očaroval nespočet ozubených kol a cihel a dodal jim auru magie, které nikdo nerozuměl."
    [150]
@@ -323,7 +323,7 @@
    [154]
     1 string data = "A svůj trik zahráli tak dobře, že Aephorul v tom ani nepoznal jejich úmysl."
    [155]
-    1 string data = "Na Resh'ana by tentokrát žádný dojem neudělal, ale rozhodně viděl i pozitiva dílny, která byla ve věčním provozu."
+    1 string data = "Na Resh'ana by tentokrát žádný dojem neudělal, ale rozhodně viděl i pozitiva dílny, která byla ve věčném provozu."
    [156]
     1 string data = "Na závěr zajistil, aby každý smrtelník, jenž by hrad opustil, okamžitě zestárnul podle doby, kterou v něm strávil."
    [157]

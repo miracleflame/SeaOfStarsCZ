@@ -115,7 +115,7 @@
    [50]
     1 string data = "!!!"
    [51]
-    1 string data = "Jak se sem dostala?"
+    1 string data = "Jak se sem ta dostala?"
    [52]
     1 string data = "Odhodláním."
    [53]
@@ -143,13 +143,13 @@
    [64]
     1 string data = "Mlžný stařešina mi kdysi řekl, že bych mohl "ukonejšit dlouho sužovanou duši"."
    [65]
-    1 string data = "Tohle měl na mysli, jsem si tím jistý."
+    1 string data = "Tohle měl na mysli, tím jsem si jistý."
    [66]
     1 string data = "(*mumly* *mumly*)"
    [67]
     1 string data = "To je nemalý úděl. Jaký máš plán?"
    [68]
-    1 string data = "Runové znaky ve Vřesovištích. Nejdřív jsem si nebyl jistý, ale teď už vím, co znamenají."
+    1 string data = "Ty runové znaky ve Vřesovištích. Nejdřív jsem si nebyl jistý, ale teď už vím, co znamenají."
    [69]
     1 string data = "Už nejsou žádní <color=good>Ovati</color>. Jak tedy?"
    [70]
@@ -211,13 +211,13 @@
    [98]
     1 string data = "A proč si myslíš, že to bude stačit na to, aby byl Spáč opět přátelský?"
    [99]
-    1 string data = "Ale no tak, nikdo nemůže být nevrlý, když se probudí s vůní čerstvě upečeného chleba!"
+    1 string data = "Ale no tak, nikdo nemůže být nevrlý, když ho probudí vůně čerstvě upečeného chleba!"
    [100]
     1 string data = "(*mumly* *mumly*)"
    [101]
     1 string data = "(*mumly* *mumly*)"
    [102]
-    1 string data = "Nenacházíme žádný validní protiargument."
+    1 string data = "Nenacházíme žádný pádný protiargument."
    [103]
     1 string data = "Pokud se ti skutečně podaří ukonejšit Spáče, umožníme tvým přátelům přístup do Moře hvězd."
    [104]
@@ -227,7 +227,7 @@
    [106]
     1 string data = "Skvělá práce, Garle!"
    [107]
-    1 string data = "To šlo jako po másle, že jo?"
+    1 string data = "Šlo to jako po másle, že jo?"
    [108]
     1 string data = "Ještě nikdy jsem neviděl radu tak snadno ovlivnitelnou..."
    [109]
@@ -271,7 +271,7 @@
    [128]
     1 string data = "Valerie, ty máš Oheň."
    [129]
-    1 string data = "Projdi sopkou a poraz lávovou příšeru, pak můžeme přesměrovat žár a teraformovat vrchol na obří pec."
+    1 string data = "Projdi sopkou a poraz lávovou příšeru, pak můžeme přesměrovat žár a teraformovat vrchol v obří pec."
    [130]
     1 string data = "Jasnačka."
    [131]
@@ -311,7 +311,7 @@
    [148]
     1 string data = "Tenhle chlapík je vážně dobrý!"
    [149]
-    1 string data = "Dobře, Valerie, teď řekni "Khukharr.""
+    1 string data = "Dobře, Valerie, teď řekni "Khukharr"."
    [150]
     1 string data = "Khukharr?"
    [151]
@@ -325,13 +325,13 @@
    [155]
     1 string data = "To si piš."
    [156]
-    1 string data = "*kašle, kašle*"
+    1 string data = "*kašel, kašel*"
    [157]
     1 string data = "Jsem v pořádku, neboj."
    [158]
     1 string data = "X'tol!"
    [159]
-    1 string data = "Nebeská země je západně od této vesnice. Veďte."
+    1 string data = "Nebeská země je západně od této vesnice. Veď nás."
    [160]
     1 string data = "Vrátili jste se."
    [161]

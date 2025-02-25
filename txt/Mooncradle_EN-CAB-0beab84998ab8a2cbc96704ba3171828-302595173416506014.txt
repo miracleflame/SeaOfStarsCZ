@@ -1123,7 +1123,7 @@
    [554]
     1 string data = "Jsem rád, že se ti sušírna líbila."
    [555]
-    1 string data = "Pořád nemůžu uvěřit, že strávil celou tu dobu na plošině jen s monoklem a nádobou na sušenky."
+    1 string data = "Pořád nemůžu uvěřit, že strávil celou tu dobu na plošině jen s lupou a nádobou na sušenky."
    [556]
     1 string data = "Opravdu to byl věrný přítel."
    [557]
@@ -1165,7 +1165,7 @@
    [575]
     1 string data = "Za Garla."
    [576]
-    1 string data = "Se ztrátou nevinnosti a s utvrzeným záměrem se v [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME] začínají probouzet síly [MAINCHAR] a [OFFCHAR]."
+    1 string data = "Se ztrátou nevinnosti a s utvrzeným záměrem se v Zaleovi a Valerii začínají probouzet síly Solena a Luany."
    [577]
     1 string data = "Zale se naučil ultimátní útok <sprite="dialog-inventory-icons" name="icn-skills-zale-solenslight"> <color=sun>Solenovo světlo: Spása</color>."
    [578]

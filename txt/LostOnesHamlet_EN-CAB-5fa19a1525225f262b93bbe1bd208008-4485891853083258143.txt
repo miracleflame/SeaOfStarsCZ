@@ -103,7 +103,7 @@
    [44]
     1 string data = "Tvůrce kyborgů znám jako-"
    [45]
-    1 string data = "Catalyst. Takže tam toho parchanta najdu."
+    1 string data = "Katalyzátor. Takže tam toho parchanta najdu."
    [46]
     1 string data = "Ty jsi na něj pamatuješ? Domnívali jsme se, že vzpomínky maže."
    [47]

@@ -35,7 +35,7 @@
    [10]
     1 string data = "Balíček otázek #11"
    [11]
-    1 string data = "Teaks na telefonu (zbývá [CALLS_REMAINING]) <button="Player_GameMenu">"
+    1 string data = "Zavolat Teaks (zbývá [CALLS_REMAINING]) <button="Player_GameMenu">"
    [12]
     1 string data = "Návštěvník"
    [13]

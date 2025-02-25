@@ -589,7 +589,7 @@
    [287]
     1 string data = "Vysání života"
    [288]
-    1 string data = "Chvost Activní: Protibič"
+    1 string data = "Aktivován chvost: Protibič"
    [289]
     1 string data = "Kondo Shazování"
    [290]
