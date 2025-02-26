@@ -37,7 +37,7 @@
    [11]
     1 string data = "JÁ JSEM TEN, KTERÝ ŽÁDÁ AUDIENCI!"
    [12]
-    1 string data = "Slyšíme tě naprosto v pořádku. Není třeba křičet."
+    1 string data = "Slyšíme tě bez problému. Není třeba křičet."
    [13]
     1 string data = "Ups..."
    [14]
@@ -63,13 +63,13 @@
    [24]
     1 string data = "Válečný kuchaři."
    [25]
-    1 string data = "Dle našeho vědění jsi ve <color=magic>Vypůjčeném čase</color>."
+    1 string data = "Dle našeho vědění žiješ na <color=magic>Vypůjčený čas</color>."
    [26]
-    1 string data = "Jsem a mám přání."
+    1 string data = "Ano a mám přání."
    [27]
     1 string data = "Pak tedy mluv."
    [28]
-    1 string data = "Jde o mé přátele tady."
+    1 string data = "Jde tady o mé přátele."
    [29]
     1 string data = "Chci, abyste jim umožnili přístup do <color=magic>Moře hvězd</color>."
    [30]
@@ -97,9 +97,9 @@
    [41]
     1 string data = "(*mumly* *mumly*)"
    [42]
-    1 string data = "Velký Orle. Ctíš nás svou přítomností."
+    1 string data = "Velký orle. Ctíte nás svou přítomností."
    [43]
-    1 string data = "Pověz nám tedy. Disponují klíčem?"
+    1 string data = "Povězte nám tedy. Disponují klíčem?"
    [44]
     1 string data = "Ano. Získali Večernici."
    [45]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "!!!"
    [51]
-    1 string data = "Jak se sem ta dostala?"
+    1 string data = "Jak ta se sem dostala?"
    [52]
     1 string data = "Odhodláním."
    [53]
@@ -159,7 +159,7 @@
    [72]
     1 string data = "(*mumly* *mumly*)"
    [73]
-    1 string data = "Zhodli jsme se, že se tvým plánem budeme zabývat."
+    1 string data = "Shodli jsme se, že se tvým plánem budeme zabývat."
    [74]
     1 string data = "Jak zakomponuješ vodu?"
    [75]
@@ -181,7 +181,7 @@
    [83]
     1 string data = "Země?"
    [84]
-    1 string data = "Sopka bude <color=magic>terraformována</color> pomocí magie, takže její vrchol mohu použít jako obří pec k upečení svého výtvoru."
+    1 string data = "Sopka bude <color=magic>přetvořena</color> pomocí magie, takže její vrchol mohu použít jako obří pec k upečení svého výtvoru."
    [85]
     1 string data = "A hádám, že ty 'znáš právě onoho mága'?"
    [86]
@@ -195,7 +195,7 @@
    [90]
     1 string data = "To jméno se nám líbí."
    [91]
-    1 string data = "Zbývá poslední živl. Jak hodláš zakomponovat vítr?"
+    1 string data = "Zbývá poslední živel. Jak hodláš zakomponovat vítr?"
    [92]
     1 string data = "Zachytíme <color=magic>Zephyra</color> do láhve."
    [93]
@@ -229,7 +229,7 @@
    [107]
     1 string data = "Šlo to jako po másle, že jo?"
    [108]
-    1 string data = "Ještě nikdy jsem neviděl radu tak snadno ovlivnitelnou..."
+    1 string data = "Ještě nikdy jsem neviděl radu nechat se tak snadno přesvědčit..."
    [109]
     1 string data = "Dobře, vrátíme se a celé to naplánujeme."
    [110]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "<color=good>Puntie</color>! Proč se ptáš?"
    [112]
-    1 string data = "Skvěle, vteřinu."
+    1 string data = "Skvěle, vteřinku."
    [113]
     1 string data = "Dobře, nezbývá mi moc času, takže bychom se měli rozdělit."
    [114]
@@ -255,7 +255,7 @@
    [120]
     1 string data = "Slíbil, že se objeví, když si dobrý skutek vyžádá jeho magii."
    [121]
-    1 string data = "Myslíš, že dokáže terraformovat sopku?"
+    1 string data = "Myslíš, že dokáže přetvořit sopku?"
    [122]
     1 string data = "Jo! Navíc výsledek, jaký mám na mysli, je docela jednoduchý."
    [123]
@@ -271,19 +271,19 @@
    [128]
     1 string data = "Valerie, ty máš Oheň."
    [129]
-    1 string data = "Projdi sopkou a poraz lávovou příšeru, pak můžeme přesměrovat žár a teraformovat vrchol v obří pec."
+    1 string data = "Projdi sopkou a poraz lávovou příšeru, pak můžeme přesměrovat žár a přetvořit vrchol v obří pec."
    [130]
     1 string data = "Jasnačka."
    [131]
     1 string data = "Seraï, zbývá Voda."
    [132]
-    1 string data = "Poté, co vysadíte Valerii u sopky, ať vás Hortenzie vezme zpět k Moři nočních můr."
+    1 string data = "Poté, co vysadíte Valerii u sopky, ať tě Hortenzie vezme zpět k Moři nočních můr."
    [133]
-    1 string data = "Ale nezabijte prosím Hydraliona, potřebujeme jen jednu šupinu."
+    1 string data = "Ale nezabij prosím Hydraliona, potřebujeme jen jednu šupinu."
    [134]
     1 string data = "Dobře."
    [135]
-    1 string data = "Jakmile budete mít šupinu, prostě ji vezměte k Teaks do Veselí. Vesničané se sejdou, aby vypěstovali a sklidili úrodu."
+    1 string data = "Jakmile budeš mít šupinu, prostě ji vezmi k Teaks do Veselí. Vesničané se sejdou, aby vypěstovali a sklidili úrodu."
    [136]
     1 string data = "Naložíte jí co nejvíc na Večernici a pak se sejdeme u sopky. Do té doby už to asi bude Hora Pec."
    [137]
@@ -303,7 +303,7 @@
    [144]
     1 string data = "Všechny čtyři živly jsou přiřazeny, ale myslím, že se můžete přidat k jednomu z týmů."
    [145]
-    1 string data = "Na mé cestě ale žádné nebezpečí nehrozí, takže komu jinému byste chtěli pomoct?"
+    1 string data = "Na mé cestě ale žádné nebezpečí nehrozí, takže komu jinému byste chtěl pomoct?"
    [146]
     1 string data = "Všem třem."
    [147]
@@ -423,7 +423,7 @@
    [204]
     1 string data = "Další!"
    [205]
-    1 string data = "Pirátský první důstojník Yolanda Dobromyslná Demolice Pilná hlídka Praktičnost Kdykoli k službám Fortwal!"
+    1 string data = "Pirátský první důstojník Yolanda Serióznost Vdobrém Demolice Pilná Hlídka Praktičnost Kdykoliv Služba Fortwal!"
    [206]
     1 string data = "Našli jsme."
    [207]
@@ -455,11 +455,11 @@
    [220]
     1 string data = "Děkujeme. Tento dar použijeme k nastolení míru."
    [221]
-    1 string data = "Bůh s vámi!"
+    1 string data = "Šťastnou cestu!"
    [222]
-    1 string data = "Bůh s vámi!"
+    1 string data = "Šťastnou cestu!"
    [223]
-    1 string data = "Bůh s vámi!"
+    1 string data = "Šťastnou cestu!"
    [224]
     1 string data = "Vidím vás, nebojte se!"
    [225]
@@ -493,11 +493,11 @@
    [239]
     1 string data = "Dobře se vyspěte!"
    [240]
-    1 string data = "Doufám, že mé ubytování je pro vás dostatečně útulné."
+    1 string data = "Doufám, že je pro vás mé ubytování dostatečně útulné."
    [241]
     1 string data = "..."
    [242]
-    1 string data = "Potřebujete někam rychle odjet?"
+    1 string data = "Potřebujete trochu nakopnout?"
    [243]
     1 string data = "X'tol"
    [244]

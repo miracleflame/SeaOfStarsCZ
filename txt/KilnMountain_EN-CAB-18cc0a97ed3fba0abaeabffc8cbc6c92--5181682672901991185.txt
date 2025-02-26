@@ -13,11 +13,11 @@
   1 Array Array (128 items)
    0 int size = 128
    [0]
-    1 string data = "Vchod je zablokován. Zatím nemůžeme nic dělat."
+    1 string data = "Vchod je zablokován. Zatím s tím nemůžeme nic dělat."
    [1]
     1 string data = "Garl potřebuje, abychom to tu vyklidili. Není času nazbyt!"
    [2]
-    1 string data = "Sopka je otevřena."
+    1 string data = "Sopka je otevřená."
    [3]
     1 string data = "Vykliďme to tu, aby Garl a Malkomud mohli udělat své."
    [4]
@@ -31,15 +31,15 @@
    [8]
     1 string data = "Bude zranitelný vůči tvé měsíční magii."
    [9]
-    1 string data = "Dobře."
+    1 string data = "To ráda slyším."
    [10]
-    1 string data = "Děkuji za pomoc, Resh'ane."
+    1 string data = "Děkuji, že jste pomohl, Resh'ane."
    [11]
     1 string data = "Samozřejmě."
    [12]
     1 string data = "Teď už jen počkat na ostatní."
    [13]
-    1 string data = "Naprosto! A ten obličej na Zaleovi taky!"
+    1 string data = "Naprosto! A k tomu ten Zaleův výraz!"
    [14]
     1 string data = "Hahaha!"
    [15]
@@ -79,13 +79,13 @@
    [32]
     1 string data = "..."
    [33]
-    1 string data = "Postarám se o to. Pobudněte chvilku se svým přítelem."
+    1 string data = "Postarám se o to. Buďte chvilku se svým přítelem."
    [34]
     1 string data = "Já..."
    [35]
     1 string data = "Díky, Seraï."
    [36]
-    1 string data = "Haha! To je jeden ze způsobů, jak..."
+    1 string data = "Haha! Tak se to taky dá..."
    [37]
     1 string data = "GAAH!!"
    [38]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Dobrá práce, Malkomude! Je to perfektní!"
    [58]
-    1 string data = "Řídím se pouze tvým dizajnem."
+    1 string data = "Řídím se pouze tvým plánem."
    [59]
     1 string data = "Lidi, tohle bude VELKÝ!"
    [60]
@@ -155,9 +155,9 @@
    [70]
     1 string data = "Co? Byla to kouzelná lupa?"
    [71]
-    1 string data = "Ale ne, použil jsem jí k soustředění slunečního paprsku přímo na runu."
+    1 string data = "Ale ne, použil jsem ji k soustředění slunečních paprsků přímo na runu."
    [72]
-    1 string data = "Dávalo mi to smysl, tak jsem to vyskoušel a ono to zabralo! Paprsek však nebyl moc silný."
+    1 string data = "Dávalo mi to smysl, tak jsem to vyzkoušel a ono to zabralo! Paprsek však nebyl moc silný."
    [73]
     1 string data = "Muselo to trvat hodiny."
    [74]
@@ -167,13 +167,13 @@
    [76]
     1 string data = "Opravdu."
    [77]
-    1 string data = "No, přesněji řečeno osm hodin slunečního svitu. To nepočítám noc, kterou jsem strávil napůl ve vzduchu."
+    1 string data = "No, přesněji řečeno osm hodin slunečního svitu. To nepočítám polovinu noci, kterou jsem strávil ve vzduchu."
    [78]
     1 string data = "Jak to, že tě nechytili?"
    [79]
     1 string data = "Ale chytili mě, jenomže už jsem byl mimo jejich dosah, když mě babička uviděla."
    [80]
-    1 string data = "Kéž bych mohla vidět její tvář!"
+    1 string data = "Kéž bych mohla vidět její výraz!"
    [81]
     1 string data = "Věř mi, raději bych ji neviděl."
    [82]
@@ -209,9 +209,9 @@
    [97]
     1 string data = "Děkuji ti, zvědavče, za tento bezprecedentní akt dobroty a velkorysosti."
    [98]
-    1 string data = "Díky tvému výtvoru živly ukonejšili mou dlouho sužovanou duši."
+    1 string data = "Díky tvému výtvoru živly ukonejšily mou dlouho sužovanou duši."
    [99]
-    1 string data = "Hele, kdykoli. Je to fakt jen chléb."
+    1 string data = "Hele, kdykoliv. Je to fakt jen chléb."
    [100]
     1 string data = "Tohle pro mě znamená nový začátek."
    [101]
@@ -235,7 +235,7 @@
    [110]
     1 string data = "*kašel*"
    [111]
-    1 string data = "Takže komorní, co?"
+    1 string data = "Takže komorník, co?"
    [112]
     1 string data = "Co třeba Sinclair?"
    [113]
@@ -251,11 +251,11 @@
    [118]
     1 string data = "Chápu, že tvůj čas se blíží ke konci."
    [119]
-    1 string data = "Mohu ti nějak oplatit tvou laskavost?"
+    1 string data = "Mohu ti nějak tvou laskavost oplatit?"
    [120]
     1 string data = "Něco by se našlo, ano."
    [121]
-    1 string data = "Svou poslední cestu bych rád letěl na tvých zádech se svými přáteli."
+    1 string data = "Na své poslední cestě bych rád letěl na tvých zádech se svými přáteli."
    [122]
     1 string data = "..."
    [123]
@@ -265,6 +265,6 @@
    [125]
     1 string data = "Garle..."
    [126]
-    1 string data = "Garl byl právě v naší vesničce a zmínil se, že dorazíte. Přišel jsem hned, co jsem popadl, co šlo - nepotřebujete něco?"
+    1 string data = "Garl byl právě v naší vesničce a zmínil, že dorazíte. Přišel jsem hned, co jsem popadl, co šlo - nepotřebujete něco?"
    [127]
     1 string data = "Potřebujete něco?"
