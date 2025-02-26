@@ -465,53 +465,53 @@
    [225]
     1 string data = "Konec příběhu."
    [226]
-    1 string data = "Of the many events from the time of the Ovates, many consider the foundation of the Kingdom in the Clouds to be the most significant."
+    1 string data = "Z celé řady událostí z doby Ovatů mnozí považují založení Oblačného království za nejvýznamnější."
    [227]
-    1 string data = "It was back in the early days, when the world was still being shaped."
+    1 string data = "Bylo to ještě v raných dobách, kdy se svět teprve utvářel."
    [228]
-    1 string data = "Once they had completed the islands, they started working on the travel golems."
+    1 string data = "Jakmile dokončili ostrovy, začali pracovat na cestovních golemech."
    [229]
-    1 string data = "The Ovates first built Y'eet and X'tol, and rejoiced at the ease with which they could activate them using power words."
+    1 string data = "Ovati nejprve stvořili Y'eeta a X'tola a radovali se z toho, jak snadno je mohou aktivovat pomocí slov moci."
    [230]
-    1 string data = "But for Mesa Island, something more was needed. A sentient golem. One that would not simply obey commands, but carry purpose."
+    1 string data = "Ale ostrov Mesa si žádal něco víc. Myslícího golema. Takového, který by jen neposlouchal příkazy, ale byl by nositelem poslání."
    [231]
-    1 string data = "The reason was that this specific island was at sea level, but as the Ovates had seen in their dreams, it needed to be propped up way higher."
+    1 string data = "To proto, že tento konkrétní ostrov plul na úrovni hladiny moře, ale jak Ovati viděli ve svých snech, bylo třeba ho podepřít mnohem výš."
    [232]
-    1 string data = "Indeed, in the future there would be a great flood, and for this world to survive, Mesa Island would have to remain above water."
+    1 string data = "V budoucnu mělo skutečně dojít k velké potopě, a aby tento svět přežil, musel by ostrov Mesa zůstat nad vodou."
    [233]
-    1 string data = "Although that future was a very distant one, the Ovates remained as selfless as ever in their dedication to harmony and balance."
+    1 string data = "Ačkoli tato budoucnost byla velmi vzdálená, Ovati zůstávali jako vždy nezištně oddáni harmonii a rovnováze."
    [234]
-    1 string data = "Thus they built Khukharr, but alas, found themselves unable to give it sentience."
+    1 string data = "Tak stvořili Khukharra, ale bohužel zjistili, že mu nedokážou dát rozum."
    [235]
-    1 string data = "Ever embracing the flow of things, the Ovates held firm to the belief that their part in saving Mesa Island had been played."
+    1 string data = "Vše objímajíc tok věcí, Ovati se pevně drželi víry, že sehráli svou roli při záchraně ostrova Mesa."
    [236]
-    1 string data = "They moved on to completing the vision they had seen in a shared dream, and from the essence of the very clouds, conjured the Sky Giants."
+    1 string data = "Přešli k dokončení vize, kterou viděli ve společném snu, a z esence samotných mraků stvořili Nebeské obry."
    [237]
-    1 string data = "There would come a time when the Ovates would go extinct, and it would fall to the Sky Giants to keep watch."
+    1 string data = "Až by nastal čas, kdy Ovati vyhynou, na Nebeských obrech bude, aby drželi stráž."
    [238]
-    1 string data = "They would be tasked with establishing a council in the clouds to oversee three very important things."
+    1 string data = "Dostali za úkol založit v oblacích radu, která bude dohlížet na tři velmi důležité věci."
    [239]
-    1 string data = "First of which was to keep watch over the elements. While the flood was unavoidable, maintaining balance would remain a challenge unless new Ovates arose."
+    1 string data = "První z nich bylo bdít nad živly. Zatímco potopě nešlo předejít, udržení rovnováhy by zůstalo výzvou, pokud by se neobjevili noví Ovati."
    [240]
-    1 string data = "Secondly, they would be the gatekeepers of the Sea of Stars, carefully vetting those who would seek to travel between worlds."
+    1 string data = "Za druhé měli strážit průchod do Hvězdného moře a pečlivě prověřovat ty, kdo by chtěli cestovat mezi světy."
    [241]
-    1 string data = "Lastly, there was the matter of Khukharr."
+    1 string data = "A na závěr tu byla ona záležitost s Khukharrem."
    [242]
-    1 string data = "It remained incomplete, and so they would need to be on the lookout for a wielder of magic potent enough to make the construct sentient."
+    1 string data = "Zůstával nekompletní, a tak měli hledat nositele magie dostatečně silné na to, aby konstrukt učinila vnímavým."
    [243]
-    1 string data = "In the end, it was The Great Eagle who helped them in this."
+    1 string data = "Nakonec jim v tom pomohl právě Velký orel."
    [244]
-    1 string data = "Nowadays, few are aware of Khukharr's purpose, most believing it to be nothing more than an impressive feat of masonry."
+    1 string data = "V dnešní době si málokdo uvědomuje, k čemu Khukharr slouží, většina se domnívá, že nejde o nic víc než o působivý kamenický kousek."
    [245]
-    1 string data = "And even from a prophetic standpoint, there is no real way to know whether it will withstand the coming flood."
+    1 string data = "A dokonce ani z prorockého hlediska neexistuje žádný reálný způsob, jak zjistit, zda ustojí nadcházející potopu."
    [246]
-    1 string data = "But until then, Khukharr's role would remain a passive one."
+    1 string data = "Ale do té doby Khukharrova role zůstává pasivní."
    [247]
-    1 string data = "Holding on with an ever-firm grip, it would stand tall, inspiring mortals as a testament to stoicism and true dedication."
+    1 string data = "Drží nadále pevný úchop, stojí vysoko a inspiruje smrtelníky jako svědectví stoicismu a opravdové oddanosti."
    [248]
-    1 string data = "One need only lay eyes upon the construct once to understand where it got its title of Khukharr the Unyielding."
+    1 string data = "Stačí jednou pohlédnout na tento konstrukt, aby člověk pochopil, odkud se vzal jeho titul Khukharr Nezdolný."
    [249]
-    1 string data = "The end."
+    1 string data = "Konec příběhu."
    [250]
     1 string data = "Když ptačí lidé přijali Aephorulovu nabídku, věděl, že poskytnout jejich druhu přístup k magii mysli pro něj bude snadné."
    [251]
