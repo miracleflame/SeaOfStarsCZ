@@ -69,7 +69,7 @@
    [27]
     1 string data = "*Koukněte, Vyzyvatel bouří je ten nejmocnější větrný mág, jakého kdy svět poznal!"
    [28]
-    1 string data = "My se v boji umíme prosadit."
+    1 string data = "A my rozhodně nebojujeme poprvé."
    [29]
     1 string data = "*Aha? Vy snad dokážete překonat zášť tak silnou, že vykouzlila paralelní říši nočních můr, jen aby mučila posádku po celou věčnost?"
    [30]
@@ -97,13 +97,13 @@
    [41]
     1 string data = "To je ta mapa. Vraťme se k Hortenzii."
    [42]
-    1 string data = "*Hej, vy ve mě začínáte vzbuzovat naději!"
+    1 string data = "*Hej, vy ve mně začínáte vzbuzovat naději!"
    [43]
     1 string data = "Tak jak najdeme ty bleskosvody?"
    [44]
     1 string data = "*Aye, kouzelná mapa se spojuje s mořem. Měla by vám pomoct udělat si vobraz o vokolí."
    [45]
-    1 string data = "*Co kdyby jste se chopili kormidla? Přestávka by mi docela padla."
+    1 string data = "*Co kdyby jste se chopili kormidla? Přestávka by mi docela bodla."
    [46]
     1 string data = "Vypadá to jako deník."
    [47]
@@ -111,7 +111,7 @@
    [48]
     1 string data = "Ten, kdo to vyrobil, věděl, co dělá."
    [49]
-    1 string data = "Skutek je dokonán."
+    1 string data = "Máme hotovo."
    [50]
     1 string data = "Co teď?"
    [51]
@@ -125,7 +125,7 @@
    [55]
     1 string data = "A proč vůbec potřebujete tuto loď?"
    [56]
-    1 string data = "Musíme pomoci s přestěhováním jistých lidí. Ale klidně si oddechni, právě jsi se vysvobodila."
+    1 string data = "Musíme pomoci s přestěhováním jistých lidí. Ale klidně si oddechni, právě ses vysvobodila."
    [57]
     1 string data = "*Voddáchnu si pak, chlapče! Něco vám dlužím a vaši přátelé jsou i moji přátelé."
    [58]

@@ -43,15 +43,15 @@
    [14]
     1 string data = "Tak proč jste nic neřekli?"
    [15]
-    1 string data = "Jsi očividně na naší straně, na tom jedinem záleží."
+    1 string data = "Jsi očividně na naší straně, na tom jediném záleží."
    [16]
-    1 string data = "Tak, ať už jsou tvé důvody jakékoliv, budou dobré."
+    1 string data = "Tak ať už jsou tvé důvody jakékoliv, budou dobré."
    [17]
     1 string data = "Jo a díky, žes utratila tu minci, abys mě zachránila!"
    [18]
     1 string data = "Já..."
    [19]
-    1 string data = "Dohodli jsme se, že ti ponecháme tvé tajemství, ale je fajn vidět, že nám teď věříš."
+    1 string data = "Dohodli jsme se, že ti tvé tajemství ponecháme, ale je fajn vidět, že nám teď věříš."
    [20]
     1 string data = "..."
    [21]

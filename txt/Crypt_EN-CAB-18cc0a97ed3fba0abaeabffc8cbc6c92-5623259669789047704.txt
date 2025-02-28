@@ -129,6 +129,6 @@
    [57]
     1 string data = " "
    [58]
-    1 string data = "Označit oblibu <button="WindBracelet">"
+    1 string data = "Označit oblíbené <button="WindBracelet">"
    [59]
     1 string data = "Upravit oblíbené <button="WindBracelet">"

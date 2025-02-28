@@ -13,7 +13,7 @@
   1 Array Array (359 items)
    0 int size = 359
    [0]
-    1 string data = "Vypadá to tu být obrovské, ale nikde necítím žádné zlo..."
+    1 string data = "Zdá se to tu být obrovské, ale nikde necítím žádné zlo..."
    [1]
     1 string data = "Působí to starobyle..."
    [2]
@@ -29,9 +29,9 @@
    [7]
     1 string data = "Já jsem <color=good>Kryptochodec</color>! A ne, v této lucerně jsem doma."
    [8]
-    1 string data = "I když musím přiznat, že se cítím omezený, když mi zhasl oheň..."
+    1 string data = "I když musím přiznat, že se cítím omezen, když mi zhasl oheň..."
    [9]
-    1 string data = "Ty, sluneční, mohl bys mi dát trochu jiskry?"
+    1 string data = "Ty, sluneční, mohl bys mi dát nějakou jiskru?"
    [10]
     1 string data = "Uh, jistě..."
    [11]
@@ -53,7 +53,7 @@
    [19]
     1 string data = "Ach, to rozhodně!"
    [20]
-    1 string data = "Návštěvníci, sousedé, čím více, tím lépe! Vše, co chci, je, aby památky na Kryptu měly diváky."
+    1 string data = "Návštěvníci, sousedé, čím více, tím lépe! Vše, co chci, je, aby památky Krypty měly diváky."
    [21]
     1 string data = "Na tomto místě jsou tisíce kamenů, soch a pomníků věnovaných památce prvních stavitelů a vizionářů tohoto našeho malého světa."
    [22]

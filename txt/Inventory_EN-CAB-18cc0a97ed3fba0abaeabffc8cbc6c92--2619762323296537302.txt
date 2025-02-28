@@ -327,7 +327,7 @@
    [156]
     1 string data = "Kostěná hůl"
    [157]
-    1 string data = "Podpisová zbraň dávno zesnulých válečníků."
+    1 string data = "Hlavní zbraň dávno zesnulých válečníků."
    [158]
     1 string data = "Amulet vyprávění"
    [159]
