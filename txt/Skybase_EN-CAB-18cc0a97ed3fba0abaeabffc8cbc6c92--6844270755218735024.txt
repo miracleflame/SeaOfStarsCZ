@@ -13,216 +13,216 @@
   1 Array Array (107 items)
    0 int size = 107
    [0]
-    1 string data = "Sky Base... We made it."
+    1 string data = "Vesmírná základna... Tak jsme se sem dostali."
    [1]
-    1 string data = "What are we looking for?"
+    1 string data = "Co hledáme?"
    [2]
-    1 string data = "Whatever will stop the clouds being produced. There has to be a control room somewhere."
+    1 string data = "Cokoliv, co zastaví tvorbu mraků. Někde musí být řídicí místnost."
    [3]
-    1 string data = "And if we find that damned <color=bad>Catalyst</color>..."
+    1 string data = "A jestli najdeme ten zatracený <color=bad>Katalyzátor</color>..."
    [4]
-    1 string data = "You got it."
+    1 string data = "Máš to mít."
    [5]
     1 string data = "!!!"
    [6]
-    1 string data = "Over there! It's..."
+    1 string data = "Támhle! To je..."
    [7]
-    1 string data = "INTRUDERS IN THE COMMAND CENTER"
+    1 string data = "VETŘELCI VE VELITELSKÉM CENTRU"
    [8]
-    1 string data = "ENGAGING COMBAT MODE"
+    1 string data = "BOJOVÝ REŽIM ZAHÁJEN"
    [9]
-    1 string data = "The Catalyst..."
+    1 string data = "Katalyzátor..."
    [10]
-    1 string data = "Heads up!"
+    1 string data = "Bacha!"
    [11]
     1 string data = "..."
    [12]
-    1 string data = "Seraï! Are you okay?"
+    1 string data = "Seraï! Jsi v pořádku?"
    [13]
-    1 string data = "I... remember now..."
+    1 string data = "Já... už si vzpomínám..."
    [14]
-    1 string data = "<color=bad>Soul Curator</color>..."
+    1 string data = "<color=bad>Kurátor duší</color>..."
    [15]
-    1 string data = "Huh? What happened?"
+    1 string data = "Hm? Co se stalo?"
    [16]
-    1 string data = "It doesn't matter right now. Let's check the control module."
+    1 string data = "Na tom teď nezáleží. Zkontrolujme řídicí modul."
    [17]
-    1 string data = "This has to be what's creating the clouds, but..."
+    1 string data = "Tohle musí být ta věc, co vytváří mraky, ale..."
    [18]
-    1 string data = "I've never seen anything so intricate."
+    1 string data = "Nikdy jsem neviděla nic tak složitého."
    [19]
-    1 string data = "Cedric. Tell me you've got something."
+    1 string data = "Cedricu. Řekni mi, žes něco našel."
    [20]
-    1 string data = "Scanning..."
+    1 string data = "Skenuju..."
    [21]
-    1 string data = "Negative. Encryption level too high."
+    1 string data = "Negativní. Úroveň šifrování je příliš vysoká."
    [22]
     1 string data = "..."
    [23]
-    1 string data = "I can't use this!"
+    1 string data = "Tohle nemůžu použít!"
    [24]
     1 string data = "..."
    [25]
-    1 string data = "B'st?"
+    1 string data = "B'ste?"
    [26]
-    1 string data = "Apologies, Seraï. My people were builders and magicians."
+    1 string data = "Omlouvám se, Seraï. Můj lid byli stavitelé a kouzelníci."
    [27]
-    1 string data = "The wonders of technology are a mystery to me."
+    1 string data = "Zázraky techniky jsou pro mě záhadou."
    [28]
-    1 string data = "We were so close..."
+    1 string data = "Byli jsme tak blízko..."
    [29]
-    1 string data = "I beg your pardon. A word, if I may?"
+    1 string data = "Pardon. Mohu na slovíčko?"
    [30]
-    1 string data = "Hey, look over here!"
+    1 string data = "Hele, koukni sem!"
    [31]
-    1 string data = "The Catalyst is still alive!?"
+    1 string data = "Katalyzátor je stále naživu!?"
    [32]
-    1 string data = "Please! One moment!"
+    1 string data = "Prosím! Okamžik!"
    [33]
-    1 string data = "I am not evil. I was forced to operate within the Catalyst against my will."
+    1 string data = "Nejsem zlý. Byl jsem donucen působit v Katalyzátoru proti své vůli."
    [34]
-    1 string data = "And I must say I had quite an awful time of it."
+    1 string data = "A musím říct, že jsem si to zrovna neužíval."
    [35]
-    1 string data = "Can you help stop the clouds?"
+    1 string data = "Dokážeš pomoct zastavit ty mraky?"
    [36]
-    1 string data = "Believe me, I wish I could."
+    1 string data = "Věřte mi, přál bych si, abych mohl."
    [37]
-    1 string data = "But alas, the only function I have access to is the one used to attach souls to machines."
+    1 string data = "Ale bohužel jediná funkce, ke které mám přístup, je ta, která se používá k připojování duší ke strojům."
    [38]
     1 string data = "..."
    [39]
-    1 string data = "My data bank does contain plenty of schematics related to Sky Base, however."
+    1 string data = "Moje databanka však obsahuje spoustu schémat týkajících se Nebeské základny."
    [40]
-    1 string data = "Can you give them to us?"
+    1 string data = "Můžeš nám je dát?"
    [41]
-    1 string data = "I'm afraid everything is encrypted. Access is virtually impossible."
+    1 string data = "Obávám se, že vše je zašifrované. Přístup je prakticky nemožný."
    [42]
-    1 string data = "Oh yeah?"
+    1 string data = "Vážne?"
    [43]
-    1 string data = "I wonder if I just..."
+    1 string data = "Zajímalo by mě, jestli jsem právě..."
    [44]
-    1 string data = "Haha! It worked?"
+    1 string data = "Haha! Zabralo to?"
    [45]
     1 string data = "..."
    [46]
-    1 string data = "Hmm... So, just a bunch of documentation and intricate designs..."
+    1 string data = "Hmm... Takže jen hromada dokumentace a složitých návrhů..."
    [47]
-    1 string data = "There's nothing in here about operating the console directly."
+    1 string data = "Není tu nic o přímém ovládání konzole."
    [48]
-    1 string data = "Tech-savvy engineers may infer core function based on blueprints and schematics."
+    1 string data = "Technicky zdatní inženýři si mohou odvodit funkce jádra na základě plánů a schémat."
    [49]
-    1 string data = "Recommended action: find someone smarter."
+    1 string data = "Doporučená akce: najít někoho chytřejšího."
    [50]
-    1 string data = "Ouch!"
+    1 string data = "Au!"
    [51]
-    1 string data = "Well, how about Caël and his friends at the Clockwork Castle?"
+    1 string data = "No, a co Caël a jeho kamarádi na Mechanickém hradě?"
    [52]
-    1 string data = "They're pretty good at this kind of stuff, right?"
+    1 string data = "V tomhle jsou docela dobří, ne?"
    [53]
-    1 string data = "Worth a shot."
+    1 string data = "Za pokus to stojí."
    [54]
-    1 string data = "It's a lead. Maybe they can hack into the AI Core, too."
+    1 string data = "Je to vodítko. Možná se dokážou nabourat i do Jádra AI."
    [55]
-    1 string data = "You're coming with us."
+    1 string data = "Ty půjdeš s námi."
    [56]
-    1 string data = "Please be gentle!"
+    1 string data = "Prosím, buďte šetrní!"
    [57]
-    1 string data = "Okay, time to return to our home world for a bit."
+    1 string data = "Dobrá, je čas vrátit se na chvíli do našeho domovského světa."
    [58]
-    1 string data = "The entrance to the Sea of Stars should have a speedball station close to it."
+    1 string data = "U vchodu k Hvězdnému moři by měla být stanice rychlodráhy."
    [59]
-    1 string data = "(I see...)"
+    1 string data = "(Chápu...)"
    [60]
-    1 string data = "(How about faking this packet?)"
+    1 string data = "(Co takhle zfalšovat tenhle paket?)"
    [61]
-    1 string data = "(Good thinking, Spike.)"
+    1 string data = "(Dobrý nápad, Spiku.)"
    [62]
-    1 string data = "(And now here...)"
+    1 string data = "(A teď tady...)"
    [63]
-    1 string data = "(Too easy. This can't be it already.)"
+    1 string data = "(Příliš snadné. Tohle ještě nemůže být ono.)"
    [64]
-    1 string data = "(Just try operating a door and we'll know.)"
+    1 string data = "(Prostě zkus ovládat dveře a poznáme to.)"
    [65]
-    1 string data = "(Oh, there's the other security layer.)"
+    1 string data = "(Aha, tady je další bezpečnostní vrstva.)"
    [66]
-    1 string data = "(Pfff! It'll take more than that to stop us.)"
+    1 string data = "(Pfff! Nás zastavit, to chce víc než jen tohle.)"
    [67]
-    1 string data = "(How about this socket?)"
+    1 string data = "(Co s tímhle socketem?)"
    [68]
-    1 string data = "(On it.)"
+    1 string data = "(Jdu na to.)"
    [69]
-    1 string data = "(Credentials decrypted.)"
+    1 string data = "(Pověření dešifrována.)"
    [70]
-    1 string data = "(Obvious fakes.)"
+    1 string data = "(Zjevné atrapy.)"
    [71]
-    1 string data = "(Hey, look at that.)"
+    1 string data = "(Hele, koukni na to.)"
    [72]
-    1 string data = "(Oh yeah, blatant weakness.)"
+    1 string data = "(Jo, očividná zranitelnost.)"
    [73]
-    1 string data = "(Simple marshalling job, and...)"
+    1 string data = "(Jednoduchá práce rozdělovače a...)"
    [74]
-    1 string data = "(We're in!)"
+    1 string data = "(Jsme tam!)"
    [75]
-    1 string data = "(Now to disengage the cloud emitters.)"
+    1 string data = "(Už jenom vypnout emitory mraků.)"
    [76]
-    1 string data = "(Hey, let's make it rain on The Fleshmancer's castle while we're at it!)"
+    1 string data = "(Hele, když už, tak ať prší na hrad Karnimanta!)"
    [77]
-    1 string data = "(Haha, that'll ruin his day!)"
+    1 string data = "(Haha, to mu zkazí den!)"
    [78]
-    1 string data = "(It will take a while for them to fully disperse, but let's make sure the first ray of sun hits just right...)"
+    1 string data = "(Chvíli potrvá, než se mraky úplně rozptýlí, ale ujistěme se, že první sluneční paprsek dopadne kam má...)"
    [79]
-    1 string data = "(Aaaaand... done!)"
+    1 string data = "(Aaaaa... hotovo!)"
    [80]
-    1 string data = "(Good work, everyone.)"
+    1 string data = "(Dobrá práce, všichni.)"
    [81]
-    1 string data = "I can feel my power surging!"
+    1 string data = "Cítím, jak mi roste síla!"
    [82]
-    1 string data = "You did it, Artificer!"
+    1 string data = "Dokázal jsi to, Artifiku!"
    [83]
-    1 string data = "Haha! I'm the best!"
+    1 string data = "Haha! Jsem nejlepší!"
    [84]
-    1 string data = "(Hey, do the thing!)"
+    1 string data = "(Hele, udělej tamto!)"
    [85]
-    1 string data = "(Oh, right!)"
+    1 string data = "(Aha, jasně!)"
    [86]
-    1 string data = "Yes, I did it!"
+    1 string data = "Jo, dokázal jsem to!"
    [87]
-    1 string data = "We finally have a shot..."
+    1 string data = "Konečně máme šanci..."
    [88]
-    1 string data = "Arty, thank you so much!"
+    1 string data = "Arty, moc ti děkujeme!"
    [89]
-    1 string data = "Hey, don't mention it!"
+    1 string data = "Hele, to nestojí za řeč!"
    [90]
-    1 string data = "It was the right thing to do, plus it got us out of our prison!"
+    1 string data = "Byla to správná věc, navíc nás to vysvobodilo z vězení!"
    [91]
-    1 string data = "Well said. And well done."
+    1 string data = "Dobře řečeno. A dobrá práce."
    [92]
-    1 string data = "I feel strong enough to go after the <color=bad>Dweller of Dread</color> now. How about you, Zale?"
+    1 string data = "Cítím se dost silná na to, abych bojovala s <color=bad>Přiživovačem hrůzy</color>. A co ty, Zale?"
    [93]
-    1 string data = "Oh yeah. Time for a cleansing."
+    1 string data = "To si piš. Je čas na očistu."
    [94]
-    1 string data = "Its lair is <color=location>by the moon</color>. We can sail close to it and dive down."
+    1 string data = "Jeho doupě je <color=location>u měsíce</color>. Můžeme k němu připlout blíž a ponořit se dolů."
    [95]
-    1 string data = "Teamwork. Nothing like it."
+    1 string data = "Týmová práce. Není nad to."
    [96]
-    1 string data = "I've got more tinkering to do over here. Be safe!"
+    1 string data = "Mám tady ještě něco k bastlení. Buďte opatrní!"
    [97]
-    1 string data = "Good luck with the Dweller!"
+    1 string data = "Hodně štěstí s Přiživovačem!"
    [98]
-    1 string data = "There's nothing we can do. Let's go see if Cael can do anything."
+    1 string data = "Nemůžeme nic dělat. Pojďme se podívat, jestli Caël něco zmůže."
    [99]
-    1 string data = "West wing sustained heavy damage after collision with an asteroid."
+    1 string data = "Západní křídlo utrpělo těžké poškození po srážce s meteoritem."
    [100]
-    1 string data = "Area in lockdown for crew's safety."
+    1 string data = "Oblast je uzavřena kvůli bezpečnosti posádky."
    [101]
-    1 string data = "Override."
+    1 string data = "Obejít."
    [102]
-    1 string data = "Denied. Emergency measures may not be overridden."
+    1 string data = "Zamítnuto. Nouzová opatření nelze obejít."
    [103]
-    1 string data = "Let's keep going."
+    1 string data = "Pokračujme v cestě."
    [104]
-    1 string data = "North wing pressure stabilized. Access granted."
+    1 string data = "Tlak v severním křídle stabilizován. Přístup povolen."
    [105]
-    1 string data = "The airlock isn't connected."
+    1 string data = "Přetlaková komora není připojena."
    [106]
-    1 string data = "3D PRINTER VENDING MACHINE ONLINE PLEASE MAKE YOUR SELECTION"
+    1 string data = "AUTOMAT 3D TISKÁRNY V PROVOZU, PROSÍM ZADEJTE SVOU VOLBU"
