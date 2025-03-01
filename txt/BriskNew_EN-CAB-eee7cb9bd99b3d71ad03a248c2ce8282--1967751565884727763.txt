@@ -553,206 +553,206 @@
    [269]
     1 string data = "The ultimate meal!"
    [270]
-    1 string data = "Hey l'beau temps est pogné!"
+    1 string data = "Hej, hezké počasí je tady!"
    [271]
-    1 string data = "J'viens fou de t'ça moé."
+    1 string data = "Prostě tě nemůžu vystát."
    [272]
-    1 string data = "Me coucherais su l'asphatte."
+    1 string data = "Ležel jsem na asfaltu."
    [273]
-    1 string data = "L'autre jour en ar'venant on avait l'goût d'manger un sandwich aux tomates, fak on est arrêtés."
+    1 string data = "Tuhle jsme cestou sem dostali chuť na rajčatový sendvič, tak jsme se zastavili."
    [274]
-    1 string data = "Là le gars y me demande "Voulez-vous ça sur pita ou ben baguette?""
+    1 string data = "A pak se mě zeptá: "Dáte si to na pitě nebo na bagetě?""
    [275]
-    1 string data = "J'y demande cé quoi à différence, y me dit "Pita c'est plus léger, baguette c'est plus croustillant.""
+    1 string data = "Ptám se, jaký je v tom rozdíl, a on říká: "Pita je lehčí, bageta je křupavější.""
    [276]
-    1 string data = "Hey, méchant téteux."
+    1 string data = "Hej, ty zlý téteux."
    [277]
-    1 string data = "Pis un autre fois j'check l'menu, là je vois "racinette.""
+    1 string data = "A jednou jsem se zase podíval do jídelního lístku a uviděl jsem tam 'racinette'."
    [278]
-    1 string data = "Je leux d'mande "C'est quoi ça de la racinette?""
+    1 string data = "Ptám se: "Copak to je 'racinette'?"
    [279]
-    1 string data = "Y me dit "C'est de la root beer.""
+    1 string data = "Říká: "To je zázvorové pivo.""
    [280]
-    1 string data = "Sont malades esti."
+    1 string data = "Asi jsou nemocní."
    [281]
-    1 string data = "Welcome to Brisk! The repairs are all but complete!"
+    1 string data = "Vítejte ve Svěžíně! Opravy jsou téměř hotové!"
    [282]
-    1 string data = "Welcome to Brisk! Have you heard? Dweller's Fall Arena is finally open!"
+    1 string data = "Vítejte ve Svěžíně! Už jste to slyšeli? Aréna Pád Přiživovače je konečně otevřena!"
    [283]
-    1 string data = "The renovations went pretty quickly. It was quite wholesome to see everyone come together like that."
+    1 string data = "Rekonstrukce proběhla docela rychle. Bylo velmi příjemné vidět, jak se všichni snažili."
    [284]
-    1 string data = "Not many people have had the chance to eat at the Golden Pelican."
+    1 string data = "Málokdo měl tu možnost najíst se u Zlatého pelikána."
    [285]
-    1 string data = "Some say this guarding spot is cursed because of what happened when the Dweller hit, but someone has to do it."
+    1 string data = "Někteří říkají, že tohle strážní stanoviště je prokleté kvůli tomu, co se stalo, když udeřil Přiživovač, ale někdo to dělat musí."
    [286]
-    1 string data = "Looks like everyone is having fun at the arena!"
+    1 string data = "Vypadá to, že se v aréně všichni dobře baví!"
    [287]
-    1 string data = "I still can't believe how fast Brisk got back on its feet!"
+    1 string data = "Pořád nemůžu uvěřit, jak rychle se Svěžín postavil na nohy!"
    [288]
-    1 string data = "We've been seeing a lot of activity since the arena opened."
+    1 string data = "Od otevření arény jsme zaznamenali vysokou návštěvnost."
    [289]
-    1 string data = "This building is still under construction. Entry is forbidden."
+    1 string data = "Tato budova je stále ve výstavbě. Vstup je zakázán."
    [290]
-    1 string data = "This building is still under construction. Entry is forbidden."
+    1 string data = "Tato budova je stále ve výstavbě. Vstup je zakázán."
    [291]
-    1 string data = "Since my favorite spot was destroyed, I found a new one. I like it even more!"
+    1 string data = "Jelikož mé oblíbené místo bylo zničeno, našel jsem si nové. Líbí se mi ještě víc!"
    [292]
-    1 string data = "My grandpa was SO brave during the attack! I want to be like him when I grow up!"
+    1 string data = "Můj děda byl při útoku MOC statečný! Až vyrostu, chci být jako on!"
    [293]
-    1 string data = "My grandpa said we'd go see a match at the arena, I'm so excited!"
+    1 string data = "Můj děda říkal, že se půjdeme podívat na zápas do arény, tak se moc těším!"
    [294]
-    1 string data = "After everything that happened, I'm even more thankful for the time I get to spend with my grandkid."
+    1 string data = "Po tom všem, co se stalo, si ještě více vážím času, který mohu strávit se svým vnukem."
    [295]
-    1 string data = "The attack was really scary, but at the least the casualties were lower than we thought."
+    1 string data = "Ten útok byl opravdu děsivý, ale každopádně ztráty na životech byly nižší, než jsme předpokládali."
    [296]
-    1 string data = "I hope nobody gets hurt fighting in that arena..."
+    1 string data = "Doufám, že se při boji v té aréně nikomu nic nestane..."
    [297]
-    1 string data = "We'll need a lot of ships to get trade going again..."
+    1 string data = "Budeme potřebovat hodně lodí, abychom znovu rozjeli obchod..."
    [298]
-    1 string data = "Well, we might not have ships yet to start trading again, but at least the arena is bringing in a LOT of tourism!"
+    1 string data = "Sice ještě nemáme lodě, abychom mohli znovu začít obchodovat, ale aspoň ta aréna přitáhla spoustu turistického ruchu!"
    [299]
-    1 string data = "That was a lot of work... Zzz... I'll just... Zzz..."
+    1 string data = "To bylo hodně práce... Chrr... Jenom si... Chrr..."
    [300]
-    1 string data = "I should... Zzz... Get going... Zzz..."
+    1 string data = "Měl bych... Chrr... jít... Chrr..."
    [301]
-    1 string data = "Zzz... Zzz..."
+    1 string data = "Chrr... Chrr..."
    [302]
-    1 string data = "Have you seen the worksite right there? Apparently they're building an arena!"
+    1 string data = "Viděli jste támhle to staveniště? Zřejmě staví arénu!"
    [303]
-    1 string data = "I should have bought tickets sooner..."
+    1 string data = "Měl jsem si koupit lístky dřív..."
    [304]
-    1 string data = "Hey, you're the ones who helped out when the attack happened. Who knows how many of us would be dead if you hadn't shown up."
+    1 string data = "Hele, to jste vy, co jste pomohli, když došlo k útoku. Kdo ví, kolik z nás by to nepřežilo, kdybyste se neukázali."
    [305]
-    1 string data = "Real heroes, you are."
+    1 string data = "Jste opravdoví hrdinové."
    [306]
-    1 string data = "I'm betting all of my money on the Gold Champion! Ain't no way he's losing!"
+    1 string data = "Sázím všechny své peníze na Zlatého šampiona! V žádném případě neprohraje!"
    [307]
-    1 string data = "Ugh... Well, I lost. Good thing I listened to my friend and didn't ACTUALLY bet all of my money."
+    1 string data = "Ugh... Tak jsem prohrál. Ještě že jsem poslechl svého kamaráda a nevsadil ÚPLNĚ všechny své peníze."
    [308]
-    1 string data = "It's been a bit harder to get good ingredients lately, but we can't really complain."
+    1 string data = "V poslední době je trochu těžší sehnat dobré suroviny, ale nemůžeme si stěžovat."
    [309]
-    1 string data = "Business has been booming since the arena opened!"
+    1 string data = "Od otevření arény obchod kvete!"
    [310]
-    1 string data = "It's weird seeing our docks without any boats. One thing at a time though, we'll get to that eventually!"
+    1 string data = "Je zvláštní vidět náš přístav bez lodí. Ale jedno po druhém, nakonec se k tomu dostaneme!"
    [311]
-    1 string data = "Thanks to the arena, tourists are bringing in a lot of resources we can use!"
+    1 string data = "Díky aréně nám turisté přivážejí spoustu surovin, které můžeme využít!"
    [312]
-    1 string data = "I'm happy with the repairs. There have been some minor changes, but it's still the Brisk we know and love!"
+    1 string data = "S opravami jsem spokojen. Došlo k drobným změnám, ale pořád je to ten Svěžín, jako ho známe a máme rádi!"
    [313]
-    1 string data = "Since the arena opened, there are a lot of tourists! It feels good that Brisk is alive again!"
+    1 string data = "Od otevření arény je tu spousta turistů! Je fajn pocit, že ve Svěžíně to zase žije!"
    [314]
-    1 string data = "This is my secret fort! Pretty good, huh? "
+    1 string data = "Tohle je moje tajná pevnost! Docela dobrá, že jo? "
    [315]
-    1 string data = "I heard that there's a mechanical machine fighting in the arena. Do you think it's true?"
+    1 string data = "Slyšel jsem, že v aréně bojuje mechanický stroj. Myslíte, že je to pravda?"
    [316]
-    1 string data = "Wait, you FOUGHT the mechanical machine? I wish I could have seen that!"
+    1 string data = "Počkat, vy jste BOJOVALI s mechanickým strojem? Kéž bych byl u toho!"
    [317]
-    1 string data = "Everyone worked really hard to restore Brisk. Some might say it's not as beautiful as it used to be, but I disagree!"
+    1 string data = "Všichni se na obnově Svěžínu opravdu nadřeli. Někdo by mohl říct, že už není tak krásný jako dřív, ale s tím nesouhlasím!"
    [318]
-    1 string data = "Everyone's so excited about the arena. It's bringing just the kind of energy we needed!"
+    1 string data = "Všichni jsou z arény nadšení. Přináší přesně takovou energii, jakou jsme potřebovali!"
    [319]
-    1 string data = "I only heard rumors about the big building, but I won't try to learn more. I want to be surprised!"
+    1 string data = "O té velké budově jsem slyšel jen povídačky, ale nebudu se snažit zjistit víc. Chci se nechat překvapit!"
    [320]
-    1 string data = "I was able to get two tickets for the Silver Rank finals! I can't wait!"
+    1 string data = "Podařilo se mi sehnat dva lístky na finále Stříbrného stupně! Už se nemůžu dočkat!"
    [321]
-    1 string data = "When I heard what happened in Brisk, I decided to come here to see how I could help. These people deserved better."
+    1 string data = "Když jsem se dozvěděl, co se stalo ve Svěžíně, rozhodl jsem se přijít, abych zjistil, jak pomoci. Tito lidé si zaslouží něco lepšího."
    [322]
-    1 string data = "I need to return home soon, but I want to see the Gold Rank finals first! I heard the champion was a real celebrity!"
+    1 string data = "Musím se brzy vrátit domů, ale nejdřív chci vidět finále Zlatého stupně! Slyšel jsem, že šampion je opravdová celebrita!"
    [323]
-    1 string data = "You're the Solstice Warriors who came to aid, right? Are we safe now?"
+    1 string data = "Vy jste ti Bojovníci Slunovratu, kteří přišli na pomoc, že? Jsme už v bezpečí?"
    [324]
-    1 string data = "My parents don't want me to watch the arena battles, but my friends and I found a spot to climb and watch from afar!"
+    1 string data = "Rodiče nechtějí, abych se díval na bitvy v aréně, ale s kamarády jsme si našli místo, kam můžeme vylézt a dívat se zpovzdálí!"
    [325]
-    1 string data = "As you can imagine, a lot of people struggled following the attack. It's good that we had the rebuilding project to focus on."
+    1 string data = "Jak si jistě dokážete představit, spousta lidí se po útoku potýkala s problémy. Je dobře, že jsme se mohli soustředit na projekt obnovy."
    [326]
-    1 string data = "I've been seeing a lot of people smiling again lately. It feels nice."
+    1 string data = "Poslední dobou vidím zase hodně lidí, jak se usmívají. Je to příjemný pocit."
    [327]
-    1 string data = "I'll be visiting Mirth for the first time soon! Some of my friends decided to move there and we haven't seen each other for a while."
+    1 string data = "Brzy poprvé navštívím Veselí! Někteří z mých přátel se tam rozhodli přestěhovat a dlouho jsme se neviděli."
    [328]
-    1 string data = "A lot of us came down to help as soon as we heard the news. "
+    1 string data = "Hodně z nás se sjelo na pomoc, jakmile jsme se dozvěděli tu novinu."
    [329]
-    1 string data = "The Molekin are really hard workers, and so knowledgeable. I don't know how we would have done it without them."
+    1 string data = "Molekinové jsou opravdu pracovití a tak znalí. Nevím, jak bychom to bez nich zvládli."
    [330]
-    1 string data = "Just one more... "
+    1 string data = "Už jenom jeden..."
    [331]
-    1 string data = "This place will be GRANDIOSE!"
+    1 string data = "Tohle místo bude GRANDIÓZNÍ!"
    [332]
-    1 string data = "The town comes first of course, but someone has to worry about the ships."
+    1 string data = "Město je samozřejmě prvořadé, ale někdo se musí starat o lodě."
    [333]
-    1 string data = "When my work is done, I think I'll visit the arena."
+    1 string data = "Až budu mít hotovou práci, asi navštívím arénu."
    [334]
-    1 string data = "In the end, I decided to return from Mirth and help restore the shipyard."
+    1 string data = "Nakonec jsem se rozhodl, že se vrátím z Veselí a pomohu obnovit loděnici."
    [335]
-    1 string data = "After everything is done here, I think I'll go back to Mirth."
+    1 string data = "Až tady bude všechno hotové, myslím, že se vrátím do Veselí."
    [336]
-    1 string data = "The place is rather quiet since everyone is busy rebuilding the town."
+    1 string data = "Je tady docela klid, protože všichni jsou zaneprázdněni obnovou města."
    [337]
-    1 string data = "We do our part by providing as much food and drink as we can."
+    1 string data = "Svůj díl práce odvádíme tím, že poskytujeme co nejvíce jídla a pití."
    [338]
-    1 string data = "We have so many customers now! The arena really gave Brisk a new lease on life."
+    1 string data = "Máme teď spoustu zákazníků! Aréna skutečně vdechla Svěžínu nový život."
    [339]
-    1 string data = "In the end, I was wrong about the pirates. They really helped, plus they play amazing music!"
+    1 string data = "Nakonec jsem těm pirátům křivdila. Opravdu mi pomohli a navíc hrají úžasnou muziku!"
    [340]
-    1 string data = "I know a lot of things!"
+    1 string data = "Umím spoustu věcí!"
    [341]
-    1 string data = "I meant that as humble boast... Am I not doing this right? Is this a bad time?"
+    1 string data = "Myslel jsem to jako skromnou chloubu... Nedělám to snad správně? Je nevhodná doba?"
    [342]
-    1 string data = "It's been a lot of work, but it feels good to be doing the right thing."
+    1 string data = "Bylo to hodně práce, ale je to dobrý pocit, že děláme správnou věc."
    [343]
-    1 string data = "I'm really happy we were able to come and help the people of Brisk, they've always been so nice to us. "
+    1 string data = "Jsem opravdu rád, že jsme mohli přijet a pomoci lidem ve Svěžíně, vždycky k nám byli moc milí. "
    [344]
-    1 string data = "Lots of challengers think they're tough, but very few make it past the Bronze Rank!"
+    1 string data = "Spousta vyzyvatelů si myslí, že jsou tvrďáci, ale jen málo z nich se dostane přes Bronzový stupeň!"
    [345]
-    1 string data = "I could do it easy, but it wouldn't be fair to the others, so I'm restraining myself for their sake."
+    1 string data = "Zvládnul bych to levou zadní, ale nebylo by to fér vůči ostatním, takže se kvůli nim krotím."
    [346]
-    1 string data = "This bardcore band is amazing! I wish they sold merch!"
+    1 string data = "Tahle bardcorová kapela je úžasná! Kéž by prodávali merch!"
    [347]
-    1 string data = "Today was the most intense arena match ever seen for a lot of people in the crowd."
+    1 string data = "Dneska to byl pro spoustu lidí v publiku ten nejnapínavější zápas v aréně, jaký kdy viděli."
    [348]
-    1 string data = "Not for me though!"
+    1 string data = "Pro mě však ne!"
    [349]
-    1 string data = "I fail to see how this would get a barrel to roll efficiently."
+    1 string data = "Nechápu, jak by se s tímhle mohl sud efektivně kutálet."
    [350]
-    1 string data = "I'm telling you, he had a magic shirt that made him super muscular!"
+    1 string data = "To ti řeknu, měl kouzelnou košili, díky které byl super svalnáč!"
    [351]
-    1 string data = "But only for like ten seconds."
+    1 string data = "Ale jenom asi na deset vteřin."
    [352]
-    1 string data = "Pfff! You're terrible at boasting, make your fake story believable, at least!"
+    1 string data = "Pfff! Ty se neumíš vychloubat, aspoň tu svou falešnou historku podej věrohodněji!"
    [353]
-    1 string data = "I'm not sure if he means what he says, or if he's just taking the "humble" part of it too far..."
+    1 string data = "Nejsem si jistý, jestli to myslí vážně, co říká, nebo to s tou 'skromností' prostě jenom přehání..."
    [354]
     1 string data = "..."
    [355]
-    1 string data = "I'm still very perceptive, of course!"
+    1 string data = "Pořád jsem ovšem velmi všímavý!"
    [356]
-    1 string data = "It's my first time outside of Mooncradle. Feels good to see some familiar faces!"
+    1 string data = "Tohle je poprvé, co jsem mimo Měsíční Kolébku. Je hezké vidět známé tváře!"
    [357]
-    1 string data = "Hey, [MAINCHAR] and [OFFCHAR]! Have you come to check out the arena too?"
+    1 string data = "Ahoj, [MAINCHAR] a [OFFCHAR]! Taky jste se přišli podívat do arény?"
    [358]
-    1 string data = "Twice on the same side is how I do it."
+    1 string data = "Dvakrát na stejné straně, tak to dělám já."
    [359]
-    1 string data = "Have you defeated all of the <color=magic>Wheels</color> champions yet? Someone told me that it's even possible to challenge <color=good>The Watchmaker</color> herself!"
+    1 string data = "Už jste porazili všechny šampiony<color=magic>Kotoučů</color>? Někdo mi říkal, že je možné vyzvat i samotnou <color=good>Hodinářku</color>!"
    [360]
-    1 string data = "I'm not too good at humble boasting. I'm just here to relax!"
+    1 string data = "Nejsem příliš dobrý ve skromné chloubě. Jsem tu jen proto, abych si odpočinul!"
    [361]
-    1 string data = "-Welcome to <color=location>The Humble Boast</color>-"
+    1 string data = "-Vítejte ve <color=location>Skromné chloubě</color>-"
    [362]
-    1 string data = "Please boast humbly and responsibly."
+    1 string data = "Chlubte se prosím pokorně a zodpovědně."
    [363]
-    1 string data = "Ugh... I hate fishing SO much, but my dad says we can't leave until we've caught enough."
+    1 string data = "Uh... Strašně nesnáším rybaření, ale táta říká, že nemůžeme odejít, dokud toho nechytíme dost."
    [364]
-    1 string data = "We've been here FOREVER! Think you could lend a hand?"
+    1 string data = "Jsme tu už CELOU VĚČNOST! Myslíš, že bys nám mohl pomoct?"
    [365]
-    1 string data = "Once we have [FISH_COUNT] filets, we'll be able to leave."
+    1 string data = "Až budeme mít [FISH_COUNT] filetů, budeme moci odejít."
    [366]
-    1 string data = "Can you spare some fish? I really want to get out of here!"
+    1 string data = "Podělili byste se o nějaké ryby? Opravdu se odsud chci dostat!"
    [367]
-    1 string data = "Give all ([FISH_COUNT])"
+    1 string data = "Dát všech ([FISH_COUNT])"
    [368]
-    1 string data = "Sorry, no"
+    1 string data = "Promiň, ne."
    [369]
-    1 string data = "Thanks! Only [FISH_COUNT] to go!"
+    1 string data = "Díky! Zbývá už jen [FISH_COUNT]!"
    [370]
-    1 string data = "No way, we can leave at last! Here, this is for you."
+    1 string data = "Neuvěřitelné, konečně můžeme odejít! Tady, tohle je pro vás."
    [371]
-    1 string data = "You got this, son, only [FISH_COUNT] more!"
+    1 string data = "Drž se, synku, už jen [FISH_COUNT]!"
