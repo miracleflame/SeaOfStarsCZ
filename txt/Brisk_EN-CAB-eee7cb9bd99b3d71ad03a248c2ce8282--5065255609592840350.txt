@@ -577,7 +577,7 @@
    [281]
     1 string data = "Vítejte v Potrhlých truhlách!"
    [282]
-    1 string data = "Za pouhých 5 G můžete otevřít jakoukoli truhlu a nechat si její obsah!"
+    1 string data = "Za pouhých 5 G můžete otevřít jakoukoliv truhlu a nechat si její obsah!"
    [283]
     1 string data = "Pokud pětkrát najdete hlavní výhru 10 G, dám vám <color=magic>speciální odměnu</color>!"
    [284]
@@ -603,13 +603,13 @@
    [294]
     1 string data = "10 G!? To je vskutku hlavní výhra!"
    [295]
-    1 string data = "2 G, co? No, pořád lepší než otevřít tu prázdnou."
+    1 string data = "2 G, co? No, pořád lepší, než otevřít tu prázdnou."
    [296]
     1 string data = "Uf, prázdná."
    [297]
     1 string data = "Díky za účast!"
    [298]
-    1 string data = "Můj ty bože! Právě jste již popáté vybrali hlavní výhru!"
+    1 string data = "Můj ty světe! Právě jste již popáté vybrali hlavní výhru!"
    [299]
     1 string data = "<color=magic>Speciální odměna</color> je celá vaše. Tady!"
    [300]

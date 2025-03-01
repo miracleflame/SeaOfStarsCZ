@@ -121,13 +121,13 @@
    [53]
     1 string data = "O pár dní později..."
    [54]
-    1 string data = "To bylo hodně! Zdá se, že odtud to už zvládnou sami."
+    1 string data = "Bylo toho hodně! Zdá se, že od této chvíle to už zvládnou sami."
    [55]
     1 string data = "Pěkně ses hecnul, Garle."
    [56]
     1 string data = "A taky to byla příjemná změna tempa!"
    [57]
-    1 string data = "Mladí mistři?"
+    1 string data = "Máte chvilku?"
    [58]
     1 string data = "Přišel za vámi nějaký starý pán."
    [59]
@@ -159,9 +159,9 @@
    [72]
     1 string data = "Musí přece existovat způsob!"
    [73]
-    1 string data = "Je mi líto, Valerie. Pokud existuje zázrak, který potřebujeme, není v našich zdech zaznamenán..."
+    1 string data = "Je mi líto, Valerie. Pokud existuje zázrak, který potřebujeme, není o něm u nás ani zmínka..."
    [74]
-    1 string data = "Tak ho vystopujeme a dáme mu co proto!"
+    1 string data = "Tak toho Přiživovače vystopujeme a dáme do toho všechno!"
    [75]
     1 string data = "Já se k vám nepřidám."
    [76]
@@ -169,11 +169,11 @@
    [77]
     1 string data = "Ale vy jste ředitel... To jistě nemyslíte vážně!?"
    [78]
-    1 string data = "NECHÁPETE!"
+    1 string data = "NECHÁPETE TO!"
    [79]
     1 string data = "Přiživovač sváru má nezměrnou moc."
    [80]
-    1 string data = "Bez zatmění je odolný vůči naší magii a k žádnému nedojde dříve, než stihne nashromáždit svou moc."
+    1 string data = "Bez zatmění je odolný vůči naší magii a k žádnému nedojde dříve, než stihne svou moc nashromáždit."
    [81]
     1 string data = "Ten Přiživovač nám vzal skoro všechno, dokonce i v době, kdy byl náš řád v plné síle."
    [82]
@@ -189,13 +189,13 @@
    [87]
     1 string data = "..."
    [88]
-    1 string data = "Prosím... dopřejte mi to... Vydržel jsem víc, než lze vyjádřit."
+    1 string data = "Prosím... dopřejte mi to... Přetrpěl jsem víc, než lze vyjádřit."
    [89]
     1 string data = "Jak si přejete, pane řediteli... Nemůžeme vás nutit."
    [90]
     1 string data = "Děkuji... Mám před sebou mnoho truchlení."
    [91]
-    1 string data = "Stejně dostat se na ostrov Mesa je bez pomoci jeho strážce nemožné. Ještě štěstí, že máme X'tola a Y'eeta."
+    1 string data = "Stejně je nemožné dostat se na ostrov Mesa bez pomoci jeho strážce. Ještě štěstí, že máme X'tola a Y'eeta."
    [92]
     1 string data = "Y'eeta?"
    [93]
@@ -205,7 +205,7 @@
    [95]
     1 string data = "..."
    [96]
-    1 string data = "Ale to odbočuji. Obra z ostrova Mesa uspali akolyté Karnimanta."
+    1 string data = "Ale to odbočuji. Obra z ostrova Mesa uspali Akolyté Karnimanta."
    [97]
     1 string data = "Jedině on by mohl odstranit magickou bariéru, co skrývá ostrov, ale odmítá se probudit. Ze všech mých výzkumů vyplývá, že nejde o kletbu, kterou bychom dokázali zlomit."
    [98]
@@ -213,7 +213,7 @@
    [99]
     1 string data = "Drahá Valerie, tušil jsem, že to řekneš."
    [100]
-    1 string data = "Takže jste neoblomně odhodláni pokusit se dostat do starého zámku Karnimanta a utkat se s ním?"
+    1 string data = "Takže jste neoblomně odhodláni pokusit se dostat do starého zámku Karnimanta a utkat se s Přiživovačem?"
    [101]
     1 string data = "Rozhodně."
    [102]
@@ -221,7 +221,7 @@
    [103]
     1 string data = "Já sice nevím, jak toho lze dosáhnout, ale možná se najde někdo, kdo to ví."
    [104]
-    1 string data = "Takže máte pro nás vodítko?"
+    1 string data = "Takže pro nás máte vodítko?"
    [105]
     1 string data = "To moje nervy se vzdaly, ne moje víra ve vás."
    [106]
@@ -231,7 +231,7 @@
    [108]
     1 string data = "Zazvoňte na zvon s Korálovým kladivem a oni poznají, že vás poslal přítel."
    [109]
-    1 string data = "Vyhledejte audienci v jejich chrámu. Pokud vám teď někdo může nabídnout vedení, pak jedině <color=good>Věštec přílivů a odlivů</color>."
+    1 string data = "Vyhledejte audienci v jejich chrámu. Pokud vám teď někdo může nabídnout radu, pak jedině <color=good>Věštec přílivů a odlivů</color>."
    [110]
     1 string data = "A také možná budete chtít znovu navštívit Ostrov věčné mlhy. Nyní jste připraveni na jeho <color=magic>svatyni</color>. Tady je klíč."
    [111]
@@ -241,7 +241,7 @@
    [113]
     1 string data = "A kam se teď vydáte vy?"
    [114]
-    1 string data = "Kamkoli, kde není Akademie Zenit."
+    1 string data = "Kamkoliv, kde není Akademie Zenit."
    [115]
     1 string data = "Hele, proč nezůstanete tady ve Veselí?"
    [116]
@@ -273,7 +273,7 @@
    [129]
     1 string data = "Kam chcete jít teď?"
    [130]
-    1 string data = "Teď, když známe jméno obra, hádám, že bysme se mohli naučit nové schopnosti, kdybychom navštívili svatyni na Ostrově věčné mhly."
+    1 string data = "Teď, když známe jméno obra, hádám, že byste se mohli naučit nové schopnosti, kdybychom navštívili svatyni na Ostrově věčné mhly."
    [131]
     1 string data = "Nebo bychom si to mohli nechat na později a jít nyní hledat Věštce přílivů a odlivů. Strážcův ostrov je ten s velkou meditující sochou."
    [132]
@@ -473,7 +473,7 @@
    [229]
     1 string data = "Hledá se odborník na relaxaci."
    [230]
-    1 string data = "Hahaha, připomínají mi vás dva, když jste byli mladí!"
+    1 string data = "Hahaha, připomínají mi vás dva, když jste byli malí!"
    [231]
     1 string data = "Tohle je opravdu pěkný dům. Děkuji, nečekal jsem tolik..."
    [232]
@@ -509,7 +509,7 @@
    [247]
     1 string data = "Teda, ty lázně byly fakt něco! Skoro jsem cítila, jak se mi zlepšuje zdraví. Haha!"
    [248]
-    1 string data = "Je to příjemný pocit starat se o všední úkoly!"
+    1 string data = "Je to příjemný pocit, starat se o všední úkoly!"
    [249]
     1 string data = "Nevěděl jsem, že piráti umí být hudebníci! Jsou dobří!"
    [250]
@@ -529,19 +529,19 @@
    [257]
     1 string data = "Nevím, co si mám myslet o Garlově smrti. Já... Já prostě..."
    [258]
-    1 string data = "Jsem tak šťastný, že jsem se sem přestěhoval. Jakmile jsem ucítil vzduch plný borovic, věděl jsem, že to bylo správné rozhodnutí!"
+    1 string data = "Jsem tak šťastný, že jsem se sem přestěhoval. Jakmile jsem ucítil tu vůni borovic, věděl jsem, že to bylo správné rozhodnutí!"
    [259]
     1 string data = "Tohle místo je tak klidné..."
    [260]
-    1 string data = "Jsem ohromen tím, jak všichni tvrdě pracují. Předpokládám, že je to tím účelem."
+    1 string data = "Jsem ohromena tím, jak všichni tvrdě pracují. Předpokládám, že je to tím odhodláním."
    [261]
     1 string data = "Je tu tak dobrý vzduch."
    [262]
-    1 string data = "Měl bych se jít podívat do Krypty na severu od města. Někteří lidé tam byli a říkali, že je to opravdu působivé."
+    1 string data = "Měla bych se jít podívat do Krypty na severu od města. Někteří lidé tam byli a říkali, že je to opravdu působivé."
    [263]
     1 string data = "Šel jsem se podívat do Krypty. Bude to chtít víc než jednu návštěvu, jestli to mám všechno pojmout!"
    [264]
-    1 string data = "Je skvělé začít znovu poté, co jsem ve Svěžíně přišel skoro o všechno."
+    1 string data = "Je skvělé začít znovu poté, co jsem ve Svěžíně přišla skoro o všechno."
    [265]
     1 string data = "Jsem moc zarmoucený Garlovou smrtí..."
    [266]
@@ -561,7 +561,7 @@
    [273]
     1 string data = "Pokud nějaké najdete, nevadilo by vám přinést mi je? Veselí by to jen prospělo!"
    [274]
-    1 string data = "Našli jste nějaké nové <color=magic>stavební schémata</color>?"
+    1 string data = "Našli jste nějaké nové <color=magic>stavební plány</color>?"
    [275]
     1 string data = "Zajímavé! Pojďme se pustit do práce!"
    [276]

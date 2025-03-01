@@ -337,7 +337,7 @@
    [161]
     1 string data = "Odhodláni pomoci přeživším katastrofy, zanedlouho se vrhnou střemhlav do středu bouře, aby čelili legendární starodávné kletbě..."
    [162]
-    1 string data = "A tak bylo založeno město Veselí, zatímco lidé, kteří upřednostnili zůstat vě Svěžíně, pracovali na obnovení jeho původní krásy."
+    1 string data = "A tak bylo založeno město Veselí, zatímco lidé, kteří upřednostnili zůstat ve Svěžíně, pracovali na obnovení jeho původní krásy."
    [163]
     1 string data = "Sklíčení, avšak pořád odhodláni, [MAINCHAR], [OFFCHAR], Garl a Seraï vyplouvají na Strážcův ostrov v naději, že najdou Věštce přílivů a odlivů."
    [164]

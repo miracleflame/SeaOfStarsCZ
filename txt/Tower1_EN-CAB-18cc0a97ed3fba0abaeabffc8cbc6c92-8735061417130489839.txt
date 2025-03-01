@@ -13,20 +13,20 @@
   1 Array Array (9 items)
    0 int size = 9
    [0]
-    1 string data = "The Sacrosanct Spires... It has been so long."
+    1 string data = "Svatosakrální věže... Už je to tak dávno."
    [1]
-    1 string data = "I must find the frequency. One moment."
+    1 string data = "Musím to správně naladit. Chvíli sečkejte."
    [2]
-    1 string data = "<color=magic>Songster Magic</color>... Impossible..."
+    1 string data = "<color=magic>Magie Pěvců</color>... To není možné..."
    [3]
-    1 string data = "Did you think I was younger than you, Great Alchemist?"
+    1 string data = "Vy jste si myslel, že jsem mladší než vy, Velký alchymisto?"
    [4]
     1 string data = "..."
    [5]
-    1 string data = "If my understanding is correct, you have never visited this world before."
+    1 string data = "Chápu-li to správně, nikdy předtím jste na tento svět nezavítal."
    [6]
-    1 string data = "You should be warned about the <color=bad>cultists</color>. Their origins-"
+    1 string data = "Měl bych vás o tom <color=bad>kultu</color> varovat. Jeho vznik-"
    [7]
-    1 string data = "We will deal with whatever lies ahead. There is no other way."
+    1 string data = "My už si s tím, co nás čeká, poradíme. Stejně to jinak nejde."
    [8]
-    1 string data = "Then let us proceed."
+    1 string data = "Tak tedy pokračujme."

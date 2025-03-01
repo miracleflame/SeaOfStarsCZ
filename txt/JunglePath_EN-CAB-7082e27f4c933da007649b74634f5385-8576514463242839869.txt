@@ -21,9 +21,9 @@
    [3]
     1 string data = "VY!"
    [4]
-    1 string data = "Pomalu, pomalu, promluvme si. Není třeba, abyste tuhle pochůzku dotáhli do konce."
+    1 string data = "Pomalu, pomalu, promluvme si. Není třeba, abyste tenhle úkol dotáhli do konce."
    [5]
-    1 string data = "Co se děje? Jste nervózní?"
+    1 string data = "Co se děje? Snad se nás nebojíte?"
    [6]
     1 string data = "No to jsme ale vznětliví."
    [7]
@@ -39,4 +39,4 @@
    [12]
     1 string data = "Vychutnejte si to. Příště se setkáme naposledy."
    [13]
-    1 string data = "Nástěnná malba vyobrazuje nějakou kletbu kolem květiny."
+    1 string data = "Nástěnná malba vyobrazuje nějakou kletbu o květině."
