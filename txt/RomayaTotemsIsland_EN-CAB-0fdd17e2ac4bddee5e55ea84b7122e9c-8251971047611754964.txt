@@ -13,10 +13,10 @@
   1 Array Array (4 items)
    0 int size = 4
    [0]
-    1 string data = "Sealed by a mysterious force..."
+    1 string data = "Uzavřeno tajemnou silou..."
    [1]
-    1 string data = "These <color=magic>runes</color>... Doesn't feel like we'll get far without a clue."
+    1 string data = "Tyto <color=magic>runes</color>... Nejspíš se bez nápovědy nedostaneme daleko."
    [2]
-    1 string data = "The marsh on Mesa Island. We could try asking the necromancer's sister."
+    1 string data = "Bažina na ostrově Mesa. Mohli bychom se zkusit zeptat nekromantčiny sestry."
    [3]
-    1 string data = "Good idea."
+    1 string data = "Dobrý nápad."

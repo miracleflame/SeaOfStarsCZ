@@ -13,82 +13,82 @@
   1 Array Array (40 items)
    0 int size = 40
    [0]
-    1 string data = "It's locked."
+    1 string data = "Zamčeno."
    [1]
-    1 string data = "Hooooyyy!"
+    1 string data = "Huuuyyy!"
    [2]
-    1 string data = "Well, well, well, look what you've gone and done!"
+    1 string data = "No, no, no, podívej, co jsi udělal!"
    [3]
-    1 string data = "Hey, mister! Sorry, it's just, I was given this-"
+    1 string data = "Zdravím, pane! Promiňte, já jenom, že jsem dostal tohle..."
    [4]
-    1 string data = "Easy now, son. I'm leading this conversation."
+    1 string data = "Klid, synku. Tenhle rozhovor vedu já."
    [5]
-    1 string data = "If there's one thing I know for sure, it's that you need the <color=magic>Hook of Time</color> to get in here."
+    1 string data = "Jestli něco vím jistě, pak že potřebuješ <color=magic>Hák času</color>, aby ses sem dostal."
    [6]
-    1 string data = "And if there's another thing I know for sure, it's that they don't just up and give the Hook of Time to anyone."
+    1 string data = "A jestli vím jistě ještě něco, pak to, že Hák času jen tak nerozdávaj kdekomu."
    [7]
-    1 string data = "I just asked, really."
+    1 string data = "Prostě jsem si ho vypýtal, vážně."
    [8]
-    1 string data = "Right."
+    1 string data = "Jistě."
    [9]
-    1 string data = "Look, I get it, I also got to return. Point is, they must have liked you a lot."
+    1 string data = "Hele, já to chápu, taky se musím vrátit. Jde o to, že tě museli mít hodně rádi."
    [10]
-    1 string data = "Oh, I don't know about that."
+    1 string data = "No, tak to nevím."
    [11]
-    1 string data = "The oblivious type, huh? Fine, I'll bite."
+    1 string data = "Zapomnětlivý typ, co? Fajn, beru."
    [12]
-    1 string data = "What exactly did you ask for?"
+    1 string data = "Co přesně sis vypýtal?"
    [13]
-    1 string data = "I just wanted dinner with my friends at the <color=location>Golden Pelican</color> in Brisk."
+    1 string data = "Chtěl jsem jen povečeřet s přáteli u <color=location>Zlatého pelikána</color> ve Svěžíně."
    [14]
-    1 string data = "Oh yeah?"
+    1 string data = "Vážne?"
    [15]
-    1 string data = "Now that does change everything, doesn't it?"
+    1 string data = "Tak tohle úplně mění věc, že ano?"
    [16]
-    1 string data = "Do you know about the place?"
+    1 string data = "Znáte to tam?"
    [17]
-    1 string data = "Know about it? I built it myself."
+    1 string data = "Jestli znám? Sám jsem ho vybudoval."
    [18]
-    1 string data = "Really!?"
+    1 string data = "Opravdu!?"
    [19]
-    1 string data = "<color=good>Chef Bass</color>, at your service."
+    1 string data = "<color=good>Šéfkuchař Okoun</color>, k tvím službám."
    [20]
-    1 string data = "No way! You're the Chef?"
+    1 string data = "Není možné! Vy jste šéfkuchař?"
    [21]
-    1 string data = "In the flesh."
+    1 string data = "Na mou duši."
    [22]
-    1 string data = "So... Can we have the dinner?"
+    1 string data = "Takže... Můžeme si dát tu večeři?"
    [23]
-    1 string data = "Be quite the disappointment if I said no at this point, huh?"
+    1 string data = "Asi by to bylo pěkné zklamání, kdybych v tuhle chvíli řekl ne, co?"
    [24]
-    1 string data = "You and your friends are officially invited. How many will be attending?"
+    1 string data = "Ty a tví přátelé jste oficiálně zvaní. Kolik lidí se zúčastní?"
    [25]
-    1 string data = "How many can we be?"
+    1 string data = "Kolik nás může být?"
    [26]
-    1 string data = "It's your wish, son. You tell me."
+    1 string data = "Je to tvé přání, synku. To mi řekni ty."
    [27]
-    1 string data = "Haha, this is too much!"
+    1 string data = "Haha, tohle je síla!"
    [28]
-    1 string data = "Okay, let's see. Definitely all of us here..."
+    1 string data = "Dobře, tak se na to podíváme. Určitě jsme tu všichni..."
    [29]
-    1 string data = "Plus Malkomud, Teaks, and the pirates..."
+    1 string data = "Plus Malkomud, Teaks a piráti..."
    [30]
-    1 string data = "Oh! I bet Moraine would show up, too!"
+    1 string data = "Jo a vsadím se, že Moraine se taky ukáže!"
    [31]
-    1 string data = "There would be twelve of us, if that's okay."
+    1 string data = "Bylo by nás dvanáct, jestli by to šlo."
    [32]
-    1 string data = "Good on you for making it count."
+    1 string data = "Jak je libo."
    [33]
-    1 string data = "Right on! How does it work, do we just show up at the Golden Pelican?"
+    1 string data = "Pecka! A co dál, prostě se objevíme u Zlatého pelikána?"
    [34]
-    1 string data = "That you do. And then you give this to <color=good>Gaspar</color>."
+    1 string data = "Přesně tak. A pak dáš tohle <color=good>Gasparovi</color>."
    [35]
-    1 string data = "This is exciting! Thanks, Chef Bass."
+    1 string data = "Jsem nadšením bez sebe! Díky, šéfe Okoune."
    [36]
-    1 string data = "You got it."
+    1 string data = "S radostí."
    [37]
-    1 string data = "There's a fish-shaped keyhole behind the statue."
+    1 string data = "Za tamtou sochou je klíčová dírka ve tvaru ryby."
    [38]
-    1 string data = "Hey! It's a key! "
+    1 string data = "Hele! To je klíč!"
    [39]
-    1 string data = "The glowing one is the key. All you have to do is "catch" it!"
+    1 string data = "To svítící je klíč. Stačí ho jen 'chytit'!"

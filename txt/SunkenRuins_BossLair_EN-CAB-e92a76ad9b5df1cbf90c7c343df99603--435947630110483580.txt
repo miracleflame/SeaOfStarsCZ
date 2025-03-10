@@ -13,24 +13,24 @@
   1 Array Array (11 items)
    0 int size = 11
    [0]
-    1 string data = "Empty."
+    1 string data = "Prázdno."
    [1]
-    1 string data = "It's empty..."
+    1 string data = "Nic tam není..."
    [2]
-    1 string data = "Hey, are you in there? What was the point of all this?"
+    1 string data = "Haló, jste tam? Jaký to mělo celé smysl?"
    [3]
     1 string data = "..."
    [4]
-    1 string data = "What a waste of time."
+    1 string data = "Taková ztráta času."
    [5]
-    1 string data = "Surely the Great Alchemist had good reasons to lead us here. Getting rid of this threat, perhaps?"
+    1 string data = "Velký alchymista měl jistě dobrý důvod, proč nás sem zavedl. Snad aby se zbavil této hrozby?"
    [6]
-    1 string data = "He just had it on him this whole time!?"
+    1 string data = "On to měl prostě celou dobu u sebe!?"
    [7]
-    1 string data = "Still so full of surprises!"
+    1 string data = "Nepřestane mě překvapovat!"
    [8]
     1 string data = "..."
    [9]
-    1 string data = "Let's just go."
+    1 string data = "Pojďme prostě dál."
    [10]
-    1 string data = "Looks like three keys of some sort are needed."
+    1 string data = "Vypadá to, že jsou potřeba nějaké tři klíče."

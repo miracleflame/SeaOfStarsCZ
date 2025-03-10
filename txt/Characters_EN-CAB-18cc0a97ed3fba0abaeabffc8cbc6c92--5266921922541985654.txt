@@ -275,7 +275,7 @@
    [130]
     1 string data = "Mirna"
    [131]
-    1 string data = "Šéfkuchař Bass"
+    1 string data = "Šéfkuchař Okoun"
    [132]
     1 string data = "Všichni"
    [133]

@@ -13,48 +13,48 @@
   1 Array Array (23 items)
    0 int size = 23
    [0]
-    1 string data = "Elevator offline. <color=magic>Kybermesh Battery</color> required."
+    1 string data = "Výtah je mimo provoz. Chybí <color=magic>Baterie Kybermesh</color>."
    [1]
-    1 string data = "Please use <color=magic>laser crane</color> for safe handling."
+    1 string data = "Pro bezpečnou manipulaci použijte prosím <color=magic>laserový jeřáb</color>."
    [2]
-    1 string data = "The elevator is online."
+    1 string data = "Výtah je v provozu."
    [3]
-    1 string data = "Exit factory"
+    1 string data = "Odejít z továrny"
    [4]
-    1 string data = "Stay"
+    1 string data = "Zůstat"
    [5]
-    1 string data = "An <color=magic>ID Card</color> is required to operate the crane."
+    1 string data = "K ovládání jeřábu je zapotřebí <color=magic>ID karta</color>."
    [6]
-    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc, 1x Kyber Ore, 1x Power Unit"
+    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy, 1x Kyberruda, 1x Napájecí jednotka"
    [7]
-    1 string data = "Kybermesh Battery Printer missing components: 1x Kyber Ore, 1x Power Unit"
+    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Kyberruda, 1x Napájecí jednotka"
    [8]
-    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc, 1x Power Unit"
+    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy, 1x Napájecí jednotka"
    [9]
-    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc, 1x Kyber Ore"
+    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy, 1x Kyberruda"
    [10]
-    1 string data = "Kybermesh Battery Printer missing components: 1x Blueprint Disc"
+    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy"
    [11]
-    1 string data = "Kybermesh Battery Printer missing components: 1x Kyber Ore"
+    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Kyberruda"
    [12]
-    1 string data = "Kybermesh Battery Printer missing components: 1x Power Unit"
+    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Napájecí jednotka"
    [13]
-    1 string data = "Processing..."
+    1 string data = "Zpracovávám..."
    [14]
-    1 string data = "Kybermesh Battery completed. Sending to elevator room."
+    1 string data = "Baterie Kybermesh dokončena. Odesílám do výtahové místnosti."
    [15]
-    1 string data = "Please use laser crane for safe handling."
+    1 string data = "Pro bezpečnou manipulaci použijte laserový jeřáb."
    [16]
-    1 string data = "Power Unit dispenser online."
+    1 string data = "Výdejní zařízení napájecí jednotky je v provozu."
    [17]
-    1 string data = "Please insert Wireplate Sheet."
+    1 string data = "Prosím vložte elektronické součástky."
    [18]
-    1 string data = "Processing Complete."
+    1 string data = "Zpracování dokončeno."
    [19]
-    1 string data = "Please retrieve completed Power Unit."
+    1 string data = "Prosím odeberte dokončenou napájecí jednotku."
    [20]
-    1 string data = "Elevator online."
+    1 string data = "Výtah je v provozu."
    [21]
-    1 string data = "It's locked, but it looks like the roof is accessible."
+    1 string data = "Je zamčeno, ale vypadá to, že střecha je přístupná."
    [22]
-    1 string data = "Looks like a device would fit here."
+    1 string data = "Vypadá to, že by se sem vešlo nejaké zařízení."

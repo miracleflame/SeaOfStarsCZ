@@ -13,50 +13,50 @@
   1 Array Array (24 items)
    0 int size = 24
    [0]
-    1 string data = "Like fish in a barrel. Hehehe..."
+    1 string data = "Jako ryby v sudu. Hehehe..."
    [1]
-    1 string data = "Let us out!"
+    1 string data = "Pusť nás ven!"
    [2]
-    1 string data = "Afraid I can't do that, Repine gal."
+    1 string data = "Obávám se, že to nepůjde, Repotačko."
    [3]
     1 string data = "(...)"
    [4]
-    1 string data = "(The glass one sure is odd...)"
+    1 string data = "(Ten skleněný je opravdu zvláštní...)"
    [5]
-    1 string data = "You heard her! Free us or else!"
+    1 string data = "Slyšels ji! Pusť nás, nebo!"
    [6]
     1 string data = "Hehehe..."
    [7]
-    1 string data = "Or else what? The sitting <color=bad>Triumvirate of Eminence</color> has remained unchallenged for centuries."
+    1 string data = "Nebo co? Zasedající <color=bad>Triumvirát Eminence</color> po staletí nikdo neohrozil."
    [8]
-    1 string data = "You think you lowlives have a shot at replacing us?"
+    1 string data = "Myslíte si, že vy nuzáci máte šanci nás vystrnadit?"
    [9]
-    1 string data = "We've been through worse."
+    1 string data = "Už jsme zvládli i horší věci."
    [10]
     1 string data = "Hehehe..."
    [11]
-    1 string data = "Then get through this!"
+    1 string data = "Tak zvládněte také tohle!"
    [12]
     1 string data = "..."
    [13]
-    1 string data = "To the gallows they go."
+    1 string data = "Na šibenici s váma."
    [14]
-    1 string data = "It's all the same in the end. Hehehe..."
+    1 string data = "Pokaždé to končí stejně. Hehehe..."
    [15]
-    1 string data = "*unintelligible*"
+    1 string data = "*něco si pro sebe mluví*"
    [16]
-    1 string data = "A soundproof barrier. My magic can't break it."
+    1 string data = "Zvukotěsná bariéra. Moje kouzla ji neprolomí."
    [17]
-    1 string data = "This one is not a cultist. Might be able to help if we can free him."
+    1 string data = "Tenhle není kultista. Možná nám pomůže, když ho osvobodíme."
    [18]
-    1 string data = "Free at last! Thank you, benevolent strangers."
+    1 string data = "Konečně na svobodě! Děkuji vám, laskaví cizinci."
    [19]
-    1 string data = "My wind magic can help you escape the gallows. Here."
+    1 string data = "Moje větrná magie vám snad pomůže uniknout šibenici. Tady."
    [20]
-    1 string data = "The code compels me to leave the Spires, but I will not forget this debt."
+    1 string data = "Kodex mě zavazuje opustit Věže, ale na tento dluh nezapomenu."
    [21]
-    1 string data = "Safe journeys!"
+    1 string data = "Šťastnou cestu!"
    [22]
-    1 string data = "Not fooling me twice."
+    1 string data = "Dvakrát mě neoblafnete."
    [23]
-    1 string data = "Here's hoping the release mechanism is this way..."
+    1 string data = "Doufejme, že otvírací mechanismus je tímto směrem..."

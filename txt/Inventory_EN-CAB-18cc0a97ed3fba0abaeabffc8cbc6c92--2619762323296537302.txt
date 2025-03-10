@@ -1187,9 +1187,9 @@
    [586]
     1 string data = "Jedna ze součástí potřebných k vytištění Kybernetické baterie."
    [587]
-    1 string data = "Drátěný plát"
+    1 string data = "Elektronické součástky"
    [588]
-    1 string data = "Pravděpodobně by mohl být použit strojem k výrobě něčeho..."
+    1 string data = "Pravděpodobně by mohli být použity k výrobě něčeho..."
    [589]
     1 string data = "Napájecí jednotka"
    [590]
