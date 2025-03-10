@@ -253,7 +253,7 @@
    [119]
     1 string data = "Když otevřeli tu první, bylo jim hned všem jasné, že Velký orel je mnohem víc, než se o něm povídalo."
    [120]
-    1 string data = "Po odejmutí zátky nastalo zatmění Slunce a z oblohy přiletělo magické světlo, jež vytvarovalo poloostrov do srpku."
+    1 string data = "Po odejmutí zátky nastalo zatmění Slunce a z oblohy přiletělo magické světlo, jež vytvarovalo ostrov do srpku."
    [121]
     1 string data = "Na konci svého tance se všechno světlo spojilo na kraj útesu a z něj se zrodil strom tak nádherný, že vypadal jako ze snu."
    [122]
@@ -493,7 +493,7 @@
    [239]
     1 string data = "První z nich bylo bdít nad živly. Zatímco potopě nešlo předejít, udržení rovnováhy by zůstalo výzvou, pokud by se neobjevili noví Ovati."
    [240]
-    1 string data = "Za druhé měli strážit průchod do Hvězdného moře a pečlivě prověřovat ty, kdo by chtěli cestovat mezi světy."
+    1 string data = "Za druhé měli strážit průchod do Moře hvězd a pečlivě prověřovat ty, kdo by chtěli cestovat mezi světy."
    [241]
     1 string data = "A na závěr tu byla ona záležitost s Khukharrem."
    [242]

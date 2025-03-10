@@ -1259,7 +1259,7 @@
    [622]
     1 string data = "Měsíční Kolébka je tak poklidná. "
    [623]
-    1 string data = "Garlova pohřbu se zúčastnila celá vesnice. Všichni ho měli opravdu rádi."
+    1 string data = "Na Garlovův pohřeb přišla celá vesnice. Všichni ho měli opravdu rádi."
    [624]
     1 string data = "Nevěděl jsem, že Bojovníci Slunovratu dokáží oživovat mrtvé, to je neskutečné!"
    [625]
@@ -1271,7 +1271,7 @@
    [628]
     1 string data = "Úroda bude letos dobrá."
    [629]
-    1 string data = "Dnes večer budu na Garla myslet. Zasloužil si něco lepšího."
+    1 string data = "Dnes večer budu na Garla myslet. Zasloužil si víc."
    [630]
     1 string data = "A teď zas oživnul!? Je něco, co Garl nezažil?"
    [631]

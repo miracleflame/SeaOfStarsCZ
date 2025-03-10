@@ -133,7 +133,7 @@
    [59]
     1 string data = "*Ehm* To... uvidíme..."
    [60]
-    1 string data = "Zatím se vydáme na poloostrov a počkáme."
+    1 string data = "Zatím se vydáme na nedaleký ostrůvek a počkáme."
    [61]
     1 string data = "Jakmile padne soumrak, Večernice se na krátký okamžik objeví."
    [62]
@@ -155,7 +155,7 @@
    [70]
     1 string data = "Já udělám, jak kapitánka poroučí, jakože se Keenathan jmenuju!"
    [71]
-    1 string data = "Aye aye, kapitánko, můžeme vás alespoň bezpečně doprovodit na poloostrov?"
+    1 string data = "Aye aye, kapitánko, můžeme vás alespoň bezpečně doprovodit na ostrůvek?"
    [72]
     1 string data = "..."
    [73]

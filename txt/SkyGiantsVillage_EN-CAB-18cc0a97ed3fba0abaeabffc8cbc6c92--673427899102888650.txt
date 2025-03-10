@@ -423,7 +423,7 @@
    [204]
     1 string data = "Další!"
    [205]
-    1 string data = "Pirátský první důstojník Yolanda Serióznost Vdobrém Demolice Pilná Hlídka Praktičnost Kdykoliv Služba Fortwal!"
+    1 string data = "Pirátský první důstojník Yolanda Serióznost Vdobrém Demolice Pilná Hlídka Praktičnost Vždy-k-službám Fortwal!"
    [206]
     1 string data = "Našli jsme."
    [207]
@@ -447,7 +447,7 @@
    [216]
     1 string data = "Tímto vám udělujeme přístup do Moře hvězd."
    [217]
-    1 string data = "Dovolte."
+    1 string data = "Prosím."
    [218]
     1 string data = "Čtyři potopení obři označují vstup."
    [219]

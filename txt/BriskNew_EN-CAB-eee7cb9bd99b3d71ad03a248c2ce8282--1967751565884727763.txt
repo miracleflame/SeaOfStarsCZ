@@ -553,27 +553,27 @@
    [269]
     1 string data = "The ultimate meal!"
    [270]
-    1 string data = "Hej, hezké počasí je tady!"
+    1 string data = "Hey l'beau temps est pogné!"
    [271]
-    1 string data = "Prostě tě nemůžu vystát."
+    1 string data = "J'viens fou de t'ça moé."
    [272]
-    1 string data = "Ležel jsem na asfaltu."
+    1 string data = "Me coucherais su l'asphatte."
    [273]
-    1 string data = "Tuhle jsme cestou sem dostali chuť na rajčatový sendvič, tak jsme se zastavili."
+    1 string data = "L'autre jour en ar'venant on avait l'goût d'manger un sandwich aux tomates, fak on est arrêtés."
    [274]
-    1 string data = "A pak se mě zeptá: "Dáte si to na pitě nebo na bagetě?""
+    1 string data = "Là le gars y me demande "Voulez-vous ça sur pita ou ben baguette?""
    [275]
-    1 string data = "Ptám se, jaký je v tom rozdíl, a on říká: "Pita je lehčí, bageta je křupavější.""
+    1 string data = "J'y demande cé quoi à différence, y me dit "Pita c'est plus léger, baguette c'est plus croustillant.""
    [276]
-    1 string data = "Hej, ty zlý téteux."
+    1 string data = "Hey, méchant téteux."
    [277]
-    1 string data = "A jednou jsem se zase podíval do jídelního lístku a uviděl jsem tam 'racinette'."
+    1 string data = "Pis un autre fois j'check l'menu, là je vois "racinette.""
    [278]
-    1 string data = "Ptám se: "Copak to je 'racinette'?"
+    1 string data = "Je leux d'mande "C'est quoi ça de la racinette?""
    [279]
-    1 string data = "Říká: "To je zázvorové pivo.""
+    1 string data = "Y me dit "C'est de la root beer.""
    [280]
-    1 string data = "Asi jsou nemocní."
+    1 string data = "Sont malades esti."
    [281]
     1 string data = "Vítejte ve Svěžíně! Opravy jsou téměř hotové!"
    [282]

@@ -439,7 +439,7 @@
    [212]
     1 string data = "Štěpení duše"
    [213]
-    1 string data = "Změť"
+    1 string data = "Smetí"
    [214]
     1 string data = "Slintavý polibek"
    [215]
@@ -515,7 +515,7 @@
    [250]
     1 string data = "Přelud"
    [251]
-    1 string data = "Výživná smrt"
+    1 string data = "Rozkvět smrti"
    [252]
     1 string data = "Pánevníctvo"
    [253]

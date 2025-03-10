@@ -557,11 +557,11 @@
    [271]
     1 string data = "Ach, [MAINCHAR] a [OFFCHAR]! Možná byste mi mohli pomoci? Mám pocit, že by Veselí prospělo více služeb, ale ocitl jsem se ve slepé uličce."
    [272]
-    1 string data = "Víte, stavět malé domky je dost snadné, ale pro složitější stavby bychom potřebovali nějaké <color=magic>plány</color>."
+    1 string data = "Víte, stavět malé domky je dost snadné, ale pro složitější stavby bychom potřebovali nějaké <color=magic>schémata</color>."
    [273]
     1 string data = "Pokud nějaké najdete, nevadilo by vám přinést mi je? Veselí by to jen prospělo!"
    [274]
-    1 string data = "Našli jste nějaké nové <color=magic>stavební plány</color>?"
+    1 string data = "Našli jste nějaké nové <color=magic>stavební schémata</color>?"
    [275]
     1 string data = "Zajímavé! Pojďme se pustit do práce!"
    [276]

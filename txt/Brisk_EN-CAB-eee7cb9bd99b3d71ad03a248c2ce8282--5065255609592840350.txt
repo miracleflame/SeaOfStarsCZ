@@ -31,7 +31,7 @@
    [8]
     1 string data = "Chcete-li něco kapitánce, řeknete to mně!"
    [9]
-    1 string data = "První důstojník <color=good>Yolanda Fortwal</color>, k vašim službám. Služba je vlastně moje druhé jméno!"
+    1 string data = "První důstojník <color=good>Yolanda Fortwal</color>, vždy k službám. To je vlastně moje druhé jméno!"
    [10]
     1 string data = "Jsme pirátská posádka, co pátrá po legendární lodi duchů. Do bitev se už nezapojujeme, ale kdysi jsme to dělali všecko!"
    [11]

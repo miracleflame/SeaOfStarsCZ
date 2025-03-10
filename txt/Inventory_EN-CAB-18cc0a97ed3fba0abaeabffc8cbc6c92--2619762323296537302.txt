@@ -1199,7 +1199,7 @@
    [592]
     1 string data = "Jedna ze součástí potřebných k vytištění Kybernetické baterie."
    [593]
-    1 string data = "Disk s plány"
+    1 string data = "Disk se schématy"
    [594]
     1 string data = "Jedna ze součástí potřebných k vytištění Kybernetické baterie."
    [595]
