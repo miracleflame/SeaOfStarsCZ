@@ -599,134 +599,134 @@
    [292]
     1 string data = "Musím brzy odejít, ale jestli chcete, můžeme si dát ještě jedno kolo."
    [293]
-    1 string data = "Do you want me to get real?"
+    1 string data = "Chcete, abych začal mluvit vážně?"
    [294]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [295]
-    1 string data = "No"
+    1 string data = "Ne"
    [296]
-    1 string data = "Are you absolutely sure? I can't guarantee it won't ruin the game for you."
+    1 string data = "Jste si naprosto jisti? Nemohu vám zaručit, že vám to nezkazí hru."
    [297]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [298]
-    1 string data = "No"
+    1 string data = "Ne"
    [299]
     1 string data = "..."
    [300]
-    1 string data = "Okay."
+    1 string data = "Dobrá."
    [301]
-    1 string data = "With this whole time traveling business, my memory tends to play tricks on me."
+    1 string data = "Se vším tím cestováním v čase má moje paměť tendenci si se mnou zahrávat."
    [302]
-    1 string data = "I don't remember whether or not we've met before, but if we have, you might be wondering how the boy from the well is doing."
+    1 string data = "Nepamatuji si, jestli jsme se už někdy setkali, ale pokud ano, možná by vás zajímalo, jak se daří tomu chlapci ze studny."
    [303]
-    1 string data = "The short answer is that he's doing better, but I suppose we're here for the long answer, so let's do a short recap."
+    1 string data = "Stručně řečeno se mu daří lépe, nicméně předpokládám, že jsme tu kvůli obsáhlé odpovědi, takže si to krátce zrekapitulujeme."
    [304]
-    1 string data = "The story so far."
+    1 string data = "Dosavadní příběh."
    [305]
-    1 string data = "There once was a little boy stuck in a well. It wasn't really clear why he was in there; people assumed he fell while playing, or that someone had pushed him."
+    1 string data = "Byl jednou jeden malý chlapec, který uvízl ve studni. Nebylo úplně jasné, proč tam vlastně je; lidé se domnívali, že spadl při hře nebo že ho někdo strčil."
    [306]
-    1 string data = "In truth, he had jumped in there himself."
+    1 string data = "Ve skutečnosti tam skočil sám."
    [307]
-    1 string data = "He spent years in the well, wasting away anxiously, feeling utterly inadequate."
+    1 string data = "Strávil ve studni roky, úzkostlivě chřadl a cítil se naprosto nepřístojně."
    [308]
-    1 string data = "He had a deep desire to share his ideas with the world, but shame having played such a big part in his upbringing, his will lay broken."
+    1 string data = "Měl hlubokou touhu podělit se o své nápady se světem, ale protože v jeho výchově hrál velkou roli stud, jeho vůle zůstávala zlomená."
    [309]
-    1 string data = "That's why the well suited him so perfectly. A place to hide, where he could be alone with his stories, with no one to mock or judge him."
+    1 string data = "Proto mu studna tak dokonale vyhovovala. Šlo o místo, kde se mohl schovat, kde mohl být sám se svými příběhy, kde se mu nikdo nemohl posmívat ani ho soudit."
    [310]
-    1 string data = "It was a safe life, unfortunately devoid of purpose, but at least shielded from rejection."
+    1 string data = "Byl to bezpečný život, bohužel bez cíle, no alespoň krytý před odmítnutím."
    [311]
-    1 string data = "Over the years, he made friends who helped him climb out, and helped him build his stories to share them with the world."
+    1 string data = "V průběhu let si našel přátele, kteří mu pomohli vylézt ven a pomohli mu vytvořit jeho příběhy, aby se o ně mohl podělit se světem."
    [312]
-    1 string data = "His friends were very talented indeed, and together they earned the means to keep collaborating in their own shared space."
+    1 string data = "Jeho přátelé byli vskutku velmi talentovaní a společně získávali prostředky, aby mohli dál spolupracovat ve svém vlastním sdíleném prostoru."
    [313]
-    1 string data = "And that, in short, is where this story ended five years ago."
+    1 string data = "A tam ve zkratce tento příběh před pěti lety skončil."
    [314]
-    1 string data = "A lot has happened since then, and this journey wouldn't feel whole without some closure, so here we go. Cloak on, mask off."
+    1 string data = "Od té doby se toho stalo hodně a tato pouť by nepůsobila uceleně bez nějakého završení, takže jdeme na to. Plášť na hlavu, masku dolů."
    [315]
-    1 string data = "It dawned on him somewhere during year two out of five of production. That for all of the sorrow inside him, there was still hate."
+    1 string data = "Někdy v průběhu druhého z těch pěti let produkce mu to došlo. Že přes všechen ten smutek v něm stále zůstává nenávist."
    [316]
-    1 string data = "Not the externalized kind, but the kind that is directed towards the self. A crippling sense of unworthiness."
+    1 string data = "Ne toho vnějšího typu, ale ta, která míří k sobě samému. Ochromující pocit méněcennosti."
    [317]
-    1 string data = "It had festered into a false promise. That with enough effort, something would rise from the ashes at long last."
+    1 string data = "Ten pocit vyhnil ve falešný příslib. Že při dostatečném úsilí konečně něco povstane z popela."
    [318]
-    1 string data = "A belief that the entire world just might be enough for two people to finally see that all along, they'd had someone worth welcoming, worth accepting."
+    1 string data = "Víra, že celý svět prostě může stačit k tomu, aby dva lidé konečně pochopili, že celou dobu měli někoho vítaného, koho stojí za to přijmout."
    [319]
-    1 string data = "But how would that even play out, exactly?"
+    1 string data = "Ale jak přesně by se to vůbec odehrálo?"
    [320]
-    1 string data = "Learning about the notion of healing fantasies completely floored him. His situation ticked all the boxes."
+    1 string data = "Zjištění o představě léčivých fantazií ho úplně uzemnilo. Jeho situace splňovala všechny předpoklady."
    [321]
-    1 string data = "Life simply didn't work that way. There could be no "click" moment for abusers, and certainly no travel back in time to set things right."
+    1 string data = "Takhle život prostě nefungoval. Pro násilníky nemohl nastat žádný moment "zacvaknutí" a už vůbec ne cestování zpět v čase, aby se věci daly do pořádku."
    [322]
-    1 string data = "All that was left was the future. And while some wounds may heal over time, there were a lot of doors, happy doors, that would remain shut forever."
+    1 string data = "Zbývala už jen budoucnost. A i když se některé rány mohou časem zahojit, byla tu spousta dveří, šťastných dveří, které zůstanou navždy zavřené."
    [323]
-    1 string data = "For months it all turned to fear."
+    1 string data = "Na celé měsíce se vše proměnilo ve strach."
    [324]
-    1 string data = "Fear of being nothing but a response."
+    1 string data = "Strach z toho, že není ničím jiným než odezvou."
    [325]
-    1 string data = "Fear of living in delusion that he was sticking it to those who had broken him, while in reality he was still dancing for them."
+    1 string data = "Strach z toho, že žije v sebeklamu, jak to natírá těm, kteří ho zlomili, zatímco ve skutečnosti pro ně stále tancoval."
    [326]
-    1 string data = "Going out of his way to work around the clock, constantly keeping the plates spinning as if there was a point, or an end, to it all."
+    1 string data = "Pořád se překonával, nepřetržitě makal, neustále udržoval rozjetý vlak, jako by to všechno mělo nějaký smysl nebo cíl."
    [327]
-    1 string data = "He had burned those bridges a long time ago, so why do their bidding still?"
+    1 string data = "Ty mosty už dávno spálil, tak proč jim ještě stále vycházet v ústřety?"
    [328]
-    1 string data = "And what was he thinking anyway, exposing the imaginary world he had used in order to survive, for everyone to judge and criticize?"
+    1 string data = "A co si vlastně myslel, když vystavoval imaginární svět, který využíval k přežití, aby ho všichni mohli soudit a kritizovat?"
    [329]
-    1 string data = "And so he crashed, but not so much in a physical way."
+    1 string data = "A tak se zhroutil, avšak ne po té fyzické stránce."
    [330]
-    1 string data = "It was like emotionally falling asleep, slowly but surely, until he felt next to nothing."
+    1 string data = "Bylo to, jako by emocionálně usínal, pomalu, ale jistě, až necítil téměř nic."
    [331]
-    1 string data = "But the work continued, for it was the only thing that kept him going."
+    1 string data = "No práce pokračovala, jelikož to bylo to jediné, co ho drželo na nohou."
    [332]
-    1 string data = "And with every passing day, he would routinely close the blinds on the rising sun to prevent the glare from creeping up on his screen."
+    1 string data = "A s každým dalším dnem rutinně zatahoval žaluzie před vycházejícím sluncem, aby se mu na obrazovku nevplížila jeho záře."
    [333]
-    1 string data = "Going through the motions, the work progressed, and progressed well, but he was losing his grip on reality."
+    1 string data = "Jak procházel drilem, práce postupovala a postupovala dobře, avšak on ztrácel pojem o realitě."
    [334]
-    1 string data = "During year four, the guardian he never knew he had reappeared, and she saved him one last time."
+    1 string data = "Během čtvrtého roku se znovu objevila strážkyně, o které netušil, že ji má, a naposled ho zachránila."
    [335]
-    1 string data = "His grandmother was dying, but in her final days found exactly the words that would give him purpose and sustenance."
+    1 string data = "Jeho babička umírala, ale ve svých posledních dnech našla přesně ta slova, která mu poskytla smysl a oporu."
    [336]
-    1 string data = "It washed over him in an instant. She had been there in the background all his life, a loving and caring presence, the much needed light in all this darkness."
+    1 string data = "V jediném okamžiku ho to zaplavilo. Po celý jeho život tu byla v pozadí její milující a starostlivá přítomnost, tolik potřebné světlo ve vší té temnotě."
    [337]
-    1 string data = "The foundation she had managed to build within him in the limited time they had spent together during his childhood was carrying him to this day."
+    1 string data = "Základy, které v něm dokázala vybudovat za ten omezený čas, co spolu strávili v dětství, ho nosily až do dnešních dní."
    [338]
     1 string data = "Merci Irène, je t'aime."
    [339]
-    1 string data = "He finally understood that to touch everything with gloves was to touch nothing but gloves. So he took them off, and let the memories flow."
+    1 string data = "Konečně pochopil, že dotýkat se všeho v rukavičkách znamená nedotýkat se ničeho jiného než rukaviček. Tak si je sundal a nechal vzpomínky plynout."
    [340]
-    1 string data = "...Riding his bicycle through a puddle of water to mark the road with the wet tire..."
+    1 string data = "...Jak projížděl na kole kaluží vody, aby mokrým dezénem označil cestu..."
    [341]
-    1 string data = "...Going through the box of popsicles at his friend's place and trying to see through the wrapper to avoid the orange ones..."
+    1 string data = "...Jak se probíral krabicí nanuků u kamaráda a snažil se vidět skrz obal, aby se vyhnul těm oranžovým..."
    [342]
-    1 string data = "...Feeling so thirsty that he liked to imagine that the first sip only served to give him the energy he needed to chug the glass..."
+    1 string data = "...Jak cítil takovou žízeň, že si rád představoval, jak mu první doušek dodá jen tolik energie, kolik potřebuje k vypití sklenice..."
    [343]
-    1 string data = "And of course, video games. He finally understood what they had been to him. A sanctuary."
+    1 string data = "A samozřejmě videohry. Konečně pochopil, čím pro něj byly. Svatyní."
    [344]
-    1 string data = "The place where he could be free. Free to experiment, to learn, to ask, to fail, to persevere, to give up, to overcome, to laugh, to accomplish, to dream."
+    1 string data = "Místem, kde mohl být svobodný. Svobodně experimentovat, učit se, ptát se, selhávat, vytrvat, vzdávat se, překonávat, smát se, dosahovat úspěchů, snít."
    [345]
-    1 string data = "He wasn't just a response, he was someone who understood how to build a sanctuary, and who knew what it was like to need one."
+    1 string data = "Nebyl pouhou odezvou, byl někým, kdo rozuměl tomu, jak vybudovat útočiště, a kdo věděl, jaké to je, když ho člověk potřebuje."
    [346]
-    1 string data = "There had to be others, people he would never meet, who needed a place like he had known, so he had to make it the best he could."
+    1 string data = "Museli být i jiní, podobní lidé, které nikdy nepotká, a kteří potřebovali takové místo, jaké poznal on, a tak ho musel vytvořit, jak nejlépe uměl."
    [347]
-    1 string data = "And in a flash he saw it anew, something that was right there in plain sight all along: the unbelievable talent that had gathered to bring this vision to life."
+    1 string data = "A v mžiku to uviděl novýma očima, něco, co měl celou tu dobu pod nosem: ten neuvěřitelný talent, který se sešel, aby tuhle vizi uskutečnil."
    [348]
-    1 string data = "The sudden realization made him uncomfortable at first, thinking about how vulnerable he had allowed himself to be in front of his teammates over the years."
+    1 string data = "To náhlé uvědomění ho v první chvíli znepokojilo, když si pomyslel, jak zranitelný si před svými kolegy v týmu za ta léta dovolil být."
    [349]
-    1 string data = "But for all his second thoughts there was one thing he couldn't deny: they were still there."
+    1 string data = "Ale přes všechny jeho pochybnosti tu byla jedna věc, kterou nemohl popřít: stále tady byli."
    [350]
-    1 string data = "Each and every one of them listening mindfully every day, plying their craft to help build something they could all be proud of."
+    1 string data = "Každý z nich každý den pozorně naslouchal a věnoval se svému řemeslu, aby pomohl vybudovat něco, na co mohli být všichni hrdí."
    [351]
-    1 string data = "And at long last he knew that everything he needed, he already possessed. His friends were there with him."
+    1 string data = "Po dlouhé době konečně zjistil, že všechno, co potřeboval, už má. Jeho přátelé tam byli s ním."
    [352]
-    1 string data = "They always had been. This whole journey was one of genuine expression of their personalities and of their unbelievable chemistry."
+    1 string data = "Vždycky byli. Celá tahle pouť byla jedním z autentických projevů jejich osobností a jejich neuvěřitelné chemie."
    [353]
-    1 string data = "With all thoughts of destruction now gone, he set out to complete the project with the intention to create without any hope of recognition."
+    1 string data = "Po rozplynutí všech destruktivných myšlenek se nyní vydal dokončit projekt s úmyslem tvořit bez naděje na uznání."
    [354]
-    1 string data = "The abusers wouldn't win, not anymore. He was pursuing this because he sincerely wanted to, and he had backup."
+    1 string data = "Násilníci nemohli zvítězit, už ne. Usiloval o to, protože upřímně chtěl, a měl podporu."
    [355]
-    1 string data = "Now with a stronger sense of self, he also took note never to fly so close to the sun again."
+    1 string data = "Nyní se silnějším sebevědomím si také vzal k srdci, že už nikdy nebude létat tak blízko ke slunci."
    [356]
-    1 string data = "I wish I could tell you that he achieved balance and now lives a life with more than a single thing occupying all of his time, but on that, only time will tell."
+    1 string data = "Kéž bych vám mohl říct, že dosáhl rovnováhy a nyní žije život, v němž mu veškerý jeho čas nezabírá jen jediná věc, ale to ukáže až čas."
    [357]
-    1 string data = "Thank you for helping me indulge in some closure, it was much needed."
+    1 string data = "Děkuji vám, že jste mi pomohli oddat se nějakému završení, moc jsem to potřeboval."
    [358]
-    1 string data = "I'll be going now. Papate."
+    1 string data = "Teď už půjdu. Papac."
