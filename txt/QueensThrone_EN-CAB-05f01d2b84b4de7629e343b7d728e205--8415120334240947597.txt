@@ -13,34 +13,34 @@
   1 Array Array (16 items)
    0 int size = 16
    [0]
-    1 string data = "This is it... The throne of <color=bad>The Queen That Was</color>..."
+    1 string data = "Tohle je ono... Trůn <color=bad>Královny, která byla</color>..."
    [1]
     1 string data = "..."
    [2]
-    1 string data = "She's not here, then?"
+    1 string data = "Takže tu není?"
    [3]
-    1 string data = "Oh, she's here alright."
+    1 string data = "Ale ano, jistěže tu je."
    [4]
-    1 string data = "Are you ready?"
+    1 string data = "Jste připraveni?"
    [5]
-    1 string data = "On your mark."
+    1 string data = "Na tvůj povel."
    [6]
-    1 string data = "At long last, she paid the price for her betrayal..."
+    1 string data = "Konečně zaplatila za svou zradu..."
    [7]
-    1 string data = "Thank you, my friends."
+    1 string data = "Děkuji vám, přátelé."
    [8]
-    1 string data = "You got it."
+    1 string data = "Beze všeho."
    [9]
-    1 string data = "Famous daggers of legend detected amidst the rubble."
+    1 string data = "Uvnitř trosek byly detekovány slavné dýky z legendy."
    [10]
-    1 string data = "Recommended action: loot and equip."
+    1 string data = "Doporučená akce: Přivlastnit a vyzbrojit se nimi."
    [11]
-    1 string data = "Oh yeah, I could use those."
+    1 string data = "Ty jo, tak tyhle by se mi hodily."
    [12]
-    1 string data = "Nothing left for us here. Lead the way."
+    1 string data = "Nic tu pro nás nezbylo. Veď nás."
    [13]
-    1 string data = "Return to Cerulean Expanse?"
+    1 string data = "Vrátit se do Azurové pustiny?"
    [14]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [15]
-    1 string data = "No"
+    1 string data = "Ne"
