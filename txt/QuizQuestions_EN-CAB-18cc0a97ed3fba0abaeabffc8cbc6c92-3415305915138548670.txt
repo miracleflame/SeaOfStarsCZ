@@ -703,7 +703,7 @@
    [344]
     1 string data = "Arkánová smršť"
    [345]
-    1 string data = "Který z těchto nepřátel se NEOBJEVUJE ve Zpustlé továrně?"
+    1 string data = "Který z těchto nepřátel se NEOBJEVUJE v Opuštěné továrně?"
    [346]
     1 string data = "Hřemech"
    [347]

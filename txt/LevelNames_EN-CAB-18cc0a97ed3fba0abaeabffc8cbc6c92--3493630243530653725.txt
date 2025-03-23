@@ -131,7 +131,7 @@
    [58]
     1 string data = "Laguna na nebesích"
    [59]
-    1 string data = "Zpustlá továrna"
+    1 string data = "Opuštěná továrna"
    [60]
     1 string data = "Repot"
    [61]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Azurová pustina"
    [63]
-    1 string data = "Rezervace Ztracených"
+    1 string data = "Samota Ztracených"
    [64]
     1 string data = "Vesmírná základna"
    [65]

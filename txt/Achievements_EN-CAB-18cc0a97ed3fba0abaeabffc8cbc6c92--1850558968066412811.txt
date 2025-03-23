@@ -183,7 +183,7 @@
    [84]
     1 string data = "Pravý Bojovník Slunovratu"
    [85]
-    1 string data = "Uskutečnit všechny Činy"
+    1 string data = "Dosáhnout všechny Úspěchy"
    [86]
     1 string data = "Krunýřová síla"
    [87]
