@@ -661,8 +661,8 @@
    [323]
     1 string data = "Azurová expedice"
    [324]
-    1 string data = "Ahoj! Chcete si poslechnout příběh?"
+    1 string data = "Hej! Nechcete si poslechnout příběh?"
    [325]
-    1 string data = "Ano"
+    1 string data = "Chceme"
    [326]
     1 string data = "Ne"

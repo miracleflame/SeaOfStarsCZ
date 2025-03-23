@@ -19,15 +19,15 @@
    [2]
     1 string data = "Ano?"
    [3]
-    1 string data = "Je pravda, že vždycky přiletí na narozeniny válečného kuchaře?"
+    1 string data = "Je pravda, že vždycky přilétaj na narozeniny válečného kuchaře?"
    [4]
     1 string data = "Nikdo to neví jistě."
    [5]
-    1 string data = "Zní to trochu poeticky, že?"
+    1 string data = "To znělo trochu poeticky, že?"
    [6]
     1 string data = "A teď už všichni běžte, musím zkontrolovat renovaci krypty."
    [7]
-    1 string data = "Děkuji za příběh, Vznešený mudrci!"
+    1 string data = "Děkujeme za příběh, Vznešený mudrci!"
    [8]
     1 string data = "A tak se scházíme každý rok, když prolétají kolem našeho světa na své nekonečné hlídce, a společně si připomínáme jejich příběh."
    [9]
@@ -35,7 +35,7 @@
    [10]
     1 string data = "Ano?"
    [11]
-    1 string data = "Je pravda, že vždycky přiletí na narozeniny válečného kuchaře?"
+    1 string data = "Je pravda, že vždycky přilétaj na narozeniny válečného kuchaře?"
    [12]
     1 string data = "To rozhodně."
    [13]
@@ -43,4 +43,4 @@
    [14]
     1 string data = "A teď už všichni běžte, musím zkontrolovat renovaci krypty."
    [15]
-    1 string data = "Děkuji za příběh, Vznešený mudrci!"
+    1 string data = "Děkujeme za příběh, Vznešený mudrci!"

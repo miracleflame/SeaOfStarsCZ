@@ -23,7 +23,7 @@
    [4]
     1 string data = "Vidím, že tvá cesta do jiných světů za Bojovníky Slunovratu byla úspěšná."
    [5]
-    1 string data = "Zvýšení šancí: ohromné."
+    1 string data = "Nárůst šance: ohromný."
    [6]
     1 string data = "Jak to vypadá?"
    [7]

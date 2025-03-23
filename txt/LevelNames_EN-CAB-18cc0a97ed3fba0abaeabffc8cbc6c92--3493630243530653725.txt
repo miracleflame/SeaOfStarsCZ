@@ -89,7 +89,7 @@
    [37]
     1 string data = "Vodní vír"
    [38]
-    1 string data = "Prokletý les"
+    1 string data = "Prokletý hvozd"
    [39]
     1 string data = "Veselí"
    [40]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Azurová pustina"
    [63]
-    1 string data = "Osada Ztracených"
+    1 string data = "Rezervace Ztracených"
    [64]
     1 string data = "Vesmírná základna"
    [65]

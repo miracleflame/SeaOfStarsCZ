@@ -201,7 +201,7 @@
    [93]
     1 string data = "Měli bychom najít tu hospodu, co o ní mluvil Valtraid - chci je vidět, jak hrají!"
    [94]
-    1 string data = "Takže, když ten vesničan šel do Prokletého lesa, znamená to, že doupě Přiživovačky je také na sever od Lucentu?"
+    1 string data = "Takže, když ten vesničan šel do Prokletého hvozdu, znamená to, že doupě Přiživovačky je také na sever od Lucentu?"
    [95]
     1 string data = "Už je skoro čas zatmění, co?"
    [96]
@@ -611,7 +611,7 @@
    [298]
     1 string data = "Během mého pobytu na vašem domovském světě jsem zaslechl zvěsti o místě, kde se bojovníci zapojují do přátelského soupeření."
    [299]
-    1 string data = ""Aréna pádu Přiživovače" ve Svěžíně.""
+    1 string data = ""Aréna dopadu Přiživovače" ve Svěžíně.""
    [300]
     1 string data = "Podle Yolandy ji postavili obyvatelé města, aby využili velký kráter, který zanechal Přiživovač sváru."
    [301]

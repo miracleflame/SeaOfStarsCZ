@@ -231,7 +231,7 @@
    [108]
     1 string data = "(Nastal čas improvizovat…)"
    [109]
-    1 string data = "Prokletý les je na sever od Lucentu. Měli bychom odejít na východ."
+    1 string data = "Prokletý hvozd je na sever od Lucentu. Měli bychom odejít na východ."
    [110]
     1 string data = "Musíme si pospíšit do Doupěte nekromantky."
    [111]
@@ -543,7 +543,7 @@
    [264]
     1 string data = "Už jste se seznámili tady s mou malou kamarádkou? Úžasná flétnistka!"
    [265]
-    1 string data = "Být váma, vyhýbám se Prokletému lesu."
+    1 string data = "Být váma, vyhýbám se Prokletému hvozdu."
    [266]
     1 string data = "Chtěli byste zůstat přes noc?"
    [267]

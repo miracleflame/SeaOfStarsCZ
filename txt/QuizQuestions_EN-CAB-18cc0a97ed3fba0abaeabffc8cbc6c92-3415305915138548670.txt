@@ -203,7 +203,7 @@
    [94]
     1 string data = "84"
    [95]
-    1 string data = "Jak se jmenuje nepřítel v Prokletém lese, kterého bylo třeba zničit, abyste se zbavili trnů?"
+    1 string data = "Jak se jmenuje nepřítel v Prokletém hvozdě, kterého bylo třeba zničit, abyste se zbavili trnů?"
    [96]
     1 string data = "Boulbe"
    [97]

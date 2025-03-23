@@ -31,9 +31,9 @@
    [8]
     1 string data = "Vážně?"
    [9]
-    1 string data = "Bývala to jedna z jeho dílen."
+    1 string data = "Bývala to jedna z jeho fabrik."
    [10]
-    1 string data = "A soudě podle vzhledu této kopule, nacházíme se ve skladišti duší..."
+    1 string data = "A soudě podle vzhledu této kopule, se nacházíme v rezervaci duší..."
    [11]
     1 string data = "..."
    [12]
@@ -63,7 +63,7 @@
    [24]
     1 string data = "..."
    [25]
-    1 string data = "Takže ukryje důkazy a nechá je tady bloudit navždy?"
+    1 string data = "Aby ukryl důkazy a nechal je tady bloudit navždy?"
    [26]
     1 string data = "Váš přítel je zbabělec!"
    [27]
@@ -85,13 +85,13 @@
    [35]
     1 string data = "Ano. Zažili jsme její výstavbu. Tehdy jsme měli... fyzickou podobu."
    [36]
-    1 string data = "Přístupová cesta je naneštěstí mimo provoz od té doby, co byla Základna zneužita k tvorbě mraků."
+    1 string data = "Přístupová cesta je naneštěstí mimo provoz od té doby, co byla Vesmírná základna zneužita k tvorbě mraků."
    [37]
     1 string data = "Zneužita?"
    [38]
     1 string data = "Ano. Byl to první krok ke zkáze našeho světa."
    [39]
-    1 string data = "Chceš říct, že ne vždy sloužila zlu?"
+    1 string data = "Chceš říct, že ne vždy sloužila nekalým záměrům?"
    [40]
     1 string data = "Vůbec ne. Dříve regulovala podnebí a udržovala příznivé podmínky k životu na naší planetě."
    [41]
@@ -99,7 +99,7 @@
    [42]
     1 string data = "Byla to nádhera."
    [43]
-    1 string data = "Zlý stroj, jenž Základnu ovládl, postupně převzal kontrolu nad její centrální AI."
+    1 string data = "Zlovolný stroj, jenž Vesmírnou základnu ovládl, postupně převzal kontrolu nad její centrální AI."
    [44]
     1 string data = "Tvůrce kyborgů znám jako-"
    [45]
@@ -119,7 +119,7 @@
    [52]
     1 string data = "Vím. Když jsme se dozvěděli, že náš svět padne, přišli jsme s nouzovým řešením."
    [53]
-    1 string data = "Je nenápadně, a přesto všem na očích, schováno mezi <color=location>Svatosakrálními věžemi</color>."
+    1 string data = "Je nenápadné, a přesto všem na očích, schováno mezi <color=location>Svatosakrálními věžemi</color>."
    [54]
     1 string data = "Obr z kamene a kybernetiky, jenž svírá v rukou kvádr."
    [55]
@@ -143,7 +143,7 @@
    [64]
     1 string data = "..."
    [65]
-    1 string data = "B'st a jeho národ jsou zde uvězněni."
+    1 string data = "B'st a jeho národ jsou v této rezervaci uvězněni."
    [66]
     1 string data = "Jediným důvodem, proč se na místě nerozplynou, je tato kopule."
    [67]
@@ -173,11 +173,11 @@
    [79]
     1 string data = "Já vím."
    [80]
-    1 string data = "Budu potřebovat patřičné náčiní, ale nemohu se jen tak vloupat do Aephorulovy dílny."
+    1 string data = "Budu potřebovat patřičné náčiní, ale nemohu se jen tak vloupat do Aephorulovy fabriky."
    [81]
-    1 string data = "Pokud se vám ji podaří otevřít, udělám to."
+    1 string data = "Pokud se vám podaří otevřít vchod do fabriky, udělám to."
    [82]
-    1 string data = "Tak z tohohle se nevyvlíknete."
+    1 string data = "Beru vás za slovo."
    [83]
     1 string data = "Cedricu. Nahrávám 3D sken."
    [84]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "Potvrzuji."
    [87]
-    1 string data = "Výborně. Pošlu sondu, ať ho vyzvedne."
+    1 string data = "Výborně. Posílám sondu, ať ho vyzvedne."
    [88]
     1 string data = "A teď si chvíli počkáme."
    [89]
@@ -205,7 +205,7 @@
    [95]
     1 string data = "A já sám toho příliš nevím o boji. Jsem přesvědčen, že se vzájemně máme co učit."
    [96]
-    1 string data = "Stejně si myslím, že Garl by je dokázal rozveselit!"
+    1 string data = "Přemítám, že Garl by to tu stejně dokázal rozveselit!"
    [97]
     1 string data = "Haha, to určitě jo."
    [98]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "Haha!"
    [112]
-    1 string data = "A náš klíč právě dorazil."
+    1 string data = "Vypadá to tak, že náš klíč právě dorazil."
    [113]
     1 string data = "Jste připraveni?"
    [114]
@@ -255,7 +255,7 @@
    [120]
     1 string data = "V tom případě pojď se mnou."
    [121]
-    1 string data = "Udělal bys to pro mě?"
+    1 string data = "Takže vy byste to pro mě udělali?"
    [122]
     1 string data = "Jistě. Ale jak poznám, že nastal ten pravý čas?"
    [123]
@@ -267,9 +267,9 @@
    [126]
     1 string data = "Já... cítím se..."
    [127]
-    1 string data = "Sklo je velice křehký materiál. Jeho živé vlastnosti jsem propojil s tvou myslí."
+    1 string data = "Sklo je velice křehký materiál. Jeho živé aspekty jsem propojil s tvou myslí."
    [128]
-    1 string data = "Vždy musíš mít svůj cíl, neboť to sklo bude odolné jen tak, jak pevná je tvá vůle."
+    1 string data = "Vždy musíš mít svůj záměr, neboť to sklo bude odolné jen tak, jak pevná je tvá vůle."
    [129]
     1 string data = "Tak to jsem neporazitelný!"
    [130]
@@ -281,7 +281,7 @@
    [133]
     1 string data = "A víš jistě, že nás dostaneš dovnitř?"
    [134]
-    1 string data = "Naprosto. Ti pomatení kultisté nás neuvidí rádi--ale jsem připraven vyzkoušet, co tahle podoba dokáže."
+    1 string data = "Naprosto. Ti pomatení kultisté nás neuvidí rádi, ale jsem připraven vyzkoušet, co tahle forma dokáže."
    [135]
     1 string data = "Vypořádáme se se vším, co nás potká."
    [136]
@@ -319,7 +319,7 @@
    [152]
     1 string data = "..."
    [153]
-    1 string data = "Nic jsem nevěděl o tomto světě. Kéž by to s tím, co provádí Aephorul, bylo stejné..."
+    1 string data = "Nic jsem nevěděl o tomto světě. Kéž by to šlo říct o všem, co provádí Aephorul..."
    [154]
     1 string data = "Jsme skoro u pracovního stolu, měli bychom si pospíšit!"
    [155]
@@ -345,13 +345,13 @@
    [165]
     1 string data = "Snad nechcete jít dovnitř?"
    [166]
-    1 string data = "Víte, že tam je něco velkého a nebezpečného, že ano? "
+    1 string data = "Víte, že tam je něco velkého a nebezpečného, že ano?"
    [167]
     1 string data = "Stále nemohu uvěřit, že je ta obluda s kanystry pryč. Jste opravdu silní!"
    [168]
     1 string data = "B'st vždycky býval výjimečný."
    [169]
-    1 string data = "Hmph! ...Nevím, proč jsem se podíval. "
+    1 string data = "Hmph! ...Nevím, proč jsem se podíval."
    [170]
     1 string data = "Nechte mě být."
    [171]
