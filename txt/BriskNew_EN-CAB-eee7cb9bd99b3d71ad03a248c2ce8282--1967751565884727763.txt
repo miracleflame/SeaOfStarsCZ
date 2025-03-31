@@ -377,181 +377,181 @@
    [181]
     1 string data = "Zkusí to znovu? Uvidíme!"
    [182]
-    1 string data = "Welcome to the <color=location>Golden Pelican</color>. Did you have a reservation for today?"
+    1 string data = "Vítejte u <color=location>Zlatého pelikána</color>. Máte na dnešek rezervaci?"
    [183]
-    1 string data = "My apologies, the Golden Pelican is only for those with a reservation. I must ask you to leave."
+    1 string data = "Je mi líto, u Zlatého pelikána je rezervace povinná. Musím vás požádat abyste odešli."
    [184]
-    1 string data = "Oh!? A private invitation from our Chef!"
+    1 string data = "No tohle!? Soukromé pozvání od našeho šéfkuchaře!"
    [185]
-    1 string data = "You will need proper attire for this special occasion."
+    1 string data = "Pro tuto zvláštní příležitost budete potřebovat náležité ustrojení."
    [186]
-    1 string data = "Please gather the other guests. Our tailors will be right with you."
+    1 string data = "Prosím, shromážděte ostatní hosty. Naši krejčí se vám budou hned věnovat."
    [187]
-    1 string data = "And a bowtie, please!"
+    1 string data = "A motýlka, prosím!"
    [188]
-    1 string data = "Excellent choice, sir."
+    1 string data = "Znamenitá volba, pane."
    [189]
-    1 string data = "Oh, I don't know..."
+    1 string data = "No, já nevím..."
    [190]
-    1 string data = "I think it'll look great on you!"
+    1 string data = "Myslím, že vám bude slušet!"
    [191]
-    1 string data = "Zale looks like a cowboy."
+    1 string data = "Zale vypadá jako kovboj."
    [192]
-    1 string data = "Please sit still, Mr. Malkomud. We are almost finished."
+    1 string data = "Prosím, seďte nehybně, pane Malkomude. Už jsme skoro hotovi."
    [193]
-    1 string data = "Anything for you, pal!"
+    1 string data = "Pro tebe cokoli, kamaráde!"
    [194]
-    1 string data = "There's a reason why fancy ain't my middle name, but it's like Valtraid said!"
+    1 string data = "Že načančanost není mé druhé jméno, má svůj důvod, ale je to tak, jak říkal Valtraid!"
    [195]
-    1 string data = "This is so special!"
+    1 string data = "Tohle je tak výjimečné!"
    [196]
-    1 string data = "Beloved guests, a moment of your attention."
+    1 string data = "Drazí hosté, chvilku vaší pozornosti."
    [197]
-    1 string data = "Dinner is ready to be served. Please follow me."
+    1 string data = "Večeře je připravena k servírování. Prosím, následujte mě."
    [198]
-    1 string data = "Serve em' up, Gaspar."
+    1 string data = "Podávejte, Gaspare."
    [199]
-    1 string data = "Of course, Chef. Right away."
+    1 string data = "Samozřejmě, šéfe. Hned."
    [200]
-    1 string data = "Please enjoy. Should there be anything else you need, just let me know."
+    1 string data = "Prosím, pochutnejte si. Kdybyste ještě něco potřebovali, dejte mi vědět."
    [201]
-    1 string data = "Thanks!"
+    1 string data = "Díky!"
    [202]
-    1 string data = "Naturally."
+    1 string data = "Přirozeně."
    [203]
-    1 string data = "Garl?"
+    1 string data = "Garle?"
    [204]
-    1 string data = "Yes?"
+    1 string data = "Jo?"
    [205]
-    1 string data = "You gotta do the honors, pal!"
+    1 string data = "Měl bys pronést řeč, kamaráde!"
    [206]
-    1 string data = "Oh I... I don't know, this is about all of us, I think we should just dig in."
+    1 string data = "No já... Já nevím, jde o nás všechny, myslím, že bychom si to prostě měli užívat."
    [207]
-    1 string data = "(Elder Moraine, was it?)"
+    1 string data = "(Stařešina Moraine, že?)"
    [208]
-    1 string data = "(As I am sure you understand, tradition demands that...)"
+    1 string data = "(Jak jistě chápete, tradice si vyžaduje, aby...)"
    [209]
-    1 string data = "Of course."
+    1 string data = "Ovšem."
    [210]
-    1 string data = "*ahem*... Attention, please!"
+    1 string data = "*ehm*... Prosím o pozornost!"
    [211]
-    1 string data = "We are gathered here today to mark the return of someone truly special..."
+    1 string data = "Sešli jsme se tu dnes, abychom oslavili návrat někoho opravdu výjimečného..."
    [212]
-    1 string data = "And then they let me keep the fort."
+    1 string data = "A pak mi dovolili, abych si pevnost nechal."
    [213]
-    1 string data = "Well, that sure was nice ov 'em!"
+    1 string data = "To bylo od nich tuze hezké!"
    [214]
-    1 string data = "And you repaid this kindness a thousandfold!"
+    1 string data = "A tys jim tu laskavost tisíckrát oplatil!"
    [215]
-    1 string data = "As a bit of an elemental mage myself, I must say your work there was quite the impressive feat."
+    1 string data = "Jakožto mág živlu musím říct, že tvá práce tam byla docela působivá."
    [216]
-    1 string data = "I only did it for Garl."
+    1 string data = "Udělal jsem to jen pro Garla."
    [217]
     1 string data = "..."
    [218]
-    1 string data = "Yeah, you all did so much for me... A lot more than I could ask for."
+    1 string data = "Jo, všichni jste toho pro mě udělali tolik... Mnohem víc, než jsem si mohl přát."
    [219]
-    1 string data = "We'd do even more if we could."
+    1 string data = "Udělali bychom ještě víc, kdybychom mohli."
    [220]
-    1 string data = "More than bringing me back to life? I'd like to see that!"
+    1 string data = "Víc než to, že jste mě přivedli zpátky k životu? To bych se podíval!"
    [221]
-    1 string data = "Sounds like a dare!"
+    1 string data = "To zní jako výzva!"
    [222]
-    1 string data = "In spite ov it all, ye still gave a whole lot more than ye took, son. Good on you."
+    1 string data = "Přestos' pořád dával mnohem víc, nežs' bral, synku. Na tvé zdravíčko."
    [223]
-    1 string data = "To Garl!"
+    1 string data = "Na Garla!"
    [224]
-    1 string data = "TO GARL!"
+    1 string data = "NA GARLA!"
    [225]
-    1 string data = "TO GARL!"
+    1 string data = "NA GARLA!"
    [226]
-    1 string data = "TO GARL!"
+    1 string data = "NA GARLA!"
    [227]
     1 string data = "..."
    [228]
-    1 string data = "I can't believe how lucky I am to have all of you."
+    1 string data = "Nemohu uvěřit, jaké to štěstí, že vás všechny mám."
    [229]
-    1 string data = "I guess the final battle awaits..."
+    1 string data = "Hádám, že mě čeká poslední bitva..."
    [230]
-    1 string data = "But we can worry about that tomorrow. Let's just make the best of this moment."
+    1 string data = "Ale o to se můžeme postarat zítra. Pojďme si prostě co nejlépe užít tuto chvíli."
    [231]
-    1 string data = "Uh, Gaspar?"
+    1 string data = "Ehm, Gaspare?"
    [232]
-    1 string data = "Sir?"
+    1 string data = "Pane?"
    [233]
-    1 string data = "Is it too late now for me to make a toast?"
+    1 string data = "Je už pozdě na to, abych pronesl přípitek?"
    [234]
-    1 string data = "Whatever you fancy. This is your moment."
+    1 string data = "Cokoliv je vám libo. Tohle je vaše chvíle."
    [235]
-    1 string data = "Great!"
+    1 string data = "Skvělé!"
    [236]
-    1 string data = "Okay, let's see here..."
+    1 string data = "Dobře, tak se na to koukneme..."
    [237]
-    1 string data = "*ahem*... Thank you, my dear friends, for joining me in celebration."
+    1 string data = "*ehm*... Děkuji vám, moji drazí přátelé, že jste se ke mně připojili při oslavě."
    [238]
-    1 string data = "Tonight, I raise my glass above my heart."
+    1 string data = "Dnes večer pozvedám svou sklenici nad své srdce."
    [239]
-    1 string data = "To Teaks, for her unwavering support and unquenchable thirst for knowledge."
+    1 string data = "Na Teaks, za její neochvějnou podporu a neuhasitelnou touhu po poznání."
    [240]
-    1 string data = "TO TEAKS!"
+    1 string data = "NA TEAKS!"
    [241]
-    1 string data = "TO TEAKS!"
+    1 string data = "NA TEAKS!"
    [242]
-    1 string data = "TO TEAKS!"
+    1 string data = "NA TEAKS!"
    [243]
-    1 string data = "To Malkomud, for teaching us that one can always turn their life around, no matter their age."
+    1 string data = "Na Malkomuda, za to, jak nás naučil, že člověk může svůj život změnit vždycky, bez ohledu na věk."
    [244]
-    1 string data = "TO MALKOMUD!"
+    1 string data = "NA MALKOMUDA!"
    [245]
-    1 string data = "TO MALKOMUD!"
+    1 string data = "NA MALKOMUDA!"
    [246]
-    1 string data = "TO MALKOMUD!"
+    1 string data = "NA MALKOMUDA!"
    [247]
-    1 string data = "To Yolande, Valtraid, and Keenathan, for their spirit of adventure, and for always keeping their eyes on the target no matter how dire things get."
+    1 string data = "Na Yolandu, Valtraida a Keenathana za jejich dobrodružného ducha a za to, že vždycky upíraj zrak k cíli, ať už je situace jakkoliv vážná."
    [248]
-    1 string data = "TO YOLANDE, VALTRAID, AND KEENATHAN!"
+    1 string data = "NA YOLANDU, VALTRAIDA A KEENATHANA!"
    [249]
-    1 string data = "TO YOLANDE, VALTRAID, AND KEENATHAN!"
+    1 string data = "NA YOLANDU, VALTRAIDA A KEENATHANA!"
    [250]
-    1 string data = "TO YOLANDE, VALTRAID, AND KEENATHAN!"
+    1 string data = "NA YOLANDU, VALTRAIDA A KEENATHANA!"
    [251]
-    1 string data = "To Moraine, for standing firm in the face of insurmountable grief, and never wavering in his faith in my friends."
+    1 string data = "Na Moraina za to, že tváří v tvář nepřekonatelnému žalu stál pevně na nohou a nikdy nepolevil ve své víře v mé přátele."
    [252]
-    1 string data = "TO MORAINE!"
+    1 string data = "NA MORAINA!"
    [253]
-    1 string data = "TO MORAINE!"
+    1 string data = "NA MORAINA!"
    [254]
-    1 string data = "TO MORAINE!"
+    1 string data = "NA MORAINA!"
    [255]
-    1 string data = "To Seraï, for enduring the impossible, and being the coolest person I know."
+    1 string data = "Na Seraï, za to, že vytrpěla nemožné a že je to ta nejhustější týpka, kterou znám."
    [256]
-    1 string data = "TO SERAÏ!"
+    1 string data = "NA SERAÏ!"
    [257]
-    1 string data = "TO SERAÏ!"
+    1 string data = "NA SERAÏ!"
    [258]
-    1 string data = "TO SERAÏ!"
+    1 string data = "NA SERAÏ!"
    [259]
-    1 string data = "To Resh'an and B'st, for saving my life!"
+    1 string data = "Na Resh'ana a B'sta, za záchranu mého života!"
    [260]
-    1 string data = "TO RESH'AN AND B'ST!"
+    1 string data = "NA RESH'ANA A B'STA!"
    [261]
-    1 string data = "TO RESH'AN AND B'ST!"
+    1 string data = "NA RESH'ANA A B'STA!"
    [262]
-    1 string data = "TO RESH'AN AND B'ST!"
+    1 string data = "NA RESH'ANA A B'STA!"
    [263]
-    1 string data = "And finally, to ­Valere and Zale, for getting me out of Mooncradle and letting me travel the world to encounter countless wonders."
+    1 string data = "A nakonec na Valerii a Zalea za to, že mě dostali z Měsíční kolébky a umožnili mi cestovat po světě a zažít nespočet divů."
    [264]
-    1 string data = "But most importantly, for being the best friends anyone could ask for."
+    1 string data = "Ale hlavně za to, že jsou to ti nejlepší přátelé, jaké si kdo může přát."
    [265]
-    1 string data = "TO VALERE AND ZALE!"
+    1 string data = "NA VALERII A ZALEA!"
    [266]
-    1 string data = "TO VALERE AND ZALE!"
+    1 string data = "NA VALERII A ZALEA!"
    [267]
-    1 string data = "TO VALERE AND ZALE!"
+    1 string data = "NA VALERII A ZALEA!"
    [268]
-    1 string data = "On this warm evening, the abundance of food and good times with his loved ones gave Garl an epiphany."
+    1 string data = "V tento vlahý večer hojnost jídla a příjemné chvíle s jeho nejbližšími přivodily Garlovi prozření."
    [269]
-    1 string data = "The ultimate meal!"
+    1 string data = "Ultimátní pokrm!"
    [270]
     1 string data = "Hey l'beau temps est pogné!"
    [271]
