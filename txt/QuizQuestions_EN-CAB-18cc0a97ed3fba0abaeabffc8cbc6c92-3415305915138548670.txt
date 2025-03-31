@@ -641,7 +641,7 @@
    [313]
     1 string data = "Javorový syrup"
    [314]
-    1 string data = "Pravda nebo nepravda: Obludnost v Karnimantově dílně měla více než čtyři chapadla."
+    1 string data = "Pravda nebo nepravda: Obludnost v Karnimantově laboratoři měla více než čtyři chapadla."
    [315]
     1 string data = "PRAVDA"
    [316]
@@ -917,7 +917,7 @@
    [451]
     1 string data = "10"
    [452]
-    1 string data = "Po tom, co odvedl Aephorulovu pozornost, Resh'an umístil háček v čase napojený na magické zařízení, které později zanechal ve Vřesovišti. Jak se to zařízení jmenuje?"
+    1 string data = "Po tom, co odvedl Aephorulovu pozornost, Resh'an umístil ukotvení v čase napojené na magické zařízení, které později zanechal ve Vřesovišti. Jak se to zařízení jmenuje?"
    [453]
     1 string data = "Časovejce"
    [454]

@@ -107,7 +107,7 @@
    [46]
     1 string data = "Netvor, kterého lovíte, v minulosti zahanbil nemalou sílu vašeho řádu a nyní se zdá, že jste zůstali jen vy dva."
    [47]
-    1 string data = "Přesto byste se odvážili vstoupit do starého zámku Karnimanta?"
+    1 string data = "Přesto byste se odvážili vstoupit do starého hradu Karnimanta?"
    [48]
     1 string data = "Za každou cenu."
    [49]

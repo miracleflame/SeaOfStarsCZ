@@ -15,17 +15,17 @@
    [0]
     1 string data = "Zamčeno."
    [1]
-    1 string data = "Huuuyyy!"
+    1 string data = "Hoooyyy!"
    [2]
-    1 string data = "No, no, no, podívej, co jsi udělal!"
+    1 string data = "No, no, no, podívejme, co jste vykonali!"
    [3]
-    1 string data = "Zdravím, pane! Promiňte, já jenom, že jsem dostal tohle..."
+    1 string data = "Zdravíčko, pane! Promiňte, já jenom, že jsem dostal tenhle..."
    [4]
     1 string data = "Klid, synku. Tenhle rozhovor vedu já."
    [5]
-    1 string data = "Jestli něco vím jistě, pak že potřebuješ <color=magic>Hák času</color>, aby ses sem dostal."
+    1 string data = "Jestli něco vím jistě, pak že potřebuješ <color=magic>Háček času</color>, aby ses sem dostal."
    [6]
-    1 string data = "A jestli vím jistě ještě něco, pak to, že Hák času jen tak nerozdávaj kdekomu."
+    1 string data = "A jestli vím jistě ještě něco, pak to, že Háček času jen tak nerozdávaj kdekomu."
    [7]
     1 string data = "Prostě jsem si ho vypýtal, vážně."
    [8]
@@ -51,7 +51,7 @@
    [18]
     1 string data = "Opravdu!?"
    [19]
-    1 string data = "<color=good>Šéfkuchař Okoun</color>, k tvím službám."
+    1 string data = "<color=good>Šéfkuchař Okoun</color>, k vašim službám."
    [20]
     1 string data = "Není možné! Vy jste šéfkuchař?"
    [21]

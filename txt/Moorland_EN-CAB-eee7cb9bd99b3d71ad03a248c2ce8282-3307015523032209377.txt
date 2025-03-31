@@ -297,7 +297,7 @@
    [141]
     1 string data = "To je vize?"
    [142]
-    1 string data = "Velký alchymista... Umístil háček v čase, abyste se sem mohli vrátit."
+    1 string data = "Velký alchymista... Umístil ukotvení v čase, abyste se sem mohli vrátit."
    [143]
     1 string data = "Vím, jaká je moje role, ale musíme si pospíšit."
    [144]

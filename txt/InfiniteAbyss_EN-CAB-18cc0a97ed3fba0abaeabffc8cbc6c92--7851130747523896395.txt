@@ -13,28 +13,28 @@
   1 Array Array (13 items)
    0 int size = 13
    [0]
-    1 string data = "Careful now..."
+    1 string data = "Opatrně..."
    [1]
-    1 string data = "The Dweller's here. I can feel it too."
+    1 string data = "Je tady Přiživovač. Cítím to taky."
    [2]
-    1 string data = "It will be an honor to assist you in a cleansing."
+    1 string data = "Bude mi ctí asistovat vám při očistě."
    [3]
     1 string data = "Zale?"
    [4]
-    1 string data = "Yeah, it's coming!"
+    1 string data = "Jo, už to bude!"
    [5]
-    1 string data = "Finally..."
+    1 string data = "Konečně..."
    [6]
-    1 string data = "We did it, Valere! No eclipse!"
+    1 string data = "Dokázali jsme to, Valerie! Žádné zatmění!"
    [7]
-    1 string data = "This power... I didn't doubt for a moment that we could do it..."
+    1 string data = "Tato moc... Ani na okamžik jsem nepochyboval, že to dokážeme..."
    [8]
-    1 string data = "And that thing we felt when Garl was hit by the curse, I think I understand how to control it now."
+    1 string data = "A to, co jsme cítili, když Garla zasáhla tá kletba, myslím, že už rozumím, jak to ovládat."
    [9]
-    1 string data = "I feel it too. We're ready."
+    1 string data = "Taky to cítím. Jsme připraveni."
    [10]
-    1 string data = "The moon, then?"
+    1 string data = "Takže měsíc?"
    [11]
-    1 string data = "Together."
+    1 string data = "Společně."
    [12]
-    1 string data = "Unbelievable..."
+    1 string data = "Neuvěřitelné..."

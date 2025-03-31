@@ -31,7 +31,7 @@
    [8]
     1 string data = "Slunce zůstává zakryto mraky."
    [9]
-    1 string data = "Karnimant stále obývá nedosažitelný hrad."
+    1 string data = "Karnimant stále obývá nedosažitelný zámek."
    [10]
     1 string data = "Aktivní hrozba: Přiživovač hrůzy."
    [11]

@@ -165,7 +165,7 @@
    [75]
     1 string data = "(Už jenom vypnout emitory mraků.)"
    [76]
-    1 string data = "(Hele, když už, tak ať prší na hrad Karnimanta!)"
+    1 string data = "(Hele, když už, tak ať prší na zámek Karnimanta!)"
    [77]
     1 string data = "(Haha, to mu zkazí den!)"
    [78]

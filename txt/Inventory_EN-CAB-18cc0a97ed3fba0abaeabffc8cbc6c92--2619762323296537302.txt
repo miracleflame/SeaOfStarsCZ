@@ -1437,9 +1437,9 @@
    [711]
     1 string data = "Otevírá dveře v Rybářské kobce."
    [712]
-    1 string data = "Hák času"
+    1 string data = "Háček času"
    [713]
-    1 string data = "Speciální hák, který Garlovi věnovaly entity známé pouze jemu."
+    1 string data = "Speciální háček, který Garlovi věnovaly entity známé pouze jemu."
    [714]
     1 string data = "Pozlacené pozvání"
    [715]

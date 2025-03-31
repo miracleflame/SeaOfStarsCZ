@@ -445,7 +445,7 @@
    [215]
     1 string data = "Sonda nám pomůže orientovat se v Azurové pustině. Její světlo bude blikat rychleji, když zaznamená něco důležitého."
    [216]
-    1 string data = "Karnimantova továrna se nachází v B'stově osadě na Azurovém ostrově."
+    1 string data = "Karnimantova laboratoř se nachází na Samotě ztracených na Azurovém ostrově."
    [217]
     1 string data = "Buďme opatrní, B'st říkal, že je tu ohavnost."
    [218]
