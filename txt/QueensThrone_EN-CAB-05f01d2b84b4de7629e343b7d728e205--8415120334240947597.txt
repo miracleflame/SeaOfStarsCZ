@@ -13,7 +13,7 @@
   1 Array Array (16 items)
    0 int size = 16
    [0]
-    1 string data = "Tohle je ono... Trůn <color=bad>Královny, která byla</color>..."
+    1 string data = "Tohle je ono... Trůn <color=bad>Královny, jež byla</color>..."
    [1]
     1 string data = "..."
    [2]
