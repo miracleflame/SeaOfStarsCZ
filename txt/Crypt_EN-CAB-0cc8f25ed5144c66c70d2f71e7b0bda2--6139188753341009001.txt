@@ -97,9 +97,9 @@
    [41]
     1 string data = "Jak to jde?"
    [42]
-    1 string data = "Docela dobrý!"
+    1 string data = "Docela dobře!"
    [43]
-    1 string data = "Přemýšlel jsem o poznámkách Yomary. Víš, o té povodni."
+    1 string data = "Přemýšlela jsem o poznámkách Yomary. Víš, o té povodni."
    [44]
     1 string data = "Bez obav, udělám to velké okno obzvlášť tlusté!"
    [45]
@@ -109,9 +109,9 @@
    [47]
     1 string data = "Jak to jde?"
    [48]
-    1 string data = "Docela dobrý!"
+    1 string data = "Docela dobře!"
    [49]
-    1 string data = "Přemýšlel jsem o poznámkách Yomary. Víš, o té povodni."
+    1 string data = "Přemýšlela jsem o poznámkách Yomary. Víš, o té povodni."
    [50]
     1 string data = "Bez obav, udělám to velké okno obzvlášť tlusté!"
    [51]

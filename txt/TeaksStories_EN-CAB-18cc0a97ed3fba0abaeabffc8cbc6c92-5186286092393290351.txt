@@ -529,11 +529,11 @@
    [257]
     1 string data = "O třetí noci provedli Pěvci rituální zpěv, aby v T'korově mysli vyvolali vizi vzdálené budoucnosti..."
    [258]
-    1 string data = "...Vesmírná základna, regulátor podnebí, zneužita. Vymírání veškeré fauny a flóry..."
+    1 string data = "...Vesmírná základna, regulátor podnebí... zneužit... Vymírání veškeré fauny a flóry..."
    [259]
     1 string data = "...Velkoměsto zcela zničeno, z jeho země zbyl jen oceán modrého písku..."
    [260]
-    1 string data = "...Technologicky zdatní lidé, jejich duše odpoutány od vlastních těl a zlovolným strojem vloženy do kybernetických..."
+    1 string data = "...Technologicky zdatní lidé, jejich duše... odpoutány od vlastních těl a zlovolným strojem vloženy do kybernetických..."
    [261]
     1 string data = "...Donuceni žít v zoufalství, jejich mysl jako potrava pro rostoucí mořskou příšeru..."
    [262]

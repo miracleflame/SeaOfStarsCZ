@@ -59,7 +59,7 @@
    [22]
     1 string data = "..."
    [23]
-    1 string data = "Tohle nemůžu použít!"
+    1 string data = "Tohle neumím obsluhovat!"
    [24]
     1 string data = "..."
    [25]

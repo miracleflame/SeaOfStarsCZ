@@ -77,7 +77,7 @@
    [31]
     1 string data = "Vy jste Bojovníci Slunovratu, je to tak?"
    [32]
-    1 string data = "Jsme, pocházíme z jiného světa. Kdo jsi ty?"
+    1 string data = "To jsme, pocházíme z jiného světa. Kdo jsi ty?"
    [33]
     1 string data = "Mé jméno je <color=good>B'st</color>."
    [34]
@@ -123,11 +123,11 @@
    [54]
     1 string data = "Obr z kamene a kybernetiky, jenž svírá v rukou kvádr."
    [55]
-    1 string data = "Po odjištění mechanismu blok upustí a vygeneruje tím stejnou energii, jež byla vynaložena k jeho zvednutí."
+    1 string data = "Po odjištění mechanismu kvádr upustí a vygeneruje tím stejnou energii, jež byla vynaložena k jeho zvednutí."
    [56]
-    1 string data = "Nejjednodušší podoba baterie držící právě tolik energie, aby podpořila poslední snahu spasit náš svět."
+    1 string data = "Nejprimitivnejší forma baterie, co vydá právě tolik energie, aby podpořila poslední snahu spasit náš svět."
    [57]
-    1 string data = "Nazvali jsme jej <color=good>Es'tristae</color>."
+    1 string data = "Toho obra jsme nazvali <color=good>Es'tristae</color>."
    [58]
     1 string data = "Ale vchod do Svatosakrálních věží je uzavřený. Už jsme zkoušeli všechno."
    [59]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "B'st a jeho národ jsou zde uvězněni."
    [66]
-    1 string data = "Jediným důvodem, proč se na místě nerozplynou, je tato kopule."
+    1 string data = "Nerozplynou se na míste jenom díky této kopuli."
    [67]
     1 string data = "..."
    [68]
@@ -255,7 +255,7 @@
    [120]
     1 string data = "V tom případě pojď se mnou."
    [121]
-    1 string data = "Takže vy byste to pro mě udělali?"
+    1 string data = "Takže ty bys to pro mě udělal?"
    [122]
     1 string data = "Jistě. Ale jak poznám, že nastal ten pravý čas?"
    [123]
@@ -351,7 +351,7 @@
    [168]
     1 string data = "B'st vždycky býval výjimečný."
    [169]
-    1 string data = "Hmph! ...Nevím, proč jsem se podíval."
+    1 string data = "Hmph! ...Nevím, proč jsem se díval."
    [170]
     1 string data = "Nechte mě být."
    [171]

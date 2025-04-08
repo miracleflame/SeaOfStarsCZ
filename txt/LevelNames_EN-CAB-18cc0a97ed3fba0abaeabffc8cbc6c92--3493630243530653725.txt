@@ -145,7 +145,7 @@
    [65]
     1 string data = "Svatosakrální věže"
    [66]
-    1 string data = "Lovecká pole"
+    1 string data = "Loviště"
    [67]
     1 string data = "Svatosakrální věže"
    [68]

@@ -15,7 +15,7 @@
    [0]
     1 string data = "A tak se scházíme každý rok, když prolétají kolem našeho světa na své nekonečné hlídce, a společně si připomínáme jejich příběh."
    [1]
-    1 string data = "<color=good>Vznešený mudrci</color>?"
+    1 string data = "<color=good>Vznešená vědmo</color>?"
    [2]
     1 string data = "Ano?"
    [3]
@@ -27,11 +27,11 @@
    [6]
     1 string data = "A teď už všichni běžte, musím zkontrolovat renovaci krypty."
    [7]
-    1 string data = "Děkujeme za příběh, Vznešený mudrci!"
+    1 string data = "Děkujeme za příběh, Vznešená vědmo!"
    [8]
     1 string data = "A tak se scházíme každý rok, když prolétají kolem našeho světa na své nekonečné hlídce, a společně si připomínáme jejich příběh."
    [9]
-    1 string data = "<color=good>Vznešený mudrci</color>?"
+    1 string data = "<color=good>Vznešená vědmo</color>?"
    [10]
     1 string data = "Ano?"
    [11]
@@ -43,4 +43,4 @@
    [14]
     1 string data = "A teď už všichni běžte, musím zkontrolovat renovaci krypty."
    [15]
-    1 string data = "Děkujeme za příběh, Vznešený mudrci!"
+    1 string data = "Děkujeme za příběh, Vznešená vědmo!"

@@ -55,7 +55,7 @@
    [20]
     1 string data = "Potěšení je na mé straně. Jmenuji se B'st."
    [21]
-    1 string data = "No, takže, jen se tak porozhlížím po Repine a najednou se otevře tahle kabina."
+    1 string data = "No, takže, jen se tak porozhlížím po Repotu a najednou se otevře tahle kabina."
    [22]
     1 string data = "To jste udělali vy?"
    [23]

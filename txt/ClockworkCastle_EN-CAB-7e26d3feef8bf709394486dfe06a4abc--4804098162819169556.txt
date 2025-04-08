@@ -387,7 +387,7 @@
    [186]
     1 string data = "Náš pán se konečně vrátil!"
    [187]
-    1 string data = "Náš pán a ještě k tomu i mistr!"
+    1 string data = "Náš pán a ještě k tomu i maestro!"
    [188]
     1 string data = "Myslel jsem si, že jsme se na něčem dohodli."
    [189]

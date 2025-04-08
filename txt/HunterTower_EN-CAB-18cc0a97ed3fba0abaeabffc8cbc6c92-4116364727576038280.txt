@@ -51,7 +51,7 @@
    [18]
     1 string data = "Konečně na svobodě! Děkuji vám, laskaví cizinci."
    [19]
-    1 string data = "Moje větrná magie vám snad pomůže uniknout šibenici. Tady."
+    1 string data = "Moje větrná magie vám snad pomůže uniknout šibenici. Tudy."
    [20]
     1 string data = "Kodex mě zavazuje opustit Věže, ale na tento dluh nezapomenu."
    [21]

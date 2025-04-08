@@ -449,7 +449,7 @@
    [217]
     1 string data = "Buďme opatrní, B'st říkal, že je tu ohavnost."
    [218]
-    1 string data = "Doufám, že to zabere. Jediný způsob, jak nahodit proud, je uvolnit brzdy Es'tristae."
+    1 string data = "Doufám, že to zabere. Jediný způsob, jak nahodit proud, je uvolnit kvádr Es'tristae."
    [219]
     1 string data = "Svatosakrální věže jsou v severozápadním rohu. Pospěšme si."
    [220]
@@ -499,7 +499,7 @@
    [242]
     1 string data = "Jdeme na to."
    [243]
-    1 string data = "Musíme postupovat dál. Jediný způsob, jak obnovit energii, je uvolnit brzdy Es'tristae."
+    1 string data = "Musíme postupovat dál. Jediný způsob, jak obnovit energii, je uvolnit kvádr Es'tristae."
    [244]
     1 string data = "Svatosakrální věže jsou v severozápadním rohu. Pospěšme si."
    [245]
@@ -519,7 +519,7 @@
    [252]
     1 string data = "(Živoucí sklo... Babizna měla pravdu...)"
    [253]
-    1 string data = "Resh'anova loutka stojí nehybně..."
+    1 string data = "Resh'anova loutka sedí nehybně..."
    [254]
     1 string data = "Dychtím vyzkoušet si svou novou formu."
    [255]
@@ -527,7 +527,7 @@
    [256]
     1 string data = "Dychtím vyzkoušet si svou novou formu."
    [257]
-    1 string data = "Nebeská základna bývala kdysi pro můj svět opravdu dobrá..."
+    1 string data = "Vesmírná základna bývala kdysi pro můj svět opravdu dobrá..."
    [258]
     1 string data = "Mechanický hrad? Zajímavé."
    [259]
