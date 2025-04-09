@@ -23,7 +23,7 @@
    [4]
     1 string data = "Hú! Proto musíte používat magii, aniž byste použili magii!"
    [5]
-    1 string data = "Zkoušky čekají. Hodně štěstí!"
+    1 string data = "Zkoušky čekají. Zlomte vaz!"
    [6]
     1 string data = "Ten útok nic neudělal!"
    [7]
@@ -131,4 +131,4 @@
    [58]
     1 string data = "Ať vám tyto dobře slouží."
    [59]
-    1 string data = "Sbohem, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]!"
+    1 string data = "Zlomte vaz, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]!"

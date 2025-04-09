@@ -121,19 +121,19 @@
    [53]
     1 string data = "Ha!"
    [54]
-    1 string data = "Hej, jestli brzy neodejdeš, přijdeš pozdě."
+    1 string data = "Hele, jestli brzy nevyrazíš, přijdeš pozdě."
    [55]
-    1 string data = "Jejda! Jo, asi bych měl vyrazit."
+    1 string data = "Jejda! Jo, asi bych měl sebou hodiť."
    [56]
     1 string data = "Ahoj, starý příteli!"
    [57]
-    1 string data = "Všechno nejlepší, Pane."
+    1 string data = "Všechno nejlepší, Mistre."
    [58]
     1 string data = "Po milionté tě žádám prosím, přestaň mi tak říkat."
    [59]
-    1 string data = "Tak co, už můžete jít?"
+    1 string data = "Tak co, připraven odletět?"
    [60]
-    1 string data = "To jo! Tohle nemůžu zmeškat!"
+    1 string data = "Si piš! Tohle nemůžu zmeškat!"
    [61]
     1 string data = "Ta zeď vypadá poněkud <color=magic>chabě</color>..."
    [62]

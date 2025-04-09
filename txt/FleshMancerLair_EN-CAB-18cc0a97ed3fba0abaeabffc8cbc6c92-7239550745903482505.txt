@@ -139,7 +139,7 @@
    [62]
     1 string data = "Vy jste jediní, kdo ho může zničit."
    [63]
-    1 string data = "Ať vás síla provází, Solene a Luano!"
+    1 string data = "Zlomte vaz, Solene a Luano!"
    [64]
     1 string data = "On opravdu odešel... Jsme svobodní..."
    [65]

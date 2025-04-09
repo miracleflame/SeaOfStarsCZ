@@ -19,7 +19,7 @@
    [2]
     1 string data = "*Ehm*…"
    [3]
-    1 string data = "Převozníku, my zdravíme tě. Pravda, k průchodu potřebujeme tě."
+    1 string data = "Buď zdráv Převozníku, těší nás. Pravda, přez vody nám pomůžeš snáz."
    [4]
     1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
    [5]
@@ -45,7 +45,7 @@
    [15]
     1 string data = "Zeleným plamenem mě obdaříte, a až pak vy snad stěn kosti zříte."
    [16]
-    1 string data = "Takovou věc žel nelze přijmout… Šlo by i pozdní platbu přijmout?"
+    1 string data = "Na takovou podmínku nelze přistoupit… Přijal bys platbu pozdější z této koupy?"
    [17]
     1 string data = "Nepřijatelné jsou tyto vaše podmínky, jelikož směr určujou zelené plamínky."
    [18]

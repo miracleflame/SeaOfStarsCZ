@@ -31,7 +31,7 @@
    [8]
     1 string data = "Až budete hotovi, připojte se ke mně a společně zbavíme svět Přiživovačky žalu jednou provždy."
    [9]
-    1 string data = "Hodně štěstí, Bojovníci Slunovratu!"
+    1 string data = "Zlomte vaz, Bojovníci Slunovratu!"
    [10]
     1 string data = "Tak tady tě máme!"
    [11]

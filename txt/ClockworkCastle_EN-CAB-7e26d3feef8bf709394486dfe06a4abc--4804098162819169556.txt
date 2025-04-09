@@ -719,7 +719,7 @@
    [352]
     1 string data = "To je dlouhý příběh. Jde o zádrhel s jedním strojem."
    [353]
-    1 string data = "Oh, příběhy MILUJU!"
+    1 string data = "Ó, příběhy MILUJU!"
    [354]
     1 string data = "A stroje vlastně též."
    [355]
@@ -751,7 +751,7 @@
    [368]
     1 string data = "Pojďte sem, všichni, máme před sebou hodně práce!"
    [369]
-    1 string data = "Hotovo."
+    1 string data = "Á hotovo."
    [370]
     1 string data = "Přístup udělen."
    [371]
@@ -759,7 +759,7 @@
    [372]
     1 string data = "Skvělá práce, Caële!"
    [373]
-    1 string data = "Ha! A k tomu se dostaneme k přísně tajným nákresům Katalyzátoru."
+    1 string data = "Ha! A teď máme přístup k přísně tajným nákresům Katalyzátoru."
    [374]
     1 string data = "Všechno vyextrahujte."
    [375]
@@ -781,7 +781,7 @@
    [383]
     1 string data = "Měl jsi pravdu. Všechno dohromady nám dává dílky skládačky, které jsme hledali."
    [384]
-    1 string data = "Super. Jde se stavět, dvojnásobnou rychlostí!"
+    1 string data = "Super. Jde se stavět, fofrem!"
    [385]
     1 string data = "Mělo by to stejně trvat jenom pár sekund, ne?"
    [386]
@@ -801,7 +801,7 @@
    [393]
     1 string data = "Já... nejspíše ano..."
    [394]
-    1 string data = "Tak fajn! Navíc, náš design má fakt šmrnc, budeš koukat."
+    1 string data = "Tak fajn! Navíc, náš dizajn má fakt šmrnc, budeš koukat."
    [395]
     1 string data = "Hoď to tam!"
    [396]
@@ -845,7 +845,7 @@
    [415]
     1 string data = "Je čas."
    [416]
-    1 string data = "To zvládneme!"
+    1 string data = "Dáme to!"
    [417]
     1 string data = "Mějte odvahu, všichni. Společně!"
    [418]
@@ -855,11 +855,11 @@
    [420]
     1 string data = "Oni... postavili druhý Katalyzátor?"
    [421]
-    1 string data = "Huh?"
+    1 string data = "Ha?"
    [422]
     1 string data = "Hej, pomůžete nám? Prosím?"
    [423]
-    1 string data = "Otvírací tlačítko. Měli jsme ho dát sem dovnitř, ne ven."
+    1 string data = "Otvírací spínač. Měli jsme ho dát sem dovnitř, ne zvenčí."
    [424]
     1 string data = "(To jsme nedomysleli.)"
    [425]
@@ -869,19 +869,19 @@
    [427]
     1 string data = "(Haha! Mám vás!)"
    [428]
-    1 string data = "Žádné otvírací tlačítko nevidím."
+    1 string data = "Žádný otvírací spínač nevidím."
    [429]
-    1 string data = "Oh, is that the big guy?"
+    1 string data = "Jú, ty jseš ten golem?"
    [430]
     1 string data = "Dej tomu pořádnou ránu!"
    [431]
-    1 string data = "To je lepší!"
+    1 string data = "Hned je to lepší!"
    [432]
     1 string data = "Zrak funguje bezchybně."
    [433]
     1 string data = "Čich taky!"
    [434]
-    1 string data = "Promiň..."
+    1 string data = "Omlouvám se..."
    [435]
     1 string data = "Hahaha!"
    [436]
@@ -911,13 +911,13 @@
    [448]
     1 string data = "(Tak co?)"
    [449]
-    1 string data = "(Oh, já vím!)"
+    1 string data = "(Hele, já vím!)"
    [450]
     1 string data = "(Jo!)"
    [451]
     1 string data = "(Souhlas!)"
    [452]
-    1 string data = "(Dobře, čas se velkolepě představit.)"
+    1 string data = "(Dobře, je načase velkolepě se představit.)"
    [453]
     1 string data = "(Nezapomeň na konci zapózovat!)"
    [454]
@@ -955,11 +955,11 @@
    [470]
     1 string data = "Hezké jméno!"
    [471]
-    1 string data = "Díky, všichni!"
+    1 string data = "Děkuji všem!"
    [472]
-    1 string data = "Hm, ale... Mysleli jsme si, že pro nás jen prohlédnete nějaké ty plány."
+    1 string data = "Hm, ale... Mysleli jsme si, že pro nás jen rozluštíš nějaké ty schémata."
    [473]
-    1 string data = "No, od toho jsem se dostal k něčemu jinému a objevila se příležitost, jak se osvobodit, takže jsme-teda jsem ji využil."
+    1 string data = "No, jedno vedlo k druhému a objevila se příležitost, jak se osvobodit, takže jsme-teda jsem ji využil."
    [474]
     1 string data = "A stejně, v každém případě musím jít osobně. Ten úkol by na vás byl až moc složitý."
    [475]
@@ -975,11 +975,11 @@
    [480]
     1 string data = "Tenhle nový život je skvělý!"
    [481]
-    1 string data = "(Hej, nemluv!)"
+    1 string data = "(Hele, nežvaň!)"
    [482]
-    1 string data = "(Oh, pardon.)"
+    1 string data = "(Aha, pardon.)"
    [483]
-    1 string data = "(Fajn, budu prostě ovládat nohy.)"
+    1 string data = "(Okej, já se zaměrím jen na nohy.)"
    [484]
     1 string data = "(Zabírám si kameru!)"
    [485]
@@ -1003,7 +1003,7 @@
    [494]
     1 string data = "Jak se daří?"
    [495]
-    1 string data = "Oh, cestovatelé! Chcete se podívat na moje zbožíííí?"
+    1 string data = "Jé, cestovatelé! Chcete se podívat na moje zbožíííí?"
    [496]
     1 string data = "Chcete se podívat na moje zbožíííí?"
    [497]
@@ -1011,13 +1011,13 @@
    [498]
     1 string data = "Není čas, musíme čelit Přiživovači!"
    [499]
-    1 string data = "Let's make sure Caël is ready."
+    1 string data = "Přesvědčme se, že Caël je připraven."
    [500]
-    1 string data = "It won't budge."
+    1 string data = "Ani se to nehne."
    [501]
-    1 string data = "Shhhh! Don't spoil our ambush!"
+    1 string data = "Pšššt! Nepokažte moment překvapení!"
    [502]
-    1 string data = "They'll never see it coming!"
+    1 string data = "Nemaj ani zdání, co přijde!"
    [503]
     1 string data = "Uf, štěstí, že můj batoh ten pád změkčil."
    [504]
@@ -1033,13 +1033,13 @@
    [509]
     1 string data = "Vchod je blokován jakousi Karnimantovou magickou bariérou."
    [510]
-    1 string data = "We're at half charge. Keep it up!"
+    1 string data = "Nabíjení je v půlce. Vytrvejte!"
    [511]
-    1 string data = "[MAINCHAR], you and [OFFHAR] have to use spells or live mana to charge the crystal!"
+    1 string data = "[MAINCHAR], ty a [OFFHAR] musíte kouzlit nebo používat živou manu, aby se krystal nabil!"
    [512]
-    1 string data = "Just one more!"
+    1 string data = "Už jenom jednou!"
    [513]
-    1 string data = "It works! Just keep on using magic!"
+    1 string data = "Funguje to! Jen dál používejte manu!"
    [514]
     1 string data = "Zajímalo by mě, co mě čeká v budoucnu."
    [515]

@@ -1221,11 +1221,11 @@
    [603]
     1 string data = "Znovu shledáni se svým nejlepším přítelem si [MAINCHAR] a [OFFCHAR] užívají večer plný oslav a cítí, že se jim konečně navrací povědomá vřelost."
    [604]
-    1 string data = "Přeeesně na chlup!"
+    1 string data = "Přeeesně jak má být!"
    [605]
-    1 string data = "Ha! Přímo na čas!"
+    1 string data = "Ha! Právě na čas!"
    [606]
-    1 string data = "Ale no tak, nestyďte se!"
+    1 string data = "No tak, nestyďte se!"
    [607]
     1 string data = "Potřebujete si odpočinout?"
    [608]

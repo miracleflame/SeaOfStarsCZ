@@ -217,11 +217,11 @@
    [101]
     1 string data = "Přežijte její zkoušky a objevte tajemství, které na vás celou dobu čekalo."
    [102]
-    1 string data = "Bůh vám pomáhej, Bojovníci Slunovratu!"
+    1 string data = "Zlomte vaz, Bojovníci Slunovratu!"
    [103]
     1 string data = "Moje role byla sehrána."
    [104]
-    1 string data = "Bůh vám žehnej a šťastnou cestu!"
+    1 string data = "Zlomte vaz a šťastnou cestu!"
    [105]
     1 string data = "Vítejte v <color=location>Dokarrijské osadě</color>, dobrodruzi! Už je to tak dlouho, co jsme tu měli návštěvníky."
    [106]
