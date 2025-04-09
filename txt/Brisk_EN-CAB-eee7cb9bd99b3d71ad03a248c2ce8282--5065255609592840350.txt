@@ -15,11 +15,11 @@
    [0]
     1 string data = "Jsme tady! Jen se na tohle místo podívejte!!"
    [1]
-    1 string data = "Hotovo, kapitánko! Cedule by je měly dovést přímo k nám."
+    1 string data = "*Hotovo, kapitánko! Cedule by je měly dovést přímo k nám."
    [2]
-    1 string data = "Buďte na vyhlídce. Nesmíme je přehlédnout."
+    1 string data = "*Buďte na vyhlídce. Nesmíme je přehlédnout."
    [3]
-    1 string data = "Provedu, kapitánko, hlídka je moje druhé jméno!"
+    1 string data = "*Provedu, kapitánko, hlídka je moje druhé jméno!"
    [4]
     1 string data = "Najdeme vhodné dobrodruhy pro tuto výpravu, jakože se Keenathan jmenuju!"
    [5]
@@ -33,13 +33,13 @@
    [9]
     1 string data = "První důstojník <color=good>Yolanda Fortwal</color>, vždy k službám. To je vlastně moje druhé jméno!"
    [10]
-    1 string data = "Jsme pirátská posádka, co pátrá po legendární lodi duchů. Do bitev se už nezapojujeme, ale kdysi jsme to dělali všecko!"
+    1 string data = "*Jsme pirátská posádka, co pátrá po legendární lodi duchů. Do bitev se už nezapojujeme, ale kdysi jsme to dělali všecko!"
    [11]
-    1 string data = "Nalézt lék v jeskyni, jen abychom zjistili, že město mezitím vyhořelo? Hotovka!"
+    1 string data = "*Nalézt lék v jeskyni, jen abychom zjistili, že město mezitím vyhořelo? Hotovka!"
    [12]
-    1 string data = "Zůstat s jediným bodem života, aby nás velký padouch mohl 'zabít příště'? Dvakrát hotovka!"
+    1 string data = "*Zůstat s jediným bodem života, aby nás velký padouch mohl 'zabít příště'? Dvakrát hotovka!"
    [13]
-    1 string data = "Sakra, už jsme dokonce byli i ve vězení, protože se čtyři císařští vojáci objevili během dialogu místo náhodného setkání!"
+    1 string data = "*Sakra, už jsme dokonce byli i ve vězení, protože se čtyři císařští vojáci objevili během dialogu místo náhodného setkání!"
    [14]
     1 string data = "..."
    [15]
@@ -47,17 +47,17 @@
    [16]
     1 string data = "Fajn. Pojďme se představit."
    [17]
-    1 string data = "Seznamte se s naší vůdkyní <color=good>kapitánkou Klii'šaë</color>, dcerou legendárního piráta!"
+    1 string data = "*Seznamte se s naší vůdkyní <color=good>kapitánkou Klii'šaë</color>, dcerou legendárního piráta!"
    [18]
     1 string data = "..."
    [19]
     1 string data = "Těší nás, kapitánko, doufali jsme, že bychom mohli..."
    [20]
-    1 string data = "Ten vzadu s tou nadrozměrnou košilí, to je náš kvartýrmajstr <color=good>Valtraid</color>. To je ten typ, co je ve všem dobrý."
+    1 string data = "*Ten vzadu s tou nadrozměrnou košilí, to je náš kvartýrmajstr <color=good>Valtraid</color>. To je ten typ, co je ve všem dobrý."
    [21]
     1 string data = "Ahoy!"
    [22]
-    1 string data = "A ten vysoký je <color=good>Keenathan</color>, náš větrný mág. Udržuje naše plachty napnuté, takže nikdo nemusí veslovat."
+    1 string data = "*A ten vysoký je <color=good>Keenathan</color>, náš větrný mág. Udržuje naše plachty napnuté, takže nikdo nemusí veslovat."
    [23]
     1 string data = "Zdravím vás, dobrodruzi. Jmenuji se Keenathan!"
    [24]
@@ -65,15 +65,15 @@
    [25]
     1 string data = "Dobrá."
    [26]
-    1 string data = "Esli jste si všimli té dvojité pásky přes oko, tak to páč Keenathan umí kouzlit jen se zavázanýma očima."
+    1 string data = "*Esli jste si všimli té dvojité pásky přes oko, tak to páč Keenathan umí kouzlit jen se zavázanýma očima."
    [27]
-    1 string data = "Své schopnosti objevil jako děcko, když si natáh pirátský kostým, zatímco už jeden pirátský kostým na sobě měl."
+    1 string data = "*Své schopnosti objevil jako děcko, když si natáh pirátský kostým, zatímco už jeden pirátský kostým na sobě měl."
    [28]
     1 string data = "Těší mě, že vás všechny poznávám, jsem [MAINCHAR]. Tohle jsou moji přátelé [OFFCHAR], Garl a Teaks."
    [29]
     1 string data = "Potřebujeme si včas zajistit cestu na Přízračný ostrov, abychom stihli zatmění."
    [30]
-    1 string data = "Ahoy, kapitánko! Hádám, že tidle dva jsou Bojovníci Slunovratu!"
+    1 string data = "*Ahoy, kapitánko! Hádám, že tidle dva jsou Bojovníci Slunovratu!"
    [31]
     1 string data = "..."
    [32]
@@ -81,15 +81,15 @@
    [33]
     1 string data = "Jaké výtečné načasování!"
    [34]
-    1 string data = "Tady kapitánka Klii'šaë vás všecky zcela jistě může vzít na Přízračný ostrov. Za určitou cenu, žano."
+    1 string data = "*Tady kapitánka Klii'šaë vás všecky zcela jistě může vzít na Přízračný ostrov. Za určitou cenu, žano."
    [35]
     1 string data = "..."
    [36]
     1 string data = "Uzavřeme dohodu?"
    [37]
-    1 string data = "Esli porazíte Valtraida v páce, máte mít jízdu zdarma."
+    1 string data = "*Esli porazíte Valtraida v páce, máte mít jízdu zdarma."
    [38]
-    1 string data = "Ale když prohrajete, budete pro nás muset vykonat malou službičku. Co vy na to?"
+    1 string data = "*Ale když prohrajete, budete pro nás muset vykonat malou službičku. Co vy na to?"
    [39]
     1 string data = "Podmínky jsou dost jednoduché."
    [40]
@@ -99,31 +99,31 @@
    [42]
     1 string data = "Nezdá se mi, že bychom měli moc na výběr..."
    [43]
-    1 string data = "No jasně, klidně odmítněte, ať můžeme všichni předstírat, že to není nevyhnutelné."
+    1 string data = "*No jasně, klidně odmítněte, ať můžeme všichni předstírat, že to není nevyhnutelné."
    [44]
-    1 string data = "Ať je to bezpečné a předvídatelné!"
+    1 string data = "*Ať je to bezpečné a předvídatelné!"
    [45]
-    1 string data = "Ještě nějaké trapárny vám napadli k této výpravě?"
+    1 string data = "*Ještě nějaké trapárny vám napadli k této výpravě?"
    [46]
-    1 string data = "Jako třeba nakupování lineárních vylepšení v každičkém městě s kováři, jež jsou nějaksi čím dál tím schopnější, čím víc na severu žijí?"
+    1 string data = "*Jako třeba nakupování lineárních vylepšení v každičkém městě s kováři, jež jsou nějaksi čím dál tím schopnější, čím víc na severu žijí?"
    [47]
     1 string data = "..."
    [48]
-    1 string data = "A kteří, žano, shodou okolností žijí v kůlně, přestože prodávaj dýky po 25 000 G!"
+    1 string data = "*A kteří, žano, shodou okolností žijí v kůlně, přestože prodávaj dýky po 25 000 G!"
    [49]
     1 string data = "..."
    [50]
-    1 string data = "Fajn. Ať je po vašem."
+    1 string data = "*Fajn. Ať je po vašem."
    [51]
-    1 string data = "Až se budete mít k dobrodružství, přijďte za námi do <color=location>Skromné chlouby</color> a plácnem si."
+    1 string data = "*Až se budete mít k dobrodružství, přijďte za námi do <color=location>Skromné chlouby</color> a plácnem si."
    [52]
     1 string data = "Skromné chlouby?"
    [53]
-    1 string data = "Místní hospoda. Stačí jít po molu."
+    1 string data = "*Místní hospoda. Stačí jít po molu."
    [54]
     1 string data = "!!!"
    [55]
-    1 string data = "Hejbněte kostrou posádko, je na čase to zabalit."
+    1 string data = "*Hejbněte kostrou posádko, je na čase to zabalit."
    [56]
     1 string data = "Aye aye, kapitánko!"
    [57]
@@ -153,13 +153,13 @@
    [69]
     1 string data = "Připraveni zajít za piráty?"
    [70]
-    1 string data = "No podívejme se, kdo to přišel!"
+    1 string data = "*No podívejme se, kdo to přišel!"
    [71]
-    1 string data = "Dohoda platí. Pokud neporazíte Valtraida v páce, budete nám muset přiníst ňákou věcičku."
+    1 string data = "*Dohoda platí. Pokud neporazíte Valtraida v páce, budete nám muset přiníst ňákou věcičku."
    [72]
-    1 string data = "Pak vás, vemem' na Přízračný ostrov, čestné pirátské."
+    1 string data = "*Pak vás, vemem' na Přízračný ostrov, čestné pirátské."
    [73]
-    1 string data = "Přijímáte tyto podmínky?"
+    1 string data = "*Přijímáte tyto podmínky?"
    [74]
     1 string data = "Ano"
    [75]
@@ -211,7 +211,7 @@
    [98]
     1 string data = "Podvodníku!"
    [99]
-    1 string data = "Omlouvám se, ale uniká mi, kdy jsme se dohodli na zákazu kouzelných košil?"
+    1 string data = "*Omlouvám se, ale uniká mi, kdy jsme se dohodli na zákazu kouzelných košil?"
    [100]
     1 string data = "Promiň, kámo, rozkaz kapitánky."
    [101]
@@ -225,13 +225,13 @@
    [105]
     1 string data = "Máte štěstí, že jsme se neptali na žádné podrobnosti..."
    [106]
-    1 string data = "Měli jste vyjednávat, dokud jste měli příležitost, synku! Tuhle lekci máte na účet podniku."
+    1 string data = "*Měli jste vyjednávat, dokud jste měli příležitost, synku! Tuhle lekci máte na účet podniku."
    [107]
     1 string data = "Ha ha! Valtraid je opravdu dobrý ve všem!"
    [108]
     1 string data = "To si piš, kámo!"
    [109]
-    1 string data = "Poněvadž jste prohráli zápas v páce, co kdybychom probrali tamtu malou pochůzku?"
+    1 string data = "*Poněvadž jste prohráli zápas v páce, co kdybychom probrali tamtu malou pochůzku?"
    [110]
     1 string data = "..."
    [111]
@@ -305,17 +305,17 @@
    [145]
     1 string data = "Zadrž, synku! Ta loď není naše, ne ne ne."
    [146]
-    1 string data = "My jsme tudydle!"
+    1 string data = "*My jsme tudydle!"
    [147]
-    1 string data = "Dubovej škuner není nic moc, ale přes <color=location>Močarinu</color> na Přízračný ostrov vás dostane v poho!"
+    1 string data = "*Dubovej škuner není nic moc, ale přes <color=location>Močarinu</color> na Přízračný ostrov vás dostane v poho!"
    [148]
     1 string data = "..."
    [149]
-    1 string data = "Jenom se musíme držet toho kanálu, nám žádné otevřené moře nehrozí, dokud neseženeme pořádné plavidlo."
+    1 string data = "*Jenom se musíme držet toho kanálu, nám žádné otevřené moře nehrozí, dokud neseženeme pořádné plavidlo."
    [150]
     1 string data = "..."
    [151]
-    1 string data = "Takže pokud nemáte nějaké nedořešené záležitosti, můžeme hned teď vyplout na Přízračný ostrov."
+    1 string data = "*Takže pokud nemáte nějaké nedořešené záležitosti, můžeme hned teď vyplout na Přízračný ostrov."
    [152]
     1 string data = "Jsme připraveni"
    [153]
@@ -335,19 +335,19 @@
    [160]
     1 string data = "Představujeme nejlepší nabídku, co je!"
    [161]
-    1 string data = "Ten předchozí souboj mi připomněl, jak nás tenkrát zajala banda zlodějů."
+    1 string data = "*Ten předchozí souboj mi připomněl, jak nás tenkrát zajala banda zlodějů."
    [162]
-    1 string data = "Valtraid začal hrubě mluvit na strážného, až se ten neovládl a začal s ním lomcovat."
+    1 string data = "*Valtraid začal hrubě mluvit na strážného, až se ten neovládl a začal s ním lomcovat."
    [163]
     1 string data = ""To je vše, co umíš, kámo?", řekl."
    [164]
-    1 string data = "Strážný se naštval a zalomoval s ním tak silně, až mu roztrhl jeho košili."
+    1 string data = "*Strážný se naštval a zalomoval s ním tak silně, až mu roztrhl jeho košili."
    [165]
-    1 string data = "To nám tu situaci vyřešilo."
+    1 string data = "*To nám tu situaci vyřešilo."
    [166]
-    1 string data = "Věřím, že to je ta mince. Kapitánka bude nadšená!"
+    1 string data = "*Věřím, že to je ta mince. Kapitánka bude nadšená!"
    [167]
-    1 string data = "Je to jen menší zápas v páce, aye?"
+    1 string data = "*Je to jen menší zápas v páce, aye?"
    [168]
     1 string data = "Vyhráváš, kámo?"
    [169]
