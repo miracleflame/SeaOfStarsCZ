@@ -13,25 +13,25 @@
   1 Array Array (28 items)
    0 int size = 28
    [0]
-    1 string data = "*A pak pravil: "Hle, bolest věčného hříchu!" a proměnil se v jakési polocosi s překrásnou tváří, která jemně foukala na jablko s opeřenými křídly."
+    1 string data = "A pak spustil: "Hle, bolest věčného hříchu!" a proměnil se v jakési polocosi s překrásnou tváří, která jemně foukala na jablko s opeřenými křídly."
    [1]
     1 string data = "Co se stalo pak?"
    [2]
-    1 string data = "*Vychlemtali jsme asi šestadvacet elixírů, jež jsme si šetřili na pozdějc, a nakonec jsme vyhráli."
+    1 string data = "Vychlemtali jsme asi šestadvacet elixírů, jež jsme si šetřili na pozdějc, a nakonec jsme vyhráli."
    [3]
-    1 string data = "*Hurá!"
+    1 string data = "Hurá!"
    [4]
-    1 string data = "*Udatná bitva!"
+    1 string data = "Udatná bitva!"
    [5]
-    1 string data = "*Připravte se, skočíme na další záblesk."
+    1 string data = "Připravte se, skočíme na další záblesk."
    [6]
     1 string data = "Rozkazy, kapitánko?"
    [7]
     1 string data = "Dohlédněte na bezpečnost vesničanů, dokud se nevrátíme."
    [8]
-    1 string data = "*Mohu i provedu!"
+    1 string data = "Mohu i provedu!"
    [9]
-    1 string data = "*Šťastnou plavbu, kapitánko!"
+    1 string data = "Šťastnou plavbu, kapitánko!"
    [10]
     1 string data = "Při všem tom dění se zdá, že na vysvětlování nezbude nikdy čas, takže..."
    [11]

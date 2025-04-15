@@ -1099,7 +1099,7 @@
    [542]
     1 string data = "Od soubojů po boku Bojovníků Slunovratu až po založení mírumilovného města Veselí, dokonce se mu podařilo ukonejšit Spáče."
    [543]
-    1 string data = "*Jó, nakonec jsi jim vytřel zraky, synku. Dobrá práce."
+    1 string data = "Jó, nakonec jsi jim vytřel zraky, synku. Dobrá práce."
    [544]
     1 string data = "Jako pravý pirátský šéfkuchař!"
    [545]
@@ -1135,7 +1135,7 @@
    [560]
     1 string data = "Aye, musí to strašně bolet. Jejich pouto bylo výjimečné."
    [561]
-    1 string data = "*Určite by to bolelo jako čert, kdybychom ztratili jednoho z našich..."
+    1 string data = "Zajisté by to bolelo jako čert, kdybychom ztratili jednoho z našich..."
    [562]
     1 string data = "Ovšem, že máš pravdu, Valtraide. Jejich přátelství bylo už něco jiného."
    [563]
@@ -1387,7 +1387,7 @@
    [686]
     1 string data = "Přes Moře hvězd... Tipuju, že Garlovi by se tam líbilo..."
    [687]
-    1 string data = "*Jste v cajku? Ztratit člena posádky není nikdy snadný..."
+    1 string data = "Jste v cajku? Ztratit člena posádky není nikdy snadný..."
    [688]
     1 string data = "Diplom Slunovratu potvrzuje vaše minulé počínání. Chcete přeskočit Akademii Zenit?"
    [689]

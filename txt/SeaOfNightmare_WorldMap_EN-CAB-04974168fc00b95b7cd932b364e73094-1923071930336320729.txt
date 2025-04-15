@@ -13,14 +13,14 @@
   1 Array Array (6 items)
    0 int size = 6
    [0]
-    1 string data = "*Fajn, kouknem se jak poplujete!"
+    1 string data = "Fajn, kouknem se jak poplujete!"
    [1]
-    1 string data = "*Tři ostrovy, na každém jeden bleskosvod. Jakmile budou pryč, můžeme zaútočit na Vodní vír a přenést boj k Vyzývateli bouří!"
+    1 string data = "Tři ostrovy, na každém jeden bleskosvod. Jakmile budou pryč, můžeme zaútočit na Vodní vír a přenést boj k Vyzývateli bouří!"
    [2]
     1 string data = "Během plavby držte <button=Boat_Accelerate> pro pohyb vpřed a <button=MoveHorizontal> pro kormidlování lodě."
    [3]
     1 string data = "<color=magic>Mapu</color> lze otevřít stisknutím <button=UI_PingHud>. Zobrazuje vaši aktuální polohu a také cíl cesty."
    [4]
-    1 string data = "*Ni, šéfe! Deprem až se postaráme o ty bleskosvody na všech třech ostrovech!"
+    1 string data = "Nene, šéfe! Teprv až se postaráme o ty bleskosvody na všech třech ostrovech!"
    [5]
-    1 string data = "Pravděpodobně můžeme použít Zahák, abychom rozbili ty krystaly..."
+    1 string data = "Nejspíš můžeme použít Zahák, abychom rozbili ty krystaly..."

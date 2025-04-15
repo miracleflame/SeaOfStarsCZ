@@ -21,33 +21,33 @@
    [3]
     1 string data = "Doufám, že mi Hortenzie dovolí položit jí pár otázek. Mám jich tolik!"
    [4]
-    1 string data = "*To už je úkol hodný mé podpory."
+    1 string data = "To už je úkol hoden mého přičinění."
    [5]
     1 string data = "Takže platí?"
    [6]
-    1 string data = "*Aye. Loď je vaše a já vám budu dělat navigátorku."
+    1 string data = "Aye. Loď je vaše a já vám budu dělat navigátorku."
    [7]
-    1 string data = "*Plavila jsem se po něm jen jednou, ale ať jsem dvakrát prokletá, jestli to nedokážu zopáknout."
+    1 string data = "Plavila jsem se přes něm jen jednou, ale ať jsem dvakrát prokletá, jestli to nedokážu zopáknout."
    [8]
     1 string data = "..."
    [9]
     1 string data = "Kolik toho víš?"
    [10]
-    1 string data = "*Dost na to, abych prokoukla tvoje převleky."
+    1 string data = "Dost na to, abych prokoukla tvoje převleky."
    [11]
     1 string data = "..."
    [12]
-    1 string data = "*Bez obav, nic neprozradím."
+    1 string data = "Bez obav, nic neprozradím."
    [13]
-    1 string data = "*Půjdou ti dva Bojovníci Slunovratu na pomoc?"
+    1 string data = "Půjdou ti dva Bojovníci Slunovratu na pomoc?"
    [14]
     1 string data = "Doufala jsem, že nakonec půjdou, když jim nejdřív pomůžu já..."
    [15]
-    1 string data = "*Tak to asi máme šanci."
+    1 string data = "Pak to snad máme šanci."
    [16]
     1 string data = "Hortenzie, já..."
    [17]
-    1 string data = "To nestojí za řeč. Jsem tvou dlužnicí po tom, cos mě vytáhla ze skutečného pekla, aye?"
+    1 string data = "Nech toho. Máš to u mě po tom, cos mě vytáhla z vopravdického pekla, aye?"
    [18]
     1 string data = "Já..."
    [19]
@@ -57,7 +57,7 @@
    [21]
     1 string data = "Hortenzie jméno mé. Použivej ho."
    [22]
-    1 string data = "*Aye, já jen... Vypráví se, že jsi kdysi docela válela s mandolínou."
+    1 string data = "Aye, já jen... Vypráví se, žes kdysi docela válela s mandolínou."
    [23]
     1 string data = "*S VOKTÁVOVOU mandolínou, synku! Vyhrála souboj s legendárním Shredrickem!"
    [24]
@@ -65,13 +65,13 @@
    [25]
     1 string data = "Síla!"
    [26]
-    1 string data = "*Já myslím, že by ses měla přidat k té naší malé bardcorové kapele!"
+    1 string data = "Já myslím, že by ses měla přidat k té naší malé bardcorové kapele!"
    [27]
     1 string data = "Haha, nevidím důvod, proč ne!"
    [28]
     1 string data = "Hurá!"
    [29]
-    1 string data = "Tendlec úděl s věčností začíná nabírat mnohem lepší obrátky!"
+    1 string data = "Tendlec úděl s věčností začíná nabírat mnohem lepší grády!"
    [30]
     1 string data = "Buď vítána v posádce, Hortenzie!"
    [31]

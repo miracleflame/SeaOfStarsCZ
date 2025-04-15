@@ -287,13 +287,13 @@
    [136]
     1 string data = "Ne"
    [137]
-    1 string data = "*Yolanda říká, že posádka už opravila, co bylo třeba. Hádám, že by se vám mohla hodit nějaká ta palebná síla navíc, kdyby bylo potřeba."
+    1 string data = "Yolanda říká, že posádka už opravila, co bylo třeba. Hádám, že by se vám mohla hodit nějaká ta palebná síla navíc, kdyby bylo potřeba."
    [138]
     1 string data = "Seraï se naučila ultimátní útok <sprite="dialog-inventory-icons" name="icn-skills-serai-verspertinecannons"> <color=magic>Kanóny Večernice</color>."
    [139]
     1 string data = "Za kombo body proveďte v souboji ultimátní kalibr útoku!"
    [140]
-    1 string data = "*Dostali jsme Caëlovu zprávu. Vezmu vás tam přímo, až budete připraveni."
+    1 string data = "Obdrželi jsme zprávu od Caëla. Rovnou vás tam vemu, až budete připraveni."
    [141]
     1 string data = "Připraveni"
    [142]
@@ -309,7 +309,7 @@
    [147]
     1 string data = "ZA GARLA!"
    [148]
-    1 string data = "*Skvělá práce, všichni! Tamto podpalubí je plné až po okraj!"
+    1 string data = "Skvělá práce, všichni! Tamto podpalubí je napráskané až po okraj!"
    [149]
     1 string data = "Chrabré to úsilí!"
    [150]
@@ -359,7 +359,7 @@
    [172]
     1 string data = "Možná později"
    [173]
-    1 string data = "Je mi líto, ale zdá se, že nemáte dost zlata. Možná někdy příště!"
+    1 string data = "Je mi líto, ale zdá se, že nemáte dost G. Možná někdy příště!"
    [174]
     1 string data = "A kdo bude ten šťastlivec?"
    [175]
@@ -375,7 +375,7 @@
    [180]
     1 string data = "Garl"
    [181]
-    1 string data = "Přeji vám nanejvýš uvolňující chvíle."
+    1 string data = "Přeji vám nanejvýš relaxační chvíle."
    [182]
     1 string data = "Valerie se ponořila do hluboké meditace a přemýšlela o výzvách, které ji čekají."
    [183]
@@ -437,7 +437,7 @@
    [211]
     1 string data = "Ahoj, byli jste v poslední době na rybách?"
    [212]
-    1 string data = "Zkontrolovat počet druhů"
+    1 string data = "Ověřit počet druhů"
    [213]
     1 string data = "Zobrazit seznam odměn"
    [214]
@@ -463,7 +463,7 @@
    [224]
     1 string data = "Dobře se vyspěte!"
    [225]
-    1 string data = "Můj bratr mi poslal vaši nabídku. Děkuji, nemohu se dočkat, až začnu obsluhovat... Měli jste pro Boba stavební schémata?"
+    1 string data = "Můj bratr mi poslal vaši nabídku. Děkuji, nemohu se dočkat, až začnu obsluhovat... Měli by jste pro Boba stavební schémata?"
    [226]
     1 string data = "Hledá se hostinský."
    [227]
@@ -481,7 +481,7 @@
    [233]
     1 string data = "Měl jsem to říct nahlas už dřív, ale... Jsem na vás dva opravdu hrdý."
    [234]
-    1 string data = "Myslím, že už začínám chápat, co je to ten městský stařešina."
+    1 string data = "Myslím, že už začínám chápat, co je to ten stařešina obce."
    [235]
     1 string data = "Dokázali jste to, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]. Především jste prokázali bezkonkurenční týmovou spolupráci a vzájemnou důvěru. Jsem na vás hrdý."
    [236]
@@ -539,11 +539,11 @@
    [262]
     1 string data = "Měla bych se jít podívat do Krypty na severu od města. Někteří lidé tam byli a říkali, že je to opravdu působivé."
    [263]
-    1 string data = "Šel jsem se podívat do Krypty. Bude to chtít víc než jednu návštěvu, jestli to mám všechno pojmout!"
+    1 string data = "Šla jsem se podívat do Krypty. Bude to chtít víc než jednu návštěvu, jestli to mám všechno pojmout!"
    [264]
     1 string data = "Je skvělé začít znovu poté, co jsem ve Svěžíně přišla skoro o všechno."
    [265]
-    1 string data = "Jsem moc zarmoucený Garlovou smrtí..."
+    1 string data = "Jsem moc zarmoucená Garlovou smrtí..."
    [266]
     1 string data = "Jsem moc potěšen Garlovým návratem!"
    [267]
@@ -553,7 +553,7 @@
    [269]
     1 string data = "A teď zasloužená přestávka!"
    [270]
-    1 string data = "Měl bych brzy navštívit své staré přátele ve Svěžíně, podívat se, jak se drží."
+    1 string data = "Měla bych brzy navštívit své staré přátele ve Svěžíně, podívat se, jak se drží."
    [271]
     1 string data = "Ach, [MAINCHAR] a [OFFCHAR]! Možná byste mi mohli pomoci? Mám pocit, že by Veselí prospělo více služeb, ale ocitl jsem se ve slepé uličce."
    [272]
@@ -565,7 +565,7 @@
    [275]
     1 string data = "Zajímavé! Pojďme se pustit do práce!"
    [276]
-    1 string data = "To se hezky povedlo! Už jste našli profesionála, který to tu bude provozovat?"
+    1 string data = "To se povedlo hezky! Už jste našli odborníka, který bude podnik provozovat?"
    [277]
     1 string data = "Tohle místo se už zdá být kompletní. Máme tu opravdu něco výjimečného, ještě jednou díky za pomoc!"
    [278]

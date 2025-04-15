@@ -23,15 +23,15 @@
    [4]
     1 string data = "Yolando! Pospěš si!"
    [5]
-    1 string data = "*Neboj, chlapáku, demolice je moje druhé jméno!"
+    1 string data = "Neboj, chlapáku, demolice je moje druhé jméno!"
    [6]
-    1 string data = "*Ha ha! To máš za to, ty stará vykopávko!"
+    1 string data = "Ha ha! Tam máš, ty stará ruino!"
    [7]
     1 string data = "..."
    [8]
     1 string data = "I tak to šlo udělat..."
    [9]
-    1 string data = "*Dobře odvedená práce, braši!"
+    1 string data = "Dobrá práce, braši!"
    [10]
     1 string data = "Raději dejte kapitánce vědět, že naše část mise byla úspěšná."
    [11]

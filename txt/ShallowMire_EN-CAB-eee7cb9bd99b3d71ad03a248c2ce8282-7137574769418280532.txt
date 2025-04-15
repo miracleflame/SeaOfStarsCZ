@@ -15,23 +15,23 @@
    [0]
     1 string data = "Užijte si to sluníčko, přátelé, na Přízračném ostrově je prý strašně ponuro!"
    [1]
-    1 string data = "*Jo, s tím bude mít co do činění stará dobrá duší Přiživovačka."
+    1 string data = "Jo, v tom bude mít prsty stará dobrá duší Přiživovačka."
    [2]
     1 string data = "..."
    [3]
-    1 string data = "*Nic, co byste vy, Slunovratníci, nespravili, žano."
+    1 string data = "Nic, co byste vy, Slunovratníci, nespravili, žeano."
    [4]
-    1 string data = "*V to aspoň doufám... Nerada bych se nakonec tam zaplantala nafurt!"
+    1 string data = "V to alespoň doufám... Nerada bych se tam nakonec zaplantala nafurt!"
    [5]
     1 string data = "Co tím myslíš?"
    [6]
     1 string data = "..."
    [7]
-    1 string data = "*Vy neznáte tamletu o jednosměrný cestě?"
+    1 string data = "Vy neznáte tamletu o jednosměrný cestě?"
    [8]
-    1 string data = "*Nuže, tu máte další, co jste ještě nikdy neslyšali."
+    1 string data = "Nuže, tady máte další, co jste ještě nikdy neslyšali."
    [9]
-    1 string data = "*Nikdo, kdo se vypravil na Přízračný ostrov, se stamaď nikdá nevrátil!"
+    1 string data = "Nikdo z těch, co se vypravili na Přízračný ostrov, se stamaď nikdá nevrátil!"
    [10]
     1 string data = "..."
    [11]
@@ -47,9 +47,9 @@
    [16]
     1 string data = "Ona loví?"
    [17]
-    1 string data = "*Tydle věci se krmí, to jste neslyšali?"
+    1 string data = "Tydle věci se krmí, to jste neslyšali?"
    [18]
-    1 string data = "*Aye, tu a tam Přiživovačka zapěje svým <color=bad>prokletým hlasem</color> a přiměje jednoho z obyvatel Přízračného ostrova, aby náměsíčně odkráčel do jejího doupěte a už se nikdy nevrátil..."
+    1 string data = "Aye, tu a tam Přiživovačka zapěje svým <color=bad>prokletým hlasem</color> a přiměje jednoho z místních Přízračného ostrova, aby náměsíčně odkráčel do jejího doupěte a už se nikdá nevrátil..."
    [19]
     1 string data = "..."
    [20]
@@ -57,9 +57,9 @@
    [21]
     1 string data = "Ale proč by tam tedy lidé vůbec chodili?"
    [22]
-    1 string data = "*Co já vím. Zvědavost, nuda, touha uniknout?"
+    1 string data = "Co já vím. Zvědavost, nuda, touha po úniku?"
    [23]
-    1 string data = "*Každopádně, na to se budete moci brzy zeptat."
+    1 string data = "Tak jako tak, budete mít šanci se to brzy zeptat."
    [24]
     1 string data = "Vy jste o tom všem věděli?"
    [25]
@@ -91,7 +91,7 @@
    [38]
     1 string data = "Večernice bude jednoho dne naše, jakože se Keenathan jmenuju!"
    [39]
-    1 string data = "*Všeho do času, braši. Pro tuto chvíli se blížíme k molu."
+    1 string data = "Všeho do času, braši. Na teď se blížíme k molu."
    [40]
     1 string data = "Hele, tak přece letíme podruhé. To je prima, co?"
    [41]
