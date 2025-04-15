@@ -131,7 +131,7 @@
    [58]
     1 string data = "U vchodu k Hvězdnému moři by měla být stanice rychlodráhy."
    [59]
-    1 string data = "(Chápu...)"
+    1 string data = "(Rozumím...)"
    [60]
     1 string data = "(Co takhle zfalšovat tenhle paket?)"
    [61]

@@ -865,9 +865,9 @@
    [425]
     1 string data = "(Vzhledem k okolnostem to zas tak špatné není.)"
    [426]
-    1 string data = "(Hej! To nedělej!)"
+    1 string data = "(Hej! Nech toho!)"
    [427]
-    1 string data = "(Haha! Mám vás!)"
+    1 string data = "(Haha! Mám tě!)"
    [428]
     1 string data = "Žádný otvírací spínač nevidím."
    [429]

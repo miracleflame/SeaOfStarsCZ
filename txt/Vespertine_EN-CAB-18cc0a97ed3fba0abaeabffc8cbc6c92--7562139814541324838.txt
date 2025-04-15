@@ -87,7 +87,7 @@
    [36]
     1 string data = "*Pokud máte zájem tomu ubožákovi pomoci, Yolanda zná další podrobnosti."
    [37]
-    1 string data = "Dá vám Hortenzie sumár?"
+    1 string data = "Dala vám Hortenzie sumár?"
    [38]
     1 string data = "*Nekromantka byla spatřena na odlehlé plošině kousek od pobřeží Přízračného ostrova. Tady, ukážu vám to."
    [39]

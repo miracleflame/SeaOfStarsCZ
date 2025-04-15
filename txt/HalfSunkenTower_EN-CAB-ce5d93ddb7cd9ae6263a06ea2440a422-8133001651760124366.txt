@@ -61,7 +61,7 @@
    [23]
     1 string data = "NEODCHÁZÍ, MÁ PADÁKA!"
    [24]
-    1 string data = "Madam, proč jste pořád tak dopálená? Víte, v mé vesnici..."
+    1 string data = "Madam, proč jste pořád tak dopálená? Víte, v mé osade..."
    [25]
     1 string data = "No DOVOL? Kdo si myslíš, že JSI?"
    [26]
@@ -69,7 +69,7 @@
    [27]
     1 string data = "Potřebuje být chvíli sama."
    [28]
-    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní??"
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?"
    [29]
     1 string data = "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!"
    [30]

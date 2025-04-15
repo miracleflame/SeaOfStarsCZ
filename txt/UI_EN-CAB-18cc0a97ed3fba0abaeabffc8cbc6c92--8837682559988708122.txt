@@ -713,13 +713,13 @@
    [349]
     1 string data = "<button="MoveAll"> Přepínání"
    [350]
-    1 string data = "B'waak! Zůstal Poklad! Zůstal Poklad!"
+    1 string data = "B'waak! Je tam Poklad! Je tam Poklad!"
    [351]
-    1 string data = "B'waak! Zůstala Lastura! Zůstala Lastura!"
+    1 string data = "B'waak! Je tam Ulita! Je tam Ulita!"
    [352]
-    1 string data = "B'waak! Zůstala Ryba! Zůstala Ryba!"
+    1 string data = "B'waak! Je tam Ryba! Je tam Ryba!"
    [353]
-    1 string data = "B'waak! Zůstal Šampion Kotoučů! Zůstal Šampion Kotoučů!"
+    1 string data = "B'waak! Je tam Šampion Kotoučů! Je tam Šampion Kotoučů!"
    [354]
     1 string data = "V lokaci [LEVEL_NAME]. B'waak!"
    [355]

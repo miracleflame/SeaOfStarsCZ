@@ -543,7 +543,7 @@
    [264]
     1 string data = "Je to tak příjemné mít Garla zase s sebou."
    [265]
-    1 string data = "Přemýšlel jsem o Svatyních slunovratu... Možná by stálo za to najít ty zbývající."
+    1 string data = "Zdálo se mi o Svatyních Slunovratu... Možná by stálo za to najít ty zbývající."
    [266]
     1 string data = "Už to prostě nebylo ono, a tohle je moc dobré!"
    [267]
@@ -553,7 +553,7 @@
    [269]
     1 string data = "..."
    [270]
-    1 string data = "Je tu další potenciální hrozba pro můj lid... nejsem si jistý, jestli ji zvládnu sám..."
+    1 string data = "Je tu další potenciální hrozba pro můj lid... nejsem si jistá, jestli ji zvládnu sama..."
    [271]
     1 string data = "Copak?"
    [272]
@@ -569,7 +569,7 @@
    [277]
     1 string data = "Je to na dlouhé lokty, ale tohle je to, co sonda přinesla od jedné z pátracích skupin."
    [278]
-    1 string data = "Doufala jsem, že bychom to mohli dát Teaks a zjistit, co se z toho dá vyčíst. Pokud na to ovšem budeme mít čas."
+    1 string data = "Doufala jsem, že bychom to mohli dát Teaks a zjistit, co se dá z toho vyčíst. Pokud na to ovšem budeme mít čas."
    [279]
     1 string data = "Přinejmenším za pokus to stojí."
    [280]
@@ -609,9 +609,9 @@
    [297]
     1 string data = "Jako co?"
    [298]
-    1 string data = "Během mého pobytu na vašem domovském světě jsem zaslechl zvěsti o místě, kde se bojovníci zapojují do přátelského soupeření."
+    1 string data = "Během mého pobytu na vašem domovském světě jsem zaslechl zvěsti o místě, kde se bojovníci zapojují do přátelského klání."
    [299]
-    1 string data = ""Aréna dopadu Přiživovače" ve Svěžíně.""
+    1 string data = ""Aréna dopadu Přiživovače" ve Svěžíně."
    [300]
     1 string data = "Podle Yolandy ji postavili obyvatelé města, aby využili velký kráter, který zanechal Přiživovač sváru."
    [301]

@@ -15,7 +15,7 @@
    [0]
     1 string data = "Uzavřeno tajemnou silou..."
    [1]
-    1 string data = "Tyto <color=magic>runes</color>... Nejspíš se bez nápovědy nedostaneme daleko."
+    1 string data = "Tyto <color=magic>runy</color>... Nejspíš se bez nápovědy nedostaneme daleko."
    [2]
     1 string data = "Bažina na ostrově Mesa. Mohli bychom se zkusit zeptat nekromantčiny sestry."
    [3]

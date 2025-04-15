@@ -47,7 +47,7 @@
    [16]
     1 string data = "Nyní můžete měnit čas dne pomocí <button=AdvanceTime> a <button=RewindTime> bez nutnosti stát na Nebeské runě."
    [17]
-    1 string data = "Fíha! Takže teď tohle můžete dělat, kdykoliv chcete??"
+    1 string data = "Fíha! Takže teď tohle můžete dělat, kdykoliv chcete?"
    [18]
     1 string data = "Ten amulet velmi silně rezonuje s naší magií."
    [19]

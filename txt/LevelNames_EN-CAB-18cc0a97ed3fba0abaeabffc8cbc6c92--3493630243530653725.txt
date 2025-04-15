@@ -221,7 +221,7 @@
    [103]
     1 string data = "Přízračný ostrov"
    [104]
-    1 string data = "Bambusový potok"
+    1 string data = "Bambusová zátoka"
    [105]
     1 string data = "Ledovcový vrch"
    [106]

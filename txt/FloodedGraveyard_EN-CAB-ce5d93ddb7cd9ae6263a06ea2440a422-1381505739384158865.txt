@@ -77,7 +77,7 @@
    [31]
     1 string data = "S tím zeleným plamenem ke mě poďte, vítání na můj vor se naloďte!"
    [32]
-    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní??"
+    1 string data = "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?"
    [33]
     1 string data = "S tím žlutým plamenem ke mě poďte, vítání na můj vor se naloďte!"
    [34]

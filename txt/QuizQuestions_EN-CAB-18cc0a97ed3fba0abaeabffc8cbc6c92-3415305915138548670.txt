@@ -193,7 +193,7 @@
    [89]
     1 string data = "NEPRAVDA"
    [90]
-    1 string data = "Kolik zlata potřebujete, abyste si mohli koupit Vyřezávaný meč?"
+    1 string data = "Kolik G potřebujete, abyste si mohli koupit Vyřezávaný meč?"
    [91]
     1 string data = "71"
    [92]
@@ -721,7 +721,7 @@
    [353]
     1 string data = "Chmur"
    [354]
-    1 string data = "Děs"
+    1 string data = "Poděs"
    [355]
     1 string data = "Která entita se v našem domovském světě stará o přístup do Moře hvězd?"
    [356]

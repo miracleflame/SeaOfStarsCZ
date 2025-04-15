@@ -177,7 +177,7 @@
    [81]
     1 string data = "Nakrmte mě něčím LEHKÝM."
    [82]
-    1 string data = "Nakrmte mě něčím Z VODY."
+    1 string data = "Nakrmte mě něčím RYBÍM."
    [83]
     1 string data = "Mňamka."
    [84]
@@ -189,11 +189,11 @@
    [87]
     1 string data = "Nedostatečně LEHKÉ."
    [88]
-    1 string data = "Nedostatečně Z VODY."
+    1 string data = "Nedostatečně RYBOVÉ."
    [89]
-    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a ještě víc než to. Vydávám odměnu."
+    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a dokonce i víc. Odevzdávám odměnu."
    [90]
-    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a ještě víc než to."
+    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a dokonce i víc."
    [91]
     1 string data = "Ach jo, kéž by tu byl nějaký způsob, jak tyhle lidi rozveselit. Zdá se, že kromě Seraï jsem tu jediná, komu zbyla nějaká energie, ale boj není nic pro mě!"
    [92]

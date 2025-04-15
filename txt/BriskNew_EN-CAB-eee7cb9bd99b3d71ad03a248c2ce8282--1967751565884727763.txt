@@ -21,7 +21,7 @@
    [3]
     1 string data = "Také je zakázáno používat předměty."
    [4]
-    1 string data = "Chápu, děkuji!"
+    1 string data = "Rozumím, děkuji!"
    [5]
     1 string data = "Tohle místo je vše, v co jsem doufal! Můžeme to hned zkusit?"
    [6]
@@ -33,7 +33,7 @@
    [9]
     1 string data = "Možná později"
    [10]
-    1 string data = "Prosím, zvolte váš stupeň."
+    1 string data = "Prosím, zvolte si stupeň."
    [11]
     1 string data = "Bronzový stupeň"
    [12]
@@ -75,7 +75,7 @@
    [30]
     1 string data = "Zdolal jsi všechny výzvy. Gratulujeme našemu šampionovi B'stovi!"
    [31]
-    1 string data = "Můžete vyjít po schodech k svému zápasu. Pokud ovšem nechcete odstoupit?"
+    1 string data = "Můžete vyjít po schodech ke svému zápasu. Pokud ovšem nechcete odstoupit?"
    [32]
     1 string data = "Odstoupit"
    [33]
@@ -87,7 +87,7 @@
    [36]
     1 string data = "Počkat..."
    [37]
-    1 string data = "Dobrý den, obyvatelé Svěžína a odjinud! Vítejte všichni v Aréně dopadu Přiživovače"
+    1 string data = "Dobrý den, obyvatelé Svěžína a odjinud! Vítejte všichni v Aréně dopadu Přiživovače!"
    [38]
     1 string data = "Hurá!"
    [39]
@@ -169,7 +169,7 @@
    [77]
     1 string data = "B'ST! B'ST! B'ST!"
    [78]
-    1 string data = "Na zahájení, přímo kdoví odkud připlachtenou, přivítejte prosím <color=magic>Praštěnou Pirátskou Partu</color>!"
+    1 string data = "Na zahájení přivítejte prosím přímo kdoví odkud připlachtenou <color=magic>Praštěnou Pirátskou Partu</color>!"
    [79]
     1 string data = "Strašlivé!"
    [80]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "Počkat..."
    [112]
-    1 string data = "Dobrý den, obyvatelé Svěžína a odjinud! Vítejte všichni v Aréně dopadu Přiživovače."
+    1 string data = "Dobrý den, obyvatelé Svěžína a odjinud! Vítejte všichni v Aréně dopadu Přiživovače!"
    [113]
     1 string data = "Je to tady, <color=magic>Zlatý stupeň</color>! Cožpak se B'st nezastaví?"
    [114]
@@ -307,7 +307,7 @@
    [146]
     1 string data = "Počkat..."
    [147]
-    1 string data = "Dobrý den, obyvatelé Svěžína a odjinud! Vítejte všichni v Aréně dopadu Přiživovače"
+    1 string data = "Dobrý den, obyvatelé Svěžína a odjinud! Vítejte všichni v Aréně dopadu Přiživovače!"
    [148]
     1 string data = "Dnešek je tak výjimečný, jak jen může být!"
    [149]
@@ -329,19 +329,19 @@
    [157]
     1 string data = "<color=magic>KRUSTALION</color>!!!"
    [158]
-    1 string data = "<color=magic>KRUSTALION>!!!"
+    1 string data = "<color=magic>KRUSTALION</color>!!!"
    [159]
-    1 string data = "<color=magic>KRUSTALION>!!!"
+    1 string data = "<color=magic>KRUSTALION</color>!!!"
    [160]
-    1 string data = "<color=magic>KRUSTALION>!!!"
+    1 string data = "<color=magic>KRUSTALION</color>!!!"
    [161]
-    1 string data = "<color=magic>KRUSTALION>!!!"
+    1 string data = "<color=magic>KRUSTALION</color>!!!"
    [162]
     1 string data = "<color=magic>KRUSTALION</color>!!!"
    [163]
-    1 string data = "<color=magic>KRUSTALIOOOOOOOOON</color>!!!"
+    1 string data = "<color=magic>KRUSTALIOOOOON</color>!!!"
    [164]
-    1 string data = "<color=magic>KRUSTALIOOOOOOOOON</color>!!!"
+    1 string data = "<color=magic>KRUSTALIOOOOON</color>!!!"
    [165]
     1 string data = "Klid, klid. Ať souboj... ZAPOČNE!"
    [166]
@@ -353,7 +353,7 @@
    [169]
     1 string data = "Dokázali jsme to! Haha!"
    [170]
-    1 string data = "Gratulujeme B'stovi!"
+    1 string data = "Gratuluji B'st!"
    [171]
     1 string data = "Jak se cítíš?"
    [172]
@@ -719,11 +719,11 @@
    [352]
     1 string data = "Pfff! Ty se neumíš vychloubat, aspoň tu svou falešnou historku podej věrohodněji!"
    [353]
-    1 string data = "Nejsem si jistý, jestli to myslí vážně, co říká, nebo to s tou 'skromností' prostě jenom přehání..."
+    1 string data = "Nejsem si jistá, jestli to myslí vážně, co říká, nebo to s tou 'skromností' prostě jenom přehání..."
    [354]
     1 string data = "..."
    [355]
-    1 string data = "Pořád jsem ovšem velmi všímavý!"
+    1 string data = "Pořád jsem ovšem velmi všímavá!"
    [356]
     1 string data = "Tohle je poprvé, co jsem mimo Měsíční Kolébku. Je hezké vidět známé tváře!"
    [357]
@@ -731,7 +731,7 @@
    [358]
     1 string data = "Dvakrát na stejné straně, tak to dělám já."
    [359]
-    1 string data = "Už jste porazili všechny šampiony<color=magic>Kotoučů</color>? Někdo mi říkal, že je možné vyzvat i samotnou <color=good>Hodinářku</color>!"
+    1 string data = "Už jste porazili všechny šampiony <color=magic>Kotoučů</color>? Někdo mi říkal, že je možné vyzvat i samotnou <color=good>Hodinářku</color>!"
    [360]
     1 string data = "Nejsem příliš dobrý ve skromné chloubě. Jsem tu jen proto, abych si odpočinul!"
    [361]

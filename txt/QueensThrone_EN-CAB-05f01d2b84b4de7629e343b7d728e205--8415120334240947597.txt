@@ -37,7 +37,7 @@
    [11]
     1 string data = "Ty jo, tak tyhle by se mi hodily."
    [12]
-    1 string data = "Nic tu pro nás nezbylo. Veď nás."
+    1 string data = "Nic tu pro nás nezbylo. Veďte nás."
    [13]
     1 string data = "Vrátit se do Azurové pustiny?"
    [14]

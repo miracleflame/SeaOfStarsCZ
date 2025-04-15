@@ -1385,7 +1385,7 @@
    [685]
     1 string data = "Předmět, do kterého Romaya vnesla magii, aby mohla ovládat ducha vévody Aventryho."
    [686]
-    1 string data = "Joceina přezka"
+    1 string data = "Joceho přezka"
    [687]
     1 string data = "<color=teaks>Teaks</color> by z ní mohla získat příběh."
    [688]
@@ -1449,15 +1449,15 @@
    [717]
     1 string data = "Odemyká truhlu s vévodovou rakví na Zatopeném hřbitově."
    [718]
-    1 string data = "Úlomek Docarrijské pečeti A"
+    1 string data = "Úlomek Docarrijské pečeti"
    [719]
     1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [720]
-    1 string data = "Úlomek Docarrijské pečeti B"
+    1 string data = "Úlomek Docarrijské pečeti"
    [721]
     1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [722]
-    1 string data = "Úlomek Docarrijské pečeti C"
+    1 string data = "Úlomek Docarrijské pečeti"
    [723]
     1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [724]
