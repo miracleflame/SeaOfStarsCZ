@@ -67,9 +67,9 @@
    [26]
     1 string data = "Ale došli jste až sem, takže budu hrát podle pravidel."
    [27]
-    1 string data = "Nastal čas rozhodnout o osudu vaší říše a všech jejích světů..."
+    1 string data = "Nastal čas rozhodnout o osudu vaší reality a všech jejích světů..."
    [28]
-    1 string data = "Dokážete porazit mou nejsilnější poručnici?"
+    1 string data = "Dokážete porazit mou nejsilnější poručici?"
    [29]
     1 string data = "Nebo bude bezvýhradně vládnout kyborgům?"
    [30]
@@ -79,11 +79,11 @@
    [32]
     1 string data = "Panečku, to jsme se ale vytáhli."
    [33]
-    1 string data = "Nechme tedy tuto záležitost ať se rozřeší."
+    1 string data = "Nechme tedy tuto záležitost, ať se rozřeší."
    [34]
     1 string data = "Vzývám tě, moje šampiónko."
    [35]
-    1 string data = "Znič tyto cizáky a ujmi se svého právoplatného místa jako vládkyně tohoto světa."
+    1 string data = "Znič tyto vetřelce a ujmi se svého právoplatného místa jako vládkyně tohoto světa."
    [36]
     1 string data = "POJĎ, <color=bad>ELYSAN'DARËLLE</color>!"
    [37]
@@ -93,7 +93,7 @@
    [39]
     1 string data = "Co se to z tebe stalo...?"
    [40]
-    1 string data = "Kdo se opovažuje postavit se mé vládě?"
+    1 string data = "Kdo se opovažuje postavit mé vládě?"
    [41]
     1 string data = "Copak nás nepoznáváš?"
    [42]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Vy jste jediní, kdo ho může zničit."
    [63]
-    1 string data = "Zlomte vaz, Solene a Luano!"
+    1 string data = "Přeji vám mnoho štěstí, Solene a Luano!"
    [64]
     1 string data = "On opravdu odešel... Jsme svobodní..."
    [65]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Hahaha!"
    [89]
-    1 string data = "Hele, nezapomeňte se stavit, kdykoli poletíte kolem."
+    1 string data = "Hele, nezapomeňte se stavit, kdykoliv poletíte kolem."
    [90]
     1 string data = "Vsaď se."
    [91]
@@ -209,9 +209,9 @@
    [97]
     1 string data = "Ale došli jste až sem, takže budu hrát podle pravidel."
    [98]
-    1 string data = "Nastal čas rozhodnout o osudu vaší říše a všech jejích světů..."
+    1 string data = "Nastal čas rozhodnout o osudu vaší reality a všech jejích světů..."
    [99]
-    1 string data = "Dokážete porazit mou nejsilnější poručnici?"
+    1 string data = "Dokážete porazit mou nejsilnější poručici?"
    [100]
     1 string data = "Nebo bude bezvýhradně vládnout kyborgům?"
    [101]
@@ -221,7 +221,7 @@
    [103]
     1 string data = "Panečku, to jsme se ale vytáhli."
    [104]
-    1 string data = "Nechme tedy tuto záležitost ať se rozřeší."
+    1 string data = "Nechme tedy tuto záležitost, ať se rozřeší."
    [105]
     1 string data = "Vzývám tě, moje šampiónko..."
    [106]
@@ -229,7 +229,7 @@
    [107]
     1 string data = "Ty!?..."
    [108]
-    1 string data = "Jediné, co umíš, je kazit všechno, na co sáhneš, a nutit lidi trpět. Vykopnu tě odsud!"
+    1 string data = "Jediné, co umíš, je kazit všechno, na co sáhneš, a nutit lidi trpět. Tady s tím končíš!"
    [109]
     1 string data = "Ty chceš vyzývat Boha?"
    [110]
@@ -383,7 +383,7 @@
    [184]
     1 string data = "Ach, už bylo na čase! "
    [185]
-    1 string data = "*chrum, chrum, chrum*"
+    1 string data = "*chramst, chramst, chramst*"
    [186]
     1 string data = "No tak, já tu umírám hlady!"
    [187]
@@ -459,7 +459,7 @@
    [222]
     1 string data = "Hádám, že by bylo fér, kdybych měl také spojence..."
    [223]
-    1 string data = "Utíkej kolik chceš, mám tvoji pachovou stopu!"
+    1 string data = "Utíkej, jak chceš, stejně si tě najdu!"
    [224]
     1 string data = "Tihle přisluhovači jsou k ničemu!"
    [225]
@@ -473,9 +473,9 @@
    [229]
     1 string data = "..."
    [230]
-    1 string data = "Narušování provozu na pracovišti je nutno odstránit!"
+    1 string data = "Narušování provozu na pracovišti je nutno odstranit!"
    [231]
-    1 string data = "Přisluhovači! Ke mě!"
+    1 string data = "Přisluhovači! Ke mně!"
    [232]
     1 string data = "To je prima, že se tu potkáváme. Co kdybych vás představil mým velkým kamarádům?"
    [233]
@@ -565,7 +565,7 @@
    [275]
     1 string data = "Doporučená akce: Nechte to být."
    [276]
-    1 string data = "Ale tahle věc posílá příšery napříč vesmírama!"
+    1 string data = "Ale tahle věc posílá příšery napříč vesmírem!"
    [277]
     1 string data = "Musí to nějak jít."
    [278]
@@ -573,7 +573,7 @@
    [279]
     1 string data = "Deaktivovat ji může jen velmi rychlá série precizních řezů."
    [280]
-    1 string data = "Jsem si jistá, že to Zale zvládne."
+    1 string data = "Jsem si jistá, že Zale to zvládne."
    [281]
     1 string data = "Negativní. Materiál je navržen tak, aby reagoval zejména na magii slunovratu."
    [282]
@@ -593,7 +593,7 @@
    [289]
     1 string data = "Ustupte prosím stranou."
    [290]
-    1 string data = "Úžasná technika nohou!"
+    1 string data = "Úžasná práce nohou!"
    [291]
     1 string data = "Svou roli jsem splnil. Nyní je na vás, abyste to dokončili."
    [292]
@@ -605,7 +605,7 @@
    [295]
     1 string data = "Ne, to já vám děkuji za záchranu mého světa, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]."
    [296]
-    1 string data = "Se svými společníkmi jste ušli dlouhou cestu. Karnimant čeká přímo nad síní Vyvolávačů."
+    1 string data = "Se svými společníky jste ušli dlouhou cestu. Karnimant čeká přímo nad síní Vyvolávačů."
    [297]
     1 string data = "Zlomte vaz!"
    [298]
@@ -631,10 +631,10 @@
    [308]
     1 string data = "Děje se něco? Vypadáš překvapeně, že mě vidíš."
    [309]
-    1 string data = "*chrum, chrum, chrum*"
+    1 string data = "*chramst, chramst, chramst*"
    [310]
     1 string data = "*ňam ňam ňam*"
    [311]
     1 string data = "*mlask, mlask, glg*"
    [312]
-    1 string data = "Stále postrádám sklenici."
+    1 string data = "Stále postrádám jednu nádobu."

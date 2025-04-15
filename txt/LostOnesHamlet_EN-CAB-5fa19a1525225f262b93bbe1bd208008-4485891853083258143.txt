@@ -145,7 +145,7 @@
    [65]
     1 string data = "B'st a jeho národ jsou zde uvězněni."
    [66]
-    1 string data = "Nerozplynou se na míste jenom díky této kopuli."
+    1 string data = "Nerozplynou se na místě jenom díky této kopuli."
    [67]
     1 string data = "..."
    [68]
@@ -173,7 +173,7 @@
    [79]
     1 string data = "Já vím."
    [80]
-    1 string data = "Budu potřebovat patřičné náčiní, ale nemohu se jen tak vloupat do Aephorulovy laboratoři."
+    1 string data = "Budu potřebovat patřičné náčiní, ale nemohu se jen tak vloupat do Aephorulovy laboratoře."
    [81]
     1 string data = "Pokud se vám podaří otevřít vchod, udělám to."
    [82]
