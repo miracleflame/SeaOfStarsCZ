@@ -253,7 +253,7 @@
    [119]
     1 string data = "Když otevřeli tu první, bylo jim hned všem jasné, že Velký orel je mnohem víc, než se o něm povídalo."
    [120]
-    1 string data = "Po odejmutí zátky nastalo zatmění Slunce a z oblohy přiletělo magické světlo, jež vytvarovalo ostrov do srpku."
+    1 string data = "Po odejmutí zátky nastalo zatmění Slunce a z oblohy přiletělo magické světlo, jež vytvarovalo poloostrov do srpku."
    [121]
     1 string data = "Na konci svého tance se všechno světlo spojilo na kraj útesu a z něj se zrodil strom tak nádherný, že vypadal jako ze snu."
    [122]
@@ -569,21 +569,21 @@
    [277]
     1 string data = "Tento je speciální - jde o deník dobrodruha! Možná by stálo za to dělat si poznámky."
    [278]
-    1 string data = ""Joceho deník - Azurová výprava 1. den.""
+    1 string data = ""Joceho deník - Azurová expedice: 1. den.""
    [279]
-    1 string data = ""Nečekal jsem, že mě zachváti strach tak brzo.""
+    1 string data = ""Nečekal jsem, že mě zachvátí strach tak brzo.""
    [280]
     1 string data = ""Když si pomyslím, že bychom na ni mohli narazit... Královna, jež byla...""
    [281]
     1 string data = ""Přesto je potřeba ji najít, aniž by dostala přiležitost na Repot.""
    [282]
-    1 string data = ""Dokonce i potopený měsíc ví, že už takhle jsme její zradou vytrpěli dost.""
+    1 string data = ""Dokonce i potopený Měsíc ví, že už takhle jsme její zradou vytrpěli dost.""
    [283]
-    1 string data = ""Jsou nás tři týmy. Další dva vedou Brochu a Elbi.""
+    1 string data = ""Jsme rozděleni na tři týmy. Další dva vedou Brochu a Elbi.""
    [284]
     1 string data = ""Plán se má následovně: Každý tým prozkoumá sérii čtyř směrů.""
    [285]
-    1 string data = ""Čtyři směry, čtyři dny. Na zpáteční ceste další čtyři a porovnáme si poznámky.""
+    1 string data = ""Čtyři směry, čtyři dny. Na zpáteční cestě další čtyři a porovnáme si poznámky.""
    [286]
     1 string data = ""Brochův tým zkouší severovýchod, jihovýchod, jih a pak severozápad.""
    [287]
@@ -591,9 +591,9 @@
    [288]
     1 string data = ""Co se týče mého týmu, zkoušíme sever, východ, severovýchod, pak jih.""
    [289]
-    1 string data = ""Joceho deník - 9. den Azurové expedice.""
+    1 string data = ""Joceho deník - Azurová expedice: 9. den.""
    [290]
-    1 string data = ""No, to mě podrž. Udřelo mi to do očí, jakmile jsem se na zápisky podíval podruhé.""
+    1 string data = ""No, to mě podrž. Udeřilo mě to do očí, jakmile jsem se na zápisky podíval podruhé.""
    [291]
     1 string data = ""Brochu říkal, že první dva dny to bylo v pohodě, ale pak něco nebylo v pořádku.""
    [292]
@@ -603,7 +603,7 @@
    [294]
     1 string data = ""Ta rychlodráha by měla vést k jejímu trůnu, ale je bez energie jako všechny ostatní, takže není cesty vpřed.""
    [295]
-    1 string data = ""A vzhledem k tomu, že jsem přišel o celý tým, abych se sem dostal, tak není ani cesta zpátky. Tady je asi můj konec.""
+    1 string data = ""A vzhledem k tomu, že jsem přišel o celý tým, abych se sem dostal, tak není ani cesty zpět. Tady je asi můj konec.""
    [296]
     1 string data = ""Kdo tohle čte, určitě našel moje věci.""
    [297]
