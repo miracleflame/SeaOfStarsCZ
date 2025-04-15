@@ -21,6 +21,6 @@
    [3]
     1 string data = "<color=magic>Mapu</color> lze otevřít stisknutím <button=UI_PingHud>. Zobrazuje vaši aktuální polohu a také cíl cesty."
    [4]
-    1 string data = "Nene, šéfe! Teprv až se postaráme o ty bleskosvody na všech třech ostrovech!"
+    1 string data = "Nene, šéfe! Teprvá až se postaráme o ty bleskosvody na všech třech ostrovech!"
    [5]
     1 string data = "Nejspíš můžeme použít Zahák, abychom rozbili ty krystaly..."

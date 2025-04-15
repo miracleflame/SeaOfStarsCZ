@@ -287,7 +287,7 @@
    [136]
     1 string data = "Ne"
    [137]
-    1 string data = "Yolanda říká, že posádka už opravila, co bylo třeba. Hádám, že by se vám mohla hodit nějaká ta palebná síla navíc, kdyby bylo potřeba."
+    1 string data = "Yolanda říká, že posádka už opravila, co bylo třeba. Hádám, že by se vám mohla hodit ňáká ta palebná síla navíc, kdyby bylo potřeba."
    [138]
     1 string data = "Seraï se naučila ultimátní útok <sprite="dialog-inventory-icons" name="icn-skills-serai-verspertinecannons"> <color=magic>Kanóny Večernice</color>."
    [139]
