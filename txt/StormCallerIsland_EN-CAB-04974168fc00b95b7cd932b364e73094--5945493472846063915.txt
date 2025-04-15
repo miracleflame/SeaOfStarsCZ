@@ -39,9 +39,9 @@
    [12]
     1 string data = "Blíží se přílivová vlna! Honem na loď!"
    [13]
-    1 string data = "Aye, jenom hoď <color=magic>tuto perlu</color> do vody, kde jste bojovali s Vyzyvatelem bouří."
+    1 string data = "Aye, jenom hoď <color=magic>tudle perlu</color> do vody, kde jste bojovali s Vyzyvatelem bouří."
    [14]
-    1 string data = "A tuhle máte cosik na ten souboj. Hodně štěstí!"
+    1 string data = "A tudle máte cosik na ten souboj. Hodně štěstí!"
    [15]
     1 string data = "Potřebujete něco?"
    [16]

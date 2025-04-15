@@ -19,19 +19,19 @@
    [2]
     1 string data = "..."
    [3]
-    1 string data = "Nic, co byste vy, Slunovratníci, nespravili, žeano."
+    1 string data = "Nic, co byste vy, Slunovratníci, nespravili, žáno."
    [4]
-    1 string data = "V to alespoň doufám... Nerada bych se tam nakonec zaplantala nafurt!"
+    1 string data = "V to alespoň doufám... Nerada bych se tam nakonec zaplantala na furt!"
    [5]
     1 string data = "Co tím myslíš?"
    [6]
     1 string data = "..."
    [7]
-    1 string data = "Vy neznáte tamletu o jednosměrný cestě?"
+    1 string data = "Vy neznáte tudletu o jednosměrný cestě?"
    [8]
-    1 string data = "Nuže, tady máte další, co jste ještě nikdy neslyšali."
+    1 string data = "Nuže, tady máte další, co jste ještě nikdy neslyšeli."
    [9]
-    1 string data = "Nikdo z těch, co se vypravili na Přízračný ostrov, se stamaď nikdá nevrátil!"
+    1 string data = "Nikdo z těch, co se vypravili na Přízračný ostrov, se s tama nikdá nevrátil!"
    [10]
     1 string data = "..."
    [11]
@@ -47,7 +47,7 @@
    [16]
     1 string data = "Ona loví?"
    [17]
-    1 string data = "Tydle věci se krmí, to jste neslyšali?"
+    1 string data = "Tydle věci se krmí, to jste neslyšeli?"
    [18]
     1 string data = "Aye, tu a tam Přiživovačka zapěje svým <color=bad>prokletým hlasem</color> a přiměje jednoho z místních Přízračného ostrova, aby náměsíčně odkráčel do jejího doupěte a už se nikdá nevrátil..."
    [19]

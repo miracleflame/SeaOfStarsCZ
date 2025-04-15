@@ -33,7 +33,7 @@
    [9]
     1 string data = "Kolik toho víš?"
    [10]
-    1 string data = "Dost na to, abych prokoukla tvoje převleky."
+    1 string data = "Dost na to, abych prokoukla ty tvoje převleky."
    [11]
     1 string data = "..."
    [12]
@@ -57,9 +57,9 @@
    [21]
     1 string data = "Hortenzie jméno mé. Použivej ho."
    [22]
-    1 string data = "Aye, já jen... Vypráví se, žes kdysi docela válela s mandolínou."
+    1 string data = "Aye, já jen... Vypráví se, žes kdysi docela válela na mandolínu."
    [23]
-    1 string data = "*S VOKTÁVOVOU mandolínou, synku! Vyhrála souboj s legendárním Shredrickem!"
+    1 string data = "Na VOKTÁVOVOU mandolínu, synku! Vyhrála souboj s legendárním Shredrickem!"
    [24]
     1 string data = "No?"
    [25]

@@ -17,7 +17,7 @@
    [1]
     1 string data = "Co se stalo pak?"
    [2]
-    1 string data = "Vychlemtali jsme asi šestadvacet elixírů, jež jsme si šetřili na pozdějc, a nakonec jsme vyhráli."
+    1 string data = "Vychlemtali jsme asi šestadvacet elixírů, co jsme si šetřili na pozděj, a nakonec jsme vyhráli."
    [3]
     1 string data = "Hurá!"
    [4]
