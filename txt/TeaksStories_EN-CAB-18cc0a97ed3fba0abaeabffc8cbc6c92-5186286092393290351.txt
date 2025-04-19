@@ -433,7 +433,7 @@
    [209]
     1 string data = "Započaly slavnosti a byli svoláni větrní mágové, aby vytvořili vlny dost silné k zaplavení východní části ostrova."
    [210]
-    1 string data = "Požár tak byl konečně uhašen, ale kvůli tomu se tyto oblasti proměnily v dnes už proslavené bažiny."
+    1 string data = "Požár tak byl konečně uhašen, ale kvůli tomu se tyto oblasti proměnily v dnes už proslavený močál."
    [211]
     1 string data = "Všichni tuto změnu uvítali, neboť šla ruku v ruce s jejich vítězstvím."
    [212]

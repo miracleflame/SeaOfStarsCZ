@@ -221,7 +221,7 @@
    [103]
     1 string data = "Přízračný ostrov"
    [104]
-    1 string data = "Bambusová zátoka"
+    1 string data = "Bambusový háj"
    [105]
     1 string data = "Ledovcový vrch"
    [106]
@@ -257,6 +257,6 @@
    [121]
     1 string data = "Domovský svět"
    [122]
-    1 string data = "Seraïin svět"
+    1 string data = "Seraïn svět"
    [123]
     1 string data = "Mapa světa"

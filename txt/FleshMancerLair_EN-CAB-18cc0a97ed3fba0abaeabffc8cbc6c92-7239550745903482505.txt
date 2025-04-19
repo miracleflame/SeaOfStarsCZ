@@ -131,7 +131,7 @@
    [58]
     1 string data = "Pfff! Zeptej se svých nových 'Božských Ochránců'."
    [59]
-    1 string data = "Cítíš to?"
+    1 string data = "Cítíte to?"
    [60]
     1 string data = "Blíží se... to z velké dálky..."
    [61]
@@ -347,7 +347,7 @@
    [166]
     1 string data = "..."
    [167]
-    1 string data = "Na <color=location>Skromnou chloubu</color>?"
+    1 string data = "<color=location>Skromná chlouba</color>?"
    [168]
     1 string data = "Je tohle sen?"
    [169]
@@ -405,7 +405,7 @@
    [195]
     1 string data = "Kde je číšník? Už tak mám dost práce!"
    [196]
-    1 string data = "Talíř je na stole za mnou. Připravím další, zatímco ty budeš servírovat tenhle."
+    1 string data = "Objednávka je na stole za mnou. Připravím další, zatímco ty budeš servírovat tenhle."
    [197]
     1 string data = "Dobrá práce. Už jen podat zprávu hostinskému."
    [198]
@@ -463,7 +463,7 @@
    [224]
     1 string data = "Tihle přisluhovači jsou k ničemu!"
    [225]
-    1 string data = "Jak se opovažuješ!? Moje výtvory mají být ty nejlepší!!!"
+    1 string data = "Jak se opovažujete!? Moje výtvory mají být ty nejlepší!!!"
    [226]
     1 string data = "To by stačilo, ty srabe! Pojďme to dokončit!"
    [227]
@@ -483,7 +483,7 @@
    [234]
     1 string data = "Dobře. Tohle je pro dnešek poslední várka."
    [235]
-    1 string data = "Teď tě máme zahnaného do kouta!"
+    1 string data = "Teď už jsme tě zahnali do kouta!"
    [236]
     1 string data = "Aha, tady jste."
    [237]
@@ -495,11 +495,11 @@
    [240]
     1 string data = "Nastal čas. Naplňte svůj nejzazší slib!"
    [241]
-    1 string data = "<color=bad>Fázový žnec</color>!"
+    1 string data = "<color=bad>Fázový ženče</color>!"
    [242]
     1 string data = "Sídlo našeho pána je v obležení."
    [243]
-    1 string data = "Vykonejte svou povinnonst!"
+    1 string data = "Vykonej svou povinnonst!"
    [244]
     1 string data = "NEMOŽNÉ!!!"
    [245]
@@ -509,7 +509,7 @@
    [247]
     1 string data = "Nedáváte mi jinou možnost. Náš nový rekrut s vámi udělá krátký proces."
    [248]
-    1 string data = "Už jsi skončil tím schováváním se za své přisluhovače."
+    1 string data = "Už jsi skončil s tím schováváním se za své přisluhovače."
    [249]
     1 string data = "Hm!? Co to má být?"
    [250]
@@ -555,7 +555,7 @@
    [270]
     1 string data = "Analyzuje se. Prosím strpení."
    [271]
-    1 string data = "Výsledky naznačují silnou přítomnost neznámého materiálu sestávajícího z pokročilé směsi biomateriálu a kybernetiky."
+    1 string data = "Výsledky naznačují silnou přítomnost neznámého materiálu sestávajícího z pokročilé směsi biohmoty a kybernetiky."
    [272]
     1 string data = "Na základě částic ve vzduchu váš pokus o zničení způsobil explozi odhadem 0,00005 % jeho hmotnosti."
    [273]
@@ -603,7 +603,7 @@
    [294]
     1 string data = "Děkujeme ti za pomoc, Verlote."
    [295]
-    1 string data = "Ne, to já vám děkuji za záchranu mého světa, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]."
+    1 string data = "Ne, to já vám děkuji za záchranu mého světa, Solene a Luano."
    [296]
     1 string data = "Se svými společníky jste ušli dlouhou cestu. Karnimant čeká přímo nad síní Vyvolávačů."
    [297]
@@ -625,7 +625,7 @@
    [305]
     1 string data = "Byla to dlouhá pouť. Zasloužíme si trochu odpočinku."
    [306]
-    1 string data = "Měli byste se vyspat."
+    1 string data = "Vyspi se."
    [307]
     1 string data = "Chrr...chrr..."
    [308]

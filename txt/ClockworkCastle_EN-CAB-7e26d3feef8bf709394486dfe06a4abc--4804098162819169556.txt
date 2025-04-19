@@ -725,7 +725,7 @@
    [355]
     1 string data = "Tak povídejte."
    [356]
-    1 string data = "V Seraïině světě..."
+    1 string data = "V Seraïně světě..."
    [357]
     1 string data = "...A obnovení spojení mezi Sluncem a Měsícem je naše jediná šance, jak se Přiživovače hrůzy zbavit."
    [358]

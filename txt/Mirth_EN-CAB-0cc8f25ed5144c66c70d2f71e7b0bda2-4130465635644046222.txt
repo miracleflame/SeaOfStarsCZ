@@ -393,7 +393,7 @@
    [189]
     1 string data = "Nakonec si uvědomila, že požitek není jen fyzický. Obsáhla to ticho a nakonec se cítila více nabitá energií."
    [190]
-    1 string data = "Seraïin Útok se zvýšil o 9!"
+    1 string data = "Seraïn Útok se zvýšil o 9!"
    [191]
     1 string data = "I když se Resh'an toho dne ve vodě skutečně nekoupal, všem připadalo, jako by část jeho já byla vděčná, že družina tak ochotně investovala do jeho blaha."
    [192]

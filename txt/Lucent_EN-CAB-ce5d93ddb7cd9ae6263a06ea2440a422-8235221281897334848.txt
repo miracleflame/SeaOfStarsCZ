@@ -65,7 +65,7 @@
    [25]
     1 string data = "Dobře poslouchejte, přátelé!"
    [26]
-    1 string data = "Jsme pirátská posádka, která si jednoho dne podmaní Večernici!"
+    1 string data = "My jsme pirátská banda, která si jednoho dne podmaní Večernici!"
    [27]
     1 string data = "Úú, tak TOHLE se určitě stane!"
    [28]
@@ -77,7 +77,7 @@
    [31]
     1 string data = "Kdykoliv? Hej, to je moje druhé jméno!"
    [32]
-    1 string data = "Žijeme pro dobrodružství a pro nové obzory. Kapitánka říká, že jednoho dne dokonce proplujeme skrz Moře-"
+    1 string data = "Žijeme pro dobrodružství a pro nové obzory. Kapitánka říká, že jednoho dne dokonce proplujeme přes Moře-"
    [33]
     1 string data = "YOLANDO!"
    [34]
@@ -189,7 +189,7 @@
    [87]
     1 string data = "Vše v cajku, kapitánko? Nezníš jako ty!"
    [88]
-    1 string data = "Chci říct… že je to planá námaha, aye, tak jest."
+    1 string data = "Chci říct… že je to planá dřina, aye, tak jest."
    [89]
     1 string data = "Jasně."
    [90]
@@ -215,7 +215,7 @@
    [100]
     1 string data = "Ahoy, kapitánko, je něco potřeba?"
    [101]
-    1 string data = "Potřebuji jen zkontrolovat vor…"
+    1 string data = "Potřebuji jen zkontrolovat škuner…"
    [102]
     1 string data = "Proč nepošleš Valtraida?"
    [103]
@@ -249,7 +249,7 @@
    [117]
     1 string data = "Jak se tam dostaneme?"
    [118]
-    1 string data = "Východně od Lucentu pobývá <color=good>Převozník</color>, který nás vezme přes bažinu, pokud budeme hrát podle pravidel."
+    1 string data = "Východně od Lucentu pobývá <color=good>Převozník</color>, který nás vezme přes močál, pokud budeme hrát podle pravidel."
    [119]
     1 string data = "Tohle je jediná cesta do Doupěte nekromantky."
    [120]
@@ -289,7 +289,7 @@
    [137]
     1 string data = "Jistě, jen není třeba se kvůli tomu chovat jakoby nevímco!"
    [138]
-    1 string data = ""Jestli se máme někdy povznést, jako solární budu jiskrou já!""
+    1 string data = ""Jestli se máme někdy povznést, solární jiskrou budu já!""
    [139]
     1 string data = "Hej, přestaň! Bylo mi deset!"
    [140]
@@ -371,7 +371,7 @@
    [178]
     1 string data = "Potom, co jsme se pokusili pomoct tomu vesničanovi, Přiživovačka znovu zapěla a..."
    [179]
-    1 string data = "Wou! Chceš říct, že se dokáže něco jako teleportovat?"
+    1 string data = "Wou! Chceš říct, že se umí něco jako teleportovat?"
    [180]
     1 string data = "Tím, že nějak z ničeho vytvoří magický portál."
    [181]
@@ -391,7 +391,7 @@
    [188]
     1 string data = "Zatmění je na spadnutí, měl bych vám podat instruktáž."
    [189]
-    1 string data = "Přece bychom nechtěli, aby někdo z vás skončil s myslí ovládanou Přiživovačkou?"
+    1 string data = "Přece bychom nechtěli, aby někomu z vás ovládla mysl Přiživovačka, že?"
    [190]
     1 string data = "Aha, tak to už se stalo!"
    [191]
@@ -439,7 +439,7 @@
    [212]
     1 string data = "…Což jsem nepotřebovala slyšet, vzhledem k tomu, že serióznost je mé druhé jméno!"
    [213]
-    1 string data = "Každopádně pak říkal, že na obyčejné nestvůry nikdy nepoužívá žádná kouzla, jen když bojuje s bossem, použije pouze to nejdražší!"
+    1 string data = "Tak nebo tak říkal, že na obyčejné nestvůry nikdy nepoužívá žádná kouzla, jenom když bojuje s bossem, použije pouze to nejdražší!"
    [214]
     1 string data = "Hlava mi nebere, jak něco z toho může být považováno za zábavu."
    [215]
@@ -503,7 +503,7 @@
    [244]
     1 string data = "Považuj to za vyřízené, synku!"
    [245]
-    1 string data = "Tak co, jste připraveni vyplout? Za předpokladu, že jste tady hotovi, žano."
+    1 string data = "Tak co, jste připraveni vyplout? Za předpokladu, že jste tady hotovi, žáno."
    [246]
     1 string data = "Ano"
    [247]

@@ -27,7 +27,7 @@
    [6]
     1 string data = "Aye. Loď je vaše a já vám budu dělat navigátorku."
    [7]
-    1 string data = "Plavila jsem se přes něm jen jednou, ale ať jsem dvakrát prokletá, jestli to nedokážu zopáknout."
+    1 string data = "Plavila jsem se přes něj jen jednou, ale ať jsem dvakrát prokletá, jestli to nedokážu zopáknout."
    [8]
     1 string data = "..."
    [9]

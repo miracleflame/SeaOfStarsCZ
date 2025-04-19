@@ -151,7 +151,7 @@
    [68]
     1 string data = "Ne"
    [69]
-    1 string data = "Cestovat do Seraïina světa?"
+    1 string data = "Cestovat do Seraïna světa?"
    [70]
     1 string data = "Ano"
    [71]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "Keenathanovu koncertinu bych mohla poslouchat celý den!"
    [87]
-    1 string data = "Seraïin svět působí tak nějak děsivě, nemyslíš?"
+    1 string data = "Seraïn svět působí tak nějak děsivě, nemyslíš?"
    [88]
     1 string data = "Máme moc pěknou loď. Jen s ní musíme dobře zacházet!"
    [89]

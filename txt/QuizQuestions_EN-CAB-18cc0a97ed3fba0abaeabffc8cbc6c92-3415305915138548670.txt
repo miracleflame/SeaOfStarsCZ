@@ -647,7 +647,7 @@
    [316]
     1 string data = "NEPRAVDA"
    [317]
-    1 string data = "Pravda nebo nepravda: Seraïin počítačový asistent se jmenuje Cedrick."
+    1 string data = "Pravda nebo nepravda: Seraïn počítačový asistent se jmenuje Cedrick."
    [318]
     1 string data = "PRAVDA"
    [319]
@@ -713,7 +713,7 @@
    [349]
     1 string data = "Věž"
    [350]
-    1 string data = "Jak se jmenuje Seraïina osada?"
+    1 string data = "Jak se jmenuje Seraïna osada?"
    [351]
     1 string data = "Repot"
    [352]
