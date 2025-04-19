@@ -633,6 +633,6 @@
    [309]
     1 string data = "Ne"
    [310]
-    1 string data = "Tu noc se všichni najedli a vyspali lépe než od dob boje s Obyvatelem sváru..."
+    1 string data = "Tu noc se všichni najedli a vyspali lépe než od dob boje s Přiživovačem sváru..."
    [311]
     1 string data = "Ahoj! Hledáte něco konkrétního?"

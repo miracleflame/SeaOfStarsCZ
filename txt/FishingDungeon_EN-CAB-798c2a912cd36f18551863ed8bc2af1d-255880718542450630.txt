@@ -17,27 +17,27 @@
    [1]
     1 string data = "Hoooyyy!"
    [2]
-    1 string data = "No, no, no, podívejme, co jste vykonali!"
+    1 string data = "No, no, no, podívejme, co se vám povedlo!"
    [3]
     1 string data = "Zdravíčko, pane! Promiňte, já jenom, že jsem dostal tenhle..."
    [4]
     1 string data = "Klid, synku. Tenhle rozhovor vedu já."
    [5]
-    1 string data = "Jestli něco vím jistě, pak že potřebuješ <color=magic>Háček času</color>, aby ses sem dostal."
+    1 string data = "Jestli něco vím jistě, pak že potřebujete <color=magic>Háček času</color>, abyste se sem dostali."
    [6]
     1 string data = "A jestli vím jistě ještě něco, pak to, že Háček času jen tak nerozdávaj kdekomu."
    [7]
-    1 string data = "Prostě jsem si ho vypýtal, vážně."
+    1 string data = "Prostě jsem oň požádal, vážně."
    [8]
     1 string data = "Jistě."
    [9]
-    1 string data = "Hele, já to chápu, taky se musím vrátit. Jde o to, že tě museli mít hodně rádi."
+    1 string data = "Hele, já to chápu, taky jsem se musel vrátit. Jde o to, že tě museli mít hodně rádi."
    [10]
     1 string data = "No, tak to nevím."
    [11]
     1 string data = "Zapomnětlivý typ, co? Fajn, beru."
    [12]
-    1 string data = "Co přesně sis vypýtal?"
+    1 string data = "O co přesně jsi požádal?"
    [13]
     1 string data = "Chtěl jsem jen povečeřet s přáteli u <color=location>Zlatého pelikána</color> ve Svěžíně."
    [14]
@@ -47,13 +47,13 @@
    [16]
     1 string data = "Znáte to tam?"
    [17]
-    1 string data = "Jestli znám? Sám jsem ho vybudoval."
+    1 string data = "Jestli znám? Sám jsem to vybudoval."
    [18]
     1 string data = "Opravdu!?"
    [19]
     1 string data = "<color=good>Šéfkuchař Okoun</color>, k vašim službám."
    [20]
-    1 string data = "Není možné! Vy jste šéfkuchař?"
+    1 string data = "To se mi zdá! Vy jste šéfkuchař?"
    [21]
     1 string data = "Na mou duši."
    [22]
@@ -87,7 +87,7 @@
    [36]
     1 string data = "S radostí."
    [37]
-    1 string data = "Za tamtou sochou je klíčová dírka ve tvaru ryby."
+    1 string data = "Za touto sochou je klíčová dírka ve tvaru ryby."
    [38]
     1 string data = "Hele! To je klíč!"
    [39]

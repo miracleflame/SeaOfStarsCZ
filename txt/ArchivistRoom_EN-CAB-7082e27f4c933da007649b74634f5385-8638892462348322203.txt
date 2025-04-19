@@ -51,7 +51,7 @@
    [18]
     1 string data = "Ve věži sice prokázali statečné úsilí, ale jak to osud k jejich smůle chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
    [19]
-    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na ostrov Mesa včas a Obyvatel Sváru se proměnil v Požírače světů."
+    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na ostrov Mesa včas a Přiživovač Sváru se proměnil v Požírače světů."
    [20]
     1 string data = "Bojovali statečně, ale nakonec přišli o život i o svůj svět. "
    [21]

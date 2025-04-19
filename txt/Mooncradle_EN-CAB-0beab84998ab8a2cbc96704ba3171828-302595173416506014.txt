@@ -1199,7 +1199,7 @@
    [592]
     1 string data = "Nejlepší."
    [593]
-    1 string data = "Omlouvám se, že jsi musel tu celou dobu čekat, myslel jsem, že to bude hned nebo tak nějak."
+    1 string data = "Omlouvám se, že jsi musel celou tu dobu čekat, myslel jsem, že to bude hned nebo tak nějak."
    [594]
     1 string data = "Každopádně ještě jednou díky, B'ste!"
    [595]

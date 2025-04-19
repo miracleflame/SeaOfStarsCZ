@@ -255,20 +255,18 @@
    [120]
     1 string data = "STRÁŽ-PLÁŽ STRÁŽ-PLÁŽ STRÁŽ-PLÁŽ STRÁŽ-PLÁŽ!!!"
    [121]
-    1 string data = "Hahaha!"
-   [122]
     1 string data = "Nebeská runa je rozbitá, nemůžeme využít Čas dne k aktivaci tohoto zařízení. "
-   [123]
+   [122]
     1 string data = "Další pečeť. Někdo se tady opravdu snažil něco zadržet..."
-   [124]
+   [123]
     1 string data = "Já si myslím, že si našli hezčí pokoj a nechcou se dělit."
-   [125]
+   [124]
     1 string data = "Myslím, že je sežrala ta příšera."
-   [126]
+   [125]
     1 string data = "Máme ji moc rádi!"
-   [127]
+   [126]
     1 string data = "Mohli bychom zas pobíhat po ostrově!"
-   [128]
+   [127]
     1 string data = "Říká, že k ní nemáme chodit kvůli té příšeře!"
-   [129]
+   [128]
     1 string data = "Je tam dole!"

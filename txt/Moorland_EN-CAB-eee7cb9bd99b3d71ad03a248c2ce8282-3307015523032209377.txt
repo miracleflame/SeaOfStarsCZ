@@ -277,7 +277,7 @@
    [131]
     1 string data = "Jak ten dar otevřeme?"
    [132]
-    1 string data = "Musíte poskytnout memento na šťastnou vzpomínku."
+    1 string data = "Musíte poskytnout memento k šťastné vzpomínce."
    [133]
     1 string data = "..."
    [134]

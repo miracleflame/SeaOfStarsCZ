@@ -595,7 +595,7 @@
    [290]
     1 string data = "Škoda, že Resh'an odešel. Doufám, že mu jednou budu moci poděkovat..."
    [291]
-    1 string data = "Netroufám si rozumět smýšlení Velkého alchymisty, ale věřím, že právě on chtěl poděkovat vám."
+    1 string data = "Netroufám si rozumět smýšlení Velkého alchymisty, ale věřím, že to on chtěl poděkovat vám."
    [292]
     1 string data = "[MAINCHAR], na slovíčko, mohu-li?"
    [293]
@@ -621,7 +621,7 @@
    [303]
     1 string data = "Krustalion byl důstojným soupeřem. Jsme skvělý tým!"
    [304]
-    1 string data = "Už se dokonce i mně zdá, že bez Garla parta není úplná."
+    1 string data = "Už dokonce i mně se zdá, že bez Garla parta nebyla úplná."
    [305]
     1 string data = "*smrk* *smrk*"
    [306]
@@ -641,40 +641,38 @@
    [313]
     1 string data = "To je ale doba, co? Určitě jsem neměl na seznamu VZKŘÍŠENÍ, když jsme začínali naše dobrodružství!"
    [314]
-    1 string data = "Hahaha!"
-   [315]
     1 string data = "Další do knihy příběhů pro Teaks, že jo!"
-   [316]
+   [315]
     1 string data = "Ale vážně, bylo to docela děsivé..."
-   [317]
+   [316]
     1 string data = "Díky, že jste mě odtamtud vytáhli, vím, že aktivace Chronofága stála hodně úsilí."
-   [318]
+   [317]
     1 string data = "Kdybychom to věděli, udělali bychom to rychleji. A hele, ty bys pro nás udělal to samé!"
-   [319]
+   [318]
     1 string data = "Bez rozmyslu!"
-   [320]
+   [319]
     1 string data = "No, jasně! Je tu jedna věc, o kterou se chci podělit."
-   [321]
+   [320]
     1 string data = "Takže o tom, co jsem viděl na druhé straně, nesmím mluvit, ale když bylo jasné, že se vrátím, směl jsem vyslovit jedno přání."
-   [322]
+   [321]
     1 string data = "Jistě."
-   [323]
+   [322]
     1 string data = "O co jsi žádal?"
-   [324]
+   [323]
     1 string data = "Večeře se všemi mými přáteli u Zlatého pelikána!"
-   [325]
+   [324]
     1 string data = "To vážně?"
-   [326]
+   [325]
     1 string data = "Jasně, že jo! Chystám se uspořádat svůj vlastní kar a chci to nejlepší jídlo, co může být!"
-   [327]
+   [326]
     1 string data = "Haha! Žeru tohohle chlápka."
-   [328]
+   [327]
     1 string data = "Věc se má tak, že si nejsem moc jistý, jak to funguje. Dostal jsem jen tenhle rybářský háček..."
-   [329]
+   [328]
     1 string data = "Určitě na to přijdeme!"
-   [330]
+   [329]
     1 string data = "Pokud budeme mít čas, je tu jeden ostrov, o kterém se domnívám, že je spojen s tím kouzelným rybářským háčkem, co jsem dostal. Přímo tady."
-   [331]
+   [330]
     1 string data = "Zlatý pelikán byl vším, v co jsem doufal!"
-   [332]
+   [331]
     1 string data = "Šéfkuchař Bass nám dal pozvánku, měli bychom jet do Svěžína a skusit Zlatého pelikána!"

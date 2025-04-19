@@ -393,7 +393,7 @@
    [189]
     1 string data = "No, já nevím..."
    [190]
-    1 string data = "Myslím, že vám bude slušet!"
+    1 string data = "Myslím, že ti bude slušet!"
    [191]
     1 string data = "Zale vypadá jako kovboj."
    [192]
@@ -411,9 +411,9 @@
    [198]
     1 string data = "Podávejte, Gaspare."
    [199]
-    1 string data = "Samozřejmě, šéfe. Hned."
+    1 string data = "Samozřejmě, šéfe. Hned to bude."
    [200]
-    1 string data = "Prosím, pochutnejte si. Kdybyste ještě něco potřebovali, dejte mi vědět."
+    1 string data = "Prosím, nechte si chutnat. Kdybyste ještě něco potřebovali, dejte mi vědět."
    [201]
     1 string data = "Díky!"
    [202]
@@ -457,7 +457,7 @@
    [221]
     1 string data = "To zní jako výzva!"
    [222]
-    1 string data = "Přestos' pořád dával mnohem víc, nežs' bral, synku. Na tvé zdravíčko."
+    1 string data = "Přestos pořád dával mnohem víc, nežs bral, synku. Na tvé zdravíčko."
    [223]
     1 string data = "Na Garla!"
    [224]
