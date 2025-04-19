@@ -61,7 +61,7 @@
    [23]
     1 string data = "To je ale úleva!"
    [24]
-    1 string data = "A nyní je čas pojmenovat toto město! Velké díky všem, kteří mi vhodili nápady do batohu."
+    1 string data = "A nyní je čas pojmenovat tuto vesnici! Velké díky všem, kteří mi vhodili nápady do batohu."
    [25]
     1 string data = "Myslím, že jenom..."
    [26]

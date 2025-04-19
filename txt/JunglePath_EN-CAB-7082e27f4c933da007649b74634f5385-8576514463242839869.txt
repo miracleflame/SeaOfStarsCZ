@@ -15,7 +15,7 @@
    [0]
     1 string data = "Střážcův ostrov."
    [1]
-    1 string data = "Skryté město Docarri by mělo být někde za touto džunglí.\n"
+    1 string data = "Skryté město Docarri by mělo být někde za touto džunglí."
    [2]
     1 string data = "Máme Korálové kladivo, jdeme na to!"
    [3]

@@ -10,8 +10,8 @@
  1 string locCategoryId = "Camping"
  0 int language = 0
  0 vector strings
-  1 Array Array (333 items)
-   0 int size = 333
+  1 Array Array (332 items)
+   0 int size = 332
    [0]
     1 string data = "Ohniště působí přívětivě a hřejivě."
    [1]

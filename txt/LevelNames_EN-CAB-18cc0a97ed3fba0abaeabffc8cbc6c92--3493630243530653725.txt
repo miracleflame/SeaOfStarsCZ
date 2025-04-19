@@ -69,7 +69,7 @@
    [27]
     1 string data = "Molo na Přízračném ostrově"
    [28]
-    1 string data = "Město Lucent"
+    1 string data = "Městečko Lucent"
    [29]
     1 string data = "Strašidelné sídlo"
    [30]

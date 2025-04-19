@@ -203,18 +203,18 @@
    [94]
     1 string data = "Hortenzie mě začala vyučovat základy mořeplavby. Chci se naučit víc!"
    [95]
-    1 string data = "Croustalion si užívá nejlepší chvíle svého života."
+    1 string data = "Krustalion si užívá nejlepší chvíle svého života."
    [96]
-    1 string data = "Croustalion má příjemný sen."
+    1 string data = "Krustalion má příjemný sen."
    [97]
-    1 string data = "Croustalion řeší složitý problém."
+    1 string data = "Krustalion řeší složitý problém."
    [98]
-    1 string data = "Croustalion přemýšlí o B'stovi."
+    1 string data = "Krustalion přemýšlí o B'stovi."
    [99]
-    1 string data = "Croustalion se snaží rozhodnout o své oblíbené svačině."
+    1 string data = "Krustalion se snaží rozhodnout o své oblíbené svačině."
    [100]
-    1 string data = "Croustalion si připravuje svůj denní projev vděčnosti."
+    1 string data = "Krustalion si připravuje svůj denní projev vděčnosti."
    [101]
-    1 string data = "Croustalion se nechává unášet příjemnou vzpomínkou."
+    1 string data = "Krustalion se nechává unášet příjemnou vzpomínkou."
    [102]
-    1 string data = "Croustalion přemítá o možnostech zdravého stravování."
+    1 string data = "Krustalion přemítá o možnostech zdravého stravování."

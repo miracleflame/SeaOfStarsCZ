@@ -10,8 +10,8 @@
  1 string locCategoryId = "WatcherIsland/TormentPeak"
  0 int language = 0
  0 vector strings
-  1 Array Array (130 items)
-   0 int size = 130
+  1 Array Array (129 items)
+   0 int size = 129
    [0]
     1 string data = "Buďme tam ostražití, o tomhle Přiživovači nic nevíme."
    [1]

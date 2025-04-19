@@ -239,7 +239,7 @@
    [112]
     1 string data = "Tentokrát tě žádný trik s cestováním v čase nezachrání."
    [113]
-    1 string data = "Tak pojď! Věčná bolest čeká!"
+    1 string data = "Tak pojďte! Věčná bolest čeká!"
    [114]
     1 string data = "Jak je to možné? JAK!?"
    [115]
@@ -513,7 +513,7 @@
    [249]
     1 string data = "Hm!? Co to má být?"
    [250]
-    1 string data = "Odplata."
+    1 string data = "Vyrovnání."
    [251]
     1 string data = "NEEEEEEEEEEEE!!!"
    [252]

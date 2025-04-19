@@ -293,7 +293,7 @@
    [139]
     1 string data = "Člen posádky"
    [140]
-    1 string data = "Croustalion"
+    1 string data = "Krustalion"
    [141]
     1 string data = "Gaëtan Piment"
    [142]

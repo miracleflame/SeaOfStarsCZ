@@ -23,7 +23,7 @@
    [4]
     1 string data = "Jo, tohle nejde spravit. Ale hej, i to je život!"
    [5]
-    1 string data = "Když už jsme u toho, <color=location>město Lucent</color> by mělo být kousek před náma."
+    1 string data = "Když už jsme u toho, <color=location>městečko Lucent</color> by mělo být kousek před náma."
    [6]
     1 string data = "Dáme si voraz v místním hostinci. Stejně nemůžem odejít, dokud si nevyřídíte svý věci."
    [7]
@@ -59,7 +59,7 @@
    [22]
     1 string data = "Tak jo! Pojďme do Lucentu!"
    [23]
-    1 string data = "Město Lucent <sprite="dialog-generic-icons" name="arrow-east">\nMolo <sprite="dialog-generic-icons" name="arrow-west">"
+    1 string data = "Městečko Lucent <sprite="dialog-generic-icons" name="arrow-east">\nMolo <sprite="dialog-generic-icons" name="arrow-west">"
    [24]
     1 string data = "Připraveni vyplout?"
    [25]

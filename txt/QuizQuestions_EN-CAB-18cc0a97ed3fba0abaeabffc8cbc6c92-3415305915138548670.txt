@@ -779,7 +779,7 @@
    [382]
     1 string data = "Gravitační baterie"
    [383]
-    1 string data = "Přenosný dům"
+    1 string data = "Mobilní dům"
    [384]
     1 string data = "Kabina rychlodráhy"
    [385]
@@ -793,13 +793,13 @@
    [389]
     1 string data = "12"
    [390]
-    1 string data = "During his introduction speech, which of the following did The Artificer NOT describe himself as?"
+    1 string data = "Když se Artifik představoval, co z následujíciho NEŘEKL?"
    [391]
-    1 string data = "The smartest there's ever been"
+    1 string data = "Nejchytřejší, kdo kdy byl"
    [392]
-    1 string data = "The ultimate engineer"
+    1 string data = "Ultimátní inženýr"
    [393]
-    1 string data = "Genius incarnate"
+    1 string data = "Ztělesnění geniality"
    [394]
     1 string data = "Který z těchto prvků se NENACHÁZÍ v odpočinkové místnosti před Katalyzátorem na Vesmírné základně?"
    [395]
@@ -841,15 +841,15 @@
    [413]
     1 string data = "Elysandarëlle"
    [414]
-    1 string data = "What did Seraï tell the Soul Curator had just occurred as he died?"
+    1 string data = "Co řekla Seraï Kurátorovi duší, že se deje, těsně předtím než zemřel?"
    [415]
-    1 string data = "Revenge"
+    1 string data = "Pomsta"
    [416]
-    1 string data = "Retribution"
+    1 string data = "Odplata"
    [417]
-    1 string data = "Vengeance"
+    1 string data = "Trest"
    [418]
-    1 string data = "Comeuppance"
+    1 string data = "Vyrovnání"
    [419]
     1 string data = "Která z těchto kombo dovedností stojí nejmíň Kombo bodů?"
    [420]
@@ -1011,7 +1011,7 @@
    [498]
     1 string data = "Ektoplazmatické těstoviny"
    [499]
-    1 string data = "Turbo sušenka"
+    1 string data = "Turbo sušenku"
    [500]
     1 string data = "Spektrální moučník"
    [501]
