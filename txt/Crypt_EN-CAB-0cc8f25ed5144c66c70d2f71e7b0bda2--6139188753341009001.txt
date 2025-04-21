@@ -135,7 +135,7 @@
    [60]
     1 string data = "Si piš! Tohle nemůžu zmeškat!"
    [61]
-    1 string data = "Ta zeď vypadá poněkud <color=magic>chabě</color>..."
+    1 string data = "Ta zeď vypadá poněkud <color=magic>chatrně</color>..."
    [62]
     1 string data = "Nebylo snadné to všechno vytvořit, ale jsem na všechny tady neuvěřitelně hrdý. Doufám, že se vám to líbilo!"
    [63]
@@ -157,7 +157,7 @@
    [71]
     1 string data = "..."
    [72]
-    1 string data = "Pokud chcete předstírat, že postavy místo boje tančí, dávám vám oficiální svolení animátora."
+    1 string data = "Pokud chcete předstírat, že postavy místo boje tančí, dávám vám oficiální svolení animátorky."
    [73]
     1 string data = "Dnes za mně Erlina."
    [74]
@@ -167,7 +167,7 @@
    [76]
     1 string data = "Mangouste?"
    [77]
-    1 string data = "Doufám, že jste si hru užili tak, jak si myslím, že bych si ji užil já, kdybych si ji nezkazil prací na ní."
+    1 string data = "Doufám, že jste si hru užili tak, jak bych si ji hádám užil já, kdybych si ji nezkazil prací na ní."
    [78]
     1 string data = "(Ovladání postavy v The Messenger bylo mnohem jednodušší.)"
    [79]
@@ -187,7 +187,7 @@
    [86]
     1 string data = "Ten týden uběhl tak rychle."
    [87]
-    1 string data = "Bude mi chybět tahle produkce, ale vyspat se bude fajn. Bavila vás hra? Tým se opravdu snažil, aby byla co nejlepší!"
+    1 string data = "Bude mi chybět tahle produkce, ale také bude fajn se vyspat. Bavila vás hra? Tým se opravdu snažil, aby byla co nejlepší!"
    [88]
     1 string data = "(Opravdu doufám, že se scénář bude lidem líbit...)"
    [89]
@@ -227,7 +227,7 @@
    [106]
     1 string data = "Vždycky dbám na to, abychom v pátek přestali pracovat v 16:00."
    [107]
-    1 string data = "Jsem J-P, integrátor. Dřív jsem hledal chyby, ale teď je opravuji! A také je způsobuji... Já nevím... Nejsem mechanik!"
+    1 string data = "Jsem J-P, integrátor. Dřív jsem hledal bugy, ale teď je opravuji! A také je způsobuji... Já nevím... Nejsem mechanik!"
    [108]
     1 string data = "(Počkat, tohle potřebujeme k aktivaci dveří, ne výtahu.)"
    [109]
@@ -257,7 +257,7 @@
    [121]
     1 string data = "Další produktivní týden za námi. Je to příjemné, trochu se zklidnit."
    [122]
-    1 string data = "Úřední hodiny? Od té doby, co se objevily ty děti slunovratu, nikdo nedokáže určit, kolik je hodin!"
+    1 string data = "Pracovní doba? Od té doby, co se objevily ty děti slunovratu, nikdo nedokáže určit, kolik je hodin!"
    [123]
     1 string data = "Dnes pracuji na X'tolovi."
    [124]
@@ -307,7 +307,7 @@
    [146]
     1 string data = "Přes víkend už mám obsazeno."
    [147]
-    1 string data = "Kam jsem to zase dal..."
+    1 string data = "Kam jsem to zase dala..."
    [148]
     1 string data = "..."
    [149]
@@ -357,9 +357,9 @@
    [171]
     1 string data = "..."
    [172]
-    1 string data = "Byla to opravdu zábavná cesta být součástí této inscenace. Myslím, že jsme nakonec vytvořili docela dobrou hru, je tak?"
+    1 string data = "Byla to opravdu zábavná pouť být součástí této inscenace. Myslím, že jsme nakonec vytvořili docela dobrou hru, je tak?"
    [173]
-    1 string data = "Hele, dneska večer dělám zálohu všech pracovních souborů, nezapomeň do osmi odevzdat všechno, co potřebuješ, jo?"
+    1 string data = "Hele, dneska večer dělám zálohu všech pracovních souborů, nezapomeňte do osmi odevzdat všechno, co potřebujete, jo?"
    [174]
     1 string data = "..."
    [175]
@@ -377,7 +377,7 @@
    [181]
     1 string data = "Na zdraví!"
    [182]
-    1 string data = "Hej! Animoval jsem pár postav a pak jsem je místo toho začal vyhazovat do vzduchu! ... Omlouvám se za všechny ty výbuchy, které jsi schytal do obličeje!"
+    1 string data = "Čau! Animoval jsem pár postav a pak jsem je místo toho začal vyhazovat do vzduchu! ... Omlouvám se za všechny ty výbuchy, které jste schytali do obličeje!"
    [183]
     1 string data = "Za mě VFX! Chci vylepšit sekvenci smrti Přiživovačky žalu."
    [184]
@@ -387,9 +387,9 @@
    [186]
     1 string data = "Ahoj, rád tě vidím!"
    [187]
-    1 string data = "Jsem tak hrdý, že jsem se stal součástí tohoto úžasného týmu!"
+    1 string data = "Jsem tak hrdá, že jsem se stala součástí tohoto úžasného týmu!"
    [188]
-    1 string data = "Ahoj, potřebuješ něco?"
+    1 string data = "Ahoj, potřebujete něco?"
    [189]
     1 string data = "..."
    [190]
@@ -409,7 +409,7 @@
    [197]
     1 string data = "..."
    [198]
-    1 string data = "To já teď hledám chyby, když je způsobuje J-P!"
+    1 string data = "To já teď hledám bugy, když je způsobuje J-P!"
    [199]
     1 string data = "Hra běží skvěle!"
    [200]
@@ -439,19 +439,19 @@
    [212]
     1 string data = "Už jsme se někdy setkali?"
    [213]
-    1 string data = "No, pokud ano a chystáš se stěžovat si na nějaký časový paradox, možná zvaž, že jsi to byl ty, kdo právě prolomil čtvrtou stěnu."
+    1 string data = "No, pokud ano a chystáte se stěžovat si na nějaký časový paradox, možná zvažte, že jste to byli vy, kdo právě prolomil čtvrtou zeď."
    [214]
-    1 string data = "Nejspíš taky nedostaneš přidáno, ale skříň je celá tvoje, jestli se chceš vyřádit."
+    1 string data = "Nejspíš taky nedostanete přidáno, ale skříň je celá vaše, jestli se chcete vyřádit."
    [215]
-    1 string data = "No, podívejme se na tebe! Zvládl jsi to až do konce."
+    1 string data = "No, koukněte na sebe! Zvládli jste to až do konce."
    [216]
-    1 string data = "Cože?"
+    1 string data = "Co?"
    [217]
-    1 string data = "Zvládl jsi to všechno, je konec."
+    1 string data = "Zvládli jste to všechno, je konec."
    [218]
-    1 string data = "Právě jsi poznal skutečný tým, co víc chceš?"
+    1 string data = "Právě jste poznali skutečný tým, co víc chcete?"
    [219]
-    1 string data = "Představení skončilo, jdu spát a ty bys měl jít taky."
+    1 string data = "Představení skončilo, jdu spát a vy byste měli jít taky."
    [220]
     1 string data = "..."
    [221]
@@ -481,7 +481,7 @@
    [233]
     1 string data = "Ne"
    [234]
-    1 string data = "Určitě? Nejde mě přerušit."
+    1 string data = "Určitě? Nejde mě zastavit."
    [235]
     1 string data = "Ano"
    [236]
@@ -495,7 +495,7 @@
    [240]
     1 string data = "Udělala vše, co jste chtěli?"
    [241]
-    1 string data = "A co je důležitější, ‚respektovala váš čas?‘"
+    1 string data = "A co je důležitější, 'respektovala váš čas?'"
    [242]
     1 string data = "Řekli byste, že zde tým vytvořil nějaký 'content', nebo si tento termín vyhrazujete pro ty, kteří jej budou hrát před virtuálním publikem?"
    [243]
@@ -503,33 +503,33 @@
    [244]
     1 string data = "Dobře, začněme pomalu."
    [245]
-    1 string data = "Gratulace, porazili jste všechny bossy!"
+    1 string data = "Blahopřeji, porazili jste všechny bossy!"
    [246]
     1 string data = "Vzkřísili jste svého nejlepšího kamaráda!"
    [247]
     1 string data = "Našli jste všechny Duhové ulity!"
    [248]
-    1 string data = "Ulovili jste všechny ryby!"
+    1 string data = "Ulovili jste všechny druhy ryb!"
    [249]
-    1 string data = "Vyhráli jste všechny kotouče!"
+    1 string data = "Vyhráli jste všechny Kotouče!"
    [250]
     1 string data = "Vyhráli jste všechny kvízy!"
    [251]
     1 string data = "..."
    [252]
-    1 string data = "Uf, když jsem se naposledy snažil být nudný, skončilo to tím, že jsem si našel přátele, kteří si mysleli, že potřebujeme více produktů, které ve svém marketingu používají ‚alfa a omega‘."
+    1 string data = "Uf, když jsem se naposledy snažila být nudná, skončilo to tím, že jsem si našla přátele, kteří si mysleli, že potřebujeme více produktů, co ve svém marketingu používají spojení 'alfa a omega'."
    [253]
     1 string data = "Nehodlám riskovat, že se to bude opakovat, takže přejděme k mluvení v absolutních hodnotách, ano?"
    [254]
     1 string data = "Abyste udělali dobrou videohru, musíte mít v první oblasti trávu, poblíž falešného konce lávu a tajného bosse, který je těžší než závěrečný boss."
    [255]
-    1 string data = "Podívej, to já tvořím pravidla. Můžete buď nesouhlasit, nebo si dělat poznámky."
+    1 string data = "Hele, to já vytvářím pravidla. Můžete buď nesouhlasit, nebo si dělat poznámky."
    [256]
-    1 string data = "Ať už to za to stojí nebo ne, doufám, že nesouhlasíte, už jen kvůli té ironii, že tu teď stojíte poté, co jste obrátili každý kámen."
+    1 string data = "Ať už to za to stojí či ne, doufám, že nesouhlasíte. Už jen kvůli té ironii, že tu teď stojíte poté, co jste koukli pod každý kámen."
    [257]
-    1 string data = "Jestli vám už teď připadám otravný, tak vezměte v úvahu, že to ne, že bych neměl nouzi o zdravý režim spánku. A taky si v práci po obědě nečistím zuby."
+    1 string data = "Jestli vám už teď připadám otravná, tak vemte v potaz, že to ne, že bych neměla nouzi o zdravý spánkový režim. A taky si v práci po obědě nečistím zuby."
    [258]
-    1 string data = "Vlastně se považuji za docela snesitelného."
+    1 string data = "Vlastně se považuji za docela snesitelnou."
    [259]
     1 string data = "Každopádně díky za rozcvičku. Budu tady, kdybyste to mysleli vážne."
    [260]
@@ -539,7 +539,7 @@
    [262]
     1 string data = "Ne"
    [263]
-    1 string data = "Jste si naprosto jisti? Není možné mě přerušit a já mám tendenci blábolit."
+    1 string data = "Jste si naprosto jisti? Není možné mě zastavit a já mám tendenci blábolit."
    [264]
     1 string data = "Ano"
    [265]
@@ -547,59 +547,59 @@
    [266]
     1 string data = "Dobrá, řekli jste si o to."
    [267]
-    1 string data = "Znáte ten typ lidí, kteří používají nicneříkající slovo, které se právě naučili, jako by ho všichni znali, ale ve skutečnosti to dělají jen proto, aby je někdo požádal o vysvětlení?"
+    1 string data = "Znáte ten typ lidí, kteří používají nicneříkající slovo, co se právě naučili, jako by ho všichni znali, ale ve skutečnosti to dělají jen proto, aby je někdo požádal o vysvětlení?"
    [268]
     1 string data = "Kdysi mě to žralo, jako by v tom byla nějaká nespravedlnost, že lidé získávají body manipulací a nepřímou lží."
    [269]
-    1 string data = "Ale řeknu ti jednu výhodu stárnutí: začneš vidět pozdější kapitoly některých příběhů a ty mají co naučit."
+    1 string data = "Ale řeknu vám o jedné výhodě stárnutí: Začnete vidět pozdější kapitoly některých příběhů a ty vás mají co naučit."
    [270]
     1 string data = "Jednoho dne mi to došlo: Spousta lidí se účastní závodu, kde nikdo ani neví, co se snaží vyhrát."
    [271]
-    1 string data = "A já taky nevím, co je ta předpokládaná výhra, vím jen, že ji nechci."
+    1 string data = "A já taky nevím, co je to ta předpokládaná výhra, vím jen, že ji nechci."
    [272]
     1 string data = "Bylo to docela osvobozující, uvědomit si, že ve hře, která si neváží integrity, nemůže být nic podstatného."
    [273]
-    1 string data = "Teď k tomu cítím jen lehké zklamání, když si vzpomenu na přátelství, která mohla být."
+    1 string data = "Teď z toho cítím jen trochu zklamání, když si vzpomenu na přátelství, která mohla být."
    [274]
-    1 string data = "Ale nic moc zklamání, jen něco jako zjištění, že ten bochník obsahuje rozinky."
+    1 string data = "Ale ani ne tolik zklamání, jen něco jako zjištění, že ten bochník obsahuje rozinky."
    [275]
-    1 string data = "Tak to teď dělám, vyhýbám se chlebu s rozinkami, aniž bych se angažoval, a je to něco, co bych si přál začít dělat už před desítkami let."
+    1 string data = "Tak to teď dělám, vyhýbám se chlebu s rozinkami, aniž bych se angažovala, a je to něco, co bych si přála začít dělat už před desítkami let."
    [276]
-    1 string data = "Jste pořád se mnou? Zbytek pořádného povídání si nechám na závěrečnou část pro případ, že by vás tohle zastavilo."
+    1 string data = "Pořád me posloucháte? Zbytek pořádného povídání si nechám na závěrečnou část pro případ, že by vás tohle odradilo."
    [277]
-    1 string data = "V žádném případě nebude z mé strany žádné posuzování."
+    1 string data = "V žádném případě se ode mně nedočkáte žádného posuzování."
    [278]
     1 string data = "Zklidníme to tím, že budeme mluvit o hudbě."
    [279]
     1 string data = "Byli jste někdy na metalovém koncertě, kde si hudebníci malují obličeje?"
    [280]
-    1 string data = "Dřív jsem si myslel, že jen přehánějí své postavy, aby hráli na publikum."
+    1 string data = "Dřív jsem si myslela, že jen přehánějí své postavy, aby to hráli na publikum."
    [281]
-    1 string data = "A i když jsem si jistý, že pro mnohé je to opravdový důvod, taky mi došlo, že někteří nejspíš jen potřebují osobnost."
+    1 string data = "A i když jsem si jistá, že pro mnohé je to opravdový důvod, taky mi došlo, že někteří nejspíš jen potřebují osobnost."
    [282]
-    1 string data = "Něco, čím se mohou stát, aby odstranili jakoukoli váhavost, která by jim bránila zapojit se do čistého projevu."
+    1 string data = "Něco, čím se mohou stát, aby odstranili jakékoliv váhání, které by jim bránilo projevit se ryze."
    [283]
     1 string data = "Něco, co poskytuje dostatečný pocit utajení, aby se mohli napojit na zdravou formu anonymity, takovou tu posilující."
    [284]
     1 string data = "Něco jako když nošení slunečních brýlí dokáže odstranit další vrstvu sociální úzkosti, která vzniká při očním kontaktu."
    [285]
-    1 string data = "Abych byl upřímný, už jsem ztratil přehled o tom, kolikrát mi sluneční brýle umožnily veřejně říct ne."
+    1 string data = "Abych byla upřímná, už jsem ztratila přehled o tom, kolikrát mi sluneční brýle umožnily veřejně říct ne."
    [286]
     1 string data = "Nicméně, k těm metalovým koncertům."
    [287]
     1 string data = "Neuniká mi, že si to všechno možná jenom namlouvám, že se jim všem možná jenom líbí estetika a nic víc."
    [288]
-    1 string data = "Ale i tak sehrály důležitou roli v tom, že jsem uvěřil v přínos osobností a představil si schůdnou cestu k sebevyjádření."
+    1 string data = "Ale i tak sehrály důležitou roli v tom, že jsem uvěřila v přínos osobností a představila si schůdnou cestu k sebevyjádření."
    [289]
-    1 string data = "Pokud to zní zmateně, jde o to, že jakákoli interpretace umělcova díla je validní, i když nemusí reprezentovat umělcův záměr."
+    1 string data = "Pokud to zní zmateně, jde o to, že jakákoli interpretace umělcova díla je správná, i když nemusí reprezentovat umělcův záměr."
    [290]
     1 string data = "Jestli to stále zní poněkud zmatečně, můžete malování na obličej nahradit budováním virtuálního světa, ve kterém budou žít všechny vaše vymyšlené postavy."
    [291]
-    1 string data = "A pokud to stále zní zmatečně, jde o to, že se mi ten plášť líbí."
+    1 string data = "A pokud to stále zní zmatečně, jde o to, že se mi ten hábit líbí."
    [292]
     1 string data = "Musím brzy odejít, ale jestli chcete, můžeme si dát ještě jedno kolo."
    [293]
-    1 string data = "Chcete, abych začal mluvit vážně?"
+    1 string data = "Chcete, abych začala mluvit vážně?"
    [294]
     1 string data = "Ano"
    [295]
@@ -617,7 +617,7 @@
    [301]
     1 string data = "Se vším tím cestováním v čase má moje paměť tendenci si se mnou zahrávat."
    [302]
-    1 string data = "Nepamatuji si, jestli jsme se už někdy setkali, ale pokud ano, možná by vás zajímalo, jak se daří tomu chlapci ze studny."
+    1 string data = "Nepamatuji si, jestli jsme se už někdy potkali, ale pokud ano, možná by vás zajímalo, jak se daří tomu chlapci ze studny."
    [303]
     1 string data = "Stručně řečeno se mu daří lépe, nicméně předpokládám, že jsme tu kvůli obsáhlé odpovědi, takže si to krátce zrekapitulujeme."
    [304]
@@ -723,10 +723,10 @@
    [354]
     1 string data = "Násilníci nemohli zvítězit, už ne. Usiloval o to, protože upřímně chtěl, a měl podporu."
    [355]
-    1 string data = "Nyní se silnějším sebevědomím si také vzal k srdci, že už nikdy nebude létat tak blízko ke slunci."
+    1 string data = "Nyní se silnějším sebevědomím si také vzal k srdci, že už nikdy nebude létat tak blízko u slunce."
    [356]
-    1 string data = "Kéž bych vám mohl říct, že dosáhl rovnováhy a nyní žije život, v němž mu veškerý jeho čas nezabírá jen jediná věc, ale to ukáže až čas."
+    1 string data = "Kéž bych vám mohla říct, že dosáhl rovnováhy a nyní žije život, v němž mu veškerý jeho čas nezabírá jen jediná věc, ale to ukáže až čas."
    [357]
-    1 string data = "Děkuji vám, že jste mi pomohli oddat se nějakému završení, moc jsem to potřeboval."
+    1 string data = "Děkuji vám, že jste mi pomohli oddat se nějakému završení, moc jsem to potřebovala."
    [358]
     1 string data = "Teď už půjdu. Papac."

@@ -19,7 +19,7 @@
    [2]
     1 string data = "Stezka džunglí"
    [3]
-    1 string data = "Docarrijská osada"
+    1 string data = "Dokarrijská osada"
    [4]
     1 string data = "Strážcův ostrov"
    [5]
@@ -121,7 +121,7 @@
    [53]
     1 string data = "Skvostné jezero"
    [54]
-    1 string data = "Jezero Docarria"
+    1 string data = "Jezero Dokarria"
    [55]
     1 string data = "Putování do středu světa"
    [56]
@@ -161,13 +161,13 @@
    [73]
     1 string data = "Svatyně Slunovratu"
    [74]
-    1 string data = "Potopené Docarrijské ruiny"
+    1 string data = "Potopené dokarrijské ruiny"
    [75]
-    1 string data = "Potopené Docarrijské ruiny"
+    1 string data = "Potopené dokarrijské ruiny"
    [76]
-    1 string data = "Potopené Docarrijské ruiny"
+    1 string data = "Potopené dokarrijské ruiny"
    [77]
-    1 string data = "Potopené Docarrijské ruiny"
+    1 string data = "Potopené dokarrijské ruiny"
    [78]
     1 string data = "Polopotopená věž"
    [79]
@@ -175,11 +175,11 @@
    [80]
     1 string data = "Rozhledna Es'tristae"
    [81]
-    1 string data = "Potopené Docarrijské ruiny"
+    1 string data = "Potopené dokarrijské ruiny"
    [82]
-    1 string data = "Potopené Docarrijské ruiny"
+    1 string data = "Potopené dokarrijské ruiny"
    [83]
-    1 string data = "Potopené Docarrijské ruiny"
+    1 string data = "Potopené dokarrijské ruiny"
    [84]
     1 string data = "Večernice"
    [85]

@@ -353,7 +353,7 @@
    [169]
     1 string data = "Když dosáhli své zaslíbené země, začali s výstavbou u věže."
    [170]
-    1 string data = "V Docarrijské osadě měli generace přicházet a odcházet, a každá se měla řídit vedením svého příslušného Věštce přílivů a odlivů."
+    1 string data = "V Dokarrijské osadě měli generace přicházet a odcházet, a každá se měla řídit vedením svého příslušného Věštce přílivů a odlivů."
    [171]
     1 string data = "Počnouc tímto dnem se stali strážcemi věže Antsudlo a čekali na ty, kterým bylo souzeno otevřít její brány."
    [172]
@@ -367,11 +367,11 @@
    [176]
     1 string data = "Co se pak odehrálo, je předmětem mnoha diskusí, které závisí na výkladech klíčových pasáží a věrohodnosti vybraných pramenů."
    [177]
-    1 string data = "Někteří tvrdí, že k Bitvě u osudového guyotu nikdy nedošlo, a odmítají ji jako výmysl, který měl odstrašit případné drancovníky starobylého Dokarrijského pokladu."
+    1 string data = "Někteří tvrdí, že k Bitvě u osudového guyotu nikdy nedošlo, a odmítají ji jako výmysl, který měl odstrašit případné drancovníky starobylého dokarrijského pokladu."
    [178]
     1 string data = "Tato teorie je však většinou považována za přitaženou za vlasy, vzhledem k tomu, že neschopnost takových lupičů dýchat pod vodou by už tak byla dostatečně odstrašující."
    [179]
-    1 string data = "Někteří historici tvrdí, že obří mořský slimák byl poražen, když Docarriové naposledy stanuli na podmořské stolové hoře, čímž si tato pověst vysloužila svůj název."
+    1 string data = "Někteří historici tvrdí, že obří mořský slimák byl poražen, když Dokarriové naposledy stanuli na podmořské stolové hoře, čímž si tato pověst vysloužila svůj název."
    [180]
     1 string data = "Pro jiné jsou spisy o potopených ruinách jednoduše příliš konzistentní na to, aby je bylo možné přehlížet."
    [181]

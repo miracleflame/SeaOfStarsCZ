@@ -317,13 +317,13 @@
    [151]
     1 string data = "Zvládli jsme to. Teď ještě zjistit, co dělá to Korálové kladivo…"
    [152]
-    1 string data = "Po naladění mušle v Posvátném háji na Strážcově ostrově bychom měli být schopni se dostat na dno jezera Docarria…"
+    1 string data = "Po naladění mušle v Posvátném háji na Strážcově ostrově bychom měli být schopni se dostat na dno jezera Dokarria…"
    [153]
     1 string data = "Připadalo mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoli, kryju vám záda."
    [154]
     1 string data = "Akolyté se pravděpodobně dívají. Nepolevujme v ostražitosti."
    [155]
-    1 string data = "Mučivý vrch je severně od jezera Docarria, na Strážcově ostrově."
+    1 string data = "Mučivý vrch je severně od jezera Dokarria, na Strážcově ostrově."
    [156]
     1 string data = "Teď, když je hranol zpátky na soše Strážce, mělo by se podařit přes něj prosvítit světelný paprsek a najít skrýš, o které mluvil Resh'an."
    [157]

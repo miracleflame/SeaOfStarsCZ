@@ -31,7 +31,7 @@
    [8]
     1 string data = "Udeřme do něj a uvidíme, co se stane."
    [9]
-    1 string data = "Buďte vítáni na <color=location>Jezeře Docarria</color>, cestovatelé."
+    1 string data = "Buďte vítáni na <color=location>Jezeře Dokarria</color>, cestovatelé."
    [10]
     1 string data = "Ahoj! Hledáme Věštce přílivu a odlivu!"
    [11]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "Tak tohle je ten chrám?"
    [13]
-    1 string data = "Ale ne. Chrám je v Docarrijské osadě. Nachází se na dně oceánu, hluboko pod tímto jezerem."
+    1 string data = "Ale ne. Chrám je v Dokarrijské osadě. Nachází se na dně oceánu, hluboko pod tímto jezerem."
    [14]
     1 string data = "Ale..."
    [15]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "Páni!"
    [34]
-    1 string data = "Je to jediný způsob, jak se dostat do Docarrijské osadě a setkat se s Věštcem."
+    1 string data = "Je to jediný způsob, jak se dostat do Dokarrijské osadě a setkat se s Věštcem."
    [35]
     1 string data = "Bude to fungovat pro všechny?"
    [36]
@@ -93,7 +93,7 @@
    [39]
     1 string data = "Vydejte se k posvátnému háji a nezapomeňte se vyhnout <color=bad>Mučivému vrchu</color>!"
    [40]
-    1 string data = "Děkujeme, že ctíte naši tradici. Nyní můžete navštevovat Docarrijskou osadu dle libosti."
+    1 string data = "Děkujeme, že ctíte naši tradici. Nyní můžete navštevovat Dokarrijskou osadu dle libosti."
    [41]
     1 string data = "Jakmile budete připraveni, cesta vede přes velký vír."
    [42]
@@ -163,7 +163,7 @@
    [74]
     1 string data = "Ale nejdřív nějaké to završení."
    [75]
-    1 string data = "Když vás teď vidím, jak jsem vás viděl ve svých snech, vím, že dozor Docarrijských věštců je u konce."
+    1 string data = "Když vás teď vidím, jak jsem vás viděl ve svých snech, vím, že dozor dokarrijských věštců je u konce."
    [76]
     1 string data = "Konečně přišli ti, které jsme očekávali celá staletí."
    [77]
@@ -211,9 +211,9 @@
    [98]
     1 string data = "Není v mých silách vám pomoci dostat se na ostrov Mesa."
    [99]
-    1 string data = "Ať už pro vás osud přichystal cokoli, vím jistě jen to, že váš další krok je za tímto vodopádem."
+    1 string data = ""
    [100]
-    1 string data = "Tajemná věž Antsudlo čeká."
+    1 string data = "Ať už pro vás osud přichystal cokoli, vím jistě jen to, že váš další krok je za tímto vodopádem. Tajemná věž Antsudlo čeká."
    [101]
     1 string data = "Přežijte její zkoušky a objevte tajemství, které na vás celou dobu čekalo."
    [102]
@@ -233,7 +233,7 @@
    [109]
     1 string data = "Bezpochyby vás očekává."
    [110]
-    1 string data = "Vítejte v <color=location>Docarrijské osadě</color>, dobrodruzi!"
+    1 string data = "Vítejte v <color=location>Dokarrijské osadě</color>, dobrodruzi!"
    [111]
     1 string data = "Tohle je náš chrám, kde Věštec přílivu a odlivu rozmlouvá s vodami světa, aby nás informoval o důležitých událostech."
    [112]
@@ -245,7 +245,7 @@
    [115]
     1 string data = "Neostýchejte se!"
    [116]
-    1 string data = "Někteří Docarriové raději zůstávají po většinu času ve svých vnitřních pokojích."
+    1 string data = "Někteří Dokarriové raději zůstávají po většinu času ve svých vnitřních pokojích."
    [117]
     1 string data = "Jako kmen jsme se naučili nepohoršovat se nad takovým chováním a oslavujeme svobodu každého člena komunity angažovat se a sdružovat se v takové míře, jakou si přeje."
    [118]
@@ -253,7 +253,7 @@
    [119]
     1 string data = "Jako vodní kočovníci jsme se po generace řídili pokyny Věštce přílivu a odlivu a zakládali jsme osady stále blíže k hladině."
    [120]
-    1 string data = "Jak vidíte, nakonec jsme se dostali k našemu cíli! Po založení Docarrijské osady jsme se vzdali našeho kočovného způsobu života."
+    1 string data = "Jak vidíte, nakonec jsme se dostali k našemu cíli! Po založení Dokarrijské osady jsme se vzdali našeho kočovného způsobu života."
    [121]
     1 string data = "Miluji se tu potloukat, něco na tom nikdy neztratí půvab, že se ponořím do vody a vylezu nazpátek, jen abych se zase ponořil."
    [122]
@@ -261,7 +261,7 @@
    [123]
     1 string data = "Sladkou vodu to nepřekoná, ale čerstvý vzduch není špatný."
    [124]
-    1 string data = "My, Docarriové, máme zvláštní vztah k vodě, kterou naše citlivá pokožka vnímá jako velmi objímavou. Udržuje nás v klidu a vyrovnanosti."
+    1 string data = "My, Dokarriové, máme zvláštní vztah k vodě, kterou naše citlivá pokožka vnímá jako velmi objímavou. Udržuje nás v klidu a vyrovnanosti."
    [125]
     1 string data = "Pokud strávíme příliš mnoho času mimo vodní plochu, úzkost nás nutí tuto útěchu znovu najít."
    [126]

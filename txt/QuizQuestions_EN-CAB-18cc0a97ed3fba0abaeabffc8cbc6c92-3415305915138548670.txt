@@ -385,7 +385,7 @@
    [185]
     1 string data = "Karnimant"
    [186]
-    1 string data = "Docarrijci"
+    1 string data = "Dokarrijci"
    [187]
     1 string data = "Mučivý vrch navštívilo kdysi dávno jiné pokolení Bojovníků Slunovratu. Co udělali, když odcházeli?"
    [188]
@@ -417,7 +417,7 @@
    [201]
     1 string data = "Akolyta Čtyřka"
    [202]
-    1 string data = "Co shání holčička v Docarrijské osadě výměnou za schémata?"
+    1 string data = "Co shání holčička v Dokarrijské osadě výměnou za schémata?"
    [203]
     1 string data = "Purpurové kameny"
    [204]
@@ -437,7 +437,7 @@
    [211]
     1 string data = "Batrachianinja"
    [212]
-    1 string data = "Když někdo podstupuje uvítací rituál při návštěvě Docarrijské osady, kam musí jít ponořit svou mušli?"
+    1 string data = "Když někdo podstupuje uvítací rituál při návštěvě Dokarrijské osady, kam musí jít ponořit svou mušli?"
    [213]
     1 string data = "do Posvátného háje"
    [214]

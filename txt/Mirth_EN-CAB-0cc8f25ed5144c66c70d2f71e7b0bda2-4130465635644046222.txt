@@ -227,7 +227,7 @@
    [106]
     1 string data = "Tady máte ode mě poslední dar. <color=magic>Korálové kladivo</color>."
    [107]
-    1 string data = "Dostaňte se na <color=location>Strážcův ostrov</color>, kde hluboko pod vlnami modrého jezera leží ztracené město Docarri."
+    1 string data = "Dostaňte se na <color=location>Strážcův ostrov</color>, kde hluboko pod vlnami modrého jezera leží ztracené město Dokarri."
    [108]
     1 string data = "Zazvoňte na zvon s Korálovým kladivem a oni poznají, že vás poslal přítel."
    [109]

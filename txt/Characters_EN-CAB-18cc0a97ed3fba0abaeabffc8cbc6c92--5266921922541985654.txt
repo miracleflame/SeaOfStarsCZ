@@ -131,7 +131,7 @@
    [58]
     1 string data = "Šéfkuchařka Skromné chlouby"
    [59]
-    1 string data = "Kašpar"
+    1 string data = "Gaspar"
    [60]
     1 string data = "Lambert"
    [61]

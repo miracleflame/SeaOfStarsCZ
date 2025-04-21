@@ -97,7 +97,7 @@
    [41]
     1 string data = "Slyšel jsem, že umí dýchat pod vodou!"
    [42]
-    1 string data = "Pochází z Docarrijské osady?"
+    1 string data = "Pochází z Dokarrijské osady?"
    [43]
     1 string data = "Klid, klid. Prosím, přivítejte B'sta, oživlého skleněného golema, a jeho společníky!"
    [44]

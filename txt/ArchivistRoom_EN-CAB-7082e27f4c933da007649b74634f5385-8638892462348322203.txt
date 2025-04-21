@@ -241,7 +241,7 @@
    [113]
     1 string data = "Díky, Resh'ane!"
    [114]
-    1 string data = "Tento portál můžete využívat k rychlému přesunu k jezeru Docarria a zpět."
+    1 string data = "Tento portál můžete využívat k rychlému přesunu k jezeru Dokarria a zpět."
    [115]
     1 string data = "Budu vás sledovat. Hodně štěstí."
    [116]
@@ -343,7 +343,7 @@
    [164]
     1 string data = "Bude-li jejich vůle dostatečně silná, brzy se odehrají doposud nenapsané kapitoly..."
    [165]
-    1 string data = "Teleportovat se k jezeru Docarria?"
+    1 string data = "Teleportovat se k jezeru Dokarria?"
    [166]
     1 string data = "Ano"
    [167]

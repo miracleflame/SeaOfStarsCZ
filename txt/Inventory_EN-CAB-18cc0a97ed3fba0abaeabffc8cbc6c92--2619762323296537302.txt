@@ -1065,7 +1065,7 @@
    [525]
     1 string data = "Potřebujete něco?"
    [526]
-    1 string data = "Docarrijská zbroj"
+    1 string data = "Dokarrijská zbroj"
    [527]
     1 string data = "Přiměřeně robustní."
    [528]
@@ -1449,15 +1449,15 @@
    [717]
     1 string data = "Odemyká truhlu s vévodovou rakví na Zatopeném hřbitově."
    [718]
-    1 string data = "Úlomek Docarrijské pečeti"
+    1 string data = "Úlomek dokarrijské pečeti"
    [719]
     1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [720]
-    1 string data = "Úlomek Docarrijské pečeti"
+    1 string data = "Úlomek dokarrijské pečeti"
    [721]
     1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [722]
-    1 string data = "Úlomek Docarrijské pečeti"
+    1 string data = "Úlomek dokarrijské pečeti"
    [723]
     1 string data = "Jeden ze tří kusů potřebných k odemčení zapečetěné podvodní brány."
    [724]

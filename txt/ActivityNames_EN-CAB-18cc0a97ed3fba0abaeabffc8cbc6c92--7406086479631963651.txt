@@ -53,7 +53,7 @@
    [19]
     1 string data = "Korálové kladivo"
    [20]
-    1 string data = "Ztracené město Docarri"
+    1 string data = "Ztracené město Dokarri"
    [21]
     1 string data = "Věštec přílivů a odlivů"
    [22]
