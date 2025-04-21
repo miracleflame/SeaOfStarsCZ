@@ -345,7 +345,7 @@
    [165]
     1 string data = "Nikdo tomu zprvu nevěřil, že by jejich zdánlivě věčná cesta mohla být u konce."
    [166]
-    1 string data = "Proč právě oni? A když je současný Věštec přílivů a odlivů tak mladý, kdo by vědel potvrdit dlouho očekávaný objev?"
+    1 string data = "Proč právě oni? A když je současný Věštec přílivů a odlivů tak mladý, kdo by dokázal potvrdit tak dlouho očekávaný objev?"
    [167]
     1 string data = "V hloubi duše však tušili - před nimi, vynořující se ještě živěji než v jejich viděních, stála věž Antsudlo."
    [168]
@@ -353,9 +353,9 @@
    [169]
     1 string data = "Když dosáhli své zaslíbené země, začali s výstavbou u věže."
    [170]
-    1 string data = "V Dokarrijské osadě měli generace přicházet a odcházet, a každá se měla řídit vedením svého příslušného Věštce přílivů a odlivů."
+    1 string data = "V Dokarrijské osadě měly generace přicházet a odcházet, a každá se měla řídit vedením svého příslušného Věštce přílivů a odlivů."
    [171]
-    1 string data = "Počnouc tímto dnem se stali strážcemi věže Antsudlo a čekali na ty, kterým bylo souzeno otevřít její brány."
+    1 string data = "Tímto dnem se z nich stali strážci věže Antsudlo čekající na ty, kterým bylo souzeno otevřít její brány."
    [172]
     1 string data = "V této nové éře přežívají vzpomínky na jejich kočovné dny v tradičních pověstech, které vypravují o skutcích velkých objevitelů a mocných válečníků."
    [173]
@@ -433,7 +433,7 @@
    [209]
     1 string data = "Započaly slavnosti a byli svoláni větrní mágové, aby vytvořili vlny dost silné k zaplavení východní části ostrova."
    [210]
-    1 string data = "Požár tak byl konečně uhašen, ale kvůli tomu se tyto oblasti proměnily v dnes už proslavený močál."
+    1 string data = "Požár tak byl konečně uhašen, ale kvůli tomu se tyto oblasti proměnily v dnes už proslavené bažiny."
    [211]
     1 string data = "Všichni tuto změnu uvítali, neboť šla ruku v ruce s jejich vítězstvím."
    [212]
@@ -475,11 +475,11 @@
    [230]
     1 string data = "Ale ostrov Mesa si žádal něco víc. Myslícího golema. Takového, který by jen neposlouchal příkazy, ale byl by nositelem poslání."
    [231]
-    1 string data = "To proto, že tento konkrétní ostrov plul na úrovni hladiny moře, ale jak Ovati viděli ve svých snech, bylo třeba ho podepřít mnohem výš."
+    1 string data = "To proto, že tento konkrétní ostrov byl na úrovni hladiny moře, ale jak Ovati viděli ve svých snech, bylo třeba ho podepřít mnohem výš."
    [232]
     1 string data = "V budoucnu mělo skutečně dojít k velké potopě, a aby tento svět přežil, musel by ostrov Mesa zůstat nad vodou."
    [233]
-    1 string data = "Ačkoli tato budoucnost byla velmi vzdálená, Ovati zůstávali jako vždy nezištně oddáni harmonii a rovnováze."
+    1 string data = "Ačkoliv tato budoucnost byla velmi vzdálená, Ovati zůstávali jako vždy nezištně oddáni harmonii a rovnováze."
    [234]
     1 string data = "Tak stvořili Khukharra, ale bohužel zjistili, že mu nedokážou dát rozum."
    [235]

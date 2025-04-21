@@ -213,7 +213,7 @@
    [99]
     1 string data = "Drahá Valerie, tušil jsem, že to řekneš."
    [100]
-    1 string data = "Takže jste neoblomně odhodláni pokusit se dostat do starého zámku Karnimanta a utkat se s Přiživovačem?"
+    1 string data = "Takže jste neoblomně odhodláni pokusit se dostat do Karnimantova starého hradu a utkat se s Přiživovačem?"
    [101]
     1 string data = "Rozhodně."
    [102]

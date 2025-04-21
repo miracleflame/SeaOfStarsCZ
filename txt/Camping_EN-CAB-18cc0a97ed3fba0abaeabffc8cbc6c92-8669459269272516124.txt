@@ -281,7 +281,7 @@
    [133]
     1 string data = "Ostrov Mesa… Tam prý je Přiživovač a akolyté…"
    [134]
-    1 string data = "Doufám, že Věštec přílivů a odliů bude moct opravdu pomoct…"
+    1 string data = "Doufám, že Věštec přílivů a odlivů bude moct opravdu pomoci…"
    [135]
     1 string data = "Takže v té věži ještě nikdo nebyl, co? To je docela vzrušující."
    [136]
@@ -299,7 +299,7 @@
    [142]
     1 string data = "Ta mušle je tak hezká! A dýchání pod vodou? To už je něco!"
    [143]
-    1 string data = "Vždycky jsem věděl, že vy dva jste výjimeční, ale velká tajemná věž postavená jen pro vás, o už je něco jiného!"
+    1 string data = "Vždycky jsem věděl, že vy dva jste výjimeční, ale velká tajemná věž postavená jen pro vás, no už je něco jiného!"
    [144]
     1 string data = "Baňka vypůjčeného času… To si budu muset zapamatovat, znělo to důležitě."
    [145]
@@ -319,7 +319,7 @@
    [152]
     1 string data = "Po naladění mušle v Posvátném háji na Strážcově ostrově bychom měli být schopni se dostat na dno jezera Dokarria…"
    [153]
-    1 string data = "Připadalo mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoli, kryju vám záda."
+    1 string data = "Připadalo mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoliv, kryju vám záda."
    [154]
     1 string data = "Akolyté se pravděpodobně dívají. Nepolevujme v ostražitosti."
    [155]

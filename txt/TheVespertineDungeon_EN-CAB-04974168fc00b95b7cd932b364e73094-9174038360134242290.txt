@@ -117,7 +117,7 @@
    [51]
     1 string data = "DRŽTE SE!!!"
    [52]
-    1 string data = "Konečně svoboda..."
+    1 string data = "Konečně na svobodě..."
    [53]
     1 string data = "A je po všem!"
    [54]
