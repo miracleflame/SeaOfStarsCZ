@@ -397,7 +397,7 @@
    [191]
     1 string data = "I když se Resh'an toho dne ve vodě skutečně nekoupal, všem připadalo, jako by část jeho já byla vděčná, že družina tak ochotně investovala do jeho blaha."
    [192]
-    1 string data = "Ať už se ztratil v jakýchkoli myšlenkách, nebo zda tam vůbec byl, to se nikdo nikdy nedozví..."
+    1 string data = "Ať už se ztratil v jakýchkoliv myšlenkách, nebo zda tam vůbec byl, to se nikdo nikdy nedozví..."
    [193]
     1 string data = "Resh'anova Magická obrana se zvýšila o 8!"
    [194]

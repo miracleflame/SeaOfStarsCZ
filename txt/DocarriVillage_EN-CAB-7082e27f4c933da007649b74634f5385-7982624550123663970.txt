@@ -213,7 +213,7 @@
    [99]
     1 string data = ""
    [100]
-    1 string data = "Ať už pro vás osud přichystal cokoli, vím jistě jen to, že váš další krok je za tímto vodopádem. Tajemná věž Antsudlo čeká."
+    1 string data = "Ať už pro vás osud přichystal cokoliv, vím jistě jen to, že váš další krok je za tímto vodopádem. Tajemná věž Antsudlo čeká."
    [101]
     1 string data = "Přežijte její zkoušky a objevte tajemství, které na vás celou dobu čekalo."
    [102]
