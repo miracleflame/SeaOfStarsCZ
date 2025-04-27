@@ -225,7 +225,7 @@
    [105]
     1 string data = "Ne"
    [106]
-    1 string data = "Čauky! Jakéhokoli dalšího vesničana, co najdete, pošlete rovnou k nám!"
+    1 string data = "Čauky! Jakéhokoliv dalšího vesničana, co najdete, pošlete rovnou k nám!"
    [107]
     1 string data = "Konečně, Večernice..."
    [108]

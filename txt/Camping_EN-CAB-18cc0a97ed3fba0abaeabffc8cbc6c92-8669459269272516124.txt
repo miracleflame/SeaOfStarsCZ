@@ -393,7 +393,7 @@
    [189]
     1 string data = "Moje moc roste, cítíš to taky?"
    [190]
-    1 string data = "Pro Garla udělám cokoli…"
+    1 string data = "Pro Garla udělám cokoliv…"
    [191]
     1 string data = "To, co jste udělali s tím vodním mostem, to bylo opravdu něco."
    [192]

@@ -75,7 +75,7 @@
    [30]
     1 string data = "Obchody"
    [31]
-    1 string data = "Většinou ve vesnicích, <color=menuhighlight>obchodníci prodávají</color> vybavení, suroviny na kuchtění a svačiny. Mohou také <color=menuhighlight>odkoupit</color> jakékoli cennosti, které jste našli, nebo předměty, s nimiž se chcete rozloučit."
+    1 string data = "Většinou ve vesnicích, <color=menuhighlight>obchodníci prodávají</color> vybavení, suroviny na kuchtění a svačiny. Mohou také <color=menuhighlight>odkoupit</color> jakékoliv cennosti, které jste našli, nebo předměty, s nimiž se chcete rozloučit."
    [32]
     1 string data = "Táboření"
    [33]

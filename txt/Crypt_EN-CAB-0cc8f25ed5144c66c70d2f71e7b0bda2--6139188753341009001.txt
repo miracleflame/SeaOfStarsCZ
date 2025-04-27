@@ -591,7 +591,7 @@
    [288]
     1 string data = "Ale i tak sehrály důležitou roli v tom, že jsem uvěřila v přínos osobností a představila si schůdnou cestu k sebevyjádření."
    [289]
-    1 string data = "Pokud to zní zmateně, jde o to, že jakákoli interpretace umělcova díla je správná, i když nemusí reprezentovat umělcův záměr."
+    1 string data = "Pokud to zní zmateně, jde o to, že jakákoliv interpretace umělcova díla je správná, i když nemusí reprezentovat umělcův záměr."
    [290]
     1 string data = "Jestli to stále zní poněkud zmatečně, můžete malování na obličej nahradit budováním virtuálního světa, ve kterém budou žít všechny vaše vymyšlené postavy."
    [291]
