@@ -175,7 +175,7 @@
    [80]
     1 string data = "Erlino... proč?"
    [81]
-    1 string data = "Přistoupili jsme na jejich dohodu. Vyvolání krvavého Měsíce výměnou za naši svobodu."
+    1 string data = "Přistoupili jsme na jejich dohodu. Vyvolání Krvavého Měsíce výměnou za naši svobodu."
    [82]
     1 string data = "Krvavý měsíc... s jádrem Přiživovače!?!"
    [83]
@@ -221,7 +221,7 @@
    [103]
     1 string data = "Nadešel čas oživit Přiživovače sváru."
    [104]
-    1 string data = "A teď nám vyvolejte krvavý Měsíc!"
+    1 string data = "A teď nám vyvolejte Krvavý Měsíc!"
    [105]
     1 string data = "!!"
    [106]

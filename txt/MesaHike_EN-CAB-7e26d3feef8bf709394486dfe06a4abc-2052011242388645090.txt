@@ -31,7 +31,7 @@
    [8]
     1 string data = "Rozumím. Jak vám mohu pomoci?"
    [9]
-    1 string data = "Tito lidé jsou tvoji přátelé."
+    1 string data = "Tito lidé jsou tví přátelé."
    [10]
     1 string data = "Rozumím."
    [11]
@@ -45,11 +45,11 @@
    [15]
     1 string data = "Mým hlavním posláním je držet ostrov Mesa přesně v této výšce."
    [16]
-    1 string data = "Rád udělám cokoliv, co mohu, aniž bych narušil své držení, příteli."
+    1 string data = "Rád udělám cokoliv, co mohu, aniž bych tím narušil svůj úchop, příteli."
    [17]
     1 string data = "Chceme prozkoumat tvůj ostrov. Mohl bys pro nás odstranit tu bariéru?"
    [18]
-    1 string data = "Aha? Jistě víte o <color=bad>zlověstném hradu</color>, jenž tam stojí. Není to místo, kam bychom posílali přátele."
+    1 string data = "Opravdu? Jistě víte o <color=bad>zlověstném hradu</color>, jenž tam stojí. Není to místo, kam bychom posílali přátele."
    [19]
     1 string data = "Přesto tam máme namířeno."
    [20]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "Zdravím tě, dobrodruhu."
    [34]
-    1 string data = "Znáš mé bratry X'tola a Y'eeta?"
+    1 string data = "Znáš mé bratry, X'tola a Y'eeta?"
    [35]
     1 string data = "Mohu ti pomoci dostat se k nim během chvilky, stačí <color=magic>vplout do mých úst</color> a vybrat si cíl!"
    [36]
@@ -103,4 +103,4 @@
    [44]
     1 string data = "Tak jdeme nahoru."
    [45]
-    1 string data = "Pokud potřebujete rychle cestovat, prostě vplujte se svou lodí přímo do mých úst!"
+    1 string data = "Pokud potřebujete někam rychle odcestovat, prostě vplujte se svou lodí přímo do mých úst!"

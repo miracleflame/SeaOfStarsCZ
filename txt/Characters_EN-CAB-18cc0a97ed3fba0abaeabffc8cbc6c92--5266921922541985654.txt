@@ -51,7 +51,7 @@
    [18]
     1 string data = "Gorilí mládě"
    [19]
-    1 string data = "Matriarcha goril"
+    1 string data = "Gorilí matka"
    [20]
     1 string data = "Dokarrijec"
    [21]
@@ -79,7 +79,7 @@
    [32]
     1 string data = "Místní"
    [33]
-    1 string data = "Vesničané"
+    1 string data = "Místní"
    [34]
     1 string data = "Vesnické dítě"
    [35]

@@ -15,199 +15,199 @@
    [0]
     1 string data = "Bosslimáknuto"
    [1]
-    1 string data = "Porazit bosse Zakázané jeskyně"
+    1 string data = "Porazte bosse Zakázané jeskyně"
    [2]
     1 string data = "Ne, počkej!"
    [3]
-    1 string data = "Vyslání na Spáčův ostrov"
+    1 string data = "Buďte vysláni na Spáčův ostrov"
    [4]
     1 string data = "Protahovací úkol"
    [5]
-    1 string data = "Porazit Chromatický zjev"
+    1 string data = "Porazte Chromatický zjev"
    [6]
     1 string data = "Dej to sem!"
    [7]
-    1 string data = "Porazit Romayu"
+    1 string data = "Porazte Romayu"
    [8]
     1 string data = "Přiživovačka žalu"
    [9]
-    1 string data = "Porazit Přiživovačku žalu"
+    1 string data = "Porazte Přiživovačku žalu"
    [10]
     1 string data = "Kdo by si to jen pomyslel?"
    [11]
-    1 string data = "Odhalit pravou identitu kapitánky Klii'šaë"
+    1 string data = "Odhalte pravou identitu kapitánky Klii'šaë"
    [12]
     1 string data = "Yo, Ho!"
    [13]
-    1 string data = "Porazit Vyzyvatele bouří"
+    1 string data = "Porazte Vyzyvatele bouří"
    [14]
     1 string data = "Všude dobře, doma nejlíp"
    [15]
-    1 string data = "Vybudovat své vlastní město"
+    1 string data = "Vybudujte své vlastní město"
    [16]
     1 string data = "Moc Slunovratu"
    [17]
-    1 string data = "Najít amulet Slunovratu"
+    1 string data = "Najděte Amulet Slunovratu"
    [18]
     1 string data = "Přiživovač muk"
    [19]
-    1 string data = "Porazit Přiživovače"
+    1 string data = "Porazte Přiživovače muk"
    [20]
     1 string data = "Rozklad podzimu"
    [21]
-    1 string data = "Porazit listovou potvoru"
+    1 string data = "Porazte Listovou potvoru"
    [22]
     1 string data = "A už nevstávejte!"
    [23]
-    1 string data = "Porazit akolyty"
+    1 string data = "Porazte Akolyty"
    [24]
     1 string data = "Přiživovač sváru"
    [25]
-    1 string data = "Bojovat s Přiživovačem sváru"
+    1 string data = "Bojujte s Přiživovačem sváru"
    [26]
     1 string data = "Hasit oheň lunou"
    [27]
-    1 string data = "Porazit Sopuchu"
+    1 string data = "Porazte Sopuchu"
    [28]
     1 string data = "Válečný kuchař"
    [29]
-    1 string data = "Zúčastnit se obřadu"
+    1 string data = "Zúčastněte se obřadu"
    [30]
-    1 string data = "Kdo by si to jen pomyslel podruhé"
+    1 string data = "Kdo by si to jen pomyslel: podruhé"
    [31]
-    1 string data = "Odhalit Seraïnu pravou identitu"
+    1 string data = "Odhalte Seraïnu pravou identitu"
    [32]
     1 string data = "Hlavu vzhůru!"
    [33]
-    1 string data = "Porazit Medúzu"
+    1 string data = "Porazte Medúza"
    [34]
     1 string data = "Pírkovážnost"
    [35]
-    1 string data = "Porazit Triumvirát Eminence"
+    1 string data = "Porazte Triumvirát Eminence"
    [36]
     1 string data = "Budiž Artifik"
    [37]
-    1 string data = "Spoznat Artyho"
+    1 string data = "Poznejte Artyho"
    [38]
     1 string data = "Přiživovač hrůzy"
    [39]
-    1 string data = "Porazit Přiživovače hrůzy"
+    1 string data = "Porazte Přiživovače hrůzy"
    [40]
     1 string data = "Lieupedant"
    [41]
-    1 string data = "Porazit Elysan'darëlle"
+    1 string data = "Porazte Elysan'darëlle"
    [42]
     1 string data = "Mechanický šampion"
    [43]
-    1 string data = "Porazit Hodinářku ve hře Kotoučů"
+    1 string data = "Porazte Hodinářku ve hře Kotoučů"
    [44]
     1 string data = "Výdatné jídlo"
    [45]
-    1 string data = "Povečeřet u Zlatého pelikána"
+    1 string data = "Povečeřte U Zlatého pelikána"
    [46]
     1 string data = "Nejlépe mrtvá"
    [47]
-    1 string data = "Porazit Bohyni zbraní"
+    1 string data = "Porazte Bohyni zbraní"
    [48]
     1 string data = "Hele, to je reskin!"
    [49]
-    1 string data = "Porazit Mořského slimáka"
+    1 string data = "Porazte Mořského slimáka"
    [50]
     1 string data = "Zdissovaný Stařešina"
    [51]
-    1 string data = "Porazit Mlžného stařešinu podruhé"
+    1 string data = "Porazte Mlžného stařešinu podruhé"
    [52]
     1 string data = "Sklodiátor"
    [53]
-    1 string data = "Porazit Krustaliona"
+    1 string data = "Porazte Krustaliona"
    [54]
     1 string data = "Svéboda"
    [55]
-    1 string data = "Osvobodit duši vévody Aventryho"
+    1 string data = "Osvoboďte duši vévody Aventryho"
    [56]
-    1 string data = "Všude dobře, ve hnízdečku nejlíp"
+    1 string data = "Všude dobře, v hnízdečku nejlíp"
    [57]
-    1 string data = "Vybudovat lázně, hostinec, obchod a rybářskou chýši ve Veselí"
+    1 string data = "Vybudujte lázně, hostinec, obchod a rybářskou chýši ve Veselí"
    [58]
     1 string data = "Mistr ulit"
    [59]
-    1 string data = "Přinést všechny ulity k Mirně v Dokarijské osadě"
+    1 string data = "Přineste všechny ulity k Mirně v Dokarrijské osadě"
    [60]
-    1 string data = "Mistr rybař"
+    1 string data = "Mistr rybář"
    [61]
-    1 string data = "Chytit alespoň jednu z každého druhu ryb"
+    1 string data = "Chyťte alespoň jednu z každého druhu ryb"
    [62]
     1 string data = "Živoucí encyklopedie"
    [63]
-    1 string data = "Dosáhnout hodnocení PRO v každém balíčku kvízových otázek"
+    1 string data = "Dosáhněte hodnocení PRO v každém balíčku kvízových otázek"
    [64]
     1 string data = "Nový Garl +"
    [65]
-    1 string data = "Splnit si ultimátní přání"
+    1 string data = "Splňte si ultimátní přání"
    [66]
-    1 string data = "Žádný pán bůh tvůj"
+    1 string data = "Žádný pán bůh můj"
    [67]
-    1 string data = "Porazit Karnimanta"
+    1 string data = "Porazte Karnimanta"
    [68]
     1 string data = "Odrážečka"
    [69]
-    1 string data = "Odrazit Lunarang 25x za sebou"
+    1 string data = "Odrazte Lunarang 25x za sebou"
    [70]
     1 string data = "Zámytník"
    [71]
-    1 string data = "Prolomit v souboji celkem 50 zámků"
+    1 string data = "Prolomte v souboji celkem 50 zámků"
    [72]
     1 string data = "Jaká to technika!"
    [73]
-    1 string data = "Porazit 10 bossů se zapnutou relikvií Umělecký gambit"
+    1 string data = "Porazte 10 bossů se zapnutou relikvií Umělecký gambit"
    [74]
     1 string data = "Gustiózní úplnost"
    [75]
-    1 string data = "Ukuchit každý recept alespoň jednou"
+    1 string data = "Ukuchtěte každý recept alespoň jednou"
    [76]
     1 string data = "Po zuby"
    [77]
-    1 string data = "Odemknout všechna komba"
+    1 string data = "Odemkněte všechna komba"
    [78]
     1 string data = "Hezky přečteno"
    [79]
-    1 string data = "Poslechnout si všechny příběhy u táboráku"
+    1 string data = "Poslechněte si všechny příběhy u táboráku"
    [80]
-    1 string data = "Lovec Pokladů"
+    1 string data = "Lovec pokladů"
    [81]
-    1 string data = "Najít včechny poklady"
+    1 string data = "Najděte všechny poklady"
    [82]
     1 string data = "Můj den"
    [83]
-    1 string data = "Využít lázně ve Veselí se všemi 6 hratelnými postavami"
+    1 string data = "Využijte lázně ve Veselí se všemi 6 hratelnými postavami"
    [84]
     1 string data = "Pravý Bojovník Slunovratu"
    [85]
-    1 string data = "Dosáhnout všechny Úspěchy"
+    1 string data = "Dosáhněte všech Úspěchů"
    [86]
     1 string data = "Krunýřová síla"
    [87]
-    1 string data = "Provést týmový časovaný blok se třemi hráči"
+    1 string data = "Proveďte týmový časovaný blok se třemi hráči"
    [88]
     1 string data = "Ověřovací lupa"
    [89]
-    1 string data = "Odhalit zámek prolomením, nebo speciálním tahem s funkcí skenování"
+    1 string data = "Odhalte zámek prolomením, nebo speciálním tahem s funkcí skenování"
    [90]
     1 string data = "Týmová síla"
    [91]
-    1 string data = "Provést týmový časovaný zásah nebo blok"
+    1 string data = "Proveďte týmový časovaný zásah nebo blok"
    [92]
     1 string data = "High Five"
    [93]
-    1 string data = "Vyzkoušet všechny kombinace plácnutí"
+    1 string data = "Vyzkoušejte všechny kombinace plácnutí"
    [94]
     1 string data = "Rybačka"
    [95]
-    1 string data = "S každou postavou chytit alespoň jednu rybu"
+    1 string data = "S každou postavou chyťte alespoň jednu rybu"
    [96]
     1 string data = "Já tudy procházím!"
    [97]
-    1 string data = "Přinutit obra zvednout obě nohy"
+    1 string data = "Přinuťte obra zvednout obě nohy"
    [98]
     1 string data = "Trofeje ze Sea of stars"
    [99]

@@ -495,7 +495,7 @@
    [240]
     1 string data = "Petrichor"
    [241]
-    1 string data = "Pohov"
+    1 string data = "Suspenze"
    [242]
     1 string data = "Uklidňující mlha"
    [243]
@@ -543,7 +543,7 @@
    [264]
     1 string data = "Srpkový oblouk"
    [265]
-    1 string data = "Pohov"
+    1 string data = "Suspenze"
    [266]
     1 string data = "Úder Slunovratu"
    [267]

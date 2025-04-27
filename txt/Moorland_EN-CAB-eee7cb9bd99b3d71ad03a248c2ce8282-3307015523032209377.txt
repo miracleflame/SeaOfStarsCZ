@@ -213,7 +213,7 @@
    [99]
     1 string data = "Tak mluvte!"
    [100]
-    1 string data = "...O všechno ostatní se postaráme, ale krvavý měsíc dokáží vyčarovat pouze Bojovníci Slunovratu."
+    1 string data = "...O všechno ostatní se postaráme, ale Krvavý měsíc dokáží vyčarovat pouze Bojovníci Slunovratu."
    [101]
     1 string data = "Ale tento svět by byl zničen..."
    [102]

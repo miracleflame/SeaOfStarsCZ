@@ -285,7 +285,7 @@
    [135]
     1 string data = "Takže v té věži ještě nikdo nebyl, co? To je docela vzrušující."
    [136]
-    1 string data = "Přemítám, co tam nahoře najdeme. Rozhodně z toho jde nejaká moc."
+    1 string data = "Přemítám, co tam nahoře najdeme. Rozhodně z toho jde nějaká moc."
    [137]
     1 string data = "Vraťme se za Resh'anem."
    [138]
@@ -299,7 +299,7 @@
    [142]
     1 string data = "Ta mušle je tak hezká! A dýchání pod vodou? To už je něco!"
    [143]
-    1 string data = "Vždycky jsem věděl, že vy dva jste výjimeční, ale velká tajemná věž postavená jen pro vás, no už je něco jiného!"
+    1 string data = "Vždycky jsem věděl, že vy dva jste výjimeční, ale velká tajemná věž postavená jen pro vás, to už je něco jiného!"
    [144]
     1 string data = "Baňka vypůjčeného času… To si budu muset zapamatovat, znělo to důležitě."
    [145]
@@ -321,7 +321,7 @@
    [153]
     1 string data = "Připadalo mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoliv, kryju vám záda."
    [154]
-    1 string data = "Akolyté se pravděpodobně dívají. Nepolevujme v ostražitosti."
+    1 string data = "Akolyté nás pravděpodobně sledují. Nepolevujme v ostražitosti."
    [155]
     1 string data = "Mučivý vrch je severně od jezera Dokarria, na Strážcově ostrově."
    [156]
@@ -333,7 +333,7 @@
    [159]
     1 string data = "Pokud se nám Erlina a Brugaves postaví do cesty, nebudu váhat."
    [160]
-    1 string data = "Yomara se zmínila o 'mrtvých zapomenuté rasy'. Zajímalo by mě, co to je."
+    1 string data = "Yomara se zmínila o 'mrtvých lidech zapomenutého národa'. Zajímalo by mě, co jsou zač."
    [161]
     1 string data = "Erlina…"
    [162]
@@ -345,7 +345,7 @@
    [165]
     1 string data = "Erlina a Brugaves… Pořád nemůžu uvěřit tomu, co udělali…"
    [166]
-    1 string data = "To co řekla Yomara Resh'anovi… Co tím myslela?"
+    1 string data = "To, co řekla Yomara Resh'anovi… Co tím myslela?"
    [167]
     1 string data = "Brugaves…"
    [168]
@@ -357,9 +357,9 @@
    [171]
     1 string data = "Nezapomeňme si připravit svačinu na cestu."
    [172]
-    1 string data = "Musí to být těžké myslet na celou tu situaci s Erlinou a Brugavesem. Jsem tady, jo?"
+    1 string data = "Musí to být těžké, myslet na celou tu situaci s Erlinou a Brugavesem. Jsem tady, jo?"
    [173]
-    1 string data = "Zajímalo by mě, co v tom všem chce Resh'an. Zdá se, že podle něj jste ty a [OFFCHAR] výjimeční, s čímž souhlasím!"
+    1 string data = "Zajímalo by mě, co tímhle vším Resh'an sleduje. Zdá se, že podle něj jste ty a [OFFCHAR] výjimeční, s čímž souhlasím!"
    [174]
     1 string data = "Na ostrově Mesa je něco zvláštního, nemyslíš?"
    [175]
@@ -373,7 +373,7 @@
    [179]
     1 string data = "Mechanický hrad je na východní straně ostrova Mesa. Budeme jej muset přejít pěšky."
    [180]
-    1 string data = "Akolyté se pravděpodobně dívají. Nepolevujme v ostražitosti."
+    1 string data = "Akolyté nás pravděpodobně sledují. Nepolevujme v ostražitosti."
    [181]
     1 string data = "Caël říkal, že klíč od Hodinářky představuje jedinou cestu vpřed. Přeju si, aby byla ochotná pomoci."
    [182]
@@ -381,7 +381,7 @@
    [183]
     1 string data = "Ostrov Mesa je na severovýchodě. Ten s tou obří kamennou hlavou."
    [184]
-    1 string data = "Je to příjemné trochu si protáhnout nohy."
+    1 string data = "Je příjemné trochu si protáhnout nohy."
    [185]
     1 string data = "V žádném případě nebudu bojovat s Přiživovačem."
    [186]
@@ -403,7 +403,7 @@
    [194]
     1 string data = "Mám nápad, ale bude to chtít trochu přesvědčování."
    [195]
-    1 string data = "Brugaves je pryč, no Erlina za to zaplatí."
+    1 string data = "Brugaves je pryč, ale Erlina za to zaplatí."
    [196]
     1 string data = "Je mi Garla moc líto…"
    [197]
@@ -541,7 +541,7 @@
    [263]
     1 string data = "Ješte zbývají nějaké Svatyně Slunovratu. Možná bychom je měli vyhledat."
    [264]
-    1 string data = "Je to tak příjemné mít Garla zase s sebou."
+    1 string data = "Je tak příjemné mít Garla zase s sebou."
    [265]
     1 string data = "Zdálo se mi o Svatyních Slunovratu... Možná by stálo za to najít ty zbývající."
    [266]

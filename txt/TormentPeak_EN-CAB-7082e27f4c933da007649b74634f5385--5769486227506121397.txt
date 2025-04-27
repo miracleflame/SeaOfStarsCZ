@@ -23,7 +23,7 @@
    [4]
     1 string data = "...Ne, ale působí to neškodně."
    [5]
-    1 string data = "Brýtro."
+    1 string data = "Budíček!"
    [6]
     1 string data = "Zdravím, slečno!"
    [7]
@@ -63,11 +63,11 @@
    [24]
     1 string data = "Chybí mi mraky."
    [25]
-    1 string data = "EXISTUJÍ POŘÁD MRAKY?"
+    1 string data = "EXISTUJÍ MRAKY POŘÁD?"
    [26]
-    1 string data = "EXISTUJÍ POŘÁD MRAKY?"
+    1 string data = "EXISTUJÍ MRAKY POŘÁD?"
    [27]
-    1 string data = "EXISTUJÍ POŘÁD MRAKY?"
+    1 string data = "EXISTUJÍ MRAKY POŘÁD?"
    [28]
     1 string data = "Hele, vypadá to, že mluví o <color=good>Gorilí matce</color>."
    [29]
@@ -149,7 +149,7 @@
    [67]
     1 string data = "Jediné, co mohli udělat, bylo horu zapečetit a nikdy se nevrátit."
    [68]
-    1 string data = "Je mi to tak líto..."
+    1 string data = "To je mi moc líto..."
    [69]
     1 string data = "I kdyby připravili očistu, nebylo by jim to nic platné."
    [70]
@@ -227,7 +227,7 @@
    [106]
     1 string data = "To si piš!"
    [107]
-    1 string data = "Nejste nám vůbec nic dlužna, Gorilí matko."
+    1 string data = "Nejsi nám vůbec nic dlužna, Gorilí matko."
    [108]
     1 string data = "Ale, tohle je to nejmenší, čím se vám mohu odvděčit!"
    [109]

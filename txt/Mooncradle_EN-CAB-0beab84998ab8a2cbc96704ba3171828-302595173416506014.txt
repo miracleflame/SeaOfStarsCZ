@@ -947,9 +947,9 @@
    [466]
     1 string data = "Vypadá to tak, že mu bude chvíli trvat, než se uzdraví."
    [467]
-    1 string data = "Alespoň že byl zničen Přiživovač sváru..."
+    1 string data = "Alespoň, že byl zničen Přiživovač sváru..."
    [468]
-    1 string data = "No ztratili jsme tolik..."
+    1 string data = "Ale ztratili jsme tolik..."
    [469]
     1 string data = "Moyaru a dvojčata... Moraine už nikdy nebude jako dřív."
    [470]
@@ -975,7 +975,7 @@
    [480]
     1 string data = "..."
    [481]
-    1 string data = "Očekává se od vás mnohem více. Zítra budeme pokračovat a vy se do toho vložíte."
+    1 string data = "Očekává se od vás mnohem více. Zítra budeme pokračovat a vy se do toho pořádně vložíte."
    [482]
     1 string data = "Bručoun jeden starej."
    [483]
@@ -987,7 +987,7 @@
    [486]
     1 string data = "Teď umím pohnout s plošinou, takže možná dovedu otevřít i Zakázanou jeskyni?"
    [487]
-    1 string data = "Rozhodne to láká víc než zůstávat tady."
+    1 string data = "Rozhodně to láká víc, než zůstávat tady."
    [488]
     1 string data = "Později toho roku, na <color=moon>Slavnosti Zimního Slunovratu</color>..."
    [489]
@@ -1011,7 +1011,7 @@
    [498]
     1 string data = "Slyšeli jste to?"
    [499]
-    1 string data = "Velký orel! Doručuje o dvou slunovratech po sobě!"
+    1 string data = "Velký orel! Přináší dítě o dvou slunovratech po sobě!"
    [500]
     1 string data = "Požehnaný to rok!"
    [501]
@@ -1053,7 +1053,7 @@
    [519]
     1 string data = "Měli bychom už jít. Za soumraku máme další <color=bad>schůzku</color>."
    [520]
-    1 string data = "Správně."
+    1 string data = "Pravda."
    [521]
     1 string data = "<color=bad>Přiživovačka žalu</color> není tak mocná, ty víš, že ji zdoláme."
    [522]
@@ -1061,7 +1061,7 @@
    [523]
     1 string data = "Akolyté by mohli blafovat."
    [524]
-    1 string data = "Ne pokud ví o matriarše. Navíc to vysvětluje, proč byl Mučivý vrch zapečetěn."
+    1 string data = "Ne, pokud ví o gorilí matce. Navíc to vysvětluje, proč byl Mučivý vrch zapečetěn."
    [525]
     1 string data = "..."
    [526]

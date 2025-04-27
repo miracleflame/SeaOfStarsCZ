@@ -75,7 +75,7 @@
    [30]
     1 string data = "Fantomové dýky"
    [31]
-    1 string data = "Ostré čepele vyluzující nepatrný děsivý zvuk."
+    1 string data = "Ostré čepele vyluzující nepatrný, děsivý zvuk."
    [32]
     1 string data = "Seschlá zátka"
    [33]
@@ -239,7 +239,7 @@
    [112]
     1 string data = "Dubová zbroj"
    [113]
-    1 string data = "Vytvrzelé řemeslníky z dávných dob."
+    1 string data = "Vytvrzené řemeslníky z dávných dob."
    [114]
     1 string data = "Listový plášť"
    [115]

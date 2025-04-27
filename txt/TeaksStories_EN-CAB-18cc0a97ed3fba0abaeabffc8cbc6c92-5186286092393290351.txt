@@ -293,15 +293,15 @@
    [139]
     1 string data = "Když Aephorul poprvé dorazil na náš svět, přivedl s sebou skupinu geniálních dětí."
    [140]
-    1 string data = "Pokud se dá věřit pověstem, Caël a jeho přátelé s ním uzavřeli dohodu o osvobození svého lidu."
+    1 string data = "Dá-li se věřit zvěstem, Caël a jeho přátelé s ním uzavřeli dohodu o osvobození svého lidu."
    [141]
-    1 string data = "V nové základně Karnimanta se měli dřít a vyrábět stroje pro nejasná použití na neznámých světech."
+    1 string data = "V nové Karnimantově základně se měli dřít a vyrábět stroje pro nejasná použití na neznámých světech."
    [142]
     1 string data = "Takovou základnu však bylo třeba teprve vybudovat, a tak se Aephorul jako vždy vydal hledat nejlepšího spolupracovníka, jaký se dal najít."
    [143]
-    1 string data = "Potřeboval někoho morálně neutrálního - neboť mu šlo o provedení, ne o soutěž."
+    1 string data = "Potřeboval někoho morálně neutrálního - neboť mu šlo o provedení, ne o konkurenci."
    [144]
-    1 string data = "Kdyby postavil hrad, který by uvnitř ovládal čas, dokázal by Resh'anovi tímto novým doupětem, že je nadřazený."
+    1 string data = "Kdyby postavil hrad, který by uvnitř sebe ovládal čas, dokázal by Resh'anovi tímto novým doupětem, že je nadřazený."
    [145]
     1 string data = "Hodinářka se mu na to dokonale hodila. Zajímalo ji pouze její řemeslo a jinak se o Aephorulovy machinace nezajímala."
    [146]
@@ -317,13 +317,13 @@
    [151]
     1 string data = "Jedné noci přehodili právě ta správná ozubená kolečka, takže jakmile by se dal hrad do věčného pohybu, jeho klíčová funkce by se zvrtla."
    [152]
-    1 string data = "Nešlo jim o nic jiného než zmařit plány Karnimanta, a v tomto ohledu se jim to podařilo na výbornou."
+    1 string data = "Nešlo jim o nic jiného než zmařit Karnimantovy plány, a v tomto ohledu se jim to podařilo na výbornou."
    [153]
     1 string data = "Ze sabotáže vzešlo zastavení času v Mechanickém hradu, respektive v jeho obyvatelích."
    [154]
-    1 string data = "A svůj trik zahráli tak dobře, že Aephorul v tom ani nepoznal jejich úmysl."
+    1 string data = "A svůj trik zahráli tak dobře, že v tom Aephorul ani nepoznal jejich úmysl."
    [155]
-    1 string data = "Na Resh'ana by tentokrát žádný dojem neudělal, ale rozhodně viděl i pozitiva dílny, která byla ve věčném provozu."
+    1 string data = "Na Resh'ana tentokrát žádný dojem neudělal, ale rozhodně viděl i pozitiva dílny, která byla ve věčném provozu."
    [156]
     1 string data = "Na závěr zajistil, aby každý smrtelník, jenž by hrad opustil, okamžitě zestárnul podle doby, kterou v něm strávil."
    [157]
@@ -335,7 +335,7 @@
    [160]
     1 string data = "Hrdí na to, že udělali správnou věc, se zdají být se svou situací smířeni. Možná jim svým způsobem pomáhá, že navždy zůstanou dětmi."
    [161]
-    1 string data = "Od prvního dne vždycky plnili očekávání, a přitom přimísili přesnou míru vad, aby Karnimantovi způsobili nesčetné bolesti hlavy, aniž by vzbudili podezření."
+    1 string data = "Od prvního dne vždycky plnili očekávání, a přitom přimísili přesnou míru vad, aby Karnimantovi způsobili nesčetné starosti, aniž by vzbudili podezření."
    [162]
     1 string data = "Člověk může cítit jen vděčnost, když pomýšlí na utrpení, které bylo oddáleno, nebo dokonce odvráceno díky jejich mazané hře plýtvání Aephorulovým časem."
    [163]
@@ -359,15 +359,15 @@
    [172]
     1 string data = "V této nové éře přežívají vzpomínky na jejich kočovné dny v tradičních pověstech, které vypravují o skutcích velkých objevitelů a mocných válečníků."
    [173]
-    1 string data = "Zdaleka nejoblíbenější je Bitva u osudového guyotu - příběh s tolika verzemi, že dost možná jde jen o mýtus."
+    1 string data = "Zdaleka nejoblíbenější je bitva u Osudového guyotu - příběh s tolika verzemi, že dost možná jde jen o mýtus."
    [174]
     1 string data = "Historikové podle svých nejlepších dovedností dávají dohromady indicie z různých převyprávění bitvy, někteří dokonce tomuto tématu zasvětili svůj život."
    [175]
     1 string data = "Obecně se přijímá jako fakt, že Dokarriové málem vyhynuli, když překračovali území obrovského mořského slimáka."
    [176]
-    1 string data = "Co se pak odehrálo, je předmětem mnoha diskusí, které závisí na výkladech klíčových pasáží a věrohodnosti vybraných pramenů."
+    1 string data = "Co se odehrálo pak, je předmětem mnoha diskuzí, které závisí na výkladech klíčových pasáží a věrohodnosti vybraných pramenů."
    [177]
-    1 string data = "Někteří tvrdí, že k Bitvě u osudového guyotu nikdy nedošlo, a odmítají ji jako výmysl, který měl odstrašit případné drancovníky starobylého dokarrijského pokladu."
+    1 string data = "Někteří tvrdí, že k bitvě u Osudového guyotu nikdy nedošlo, a odmítají ji jako výmysl, který měl odstrašit případné drancovníky starobylého dokarrijského pokladu."
    [178]
     1 string data = "Tato teorie je však většinou považována za přitaženou za vlasy, vzhledem k tomu, že neschopnost takových lupičů dýchat pod vodou by už tak byla dostatečně odstrašující."
    [179]
@@ -377,7 +377,7 @@
    [181]
     1 string data = "Podle této verze popisu událostí kočovníci netvora uvěznili, když si uvědomili, že ho nedokážou porazit."
    [182]
-    1 string data = "Klíč byl poté rozdělen na tři stejné části, z nichž každá čeká někde v modrých hlubinách na budoucí hrdiny, kteří budou dostatečně odvážní, aby svět zbavili této hrozby."
+    1 string data = "Klíč byl poté rozdělen na tři stejné části, z nichž každá čeká někde v modrých hlubinách na budoucí hrdiny, kteří budou dostatečně odvážní, aby svět této hrozby zbavili."
    [183]
     1 string data = "Konec příběhu."
    [184]
@@ -433,7 +433,7 @@
    [209]
     1 string data = "Započaly slavnosti a byli svoláni větrní mágové, aby vytvořili vlny dost silné k zaplavení východní části ostrova."
    [210]
-    1 string data = "Požár tak byl konečně uhašen, ale kvůli tomu se tyto oblasti proměnily v dnes už proslavené bažiny."
+    1 string data = "Požár tak byl konečně uhašen, ale kvůli tomu se tyto oblasti proměnily v dnes už proslavený močál."
    [211]
     1 string data = "Všichni tuto změnu uvítali, neboť šla ruku v ruce s jejich vítězstvím."
    [212]

@@ -51,7 +51,7 @@
    [18]
     1 string data = "Ve věži sice prokázali statečné úsilí, ale jak to osud k jejich smůle chtěl, když k těmto událostem došlo poprvé, tajemné dveře zůstaly <color=bad>pevně zavřené</color>."
    [19]
-    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na ostrov Mesa včas a Přiživovač Sváru se proměnil v Požírače světů."
+    1 string data = "Navzdory veškeré snaze, kterou tváří v tvář tomuto neúspěchu vynaložili, se našim hrdinům nepodařilo dostat na ostrov Mesa včas a Přiživovač sváru se proměnil v Požírače světů."
    [20]
     1 string data = "Bojovali statečně, ale nakonec přišli o život i o svůj svět. "
    [21]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "Počkat, takže to VY jste ten nesmrtelný alchymista?"
    [35]
-    1 string data = "Asi tomu tak bude."
+    1 string data = "Asi už tomu tak bude."
    [36]
     1 string data = "Neskutečné!"
    [37]
@@ -235,9 +235,9 @@
    [110]
     1 string data = "..."
    [111]
-    1 string data = "A prý že nám nemůžete pomáhat přímo."
+    1 string data = "A prý, že nám nemůžete pomáhat přímo."
    [112]
-    1 string data = "Jde jen o malé postrčení. To určitě může zůstat mezi námi."
+    1 string data = "Jde jen o malé postrčení. To jistě může zůstat mezi námi."
    [113]
     1 string data = "Díky, Resh'ane!"
    [114]

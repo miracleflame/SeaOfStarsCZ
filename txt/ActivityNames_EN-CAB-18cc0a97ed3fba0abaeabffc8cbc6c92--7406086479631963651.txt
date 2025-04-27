@@ -67,7 +67,7 @@
    [26]
     1 string data = "Spící obr"
    [27]
-    1 string data = "Kopce záměru"
+    1 string data = "Kopce odhodlání"
    [28]
     1 string data = "Babizna z bažin"
    [29]

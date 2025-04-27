@@ -15,7 +15,7 @@
    [0]
     1 string data = "Ať už se vám to podařilo jakkoliv, jste pěkně hloupí, že se tu ukazujete."
    [1]
-    1 string data = "Hloupí, a ještě k tomu nemáte kam utéct!"
+    1 string data = "Hloupí, a ještě k tomu bez šance na útěk!"
    [2]
     1 string data = "Vaši kolegové si už na drsňáky hrát zkoušeli, nepodali vám snad hlášení?"
    [3]

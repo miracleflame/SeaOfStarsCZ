@@ -237,7 +237,7 @@
    [111]
     1 string data = "Odliv"
    [112]
-    1 string data = "Odstraní náhodný zámek na cíli. +1 zámek za načasování."
+    1 string data = "Odstraní náhodný zámek na cíli. Také odhalí 1 skrytý zámek (+1 za každé posílení)."
    [113]
     1 string data = "Baňka jedu (BM +3)"
    [114]
@@ -245,7 +245,7 @@
    [115]
     1 string data = "Uklidňující mlha vyléčí družinu."
    [116]
-    1 string data = "Pohov"
+    1 string data = "Suspenze"
    [117]
     1 string data = "Uděluje arkánové poškození a zároveň přitahuje nepřátele k sobě."
    [118]
@@ -307,7 +307,7 @@
    [146]
     1 string data = "Slunarang"
    [147]
-    1 string data = "Mesíčný a slunečný magický projektil, který se může odrazit na více cílů."
+    1 string data = "Měsíční a sluneční magický projektil, který se může odrazit na více cílů."
    [148]
     1 string data = "Stiskněte <button="Interact">, jakmile projektil zasáhne <color=moon>Valerii</color>, aby pokračoval."
    [149]
@@ -399,7 +399,7 @@
    [192]
     1 string data = "Padéšť ohně"
    [193]
-    1 string data = "Necromancie"
+    1 string data = "Nekromancie"
    [194]
     1 string data = "Dezorientace"
    [195]
@@ -467,7 +467,7 @@
    [226]
     1 string data = "Kladkotoč"
    [227]
-    1 string data = "Kornaut"
+    1 string data = "Kaštanáda"
    [228]
     1 string data = "Zalistění"
    [229]
@@ -483,7 +483,7 @@
    [234]
     1 string data = "Kamínkový oblouk"
    [235]
-    1 string data = "Tremor"
+    1 string data = "Zemětřesení"
    [236]
     1 string data = "Hexa štít"
    [237]
@@ -607,6 +607,6 @@
    [296]
     1 string data = "Sonická bolest"
    [297]
-    1 string data = "Bříchopád"
+    1 string data = "Břichopád"
    [298]
     1 string data = "Síla"

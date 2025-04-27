@@ -23,4 +23,4 @@
    [4]
     1 string data = "Přijměte, prosím,..."
    [5]
-    1 string data = "Někteří lidé říkají, že je to špatné místo pro obchod, ale vsadím se, že ostatní půjdou v mých stopách!"
+    1 string data = "Někteří lidé tvrdí, že zřídit si obchod zrovna tady nemá smysl, ale vsadím se, že ostatní půjdou v mých stopách!"
