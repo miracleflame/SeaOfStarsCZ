@@ -1075,7 +1075,7 @@
    [530]
     1 string data = "Co když odmítnou?"
    [531]
-    1 string data = "Akolyté nás potřebují kvůli <color=bad>Krvavému měsíci</color>. Nebudou mít jinou možnost než přijmout."
+    1 string data = "Akolyté nás potřebují kvůli <color=bad>Krvavému Měsíci</color>. Nebudou mít jinou možnost než přijmout."
    [532]
     1 string data = "Ne oni, myslím..."
    [533]

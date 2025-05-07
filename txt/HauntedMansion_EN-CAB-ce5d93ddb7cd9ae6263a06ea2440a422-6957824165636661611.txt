@@ -177,7 +177,7 @@
    [81]
     1 string data = "Přistoupili jsme na jejich dohodu. Vyvolání Krvavého Měsíce výměnou za naši svobodu."
    [82]
-    1 string data = "Krvavý měsíc... s jádrem Přiživovače!?!"
+    1 string data = "Krvavý Měsíc... s jádrem Přiživovače!?!"
    [83]
     1 string data = "NE!!"
    [84]

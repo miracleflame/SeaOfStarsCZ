@@ -1143,7 +1143,7 @@
    [564]
     1 string data = "Umožňuje nositeli dýchat pod vodou."
    [565]
-    1 string data = "Klíč od zahrady"
+    1 string data = "Zahradní klíč"
    [566]
     1 string data = "Otevře zamčené dveře v Mechanickém hradě."
    [567]

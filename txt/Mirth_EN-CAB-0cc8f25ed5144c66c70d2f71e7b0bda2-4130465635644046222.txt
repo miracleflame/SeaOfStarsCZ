@@ -451,7 +451,7 @@
    [218]
     1 string data = "Zatím jste našli [FISHTYPE_COUNT] ryb. Ať vám přibývají."
    [219]
-    1 string data = "Tohle místo bude tak akorát, jen teď musíme najít nějaké stavební schémata pro Boba!"
+    1 string data = "Tohle místo bude tak akorát, jen teď musíme najít nějaká stavební schémata pro Boba!"
    [220]
     1 string data = "Á, [MAINCHAR]! Musím ti ještě jednou poděkovat za pozvání, abych se postaral o hostinec Veselí. Dohlédnu na to, aby se z něj stal pozoruhodný podnik."
    [221]
@@ -463,7 +463,7 @@
    [224]
     1 string data = "Dobře se vyspěte!"
    [225]
-    1 string data = "Můj bratr mi poslal vaši nabídku. Děkuji, nemohu se dočkat, až začnu obsluhovat... Měli by jste pro Boba stavební schémata?"
+    1 string data = "Můj bratr mi poslal vaši nabídku. Děkuji, nemohu se dočkat, až začnu obsluhovat... Měli byste pro Boba stavební schémata?"
    [226]
     1 string data = "Hledá se hostinský."
    [227]
@@ -487,7 +487,7 @@
    [236]
     1 string data = "To jste věděli? Moraine je starý Bojovník Slunovratu a byl to také mistr nebo tak něco!"
    [237]
-    1 string data = "Ja! Ja! Berte!"
+    1 string data = "Ja! Ja! Tumáš!"
    [238]
     1 string data = "Chybí mi Garl ..."
    [239]
@@ -529,7 +529,7 @@
    [257]
     1 string data = "Nevím, co si mám myslet o Garlově smrti. Já... Já prostě..."
    [258]
-    1 string data = "Jsem tak šťastný, že jsem se sem přestěhoval. Jakmile jsem ucítil tu vůni borovic, věděl jsem, že to bylo správné rozhodnutí!"
+    1 string data = "Jsem tak šťastná, že jsem se sem přestěhovala. Jakmile jsem ucítila tu vůni borovic, věděla jsem, že to bylo správné rozhodnutí!"
    [259]
     1 string data = "Tohle místo je tak klidné..."
    [260]
@@ -557,11 +557,11 @@
    [271]
     1 string data = "Ach, [MAINCHAR] a [OFFCHAR]! Možná byste mi mohli pomoci? Mám pocit, že by Veselí prospělo více služeb, ale ocitl jsem se ve slepé uličce."
    [272]
-    1 string data = "Víte, stavět malé domky je dost snadné, ale pro složitější stavby bychom potřebovali nějaké <color=magic>schémata</color>."
+    1 string data = "Víte, stavět malé domky je dost snadné, ale pro složitější stavby bychom potřebovali nějaká <color=magic>schémata</color>."
    [273]
     1 string data = "Pokud nějaké najdete, nevadilo by vám přinést mi je? Veselí by to jen prospělo!"
    [274]
-    1 string data = "Našli jste nějaké nové <color=magic>stavební schémata</color>?"
+    1 string data = "Našli jste nějaká nová <color=magic>stavební schémata</color>?"
    [275]
     1 string data = "Zajímavé! Pojďme se pustit do práce!"
    [276]

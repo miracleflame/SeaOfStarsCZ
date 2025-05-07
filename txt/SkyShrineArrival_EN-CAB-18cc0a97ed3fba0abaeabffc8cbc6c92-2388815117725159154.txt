@@ -21,6 +21,6 @@
    [3]
     1 string data = "Tohle je zaručeně to místo. Stačí jít po cestě!"
    [4]
-    1 string data = "Nebeská země vzdušných živlů je na severozápadě. Měli bychom si pospíšit a sehnat Zephyra pro Garla."
+    1 string data = "Nebeská země vzdušného živlu je na severozápadě. Měli bychom si pospíšit a sehnat Zephyra pro Garla."
    [5]
     1 string data = "Jasně..."

@@ -19,7 +19,7 @@
    [2]
     1 string data = "Tímto způsobem se dostaneme k těm, kteří nám umožní přístup k Moři hvězd."
    [3]
-    1 string data = "Je to daleko mimo náš dosah..."
+    1 string data = "Je mimo náš dosah..."
    [4]
     1 string data = "Bylo v tvé vizi něco o tom, jak se k ní dostat?"
    [5]
@@ -35,7 +35,7 @@
    [10]
     1 string data = "To bylo něco, Valerie!"
    [11]
-    1 string data = "Docela působivé. Jak jsi to věděla?"
+    1 string data = "Docela působivé. Jak tě tohle napadlo?"
    [12]
     1 string data = "Věštec přílivů a odlivů... říkal, že mohu "napravit spojení.""
    [13]

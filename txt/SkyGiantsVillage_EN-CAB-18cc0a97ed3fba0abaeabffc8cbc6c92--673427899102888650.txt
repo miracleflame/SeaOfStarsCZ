@@ -15,7 +15,7 @@
    [0]
     1 string data = "Panejo..."
    [1]
-    1 string data = "Koho by to napadlo, co?"
+    1 string data = "Kdo by si něco takového dokázal představit, co?"
    [2]
     1 string data = "Víš, co tady hledáš?"
    [3]
@@ -35,7 +35,7 @@
    [10]
     1 string data = "*ehm*"
    [11]
-    1 string data = "JÁ JSEM TEN, KTERÝ ŽÁDÁ AUDIENCI!"
+    1 string data = "JÁ JSEM TEN, KTERÝ SI ŽÁDÁ AUDIENCI!"
    [12]
     1 string data = "Slyšíme tě bez problému. Není třeba křičet."
    [13]
@@ -149,7 +149,7 @@
    [67]
     1 string data = "To je nemalý úděl. Jaký máš plán?"
    [68]
-    1 string data = "Ty runové znaky ve Vřesovištích. Nejdřív jsem si nebyl jistý, ale teď už vím, co znamenají."
+    1 string data = "Ty runové znaky ve Vřesovišti. Nejdřív jsem si nebyl jistý, ale teď už vím, co znamenají."
    [69]
     1 string data = "Už nejsou žádní <color=good>Ovati</color>. Jak tedy?"
    [70]
@@ -183,7 +183,7 @@
    [84]
     1 string data = "Sopka bude <color=magic>přetvořena</color> pomocí magie, takže její vrchol mohu použít jako obří pec k upečení svého výtvoru."
    [85]
-    1 string data = "A hádám, že ty 'znáš právě onoho mága'?"
+    1 string data = "A hádám, že ty 'znáš toho pravého mága'?"
    [86]
     1 string data = "Jistěže ano! A ta sopka bude mít konečně jméno: <color=location>Hora Pec</color>!"
    [87]
@@ -285,7 +285,7 @@
    [135]
     1 string data = "Jakmile budeš mít šupinu, prostě ji vezmi k Teaks do Veselí. Vesničané se sejdou, aby vypěstovali a sklidili úrodu."
    [136]
-    1 string data = "Naložíte jí co nejvíc na Večernici a pak se sejdeme u sopky. Do té doby už to asi bude Hora Pec."
+    1 string data = "Naložíte jí co nejvíc na Večernici a pak se sejdeme u sopky. Do té doby už to asi bude hora Pec."
    [137]
     1 string data = "Rozumím."
    [138]
@@ -309,7 +309,7 @@
    [147]
     1 string data = "!!"
    [148]
-    1 string data = "Tenhle chlapík je vážně dobrý!"
+    1 string data = "Tenhle chlapík je fakt skvělej!"
    [149]
     1 string data = "Dobře, Valerie, teď řekni "Khukharr"."
    [150]
@@ -319,13 +319,13 @@
    [152]
     1 string data = "Docela hustý, co?"
    [153]
-    1 string data = "Dobrá, Zale, uvidíme se na Hoře Pec, až všechno vyřídíme."
+    1 string data = "Dobrá, Zale, uvidíme se na hoře Pec, až všechno vyřídíme."
    [154]
     1 string data = "Opatruj se, Garle."
    [155]
     1 string data = "To si piš."
    [156]
-    1 string data = "*kašel, kašel*"
+    1 string data = "*kašel*"
    [157]
     1 string data = "Jsem v pořádku, neboj."
    [158]
@@ -469,7 +469,7 @@
    [227]
     1 string data = "Maličcí! Jdete se setkat s radou?"
    [228]
-    1 string data = "Pokud ano, přeji vám hodně štěstí. Dokážou být VELMI nároční."
+    1 string data = "Pokud ano, přeji vám hodně štěstí. Dokáže být VELMI náročná."
    [229]
     1 string data = "Byla na vás rada přísná?"
    [230]

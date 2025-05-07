@@ -95,13 +95,13 @@
    [40]
     1 string data = "Puntie"
    [41]
-    1 string data = "Potřebujete trochu nakopnout?"
+    1 string data = "Potřebujete někam hodit?"
    [42]
     1 string data = "Y'eet"
    [43]
     1 string data = "X'tol"
    [44]
-    1 string data = "Potřebujete trochu nakopnout?"
+    1 string data = "Potřebujete někam hodit?"
    [45]
     1 string data = "Y'eet"
    [46]

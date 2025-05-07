@@ -59,7 +59,7 @@
    [22]
     1 string data = "Jdeme, Brugavesi."
    [23]
-    1 string data = "Ano! To stačí."
+    1 string data = "Ano! Mám to."
    [24]
     1 string data = "To budou čučet, nemůžu se dočkat, haha!"
    [25]
@@ -73,7 +73,7 @@
    [29]
     1 string data = "Doufám, že ti nevadí, že se ptám, ale..."
    [30]
-    1 string data = "Ty jsi člověk?"
+    1 string data = "Jsi ty vůbec člověk?"
    [31]
     1 string data = "Víc vrásek než takové běžné dítě, že?"
    [32]
@@ -107,7 +107,7 @@
    [46]
     1 string data = "A co je ta druhá možnost?"
    [47]
-    1 string data = "Na to se zeptejte tady asasínky."
+    1 string data = "Na to se zeptejte tady vaší asasínky."
    [48]
     1 string data = "!!"
    [49]
@@ -369,7 +369,7 @@
    [177]
     1 string data = "Platí tu jistá pravidla. Já nemohu bojovat s Přiživovači."
    [178]
-    1 string data = "Hej, to není fér! Nikdy jsme k vám nebyli nepříjemní!"
+    1 string data = "Hej, to není fér! Nikdy jsme se k vám nechovali nečestně!"
    [179]
     1 string data = "Souhlasili jste s mými podmínkami."
    [180]
@@ -387,7 +387,7 @@
    [186]
     1 string data = "Náš pán se konečně vrátil!"
    [187]
-    1 string data = "Náš pán a ještě k tomu i mistr!"
+    1 string data = "Náš pán, a ještě k tomu i mistr!"
    [188]
     1 string data = "Myslel jsem si, že jsme se na něčem dohodli."
    [189]
@@ -491,7 +491,7 @@
    [238]
     1 string data = "Ano. A už nikdy nechci bojovat proti Bojovníkům Slunovratu."
    [239]
-    1 string data = "Tak se ujistěme, že nebudeš potřeba velmi dlouho. Teď jdi, následuj Přiživovače a Akolyty."
+    1 string data = "Tak se ujistěme, že velmi dlouho nebudeš potřeba. Teď jdi, následuj Přiživovače a Akolyty."
    [240]
     1 string data = "Valerie, ještě není pozdě k-"
    [241]
@@ -525,7 +525,7 @@
    [255]
     1 string data = "Čarodějko, zdá se, že mé současné sídlo se v nejbližší době stane terčem útoku."
    [256]
-    1 string data = "Pomož mi jej ubránit, a až z toho světa odejdu, budeš jeho vládkyní ty."
+    1 string data = "Pomoz mi jej ubránit, a až z toho světa odejdu, staneš se jeho vládkyní ty."
    [257]
     1 string data = "Vyhovují ti tyto podmínky?"
    [258]
@@ -559,7 +559,7 @@
    [272]
     1 string data = "??"
    [273]
-    1 string data = "Měl jsem za to, že jsme ustanovili nemožnost zastavit čas..."
+    1 string data = "Měl jsem za to, že jsme ustanovili nemožnost zastavení času..."
    [274]
     1 string data = "Jak si to udělal, Resh'ane?"
    [275]
@@ -577,7 +577,7 @@
    [281]
     1 string data = "Vždycky jsi byl z nás dvou ten lepší umělec."
    [282]
-    1 string data = "Chtěl jsem se zeptat, jestli si jeden můžu nechat, ale ony se rozplynou, až smyčku zrušíš, že?"
+    1 string data = "Chtěl jsem tě požádat, jestli bych si jeden nemohl nechat, ale ony se rozplynou, až smyčku zrušíš, že?"
    [283]
     1 string data = "Tak jak se máš?"
    [284]
@@ -599,11 +599,11 @@
    [292]
     1 string data = "To teprve uvidíme."
    [293]
-    1 string data = "Myslíš si, že po mně půjdou? To jsem si znovu vysloužil na vyučenou po prstech?"
+    1 string data = "Myslíš si, že po mně půjdou? To jsem si znovu vysloužil na vyučenou přes prsty?"
    [294]
     1 string data = "PODROBIL SIS CELÝ ŽIVOČIŠNÝ DRUH!"
    [295]
-    1 string data = "Ha! Víš stejně dobře jako já, že až spojíš všechny časové linie zpět dohromady, tyhle životy budou stejně ztracené."
+    1 string data = "Ha! Oba moc dobře víme, že až spojíš všechny časové linie zpět dohromady, tyhle životy budou stejně ztracené."
    [296]
     1 string data = "..."
    [297]
@@ -683,7 +683,7 @@
    [334]
     1 string data = "Mlžný stařešina. Musíme okamžitě k němu."
    [335]
-    1 string data = "Cože? To je moc daleko, Garl umírá!"
+    1 string data = "Cože? To je moc daleko, Garl nám tady umírá!"
    [336]
     1 string data = "Copak to nechápeš, Valerie?"
    [337]
@@ -695,7 +695,7 @@
    [340]
     1 string data = "Takže ty jsi nakonec opravdu byl jiskrou..."
    [341]
-    1 string data = "Jen si utíkej, dokud můžeš, Karnimante. My si pro tebe dojdeme!"
+    1 string data = "Jen si utíkej, dokud můžeš, Karnimante. My si tě stejně najdeme!"
    [342]
     1 string data = "Budu vás i s čarodějkou očekávat."
    [343]

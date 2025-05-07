@@ -365,7 +365,7 @@
    [175]
     1 string data = "Yomařina hruška byla neskutečná!"
    [176]
-    1 string data = "Nemuselo to být snadné, ale během souboje jste si vedli skvěle."
+    1 string data = "Nemohlo to být snadné, ale během souboje jste si vedli skvěle."
    [177]
     1 string data = "Brzy budeme bojovat s Přiživovačem. Vím, že to zvládnete!"
    [178]
@@ -395,11 +395,11 @@
    [190]
     1 string data = "Pro Garla udělám cokoliv…"
    [191]
-    1 string data = "To, co jste udělali s tím vodním mostem, to bylo opravdu něco."
+    1 string data = "To, cos předvedla s tím vodním mostem, to bylo opravdu něco."
    [192]
-    1 string data = "To podivné zařízení jižně od ostrova Mesa. Zdá se, že je mimo náš dosah, ale možná bychom se měli podívat na ten malý ostrov hned pod ním."
+    1 string data = "To podivné zařízení jižně od ostrova Mesa. Zdá se, že je mimo náš dosah, ale možná bychom se měli podívat na ten ostrůvek hned vedle něj."
    [193]
-    1 string data = "To místo by mělo být někde nahoře, až použijeme svatyni, do které nám Valerie dala přístup."
+    1 string data = "Do toho místa nahoře se dostaneme, až použijeme svatyni, ke které nám Valerie umožnila přístup."
    [194]
     1 string data = "Mám nápad, ale bude to chtít trochu přesvědčování."
    [195]
