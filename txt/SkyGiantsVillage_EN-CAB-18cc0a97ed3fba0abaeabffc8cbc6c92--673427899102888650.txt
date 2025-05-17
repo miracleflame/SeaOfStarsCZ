@@ -167,7 +167,7 @@
    [76]
     1 string data = "Mořské příšery vyhynuly."
    [77]
-    1 string data = "Magická rosa se nezmanifestuje bez očarované šupiny."
+    1 string data = "Magická rosa se nezhmotní bez očarované šupiny."
    [78]
     1 string data = "Nebojte se, vím přesně, kde ji hledat!"
    [79]

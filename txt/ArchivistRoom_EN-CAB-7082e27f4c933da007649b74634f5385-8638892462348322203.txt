@@ -45,7 +45,7 @@
    [15]
     1 string data = "Náš příběh začíná ve světě, který před několika generacemi Karnimant navštívil, způsobil tam obrovský chaos a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [16]
-    1 string data = "Kdesi na <color=location>Ostrově věčné mlhy</color> sní dvě statečné <color=good>Děti Slunovratu</color> a jejich nejlepší přitel o životě plném dobrodružství."
+    1 string data = "Kdesi na <color=location>Ostrově věčné mlhy</color> sní dvě statečné <color=good>Děti Slunovratu</color> a jejich nejlepší přítel o životě plném dobrodružství."
    [17]
     1 string data = "Ale přestože je vskutku čeká cesta <color=good>Bojovníků Slunovratu</color>, nebudou moci opustit hnízdo, dokud se nenaučí ovládnout svou vrozenou magii..."
    [18]

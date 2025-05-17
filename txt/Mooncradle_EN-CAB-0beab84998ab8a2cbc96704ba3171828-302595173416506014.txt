@@ -213,7 +213,7 @@
    [99]
     1 string data = "Je to jejich nejcennější vlastnictví, které zaručuje světlo na nejtemnějších místech a určitou ochranu před přisluhovači <color=bad>Karnimanta</color>."
    [100]
-    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi, trénovat, dokud nebudete cítit své končetiny, a pak trénovat ještě víc."
+    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi. Trénovat, dokud nebudete cítit své končetiny, a pak trénovat ještě víc."
    [101]
     1 string data = "Jakmile vaše tělo i mysl dozrají potenciálem, vytvoříte <color=magic>magický kus látky</color> hodný samotných hvězd."
    [102]
@@ -303,7 +303,7 @@
    [144]
     1 string data = "Tak tady jste! Připraveni učit se magii?"
    [145]
-    1 string data = "Měl by to být pocit, jako by jste si škrábali něco, co svrbí hodně daleko."
+    1 string data = "Měl by to být pocit, jako byste si škrábali něco, co svrbí hodně daleko."
    [146]
     1 string data = "Na ten pocit se musíte soustředit a přimět ho, aby se přiblížil."
    [147]
@@ -317,7 +317,7 @@
    [151]
     1 string data = "Snažte se to uvolnit, až když před sebou ucítíte procházet proud."
    [152]
-    1 string data = "Pokud to načasujete správně, zmanifestuje se. Na tři."
+    1 string data = "Pokud to načasujete správně, zhmotní se. Na tři."
    [153]
     1 string data = "Jedna..."
    [154]
@@ -345,7 +345,7 @@
    [165]
     1 string data = "Honem!"
    [166]
-    1 string data = "...a "utkat magický kus látky hodný samotných hvězd" je zajistě obtížný úkol."
+    1 string data = "...a "utkat magický kus látky hodný samotných hvězd" je zajisté obtížný úkol."
    [167]
     1 string data = "Jo, nemám ponětí, jakej tvar mám vůbec udělat... né že by se nám to mělo povést hned napoprvé."
    [168]
@@ -437,7 +437,7 @@
    [211]
     1 string data = "[OFFCHAR]... co je...?"
    [212]
-    1 string data = "Myslím, že u vstupu bylo slyšet hlas."
+    1 string data = "Myslím, že u vstupu byl slyšet hlas."
    [213]
     1 string data = "Kolik je hodin?"
    [214]
@@ -489,7 +489,7 @@
    [237]
     1 string data = "Alespoň je, zdá se, v pořádku. Po tom, co se stalo v Zakázané jeskyni..."
    [238]
-    1 string data = "Jak ho znám, vsadím se, že už na další den se smál."
+    1 string data = "Jak ho znám, vsadím se, že už další den se smál."
    [239]
     1 string data = "Haha, asi máš pravdu!"
    [240]
@@ -801,7 +801,7 @@
    [393]
     1 string data = "[MAINCHAR] a [OFFCHAR]!"
    [394]
-    1 string data = "Předstupte, aby dobrý lid Měsíční Kolébky mohl pohlédnout na ty, již brzy vstoupí do řad Bojovníků Slunovratu!"
+    1 string data = "Předstupte, aby dobrý lid Měsíční Kolébky mohl pohlédnout na ty, jež brzy vstoupí do řad Bojovníků Slunovratu!"
    [395]
     1 string data = "(Tohle předvádění je směšné.)"
    [396]

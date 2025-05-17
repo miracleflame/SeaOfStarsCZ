@@ -139,7 +139,7 @@
    [62]
     1 string data = "Vzduch je tu TAK DOBRÝ!"
    [63]
-    1 string data = "Bojovat se zlým čarodějem naprosto bylo na mém seznamu, než umřu!"
+    1 string data = "Bojovat se zlým čarodějem tutově bylo na mém seznamu, než umřu!"
    [64]
     1 string data = "Malkomud ucpává větrné tunely dolu. Musíme něco udělat, než se Spáč probudí!"
    [65]

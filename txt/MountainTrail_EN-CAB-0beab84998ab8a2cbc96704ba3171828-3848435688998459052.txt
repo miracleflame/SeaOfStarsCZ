@@ -353,7 +353,7 @@
    [169]
     1 string data = "!!"
    [170]
-    1 string data = "Jste připraveni. Živá mana se pro vás začne manifestovat, až příště vstoupíte do bitvy. Jste připraveni na závěrečnou zkoušku?"
+    1 string data = "Jste připraveni. Živá mana se pro vás začne zhmotňovat, až příště vstoupíte do bitvy. Jste připraveni na závěrečnou zkoušku?"
    [171]
     1 string data = "Mlžný stařešino, rád bych šel s nimi."
    [172]

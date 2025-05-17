@@ -19,7 +19,7 @@
    [2]
     1 string data = "A co vás přivádí do mého nádherného sídla?"
    [3]
-    1 string data = "Přiživovačka zaklela našeho přitele. Hledáme kámen duší."
+    1 string data = "Přiživovačka zaklela našeho přítele. Hledáme kámen duší."
    [4]
     1 string data = "Vážně?"
    [5]

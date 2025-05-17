@@ -147,7 +147,7 @@
    [66]
     1 string data = "Jistěže, ale jak tě najdeme, když pořád cestuješ?"
    [67]
-    1 string data = "Nechte to na mě, já se vždycky stavím u vašeho ohniště, když budete někde tábořit."
+    1 string data = "Nechte to na mne, já se vždycky stavím u vašeho ohniště, když budete někde tábořit."
    [68]
     1 string data = "Navíc to je dokonalá příležitost k vyprávění příběhů!"
    [69]

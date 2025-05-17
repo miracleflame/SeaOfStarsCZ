@@ -363,7 +363,7 @@
    [174]
     1 string data = "Abakus"
    [175]
-    1 string data = "Zobrazuje BŽ nepřátel v soboji krom bossů."
+    1 string data = "Zobrazuje BŽ nepřátel v souboji krom bossů."
    [176]
     1 string data = "Silový opasek"
    [177]
@@ -807,7 +807,7 @@
    [396]
     1 string data = "Také nasytí mysl."
    [397]
-    1 string data = "Papillote"
+    1 string data = "Papilota"
    [398]
     1 string data = "Skvělý pokrm pro začátečníky v táborákovém vaření."
    [399]
@@ -1505,9 +1505,9 @@
    [745]
     1 string data = "Učí, jak připravit Pain Doré."
    [746]
-    1 string data = "Recept: Papillote"
+    1 string data = "Recept: Papilota"
    [747]
-    1 string data = "Učí, jak připravit Papillote."
+    1 string data = "Učí, jak připravit Papilotu."
    [748]
     1 string data = "Recept: Poutine"
    [749]
@@ -1643,7 +1643,7 @@
    [814]
     1 string data = "Plně uzdravuje družinu při zvyšování úrovně."
    [815]
-    1 string data = "Přináší větší energii do kroku, družině se při zvyšování úrovně plně zotavují BŽ i BM."
+    1 string data = "Přináší větší energii do kroku a družině se při zvyšování úrovně plně obnoví BŽ i BM."
    [816]
     1 string data = "Znamenitá lupa"
    [817]
