@@ -212,25 +212,25 @@
     1 string data = "S odvahou čelte Přiživovači muk a ten amulet bude rezonovat."
    [99]
     1 string data = "Schopnost vyvolat zatmění..."
-   [10 ]
+   [100]
     1 string data = "Dobře, tohle zvládneme."
-   [11 ]
+   [101]
     1 string data = "Mučivý vrch postihuje mysl prohnaným způsobem, ale vy si proti tomu zasloužíte dostat šanci. Tady máte."
-   [12 ]
+   [102]
     1 string data = "Do toho, pijte."
-   [13 ]
+   [103]
     1 string data = "Co je to?"
-   [14 ]
+   [104]
     1 string data = "Jedna dávka lektvaru Ukotvené mysli pro každého z vás."
-   [15 ]
+   [105]
     1 string data = "No tak, až do dna."
-   [16 ]
+   [106]
     1 string data = "Cítím se pořád stejně."
-   [17 ]
+   [107]
     1 string data = "A díky tomuto lektvaru budeš moci po návratu z toho hrozivého místa pronést totéž."
-   [18 ]
+   [108]
     1 string data = "..."
-   [19 ]
+   [109]
     1 string data = "A prý, že nám nemůžete pomáhat přímo."
    [110]
     1 string data = "Jde jen o malé postrčení. To jistě může zůstat mezi námi."
