@@ -1,0 +1,56 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Characters_Totw_EN"
+ 1 string locCategoryId = "Characters_Totw"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (21 items)
+   0 int size = 21
+   [0]
+    1 string data = "Pif"
+   [1]
+    1 string data = "Pouf"
+   [2]
+    1 string data = "<color=#528fce>Pif</color><color=#7880a0> & </color><color=#ff5c5b>Pouf</color>"
+   [3]
+    1 string data = "<color=#7DDBFF>Valere</color><color=#637181> & </color><color=#FCA044>Zale</color>"
+   [4]
+    1 string data = "Fardush"
+   [5]
+    1 string data = "The Puppeteer"
+   [6]
+    1 string data = "Monsieur Tendu"
+   [7]
+    1 string data = "Narcis King"
+   [8]
+    1 string data = "Feral Queen"
+   [9]
+    1 string data = "Juggler"
+   [10]
+    1 string data = "Acrobat"
+   [11]
+    1 string data = "Barma'thazël"
+   [12]
+    1 string data = "Genius Engineer"
+   [13]
+    1 string data = "Hannah"
+   [14]
+    1 string data = "Throes of the Watchmaker"
+   [15]
+    1 string data = "Carnival Clerk"
+   [16]
+    1 string data = "Attendant of Amusements"
+   [17]
+    1 string data = "Kiosk Curator"
+   [18]
+    1 string data = "Junior Deputy of Detention"
+   [19]
+    1 string data = "Gilded Gleamwarden"
+   [20]
+    1 string data = "Herald of High Importance"

@@ -1,0 +1,50 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "LevelNames_Totw_EN"
+ 1 string locCategoryId = "LevelNames_Totw"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (18 items)
+   0 int size = 18
+   [0]
+    1 string data = "Horloge"
+   [1]
+    1 string data = "Town of Horloge"
+   [2]
+    1 string data = "Oubliettes"
+   [3]
+    1 string data = "Wolf Rock"
+   [4]
+    1 string data = "Ivory Towers"
+   [5]
+    1 string data = "Big Top"
+   [6]
+    1 string data = "Goodies Pond"
+   [7]
+    1 string data = "Were-Lake"
+   [8]
+    1 string data = "Clockwork Plains"
+   [9]
+    1 string data = "Rail Forest"
+   [10]
+    1 string data = "Bounty Basin"
+   [11]
+    1 string data = "Horloge Station"
+   [12]
+    1 string data = "Wolf Rock Station"
+   [13]
+    1 string data = "Ivory Towers Station"
+   [14]
+    1 string data = "Lost Island Station"
+   [15]
+    1 string data = "Big Top Station"
+   [16]
+    1 string data = "Lost Island"
+   [17]
+    1 string data = "Ivory Towers Island"

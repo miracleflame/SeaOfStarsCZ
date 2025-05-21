@@ -10,8 +10,8 @@
  1 string locCategoryId = "EvermistIsland/ForbiddenCavern"
  0 int language = 0
  0 vector strings
-  1 Array Array (89 items)
-   0 int size = 89
+  1 Array Array (83 items)
+   0 int size = 83
    [0]
     1 string data = "We made it! Time to stop for a snack."
    [1]
@@ -27,7 +27,7 @@
    [6]
     1 string data = "Wow, that's really good!"
    [7]
-    1 string data = "No kidding!"
+    1 string data = "No kidding."
    [8]
     1 string data = "Glad you like it."
    [9]
@@ -37,156 +37,144 @@
    [11]
     1 string data = "Only if you tell."
    [12]
-    1 string data = "Hahaha!"
-   [13]
     1 string data = "Alright, how do I do this?"
-   [14]
+   [13]
     1 string data = "Maybe like Erlina showed me?"
-   [15]
+   [14]
     1 string data = "Try opening your palm and concentrating."
-   [16]
+   [15]
     1 string data = "You got this, Valere!"
-   [17]
+   [16]
     1 string data = "I KNEW IT!!!"
-   [18]
-    1 string data = "IT WORKED!?"
-   [19]
-    1 string data = "..."
-   [20]
+   [17]
     1 string data = "I did it..."
-   [21]
+   [18]
     1 string data = "I FINALLY DID IT!!!"
-   [22]
+   [19]
     1 string data = "So... what now?"
-   [23]
+   [20]
     1 string data = "The Headmaster must have heard the bell ring."
-   [24]
-    1 string data = "Do we just wait for him to show up?"
-   [25]
+   [21]
+    1 string data = "Should we just wait for him?"
+   [22]
     1 string data = "Might as well enter, it can be our first adventure!"
-   [26]
+   [23]
     1 string data = "And then the Headmaster will know we're NOT afraid!"
-   [27]
-    1 string data = "This is exciting, let's go!"
-   [28]
+   [24]
+    1 string data = "Let's show him!"
+   [25]
     1 string data = "Come on, [MAINCHAR], I want to see the cavern!"
-   [29]
+   [26]
     1 string data = "Careful, there's monsters over there!"
-   [30]
+   [27]
     1 string data = "I thought Evermist Island was safe."
-   [31]
+   [28]
     1 string data = "Guess that's only true for Mooncradle..."
-   [32]
-    1 string data = "They look dangerous, we should have waited outside."
-   [33]
+   [29]
+    1 string data = "They look dangerous. We should have waited outside."
+   [30]
     1 string data = "You're right. Come on."
-   [34]
+   [31]
     1 string data = "It's blocking our path!"
-   [35]
+   [32]
     1 string data = "We have to fight. In position!"
-   [36]
+   [33]
     1 string data = "We're not ready for this..."
-   [37]
+   [34]
     1 string data = "It's preparing another attack!"
-   [38]
+   [35]
     1 string data = "[MAINCHAR], watch out!"
-   [39]
+   [36]
     1 string data = "AAAAAHHHHHGGGG!"
-   [40]
+   [37]
     1 string data = "NO!!!"
-   [41]
+   [38]
     1 string data = "My eye!!"
-   [42]
+   [39]
     1 string data = "GARL!!!"
-   [43]
+   [40]
     1 string data = "It really hurts..."
-   [44]
+   [41]
     1 string data = "I... I can't see..."
-   [45]
-    1 string data = "..."
-   [46]
+   [42]
     1 string data = "There's no escape..."
-   [47]
+   [43]
     1 string data = "We shouldn't have come here..."
-   [48]
-    1 string data = "Brace!"
-   [49]
+   [44]
     1 string data = "So it was you..."
-   [50]
+   [45]
     1 string data = "As resourceful as you are reckless, I see."
-   [51]
+   [46]
     1 string data = "Headmaster! Garl needs help!"
-   [52]
+   [47]
     1 string data = "It... feels better..."
-   [53]
-    1 string data = "Like anyone born in Mooncradle a regular kid, what Garl needs is to not concern himself with the affairs of the Solstice Warriors!"
-   [54]
+   [48]
+    1 string data = "What Garl needs is to not concern himself with the affairs of the Solstice Warriors!"
+   [49]
     1 string data = "I'm really sorry, Headmaster. It was all my idea..."
-   [55]
+   [50]
     1 string data = "Hey!"
-   [56]
-    1 string data = "..."
-   [57]
+   [51]
     1 string data = "Be thankful that the only cost of this lesson was an eye, young lad."
-   [58]
+   [52]
     1 string data = "As for the two of you, if you are so eager to receive training, I shall oblige."
-   [59]
+   [53]
     1 string data = "Follow me."
-   [60]
+   [54]
     1 string data = "And you always wanted to be like Moyara."
-   [61]
+   [55]
     1 string data = "Over twenty Solstice Warriors died that day, and what, we just move on?"
-   [62]
+   [56]
     1 string data = "I was dumb. I don't want to be a hero anymore."
-   [63]
+   [57]
     1 string data = "I never wanted to be one..."
-   [64]
+   [58]
     1 string data = "And no matter what I do, Moraine always says I'm not fast enough. I just feel awful."
-   [65]
+   [59]
     1 string data = "I know, Brugaves..."
-   [66]
+   [60]
     1 string data = "If there's a way out, I'll find it for us."
-   [67]
+   [61]
     1 string data = "Well, I'm cold..."
-   [68]
+   [62]
     1 string data = "And I'm hungry."
-   [69]
+   [63]
     1 string data = "We're helpless..."
-   [70]
+   [64]
     1 string data = "Alright, let's go back."
-   [71]
+   [65]
     1 string data = "Back to learning magic. Yay."
-   [72]
+   [66]
     1 string data = "Sure feels easier now."
-   [73]
+   [67]
     1 string data = "This time we make it through."
-   [74]
+   [68]
     1 string data = "The device is broken. Can't activate the bridge."
-   [75]
+   [69]
     1 string data = "There's an opening there, maybe we can go around."
-   [76]
+   [70]
     1 string data = "Valere?"
-   [77]
+   [71]
     1 string data = "Sounds big. Get ready!"
-   [78]
+   [72]
     1 string data = "OUR FIRST BIG ONE!"
-   [79]
+   [73]
     1 string data = "Haha! We did it!"
-   [80]
+   [74]
     1 string data = "Looks like there's a way out, over there."
-   [81]
+   [75]
     1 string data = "The Elder Mist's mountain shouldn't be much further now."
-   [82]
+   [76]
     1 string data = "[MAINCHAR], there's a <color=magic>campfire</color> spot here. We should rest a little to heal up while we can."
-   [83]
+   [77]
     1 string data = "It's locked."
-   [84]
+   [78]
     1 string data = "Maybe the key is in the chest just up there?"
-   [85]
+   [79]
     1 string data = "It's out of reach for now. Let's look around."
-   [86]
+   [80]
     1 string data = "Hey, this glowing scroll looks powerful. We should check it out."
-   [87]
+   [81]
     1 string data = "Use the scroll from your inventory to learn the new combo."
-   [88]
+   [82]
     1 string data = "After spending a decade in training, [MAINCHAR] and [OFFCHAR] begin their journey towards the Mountain Trail, where they are to seek out an ancient seer known as the <color=good>Elder Mist</color>..."

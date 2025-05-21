@@ -10,8 +10,8 @@
  1 string locCategoryId = "Codex"
  0 int language = 0
  0 vector strings
-  1 Array Array (94 items)
-   0 int size = 94
+  1 Array Array (96 items)
+   0 int size = 96
    [0]
     1 string data = "General"
    [1]
@@ -200,3 +200,7 @@
     1 string data = "Champions and progression"
    [93]
     1 string data = "The Wheels journey begins with a Bronze Wheel and only the Warrior and Mage as playable Heroes. Rumors say that those who <color=menuhighlight>unlock</color> all <color=menuhighlight>six Heroes</color> and the <color=menuhighlight>Platinum Wheel</color> may challenge The Watchmaker herself!"
+   [94]
+    1 string data = "Warlock"
+   [95]
+    1 string data = "Forbidden Hero. Hurts its team's Crown (-2) to act, then shoots three projectiles at different heights."

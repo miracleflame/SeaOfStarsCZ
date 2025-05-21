@@ -1,0 +1,24 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "FishingLake_2_EN"
+ 1 string locCategoryId = "Totw/FishingLake_2"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (5 items)
+   0 int size = 5
+   [0]
+    1 string data = "Threw my Warlock Figurine in the lake, yes I did! Fishing's way more fun, anyway."
+   [1]
+    1 string data = "I made a special magnet to fish it out, but I'll only share it with a master angler."
+   [2]
+    1 string data = "Still haven't caught all species of Goodie Bags? Come on, there's only four of them!"
+   [3]
+    1 string data = "You did it! Here, as promised."
+   [4]
+    1 string data = "May it bring you joy and luck."

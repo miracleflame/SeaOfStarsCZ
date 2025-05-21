@@ -1,0 +1,148 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "LightFortressDungeon_EN"
+ 1 string locCategoryId = "Totw/LightFortressDungeon"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (67 items)
+   0 int size = 67
+   [0]
+    1 string data = "My King, your impersonator and his group have reached the compound."
+   [1]
+    1 string data = "Mhm... It appears so..."
+   [2]
+    1 string data = "I will prepare to greet them. Now, do make sure they have a chance to take in the magnificence of my towers, hmm?"
+   [3]
+    1 string data = "As you wish, my liege."
+   [4]
+    1 string data = "Looks like a useless pile of junk..."
+   [5]
+    1 string data = "(!!!)"
+   [6]
+    1 string data = "Excuse me, [MAINCHAR]."
+   [7]
+    1 string data = "(Spike, you still got that membrane design?)"
+   [8]
+    1 string data = "(You bet.)"
+   [9]
+    1 string data = "Arty?"
+   [10]
+    1 string data = "I'll just be a moment!"
+   [11]
+    1 string data = "(Then this goes here, and...)"
+   [12]
+    1 string data = "Behold, my new invention!"
+   [13]
+    1 string data = "You got <sprite="dialog-inventory-icons-totw" name="icn-inventory-keyitem-drone"> <color=magic>Mule Drone</color>."
+   [14]
+    1 string data = "Press <button="Interact"> near compatible objects to put them into a ball and deploy them elsewhere."
+   [15]
+    1 string data = "So this is the great Zale, guardian of the sun. "
+   [16]
+    1 string data = "Tell me, do you truly care about the people you protect? Or is being seen as a hero just that endearing to you?"
+   [17]
+    1 string data = "What? No, that's not why I-"
+   [18]
+    1 string data = "Hahahaha! Ah, the many delights of denial."
+   [19]
+    1 string data = "You can pretend all you want, but I know your soul."
+   [20]
+    1 string data = "Perhaps you should take a moment to... contemplate."
+   [21]
+    1 string data = "Look at yourself, so devoted to duty that you've forgotten who you are."
+   [22]
+    1 string data = "Do you even know what you want beyond this tiresome ‘protector’ role? Have you no clue as to how it serves YOU?"
+   [23]
+    1 string data = "Face it, Zale. We're the same. You hide behind your morals, but deep down, you crave the same recognition, the same admiration, which I inspire."
+   [24]
+    1 string data = "You're just a twisted version of me!"
+   [25]
+    1 string data = "I'm nothing like him… Am I?"
+   [26]
+    1 string data = "Don't be ridiculous, Zale. He's an egotistical maniac."
+   [27]
+    1 string data = "..."
+   [28]
+    1 string data = "Hahahaha! It seems you need some more time to... reflect on your true nature..."
+   [29]
+    1 string data = "Organic onlookers and clockwork customers alike, step right up, this is a performance not to be missed!"
+   [30]
+    1 string data = "Tonight, and tonight only, we have a performance that will surely rock your socks clean off!"
+   [31]
+    1 string data = "A daring display of infused insecurity, shaped into sheer bellicose beauty."
+   [32]
+    1 string data = "A stunning symmetry of sin, visible on its very visage!"
+   [33]
+    1 string data = "The one... The only..."
+   [34]
+    1 string data = "NARCIS KING!!!"
+   [35]
+    1 string data = "Ah, at last. Welcome to my throne room, where true power resides, unburdened by childish ideals. "
+   [36]
+    1 string data = "Do you like what you see? This is where you could have stood… if only you'd embraced who you really are."
+   [37]
+    1 string data = "We get it, big guy. You're full of yourself."
+   [38]
+    1 string data = "This isn't a joke, Valere..."
+   [39]
+    1 string data = "Hey, I was just trying to lighten the mood. We've faced worse, right?"
+   [40]
+    1 string data = "She's laughing because she doesn't understand. Some partner you have there, completely unaware of what you're hiding."
+   [41]
+    1 string data = "..."
+   [42]
+    1 string data = "Come, then! Show me if your courage is real, or if you're just another child playing hero in the light!"
+   [43]
+    1 string data = "SHOWTIME!"
+   [44]
+    1 string data = "Impossible... An immaculate surface should win over integrity... Perception is more important than substance... Why do anything if no one is made envious...?"
+   [45]
+    1 string data = "You're doing the hair wrong."
+   [46]
+    1 string data = "Are you okay, Zale?"
+   [47]
+    1 string data = "It's just…"
+   [48]
+    1 string data = "What if he's right?"
+   [49]
+    1 string data = "I don't think you're like him. Not at all."
+   [50]
+    1 string data = "..."
+   [51]
+    1 string data = "Narcis King is so smart, he does things just long enough to be able to project a wide range of abilities. Doesn't waste a single minute beyond that."
+   [52]
+    1 string data = "Hanging out here, I learned there's no value left in doing anything once you've got a good picture to show off. To stay on top of everyone else, it's better to diversify!"
+   [53]
+    1 string data = "Did you get the podium right? I want to keep exploring!"
+   [54]
+    1 string data = "Legs go at the bottom, of course. Just have to figure out what each symbol represents..."
+   [55]
+    1 string data = "I like Narcis King, finally someone who understands that quantity is more important than quality!"
+   [56]
+    1 string data = "It's weird in here. I feel like I have to justify why I like what I like, as if my value had to be calculated according to the Narcis King's criteria."
+   [57]
+    1 string data = "I heard a guard saying "reflection opens the way" earlier. What do you think he meant?"
+   [58]
+    1 string data = "Narcis King appears quite accomplished. I can't help but wonder which skill he learned first."
+   [59]
+    1 string data = "Are these badges?"
+   [60]
+    1 string data = "The floors are immaculate! But I must say, this would look even better if the gem's reflection were aligned with the ornate doorframe."
+   [61]
+    1 string data = "It's sealed shut. We'll need to activate these four symbols somehow."
+   [62]
+    1 string data = "Would you look at that... Everything is so grandiose here..."
+   [63]
+    1 string data = "These old knees need a break! This must be the sea of stairs everyone's been talking about."
+   [64]
+    1 string data = "Is that real gold?"
+   [65]
+    1 string data = "I don't really like the place, but Narcis King is kind of a cool name."
+   [66]
+    1 string data = "There was something invigorating about this place at first, but now I just get a sense that my life is missing things I only want because someone else says they're the right things to want."

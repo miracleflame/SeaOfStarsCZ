@@ -1,0 +1,36 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Forest_EN"
+ 1 string locCategoryId = "Totw/Forest"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (11 items)
+   0 int size = 11
+   [0]
+    1 string data = "Ain't no train in sight, huh?"
+   [1]
+    1 string data = "It’s got to be here somewhere."
+   [2]
+    1 string data = "Wind’s rising, isn’t it?"
+   [3]
+    1 string data = "Behind us!"
+   [4]
+    1 string data = "RUN!"
+   [5]
+    1 string data = "Dunno about y'all, but I've about had it with this train!"
+   [6]
+    1 string data = "You're up, Valtraid. On the double!"
+   [7]
+    1 string data = "Train Suplex"
+   [8]
+    1 string data = "A resounding success!"
+   [9]
+    1 string data = "Aye, Fardush should be able to drive you around now."
+   [10]
+    1 string data = "If ye need us, we'll be at the local tavern."

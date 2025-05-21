@@ -10,8 +10,8 @@
  1 string locCategoryId = "Credits"
  0 int language = 0
  0 vector strings
-  1 Array Array (59 items)
-   0 int size = 59
+  1 Array Array (61 items)
+   0 int size = 61
    [0]
     1 string data = "Special Thanks"
    [1]
@@ -130,3 +130,7 @@
     1 string data = "-Shoutout to our colleagues from the past-"
    [58]
     1 string data = "The End?"
+   [59]
+    1 string data = "-Cinematics by Du Coup Animation-"
+   [60]
+    1 string data = "-Additonal Talent & Support-"

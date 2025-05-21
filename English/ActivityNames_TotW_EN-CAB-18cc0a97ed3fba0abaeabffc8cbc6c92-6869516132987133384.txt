@@ -1,0 +1,28 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "ActivityNames_TotW_EN"
+ 1 string locCategoryId = "ActivityNames_TotW"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (7 items)
+   0 int size = 7
+   [0]
+    1 string data = "To clockwork horizons"
+   [1]
+    1 string data = "Enter the Artificer"
+   [2]
+    1 string data = "ALL ABOAAAARD!!"
+   [3]
+    1 string data = "Mask of Vanity"
+   [4]
+    1 string data = "Lycanthropic Rage"
+   [5]
+    1 string data = "The Puppeteer's Big Top"
+   [6]
+    1 string data = "Grand Finale"

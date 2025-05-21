@@ -10,8 +10,8 @@
  1 string locCategoryId = "UI"
  0 int language = 0
  0 vector strings
-  1 Array Array (415 items)
-   0 int size = 415
+  1 Array Array (422 items)
+   0 int size = 422
    [0]
     1 string data = "Press <button="TitleScreenStart">"
    [1]
@@ -637,7 +637,7 @@
    [311]
     1 string data = "Enabled"
    [312]
-    1 string data = "COPYRIGHT 2023-2024 SABOTAGE STUDIO"
+    1 string data = "COPYRIGHT 2023-2025 SABOTAGE STUDIO"
    [313]
     1 string data = "Loading..."
    [314]
@@ -842,3 +842,17 @@
     1 string data = "For those preferring more gritty combat. All enemies hit harder and resist more damage while casting. The use of items is disabled in combat."
    [414]
     1 string data = "<button="UI_TertiaryAction"> Customize Relics Preset"
+   [415]
+    1 string data = "<button="UI_Start"> Save Transfer"
+   [416]
+    1 string data = "Save Transfer"
+   [417]
+    1 string data = "PS4®"
+   [418]
+    1 string data = "PS5®"
+   [419]
+    1 string data = "Are you sure you want to transfer this save to the selected slot?"
+   [420]
+    1 string data = "Transferring..."
+   [421]
+    1 string data = "Loading transferable save data..."

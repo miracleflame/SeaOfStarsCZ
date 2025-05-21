@@ -1,0 +1,350 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Intro_EN"
+ 1 string locCategoryId = "Totw/Intro"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (168 items)
+   0 int size = 168
+   [0]
+    1 string data = "You've received a message in a bottle. It's from Hortence!"
+   [1]
+    1 string data = "Ahoy, lads! I know ye be off chasin' the baddies, but we've got a situation on our hands here."
+   [2]
+    1 string data = "Afraid Keenathan's in a fix... If y'all wouldn't mind droppin' by The Vespertine on the double, that'd be grand."
+   [3]
+    1 string data = "Right, that's enough jabberin' from me. I'll be seein' ya."
+   [4]
+    1 string data = "Hortence sounds really worried. Should we visit the crew right now?"
+   [5]
+    1 string data = "Yes"
+   [6]
+    1 string data = "No"
+   [7]
+    1 string data = "Teleport to the Vespertine?"
+   [8]
+    1 string data = "Yes"
+   [9]
+    1 string data = "No"
+   [10]
+    1 string data = "Teleport to The Watchmaker's workshop?"
+   [11]
+    1 string data = "Yes"
+   [12]
+    1 string data = "No"
+   [13]
+    1 string data = "Hey Hortence, is something the matter?"
+   [14]
+    1 string data = "Aye, som'thin' be the matter indeed! Mayhaps ye’ve heard ‘bout our crewmate Keenathan?"
+   [15]
+    1 string data = "No, what happened?"
+   [16]
+    1 string data = "Tis’ prolly best if ye see for yerselves."
+   [17]
+    1 string data = "Better drop by the crews quarters on The Vespertine presently. Keenathan needs us."
+   [18]
+    1 string data = "Ahoy there, [MAINCHAR]! Good on y'all for showin'."
+   [19]
+    1 string data = "So, what’s the matter, Keenathan?"
+   [20]
+    1 string data = "Keenathan? There's no such person..."
+   [21]
+    1 string data = "??"
+   [22]
+    1 string data = "First Mate. What's the situation?"
+   [23]
+    1 string data = "Captain!? My, ain't ye a sight for sore eyes."
+   [24]
+    1 string data = "Or sobby ones, I s’pose..."
+   [25]
+    1 string data = "It’s Keenathan."
+   [26]
+    1 string data = "‘Member when we checked in with the Sky Giants to gain access to that there Sea ov Stars?"
+   [27]
+    1 string data = "There was this thing they seemed hesitant about..."
+   [28]
+    1 string data = "The error must be on our end. We will disregard it."
+   [29]
+    1 string data = "Well, we've just heard back, and..."
+   [30]
+    1 string data = "Turns out the name of our friendly wind mage here is not, in fact, Keenathan."
+   [31]
+    1 string data = "Say WHAT???"
+   [32]
+    1 string data = "Oh, woe is me!"
+   [33]
+    1 string data = "I say this changes nothing. Ye’ll always be Keenathan to me, pal!"
+   [34]
+    1 string data = "True words, Valtraid. True words."
+   [35]
+    1 string data = "But that won't exactly be fixin’ Keenathan’s mood, now, will it?"
+   [36]
+    1 string data = "..."
+   [37]
+    1 string data = "I'm sure we can just ask the Sky Council. They've been pretty reasonable so far."
+   [38]
+    1 string data = "Can't we petition the Sky Council?"
+   [39]
+    1 string data = "Perish the thought, mate! We ain't lookin’ for some special permission here, what we want is an official naming!"
+   [40]
+    1 string data = "Can we help?"
+   [41]
+    1 string data = "Ov course! The code hasn't changed. In this crew, a mate in need..."
+   [42]
+    1 string data = "IS A QUEST INDEED!"
+   [43]
+    1 string data = "IS A QUEST INDEED!"
+   [44]
+    1 string data = "Do you have a lead?"
+   [45]
+    1 string data = "That we do, gal."
+   [46]
+    1 string data = "Teaks! You’re up!"
+   [47]
+    1 string data = "Well, it's a longshot, but I think The Watchmaker might be able to help."
+   [48]
+    1 string data = "How?"
+   [49]
+    1 string data = "If my estimations are correct, her deeds have qualified her as an <event="Ovate"><anim=rainbow>Ovate</anim>."
+   [50]
+    1 string data = "An Ovate?"
+   [51]
+    1 string data = "Yes. Though their time is long gone, it is said that especially gifted artisans may still attain the rank through sheer instinct and dedication."
+   [52]
+    1 string data = "Ovates were responsible for shaping the world, and influencing reality itself through their respective disciplines."
+   [53]
+    1 string data = "If we can convince her to make a pocket watch for Keenathan and engrave his name on it, her authority should supersede all others."
+   [54]
+    1 string data = "Huzzah!"
+   [55]
+    1 string data = "Ain't a bad plan, amirite?"
+   [56]
+    1 string data = "The Watchmaker didn't even bother looking at us. Why would she help?"
+   [57]
+    1 string data = "Can't be sure until we ask, but I believe she also needs help with something herself."
+   [58]
+    1 string data = "Well, it’s what we got. What’re ye thinkin’, pal?"
+   [59]
+    1 string data = "..."
+   [60]
+    1 string data = "Oh, I’m thinking only one thing, Valtraid..."
+   [61]
+    1 string data = "I will get The Watchmaker to make me a pocket watch, or my name is not Keenathan!"
+   [62]
+    1 string data = "Love to hear it!"
+   [63]
+    1 string data = "Getting to her workshop and back is kind of a trek. Are you good to sail?"
+   [64]
+    1 string data = "Hold yer horses, we got that one figured out already!"
+   [65]
+    1 string data = "AIGHT, LIL' GUY! THAT'S YER CUE!"
+   [66]
+    1 string data = "(This'll be good.)"
+   [67]
+    1 string data = "(Are we showing it right away?)"
+   [68]
+    1 string data = "(We should explain first!)"
+   [69]
+    1 string data = "(No, we should reveal it first!)"
+   [70]
+    1 string data = "(I think that’d be rude.)"
+   [71]
+    1 string data = "(It’s not rude to give people a surprise!)"
+   [72]
+    1 string data = "(Just let Caël do a cool intro.)"
+   [73]
+    1 string data = "(Okay, okay.)"
+   [74]
+    1 string data = "For too long have the limitations of matter been a boundary."
+   [75]
+    1 string data = "The mission to bring the world into a new age must be supported by new possibilities."
+   [76]
+    1 string data = "Exhaustive was my research, aimed at perfecting synchronicity between space and matter."
+   [77]
+    1 string data = "And now, at long last..."
+   [78]
+    1 string data = "Did you build a teleporter to The Watchmaker’s workshop?"
+   [79]
+    1 string data = "..."
+   [80]
+    1 string data = "(See? We need shorter intros.)"
+   [81]
+    1 string data = "(Yeah, yeah, I get it.)"
+   [82]
+    1 string data = "(Well? Carry on.)"
+   [83]
+    1 string data = "Yes indeed!"
+   [84]
+    1 string data = "Just step into the center, and it will take you straight to The Watchmaker’s workshop."
+   [85]
+    1 string data = "(Tell them it works both ways!)"
+   [86]
+    1 string data = "(I think they know.)"
+   [87]
+    1 string data = "Sounds pretty neat. Good job, Arty!"
+   [88]
+    1 string data = "(He likes it!)"
+   [89]
+    1 string data = "Done and delivered!"
+   [90]
+    1 string data = "Whenever yer ready, then."
+   [91]
+    1 string data = "So, how do we do this?"
+   [92]
+    1 string data = "Ain't exactly the approachable type, so I've heard."
+   [93]
+    1 string data = "Should I simply ask?"
+   [94]
+    1 string data = "Reckon ye should, tis’ yer quest after all!"
+   [95]
+    1 string data = "I can hear you."
+   [96]
+    1 string data = "Ahoy! Rather busy day in the workshop, aye?"
+   [97]
+    1 string data = "What do you want?"
+   [98]
+    1 string data = "Greetings, Watchmaker, I find myself in a peculiar situation..."
+   [99]
+    1 string data = "Cut to the chase."
+   [100]
+    1 string data = "..."
+   [101]
+    1 string data = "Our pal’s name is being contested, and so we thought ye might be willing to settle the matter."
+   [102]
+    1 string data = "Oh? And what makes you think I command such authority?"
+   [103]
+    1 string data = "We know you're an Ovate."
+   [104]
+    1 string data = "Is that so?"
+   [105]
+    1 string data = "This clock. It’s what earned you the title, isn’t it?"
+   [106]
+    1 string data = "(Horloge...)"
+   [107]
+    1 string data = "(...)"
+   [108]
+    1 string data = "Are the Solstice Warriors willing to risk their lives in exchange for my services?"
+   [109]
+    1 string data = "Oh, I would never ask that much of them!"
+   [110]
+    1 string data = "Is that a Lore Grimoire?"
+   [111]
+    1 string data = "Go on, then. Get your story."
+   [112]
+    1 string data = "Now, let's see..."
+   [113]
+    1 string data = "I’m sorry, Watchmaker. I had no idea..."
+   [114]
+    1 string data = "Save it."
+   [115]
+    1 string data = "Time is sovereign. Twice now you have come to me on its terms, nudged by its hand."
+   [116]
+    1 string data = "It may be that you are now ready for the journey within..."
+   [117]
+    1 string data = "These are my conditions. Will you perform the cleansing?"
+   [118]
+    1 string data = "Why didn't you say anything earlier?"
+   [119]
+    1 string data = "And send you to your deaths?"
+   [120]
+    1 string data = "Hey, we've been through a lot, and we're still here!"
+   [121]
+    1 string data = "Do not underestimate Horloge's curse. Inside, you'll face reflections of your darker traits."
+   [122]
+    1 string data = "This journey will demand more than just strength. It will test your very sense of self."
+   [123]
+    1 string data = "Whatever. Where do we start?"
+   [124]
+    1 string data = "I'm ready to go!"
+   [125]
+    1 string data = "Absolutely not."
+   [126]
+    1 string data = "!?"
+   [127]
+    1 string data = "Don't you see? Anyone in there with a strong enough aura will manifest an evil twin."
+   [128]
+    1 string data = "The smallest possible group will go. Solstice Warriors only."
+   [129]
+    1 string data = "Come on, I want to see the place!"
+   [130]
+    1 string data = "You more than anyone should understand why I can't go back in there myself."
+   [131]
+    1 string data = "Oh... Right..."
+   [132]
+    1 string data = "Respectfully, Watchmaker, if my crew and I are below the threshold, I would still like to consider this adventure partly mine."
+   [133]
+    1 string data = "Yeah, you’re clear."
+   [134]
+    1 string data = "But your captain stays."
+   [135]
+    1 string data = "I-"
+   [136]
+    1 string data = "End of conversation. We are NOT adding portals to this mess."
+   [137]
+    1 string data = "Is that Caël or Spike?"
+   [138]
+    1 string data = "We're all in here, it’s just Arty now!"
+   [139]
+    1 string data = "Keep an eye on them, will you? But don't rush anything, it's their journey. They need this."
+   [140]
+    1 string data = "You got it!"
+   [141]
+    1 string data = "And here. You'll know what and when."
+   [142]
+    1 string data = "Arty receives <sprite="dialog-inventory-icons-totw" name="icn-inventory-keyitem-mysteriousbox"> <color="magic">Mysterious Box</color>."
+   [143]
+    1 string data = "Well then, reckon we be ready to head out!"
+   [144]
+    1 string data = "This will get you in."
+   [145]
+    1 string data = "The Dialocus can be used to shrink and enter certain clockwork devices inside of the clock, including the clock itself!"
+   [146]
+    1 string data = "Press <button=interact> to activate in front of objects that resonate with a purple glow."
+   [147]
+    1 string data = "Good luck in there."
+   [148]
+    1 string data = "You go ahead, I'll change if needed..."
+   [149]
+    1 string data = "Better check on Keenathan. I'm afraid soup won't fix this one."
+   [150]
+    1 string data = "I wonder what happened to him..."
+   [151]
+    1 string data = "Keenathan's morale seems pretty low..."
+   [152]
+    1 string data = "..."
+   [153]
+    1 string data = "The wind mage isn't quite himself, I hope we can help."
+   [154]
+    1 string data = "Aye, Keenathan sure be needin' his crew right now."
+   [155]
+    1 string data = "He even skipped band practice. That there's a first!"
+   [156]
+    1 string data = "Teleporter's all yours if you're ready to go see The Watchmaker!"
+   [157]
+    1 string data = "Ready to head out?"
+   [158]
+    1 string data = "The Dialocus is yours. Good luck in there."
+   [159]
+    1 string data = "The journey within is a challenging one. It's okay if you need a break."
+   [160]
+    1 string data = "Thank you for bringing peace back to Horloge."
+   [161]
+    1 string data = "It's really not the same when the band isn't playing."
+   [162]
+    1 string data = "Keenathan's below deck. I think I heard him crying... "
+   [163]
+    1 string data = "Something's up with Keenathan. Have you come to check on him?"
+   [164]
+    1 string data = "Sad affair, what happened to Keenathan. I wish I could help."
+   [165]
+    1 string data = "I feel for Keenathan..."
+   [166]
+    1 string data = "The ship won't budge! Is our wind mage okay?"
+   [167]
+    1 string data = "Croustalion is thinking about Keenathan..."

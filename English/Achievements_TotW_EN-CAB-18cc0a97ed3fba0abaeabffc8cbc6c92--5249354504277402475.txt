@@ -1,0 +1,42 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Achievements_TotW_EN"
+ 1 string locCategoryId = "Achievements_TotW"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (14 items)
+   0 int size = 14
+   [0]
+    1 string data = "Marquee Star"
+   [1]
+    1 string data = "Unlock all skills and combos for circus classes"
+   [2]
+    1 string data = "Carnival Culinarian"
+   [3]
+    1 string data = "Cook each of the five Horloge recipes at least once"
+   [4]
+    1 string data = "Warlocked"
+   [5]
+    1 string data = "Beat all of Horloge's Wheels champions"
+   [6]
+    1 string data = "Unrivaled Wonder"
+   [7]
+    1 string data = "Earn top rank in all three of Horloge's minigames"
+   [8]
+    1 string data = "Clockworkn't"
+   [9]
+    1 string data = "Defeat Dweller of Scourge"
+   [10]
+    1 string data = "What doth it meanst?"
+   [11]
+    1 string data = "Bear witness to the secret vision"
+   [12]
+    1 string data = "Throes of the Watchmaker"
+   [13]
+    1 string data = "Trophies for Throes of the Watchmaker DLC"

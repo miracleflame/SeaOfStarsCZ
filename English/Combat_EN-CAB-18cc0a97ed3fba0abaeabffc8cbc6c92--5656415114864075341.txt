@@ -10,8 +10,8 @@
  1 string locCategoryId = "Combat"
  0 int language = 0
  0 vector strings
-  1 Array Array (299 items)
-   0 int size = 299
+  1 Array Array (301 items)
+   0 int size = 301
    [0]
     1 string data = "Attack"
    [1]
@@ -610,3 +610,7 @@
     1 string data = "Belly Drop"
    [298]
     1 string data = "PWR"
+   [299]
+    1 string data = "Super Solstice Strike"
+   [300]
+    1 string data = "Ultimate dual attack. Press <button="Interact"> repeatedly during projectiles phase to shoot more."

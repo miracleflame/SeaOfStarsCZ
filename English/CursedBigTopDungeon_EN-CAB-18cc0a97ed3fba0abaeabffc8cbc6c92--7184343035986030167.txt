@@ -1,0 +1,426 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "CursedBigTopDungeon_EN"
+ 1 string locCategoryId = "Totw/CursedBigTopDungeon"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (206 items)
+   0 int size = 206
+   [0]
+    1 string data = "They managed to escape, master, and somehow defeated our crew!"
+   [1]
+    1 string data = "Even got the train back, master, they outwitted us too!"
+   [2]
+    1 string data = "Then it seems confrontation with the solar one’s twin will happen soon. Good..."
+   [3]
+    1 string data = "Orders, master?"
+   [4]
+    1 string data = "For now we wait."
+   [5]
+    1 string data = "The great Pantouf will be the end of them, Pouf."
+   [6]
+    1 string data = "A grand finale for the ages, Pif."
+   [7]
+    1 string data = "They will never see it coming!"
+   [8]
+    1 string data = "They will never feel it killing!"
+   [9]
+    1 string data = "We will display so much guile!"
+   [10]
+    1 string data = "We will spring a trap so vile!"
+   [11]
+    1 string data = "Is your new toy ready?"
+   [12]
+    1 string data = "Almost, almost, just a screw or two!"
+   [13]
+    1 string data = "Not so, you dolt, still plenty to do!"
+   [14]
+    1 string data = "Monsieur Tendu."
+   [15]
+    1 string data = "Guard the entrance, and delay them as much as possible."
+   [16]
+    1 string data = "..."
+   [17]
+    1 string data = "Pantouf's exhibition will be most prime!"
+   [18]
+    1 string data = "The performance of a lifetime!"
+   [19]
+    1 string data = "The mother of all stages!"
+   [20]
+    1 string data = "A show for the ages!"
+   [21]
+    1 string data = "Yes..."
+   [22]
+    1 string data = "Malevolent spectacle awaits..."
+   [23]
+    1 string data = "Step aside. We’re going in."
+   [24]
+    1 string data = "Final warning."
+   [25]
+    1 string data = "You asked for it!"
+   [26]
+    1 string data = "Nowhere to run now!"
+   [27]
+    1 string data = "Welcome, welcome, to the place where evil wins!"
+   [28]
+    1 string data = "In these twisted tents, the final act begins!"
+   [29]
+    1 string data = "A cavalcade of spectacle and funfair!"
+   [30]
+    1 string data = "Tickets are free, so come if you dare!"
+   [31]
+    1 string data = "Cowards!"
+   [32]
+    1 string data = "(They want us to chase them.)"
+   [33]
+    1 string data = "(Yes, everyone knows that!)"
+   [34]
+    1 string data = "(But it’s a trap!)"
+   [35]
+    1 string data = "(Everyone knows that too! Just act confident.)"
+   [36]
+    1 string data = "(Got it.)"
+   [37]
+    1 string data = "*ahem*... Let’s stay alert."
+   [38]
+    1 string data = "Hehe! And just like that, our trap worked like a charm!"
+   [39]
+    1 string data = "Enough with your games!"
+   [40]
+    1 string data = "Is this where you wanted us? Then get ready to fight!"
+   [41]
+    1 string data = "Hoho! And just like that, our prey shall come to harm!"
+   [42]
+    1 string data = "Pouf! This is no joke, they're putting up a fight!"
+   [43]
+    1 string data = "Pif! Time for the new toy, that'll set things right!"
+   [44]
+    1 string data = "PIF POUF DANS PANTOUF"
+   [45]
+    1 string data = "Not going to miss those two."
+   [46]
+    1 string data = "You can say that again."
+   [47]
+    1 string data = "Alright, The Puppeteer’s next."
+   [48]
+    1 string data = "(Hey, wouldn't that fit?)"
+   [49]
+    1 string data = "(Shape isn't bad, could save us some time.)"
+   [50]
+    1 string data = "(The face is kind of creepy though.)"
+   [51]
+    1 string data = "(We just need the frame, Toe.)"
+   [52]
+    1 string data = "(Will it work?)"
+   [53]
+    1 string data = "(Give me a sec.)"
+   [54]
+    1 string data = "Arty?"
+   [55]
+    1 string data = "(Got the scan.)"
+   [56]
+    1 string data = "(I'll finish up the plans myself. We can return here when they're ready.)"
+   [57]
+    1 string data = "(Hammer and Spike, battle functions are yours in the meantime.)"
+   [58]
+    1 string data = "(Roger.)"
+   [59]
+    1 string data = "Arty?"
+   [60]
+    1 string data = "Coming!"
+   [61]
+    1 string data = "At last, the champions have arrived. How exciting!"
+   [62]
+    1 string data = "I've been waiting for this moment. To test your mettle, and fulfill my grand design."
+   [63]
+    1 string data = "What do you want with us? What’s your game, Puppeteer?"
+   [64]
+    1 string data = "Oh, this is far more than a game, child. You are the key to my freedom."
+   [65]
+    1 string data = "With your powers, I’ll escape this wretched prison and finally step into the real world."
+   [66]
+    1 string data = "Yes, the masses need… order. A single, absolute voice, an arbiter of right and wrong!"
+   [67]
+    1 string data = "No more chaos, no more free will. Only my perfection, shaping reality."
+   [68]
+    1 string data = "A MALEVOLENT SPECTACLE FOR ALL!"
+   [69]
+    1 string data = "And you think we're just going to hand all that over to you?"
+   [70]
+    1 string data = "Oh, you misunderstand. I don't need YOU specifically, your replacements will do nicely."
+   [71]
+    1 string data = "When your evil twins finally take your places, they'll bring your powers to me, unchallenged. And the world will never know the difference."
+   [72]
+    1 string data = "We won't let that happen."
+   [73]
+    1 string data = "Then stop me, if you can. But you'd better hurry! They are quite eager to take their thrones."
+   [74]
+    1 string data = "Enough already! We're taking you down."
+   [75]
+    1 string data = "Hahahaha! Indeed, the time for backstage chatter is over."
+   [76]
+    1 string data = "The spotlight awaits. Let's see if you're ready for the big stage!"
+   [77]
+    1 string data = "Children of the Solstice! I am your new Master, and YOU WILL SUBMIT!"
+   [78]
+    1 string data = "AAAHHHH!!! How rude of you, to steal the show in someone else's theatre!"
+   [79]
+    1 string data = "Hey, you're almost at the end! We're all rooting for you."
+   [80]
+    1 string data = "I'm not sure what this is, but I was told it might help."
+   [81]
+    1 string data = "Well, good luck!"
+   [82]
+    1 string data = "I… underestimated you."
+   [83]
+    1 string data = "Bravo! A performance so dazzling, I almost forgot my lines. How delightfully inconvenient!"
+   [84]
+    1 string data = "But no matter! The next act has already been written, and its theme is despair."
+   [85]
+    1 string data = "We will see how brightly your little flames burn when faced with a foe you cannot defeat!"
+   [86]
+    1 string data = "Whatever you've got, we'll bring it down."
+   [87]
+    1 string data = "Oh, please! Save your heroics for a more gullible crowd. The connection to your innate magic is all but severed."
+   [88]
+    1 string data = "Yes… my menagerie's crown jewel will crush your spirits, and leave them ripe for the taking. Shall we begin?"
+   [89]
+    1 string data = "We've heard enough. Do your worst!"
+   [90]
+    1 string data = "Hahahaha! At last, the time has come!"
+   [91]
+    1 string data = "The time to show you fragile fools the weight of true hopelessness! To break your will, and decimate your faith!"
+   [92]
+    1 string data = "I GIVE YOU, THE DWELLER OF SCOURGE!"
+   [93]
+    1 string data = "Hahahaha! You're even weaker than I thought!"
+   [94]
+    1 string data = "Not even a scratch! Some Solstice Warriors you are!"
+   [95]
+    1 string data = "This show's getting boring. Dweller of Scourge, give them a taste!"
+   [96]
+    1 string data = "Zale… this is…"
+   [97]
+    1 string data = "What's the matter, darlings? I thought we would play for a little longer."
+   [98]
+    1 string data = "We… have to…"
+   [99]
+    1 string data = "Pathetic! Is this truly all you can muster?"
+   [100]
+    1 string data = "(This is bad. If we don’t do something, they're done for.)"
+   [101]
+    1 string data = "(Back to that clown thing from earlier? We'll need to work fast.)"
+   [102]
+    1 string data = "Arty, we'll buy some time, just…"
+   [103]
+    1 string data = "(Prototype-0? That's a longshot.)"
+   [104]
+    1 string data = "Go warn the others…"
+   [105]
+    1 string data = "(We can't leave them like this, they're not ready.)"
+   [106]
+    1 string data = "(Meliora said it was their journey and that they needed this.)"
+   [107]
+    1 string data = "(Doesn't mean we have to let them die.)"
+   [108]
+    1 string data = "(Show a little faith, Hammer.)"
+   [109]
+    1 string data = "(Let's hurry, then.)"
+   [110]
+    1 string data = "Don't give in now, okay? You've come too far to let this break you."
+   [111]
+    1 string data = "Remember who you are, and what you're fighting for. I believe in you."
+   [112]
+    1 string data = "Ah, how touching! Your so-called friend couldn't even stick around."
+   [113]
+    1 string data = "Did the pressure break him, or does he finally know better than to rely on weaklings?"
+   [114]
+    1 string data = "You won't… get away with…"
+   [115]
+    1 string data = "Hahahaha! A little short on resolve, are we? Perfect! And now, the highlight of the show!"
+   [116]
+    1 string data = "Your spirits are cracked, your hope is dangling by a thread… the ideal moment for the real stars to take the stage!"
+   [117]
+    1 string data = "You're no longer needed, dears."
+   [118]
+    1 string data = "MY CHAMPIONS, YOUR DESTINY CALLS!"
+   [119]
+    1 string data = "Obliterate their minds, and take your rightful places at my side!"
+   [120]
+    1 string data = "Why fight, Zale? You're tired, aren't you? Always carrying the weight of everyone's expectations, trying to be the hero."
+   [121]
+    1 string data = "Let me take over. I can give them the perfect protector they deserve, without the weakness, without the doubt."
+   [122]
+    1 string data = "You know it's true. Deep down, you don't think you belong. So why not step aside? I can handle it."
+   [123]
+    1 string data = "And yet you resist. Still holding yourself back, always playing the calm and controlled hero."
+   [124]
+    1 string data = "But you crave to let it all go. You need only accept my offer, and I'll be everything you couldn't be… Everything you wouldn't let yourself be."
+   [125]
+    1 string data = "Just imagine, no more struggle, no more restraint."
+   [126]
+    1 string data = "I guess you were right, in a way. For a long time, I thought I had to be the brightest light in the room…"
+   [127]
+    1 string data = "I thought that if people didn't see me as strong, I was failing them. And myself."
+   [128]
+    1 string data = "That's right. Doesn't it feel good to finally just give in?"
+   [129]
+    1 string data = "Come closer."
+   [130]
+    1 string data = "No. That's where you're wrong. I don't need your empty pride, or for anyone to tell me what I'm worth."
+   [131]
+    1 string data = "You're lying to yourself again, Zale. Without me, you're just another child with no spark. I am the greatness you crave!"
+   [132]
+    1 string data = "You're nothing but a shadow of my fears… and I'm done letting you control me."
+   [133]
+    1 string data = "What!? How dare you!?"
+   [134]
+    1 string data = "The weakness you exploited... I see it now. I was afraid of what might be hiding in the shadows. In my own mind."
+   [135]
+    1 string data = "I know you've thought about it. To be wild, to stop pretending. I see it in your eyes, Valere. You want me to take the burden from you."
+   [136]
+    1 string data = "All I feared was that if I let go even for a moment, I'd lose myself, just like you did. "
+   [137]
+    1 string data = "But I understand now that I don't have to choose between peace and strength."
+   [138]
+    1 string data = "No! I am your better half! BEND THE KNEE!"
+   [139]
+    1 string data = "You're not better than me, or anyone. You're just my doubt, dressed up as a king."
+   [140]
+    1 string data = "I am not… enough!?"
+   [141]
+    1 string data = "But you're weak, Valere! Your peace is just a cage. Let it go, give in to the power you're hiding, and you'll be unstoppable!"
+   [142]
+    1 string data = "You're the weak one. No discipline, only jealousy and anger. I don't need you to become whole. You're the one that needs to be freed."
+   [143]
+    1 string data = "But…"
+   [144]
+    1 string data = "We let them haunt us..."
+   [145]
+    1 string data = "We were so scared of what we might be hiding..."
+   [146]
+    1 string data = "No more. And never again."
+   [147]
+    1 string data = "I'm ready, Zale."
+   [148]
+    1 string data = "Me too."
+   [149]
+    1 string data = "!!?"
+   [150]
+    1 string data = "Preposterous! How!?"
+   [151]
+    1 string data = "Your mind games have no power over us anymore."
+   [152]
+    1 string data = "Together we are both the light and the dark."
+   [153]
+    1 string data = "We are Solstice Warriors, and you must be cleansed!"
+   [154]
+    1 string data = "BEGONE!!!"
+   [155]
+    1 string data = "..."
+   [156]
+    1 string data = "*ahem*"
+   [157]
+    1 string data = "Well, well! What an unexpected turn of events!"
+   [158]
+    1 string data = "You've truly outdone yourselves in this performance!"
+   [159]
+    1 string data = "But why continue with this tiresome charade of conflict?"
+   [160]
+    1 string data = "You're just another illusion. We're done talking, your time is up."
+   [161]
+    1 string data = "Now, now, let's not ruin the mood with unnecessary hostility, hmm?"
+   [162]
+    1 string data = "How about we negotiate? Surely you'd like to leave this place?"
+   [163]
+    1 string data = "Absolutely."
+   [164]
+    1 string data = "Wh... What do you mean, darling?"
+   [165]
+    1 string data = "[MAINCHAR] and [OFFCHAR] learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-supersolsticestrike"> <color="magic">Super Solstice Strike</color>!"
+   [166]
+    1 string data = "Now let's finish this for good."
+   [167]
+    1 string data = "No holding back this time."
+   [168]
+    1 string data = "This thing's built to take a real beating!"
+   [169]
+    1 string data = "Feels good to be back in control, but we'll be here a while."
+   [170]
+    1 string data = "It'll wear down eventually. Still... I bet Arty would have wanted to see this."
+   [171]
+    1 string data = "(Miniaturization works.)"
+   [172]
+    1 string data = "(Vision module?)"
+   [173]
+    1 string data = "(All systems are green.)"
+   [174]
+    1 string data = "(Not the heat sink.)"
+   [175]
+    1 string data = "(We can figure that one out later. The body needs work, anyway.)"
+   [176]
+    1 string data = "(Good job, team.)"
+   [177]
+    1 string data = "(Perfect design, perfect execution!)"
+   [178]
+    1 string data = "(Well? What are we waiting for?)"
+   [179]
+    1 string data = "(Just remember. Short intro.)"
+   [180]
+    1 string data = "(Yeah, yeah.)"
+   [181]
+    1 string data = "Hey! I'm back! Looks like you've got this, though... uh, should I just..."
+   [182]
+    1 string data = "(Why would you say that?)"
+   [183]
+    1 string data = "(Now it'll be awkward to ask if we can join.)"
+   [184]
+    1 string data = "Hey, Arty! Want to finish this together?"
+   [185]
+    1 string data = "(!!!)"
+   [186]
+    1 string data = "(Just go!)"
+   [187]
+    1 string data = "*ahem* Yes!"
+   [188]
+    1 string data = "I mean... I made something to help, but it needs your powers to activate."
+   [189]
+    1 string data = "Let's see it!"
+   [190]
+    1 string data = "(They said yes! Do we just...)"
+   [191]
+    1 string data = "(Ask for the pose!)"
+   [192]
+    1 string data = "Okay, can you strike the pose like when you control the light?"
+   [193]
+    1 string data = "What?"
+   [194]
+    1 string data = "The thing! Focus your power and follow my lead, alright?"
+   [195]
+    1 string data = "LET'S DO THE THING!"
+   [196]
+    1 string data = "3 tickets are required."
+   [197]
+    1 string data = "Pay"
+   [198]
+    1 string data = "Cancel"
+   [199]
+    1 string data = "You don't have enough tickets."
+   [200]
+    1 string data = "6 tickets are required."
+   [201]
+    1 string data = "Pay"
+   [202]
+    1 string data = "Cancel"
+   [203]
+    1 string data = "You don't have enough tickets."
+   [204]
+    1 string data = "Can't... give up now..."
+   [205]
+    1 string data = "Not going to miss those two."

@@ -187,7 +187,7 @@
    [86]
     1 string data = "I could listen to Keenathan's concertina all day!"
    [87]
-    1 string data = "Seraï world feels kind of spooky, don't you think?"
+    1 string data = "Seraï's world feels kind of spooky, don't you think?"
    [88]
     1 string data = "That's a good boat we got. Just gotta treat it well!"
    [89]
