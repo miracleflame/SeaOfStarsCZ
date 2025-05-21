@@ -213,7 +213,7 @@
    [99]
     1 string data = "Je to jejich nejcennější vlastnictví, které zaručuje světlo na nejtemnějších místech a určitou ochranu před přisluhovači <color=bad>Karnimanta</color>."
    [100]
-    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi. Trénovat, dokud nebudete cítit své končetiny, a pak trénovat ještě víc."
+    1 string data = "Nejdříve se však musíte seznámit se svými povinnostmi, trénovat, dokud nebudete cítit své končetiny, a pak trénovat ještě víc."
    [101]
     1 string data = "Jakmile vaše tělo i mysl dozrají potenciálem, vytvoříte <color=magic>magický kus látky</color> hodný samotných hvězd."
    [102]
@@ -801,7 +801,7 @@
    [393]
     1 string data = "[MAINCHAR] a [OFFCHAR]!"
    [394]
-    1 string data = "Předstupte, aby dobrý lid Měsíční Kolébky mohl pohlédnout na ty, jež brzy vstoupí do řad Bojovníků Slunovratu!"
+    1 string data = "Předstupte, aby dobrý lid Měsíční Kolébky mohl pohlédnout na ty, již brzy vstoupí do řad Bojovníků Slunovratu!"
    [395]
     1 string data = "(Tohle předvádění je směšné.)"
    [396]

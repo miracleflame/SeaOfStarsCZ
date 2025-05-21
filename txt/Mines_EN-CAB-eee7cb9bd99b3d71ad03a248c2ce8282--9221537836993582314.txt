@@ -73,7 +73,7 @@
    [29]
     1 string data = "Jste velmi silní."
    [30]
-    1 string data = "Taky vám lidé hubovali, když jste byli děti?"
+    1 string data = "Taky vám lidé hubovali, když jste byli dětmi?"
    [31]
     1 string data = "To proto jste odešli ze své vesnice?"
    [32]
@@ -87,7 +87,7 @@
    [36]
     1 string data = "No a už jsi to zkusil?"
    [37]
-    1 string data = "Je to moc nudné, nemohu to dělat jako všichni ostatní."
+    1 string data = "Je to moc nudné, nedokážu to dělat jako všichni ostatní."
    [38]
     1 string data = "Všem se to líbí, ale mně ne."
    [39]
@@ -105,11 +105,11 @@
    [45]
     1 string data = "Garl má pravdu!"
    [46]
-    1 string data = "Být normální nemusí být pro tebe, buď sám sebou!"
+    1 string data = "Ty nemusíš být normální jako ostatní, buď sám sebou!"
    [47]
     1 string data = "??"
    [48]
-    1 string data = "Jsi docela dobrý v magii země, viď?"
+    1 string data = "Jsi docela dobrý v magii země, viď že jo?"
    [49]
     1 string data = "Ano, rád kouzlím se zemí a kameny!"
    [50]
@@ -127,7 +127,7 @@
    [56]
     1 string data = "Nechci se předvádět."
    [57]
-    1 string data = "To je v pořádku, kámo, dej si na čas, když potřebuješ!"
+    1 string data = "To je v pořádku, kámo, dej si na čas, když to potřebuješ!"
    [58]
     1 string data = "..."
    [59]
@@ -157,7 +157,7 @@
    [71]
     1 string data = "Zatím zůstanu tady s Rockie."
    [72]
-    1 string data = "Děkuju, mám tě rád."
+    1 string data = "Děkuju ti, mám tě rád."
    [73]
     1 string data = "Drž se, Malkomude!"
    [74]

@@ -1055,7 +1055,7 @@
    [520]
     1 string data = "<color=bad>Trojko</color>, víš, co máš dělat."
    [521]
-    1 string data = "Čas kvapí. Probíhá to s přípravami vše podle plánu?"
+    1 string data = "Čas kvapí. Probíhá vše s přípravami podle plánu?"
    [522]
     1 string data = "Na zatmění budeme připraveni."
    [523]

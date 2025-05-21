@@ -105,7 +105,7 @@
    [45]
     1 string data = "Nezapomeňme si připravit svačinu na cestu."
    [46]
-    1 string data = "Ta věc s Živou manou je neskutečná, chci pořád posilovat!"
+    1 string data = "Ta věc s Živou manou je neskutečná, pořád bych posiloval!"
    [47]
     1 string data = "V této výšce žádnou loď nikdy nenajdeme. Musí tu být nějaká cesta dolů."
    [48]
@@ -147,7 +147,7 @@
    [66]
     1 string data = "Ještěže jsme opravili ten velký výtah ve vesničce Molekinů - už se nemůžu dočkat, až uvidím Svěžín!"
    [67]
-    1 string data = "Ta věc s Živou manou je neskutečná, chci pořád posilovat!"
+    1 string data = "Ta věc s Živou manou je neskutečná, pořád bych posiloval!"
    [68]
     1 string data = "Nemůžu uvěřit, že máme schůzku s piráty! To je neskutečné!"
    [69]

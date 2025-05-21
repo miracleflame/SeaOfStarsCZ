@@ -25,7 +25,7 @@
    [5]
     1 string data = "Hele, tato parta vypadá, že umí plout."
    [6]
-    1 string data = "Zdravíčko, je tohle vaše loď?"
+    1 string data = "Zdravíčko, tahle loď je vaše?"
    [7]
     1 string data = "Zadržte, cizinci!"
    [8]

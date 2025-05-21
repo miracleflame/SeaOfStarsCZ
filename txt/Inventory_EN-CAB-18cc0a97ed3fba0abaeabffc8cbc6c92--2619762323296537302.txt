@@ -1643,7 +1643,7 @@
    [814]
     1 string data = "Plně uzdravuje družinu při zvyšování úrovně."
    [815]
-    1 string data = "Přináší větší energii do kroku a družině se při zvyšování úrovně plně obnoví BŽ i BM."
+    1 string data = "Přináší do kroku víc energie - družině se při zvyšování úrovně plně obnoví BŽ i BM."
    [816]
     1 string data = "Znamenitá lupa"
    [817]

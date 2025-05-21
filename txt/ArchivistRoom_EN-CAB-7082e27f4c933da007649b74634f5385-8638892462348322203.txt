@@ -249,7 +249,7 @@
    [117]
     1 string data = "Zdá se, že ano, ale musíme se ujistit, není-li to napodobenina."
    [118]
-    1 string data = "Garle, mohl bys s ní prosím hodit o zeď?"
+    1 string data = "Garle, mohl bys s ní hodit o zeď, prosím?"
    [119]
     1 string data = "Já..."
    [120]

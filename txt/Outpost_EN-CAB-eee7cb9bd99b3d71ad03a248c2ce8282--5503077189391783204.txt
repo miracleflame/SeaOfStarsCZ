@@ -239,7 +239,7 @@
    [112]
     1 string data = "Tohle bude mé mistrovské dílo!"
    [113]
-    1 string data = "Ukážu světu, že my Molekini toho umíme víc než jen obrusovat modrozelený jantar, jen počkejte!"
+    1 string data = "Ukážu světu, že my Molekini toho umíme víc než jen obrušovat modrozelený jantar, jen počkejte!"
    [114]
     1 string data = "Tohle je zatím mé nejlepší dílo, ale musím se neustále zlepšovat."
    [115]
