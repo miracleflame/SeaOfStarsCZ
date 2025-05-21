@@ -13,126 +13,126 @@
   1 Array Array (62 items)
    0 int size = 62
    [0]
-    1 string data = "<button="MoveAll"> Select"
+    1 string data = "<button="MoveAll"> Vybrat"
    [1]
-    1 string data = "<button="UI_Confirm"> Confirm"
+    1 string data = "<button="UI_Confirm"> Potvrdit"
    [2]
-    1 string data = "<button="UI_SecondaryAction"> Validate"
+    1 string data = "<button="UI_SecondaryAction"> Ověřit"
    [3]
-    1 string data = "<button="UI_Back"> Back"
+    1 string data = "<button="UI_Back"> Zpět"
    [4]
-    1 string data = "<button="MoveVertical"> Set Height"
+    1 string data = "<button="MoveVertical"> Nastavit výšku"
    [5]
-    1 string data = "<button="MoveAll"> Select"
+    1 string data = "<button="MoveAll"> Vybrat"
    [6]
-    1 string data = "<button="UI_Confirm"> Confirm"
+    1 string data = "<button="UI_Confirm"> Potvrdit"
    [7]
-    1 string data = "<button="UI_Back"> Clear"
+    1 string data = "<button="UI_Back"> Vymazat"
    [8]
-    1 string data = "<button="UI_Back"> Exit"
+    1 string data = "<button="UI_Back"> Odejít"
    [9]
-    1 string data = "<button="MoveAll"> Select"
+    1 string data = "<button="MoveAll"> Vybrat"
    [10]
-    1 string data = "<button="Cancel"> Exit"
+    1 string data = "<button="Cancel"> Odejít"
    [11]
-    1 string data = "<button="Interact"> Move Piece"
+    1 string data = "<button="Interact"> Táhnout figurkou"
    [12]
-    1 string data = "<button="MoveAll"> Select"
+    1 string data = "<button="MoveAll"> Vybrat"
    [13]
-    1 string data = "<button="Interact"> Activate Piece"
+    1 string data = "<button="Interact"> Aktivovat figurku"
    [14]
-    1 string data = "<button="Interact"> Deactivate Piece"
+    1 string data = "<button="Interact"> Deaktivovat figurku"
    [15]
-    1 string data = "<button="RewindTime"><button="AdvanceTime"> Rotate Piece"
+    1 string data = "<button="RewindTime"><button="AdvanceTime"> Otočit figurku"
    [16]
-    1 string data = "<button="Cancel"> Exit"
+    1 string data = "<button="Cancel"> Odejít"
    [17]
-    1 string data = "<button="Interact"> Toggle Mode"
+    1 string data = "<button="Interact"> Přepnout režim"
    [18]
-    1 string data = "<button="MoveVertical"> Select Row"
+    1 string data = "<button="MoveVertical"> Vybrat řádek"
    [19]
-    1 string data = "<button="MoveHorizontal"> Select Column"
+    1 string data = "<button="MoveHorizontal"> Vybrat sloupec"
    [20]
-    1 string data = "<button="MoveHorizontal"> Move Pieces"
+    1 string data = "<button="MoveHorizontal"> Táhnout figurkami"
    [21]
-    1 string data = "<button="MoveVertical"> Move Pieces"
+    1 string data = "<button="MoveVertical"> Táhnout figurkami"
    [22]
-    1 string data = "<button="Cancel"> Exit"
+    1 string data = "<button="Cancel"> Odejít"
    [23]
-    1 string data = "<button="MoveAll"> Select"
+    1 string data = "<button="MoveAll"> Vybrat"
    [24]
-    1 string data = "<button="Interact"><button="WindBracelet"> Cycle Pieces"
+    1 string data = "<button="Interact"><button="WindBracelet"> Přecházet figurkami"
    [25]
-    1 string data = "<button="RewindTime"><button="AdvanceTime"> Rotate Lights"
+    1 string data = "<button="RewindTime"><button="AdvanceTime"> Otočit světla"
    [26]
-    1 string data = "<button="Cancel"> Exit"
+    1 string data = "<button="Cancel"> Odejít"
    [27]
-    1 string data = "<button="UI_SecondaryAction"> Toggle Party Context"
+    1 string data = "<button="UI_SecondaryAction"> Přepnout kontext družiny"
    [28]
-    1 string data = "<button="Cancel"> Graplou"
+    1 string data = "<button="Cancel"> Zahák"
    [29]
-    1 string data = "<button="AdvanceTime"> Whistle"
+    1 string data = "<button="AdvanceTime"> Zapískat"
    [30]
-    1 string data = "Not enough Tokens"
+    1 string data = "Nedostatek žetonů"
    [31]
-    1 string data = "Retry Minigame"
+    1 string data = "Opakovat minihru"
    [32]
-    1 string data = "End Minigame"
+    1 string data = "Ukončit minihru"
    [33]
-    1 string data = "Free DLC download required"
+    1 string data = "Vyžaduje se bezplatné stažení DLC"
    [34]
-    1 string data = "Add-on content required"
+    1 string data = "Vyžaduje se rozšíření"
    [35]
-    1 string data = "Add-on required"
+    1 string data = "Vyžaduje se rozšíření"
    [36]
-    1 string data = "Add-on required"
+    1 string data = "Vyžaduje se rozšíření"
    [37]
-    1 string data = "To continue further, the "Throes of the Watchmaker" DLC is required. Please try again after installing it."
+    1 string data = "Chcete-li pokračovat dále, je vyžadováno DLC 'Muka Hodinářky'. Po jeho instalaci to prosím zkuste znovu."
    [38]
-    1 string data = "To continue further, the "Throes of the Watchmaker" add-on content is required. Please try again after installing it."
+    1 string data = "Chcete-li pokračovat dále, je vyžadován přídavný obsah 'Muka Hodinářky'. Po jeho instalaci to prosím zkuste znovu."
    [39]
-    1 string data = "To continue further, the "Throes of the Watchmaker" add-on is required. Please try again after installing it."
+    1 string data = "Chcete-li pokračovat dále, je vyžadován přídavný obsah 'Muka Hodinářky'. Po jeho instalaci to prosím zkuste znovu."
    [40]
-    1 string data = "To continue further, the "Throes of the Watchmaker" add-on is required. Please try again after installing it."
+    1 string data = "Chcete-li pokračovat dále, je vyžadován přídavný obsah 'Muka Hodinářky'. Po jeho instalaci to prosím zkuste znovu."
    [41]
-    1 string data = "Open Nintendo eShop"
+    1 string data = "Navštívit Nintendo eShop"
    [42]
-    1 string data = "Open PlayStation®Store"
+    1 string data = "Navštívit PlayStation®Store"
    [43]
-    1 string data = "Open Microsoft Store"
+    1 string data = "Navštívit Microsoft Store"
    [44]
-    1 string data = "Open Steam Store Page"
+    1 string data = "Navštívit stránku obchodu Steam"
    [45]
-    1 string data = "B'gawk! Time Rune left! Time Rune left!"
+    1 string data = "B'waak! Je tam Časová Runa! Je tam Časová Runa!"
    [46]
-    1 string data = "<button="Interact"> Jump"
+    1 string data = "<button="Interact"> Skočit"
    [47]
-    1 string data = "<button="UI_SecondaryAction"> Push"
+    1 string data = "<button="UI_SecondaryAction"> Tlačit"
    [48]
-    1 string data = "DLC Available"
+    1 string data = "Je k dispozici DLC"
    [49]
-    1 string data = "Add-on content Available"
+    1 string data = "Je k dispozici přídavný obsah"
    [50]
-    1 string data = "Add-on Available"
+    1 string data = "Je k dispozici přídavný obsah"
    [51]
-    1 string data = "Add-on Available"
+    1 string data = "Je k dispozici přídavný obsah"
    [52]
-    1 string data = "The world of Horloge awaits! Load any game file that has rolled credits to begin."
+    1 string data = "Svět Horloge čeká! Nahrajte libovolnou pozici po záverečných titulcích, abyste mohli začít."
    [53]
-    1 string data = "Close"
+    1 string data = "Zavřít"
    [54]
-    1 string data = "Renown"
+    1 string data = "Renomé"
    [55]
-    1 string data = "Buy for <color=#FFFFFF>[PRICE]</color> T?"
+    1 string data = "Koupit za <color=#FFFFFF>[PRICE]</color> T?"
    [56]
-    1 string data = "Sell for <color=#FFFFFF>[PRICE]</color> T?"
+    1 string data = "Prodat za <color=#FFFFFF>[PRICE]</color> T?"
    [57]
-    1 string data = "<button="UI_Confirm"> Fast Forward"
+    1 string data = "<button="UI_Confirm"> Rychlé přetočení"
    [58]
-    1 string data = "GO!"
+    1 string data = "JEĎ!"
    [59]
-    1 string data = "!!! MALEVOLENT SPECTACLE AWAITS !!!"
+    1 string data = "!!! ZLOVĚSTNÁ PODÍVANÁ ČEKÁ !!!"
    [60]
-    1 string data = "Combat is more challenging in Horloge,<br>so remember the basics: <color=#FFDEAA>timing hits</color> and <color=#FFDEAA>blocks</color> while <color=#FFDEAA>breaking enemy locks</color>."
+    1 string data = "Souboje jsou v Horloge náročnější,<br>tak pamatujte na základy: <color=#FFDEAA>načasování úderů</color> a <color=#FFDEAA>bloků</color> a zároveň <color=#FFDEAA>prolomení nepřátelských zámků</color>."
    [61]
-    1 string data = "You can adjust difficulty at any time through the <color=#FFDEAA>Relics menu</color>. Safe travels! "
+    1 string data = "Obtížnost můžete kdykoli upravit prostřednictvím nabídky <color=#FFDEAA>Relikvií</color>. Štastnou cestu! "

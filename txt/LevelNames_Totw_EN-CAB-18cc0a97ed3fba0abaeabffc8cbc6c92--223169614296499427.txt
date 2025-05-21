@@ -15,36 +15,36 @@
    [0]
     1 string data = "Horloge"
    [1]
-    1 string data = "Town of Horloge"
+    1 string data = "Město Horloge"
    [2]
-    1 string data = "Oubliettes"
+    1 string data = "Kobka"
    [3]
-    1 string data = "Wolf Rock"
+    1 string data = "Vlčí skála"
    [4]
-    1 string data = "Ivory Towers"
+    1 string data = "Slonovinové věže"
    [5]
-    1 string data = "Big Top"
+    1 string data = "Šapitó"
    [6]
-    1 string data = "Goodies Pond"
+    1 string data = "Rybník dobrot"
    [7]
-    1 string data = "Were-Lake"
+    1 string data = "Vlkozero"
    [8]
-    1 string data = "Clockwork Plains"
+    1 string data = "Mechanické pláně"
    [9]
-    1 string data = "Rail Forest"
+    1 string data = "Housenkový les"
    [10]
-    1 string data = "Bounty Basin"
+    1 string data = "Vana odměn"
    [11]
-    1 string data = "Horloge Station"
+    1 string data = "Stanice Horloge"
    [12]
-    1 string data = "Wolf Rock Station"
+    1 string data = "Stanice Vlčí skála"
    [13]
-    1 string data = "Ivory Towers Station"
+    1 string data = "Stanice Slonovinové věže"
    [14]
-    1 string data = "Lost Island Station"
+    1 string data = "Stanice Stracený ostrov"
    [15]
-    1 string data = "Big Top Station"
+    1 string data = "Stanice Šapitó"
    [16]
-    1 string data = "Lost Island"
+    1 string data = "Stracený ostrov"
    [17]
-    1 string data = "Ivory Towers Island"
+    1 string data = "Ostrov Slonovinových věží"

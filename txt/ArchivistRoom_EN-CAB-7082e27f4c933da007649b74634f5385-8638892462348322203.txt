@@ -37,7 +37,7 @@
    [11]
     1 string data = "Ale především, příběh o hrdinství."
    [12]
-    1 string data = "Věřím, že právě tento příběh nabídne cenné poznatky pro nalezení řešení soužení <color=bad>Karnimanta</color>."
+    1 string data = "Věřím, že právě tento příběh nabídne cenné poznatky k nalezení řešení pro muka <color=bad>Karnimanta</color>."
    [13]
     1 string data = "Náš příběh začíná ve světě, který před několika generacemi Karnimant navštívil, způsobil tam obrovský chaos a zanechal po sobě stopu, která ještě nebyla zcela očištěna."
    [14]

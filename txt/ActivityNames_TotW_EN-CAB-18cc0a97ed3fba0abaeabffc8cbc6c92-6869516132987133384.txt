@@ -13,16 +13,16 @@
   1 Array Array (7 items)
    0 int size = 7
    [0]
-    1 string data = "To clockwork horizons"
+    1 string data = "K mechanickým obzorům"
    [1]
-    1 string data = "Enter the Artificer"
+    1 string data = "Budiž Artifik"
    [2]
-    1 string data = "ALL ABOAAAARD!!"
+    1 string data = "VŠICHNI NASTUPOVAAAT!!"
    [3]
-    1 string data = "Mask of Vanity"
+    1 string data = "Maska marnosti"
    [4]
-    1 string data = "Lycanthropic Rage"
+    1 string data = "Lykantropický běs"
    [5]
-    1 string data = "The Puppeteer's Big Top"
+    1 string data = "Šapitó Loutkaře"
    [6]
-    1 string data = "Grand Finale"
+    1 string data = "Velké finále"

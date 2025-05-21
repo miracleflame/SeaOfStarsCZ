@@ -13,10 +13,10 @@
   1 Array Array (4 items)
    0 int size = 4
    [0]
-    1 string data = "Return to the Clockwork Castle?"
+    1 string data = "Vrátit se do Mechanického hradu?"
    [1]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [2]
-    1 string data = "No"
+    1 string data = "Ne"
    [3]
-    1 string data = "Welcome to Horloge!"
+    1 string data = "Vítejte v Horloge!"

@@ -13,30 +13,30 @@
   1 Array Array (14 items)
    0 int size = 14
    [0]
-    1 string data = "Marquee Star"
+    1 string data = "Markízta"
    [1]
-    1 string data = "Unlock all skills and combos for circus classes"
+    1 string data = "Odemkněte všechny dovednosti a komba pro cirkusové třídy"
    [2]
-    1 string data = "Carnival Culinarian"
+    1 string data = "Karnevalový kulinář"
    [3]
-    1 string data = "Cook each of the five Horloge recipes at least once"
+    1 string data = "Ukuchtěte alespoň jednou každý z pěti receptů Horloge"
    [4]
-    1 string data = "Warlocked"
+    1 string data = "Dozaklínáno"
    [5]
-    1 string data = "Beat all of Horloge's Wheels champions"
+    1 string data = "Poražte všechny Kotoučové šampiony v Horloge"
    [6]
-    1 string data = "Unrivaled Wonder"
+    1 string data = "Nepřekonaný div"
    [7]
-    1 string data = "Earn top rank in all three of Horloge's minigames"
+    1 string data = "Obsaďte nejvyšší příčku ve všech třech minihrách Horloge"
    [8]
-    1 string data = "Clockworkn't"
+    1 string data = "Zmechanizováno"
    [9]
-    1 string data = "Defeat Dweller of Scourge"
+    1 string data = "Poražte Přiživovače Soužení"
    [10]
-    1 string data = "What doth it meanst?"
+    1 string data = "Cožpak to chce býti?"
    [11]
-    1 string data = "Bear witness to the secret vision"
+    1 string data = "Staňte se svědkem tajné vize"
    [12]
-    1 string data = "Throes of the Watchmaker"
+    1 string data = "Muka hodinářky"
    [13]
-    1 string data = "Trophies for Throes of the Watchmaker DLC"
+    1 string data = "Trofeje z DLC Muka hodinářky"
