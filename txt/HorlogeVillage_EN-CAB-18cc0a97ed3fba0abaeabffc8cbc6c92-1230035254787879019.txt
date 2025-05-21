@@ -1,0 +1,840 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "HorlogeVillage_EN"
+ 1 string locCategoryId = "Totw/HorlogeVillage"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (413 items)
+   0 int size = 413
+   [0]
+    1 string data = "This must be the town."
+   [1]
+    1 string data = "Aye, these be new horizons alright!"
+   [2]
+    1 string data = "New travelers!"
+   [3]
+    1 string data = "The Puppeteer has sensed them!"
+   [4]
+    1 string data = "Hide!!!"
+   [5]
+    1 string data = "Who dares enter my realm?"
+   [6]
+    1 string data = "Servants! Onto them!"
+   [7]
+    1 string data = "Hey, I’m Zale. We're looking for-"
+   [8]
+    1 string data = "Are you seeing what I'm seeing, Pouf?"
+   [9]
+    1 string data = "Reckon I am, Pif! Have they come to play?"
+   [10]
+    1 string data = "We're here to-"
+   [11]
+    1 string data = "Oh, I see how it is, Pif."
+   [12]
+    1 string data = "You and I both, Pouf!"
+   [13]
+    1 string data = "THEY THINK THEY CAN RUN THIS SHOW!"
+   [14]
+    1 string data = "Can't we just-"
+   [15]
+    1 string data = "I see two in there who will make formidable twins!"
+   [16]
+    1 string data = "They will be positively phenomenal!"
+   [17]
+    1 string data = "They will be serendipitously monumental!"
+   [18]
+    1 string data = "Ahoy, [MAINCHAR]! How ‘bout the two ov ye knock some sense into these actual clowns?"
+   [19]
+    1 string data = "We just need information."
+   [20]
+    1 string data = "Are they still talking, Pif?"
+   [21]
+    1 string data = "They seem to do that a lot, Pouf."
+   [22]
+    1 string data = "I say we gag them!"
+   [23]
+    1 string data = "I say we bash them!"
+   [24]
+    1 string data = "I say we tie them to a tree!"
+   [25]
+    1 string data = "I say we grind them into confetti!"
+   [26]
+    1 string data = "I say we take it too far!"
+   [27]
+    1 string data = "I say we pickle them in a jar!"
+   [28]
+    1 string data = "ENOUGH!"
+   [29]
+    1 string data = "We are Solstice Warriors, and we have come to cleanse this place."
+   [30]
+    1 string data = "Stand down, or else!"
+   [31]
+    1 string data = "OH!!?"
+   [32]
+    1 string data = "Are you thinking what I'm thinking, Pouf?"
+   [33]
+    1 string data = "This is as good as it gets, Pif."
+   [34]
+    1 string data = "We won't warn you again."
+   [35]
+    1 string data = "Utterly clueless about stepping out of place!"
+   [36]
+    1 string data = "Reckon we should give them a taste!"
+   [37]
+    1 string data = "IT’S SHOWTIME!"
+   [38]
+    1 string data = "Good spectacle, this is not!"
+   [39]
+    1 string data = "Can it really be all they've got?"
+   [40]
+    1 string data = "Honk-a-doodle! I've never seen a performance so bland!"
+   [41]
+    1 string data = "My embarrassment for them is growing a second hand!"
+   [42]
+    1 string data = "Nothing's working..."
+   [43]
+    1 string data = "How is this possible.."
+   [44]
+    1 string data = "Solely driven by duty!"
+   [45]
+    1 string data = "Little to no sense of identity!"
+   [46]
+    1 string data = "The least self-aware creatures I've ever seen!"
+   [47]
+    1 string data = "Their twins shall be King and Queen!"
+   [48]
+    1 string data = "Oh please, must you really do this?"
+   [49]
+    1 string data = "We are suffering enough as it is. No more twins!"
+   [50]
+    1 string data = "When did they start talking back, Pif?"
+   [51]
+    1 string data = "Seems we're entering a new era, Pouf."
+   [52]
+    1 string data = "Let them go!"
+   [53]
+    1 string data = "CAN IT, OR WE WILL CALL MONSIEUR TENDU!"
+   [54]
+    1 string data = "Aaaah! No, please don't!"
+   [55]
+    1 string data = "Anything but Monsieur Tendu!"
+   [56]
+    1 string data = "I say we give him a ring-a-ding anyway, Pouf."
+   [57]
+    1 string data = "You're snooping around in my brain waves, Pif!"
+   [58]
+    1 string data = "By order of The Puppeteer, these two Solstice Warriors are to be turned into twins."
+   [59]
+    1 string data = "We won’t let you!"
+   [60]
+    1 string data = "Slow learners, I see."
+   [61]
+    1 string data = "Monsieur Tendu! Sap their innate magic at once!"
+   [62]
+    1 string data = "I feel... weak..."
+   [63]
+    1 string data = "Any guess as to what the darkest corners of their minds contained, Pouf?"
+   [64]
+    1 string data = "I'm itching like a rubber chicken in a feather shop to know, Pif!"
+   [65]
+    1 string data = "*Huff, huff*... You won't get away with this..."
+   [66]
+    1 string data = "Ha! We made you slip on the banana, and no one saw the peel!"
+   [67]
+    1 string data = "Now you'll be juggling bars in the clink while the boss cooks up the grand reveal!"
+   [68]
+    1 string data = "MONSIEUR TENDU!! TAKE THESE DETRACTORS TO THE OUBLIETTES!!"
+   [69]
+    1 string data = "Ah, fresh air at last!"
+   [70]
+    1 string data = "Feels good to be out, doesn't it?"
+   [71]
+    1 string data = "Fardush, we need to hurry."
+   [72]
+    1 string data = "Oh, right, your twins! We'll need my train."
+   [73]
+    1 string data = "Your train?"
+   [74]
+    1 string data = "It’s the only way to get around in this world, especially with the two new areas that just appeared..."
+   [75]
+    1 string data = "Well, then, let’s see it!"
+   [76]
+    1 string data = "..."
+   [77]
+    1 string data = "Is there a problem, brave conductor?"
+   [78]
+    1 string data = "Well, it’s..."
+   [79]
+    1 string data = "When they caught me they also hexed my train and... It left the rails..."
+   [80]
+    1 string data = "(Tell him we can fix it!)"
+   [81]
+    1 string data = "(That’s not the issue.)"
+   [82]
+    1 string data = "It's somewhere in Rail Forest, to the north. I can feel it."
+   [83]
+    1 string data = "You could probably deal with the monsters out there, but alas..."
+   [84]
+    1 string data = "The Puppeteer also took the key, so even with my train back, we'd be stuck here all the same."
+   [85]
+    1 string data = "(I think that’s our cue for the gift that was in the Watchmaker’s box.)"
+   [86]
+    1 string data = "(Let’s wait and see for now.)"
+   [87]
+    1 string data = "*ahem*"
+   [88]
+    1 string data = "The Puppeteer also took the key, so even with my train back, we'd be stuck here all the same."
+   [89]
+    1 string data = "(Yeah, I think Toe was right.)"
+   [90]
+    1 string data = "(Just act normal, okay? No big intro!)"
+   [91]
+    1 string data = "(Alright, alright...)"
+   [92]
+    1 string data = "Uh, excuse me, Fardush?"
+   [93]
+    1 string data = "I have a gift for you."
+   [94]
+    1 string data = "Oh? Why, thank you! May I open it now?"
+   [95]
+    1 string data = "Of course!"
+   [96]
+    1 string data = "The prophecies were true! It's from our Creator!"
+   [97]
+    1 string data = "How did she know? This is EXACTLY what I wanted!"
+   [98]
+    1 string data = "And that is?"
+   [99]
+    1 string data = "A duplicate key, no less!"
+   [100]
+    1 string data = "Well, now we're only missing my train! Whenever you're ready, Rail Forest is to the north."
+   [101]
+    1 string data = "Just make sure you're well equipped before heading out. Holorge's got all manners of shops and minigames!"
+   [102]
+    1 string data = "Whenever you're ready, Rail Forest is to the north."
+   [103]
+    1 string data = "Just make sure you're well equipped before heading out. Holorge's got all manners of shops and minigames!"
+   [104]
+    1 string data = "Well, maybe not “tonight only”, and more like “until this whole thing gets resolved”."
+   [105]
+    1 string data = "Anyway, this next song’s ‘bout that time Valtraid suplexed a train, which happened some twenty minutes ago. Hit it!"
+   [106]
+    1 string data = "Ready to face your evil twin?"
+   [107]
+    1 string data = "I'm curious more than anything."
+   [108]
+    1 string data = "I don’t know, I can picture yours being pretty gnarly."
+   [109]
+    1 string data = "Hey!"
+   [110]
+    1 string data = "Come quick, there’s an announcement!"
+   [111]
+    1 string data = "For what?"
+   [112]
+    1 string data = "It’s... Well, you should see for yourself."
+   [113]
+    1 string data = "Hear ye, hear ye!"
+   [114]
+    1 string data = "Our beloved Narcis King hereby invites every and all subjects to marvel at his person."
+   [115]
+    1 string data = "(Narcis King...?)"
+   [116]
+    1 string data = "Today only, tickets are free for all who dream of a chance to glance at the Ivory Towers’ succulent décor."
+   [117]
+    1 string data = "Which, we can only assume, means every single one of you."
+   [118]
+    1 string data = "FORM A LINE, PEASANTS! Our great Narcis King will be paid his due respects!"
+   [119]
+    1 string data = "Oh, I'll pay my respects alright."
+   [120]
+    1 string data = "!!!"
+   [121]
+    1 string data = "You... !?"
+   [122]
+    1 string data = "One ticket, please."
+   [123]
+    1 string data = "Of course! We will be expecting your visit, along with your compliments."
+   [124]
+    1 string data = "WE MARCH!"
+   [125]
+    1 string data = "Sounds like an annoying twin more than an evil one. Right, Zale?"
+   [126]
+    1 string data = "Zale?"
+   [127]
+    1 string data = "Fardush is waiting at the station. Are you ready to go?"
+   [128]
+    1 string data = "Zale! Are you coming?"
+   [129]
+    1 string data = "I... yes..."
+   [130]
+    1 string data = "(Narcis King...?)"
+   [131]
+    1 string data = "Ahoy, welcome back!"
+   [132]
+    1 string data = "What happened here?"
+   [133]
+    1 string data = "Something wild, pal."
+   [134]
+    1 string data = "Why is everyone hiding?"
+   [135]
+    1 string data = "It’s your evil twin, I’m afraid. Her followers have caused quite the stir."
+   [136]
+    1 string data = "They referred to her as “Feral Queen.”"
+   [137]
+    1 string data = "Feral Queen?"
+   [138]
+    1 string data = "Bit ov a pent-up anger issue, aye?"
+   [139]
+    1 string data = "..."
+   [140]
+    1 string data = "Nothing y'all can't fix, I'm sure!"
+   [141]
+    1 string data = "Y'alright there, Zale?"
+   [142]
+    1 string data = "Hey, I'll go looking for the next ticket. You two take a breather, okay?"
+   [143]
+    1 string data = "I... Thanks, Arty."
+   [144]
+    1 string data = "You've been quiet since the throne room. I know he got under your skin… but it’s more than that, isn’t it?"
+   [145]
+    1 string data = "He was right, in a way. I've always told myself I fight for others, that it’s about protecting them. But… part of me does want to be seen, to be… important."
+   [146]
+    1 string data = "That doesn't mean you're like him, Zale. He uses his power for himself. You're different."
+   [147]
+    1 string data = "Am I, though? I see the admiration in people’s eyes, and sometimes I… I want it. And that makes me feel like… Like maybe I'm not as selfless as I should be."
+   [148]
+    1 string data = "I think I need some time to sit with it. This all feels heavier than I expected."
+   [149]
+    1 string data = "Take your time, I'll go check in with Arty."
+   [150]
+    1 string data = "Zale! Come quickly, we need you right now!"
+   [151]
+    1 string data = "Always holding back, always controlled... Doesn't it exhaust you, Valere? Pretending you don't crave a taste of real freedom?"
+   [152]
+    1 string data = "Discipline isn't a weakness. I know what I'm fighting for."
+   [153]
+    1 string data = "Discipline? Is that what you call the chains you wrap around yourself?"
+   [154]
+    1 string data = "You're just afraid to let go. To feel the power that comes with finally doing what YOU want, instead of what duty demands."
+   [155]
+    1 string data = "That ain't freedom. What you're talking about is chaos."
+   [156]
+    1 string data = "And maybe chaos is exactly what you need."
+   [157]
+    1 string data = "Yes... you're feeling it, aren't you, Valere?"
+   [158]
+    1 string data = "The rage. Let it in... EMBRACE YOUR FURY!!!"
+   [159]
+    1 string data = "GET BACK HERE, YOU COWARD!"
+   [160]
+    1 string data = "Valere! Arty said-"
+   [161]
+    1 string data = "Oh, finally done moping around? We don't have all day, it's time to go!"
+   [162]
+    1 string data = "What? I was just taking a moment…"
+   [163]
+    1 string data = "We've had plenty of those. The world's not going to wait while you 'take a moment'. Come on, I got our ticket."
+   [164]
+    1 string data = "Fine. I'm ready."
+   [165]
+    1 string data = "...And then, he said, “Pants? What pants?""
+   [166]
+    1 string data = "HAHAHAHAHA!"
+   [167]
+    1 string data = "HAHAHAHAHA!"
+   [168]
+    1 string data = "HAHAHAHAHA!"
+   [169]
+    1 string data = "Alright, alright. Here’s some more tunes."
+   [170]
+    1 string data = "…But more importantly, I'm sorry for how I acted earlier. I shouldn't have pushed you away like that."
+   [171]
+    1 string data = "I get it, Valere. Facing them… it brought up things we weren't ready to look at."
+   [172]
+    1 string data = "Part of me still wonders if there's truth to what my twin said about me…"
+   [173]
+    1 string data = "She made me question a lot too, but I see more clearly after confronting her."
+   [174]
+    1 string data = "We all have parts of ourselves we're not proud of... But maybe the difference is that we care about what they mean, and that we're willing to face them."
+   [175]
+    1 string data = "Our twins may be consumed by their darker traits, but we don't have to be."
+   [176]
+    1 string data = "Still... If I'm going to move forward, I need to come to terms with that part of myself."
+   [177]
+    1 string data = "I can't keep fighting it… or worse, hiding from it."
+   [178]
+    1 string data = "Hey, you two faced the worst parts of yourselves and still came back!"
+   [179]
+    1 string data = "That says a lot more than anything some evil twins ever could."
+   [180]
+    1 string data = "Excuse me, [MAINCHAR] and [OFFCHAR]?"
+   [181]
+    1 string data = "This is for you."
+   [182]
+    1 string data = "Well, this is it. The main event."
+   [183]
+    1 string data = "How are you feeling?"
+   [184]
+    1 string data = "A bit unsure about fighting a Dweller without my real powers, but it’s not like we have a choice."
+   [185]
+    1 string data = "(We should tell them about our idea.)"
+   [186]
+    1 string data = "(I say we save it for later as a surprise!)"
+   [187]
+    1 string data = "(No, that’s not fair.)"
+   [188]
+    1 string data = "(You said it was okay to keep surprises secret earlier!)"
+   [189]
+    1 string data = "(Okay, fine!)"
+   [190]
+    1 string data = "Anyway, Fardush’s probably waiting for us."
+   [191]
+    1 string data = "Ready to go, Arty?"
+   [192]
+    1 string data = "Of course!"
+   [193]
+    1 string data = "Another quest completed! Thank you, dear comrades."
+   [194]
+    1 string data = "This could have gone terribly wrong without your strength and determination."
+   [195]
+    1 string data = "You've not only solved the problem, but restored hope where there was none."
+   [196]
+    1 string data = "I've gotta say, I'm glad I got to tag along for the ride. What a story to tell, huh?"
+   [197]
+    1 string data = "You saved us more than once, Arty. We couldn't have done this without you."
+   [198]
+    1 string data = "Ha! Well, it’s not every day you get to fight side by side with heroes."
+   [199]
+    1 string data = "And heroes you all are. You've shown tremendous courage, and have earned more than victory. You have the gratitude of everyone here."
+   [200]
+    1 string data = "So, it’s really over... I'll miss this, being out here with you two, fighting for something big."
+   [201]
+    1 string data = "Well, you're more than welcome to return here at any time. And who knows? There might be a thing or two you missed along the way."
+   [202]
+    1 string data = "It’s been a wild ride, but it’s time to head back. The real world is waiting, and The Fleshmancer is still out there."
+   [203]
+    1 string data = "Aye, it's a wrap, then? Lead the way, mate. I do be missin' this lil' boat ov ours!"
+   [204]
+    1 string data = "Excuse me… before we leave, if I may…"
+   [205]
+    1 string data = "This life belongs to the craft."
+   [206]
+    1 string data = "But if that is your wish… I have ways to ensure we meet in the next one."
+   [207]
+    1 string data = "Why, another grand adventure! I shall look forward to it!"
+   [208]
+    1 string data = "So that the future may be, a vision lies within. Should you be worthy of its stewardship, present yourself."
+   [209]
+    1 string data = "This is not for us..."
+   [210]
+    1 string data = "Hey, guys!"
+   [211]
+    1 string data = "Garl? What are you doing here?"
+   [212]
+    1 string data = "Special permission!"
+   [213]
+    1 string data = "Uh, would you mind? I need to take care of something here real quick."
+   [214]
+    1 string data = "You know about this thing?"
+   [215]
+    1 string data = "I wish I could explain, but I made a promise. Sorry."
+   [216]
+    1 string data = "Just trust me on this one, okay?"
+   [217]
+    1 string data = "As long as it's safe."
+   [218]
+    1 string data = "Totally! I'll just be a moment!"
+   [219]
+    1 string data = "Alright, now to "present myself"…"
+   [220]
+    1 string data = "*ahem*... Okay, how about…"
+   [221]
+    1 string data = "Ovate of Time!"
+   [222]
+    1 string data = "So that the future may be, the one whose familiar is the raven has allowed my return."
+   [223]
+    1 string data = "I was shown the birth of this world, and observed the one whose familiar is the sparrow."
+   [224]
+    1 string data = "How it all connects is lost on me, but this I know. You need a message, I believe it's a warning, to reach you in a future life."
+   [225]
+    1 string data = "..."
+   [226]
+    1 string data = "Uh, and don't worry, I won't tell your current incarnation. Does she even know why she needed to make this clock?"
+   [227]
+    1 string data = "*ahem*... Anyway…"
+   [228]
+    1 string data = "Entrust your vision to me, for I am the flame that refused to die."
+   [229]
+    1 string data = "Entrust your vision to me, for I am the shepherd of Guardian Gods."
+   [230]
+    1 string data = "ENTRUST YOUR VISION TO ME, FOR I AM THE <color=#F9BB11>OVATE OF HOPE</color>!"
+   [231]
+    1 string data = "So, it's decided then. It may take centuries, but their power will vanish."
+   [232]
+    1 string data = "When the time comes, the Demon Army will be ready."
+   [233]
+    1 string data = "And I will craft the most powerful spell the world has ever seen."
+   [234]
+    1 string data = "A storm big enough to engulf all life! Utter cataclysm!"
+   [235]
+    1 string data = "Yes... a flood for the ages..."
+   [236]
+    1 string data = "(Centuries…)"
+   [237]
+    1 string data = "(A simple message won't reach that far. We need a prophecy…)"
+   [238]
+    1 string data = "Howdy, travelers! Need anything for the journey ahead?"
+   [239]
+    1 string data = "A fine troupe deserves fine lodgings! Will you be staying the night?"
+   [240]
+    1 string data = "Yes"
+   [241]
+    1 string data = "No"
+   [242]
+    1 string data = "<sprite="dialog-generic-icons" name="arrow-north">  Rail Forest"
+   [243]
+    1 string data = "Help wanted. My train was lost in the Rail Forest. Call Fardush."
+   [244]
+    1 string data = "Want to buy ticket to Ivory Towers. Call Villager."
+   [245]
+    1 string data = "Want to sell ticket to Ivory Towers. Call Villager."
+   [246]
+    1 string data = "Looking for barber that can recreate Feral Queen's haircut. Call Villager."
+   [247]
+    1 string data = "Help wanted for the big parade. Meet in Sundial Square."
+   [248]
+    1 string data = "Hey, weren't you sent to the Oubliettes? No one's ever escaped before!"
+   [249]
+    1 string data = "I got my ticket to visit Narcis King's towers. Will you be going too?"
+   [250]
+    1 string data = "Everything went dark all of a sudden. It was kind of whimsical, actually!"
+   [251]
+    1 string data = "What!? How did you manage to find tickets to the Big Top? No one's ever been invited before!"
+   [252]
+    1 string data = "You've defeated The Puppeteer? Does this mean we're free now?"
+   [253]
+    1 string data = "It was just a normal day, but then two entirely new areas appeared! These are strange times we're living in..."
+   [254]
+    1 string data = "The shop's inventory keeps expanding. Make sure you've got the latest before heading out!"
+   [255]
+    1 string data = "The shop's inventory keeps expanding. Make sure you've got the latest before heading out!"
+   [256]
+    1 string data = "The shop's inventory keeps expanding. Make sure you've got the latest before heading out!"
+   [257]
+    1 string data = "No more Puppeteer. Now that, I can live with."
+   [258]
+    1 string data = "Rail Forest? It's north of town, through the train station here. "
+   [259]
+    1 string data = "I'm worried about the people who took a ticket. Something about this Narcis King doesn't feel right... "
+   [260]
+    1 string data = "I was lucky enough to dodge the attack, but they scratched my favorite spot to stand on!"
+   [261]
+    1 string data = "Are you really going to face The Puppeteer? I doubt you can do it, but you do you."
+   [262]
+    1 string data = "The Puppeteer's been defeated! I knew you could do it!"
+   [263]
+    1 string data = "Some people are saying that the big device in Sundial Square contains a secret, but I think it's just a myth!"
+   [264]
+    1 string data = "Some people are saying that the big device in Sundial Square contains a secret, but I think it's just a myth!"
+   [265]
+    1 string data = "Some pretty scary things have been happening lately. You stay safe, alright?"
+   [266]
+    1 string data = "Have you found all of the Time Runes yet?"
+   [267]
+    1 string data = "Have you found all of the Time Runes yet?"
+   [268]
+    1 string data = "Oh, I've never seen you around here before! Are you competing in the minigames?"
+   [269]
+    1 string data = "I got my ticket! Narcis King has so much class, I can't wait to see the place!"
+   [270]
+    1 string data = "I saw everything! Do you think the Feral Queen is stronger than Monsieur Tendu?"
+   [271]
+    1 string data = "Big Top? I hear the place is really spooky!"
+   [272]
+    1 string data = "Thanks for your help, but to be honest, I kind of miss the action."
+   [273]
+    1 string data = "We used to live in peace before The Puppeteer came. The streets were filled with laughter..."
+   [274]
+    1 string data = "You'd think we had enough to worry about already, but now a king?"
+   [275]
+    1 string data = "Are you going to Wolf Rock? Better be careful..."
+   [276]
+    1 string data = "A private invitation? I hope you know what you're doing..."
+   [277]
+    1 string data = "I never thought I'd see the day! Thank you, brave adventurers!"
+   [278]
+    1 string data = "Welcome to Horloge! Will your troupe be staying long?"
+   [279]
+    1 string data = "Everyone's talking about Narcis King now! I should have left my post to catch the parade."
+   [280]
+    1 string data = "Feral Queen? I never should have accepted this job, I keep missing out on everything that happens!"
+   [281]
+    1 string data = "And now an invitation to the Big Top? At this point I feel like everyone is just making things up to mock me."
+   [282]
+    1 string data = "The heroes of Horloge! Always a reassuring sight."
+   [283]
+    1 string data = "Oh, you're the ones who came down the elevator out in the plains! We all thought it was broken!"
+   [284]
+    1 string data = "I don't like that Narcis King fella. Can't spell POSTER without POSER, that's what I always say!"
+   [285]
+    1 string data = "I did have werewolves on my bingo card, in fact."
+   [286]
+    1 string data = "So much has been happening lately, I'm losing track."
+   [287]
+    1 string data = "All that time spent watching the elevator really paid off, I saw our Creator walking in first!  But now that I think about it, maybe I should have said hi..."
+   [288]
+    1 string data = "We locked the gate when Fardush lost his train. Can't have people venturing on the rails on foot!"
+   [289]
+    1 string data = "The gate's reopened. We can finally ride the train again!"
+   [290]
+    1 string data = "You have a ticket to Wolf Rock? Are you sure this is a good idea?"
+   [291]
+    1 string data = "Big Top? It's to the north, but I wouldn't recommend it."
+   [292]
+    1 string data = "Here to do some exploring? The train's all yours!"
+   [293]
+    1 string data = "I haven't been to the Rail Forest in a long time. I hear there are monsters there now..."
+   [294]
+    1 string data = "The train's back? We thought we'd lost it for good this time!"
+   [295]
+    1 string data = "It feels safe in here, at least..."
+   [296]
+    1 string data = "At least it's not dark outside anymore."
+   [297]
+    1 string data = "Congratulations on your spectacular show of force! Maybe I can take a trip to Big Top now."
+   [298]
+    1 string data = "The town's alive again! Was it your doing?"
+   [299]
+    1 string data = "I missed the announcement! Is it too late to get a ticket?"
+   [300]
+    1 string data = "Are the werewolves finally gone?"
+   [301]
+    1 string data = "Everyone's talking about the big event. Do you really think you can defeat The Puppeteer? "
+   [302]
+    1 string data = "Thank you, you truly are a terrific troupe! We can move on from fear at last."
+   [303]
+    1 string data = "I've always been fascinated by this contraption. Do you think the stories are true?"
+   [304]
+    1 string data = "(So there would be twelve of them...)"
+   [305]
+    1 string data = "(So there would be twelve of them...)"
+   [306]
+    1 string data = "(So there would be twelve of them...)"
+   [307]
+    1 string data = "Have you explored everything already?"
+   [308]
+    1 string data = "All of this for an elevator...?"
+   [309]
+    1 string data = "Mom says I'm too young to play Wheels, but she didn't say anything about watching!"
+   [310]
+    1 string data = "It's good to have the tavern back. Nothing like a good oil drink after a hard day's work. "
+   [311]
+    1 string data = "Now THAT's music!"
+   [312]
+    1 string data = "The Puppeteer is hands down, palpably, by far, as sure as eggs is eggs, one of the bad things that has happened to Horloge."
+   [313]
+    1 string data = "Pif and Pouf are easily, without a shadow of a doubt, in every way, shape and form, downright, two of the minions of The Puppeteer."
+   [314]
+    1 string data = "Fardush's back in town, huh? Will he be getting his train back?"
+   [315]
+    1 string data = "It got pretty scary when Monsieur Tendu showed up. But now we can play Wheels again, so, today is a good day, all things considered."
+   [316]
+    1 string data = "I've never seen instruments such as these before. Fascinating!"
+   [317]
+    1 string data = "The train's up and running again? Finally, it's been too long since I went fishing at my favorite spot."
+   [318]
+    1 string data = "Isn't the music amazing?"
+   [319]
+    1 string data = "I waited for hours and couldn't get a ticket. I'm kind of jealous..."
+   [320]
+    1 string data = "I can't hear it when you keep talking! "
+   [321]
+    1 string data = "My son wants to become either a pirate or a musician when he grows up. Imagine his delight!"
+   [322]
+    1 string data = "Look, mom! Even the small octopus is playing music!"
+   [323]
+    1 string data = "Wheels ain't for me. Everything just starts moving and before I can understand what's going on I've already lost."
+   [324]
+    1 string data = "Hey, don't ruin my hiding spot! Find your own!"
+   [325]
+    1 string data = "With everything happening outside, I don't really feel like playing anymore..."
+   [326]
+    1 string data = "Are you okay? You seem pretty nervous..."
+   [327]
+    1 string data = "Wolf Rock? No thanks."
+   [328]
+    1 string data = "I almost got bitten by a werewolf earlier. That's enough to call in sick, right?"
+   [329]
+    1 string data = "I can't defeat this champion! I'll need to rethink my Wheels combo."
+   [330]
+    1 string data = "Have you heard about the last Warlock figurine? Apparently someone tossed it in a lake. What a waste!"
+   [331]
+    1 string data = "Good riddance to that Feral Queen! But it looks like we shouldn't celebrate just yet."
+   [332]
+    1 string data = "I want to learn to play the concertina!"
+   [333]
+    1 string data = "I can speak from experience in saying that music really does help in keeping one's mind off of things!"
+   [334]
+    1 string data = "The light came back! Is the Feral Queen gone?"
+   [335]
+    1 string data = "Maybe I'll go visit the Ivory Towers now."
+   [336]
+    1 string data = "It's a day to celebrate! I'll gather all of my friends!"
+   [337]
+    1 string data = "Fardush is organizing a sightseeing trip! Where should we go first?"
+   [338]
+    1 string data = "It's like Horloge itself let out a sigh of relief. Everything feels lighter already!"
+   [339]
+    1 string data = "It doesn't feel real yet, but this is it, we're free!"
+   [340]
+    1 string data = "Okay, but I'm playing Monsieur Tendu first!"
+   [341]
+    1 string data = "I'll take Pif."
+   [342]
+    1 string data = "Okay, now you're Coggo!"
+   [343]
+    1 string data = "Dibs on Werwofmizquard!"
+   [344]
+    1 string data = "We should play Solstice Warriors going forward."
+   [345]
+    1 string data = "And the game ends when the one trying to run away gets caught."
+   [346]
+    1 string data = "I'll take Pouf."
+   [347]
+    1 string data = "Then you're Quèshu!"
+   [348]
+    1 string data = "P'técass for me!"
+   [349]
+    1 string data = "Okay! I'll be [MAINCHAR]."
+   [350]
+    1 string data = "I've never gone inside the Oubliettes. Not that I'd want to!"
+   [351]
+    1 string data = "I've never gone to the Rail forest. Not that I'd want to!"
+   [352]
+    1 string data = "I've never gone to the Ivory Towers. Not that I'd want to!"
+   [353]
+    1 string data = "I've never gone to Wolf Rock. Not that I'd want to!"
+   [354]
+    1 string data = "I've never gone to the Big Top. Not that I'd want to!"
+   [355]
+    1 string data = "I've never gone under Horloge to find the big mystery. Not that I'd want to!"
+   [356]
+    1 string data = "Tonight, we celebrate like never before!"
+   [357]
+    1 string data = "Let's dance like the stars are watching!"
+   [358]
+    1 string data = "Flip, twirl, hooray!"
+   [359]
+    1 string data = "I want to be a performer like you when I grow up!"
+   [360]
+    1 string data = "No more hushed voices, and no more hurried steps! We are finally free!"
+   [361]
+    1 string data = "Thanks to you, everyone is celebrating again!"
+   [362]
+    1 string data = "Fear isn't pulling the strings anymore. What a relief!"
+   [363]
+    1 string data = "The tents stand tall, and the laughter rings true! It's finally over!"
+   [364]
+    1 string data = "Hey l'parté est pogné icitte!"
+   [365]
+    1 string data = "Tsé, moé ch't'un gars ben coopératif. Mettons tu viens m'voir tu m'dis "Gate, faut mettre d'la crème solaire.""
+   [366]
+    1 string data = "J'en mets."
+   [367]
+    1 string data = "Pis là après ça tu m'dis de n'armettre."
+   [368]
+    1 string data = "N'armets."
+   [369]
+    1 string data = "Mais là à longue esti "Gate, Gate, Gate, Gate, Gate.""
+   [370]
+    1 string data = "Chu imbibé."
+   [371]
+    1 string data = "Welcome, wanderers of wonder! Are you here to attempt the Test of Strength? The Pole Vault skill is required."
+   [372]
+    1 string data = "Yes"
+   [373]
+    1 string data = "No"
+   [374]
+    1 string data = "Oh, hello! Have you come to play the Test of Balance? The Sunbalancing skill is required."
+   [375]
+    1 string data = "Unfortunately, you don't have the required skill yet. Please come back once your troupe has earned more renown."
+   [376]
+    1 string data = "Welcome, welcome! Want to try the Test of Balance?"
+   [377]
+    1 string data = "Yes"
+   [378]
+    1 string data = "No"
+   [379]
+    1 string data = "Good day to you! Are you here for the Test of Accuracy? To participate, one must know how to perform the Toubib Bim skill."
+   [380]
+    1 string data = "Unfortunately, you don't have the required skill yet. Please come back once your troupe has earned more renown."
+   [381]
+    1 string data = "Step right up, talented travelers! Are you ready for the Test of Accuracy?"
+   [382]
+    1 string data = "Yes"
+   [383]
+    1 string data = "No"
+   [384]
+    1 string data = "Well done, a fine effort indeed!"
+   [385]
+    1 string data = "Now that was a performance to be proud of!"
+   [386]
+    1 string data = "Truly magnificent! A spectacle worthy of legend!"
+   [387]
+    1 string data = "Congratulations! Here's your reward!"
+   [388]
+    1 string data = "Come back again, we're always open!"
+   [389]
+    1 string data = "Want to play some <color=magic>Wheels</color>?"
+   [390]
+    1 string data = "Casual game"
+   [391]
+    1 string data = "Champion game"
+   [392]
+    1 string data = "Versus player"
+   [393]
+    1 string data = "Maybe later"
+   [394]
+    1 string data = "We can play Champion again, but you've already beaten me so there won't be any big reward this time."
+   [395]
+    1 string data = "Whoa, a tie!"
+   [396]
+    1 string data = "Hey, you won! Congratulations, here's your prize!"
+   [397]
+    1 string data = "You won!"
+   [398]
+    1 string data = "I win!"
+   [399]
+    1 string data = "Oh, quitting already?"
+   [400]
+    1 string data = "Sorry, we only play <color=magic>Wheels</color> with people who own the Warlock figurine. Come back when you have one!"
+   [401]
+    1 string data = "Oh, you don't have a Warlock figurine? That's too bad."
+   [402]
+    1 string data = "An ex-player got really mad after losing and decided to quit entirely and pick up <color=magic>fishing</color> instead. Imagine that!"
+   [403]
+    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Mooncoin Belt"
+   [404]
+    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Heliacal Earrings"
+   [405]
+    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Dielectric Coating"
+   [406]
+    1 string data = "All teeth welcome, sweet ones especially!"
+   [407]
+    1 string data = "Welcome to Inked Souvenirs! Feel free to browse!"
+   [408]
+    1 string data = "Popcorn! Popcorn!"
+   [409]
+    1 string data = "Not so fast, travelers! This box contains a gnarly battle challenge. I can't just let anyone in there... You'll have to prove yourselves first!"
+   [410]
+    1 string data = "You really want to try it, huh? Bring me a Certificate of Balloonery, and I'll step aside!"
+   [411]
+    1 string data = "Impressive! You must know what you're doing. I'll get out of your way, then."
+   [412]
+    1 string data = "Amazing! I didn't know you had it in you!"

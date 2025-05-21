@@ -10,8 +10,8 @@
  1 string locCategoryId = "Combat"
  0 int language = 0
  0 vector strings
-  1 Array Array (299 items)
-   0 int size = 299
+  1 Array Array (301 items)
+   0 int size = 301
    [0]
     1 string data = "Útok"
    [1]
@@ -610,3 +610,7 @@
     1 string data = "Břichopád"
    [298]
     1 string data = "Síla"
+   [299]
+    1 string data = "Superúder Slunovratu"
+   [300]
+    1 string data = "Ultimátní dvojitý útok. Opakovaným stisknutím <button="Interact"> během fáze střelby střílíte víc."

@@ -1,0 +1,70 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Slideshow_Totw_EN"
+ 1 string locCategoryId = "Slideshow_Totw"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (28 items)
+   0 int size = 28
+   [0]
+    1 string data = "Amidst the turmoil of ominous times, The Watchmaker and Aephorul forged a most unlikely alliance."
+   [1]
+    1 string data = "Their vision was clear from the start. They would build a structure unlike any other: one with the power to control Time itself."
+   [2]
+    1 string data = "The Clockwork Castle."
+   [3]
+    1 string data = "It was a simple pact. Upon completion, they would retreat to their respective quarters to be forever undisturbed, and unquestioned."
+   [4]
+    1 string data = "Thus, over decades, the work unfolded. While one genius shaped its design, the other provided an endless supply of enchanted materials."
+   [5]
+    1 string data = "And a marvel they built indeed. Though unbeknownst to<br>The Watchmaker, her temporary ally had played a wicked,<br>wicked trick."
+   [6]
+    1 string data = "On a busy day like every other, Aephorul concocted an enchantment<br>so evil, and so cunning, it could lay dormant within a cog."
+   [7]
+    1 string data = "Adding it to The Watchmaker’s stockpile, he knew the day would come when she would use it in one of her creations..."
+   [8]
+    1 string data = "With the Clockwork Castle completed, it did not take long for<br>The Watchmaker to set sights on her next project."
+   [9]
+    1 string data = "She would build an impossibly intricate clock. One that would tick so true, as to resonate with the very fabric of creation."
+   [10]
+    1 string data = "While miniature in comparison, this work demanded a lot more of her time and skill than the Clockwork Castle ever had."
+   [11]
+    1 string data = "But she saw it through, and it was beautiful."
+   [12]
+    1 string data = "To her delight, clockwork flora began to grow inside, and eventually, little clockwork denizens appeared."
+   [13]
+    1 string data = "And she loved them so. Suddenly, all of her time was spent gazing inside this little world of perfect harmony."
+   [14]
+    1 string data = "As she tinkered away at miniature baubles for them to delight in,<br>her days were filled with joy and purpose."
+   [15]
+    1 string data = "Until, one day, it started ticking wrong."
+   [16]
+    1 string data = "At first The Watchmaker approached the problem with her habitual focus and curiosity, eager to understand where she had erred."
+   [17]
+    1 string data = "But for all her perusing, it was clear that her work had,<br>in fact, been flawless."
+   [18]
+    1 string data = "Still, she had to know for sure. And so, she opted to go in<br>and see for herself."
+   [19]
+    1 string data = "For three full days and three full nights, she worked on a device that would allow her to shrink herself and enter the clock..."
+   [20]
+    1 string data = "And on the morning of the fourth day, the Dialocus was invented."
+   [21]
+    1 string data = "Entering the miniature magical world filled her with excitement,<br>but a dreadful realization soon dawned on her..."
+   [22]
+    1 string data = "She had just taken Aephorul’s bait!"
+   [23]
+    1 string data = "The Fleshmancer’s dormant cog activated at last, and began sapping her very essence."
+   [24]
+    1 string data = "In a panicked frenzy, The Watchmaker darted for the exit as the energy began to morph into an evil copy of her own self."
+   [25]
+    1 string data = "She could sense it. This nefarious twin would tyrannize the whimsical world she had built..."
+   [26]
+    1 string data = "Back outside, she wept for her little creatures as she sealed the clock as best she could. For she knew that the cursed cog was, in fact,<br>a Seed of Evil..."
+   [27]
+    1 string data = "To this day, The Watchmaker remains in her workshop, determined to find a way to redeem her creation before the inevitable rise of the clockwork Dweller of Scourge..."

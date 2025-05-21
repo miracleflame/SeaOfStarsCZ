@@ -1,0 +1,338 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Inventory_Totw_EN"
+ 1 string locCategoryId = "Inventory_Totw"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (162 items)
+   0 int size = 162
+   [0]
+    1 string data = "Time Rune I"
+   [1]
+    1 string data = "An enchanted rune displaying the number 1."
+   [2]
+    1 string data = "Time Rune II"
+   [3]
+    1 string data = "An enchanted rune displaying the number 2."
+   [4]
+    1 string data = "Time Rune III"
+   [5]
+    1 string data = "An enchanted rune displaying the number 3."
+   [6]
+    1 string data = "Time Rune IV"
+   [7]
+    1 string data = "An enchanted rune displaying the number 4."
+   [8]
+    1 string data = "Time Rune V"
+   [9]
+    1 string data = "An enchanted rune displaying the number 5."
+   [10]
+    1 string data = "Time Rune VI"
+   [11]
+    1 string data = "An enchanted rune displaying the number 6."
+   [12]
+    1 string data = "Time Rune VII"
+   [13]
+    1 string data = "An enchanted rune displaying the number 7."
+   [14]
+    1 string data = "Time Rune VIII"
+   [15]
+    1 string data = "An enchanted rune displaying the number 8."
+   [16]
+    1 string data = "Time Rune IX"
+   [17]
+    1 string data = "An enchanted rune displaying the number 9."
+   [18]
+    1 string data = "Time Rune X"
+   [19]
+    1 string data = "An enchanted rune displaying the number 10."
+   [20]
+    1 string data = "Time Rune XI"
+   [21]
+    1 string data = "An enchanted rune displaying the number 11."
+   [22]
+    1 string data = "Time Rune XII"
+   [23]
+    1 string data = "An enchanted rune displaying the number 12."
+   [24]
+    1 string data = "Lightbulb Key"
+   [25]
+    1 string data = "A key found in the Oubliettes."
+   [26]
+    1 string data = "Mule Drone"
+   [27]
+    1 string data = "A friendly drone with the ability to shrink and carry certain objects."
+   [28]
+    1 string data = "Dialocus"
+   [29]
+    1 string data = "Lets the wearer shrink in size to enter certain clockwork devices."
+   [30]
+    1 string data = "Ticket-Tocket"
+   [31]
+    1 string data = "A formal invitation to The Puppeteer's Headquarters."
+   [32]
+    1 string data = "Silken Ticket"
+   [33]
+    1 string data = "Gives entry to the Narcis King's estate."
+   [34]
+    1 string data = "Were-Ticket"
+   [35]
+    1 string data = "Gives entry to the Feral Queen's lair."
+   [36]
+    1 string data = "Bridge Key"
+   [37]
+    1 string data = "Activates a bridge somewhere in Wolf Rock."
+   [38]
+    1 string data = "Warlock Figurine"
+   [39]
+    1 string data = "Makes the Warlock class playable in Wheels."
+   [40]
+    1 string data = "Certificate of Balloonery"
+   [41]
+    1 string data = "Seems pointless, but might interest someone."
+   [42]
+    1 string data = "Sugar"
+   [43]
+    1 string data = "The one and only."
+   [44]
+    1 string data = "Dried Kernel"
+   [45]
+    1 string data = "Ready for popping."
+   [46]
+    1 string data = "Cream"
+   [47]
+    1 string data = "Carries a hint of vanilla."
+   [48]
+    1 string data = "Butter"
+   [49]
+    1 string data = "If gold and salt had a child."
+   [50]
+    1 string data = "Magnet Hook"
+   [51]
+    1 string data = "Could be used to fish out something made of metal."
+   [52]
+    1 string data = "a Small Goodie Bag"
+   [53]
+    1 string data = "Small Goodie Bag"
+   [54]
+    1 string data = "a Medium Goodie Bag"
+   [55]
+    1 string data = "Medium Goodie Bag"
+   [56]
+    1 string data = "a Big Goodie Bag"
+   [57]
+    1 string data = "Big Goodie Bag"
+   [58]
+    1 string data = "a Big Goodie Bag"
+   [59]
+    1 string data = "Big Goodie Bag"
+   [60]
+    1 string data = "Tokens"
+   [61]
+    1 string data = "The common currency in Horloge."
+   [62]
+    1 string data = "Music Sheet #8"
+   [63]
+    1 string data = "Music Sheet #9"
+   [64]
+    1 string data = "Music Sheet #10"
+   [65]
+    1 string data = "Music Sheet #11"
+   [66]
+    1 string data = "Music Sheet #12"
+   [67]
+    1 string data = "Music Sheet #13"
+   [68]
+    1 string data = "Music Sheet #14"
+   [69]
+    1 string data = "Recruit's Bracelet"
+   [70]
+    1 string data = "Fit for an aspiring Juggler."
+   [71]
+    1 string data = "Spinner's Bracelet"
+   [72]
+    1 string data = "Supports the wrists nicely."
+   [73]
+    1 string data = "Tossmaster's Bracelet"
+   [74]
+    1 string data = "Offers comfort and freedom of movement."
+   [75]
+    1 string data = "Starborn Bracelet"
+   [76]
+    1 string data = "For the performer who doesn't mind attracting attention."
+   [77]
+    1 string data = "Vaulter's Wraps"
+   [78]
+    1 string data = "Not very comfy, but still better than being barehanded."
+   [79]
+    1 string data = "Riser's Wraps"
+   [80]
+    1 string data = "Tighter grip for sharper tricks."
+   [81]
+    1 string data = "Aerialist's Wraps"
+   [82]
+    1 string data = "Improves balance and propulsion."
+   [83]
+    1 string data = "Skybound Wraps"
+   [84]
+    1 string data = "Lets the wearer capture the tingling of magic in the air."
+   [85]
+    1 string data = "Fused Silica Lens"
+   [86]
+    1 string data = "A simple lens made of simple materials."
+   [87]
+    1 string data = "Borosilicate Lens"
+   [88]
+    1 string data = "Stronger lasers made possible by improved heat resistance."
+   [89]
+    1 string data = "Metamaterial Lens"
+   [90]
+    1 string data = "Scientifically accurate."
+   [91]
+    1 string data = "Infinity Lens"
+   [92]
+    1 string data = "The ultimate lens, tapping into the fabric of time (and space)."
+   [93]
+    1 string data = "Tumbler's Garb"
+   [94]
+    1 string data = "Circus actor wear for beginners."
+   [95]
+    1 string data = "Performer's Finery"
+   [96]
+    1 string data = "Simple and reliable."
+   [97]
+    1 string data = "Daredevil's Raiment"
+   [98]
+    1 string data = "Only available to those who have proven themselves onstage."
+   [99]
+    1 string data = "Grand Marvel's Regalia"
+   [100]
+    1 string data = "The mark of a circus superstar."
+   [101]
+    1 string data = "Brasscoat Plating"
+   [102]
+    1 string data = "Basic alloy offering rudimentary protection."
+   [103]
+    1 string data = "Cogweld Plating"
+   [104]
+    1 string data = "A meshing of clockwork know-how."
+   [105]
+    1 string data = "Runebound Plating"
+   [106]
+    1 string data = "A powerful alloy mixed with a dash of magic."
+   [107]
+    1 string data = "Arcforge Plating"
+   [108]
+    1 string data = "The best protection engineering can provide."
+   [109]
+    1 string data = "Recipe: Popcorn"
+   [110]
+    1 string data = "Teaches how to cook Popcorn."
+   [111]
+    1 string data = "Recipe: Ice Cream"
+   [112]
+    1 string data = "Teaches how to cook Ice Cream."
+   [113]
+    1 string data = "Recipe: Milkshake"
+   [114]
+    1 string data = "Teaches how to cook Milkshake."
+   [115]
+    1 string data = "Recipe: Caramel Corn"
+   [116]
+    1 string data = "Teaches how to cook Caramel Corn."
+   [117]
+    1 string data = "Recipe: Barbapapa"
+   [118]
+    1 string data = "Teaches how to cook Barbapapa."
+   [119]
+    1 string data = "Popcorn"
+   [120]
+    1 string data = "Too salty at first, but impossible to stop."
+   [121]
+    1 string data = "Ice Cream"
+   [122]
+    1 string data = "It's ice cream."
+   [123]
+    1 string data = "Milkshake"
+   [124]
+    1 string data = "The only non-alchemical way to obtain liquid happiness."
+   [125]
+    1 string data = "Caramel Corn"
+   [126]
+    1 string data = "Even quitters finish this."
+   [127]
+    1 string data = "Barbapapa"
+   [128]
+    1 string data = "Lacking substance, but always brings joy."
+   [129]
+    1 string data = "Fruity Roll"
+   [130]
+    1 string data = "Max HP +3."
+   [131]
+    1 string data = "Jawbreaker"
+   [132]
+    1 string data = "Physical Attack +1."
+   [133]
+    1 string data = "Sour Licorice"
+   [134]
+    1 string data = "Magic Attack +1."
+   [135]
+    1 string data = "Heliacal Brooch"
+   [136]
+    1 string data = "Sunbalancing power <color="menuhighlight">+20</color>."
+   [137]
+    1 string data = "Mooncoin Belt"
+   [138]
+    1 string data = "Increases Lunebo healing by <color="menuhighlight">50%</color>."
+   [139]
+    1 string data = "Clockwork Monocle"
+   [140]
+    1 string data = "Displays weaknesses and non-boss enemy HP in combat."
+   [141]
+    1 string data = "Dielectric Coating"
+   [142]
+    1 string data = "Toubib Bim can also be used on enemies for massive damage."
+   [143]
+    1 string data = "Third Wind"
+   [144]
+    1 string data = "Boosts attack power by <color="menuhighlight">33%</color> while HP is below 40%."
+   [145]
+    1 string data = "Soulbound Catalyst"
+   [146]
+    1 string data = "In combat, party recovers HP equal to <color="menuhighlight">50%</color> of MP the wearer spends."
+   [147]
+    1 string data = "Glass Cannon"
+   [148]
+    1 string data = "Max HP <color="bad">-40%</color>. Skills cost <color="menuhighlight">-2</color> MP."
+   [149]
+    1 string data = "Leeching Circlet"
+   [150]
+    1 string data = "Wearer recovers <color="menuhighlight">7</color> HP whenever an enemy dies."
+   [151]
+    1 string data = "Green Plume"
+   [152]
+    1 string data = "Max HP <color="menuhighlight">+25</color>."
+   [153]
+    1 string data = "Spectacular Scarf"
+   [154]
+    1 string data = "DEF <color="menuhighlight">+5</color>, MDEF <color="menuhighlight">+5</color>."
+   [155]
+    1 string data = "Refillable Popcorn Bucket"
+   [156]
+    1 string data = "Price reduction on all snacks."
+   [157]
+    1 string data = "Souvenir from Horloge. Gives a <color=magic>25</color>% price reduction when buying snacks."
+   [158]
+    1 string data = "Clown Nose"
+   [159]
+    1 string data = "Valuable meant to be sold in Horloge."
+   [160]
+    1 string data = "Entry Stubs"
+   [161]
+    1 string data = "Can be spent in the Big Top to access more sections."

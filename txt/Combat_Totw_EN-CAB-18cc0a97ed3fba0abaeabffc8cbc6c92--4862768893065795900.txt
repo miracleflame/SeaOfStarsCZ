@@ -1,0 +1,232 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Combat_Totw_EN"
+ 1 string locCategoryId = "Combat_Totw"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (109 items)
+   0 int size = 109
+   [0]
+    1 string data = "Sunbalancing"
+   [1]
+    1 string data = "Star-powered Fire projectile that splashes to nearby targets."
+   [2]
+    1 string data = "Trapèze"
+   [3]
+    1 string data = "A high flying display of skill that deals repeated Bonk and Magic damage."
+   [4]
+    1 string data = "Lunebo"
+   [5]
+    1 string data = "Hold <button="Interact"> to dodge Magic beams, release to catch the Healing ones."
+   [6]
+    1 string data = "Jugglenaut"
+   [7]
+    1 string data = "A flurry of pins deal Flame and Bonk damage to the target. Press on hit to keep going."
+   [8]
+    1 string data = "Basic Attack (MP +3)"
+   [9]
+    1 string data = "Basic Attack (MP +3)"
+   [10]
+    1 string data = "Entarte"
+   [11]
+    1 string data = "Throws a pie at the target, healing moderate HP."
+   [12]
+    1 string data = "Pole Vault"
+   [13]
+    1 string data = "Airborne acrobatics land directly on the target for moderate Bonk damage."
+   [14]
+    1 string data = "Hold <button="interact"> to build power, and release at maximum tension."
+   [15]
+    1 string data = "Basic Attack (MP +3)"
+   [16]
+    1 string data = "Basic Attack (MP +3)"
+   [17]
+    1 string data = "Toubib Bim"
+   [18]
+    1 string data = "Heals an ally for a significant amount. Press <button="Interact"> when the gem aligns for better outcome."
+   [19]
+    1 string data = "Heals an ally or attacks an enemy for a significant amount. Press <button="Interact"> when gems align for better outcome."
+   [20]
+    1 string data = "Cannonball Trampoline"
+   [21]
+    1 string data = "Bonk damage on all enemies. Steer with <button="MoveAll"> to keep going."
+   [22]
+    1 string data = "Basic Attack (MP +3)"
+   [23]
+    1 string data = "Basic Attack (MP +3)"
+   [24]
+    1 string data = "Leap Frog"
+   [25]
+    1 string data = "Leap off of targets, dealing Laser damage with each bounce."
+   [26]
+    1 string data = "Galette des Rois"
+   [27]
+    1 string data = "Mystery boxes fall from the sky, some healing ally, other dealing Bonk damage to enemies."
+   [28]
+    1 string data = "Heap Frog"
+   [29]
+    1 string data = "Leap off of targets, dealing Laser and Magic damage with each bounce."
+   [30]
+    1 string data = "Jugglecore"
+   [31]
+    1 string data = "Multi-hit moderate Bonk, Fire and Magic damage on a single target."
+   [32]
+    1 string data = "Spectacle Strike"
+   [33]
+    1 string data = "Dual attack. Can be timed to hit twice."
+   [34]
+    1 string data = "Terrific Troupe"
+   [35]
+    1 string data = "The Troupe's ultimate combo move."
+   [36]
+    1 string data = "Trampoline Team"
+   [37]
+    1 string data = "Human cannonballs bounce on all enemies. Steer with <button="MoveAll"> to keep going."
+   [38]
+    1 string data = "Split the night"
+   [39]
+    1 string data = "The Passenger"
+   [40]
+    1 string data = "Coalslay"
+   [41]
+    1 string data = "Curtain Call"
+   [42]
+    1 string data = "Concentric Crank"
+   [43]
+    1 string data = "Healectrons"
+   [44]
+    1 string data = "Pogpwn"
+   [45]
+    1 string data = "Gatling Fun"
+   [46]
+    1 string data = "Tourpille"
+   [47]
+    1 string data = "Spincopter"
+   [48]
+    1 string data = "Front wheel crash"
+   [49]
+    1 string data = "Cymbales Shield"
+   [50]
+    1 string data = "Lock, Lock, Who's There?"
+   [51]
+    1 string data = "Hypercüt"
+   [52]
+    1 string data = "Pif-in-the-box"
+   [53]
+    1 string data = "Pouf-in-the-box"
+   [54]
+    1 string data = "Mantra"
+   [55]
+    1 string data = "Mirage Toss"
+   [56]
+    1 string data = "Lunge"
+   [57]
+    1 string data = "Transform"
+   [58]
+    1 string data = "Cog Rain"
+   [59]
+    1 string data = "Summonegg"
+   [60]
+    1 string data = "Sap"
+   [61]
+    1 string data = "Highway Donkey"
+   [62]
+    1 string data = "Star Fall"
+   [63]
+    1 string data = "Reverse Sunballs"
+   [64]
+    1 string data = "Ganonball"
+   [65]
+    1 string data = "Symmetry of Sin"
+   [66]
+    1 string data = "Charge Level [CHARGE_LEVEL]%"
+   [67]
+    1 string data = "Spinspoot"
+   [68]
+    1 string data = "Clawppercut"
+   [69]
+    1 string data = "FULL POWER!!!"
+   [70]
+    1 string data = "Awooo"
+   [71]
+    1 string data = "Bignition"
+   [72]
+    1 string data = "Hold <button="Interact"> to enter limbo pose, then release to send pins flying."
+   [73]
+    1 string data = "Mole Vault"
+   [74]
+    1 string data = "Buiss Roulette"
+   [75]
+    1 string data = "Carni-Kiss"
+   [76]
+    1 string data = "Full Moon"
+   [77]
+    1 string data = "Train Suplex"
+   [78]
+    1 string data = "Stomp"
+   [79]
+    1 string data = "Refresh"
+   [80]
+    1 string data = "Tempestal Ball"
+   [81]
+    1 string data = "Knoife"
+   [82]
+    1 string data = "Zoetorch"
+   [83]
+    1 string data = "Saw ya!"
+   [84]
+    1 string data = "Arty learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-leapfrog"> <color="magic">Leap Frog</color>!"
+   [85]
+    1 string data = "Zale and Arty learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-galettedesrois"> <color="magic">Galette des Rois</color>!"
+   [86]
+    1 string data = "Zale learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-sunbalancing"> <color=#326d9c>Sunbalancing</color>!"
+   [87]
+    1 string data = "Valere and Arty learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-heapfrog"> <color="magic">Heap Frog</color>!"
+   [88]
+    1 string data = "[MAINCHAR], [OFFCHAR] and Arty learn new combo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampoline Team</color>!"
+   [89]
+    1 string data = "Valere learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-trapeze"> <color=#326d9c>Trapèze</color>!"
+   [90]
+    1 string data = "[MAINCHAR], [OFFCHAR] learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-jugglecore"> <color="magic">Jugglecore</color>!"
+   [91]
+    1 string data = "Arty learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-bigbim"> <color=#326d9c>Toubib Bim</color>!"
+   [92]
+    1 string data = "[MAINCHAR], [OFFCHAR] and Arty learn new combo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-terrifictroupe"> <color=#326d9c>Terrific Troupe</color>!"
+   [93]
+    1 string data = "Attack"
+   [94]
+    1 string data = "Defend"
+   [95]
+    1 string data = "Risky Attack"
+   [96]
+    1 string data = "A regular attack. Always hits, but can be mitigated by block."
+   [97]
+    1 string data = "Reduce damage from Attack. Counters Risky Attack."
+   [98]
+    1 string data = "Deals massive damage, but can be countered by Defend."
+   [99]
+    1 string data = "Narcis King's ego is charging the mirror."
+   [100]
+    1 string data = "One of Narcis King's mirrors has started to charge his ultimate attack!<br><br>Hit the crank to the right to keep the spotlights away from the mirrors."
+   [101]
+    1 string data = "Dweller of Scourge is checking the situation."
+   [102]
+    1 string data = "Dweller of Scourge needs a breather."
+   [103]
+    1 string data = "Dweller of Scourge is hesitating."
+   [104]
+    1 string data = "Dweller of Scourge has gathered power."
+   [105]
+    1 string data = "Dweller of Scourge puts on a serious look."
+   [106]
+    1 string data = "Dweller of Scourge seems furious."
+   [107]
+    1 string data = "Found [GOLD_AMOUNT] Tokens!"
+   [108]
+    1 string data = "Got [XP_AMOUNT] experience point(s) and [GOLD_AMOUNT] Tokens!"

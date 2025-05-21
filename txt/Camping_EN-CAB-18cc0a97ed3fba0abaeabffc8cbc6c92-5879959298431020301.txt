@@ -1,0 +1,98 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Camping_EN"
+ 1 string locCategoryId = "Totw/Camping"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (42 items)
+   0 int size = 42
+   [0]
+    1 string data = "Do you think it's true? Of all the places to hide a Dweller..."
+   [1]
+    1 string data = "Monsieur Tendu's really powerful. We need more training."
+   [2]
+    1 string data = "We won't get far without Fardush's train."
+   [3]
+    1 string data = "Valtraid really showed up."
+   [4]
+    1 string data = "Are you alright, Zale?"
+   [5]
+    1 string data = "For what it's worth, that was a good kick."
+   [6]
+    1 string data = "We're wasting time here!"
+   [7]
+    1 string data = "Zale, I..."
+   [8]
+    1 string data = "This is it. Better make sure we're prepared."
+   [9]
+    1 string data = "Do you think there's more to find here?"
+   [10]
+    1 string data = "The Watchmaker sounded really worried, almost ashamed. What do you think we'll find out here?"
+   [11]
+    1 string data = "We're making good progress, all things considered."
+   [12]
+    1 string data = "I suppose a train can't be that hard to find."
+   [13]
+    1 string data = "Yolande said the crew would be at the tavern."
+   [14]
+    1 string data = "(Narcis King...)"
+   [15]
+    1 string data = "I'm confused..."
+   [16]
+    1 string data = "..."
+   [17]
+    1 string data = "Let's check in with the crew."
+   [18]
+    1 string data = "The Dweller of Scourge is still out there..."
+   [19]
+    1 string data = "It feels so peaceful here now."
+   [20]
+    1 string data = "I always dreamed of going on an adventure!"
+   [21]
+    1 string data = "How do you like my new upgrade?"
+   [22]
+    1 string data = "The train should be in the Rail Forest, north of town."
+   [23]
+    1 string data = "I'd say we're off to a great start!"
+   [24]
+    1 string data = "The Ivory Towers, huh? Good thing we have Fardush's train now."
+   [25]
+    1 string data = "There was something eerie about that place, but I can't quite name it."
+   [26]
+    1 string data = "Wolf Rock... That Feral Queen seems pretty strong."
+   [27]
+    1 string data = "Remember. We're a team."
+   [28]
+    1 string data = "The Puppeteer's bound to have something in store for us. We should make sure we're ready."
+   [29]
+    1 string data = "Did we ever find all of the Time Runes?"
+   [30]
+    1 string data = "Appreciate y'all helping out Keenathan."
+   [31]
+    1 string data = "Bit ov a rough start here, aye?"
+   [32]
+    1 string data = "Sure am eager to add a railworthy vessel to our collection!"
+   [33]
+    1 string data = "Onwards!"
+   [34]
+    1 string data = "These new roles befit you nicely, I must say."
+   [35]
+    1 string data = "Exploring the Rail Forest? Now that sounds like a proper adventure!"
+   [36]
+    1 string data = "On yer mark, pal."
+   [37]
+    1 string data = "I'd say we're doing pretty good."
+   [38]
+    1 string data = "On yer mark, pal."
+   [39]
+    1 string data = "Off to a great start, the wind's at our backs, mateys!"
+   [40]
+    1 string data = "Tis' but a minor setback. Crew's got this."
+   [41]
+    1 string data = "Feels good to be out and about."

@@ -1,0 +1,188 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "PrisonDungeon_EN"
+ 1 string locCategoryId = "Totw/PrisonDungeon"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (87 items)
+   0 int size = 87
+   [0]
+    1 string data = "(We should open the Mysterious Box!)"
+   [1]
+    1 string data = "(Using what hands?)"
+   [2]
+    1 string data = "(Come on, we’re filled with gadgets!)"
+   [3]
+    1 string data = "(I'm just roleplaying being imprisoned.)"
+   [4]
+    1 string data = "(You're silly!)"
+   [5]
+    1 string data = "(Well? Open it!)"
+   [6]
+    1 string data = "(Oh, we can definitely use THAT!)"
+   [7]
+    1 string data = "(And this thing?)"
+   [8]
+    1 string data = "(Later, we still need a frame that's big enough.)"
+   [9]
+    1 string data = "(Hey, there’s something else there.)"
+   [10]
+    1 string data = "(It’s a gift! It says “For Fardush.”)"
+   [11]
+    1 string data = "(Who’s Fardush?)"
+   [12]
+    1 string data = "(Let’s just leave it for now. We need to work on this upgrade.)"
+   [13]
+    1 string data = "I’d say we've been through worse, but I ain't so sure ‘bout this one!"
+   [14]
+    1 string data = "Definitely found meself in a tighter spot once, if that helps."
+   [15]
+    1 string data = "We will see this one through, or..."
+   [16]
+    1 string data = "Or my name..."
+   [17]
+    1 string data = "Ahoy, Valtraid! seems to me the old jailbreak trick just might work here."
+   [18]
+    1 string data = "Ye've read my mind, pal!"
+   [19]
+    1 string data = "Well, you’re up, then! Make it count."
+   [20]
+    1 string data = "AVAST, JAILOR!"
+   [21]
+    1 string data = "Huh?"
+   [22]
+    1 string data = "Hey everyone, he understands!"
+   [23]
+    1 string data = "Wow, really?"
+   [24]
+    1 string data = "Thought he might just be too stupid, seein’ how he picked that ugly helmet to wear!"
+   [25]
+    1 string data = "Or maybe it’s the only thing keeping that tiny brain inside his head?"
+   [26]
+    1 string data = "HAHA! Busted!"
+   [27]
+    1 string data = "What’s the matter, tough guy? Ye’ll have to do better than that if ye wanna scare me."
+   [28]
+    1 string data = "I'm shaking! I'm shaking!"
+   [29]
+    1 string data = "<anim=sway>Ha! I knew you weren't that strong.</anim>"
+   [30]
+    1 string data = "<anim=shake>That all ya got, pal?</anim>"
+   [31]
+    1 string data = "Works every time."
+   [32]
+    1 string data = "And the crew wins again!"
+   [33]
+    1 string data = "(I think that’s it.)"
+   [34]
+    1 string data = "(Let’s give it a SHOT! Get it?)"
+   [35]
+    1 string data = "(Booooo!)"
+   [36]
+    1 string data = "(Okay, here goes.)"
+   [37]
+    1 string data = "(IT WORKED!)"
+   [38]
+    1 string data = "(Of course it did.)"
+   [39]
+    1 string data = "Hey, new toy seems kinda neat. Reckon ye can get us all out ov here?"
+   [40]
+    1 string data = "I think so. Let’s find [MAINCHAR] and [OFFCHAR]."
+   [41]
+    1 string data = "Lead the way!"
+   [42]
+    1 string data = "The Artificer is now playable!"
+   [43]
+    1 string data = "Arty's attacks deal <sprite="dialog-inventory-icons-totw" name="battle-icn-laser"> (laser) damage, and can be boosted to fire additional shots!"
+   [44]
+    1 string data = "There they are! Time to send that door flying."
+   [45]
+    1 string data = "Grim business, that. If we manage to get out, I’ll-"
+   [46]
+    1 string data = "Cavalry’s here!"
+   [47]
+    1 string data = "...And with this new upgrade, I can help in battle now."
+   [48]
+    1 string data = "I’m Arty, by the way."
+   [49]
+    1 string data = "Well met, Arty. Name's Fardush."
+   [50]
+    1 string data = "(Oh, the gift’s for him!)"
+   [51]
+    1 string data = "(I think it’s an awkward moment for a gift.)"
+   [52]
+    1 string data = "(I don’t!)"
+   [53]
+    1 string data = "(Let’s wait and see for now.)"
+   [54]
+    1 string data = "Thanks for the rescue Arty, but Valere and I are helpless..."
+   [55]
+    1 string data = "Only because you aren't playing by the rules."
+   [56]
+    1 string data = "Rules?"
+   [57]
+    1 string data = "That fight you lost. Manifesting one's powers in this world requires a steadfast mind."
+   [58]
+    1 string data = "It seems your friend Arty here is doing well in this regard, but the two of you will need to work on yourselves some more."
+   [59]
+    1 string data = "In your current state, your strength and magic won’t manifest unless you give them some... circus flair!"
+   [60]
+    1 string data = "What!?"
+   [61]
+    1 string data = "Spectacle! Playing along is mandatory, for anything you attempt will fizzle out otherwise."
+   [62]
+    1 string data = "This is ridiculous..."
+   [63]
+    1 string data = "Here we are, though."
+   [64]
+    1 string data = "There is no other way. You can either lend yourself to the game, or let your evil twins consume you."
+   [65]
+    1 string data = "All you need is some way to fight that plays to your natural traits."
+   [66]
+    1 string data = "Stand still."
+   [67]
+    1 string data = "..."
+   [68]
+    1 string data = "Agility, huh? Surely these will do."
+   [69]
+    1 string data = "Got <sprite="dialog-inventory-icons-totw" name="icn-inventory-bracelet"> <color="magic">Recruit's Bracelet</color>. Zale's class is now Juggler!"
+   [70]
+    1 string data = "Juggler Zale's attacks deal <sprite="dialog-inventory-icons-totw" name="battle-icn-flame"> (fire) damage, and can be boosted to also do <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> (bonk) damage!"
+   [71]
+    1 string data = "Amazing balance. I suppose this means..."
+   [72]
+    1 string data = "Got <sprite="dialog-inventory-icons-totw" name="icn-inventory-wraps"> <color="magic">Vaulter's Wraps</color>. Valere's class is now Acrobat!"
+   [73]
+    1 string data = "Acrobat Valere's attacks deal <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> (bonk) damage, and can be boosted to also do <sprite="dialog-inventory-icons-totw" name="battle-icn-magic"> (magic) damage!"
+   [74]
+    1 string data = "Well? Let's see how these roles befit you!"
+   [75]
+    1 string data = "Very good. Now, remember to keep leaning into your instinct, and add some SPECTACLE!"
+   [76]
+    1 string data = "Valere learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-polevault"> <color="magic">Pole Vault</color>!"
+   [77]
+    1 string data = "Valere learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-limbo"> <color="magic">Lunebo</color>!"
+   [78]
+    1 string data = "Zale learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-entart"> <color="magic">Entarte</color>!"
+   [79]
+    1 string data = "Zale learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-jugglenaut"> <color="magic">Jugglenaut</color>!"
+   [80]
+    1 string data = "Valere and Zale learn combo skill <sprite="dialog-inventory-icons-totw" name="icn-combos-spectaclestrike"> <color="magic">Spectacle Strike</color>!"
+   [81]
+    1 string data = "I still feel weak, but there’s something to work with here."
+   [82]
+    1 string data = "Getting the hang of it! I think I'm ready to take this for a spin."
+   [83]
+    1 string data = "Alright, then, let’s blow this joint!"
+   [84]
+    1 string data = "The prisoners are escaping!"
+   [85]
+    1 string data = "Not on this watch! Take them out!"
+   [86]
+    1 string data = "There's got to be a way to increase the pressure here..."

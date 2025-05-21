@@ -10,8 +10,8 @@
  1 string locCategoryId = "UI"
  0 int language = 0
  0 vector strings
-  1 Array Array (415 items)
-   0 int size = 415
+  1 Array Array (422 items)
+   0 int size = 422
    [0]
     1 string data = "Stiskněte <button="TitleScreenStart">"
    [1]
@@ -637,7 +637,7 @@
    [311]
     1 string data = "Zapnuto"
    [312]
-    1 string data = "COPYRIGHT 2023-2024 SABOTAGE STUDIO"
+    1 string data = "COPYRIGHT 2023-2025 SABOTAGE STUDIO"
    [313]
     1 string data = "Načítání..."
    [314]
@@ -842,3 +842,17 @@
     1 string data = "Pro ty, kteří dávají přednost drsnějšímu souboji. Všichni nepřátelé mají tvrdší údery a odolávají většímu poškození při kouzlení. V souboji je zakázáno používat předměty."
    [414]
     1 string data = "<button="UI_TertiaryAction"> Přizpůsobit předvolbu relikvií"
+   [415]
+    1 string data = "<button="UI_Start"> Přenést uložení"
+   [416]
+    1 string data = "Přenést uložení"
+   [417]
+    1 string data = "PS4®"
+   [418]
+    1 string data = "PS5®"
+   [419]
+    1 string data = "Určitě chcete přenést toto uložení do vybrané pozice?"
+   [420]
+    1 string data = "Přenáší se..."
+   [421]
+    1 string data = "Načítání přenositelných dat uložení..."

@@ -1,0 +1,68 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Enemies_Totw_EN"
+ 1 string locCategoryId = "Enemies_Totw"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (27 items)
+   0 int size = 27
+   [0]
+    1 string data = "Coilemur"
+   [1]
+    1 string data = "Crazy Train"
+   [2]
+    1 string data = "Cog Flower"
+   [3]
+    1 string data = "GBB"
+   [4]
+    1 string data = "Billet Bull"
+   [5]
+    1 string data = "Pouf"
+   [6]
+    1 string data = "Pif"
+   [7]
+    1 string data = "Keymiceter"
+   [8]
+    1 string data = "Pantouf"
+   [9]
+    1 string data = "Monsieur Tendu"
+   [10]
+    1 string data = "Totem Staff"
+   [11]
+    1 string data = "Dweller of Scourge"
+   [12]
+    1 string data = "Coggo"
+   [13]
+    1 string data = "Quèshu"
+   [14]
+    1 string data = "Crank"
+   [15]
+    1 string data = "Pig Macer"
+   [16]
+    1 string data = "Werwofmizquard"
+   [17]
+    1 string data = "Clown"
+   [18]
+    1 string data = "Knife Thrower"
+   [19]
+    1 string data = "Magician"
+   [20]
+    1 string data = "Strongman"
+   [21]
+    1 string data = "Mime"
+   [22]
+    1 string data = "Fortune Teller"
+   [23]
+    1 string data = "Wheel"
+   [24]
+    1 string data = "Dynamice"
+   [25]
+    1 string data = "Buiss"
+   [26]
+    1 string data = "P'técass"

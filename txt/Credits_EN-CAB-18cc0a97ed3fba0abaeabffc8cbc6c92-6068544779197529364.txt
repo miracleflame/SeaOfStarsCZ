@@ -10,8 +10,8 @@
  1 string locCategoryId = "Credits"
  0 int language = 0
  0 vector strings
-  1 Array Array (59 items)
-   0 int size = 59
+  1 Array Array (61 items)
+   0 int size = 61
    [0]
     1 string data = "Zvláštní poděkování"
    [1]
@@ -77,7 +77,7 @@
    [31]
     1 string data = "Vývojářský učeň"
    [32]
-    1 string data = "Nejlepší chlapec"
+    1 string data = "Nejlepší kluk"
    [33]
     1 string data = "-Produkční mimina-"
    [34]
@@ -130,3 +130,7 @@
     1 string data = "-Pozdrav našim kolegům z minulosti-"
    [58]
     1 string data = "Konec?"
+   [59]
+    1 string data = "-Videoscény od Du Coup Animation-"
+   [60]
+    1 string data = "-Další talenty a podpora-"

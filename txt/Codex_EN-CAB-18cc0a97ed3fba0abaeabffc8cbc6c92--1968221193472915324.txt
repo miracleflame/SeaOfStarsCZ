@@ -10,8 +10,8 @@
  1 string locCategoryId = "Codex"
  0 int language = 0
  0 vector strings
-  1 Array Array (94 items)
-   0 int size = 94
+  1 Array Array (96 items)
+   0 int size = 96
    [0]
     1 string data = "Obecné"
    [1]
@@ -200,3 +200,7 @@
     1 string data = "Šampioni a postup"
    [93]
     1 string data = "Cesta Kotoučů začíná s Bronzovým kotoučem a pouze s Válečníkem a Čarodějem jako hratelnými Hrdiny. Povídá se, že ti, kteří <color=menuhighlight>odemknou</color> všech <color=menuhighlight>šest Hrdinů</color> a <color=menuhighlight>Platinový kotouč</color>, mohou vyzvat samotnou Hodinářku!"
+   [94]
+    1 string data = "Zaklínač"
+   [95]
+    1 string data = "Zakázaný hrdina. Zraní korunu svého týmu (-2), aby mohl jednat, a poté vystřelí tři projektily v různých výškách."

@@ -1,0 +1,38 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2350011159297838977
+ 1 string m_Name = "Worldmap_EN"
+ 1 string locCategoryId = "Totw/Worldmap"
+ 0 int language = 0
+ 0 vector strings
+  1 Array Array (12 items)
+   0 int size = 12
+   [0]
+    1 string data = "Thank you for saving my train, it's so good to have it back. And I see you have a ticket for the Ivory Towers!"
+   [1]
+    1 string data = "A Were-Ticket? I suppose we're headed to Wolf Rock, then!"
+   [2]
+    1 string data = "The Puppeteer has summoned you to the Big Top?"
+   [3]
+    1 string data = "Welcome, champions, it's always good to see you."
+   [4]
+    1 string data = "The engine's raring to go. Want to hop aboard?"
+   [5]
+    1 string data = "Yes"
+   [6]
+    1 string data = "No"
+   [7]
+    1 string data = "Please present your Silken Ticket."
+   [8]
+    1 string data = "Please present your Were-Ticket."
+   [9]
+    1 string data = "Please present your Ticket-Tocket."
+   [10]
+    1 string data = "Meanwhile, at the The Puppeteer's Big Top..."
+   [11]
+    1 string data = "All aboard the Hoop Hopper Express!"
