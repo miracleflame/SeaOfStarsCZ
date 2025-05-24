@@ -215,11 +215,11 @@
    [100]
     1 string data = "Well, now we're only missing my train! Whenever you're ready, Rail Forest is to the north."
    [101]
-    1 string data = "Just make sure you're well equipped before heading out. Holorge's got all manners of shops and minigames!"
+    1 string data = "Just make sure you're well equipped before heading out. Horloge's got all manners of shops and minigames!"
    [102]
     1 string data = "Whenever you're ready, Rail Forest is to the north."
    [103]
-    1 string data = "Just make sure you're well equipped before heading out. Holorge's got all manners of shops and minigames!"
+    1 string data = "Just make sure you're well equipped before heading out. Horloge's got all manners of shops and minigames!"
    [104]
     1 string data = "Well, maybe not “tonight only”, and more like “until this whole thing gets resolved”."
    [105]

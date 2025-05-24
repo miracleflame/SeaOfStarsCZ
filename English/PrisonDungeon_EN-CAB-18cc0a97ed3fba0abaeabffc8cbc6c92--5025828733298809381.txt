@@ -47,7 +47,7 @@
    [16]
     1 string data = "Or my name..."
    [17]
-    1 string data = "Ahoy, Valtraid! seems to me the old jailbreak trick just might work here."
+    1 string data = "Ahoy, Valtraid! Seems to me the old jailbreak trick just might work here."
    [18]
     1 string data = "Ye've read my mind, pal!"
    [19]
