@@ -13,58 +13,58 @@
   1 Array Array (28 items)
    0 int size = 28
    [0]
-    1 string data = "Amidst the turmoil of ominous times, The Watchmaker and Aephorul forged a most unlikely alliance."
+    1 string data = "V průběhu rozruchu zlověstných časů uzavřeli Hodinářka a Aephorul velmi neobvyklé spojenectví."
    [1]
-    1 string data = "Their vision was clear from the start. They would build a structure unlike any other: one with the power to control Time itself."
+    1 string data = "Jejich vize byla od počátku jasná. Chtěli vybudovat stavbu, která by se nepodobala žádné jiné: stavbu s mocí ovládat samotný Čas."
    [2]
-    1 string data = "The Clockwork Castle."
+    1 string data = "Mechanický hrad."
    [3]
-    1 string data = "It was a simple pact. Upon completion, they would retreat to their respective quarters to be forever undisturbed, and unquestioned."
+    1 string data = "Byla to jednoduchá dohoda. Po dokončení se měli odebrat do svých komnat, kde budou navždy nerušeně a nezpochybnitelně pobývat."
    [4]
-    1 string data = "Thus, over decades, the work unfolded. While one genius shaped its design, the other provided an endless supply of enchanted materials."
+    1 string data = "A tak se dílo po desetiletí rozvíjelo. Zatímco jeden génius utvářel jeho návrh, druhý zajišťoval nekonečné zásoby kouzelných materiálů."
    [5]
-    1 string data = "And a marvel they built indeed. Though unbeknownst to<br>The Watchmaker, her temporary ally had played a wicked,<br>wicked trick."
+    1 string data = "A že to bylo úchvatné, co spolu postavili. Ačkoli to Hodinářka nevěděla, její dočasný spojenec provedl vskutku podlý trik."
    [6]
-    1 string data = "On a busy day like every other, Aephorul concocted an enchantment<br>so evil, and so cunning, it could lay dormant within a cog."
+    1 string data = "Za rušného dne, jako byl každý jiný, vymyslel Aephorul kouzlo<br>tak ďábelské a tak lstivé, že mohlo dřímat i v jediném ozubeném kolečku."
    [7]
-    1 string data = "Adding it to The Watchmaker’s stockpile, he knew the day would come when she would use it in one of her creations..."
+    1 string data = "Když ho přidal do Hodinářčiných zásob, věděl, že přijde den, kdy ho použije v některém ze svých výtvorů..."
    [8]
-    1 string data = "With the Clockwork Castle completed, it did not take long for<br>The Watchmaker to set sights on her next project."
+    1 string data = "Po dokončení Mechanického hradu netrvalo dlouho<br>a Hodinářka se zaměřila na svůj další projekt."
    [9]
-    1 string data = "She would build an impossibly intricate clock. One that would tick so true, as to resonate with the very fabric of creation."
+    1 string data = "Měla postavit neskutečně propracované hodiny. Takové, jež by tikaly tak věrně, že by rezonovaly se samotnou podstatou stvoření."
    [10]
-    1 string data = "While miniature in comparison, this work demanded a lot more of her time and skill than the Clockwork Castle ever had."
+    1 string data = "Přestože bylo toto dílo v porovnání miniaturní, vyžádalo si mnohem více jejího času a dovedností, než kdy vyžadoval Mechanický hrad."
    [11]
-    1 string data = "But she saw it through, and it was beautiful."
+    1 string data = "Ale ona to dotáhla do konce a dílo to bylo překrásné."
    [12]
-    1 string data = "To her delight, clockwork flora began to grow inside, and eventually, little clockwork denizens appeared."
+    1 string data = "K její potěše v něm začala růst hodinová flóra a nakonec se objevili i malí hodinoví obyvatelé."
    [13]
-    1 string data = "And she loved them so. Suddenly, all of her time was spent gazing inside this little world of perfect harmony."
+    1 string data = "A ona je naskrz milovala. Najednou veškerý svůj čas trávila pozorováním tohoto malého světa dokonalé harmonie."
    [14]
-    1 string data = "As she tinkered away at miniature baubles for them to delight in,<br>her days were filled with joy and purpose."
+    1 string data = "Když pro ně kutila miniaturní ozdůbky, aby je potěšila,<br>její dny byly naplněny radostí a smyslem."
    [15]
-    1 string data = "Until, one day, it started ticking wrong."
+    1 string data = "Až jednoho dne<br>to začalo tikat špatně."
    [16]
-    1 string data = "At first The Watchmaker approached the problem with her habitual focus and curiosity, eager to understand where she had erred."
+    1 string data = "Zpočátku Hodinářka přistupovala k problému se svým zvyklým zaujetím a zvědavostí, dychtivá pochopit, kde udělala chybu."
    [17]
-    1 string data = "But for all her perusing, it was clear that her work had,<br>in fact, been flawless."
+    1 string data = "Přes všechno její pátrání však bylo jasné, že její práce byla,<br>ve skutečnosti bezchybná."
    [18]
-    1 string data = "Still, she had to know for sure. And so, she opted to go in<br>and see for herself."
+    1 string data = "Přesto si musela být jistá. A proto se rozhodla vstoupit dovnitř<br>a přesvědčit se na vlastní oči."
    [19]
-    1 string data = "For three full days and three full nights, she worked on a device that would allow her to shrink herself and enter the clock..."
+    1 string data = "Po celé tři dny a tři noci pracovala na zařízení, které by jí umožnilo zmenšit se a vstoupit do hodin..."
    [20]
-    1 string data = "And on the morning of the fourth day, the Dialocus was invented."
+    1 string data = "A ráno čtvrtého dne vynalezla Dialokus."
    [21]
-    1 string data = "Entering the miniature magical world filled her with excitement,<br>but a dreadful realization soon dawned on her..."
+    1 string data = "Vstup do miniaturního kouzelného světa ji naplnil vzrušením,<br>ale brzy se jí dostalo strašlivého poznání..."
    [22]
-    1 string data = "She had just taken Aephorul’s bait!"
+    1 string data = "Zrovna se chytila do Aephorulovy pasti!"
    [23]
-    1 string data = "The Fleshmancer’s dormant cog activated at last, and began sapping her very essence."
+    1 string data = "Karnimantovo dřímající kolečko se konečně dalo do pohybu a začalo vysávat její samotnou esenci."
    [24]
-    1 string data = "In a panicked frenzy, The Watchmaker darted for the exit as the energy began to morph into an evil copy of her own self."
+    1 string data = "V panickém šílenství se Hodinářka vrhla k východu, když v tom se energie začala morfovat ve zlou kopii jejího vlastního já."
    [25]
-    1 string data = "She could sense it. This nefarious twin would tyrannize the whimsical world she had built..."
+    1 string data = "Cítila to. Tohle zlovolné dvojče by tyranizovalo rozmarný svět, který vybudovala..."
    [26]
-    1 string data = "Back outside, she wept for her little creatures as she sealed the clock as best she could. For she knew that the cursed cog was, in fact,<br>a Seed of Evil..."
+    1 string data = "Po návratu ven plakala pro svá malá stvoření, když zapečetila hodiny, jak nejlépe uměla. Neboť věděla, že prokleté ozubené kolečko je ve skutečnosti <br>Semeno Zla..."
    [27]
-    1 string data = "To this day, The Watchmaker remains in her workshop, determined to find a way to redeem her creation before the inevitable rise of the clockwork Dweller of Scourge..."
+    1 string data = "Do dnešního dne zůstává Hodinářka ve své dílně, odhodlaná nalézt způsob, jak spasit svůj výtvor dříve, než nevyhnutelně povstane mechanický Přiživovač Soužení..."
