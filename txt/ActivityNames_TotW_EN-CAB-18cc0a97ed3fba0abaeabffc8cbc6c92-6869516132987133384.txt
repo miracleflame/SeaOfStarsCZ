@@ -23,6 +23,6 @@
    [4]
     1 string data = "Lykantropický běs"
    [5]
-    1 string data = "Šapitó Loutkaře"
+    1 string data = "Šapitó Loutkářky"
    [6]
     1 string data = "Velké finále"

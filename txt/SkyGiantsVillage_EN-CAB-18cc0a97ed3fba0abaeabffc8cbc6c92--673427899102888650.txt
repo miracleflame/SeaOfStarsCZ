@@ -415,7 +415,7 @@
    [200]
     1 string data = "(*mumly* *mumly*)"
    [201]
-    1 string data = "Chyba musí být na naší straně. Nebudeme ji brát v úvahu."
+    1 string data = "Chyba musí být na naší straně. Nebudeme ji brát v potaz."
    [202]
     1 string data = "Další!"
    [203]

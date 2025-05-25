@@ -97,7 +97,7 @@
    [41]
     1 string data = "Obávám se, že vše je zašifrované. Přístup je prakticky nemožný."
    [42]
-    1 string data = "Vážne?"
+    1 string data = "Vážně?"
    [43]
     1 string data = "Zajímalo by mě, jestli jsem právě..."
    [44]

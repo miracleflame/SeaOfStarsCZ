@@ -15,7 +15,7 @@
    [0]
     1 string data = "Támhle je!"
    [1]
-    1 string data = "HEJ, POČKEJTE!!"
+    1 string data = "HEJ, STŮJTE!!"
    [2]
     1 string data = "Uf! Odkud se bere ta síla!?"
    [3]
@@ -41,7 +41,7 @@
    [13]
     1 string data = "(…)"
    [14]
-    1 string data = "Nemá smysl tady zůstávat, pojdmě zpátky."
+    1 string data = "Nemá smysl tady zůstávat, pojďme zpátky."
    [15]
     1 string data = "Zas ten zpěv!"
    [16]

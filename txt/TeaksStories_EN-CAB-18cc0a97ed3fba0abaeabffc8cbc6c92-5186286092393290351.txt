@@ -223,7 +223,7 @@
    [104]
     1 string data = "Po úspěšném rozdělení reality na bezpočet časových linií a paralelních světů zanechal na čas alchymie a stal se Archivářem."
    [105]
-    1 string data = "Na nekončící cestě napříč všemi realitami zaznamenával každý možný výsledek, aby nalezl řešení pro soužení Karnimanta."
+    1 string data = "Na nekončící cestě napříč všemi realitami zaznamenával každý možný výsledek, aby nalezl řešení pro muka Karnimanta."
    [106]
     1 string data = "Aephorul se mezitím radoval z nekonečných příležitostí šířit zkázu, které se mu právě naskytly."
    [107]

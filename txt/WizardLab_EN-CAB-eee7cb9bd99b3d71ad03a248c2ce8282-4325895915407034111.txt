@@ -25,7 +25,7 @@
    [5]
     1 string data = "Neboj, chlapáku, demolice je moje druhé jméno!"
    [6]
-    1 string data = "Ha ha! Tam máš, ty stará ruino!"
+    1 string data = "Ha ha! Tu máš, ty stará ruino!"
    [7]
     1 string data = "..."
    [8]

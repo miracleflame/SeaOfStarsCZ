@@ -103,7 +103,7 @@
    [44]
     1 string data = "Nechme to bezpečné a předvídatelné!"
    [45]
-    1 string data = "Ještě ňáké trapárny, co vás napadli ohledně téhle výpravy?"
+    1 string data = "Ještě ňáké trapárny, co vás napadly ohledně téhle výpravy?"
    [46]
     1 string data = "Jako třeba nakupování lineárních vylepšení v každičkém městě s kováři, co jsou jaksi čím dál severněj tím schopnější?"
    [47]
@@ -155,7 +155,7 @@
    [70]
     1 string data = "No koukejme, kdo to přišel!"
    [71]
-    1 string data = "Dohoda platí. Pokud neporazíte Valtraida v páce, budete nám muset přiníst ňákou cetku."
+    1 string data = "Dohoda platí. Pokud neporazíte Valtraida v páce, budete nám muset přinýst ňákou cetku."
    [72]
     1 string data = "Pak vás vememe na Přízračný ostrov, čestné pirátské."
    [73]
@@ -195,7 +195,7 @@
    [90]
     1 string data = "Aye aye, kapitánko!"
    [91]
-    1 string data = "Dobrá, drsňáku, jdem' na to! Připraven?"
+    1 string data = "Dobrá, drsňáku, jdem na to! Připraven?"
    [92]
     1 string data = "Na tři!"
    [93]
@@ -509,7 +509,7 @@
    [247]
     1 string data = "Rád sem chodím a dívám se na připlouvající lodě. "
    [248]
-    1 string data = "Sháním nový člun, ale nejsem si jistý, který chci.""
+    1 string data = "Sháním nový člun, ale nejsem si jistý, který chci."
    [249]
     1 string data = "Tuhle jsem měla noční můru, ve které se Spáč probouzel. Jsem vážně ráda, že nepocházím z rodu věštců!"
    [250]
@@ -659,4 +659,4 @@
    [322]
     1 string data = "Vítejte u <color=location>Zlatého pelikána</color>. Měli jste na dnešek rezervaci?"
    [323]
-    1 string data = "Omlouvám se, Zlatý pelikán je pouze pro hosty s rezervaci. Musím vás požádat, abyste odešli."
+    1 string data = "Omlouvám se, Zlatý pelikán je pouze pro hosty s rezervací. Musím vás požádat, abyste odešli."

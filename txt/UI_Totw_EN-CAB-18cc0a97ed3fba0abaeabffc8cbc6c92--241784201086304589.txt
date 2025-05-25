@@ -117,7 +117,7 @@
    [51]
     1 string data = "Je k dispozici přídavný obsah"
    [52]
-    1 string data = "Svět Horloge čeká! Nahrajte libovolnou pozici po záverečných titulcích, abyste mohli začít."
+    1 string data = "Svět Horloge čeká! Abyste mohli začít, načtěte libovolnou pozici po záverečných titulcích."
    [53]
     1 string data = "Zavřít"
    [54]
@@ -135,4 +135,4 @@
    [60]
     1 string data = "Souboje jsou v Horloge náročnější,<br>tak pamatujte na základy: <color=#FFDEAA>načasování úderů</color> a <color=#FFDEAA>bloků</color> a zároveň <color=#FFDEAA>prolomení nepřátelských zámků</color>."
    [61]
-    1 string data = "Obtížnost můžete kdykoli upravit prostřednictvím nabídky <color=#FFDEAA>Relikvií</color>. Štastnou cestu! "
+    1 string data = "Obtížnost můžete kdykoli upravit prostřednictvím nabídky <color=#FFDEAA>Relikvií</color>. Štastnou cestu!"

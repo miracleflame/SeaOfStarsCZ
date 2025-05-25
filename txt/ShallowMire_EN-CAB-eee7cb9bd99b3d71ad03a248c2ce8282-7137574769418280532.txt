@@ -91,7 +91,7 @@
    [38]
     1 string data = "Večernice bude jednoho dne naše, jakože se Keenathan jmenuju!"
    [39]
-    1 string data = "Všeho do času, braši. Na teď se blížíme k molu."
+    1 string data = "Všeho do času, braši. Teď se blížíme k molu."
    [40]
     1 string data = "Hele, tak přece letíme podruhé. To je prima, co?"
    [41]

@@ -531,7 +531,7 @@
    [258]
     1 string data = "Vlastně se považuji za docela snesitelnou."
    [259]
-    1 string data = "Každopádně díky za rozcvičku. Budu tady, kdybyste to mysleli vážne."
+    1 string data = "Každopádně díky za rozcvičku. Budu tady, kdybyste to mysleli vážně."
    [260]
     1 string data = "Ještě jste tady? Mám toho víc, jestli chcete, ale jde to trochu hlouběji."
    [261]

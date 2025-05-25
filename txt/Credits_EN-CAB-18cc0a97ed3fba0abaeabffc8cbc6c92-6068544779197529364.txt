@@ -15,7 +15,7 @@
    [0]
     1 string data = "Zvláštní poděkování"
    [1]
-    1 string data = "A děkujeme VÁM za hraní <3 <3 <3"
+    1 string data = "A děkujeme VÁM za hraní <3 <3 <3\n\n\nČeskou lokalizaci pro vás připravili\n\nmiracle.flame - překlad, testování, korektura, technika\nPavla - překlad, korektura\nDanie! - fonty s diakritikou\nAlixon - Testování"
    [2]
     1 string data = "Herní režisér, návrhář a scenárista"
    [3]
@@ -131,6 +131,6 @@
    [58]
     1 string data = "Konec?"
    [59]
-    1 string data = "-Videoscény od Du Coup Animation-"
+    1 string data = "-Filmové scény od Du Coup Animation-"
    [60]
     1 string data = "-Další talenty a podpora-"

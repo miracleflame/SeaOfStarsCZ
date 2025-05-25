@@ -93,7 +93,7 @@
    [39]
     1 string data = "Jo, on s námi nemůže bojovat proti Přiživovačce."
    [40]
-    1 string data = "A co myslíš, že jsme udělali chybu?"
+    1 string data = "Myslíš, že jsme udělali chybu?"
    [41]
     1 string data = "Chci říct, že sice je skvělé ho tady mít, jenom že…"
    [42]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "Zní to jako zábava."
    [66]
-    1 string data = "Hádám, že větší loď bude vskutku vyžadvat více rukou!"
+    1 string data = "Hádám, že větší loď bude vskutku vyžadovat více rukou!"
    [67]
     1 string data = "Ha! Já bych určitě chtěl být námořnickým kuchařem…"
    [68]
@@ -245,7 +245,7 @@
    [115]
     1 string data = "To jste, ale Romaya je jednou ze <color=bad>Tří sester</color> a říká se o ní, že je ze všech ta nejobávanější."
    [116]
-    1 string data = "Zda to znamená, že je mocnější než Bojovníci Slunovratu, snad nebudeme muset zjišťovat."
+    1 string data = "Snad nebudeme muset zjišťovat, zda to znamená, že je mocnější než Bojovníci Slunovratu."
    [117]
     1 string data = "Jak se tam dostaneme?"
    [118]
@@ -531,7 +531,7 @@
    [258]
     1 string data = "…"
    [259]
-    1 string data = "Tihleti jsou vážne dobří!"
+    1 string data = "Tihleti jsou vážně dobří!"
    [260]
     1 string data = "Chcete mě vidět, jak slapuju na base, přátelé?"
    [261]
@@ -687,7 +687,7 @@
    [336]
     1 string data = "Jsme osvobozeni? Celý život jsem se připravovala na volání, ale teď… Ani nevím, co si o tom mám myslet… Děkujeme vám."
    [337]
-    1 string data = "Ti, kdo se pokusí odejít, jsou prostě <color=bad>zavoláni</color> okamžitě. Nevím, proč jste sem přišli, ale je mi vás líto, že tu teď trčíte stejně tak…"
+    1 string data = "Ti, kdo se pokusí odejít, jsou prostě <color=bad>zavoláni</color> okamžitě. Nevím, proč jste sem přišli, ale je mi vás líto, že tu teď taky trčíte…"
    [338]
     1 string data = "Pořád tomu nemůžu uvěřit. To znamená, že můžeme jet do Svěžína a podívat se na slunce…"
    [339]
@@ -705,7 +705,7 @@
    [345]
     1 string data = "Dobře uspořádaný regál."
    [346]
-    1 string data = "Všechny knihy tam vypadají extrémně staře a nudně."
+    1 string data = "Všechny knihy tu vypadají extrémně staře a nudně."
    [347]
     1 string data = "Ten zápach není příjemný."
    [348]
