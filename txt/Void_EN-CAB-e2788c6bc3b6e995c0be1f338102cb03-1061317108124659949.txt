@@ -19,7 +19,7 @@
    [2]
     1 string data = "Ano?"
    [3]
-    1 string data = "Je pravda, že vždycky přilétaj na narozeniny válečného kuchaře?"
+    1 string data = "Je pravda, že vždycky přilétaj na narozeniny Válečného kuchaře?"
    [4]
     1 string data = "Nikdo to neví jistě."
    [5]
@@ -35,7 +35,7 @@
    [10]
     1 string data = "Ano?"
    [11]
-    1 string data = "Je pravda, že vždycky přilétaj na narozeniny válečného kuchaře?"
+    1 string data = "Je pravda, že vždycky přilétaj na narozeniny Válečného kuchaře?"
    [12]
     1 string data = "To rozhodně."
    [13]

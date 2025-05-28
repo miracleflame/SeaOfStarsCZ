@@ -15,7 +15,7 @@
    [0]
     1 string data = "Máte představu, co to je?"
    [1]
-    1 string data = "Přecizně opracovaný krystal. Jeho energie odpovídá té, kterou obsahuje Zephyr."
+    1 string data = "Precizně opracovaný krystal. Jeho energie odpovídá té, kterou obsahuje Zephyr."
    [2]
     1 string data = "Lze jej použít k rozbití toho druhého?"
    [3]
@@ -29,7 +29,7 @@
    [7]
     1 string data = "Hmmm..."
    [8]
-    1 string data = "Co třeba korálové kladivo?"
+    1 string data = "Co třeba Korálové kladivo?"
    [9]
     1 string data = "Uvidíme."
    [10]
@@ -47,6 +47,6 @@
    [16]
     1 string data = "Tak to je za nás všechno. Doufám, že ostatní jsou v pořádku..."
    [17]
-    1 string data = "Zdá se, že by se sem vešel <color=magic>šestiúhelníkový objekt</color>."
+    1 string data = "Zdá se, že by se sem vešel <color=magic>šestiboký objekt</color>."
    [18]
-    1 string data = "Zdá se, že by se sem vešel <color=magic>trojúhelníkový objekt</color>."
+    1 string data = "Zdá se, že by se sem vešel <color=magic>trojboký objekt</color>."

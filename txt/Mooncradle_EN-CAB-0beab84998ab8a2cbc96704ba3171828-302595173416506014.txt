@@ -1113,7 +1113,7 @@
    [549]
     1 string data = "...přemýšlela jsem o Erlině."
    [550]
-    1 string data = "Bez ohledu na to, co za karnimantskou zrůdu se z ní stalo, musíme ji porazit."
+    1 string data = "Bez ohledu na to, jaká karnimantská zrůda se z ní stala, musíme ji porazit."
    [551]
     1 string data = "Ať už je kdekoliv..."
    [552]
@@ -1137,7 +1137,7 @@
    [561]
     1 string data = "Budu tady, jen mi dejte vědět."
    [562]
-    1 string data = "Tak tedy zpátky k nebeské radě? Můžeme jít do svatyně hned, jestli chcete."
+    1 string data = "Tak tedy zpátky k Nebeské radě? Můžeme jít do svatyně hned, jestli chcete."
    [563]
     1 string data = "Jít hned"
    [564]
@@ -1219,7 +1219,7 @@
    [602]
     1 string data = "Měsíční Kolébka je tak poklidná. "
    [603]
-    1 string data = "Na Garlovův pohřeb přišla celá vesnice. Všichni ho měli opravdu rádi."
+    1 string data = "Na Garlův pohřeb přišla celá vesnice. Všichni ho měli opravdu rádi."
    [604]
     1 string data = "Nevěděl jsem, že Bojovníci Slunovratu dokáží oživovat mrtvé, to je neskutečné!"
    [605]
@@ -1343,7 +1343,7 @@
    [664]
     1 string data = "Garl..."
    [665]
-    1 string data = "Je poněkud smutné, že se s námi už nebude plavit válečný kuchař..."
+    1 string data = "Je poněkud smutné, že se s námi už nebude plavit Válečný kuchař..."
    [666]
     1 string data = "Přes Moře hvězd... Tipuju, že Garlovi by se tam líbilo..."
    [667]

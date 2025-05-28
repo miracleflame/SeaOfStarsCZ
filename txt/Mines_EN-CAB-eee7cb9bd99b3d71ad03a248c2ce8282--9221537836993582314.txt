@@ -205,7 +205,7 @@
    [95]
     1 string data = "A k čemu jsou ty šachty?"
    [96]
-    1 string data = "Aha, bude tam spousta pšenice!"
+    1 string data = "Bude tam spousta pšenice!"
    [97]
     1 string data = "No a když ji tam všechnu naházíme, mělo by se to cestou dolů rozemlít a na spodu nám zůstane mouka."
    [98]

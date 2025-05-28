@@ -465,35 +465,35 @@
    [225]
     1 string data = "Konec příběhu."
    [226]
-    1 string data = "Z celé řady událostí z doby Ovatů mnozí považují založení Oblačného království za nejvýznamnější."
+    1 string data = "Z celé řady událostí z éry Ovatů je založení Oblačného království považováno za nejvýznamnější."
    [227]
     1 string data = "Bylo to ještě v raných dobách, kdy se svět teprve utvářel."
    [228]
     1 string data = "Jakmile dokončili ostrovy, začali pracovat na cestovních golemech."
    [229]
-    1 string data = "Ovati nejprve stvořili Y'eeta a X'tola a radovali se z toho, jak snadno je mohou aktivovat pomocí slov moci."
+    1 string data = "Ovati nejprve stvořili Y'eeta a X'tola a byli potěšeni z toho, jak snadno je mohou aktivovat pomocí magických slov."
    [230]
     1 string data = "Ale ostrov Mesa si žádal něco víc. Myslícího golema. Takového, který by jen neposlouchal příkazy, ale byl by nositelem poslání."
    [231]
     1 string data = "To proto, že tento konkrétní ostrov byl na úrovni hladiny moře, ale jak Ovati viděli ve svých snech, bylo třeba ho podepřít mnohem výš."
    [232]
-    1 string data = "V budoucnu mělo skutečně dojít k velké potopě, a aby tento svět přežil, musel by ostrov Mesa zůstat nad vodou."
+    1 string data = "Skutečně, v budoucnu mělo dojít k velké potopě, a aby tento svět přežil, musel by ostrov Mesa zůstat nad vodou."
    [233]
-    1 string data = "Ačkoliv tato budoucnost byla velmi vzdálená, Ovati zůstávali jako vždy nezištně oddáni harmonii a rovnováze."
+    1 string data = "Ačkoliv byla tato budoucnost velmi vzdálená, Ovati zůstávali jako vždy nezištně oddáni harmonii a rovnováze."
    [234]
     1 string data = "Tak stvořili Khukharra, ale bohužel zjistili, že mu nedokážou dát rozum."
    [235]
-    1 string data = "Vše objímajíc tok věcí, Ovati se pevně drželi víry, že sehráli svou roli při záchraně ostrova Mesa."
+    1 string data = "Vždy otevřeni toku věcí, Ovati se pevně drželi víry, že svou roli v záchraně ostrova Mesa sehráli."
    [236]
     1 string data = "Přešli k dokončení vize, kterou viděli ve společném snu, a z esence samotných mraků stvořili Nebeské obry."
    [237]
-    1 string data = "Až by nastal čas, kdy Ovati vyhynou, na Nebeských obrech bude, aby drželi stráž."
+    1 string data = "Až nastane čas, kdy Ovati vyhynou, bude na Nebeských obrech, aby drželi stráž."
    [238]
     1 string data = "Dostali za úkol založit v oblacích radu, která bude dohlížet na tři velmi důležité věci."
    [239]
     1 string data = "První z nich bylo bdít nad živly. Zatímco potopě nešlo předejít, udržení rovnováhy by zůstalo výzvou, pokud by se neobjevili noví Ovati."
    [240]
-    1 string data = "Za druhé měli strážit průchod do Moře hvězd a pečlivě prověřovat ty, kdo by chtěli cestovat mezi světy."
+    1 string data = "Za druhé, měli strážit průchod do Moře hvězd a pečlivě prověřovat ty, kteří by chtěli cestovat mezi světy."
    [241]
     1 string data = "A na závěr tu byla ona záležitost s Khukharrem."
    [242]
@@ -505,9 +505,9 @@
    [245]
     1 string data = "A dokonce ani z prorockého hlediska neexistuje žádný reálný způsob, jak zjistit, zda ustojí nadcházející potopu."
    [246]
-    1 string data = "Ale do té doby Khukharrova role zůstává pasivní."
+    1 string data = "Ale do té doby zůstává Khukharrova role pasivní."
    [247]
-    1 string data = "Drží nadále pevný úchop, stojí vysoko a inspiruje smrtelníky jako svědectví stoicismu a opravdové oddanosti."
+    1 string data = "Drží nadále pevný úchop, hrdě stojí a inspiruje smrtelníky jako svědectví stoicismu a opravdové oddanosti."
    [248]
     1 string data = "Stačí jednou pohlédnout na tento konstrukt, aby člověk pochopil, odkud se vzal jeho titul Khukharr Nezdolný."
    [249]

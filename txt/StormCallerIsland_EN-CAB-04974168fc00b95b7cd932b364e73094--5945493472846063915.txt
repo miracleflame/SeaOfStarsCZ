@@ -41,7 +41,7 @@
    [13]
     1 string data = "Aye, jenom hoď <color=magic>tudle perlu</color> do vody, kde jste bojovali s Vyzyvatelem bouří."
    [14]
-    1 string data = "A tudle máte cosik na ten souboj. Hodně štěstí!"
+    1 string data = "A tudle máte cosik na ten souboj. Zlomte vaz!"
    [15]
     1 string data = "Potřebujete něco?"
    [16]
@@ -51,4 +51,4 @@
    [18]
     1 string data = "Čas na velkou sklizeň."
    [19]
-    1 string data = "Musíme si pospíšit k Hydralionu."
+    1 string data = "Musíme si pospíšit k Hydralionovi."

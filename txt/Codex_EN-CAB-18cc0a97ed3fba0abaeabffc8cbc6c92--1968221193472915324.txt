@@ -143,7 +143,7 @@
    [64]
     1 string data = "Přehled"
    [65]
-    1 string data = "Kotouče jsou <color=menuhighlight>mechanická desková hra</color>, ve které každý hráč ovládá dva <color=menuhighlight>Hrdiny</color>. Sbírejte <color=menuhighlight>Energii</color> aby vaši hrdinové konali a snížili BŽ nepřátelské <color=menuhighlight>Koruny</color> na nulu!"
+    1 string data = "Kotouče jsou <color=menuhighlight>mechanická desková hra</color>, ve které každý hráč ovládá dva <color=menuhighlight>Hrdiny</color>. Sbírejte <color=menuhighlight>Energii</color>, aby vaši hrdinové konali a snížili BŽ nepřátelské <color=menuhighlight>Koruny</color> na nulu!"
    [66]
     1 string data = "Stůl a hráčův kotouč"
    [67]

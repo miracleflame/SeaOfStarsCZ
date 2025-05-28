@@ -1151,11 +1151,11 @@
    [568]
     1 string data = "Klíč nalezený v Zakázané jeskyni."
    [569]
-    1 string data = "Šestiúhelníková deska"
+    1 string data = "Šestiboký hranol"
    [570]
     1 string data = "Vejde se do šestihranné štěrbiny."
    [571]
-    1 string data = "Trojúhelníková deska"
+    1 string data = "Trojboký hranol"
    [572]
     1 string data = "Vejde se do trojúhelníkové štěrbiny."
    [573]

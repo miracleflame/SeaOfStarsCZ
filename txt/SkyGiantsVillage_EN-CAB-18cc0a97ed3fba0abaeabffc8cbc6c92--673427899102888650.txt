@@ -361,7 +361,7 @@
    [173]
     1 string data = "..."
    [174]
-    1 string data = "Ani nevíme, co je to vůbec Moře hvězd..."
+    1 string data = "Ani nevíme, co vůbec to Moře hvězd je..."
    [175]
     1 string data = "Je to právě ten průchod, který hledáte, abyste mohli tuto pouť dokončit."
    [176]
@@ -387,7 +387,7 @@
    [186]
     1 string data = "Děkuji."
    [187]
-    1 string data = "Dobře, sejděme se všichni a postavme se do řady."
+    1 string data = "Dobře, sejděme se všichni a postavme se do zástupu."
    [188]
     1 string data = "Představte se, cestovatelé!"
    [189]
@@ -439,7 +439,7 @@
    [212]
     1 string data = "Vyřízeno."
    [213]
-    1 string data = "[MAINCHAR_GODNAME]!"
+    1 string data = "Ať předstoupí [MAINCHAR_GODNAME]!"
    [214]
     1 string data = "Ty jsi vůdce této skupiny?"
    [215]

@@ -411,7 +411,7 @@
    [198]
     1 string data = "Nebeská země vzdušného živlu je na západě."
    [199]
-    1 string data = "Zůstaň silný, Zale. Svého přítele uvidíš ještě dřív, než vyprší jeho čas."
+    1 string data = "Zůstaň silný, Zale. Svého přítele ještě uvidíš, než vyprší jeho čas."
    [200]
     1 string data = "Vzchop se, Valerie. Čas tvého přítele ještě nevypršel."
    [201]
@@ -421,7 +421,7 @@
    [203]
     1 string data = "Pořád myslím jenom na Garla…"
    [204]
-    1 string data = "Držím palce ať to s tím Živoucím sklem vyjde… Zdá se, že B'st je naše jediná cesta do Svatosakrálních věží."
+    1 string data = "Držím palce, ať to s tím Živoucím sklem vyjde… Zdá se, že B'st je naše jediná cesta do Svatosakrálních věží."
    [205]
     1 string data = "Garl by byl unešen, kdyby to všechno viděl."
    [206]
@@ -439,7 +439,7 @@
    [212]
     1 string data = "Je mi moc líto vaší ztráty…"
    [213]
-    1 string data = "Děkuji za vaši pomoc. Už se nemohu dočkat, až navštívíme můj domov a ukážu vám, proti čemu stojíme."
+    1 string data = "Děkuji za vaši pomoc. Už se nemohu dočkat, až navštívíme můj domov a já vám ukážu, proti čemu stojíme."
    [214]
     1 string data = "Já… vím, že žádám o hodně, zvlášť po tom všem, co se stalo…"
    [215]
@@ -453,9 +453,9 @@
    [219]
     1 string data = "Svatosakrální věže jsou v severozápadním rohu. Pospěšme si."
    [220]
-    1 string data = "Jakmile budete připraveni, nebeská rada by měla být ochotna přijmout nás hned."
+    1 string data = "Jakmile budete připraveni, Nebeská rada by nás měla být ochotna hned přijmout."
    [221]
-    1 string data = "Cesta k Moři Hvězd se otevřela. Vede přes čtyři potopené obry, severně od Přízračného ostrovu."
+    1 string data = "Cesta k Moři Hvězd se otevřela. Vede přes čtyři potopené obry, severně od Přízračného ostrova."
    [222]
     1 string data = "Seraïna osada se nachází na východě tohoto světa, na ostrově s modrým pískem."
    [223]

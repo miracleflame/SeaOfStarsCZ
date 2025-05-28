@@ -79,7 +79,7 @@
    [32]
     1 string data = "Království v oblacích"
    [33]
-    1 string data = "Labutí píseň válečného kuchaře"
+    1 string data = "Labutí píseň Válečného kuchaře"
    [34]
     1 string data = "Přes Moře hvězd"
    [35]

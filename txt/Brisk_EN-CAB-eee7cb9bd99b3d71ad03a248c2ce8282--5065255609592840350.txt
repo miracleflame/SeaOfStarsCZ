@@ -123,7 +123,7 @@
    [54]
     1 string data = "!!!"
    [55]
-    1 string data = "Hejbněte kostrou posádko, je na čase to zabalit."
+    1 string data = "Hejbněte kostrou, posádko, je na čase to zabalit."
    [56]
     1 string data = "Aye aye, kapitánko!"
    [57]
@@ -259,7 +259,7 @@
    [122]
     1 string data = "Otevřu vchod do opuštěné laboratoře, jakože se Keenathan jmenuju!"
    [123]
-    1 string data = "Ahoy kapitánko, nejdeš s námi?"
+    1 string data = "Ahoy, kapitánko, nejdeš s námi?"
    [124]
     1 string data = "Já... provedu přípravy na náš odjezd."
    [125]
@@ -431,7 +431,7 @@
    [208]
     1 string data = "Vždycky se ocitnu uprostřed jejich hádky. Vypadám snad jako poštovní holub?"
    [209]
-    1 string data = "Děti souhlasili, že si budou zase hrát spolu. Konečně!"
+    1 string data = "Děti souhlasily, že si budou zase hrát spolu. Konečně!"
    [210]
     1 string data = "Slyšela jsem, že se vrátila pirátská posádka. Zřejmě hledají nějakou minci?"
    [211]
@@ -457,7 +457,7 @@
    [221]
     1 string data = "I praní oblečení je zábava, když máš pláž!"
    [222]
-    1 string data = "Čarodějova opuštěná laboratoř je na sever od Svěžína... Láká mě jít se tam podívat, jestli tam není nějaký poklad, ale ta věc nemá ani dveře!"
+    1 string data = "Čarodějova opuštěná laboratoř je na sever od Svěžína... Láká mě jít se tam podívat, jestli tam není nějaký poklad, ale ta věc ani nemá dveře!"
    [223]
     1 string data = "Otevřeli jste průchod k arkánovým ruinám? No, stejně se mi tam nechce, zní to nebezpečně!"
    [224]
@@ -531,7 +531,7 @@
    [258]
     1 string data = "Není nic lepšího než studený nápoj po náročném pracovním dni, kdy jste makali víc než všichni ostatní!"
    [259]
-    1 string data = "Mám v práci velmi výjimečnou pozici. Nosím mnoho klobouků a všechno by přestalo dobře fungovat, kdybych někdy dal výpověď nebo odešel na dovolenou!"
+    1 string data = "Mám v práci velmi výjimečnou pozici. Starám se o spoustu věcí a všechno by přestalo dobře fungovat, kdybych někdy dal výpověď nebo odešel na dovolenou!"
    [260]
     1 string data = "Požádala jsem o kávu a objasnila, že se musím učit na zkoušku, načež číšník řekl: "Aha, takže ne malou, ale střední?" Odpověděla jsem, že to je závěrečná zkouška."
    [261]
@@ -539,7 +539,7 @@
    [262]
     1 string data = "Nespouštím z těch pirátů oči!"
    [263]
-    1 string data = "Díky za rozhovor, Garle, jsi tak sám sebou, jak to jen jde. "
+    1 string data = "Díky za rozhovor, Garle, jsi tak sám sebou, jak to jen jde."
    [264]
     1 string data = "Nedělejte si hlavu s tím, že jste prohráli zápas v páce, nehráli fér."
    [265]

@@ -181,7 +181,7 @@
    [83]
     1 string data = "Tohle je můj štít, budu obranný bojovník!"
    [84]
-    1 string data = "Ne, válečný kuchař!"
+    1 string data = "Ne, Válečný kuchař!"
    [85]
     1 string data = "Jo?"
    [86]

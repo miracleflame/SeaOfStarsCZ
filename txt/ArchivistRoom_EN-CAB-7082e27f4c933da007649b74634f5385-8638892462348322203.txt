@@ -315,7 +315,7 @@
    [150]
     1 string data = "Nesmrtelný alchymista Resh'an se přidává do družiny!"
    [151]
-    1 string data = "A tímto byli [MAINCHAR] a [OFFCHAR] v doprovodu svého nejlepšího přítele, válečného kuchaře, vysláni na začátek své cesty."
+    1 string data = "A tímto byli [MAINCHAR] a [OFFCHAR] v doprovodu svého nejlepšího přítele, Válečného kuchaře, vysláni na začátek své cesty."
    [152]
     1 string data = "Při snaze dostat se na Přízračný ostrov, než nastane zatmění, se brzy vypořádají se dvěma mocnými čaroději."
    [153]

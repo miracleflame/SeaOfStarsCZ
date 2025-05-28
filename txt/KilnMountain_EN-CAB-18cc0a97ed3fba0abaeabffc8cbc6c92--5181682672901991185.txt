@@ -123,9 +123,9 @@
    [54]
     1 string data = "Takže obilí jde nahoru, pomele se tam..."
    [55]
-    1 string data = "Mouka se naplní sem nahoru, aby se pomísila..."
+    1 string data = "Tohle se naplní moukou, aby se pomísila..."
    [56]
-    1 string data = "Po chvilce hnětení se přesune sem nahoru, ještě se trochu promísí, nechá se v klidu a v teple a..."
+    1 string data = "Po chvilce hnětení se přesune sem nahoru, ještě se trochu prohněte, nechá se v klidu a v teple a..."
    [57]
     1 string data = "Dobrá práce, Malkomude! Je to perfektní!"
    [58]
@@ -143,7 +143,7 @@
    [64]
     1 string data = "Přichází to a zas odchází. Třeba zrovna teď se cítím dobře."
    [65]
-    1 string data = "Pojďme se ještě zavzpomínat, ano? Nic víc nechci."
+    1 string data = "Pojďme si ještě zavzpomínat, ano? Nic víc nechci."
    [66]
     1 string data = "..."
    [67]
@@ -171,7 +171,7 @@
    [78]
     1 string data = "Jak to, že tě nechytili?"
    [79]
-    1 string data = "Ale chytili mě, jenomže už jsem byl mimo jejich dosah, když mě babička uviděla."
+    1 string data = "Ale chytili mě, jenomže už jsem byl mimo dosah, když mě babička uviděla."
    [80]
     1 string data = "Kéž bych mohla vidět její výraz!"
    [81]
@@ -181,7 +181,7 @@
    [83]
     1 string data = "Ahh... GAH..."
    [84]
-    1 string data = "*kašel kašel*"
+    1 string data = "*kašel*"
    [85]
     1 string data = "Garle!"
    [86]
@@ -215,7 +215,7 @@
    [100]
     1 string data = "Tohle pro mě znamená nový začátek."
    [101]
-    1 string data = "Jestli nežádám příliš, byl bys ochoten mi dát nové jméno?"
+    1 string data = "Jestli nežádám příliš, byl bys ochoten dát mi nové jméno?"
    [102]
     1 string data = "Já..."
    [103]
