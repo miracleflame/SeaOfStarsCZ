@@ -185,7 +185,7 @@
    [85]
     1 string data = "Doufám, že nepřijdeme pozdě."
    [86]
-    1 string data = "Ještě že Seraï dorazila, kdy dorazila."
+    1 string data = "Ještě že Seraï dorazila právě včas."
    [87]
     1 string data = "Kámen duší… to zvládneme…"
    [88]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "Když vidím Hortenzii, jak tu takhle uvízla, je mi líto vévody Aventryho."
    [112]
-    1 string data = "Pořád nemůžu uvěřit, že by to Erlina a Brugaves udělali…"
+    1 string data = "Pořád nemůžu uvěřit, že to Erlina a Brugaves udělali…"
    [113]
     1 string data = "Hortenzie říkala, že ostrov, který hledáme, se nachází severovýchodně od Svěžína."
    [114]
@@ -251,7 +251,7 @@
    [118]
     1 string data = "Tihle lidé potřebují nový začátek. Vím přesně, jak to naplánovat!"
    [119]
-    1 string data = "Vyzyvatel bouří… Nejvyšší čas, aby s tím někdo skoncoval."
+    1 string data = "Vyzyvatel bouří… Nejvyšší čas, aby s tím vším někdo skoncoval."
    [120]
     1 string data = "…"
    [121]

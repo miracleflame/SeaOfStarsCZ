@@ -33,7 +33,7 @@
    [9]
     1 string data = "Samozřejmě, co se děje?"
    [10]
-    1 string data = "Šli jsme kácet dřevo hlouběji do pevniny a našli jsme <color=location>podivný vchod</color>."
+    1 string data = "Šli jsme kácet dřevo hlouběji do vnitrozemí a našli jsme <color=location>podivný vchod</color>."
    [11]
     1 string data = "Byl někdo zraněn?"
    [12]

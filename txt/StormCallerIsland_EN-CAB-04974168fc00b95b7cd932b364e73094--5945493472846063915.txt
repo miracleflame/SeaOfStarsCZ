@@ -29,9 +29,9 @@
    [7]
     1 string data = "Moře nočních můr všechny zkazí a časem vše pohltí."
    [8]
-    1 string data = "Chcete-li zkusit své štěstí, ujistěte se, že vaše muška je opravdová..."
+    1 string data = "Chcete-li zkusit své štěstí, vězte, že to nepůjde snáz..."
    [9]
-    1 string data = "NEBOŤ TEĎ VÁS BOUŘE POHLTÍ!"
+    1 string data = "NEBOŤ TEĎ BOUŘE POHLTÍ VÁS!"
    [10]
     1 string data = "NEEEEEEEEEEEEEEEEEEE!!!"
    [11]

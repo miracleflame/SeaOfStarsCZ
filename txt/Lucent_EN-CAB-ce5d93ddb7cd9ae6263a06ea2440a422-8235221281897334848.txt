@@ -281,7 +281,7 @@
    [133]
     1 string data = "Mohli bychom si udělat pohodlí, tohle asi chvíli potrvá."
    [134]
-    1 string data = "Haha! A pak jsi dělal jako "No, když nedostanu meč, jak udělám salta vzad?""
+    1 string data = "Haha! A pak jsi dělal jako "No, když nedostanu meč, jak budu dělat salta vzad?""
    [135]
     1 string data = "Ty máš co říkat s tou svou "Hradbou nevinných", jsem tak rád, že ses toho vzdala."
    [136]
@@ -699,7 +699,7 @@
    [342]
     1 string data = "Staré zaprášené romány."
    [343]
-    1 string data = "Malba 'Sídlo Aventry‘."
+    1 string data = "Malba 'Sídlo Aventry'."
    [344]
     1 string data = "Suroviny, co se používají k výrobě vybavení."
    [345]

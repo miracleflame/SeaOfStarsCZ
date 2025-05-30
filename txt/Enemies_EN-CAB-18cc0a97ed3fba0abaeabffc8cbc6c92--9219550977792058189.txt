@@ -43,7 +43,7 @@
    [14]
     1 string data = "Bosslimák"
    [15]
-    1 string data = "'Cerna"
+    1 string data = "Lucern"
    [16]
     1 string data = "Mlžný stařešina"
    [17]

@@ -41,9 +41,9 @@
    [13]
     1 string data = "Půjdou ti dva Bojovníci Slunovratu na pomoc?"
    [14]
-    1 string data = "Doufala jsem, že nakonec půjdou, když jim nejdřív pomůžu já..."
+    1 string data = "Pořád doufám, že nakonec půjdou, když jim nejdřív pomůžu já..."
    [15]
-    1 string data = "Pak to snad máme šanci."
+    1 string data = "To pak snad máme šanci."
    [16]
     1 string data = "Hortenzie, já..."
    [17]
@@ -55,7 +55,7 @@
    [20]
     1 string data = "Ahoy, navigátorko!"
    [21]
-    1 string data = "Hortenzie jméno mé. Použivej ho."
+    1 string data = "Hortenzie jméno mé. Používej ho."
    [22]
     1 string data = "Aye, já jen... Vypráví se, žes kdysi docela válela na mandolínu."
    [23]

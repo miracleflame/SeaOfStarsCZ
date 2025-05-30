@@ -101,7 +101,7 @@
    [43]
     1 string data = "Tak jak najdeme ty bleskosvody?"
    [44]
-    1 string data = "Aye, kouzelná mapa se spojuje s mořem. Měla by vám pomoct udělat si vobraz o vokolí."
+    1 string data = "Aye, kouzelná mapa se spojuje s mořem. Měla by vám pomoct udělat si vobraz vo vokolí."
    [45]
     1 string data = "Co kdybyste se chopili kormidla? Přestávka by mi docela bodla."
    [46]

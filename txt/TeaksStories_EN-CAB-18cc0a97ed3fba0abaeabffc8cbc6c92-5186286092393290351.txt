@@ -149,7 +149,7 @@
    [67]
     1 string data = "Za obzvlášť horkého letního slunovratu dopadla mince osudu na hranu a narodila se trojčata."
    [68]
-    1 string data = "Jak naznačovaly instinkty Velkého orla, brzy se ukázalo, že mravnost se rozdělila ve tři, snad aby viděla, jak se jejich vrozená magie projeví v odlišných podobách."
+    1 string data = "Jak naznačovaly instinkty Velkého orla, brzy se ukázalo, že mravnost se rozdělila na tři, snad aby viděla, jak se jejich vrozená magie projeví v odlišných podobách."
    [69]
     1 string data = "Jelikož se měly od sebe svými činy nevyhnutelně vzdálit, dostaly otravně podobná jména: Moyara, Yomara a Romaya."
    [70]
@@ -159,7 +159,7 @@
    [72]
     1 string data = "Yomara byla nestranná, známá spíše jako Babizna z Bažiny zpěvných hub."
    [73]
-    1 string data = "Svůj život v ústraní zasvětila nazírání do vzdálené budoucnosti, aby nabízela záhadné věštby o klíčových událostech a nadcházejících hrozbách, které se mohou, ale také nemusí vyplnit."
+    1 string data = "Svůj život v ústraní zasvětila nahlížení do vzdálené budoucnosti, aby nabízela záhadné věštby o klíčových událostech a nadcházejících hrozbách, které se mohou, ale také nemusí vyplnit."
    [74]
     1 string data = "Ve svých pěti letech správně předpověděla, že Karnimant odejde, pokud bude Přiživovač sváru poražen - i za cenu života Moyary."
    [75]

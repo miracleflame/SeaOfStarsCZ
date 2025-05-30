@@ -47,7 +47,7 @@
    [16]
     1 string data = "Zpočátku Hodinářka přistupovala k problému se svým zvyklým zaujetím a zvědavostí, dychtivá pochopit, kde udělala chybu."
    [17]
-    1 string data = "Přes všechno její pátrání však bylo jasné, že její práce byla,<br>ve skutečnosti bezchybná."
+    1 string data = "Přes všechno její pátrání však bylo jasné, že její práce byla<br>ve skutečnosti bezchybná."
    [18]
     1 string data = "Přesto si musela být jistá. A proto se rozhodla vstoupit dovnitř<br>a přesvědčit se na vlastní oči."
    [19]
@@ -65,6 +65,6 @@
    [25]
     1 string data = "Cítila to. Tohle zlovolné dvojče by tyranizovalo rozmarný svět, který vybudovala..."
    [26]
-    1 string data = "Po návratu ven plakala pro svá malá stvoření, když zapečetila hodiny, jak nejlépe uměla. Neboť věděla, že prokleté ozubené kolečko je ve skutečnosti <br>Semeno Zla..."
+    1 string data = "Po návratu ven plakala pro svá malá stvoření, když zapečetila hodiny, jak nejlépe uměla. Neboť věděla, že prokleté ozubené kolečko je ve skutečnosti Semeno Zla..."
    [27]
     1 string data = "Do dnešního dne zůstává Hodinářka ve své dílně, odhodlaná nalézt způsob, jak spasit svůj výtvor dříve, než nevyhnutelně povstane mechanický Přiživovač Soužení..."

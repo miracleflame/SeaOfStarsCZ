@@ -17,7 +17,7 @@
    [1]
     1 string data = "Ahoy, braši! Je mě známo, že se honíte za padouchama, ale máme tady akutní situaci."
    [2]
-    1 string data = "Obávám se, že Keenathan's má trable... Jestli byste nedbali stavit se fofrem na Večernici, bylo by to prima."
+    1 string data = "Obávám se, že Keenathan má trable... Jestli byste nedbali stavit se fofrem na Večernici, bylo by to prima."
    [3]
     1 string data = "Tak, tolik žvanění ode mne bude stačit. Uvidíme se."
    [4]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "Jde o Keenathana."
    [26]
-    1 string data = "Pamatáte jak jsme se hlásili u Nebeských obrů, abychom získali přístup do Mořě hvězd?"
+    1 string data = "Pamatáte jak jsme se hlásili u Nebeských obrů, abychom získali přístup do Moře hvězd?"
    [27]
     1 string data = "Bylo tam cosi, s čím zdánlivě váhali..."
    [28]
@@ -77,13 +77,13 @@
    [31]
     1 string data = "COŽE TO???"
    [32]
-    1 string data = "Ach, bída má!"
+    1 string data = "Ach, běda mi!"
    [33]
     1 string data = "Tohle nic nemění, říkám já. Pro mě budeš vždycky Keenathan, kámo!"
    [34]
     1 string data = "Pravdivá slova, Valtraide. Pravdivá slova."
    [35]
-    1 string data = "No ale to Keenathanovi náladu zrovna nespraví, že jo?"
+    1 string data = "No ale to Keenathanovi náladu zrovna nespraví, žáno?"
    [36]
     1 string data = "..."
    [37]
@@ -181,7 +181,7 @@
    [83]
     1 string data = "To vskutku ano!"
    [84]
-    1 string data = "Stačí vstoupit do středu a přenese vás to přímo do Hodinářčiny dílny."
+    1 string data = "Stačí vstoupit do jeho středu a přenese vás to přímo do Hodinářčiny dílny."
    [85]
     1 string data = "(Řekni jim, že to funguje oběma směry!)"
    [86]
@@ -237,7 +237,7 @@
    [111]
     1 string data = "Tak pojď. Vem si svůj příběh."
    [112]
-    1 string data = "Helemse..."
+    1 string data = "Helemese..."
    [113]
     1 string data = "Omlouvám se, Hodinářko. Neměla jsem tušení..."
    [114]
@@ -305,11 +305,11 @@
    [145]
     1 string data = "Dialokus lze použít ke zmenšení a vstupu do některých mechanizmů uvnitř hodin, včetně hodin samotných!"
    [146]
-    1 string data = "Stisknutím <button=interact> se aktivujete před objekty, které vyzařují fialovou září."
+    1 string data = "Stisknutím <button=interact> jej aktivujete před objekty, které vyzařují fialovou září."
    [147]
     1 string data = "Přeju vám tam hodně štěstí."
    [148]
-    1 string data = "Jděte napřed, já se v případě potřeby převléknu..."
+    1 string data = "Jděte do toho, já se v případě potřeby převléknu..."
    [149]
     1 string data = "Raději se podívejte na Keenathana. Obávám se, že toto polévka nespraví."
    [150]
@@ -341,7 +341,7 @@
    [163]
     1 string data = "S Keenathanem se něco děje. Přišli jste se na něj podívat?"
    [164]
-    1 string data = "Smutná záležitost, co se stalo s Keenathanem. Kéž bych mohl pomoci."
+    1 string data = "Smutná záležitost, co se stalo s Keenathanem. Kéž bych mohla pomoci."
    [165]
     1 string data = "Soucítím s Keenathanem..."
    [166]

@@ -77,7 +77,7 @@
    [31]
     1 string data = "(Taková drzost...)"
    [32]
-    1 string data = "(TAKOVÁ NESTYDADOST!!!)"
+    1 string data = "(TAKOVÁ NESTYDATOST!!!)"
    [33]
     1 string data = "Vemte si láhev z mého stolu a pak VYPADNĚTE Z MÉHO POZEMKU!"
    [34]

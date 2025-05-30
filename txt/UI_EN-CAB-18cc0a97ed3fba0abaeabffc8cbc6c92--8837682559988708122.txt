@@ -641,7 +641,7 @@
    [313]
     1 string data = "Načítání..."
    [314]
-    1 string data = "Verze [VERSION]\nČeská lokalizace: miracle.flame a tým"
+    1 string data = "<color=magic>Česká lokalizace:\nmiracle.flame a tým</color>\nVerze hry [VERSION]"
    [315]
     1 string data = "Klíčové předměty"
    [316]

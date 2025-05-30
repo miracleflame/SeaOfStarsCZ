@@ -101,7 +101,7 @@
    [43]
     1 string data = "Obsadíme Večernici!"
    [44]
-    1 string data = "Zamíta se, brachu. Bez svolení kapitánky se žádná spoušť mačkat nebude!"
+    1 string data = "Zamítá se, brachu. Bez svolení kapitánky se žádná spoušť mačkat nebude!"
    [45]
     1 string data = "Keenathan má pravdu. Nastal čas."
    [46]
@@ -139,7 +139,7 @@
    [62]
     1 string data = "Bude to jen na chvilku, takže musíme naskočit na palubu bez zaváhání."
    [63]
-    1 string data = "Jako 'dycky, kapitánko!"
+    1 string data = "Jako dycky, kapitánko!"
    [64]
     1 string data = "Já se tak těším!"
    [65]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Děkuji, myslela jsem si, že tady dneska umřu..."
    [89]
-    1 string data = "Dokážeš se sama dostat do přístavu? Lidé se tam shromažďují, zatímco my děláme pořádky s příšerama."
+    1 string data = "Dokážeš se sama dostat do přístavu? Lidé se tam shromažďují, zatímco my děláme pořádek s příšerama."
    [90]
     1 string data = "Já... ano, zvládnu to. Děkuji, ráda bych nabídla víc."
    [91]

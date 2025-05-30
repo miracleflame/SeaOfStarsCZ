@@ -163,7 +163,7 @@
    [74]
     1 string data = "Vývoj hrdinů"
    [75]
-    1 string data = "Hrdinové <color=menuhighlight>se vyvíjejí</color>, když mají dostatek XP. Hrdinové získávají 1XP za každou destičku s <color=menuhighlight>modrým pozadím</color> odpovídajícím jejich typu energie (1=1, bez pravidla trojic) a získávají 2XP, kdykoliv <color=menuhighlight>konají</color>. Hrdinové vždy začínají na <color=menuhighlight>Bronzové</color> úrovni a každý z nich se může vyvinout na <color=menuhighlight>Stříbrnou</color> a <color=menuhighlight>Zlatou</color>."
+    1 string data = "Hrdinové <color=menuhighlight>se vyvíjejí</color> s dostatkem XP. Získávají 1XP za každou destičku s <color=menuhighlight>modrým pozadím</color> odpovídajícím jejich typu energie (1=1, bez pravidla trojic) a získávají 2XP s každou <color=menuhighlight>akcí</color>. Hrdinové vždy začínají na <color=menuhighlight>Bronzové</color> úrovni a můžou se vyvinout na <color=menuhighlight>Stříbrnou</color> a <color=menuhighlight>Zlatou</color>."
    [76]
     1 string data = "Bomby"
    [77]
