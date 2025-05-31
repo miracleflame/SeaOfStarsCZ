@@ -641,7 +641,7 @@
    [313]
     1 string data = "Načítání..."
    [314]
-    1 string data = "<color=magic>Česká lokalizace:\nmiracle.flame a tým</color>\nVerze hry [VERSION]"
+    1 string data = "<color=magic>Česká lokalizace: miracle.flame a tým</color>\nVerze hry [VERSION]"
    [315]
     1 string data = "Klíčové předměty"
    [316]
@@ -699,7 +699,7 @@
    [342]
     1 string data = "Chycené ryby"
    [343]
-    1 string data = "Uvařená jídla"
+    1 string data = "Ukuchtěné pokrmy"
    [344]
     1 string data = "Opravdu nechcete uložit hru?"
    [345]

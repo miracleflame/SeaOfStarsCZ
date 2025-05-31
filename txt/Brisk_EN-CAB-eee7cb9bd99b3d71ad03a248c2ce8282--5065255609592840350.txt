@@ -423,7 +423,7 @@
    [204]
     1 string data = "Nic nemám radši než trávit čas s vnoučetem. To je ale požehnání!"
    [205]
-    1 string data = "Nezapomeňte, že si můžete koupit přísady na vaření! Tady ve Svěžíně máme široký výběr!"
+    1 string data = "Nezapomeňte, že si můžete koupit přísady na kuchtění! Tady ve Svěžíně máme široký výběr!"
    [206]
     1 string data = "Plánuji výlet s kempováním."
    [207]

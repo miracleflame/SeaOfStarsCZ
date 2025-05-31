@@ -809,7 +809,7 @@
    [397]
     1 string data = "Papilota"
    [398]
-    1 string data = "Skvělý pokrm pro začátečníky v táborákovém vaření."
+    1 string data = "Skvělý pokrm pro začátečníky v táborákovém kuchtění."
    [399]
     1 string data = "Parfait"
    [400]
@@ -1635,9 +1635,9 @@
    [810]
     1 string data = "Nůž šéfkuchaře"
    [811]
-    1 string data = "Zrychluje vaření."
+    1 string data = "Zrychluje kuchtění."
    [812]
-    1 string data = "Výrazně zkracuje dobu vaření. Pro ty, kteří rádi vaří ve velkém!"
+    1 string data = "Výrazně zkracuje dobu kuchtění. Pro ty, kteří rádi kuchtí ve velkém!"
    [813]
     1 string data = "Dobrovolný duch"
    [814]

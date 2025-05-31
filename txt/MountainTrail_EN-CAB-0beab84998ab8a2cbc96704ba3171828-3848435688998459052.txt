@@ -281,7 +281,7 @@
    [133]
     1 string data = "Perfektní, teď si z těch nasbíraných bobulí uděláme džem."
    [134]
-    1 string data = "Jen použij oheň a připrav se na vaření!"
+    1 string data = "Jen použij oheň a připrav se na kuchtění!"
    [135]
     1 string data = "Dobré ráno!"
    [136]
