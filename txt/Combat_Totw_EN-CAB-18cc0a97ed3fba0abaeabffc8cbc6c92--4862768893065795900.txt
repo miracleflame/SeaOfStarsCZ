@@ -13,220 +13,220 @@
   1 Array Array (109 items)
    0 int size = 109
    [0]
-    1 string data = "Sunbalancing"
+    1 string data = "Slunbalanc"
    [1]
-    1 string data = "Star-powered Fire projectile that splashes to nearby targets."
+    1 string data = "Ohnivý projektil z hvězd, který zasahuje blízké cíle."
    [2]
-    1 string data = "Trapèze"
+    1 string data = "Lichoběžník"
    [3]
-    1 string data = "A high flying display of skill that deals repeated Bonk and Magic damage."
+    1 string data = "Nanejvýš působivá ukázka zručnosti, která způsobuje opakované Magické a Bonk poškození."
    [4]
-    1 string data = "Lunebo"
+    1 string data = "Lunabo"
    [5]
-    1 string data = "Hold <button="Interact"> to dodge Magic beams, release to catch the Healing ones."
+    1 string data = "Podržením <button="Interact"> se vyhnete Magickým paprskům, uvolněním zachytíte ty léčivé."
    [6]
-    1 string data = "Jugglenaut"
+    1 string data = "Žonglord"
    [7]
-    1 string data = "A flurry of pins deal Flame and Bonk damage to the target. Press on hit to keep going."
+    1 string data = "Příval kuželek způsobuje cíli poškození Ohněm a Bonkem. Stisknutím při zásahu pokračujete."
    [8]
-    1 string data = "Basic Attack (MP +3)"
+    1 string data = "Základní útok (BM +3)"
    [9]
-    1 string data = "Basic Attack (MP +3)"
+    1 string data = "Základní útok (BM +3)"
    [10]
-    1 string data = "Entarte"
+    1 string data = "Dortomet"
    [11]
-    1 string data = "Throws a pie at the target, healing moderate HP."
+    1 string data = "Hodí na cíl dort, který mírně léčí BŽ."
    [12]
-    1 string data = "Pole Vault"
+    1 string data = "Skok o tyči"
    [13]
-    1 string data = "Airborne acrobatics land directly on the target for moderate Bonk damage."
+    1 string data = "Vzdušná akrobacie dopadne přímo na cíl a způsobí střední Bonk poškození."
    [14]
-    1 string data = "Hold <button="interact"> to build power, and release at maximum tension."
+    1 string data = "Podržte <button="interact"> pro zvýšení síly a uvolněte při maximálním napětí."
    [15]
-    1 string data = "Basic Attack (MP +3)"
+    1 string data = "Základní útok (BM +3)"
    [16]
-    1 string data = "Basic Attack (MP +3)"
+    1 string data = "Základní útok (BM +3)"
    [17]
-    1 string data = "Toubib Bim"
+    1 string data = "Doktor Bim"
    [18]
-    1 string data = "Heals an ally for a significant amount. Press <button="Interact"> when the gem aligns for better outcome."
+    1 string data = "Vyléčí spojence o výraznou částku. Stiskněte <button="Interact"> ve chvíli, kdy se drahokam zarovná, pro lepší výsledek."
    [19]
-    1 string data = "Heals an ally or attacks an enemy for a significant amount. Press <button="Interact"> when gems align for better outcome."
+    1 string data = "Vyléčí spojence nebo zaútočí na nepřítele o významnou částku. Stiskněte <button="Interact"> ve chvíli, kdy se drahokam zarovná, pro lepší výsledek."
    [20]
-    1 string data = "Cannonball Trampoline"
+    1 string data = "Dělová trampolína"
    [21]
-    1 string data = "Bonk damage on all enemies. Steer with <button="MoveAll"> to keep going."
+    1 string data = "Bonk poškození všem nepřátelům. Řiďte směr pomocí <button="MoveAll">, abyste pokračovali."
    [22]
-    1 string data = "Basic Attack (MP +3)"
+    1 string data = "Základní útok (BM +3)"
    [23]
-    1 string data = "Basic Attack (MP +3)"
+    1 string data = "Základní útok (BM +3)"
    [24]
-    1 string data = "Leap Frog"
+    1 string data = "Skok žabáka"
    [25]
-    1 string data = "Leap off of targets, dealing Laser damage with each bounce."
+    1 string data = "Skáče po cílech a při každém odrazu způsobí Laserové poškození."
    [26]
     1 string data = "Galette des Rois"
    [27]
-    1 string data = "Mystery boxes fall from the sky, some healing ally, other dealing Bonk damage to enemies."
+    1 string data = "Z nebe padají záhadné krabice, některé léčí spojence, jiné způsobují nepřátelům poškození Bonk."
    [28]
-    1 string data = "Heap Frog"
+    1 string data = "Hromada žabáka"
    [29]
-    1 string data = "Leap off of targets, dealing Laser and Magic damage with each bounce."
+    1 string data = "Skáče z cílů a při každém odrazu způsobuje Laserové a Magické poškození."
    [30]
-    1 string data = "Jugglecore"
+    1 string data = "Žonglcore"
    [31]
-    1 string data = "Multi-hit moderate Bonk, Fire and Magic damage on a single target."
+    1 string data = "Vícenásobné střední poškození typu Bonk, Oheň a Magie jednomu cíli."
    [32]
-    1 string data = "Spectacle Strike"
+    1 string data = "Spektakulární úder"
    [33]
-    1 string data = "Dual attack. Can be timed to hit twice."
+    1 string data = "Duální útok. Lze načasovat tak, aby zasáhl dvakrát."
    [34]
-    1 string data = "Terrific Troupe"
+    1 string data = "Šílená trupa"
    [35]
-    1 string data = "The Troupe's ultimate combo move."
+    1 string data = "Ultimátní kombo trupy."
    [36]
-    1 string data = "Trampoline Team"
+    1 string data = "Trampolínový tým"
    [37]
-    1 string data = "Human cannonballs bounce on all enemies. Steer with <button="MoveAll"> to keep going."
+    1 string data = "Lidské dělové koule se odrážejí od všech nepřátel. Řiďte pomocí <button="MoveAll">, abyste mohli pokračovat."
    [38]
-    1 string data = "Split the night"
+    1 string data = "Rozdělit noc"
    [39]
-    1 string data = "The Passenger"
+    1 string data = "Pasažér"
    [40]
-    1 string data = "Coalslay"
+    1 string data = "Uhlomlat"
    [41]
-    1 string data = "Curtain Call"
+    1 string data = "Opona padá"
    [42]
-    1 string data = "Concentric Crank"
+    1 string data = "Soustředná klika"
    [43]
-    1 string data = "Healectrons"
+    1 string data = "Léčotrony"
    [44]
-    1 string data = "Pogpwn"
+    1 string data = "Pogporážka"
    [45]
-    1 string data = "Gatling Fun"
+    1 string data = "Srandomet"
    [46]
     1 string data = "Tourpille"
    [47]
-    1 string data = "Spincopter"
+    1 string data = "Vrtělník"
    [48]
-    1 string data = "Front wheel crash"
+    1 string data = "Čelovice"
    [49]
-    1 string data = "Cymbales Shield"
+    1 string data = "Cymbalový štít"
    [50]
-    1 string data = "Lock, Lock, Who's There?"
+    1 string data = "Puk, puk, kdo tam?"
    [51]
     1 string data = "Hypercüt"
    [52]
-    1 string data = "Pif-in-the-box"
+    1 string data = "Pif-v-krabici"
    [53]
-    1 string data = "Pouf-in-the-box"
+    1 string data = "Puf-v-krabici"
    [54]
     1 string data = "Mantra"
    [55]
-    1 string data = "Mirage Toss"
+    1 string data = "Vrh přeludu"
    [56]
-    1 string data = "Lunge"
+    1 string data = "Výpad"
    [57]
-    1 string data = "Transform"
+    1 string data = "Proměna"
    [58]
-    1 string data = "Cog Rain"
+    1 string data = "Ozubený děšť"
    [59]
-    1 string data = "Summonegg"
+    1 string data = "Vyvolajíčko"
    [60]
-    1 string data = "Sap"
+    1 string data = "Sát"
    [61]
-    1 string data = "Highway Donkey"
+    1 string data = "Dálniční osel"
    [62]
-    1 string data = "Star Fall"
+    1 string data = "Pád hvězdy"
    [63]
-    1 string data = "Reverse Sunballs"
+    1 string data = "Obrácené sluneční koule"
    [64]
-    1 string data = "Ganonball"
+    1 string data = "Ganonová koule"
    [65]
-    1 string data = "Symmetry of Sin"
+    1 string data = "Symetrie hříchu"
    [66]
-    1 string data = "Charge Level [CHARGE_LEVEL]%"
+    1 string data = "Úroveň nabití [CHARGE_LEVEL]%"
    [67]
-    1 string data = "Spinspoot"
+    1 string data = "Spinkop"
    [68]
-    1 string data = "Clawppercut"
+    1 string data = "Spodní dráp"
    [69]
-    1 string data = "FULL POWER!!!"
+    1 string data = "PLNÝ VÝKON!!!"
    [70]
-    1 string data = "Awooo"
+    1 string data = "Aúúú"
    [71]
-    1 string data = "Bignition"
+    1 string data = "Velkopal"
    [72]
-    1 string data = "Hold <button="Interact"> to enter limbo pose, then release to send pins flying."
+    1 string data = "Podržením <button="Interact"> přejdete do pózy limbo a uvolněním pošlete kolíky do vzduchu."
    [73]
-    1 string data = "Mole Vault"
+    1 string data = "Skok o krtku"
    [74]
-    1 string data = "Buiss Roulette"
+    1 string data = "Buisská ruleta"
    [75]
-    1 string data = "Carni-Kiss"
+    1 string data = "Karnehuban"
    [76]
-    1 string data = "Full Moon"
+    1 string data = "Úplněk"
    [77]
-    1 string data = "Train Suplex"
+    1 string data = "Vlakový Suplex"
    [78]
-    1 string data = "Stomp"
+    1 string data = "Dupnutí"
    [79]
-    1 string data = "Refresh"
+    1 string data = "Obnova"
    [80]
-    1 string data = "Tempestal Ball"
+    1 string data = "Bouřková koule"
    [81]
-    1 string data = "Knoife"
+    1 string data = "Nožík"
    [82]
-    1 string data = "Zoetorch"
+    1 string data = "Zoelouč"
    [83]
-    1 string data = "Saw ya!"
+    1 string data = "Viděli jsme se!"
    [84]
-    1 string data = "Arty learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-leapfrog"> <color="magic">Leap Frog</color>!"
+    1 string data = "Arty se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-leapfrog"> <color="magic">Skok žabáka</color>!"
    [85]
-    1 string data = "Zale and Arty learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-galettedesrois"> <color="magic">Galette des Rois</color>!"
+    1 string data = "Zale a Arty se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-galettedesrois"> <color="magic">Galette des Rois</color>!"
    [86]
-    1 string data = "Zale learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-sunbalancing"> <color=#326d9c>Sunbalancing</color>!"
+    1 string data = "Zale se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-sunbalancing"> <color=#326d9c>Slunbalanc</color>!"
    [87]
-    1 string data = "Valere and Arty learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-heapfrog"> <color="magic">Heap Frog</color>!"
+    1 string data = "Valerie a Arty se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-heapfrog"> <color="magic">Hromada žabáka</color>!"
    [88]
-    1 string data = "[MAINCHAR], [OFFCHAR] and Arty learn new combo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampoline Team</color>!"
+    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampolinový tým</color>!"
    [89]
-    1 string data = "Valere learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-trapeze"> <color=#326d9c>Trapèze</color>!"
+    1 string data = "Valerie se naučila novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-trapeze"> <color=#326d9c>Lichoběžník</color>!"
    [90]
-    1 string data = "[MAINCHAR], [OFFCHAR] learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-jugglecore"> <color="magic">Jugglecore</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučli nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-jugglecore"> <color="magic">Žonglcore</color>!"
    [91]
-    1 string data = "Arty learns new skill <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-bigbim"> <color=#326d9c>Toubib Bim</color>!"
+    1 string data = "Arty se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-bigbim"> <color=#326d9c>Doktor Bim</color>!"
    [92]
-    1 string data = "[MAINCHAR], [OFFCHAR] and Arty learn new combo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-terrifictroupe"> <color=#326d9c>Terrific Troupe</color>!"
+    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-terrifictroupe"> <color=#326d9c>Šílená trupa</color>!"
    [93]
-    1 string data = "Attack"
+    1 string data = "Útok"
    [94]
-    1 string data = "Defend"
+    1 string data = "Obrana"
    [95]
-    1 string data = "Risky Attack"
+    1 string data = "Riskantní útok"
    [96]
-    1 string data = "A regular attack. Always hits, but can be mitigated by block."
+    1 string data = "Regulérní útok. Zasáhne vždy, ale může být zmírněn blokem."
    [97]
-    1 string data = "Reduce damage from Attack. Counters Risky Attack."
+    1 string data = "Snižuje poškození způsobené útokem. Odráží rizikový útok."
    [98]
-    1 string data = "Deals massive damage, but can be countered by Defend."
+    1 string data = "Způsobuje masivní poškození, ale lze ho odrazit obranou."
    [99]
-    1 string data = "Narcis King's ego is charging the mirror."
+    1 string data = "Ego Krále narcisů nabíjí zrcadlo."
    [100]
-    1 string data = "One of Narcis King's mirrors has started to charge his ultimate attack!<br><br>Hit the crank to the right to keep the spotlights away from the mirrors."
+    1 string data = "Jedno ze zrcadel Krále narcisů začalo nabíjet svůj ultimátní útok!<br><br>Zaútočte na kliku vpravo, aby se reflektory nedostaly k zrcadlům."
    [101]
-    1 string data = "Dweller of Scourge is checking the situation."
+    1 string data = "Přiživovač soužení kontroluje situaci."
    [102]
-    1 string data = "Dweller of Scourge needs a breather."
+    1 string data = "Přiživovač soužení si potřebuje vydechnout."
    [103]
-    1 string data = "Dweller of Scourge is hesitating."
+    1 string data = "Přiživovač soužení váhá."
    [104]
-    1 string data = "Dweller of Scourge has gathered power."
+    1 string data = "Přiživovač soužení nabral sílu."
    [105]
-    1 string data = "Dweller of Scourge puts on a serious look."
+    1 string data = "Přiživovač soužení nasadil vážný výraz."
    [106]
-    1 string data = "Dweller of Scourge seems furious."
+    1 string data = "Přiživovač soužení se zdá být rozzuřený."
    [107]
-    1 string data = "Found [GOLD_AMOUNT] Tokens!"
+    1 string data = "Nalezeno [GOLD_AMOUNT] žetonů!"
    [108]
-    1 string data = "Got [XP_AMOUNT] experience point(s) and [GOLD_AMOUNT] Tokens!"
+    1 string data = "Získáno [XP_AMOUNT] zkušenostních bodů a [GOLD_AMOUNT] žetonů!"

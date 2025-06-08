@@ -13,56 +13,56 @@
   1 Array Array (27 items)
    0 int size = 27
    [0]
-    1 string data = "Coilemur"
+    1 string data = "Spirálemur"
    [1]
-    1 string data = "Crazy Train"
+    1 string data = "Šílený expres"
    [2]
-    1 string data = "Cog Flower"
+    1 string data = "Ozubený květ"
    [3]
     1 string data = "GBB"
    [4]
-    1 string data = "Billet Bull"
+    1 string data = "Lístkař býk"
    [5]
-    1 string data = "Pouf"
+    1 string data = "Puf"
    [6]
     1 string data = "Pif"
    [7]
-    1 string data = "Keymiceter"
+    1 string data = "Klíčomyš"
    [8]
-    1 string data = "Pantouf"
+    1 string data = "Pan Tofel"
    [9]
-    1 string data = "Monsieur Tendu"
+    1 string data = "Monsieur Nervé"
    [10]
-    1 string data = "Totem Staff"
+    1 string data = "Totemová hůl"
    [11]
-    1 string data = "Dweller of Scourge"
+    1 string data = "Přiživovač soužení"
    [12]
-    1 string data = "Coggo"
+    1 string data = "Koleč"
    [13]
-    1 string data = "Quèshu"
+    1 string data = "Kešun"
    [14]
-    1 string data = "Crank"
+    1 string data = "Klika"
    [15]
-    1 string data = "Pig Macer"
+    1 string data = "Prasomlat"
    [16]
-    1 string data = "Werwofmizquard"
+    1 string data = "Vlkočarodružiník"
    [17]
-    1 string data = "Clown"
+    1 string data = "Šašek"
    [18]
-    1 string data = "Knife Thrower"
+    1 string data = "Vrhač nožů"
    [19]
-    1 string data = "Magician"
+    1 string data = "Kouzelník"
    [20]
-    1 string data = "Strongman"
+    1 string data = "Silák"
    [21]
-    1 string data = "Mime"
+    1 string data = "Mim"
    [22]
-    1 string data = "Fortune Teller"
+    1 string data = "Věštkyně"
    [23]
-    1 string data = "Wheel"
+    1 string data = "Koleso"
    [24]
-    1 string data = "Dynamice"
+    1 string data = "Dynamyš"
    [25]
     1 string data = "Buiss"
    [26]
-    1 string data = "P'técass"
+    1 string data = "Práskač"

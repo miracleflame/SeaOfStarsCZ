@@ -15,42 +15,42 @@
    [0]
     1 string data = "Pif"
    [1]
-    1 string data = "Pouf"
+    1 string data = "Puf"
    [2]
-    1 string data = "<color=#528fce>Pif</color><color=#7880a0> & </color><color=#ff5c5b>Pouf</color>"
+    1 string data = "<color=#528fce>Pif</color><color=#7880a0> a </color><color=#ff5c5b>Puf</color>"
    [3]
-    1 string data = "<color=#7DDBFF>Valere</color><color=#637181> & </color><color=#FCA044>Zale</color>"
+    1 string data = "<color=#7DDBFF>Valerie</color><color=#637181> a </color><color=#FCA044>Zale</color>"
    [4]
-    1 string data = "Fardush"
+    1 string data = "Farduš"
    [5]
-    1 string data = "The Puppeteer"
+    1 string data = "Loutkářka"
    [6]
-    1 string data = "Monsieur Tendu"
+    1 string data = "Monsieur Nervé"
    [7]
-    1 string data = "Narcis King"
+    1 string data = "Král narcisů"
    [8]
-    1 string data = "Feral Queen"
+    1 string data = "Nezkrotná královna"
    [9]
-    1 string data = "Juggler"
+    1 string data = "Žonglér"
    [10]
-    1 string data = "Acrobat"
+    1 string data = "Akrobat"
    [11]
     1 string data = "Barma'thazël"
    [12]
-    1 string data = "Genius Engineer"
+    1 string data = "Geniální inženýr"
    [13]
-    1 string data = "Hannah"
+    1 string data = "Hana"
    [14]
-    1 string data = "Throes of the Watchmaker"
+    1 string data = "Muka Hodinářky"
    [15]
-    1 string data = "Carnival Clerk"
+    1 string data = "Pokladník karnevalu"
    [16]
-    1 string data = "Attendant of Amusements"
+    1 string data = "Obsluha atrakcí"
    [17]
-    1 string data = "Kiosk Curator"
+    1 string data = "Provozovatel kiosku"
    [18]
-    1 string data = "Junior Deputy of Detention"
+    1 string data = "Mladší zástupce bachaře"
    [19]
-    1 string data = "Gilded Gleamwarden"
+    1 string data = "Dozorce Zlatětřpit"
    [20]
-    1 string data = "Herald of High Importance"
+    1 string data = "Herold nejvyšší vážnosti"
