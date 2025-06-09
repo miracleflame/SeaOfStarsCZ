@@ -13,326 +13,326 @@
   1 Array Array (162 items)
    0 int size = 162
    [0]
-    1 string data = "Time Rune I"
+    1 string data = "Časová runa I"
    [1]
-    1 string data = "An enchanted rune displaying the number 1."
+    1 string data = "Kouzelná runa s číslem 1."
    [2]
-    1 string data = "Time Rune II"
+    1 string data = "Časová runa II"
    [3]
-    1 string data = "An enchanted rune displaying the number 2."
+    1 string data = "Kouzelná runa s číslem 2."
    [4]
-    1 string data = "Time Rune III"
+    1 string data = "Časová runa III"
    [5]
-    1 string data = "An enchanted rune displaying the number 3."
+    1 string data = "Kouzelná runa s číslem 3."
    [6]
-    1 string data = "Time Rune IV"
+    1 string data = "Časová runa IV"
    [7]
-    1 string data = "An enchanted rune displaying the number 4."
+    1 string data = "Kouzelná runa s číslem 4."
    [8]
-    1 string data = "Time Rune V"
+    1 string data = "Časová runa V"
    [9]
-    1 string data = "An enchanted rune displaying the number 5."
+    1 string data = "Kouzelná runa s číslem 5."
    [10]
-    1 string data = "Time Rune VI"
+    1 string data = "Časová runa VI"
    [11]
-    1 string data = "An enchanted rune displaying the number 6."
+    1 string data = "Kouzelná runa s číslem 6."
    [12]
-    1 string data = "Time Rune VII"
+    1 string data = "Časová runa VII"
    [13]
-    1 string data = "An enchanted rune displaying the number 7."
+    1 string data = "Kouzelná runa s číslem 7."
    [14]
-    1 string data = "Time Rune VIII"
+    1 string data = "Časová runa VIII"
    [15]
-    1 string data = "An enchanted rune displaying the number 8."
+    1 string data = "Kouzelná runa s číslem 8."
    [16]
-    1 string data = "Time Rune IX"
+    1 string data = "Časová runa IX"
    [17]
-    1 string data = "An enchanted rune displaying the number 9."
+    1 string data = "Kouzelná runa s číslem 9."
    [18]
-    1 string data = "Time Rune X"
+    1 string data = "Časová runa X"
    [19]
-    1 string data = "An enchanted rune displaying the number 10."
+    1 string data = "Kouzelná runa s číslem 10."
    [20]
-    1 string data = "Time Rune XI"
+    1 string data = "Časová runa XI"
    [21]
-    1 string data = "An enchanted rune displaying the number 11."
+    1 string data = "Kouzelná runa s číslem 11."
    [22]
-    1 string data = "Time Rune XII"
+    1 string data = "Časová runa XII"
    [23]
-    1 string data = "An enchanted rune displaying the number 12."
+    1 string data = "Kouzelná runa s číslem 12."
    [24]
-    1 string data = "Lightbulb Key"
+    1 string data = "Žárovkový klíč"
    [25]
-    1 string data = "A key found in the Oubliettes."
+    1 string data = "Klíč nalezený v Zapomnění."
    [26]
-    1 string data = "Mule Drone"
+    1 string data = "Muladron"
    [27]
-    1 string data = "A friendly drone with the ability to shrink and carry certain objects."
+    1 string data = "Přátelský dron, který se umí zmenšit a přenášet různé předměty."
    [28]
-    1 string data = "Dialocus"
+    1 string data = "Dialokus"
    [29]
-    1 string data = "Lets the wearer shrink in size to enter certain clockwork devices."
+    1 string data = "Umožňuje nositeli se zmenšit a vstoupit do hodinových mechanismů."
    [30]
-    1 string data = "Ticket-Tocket"
+    1 string data = "Tiktadenka"
    [31]
-    1 string data = "A formal invitation to The Puppeteer's Headquarters."
+    1 string data = "Slavnostní pozvánka do Loutkářčinho ředitelství."
    [32]
-    1 string data = "Silken Ticket"
+    1 string data = "Hedvábná jízdenka"
    [33]
-    1 string data = "Gives entry to the Narcis King's estate."
+    1 string data = "Zaručuje vstup do sídla Krále narcisů."
    [34]
-    1 string data = "Were-Ticket"
+    1 string data = "Vlkodenka"
    [35]
-    1 string data = "Gives entry to the Feral Queen's lair."
+    1 string data = "Otevírá bránu do doupěte Nezkrotné královny."
    [36]
-    1 string data = "Bridge Key"
+    1 string data = "Mostní klíč"
    [37]
-    1 string data = "Activates a bridge somewhere in Wolf Rock."
+    1 string data = "Aktivuje most někde na Vlčí skále."
    [38]
-    1 string data = "Warlock Figurine"
+    1 string data = "Figurka Zaklínače"
    [39]
-    1 string data = "Makes the Warlock class playable in Wheels."
+    1 string data = "Odemkne možnost hrát za Zaklínače ve hře Kotoučů."
    [40]
-    1 string data = "Certificate of Balloonery"
+    1 string data = "Certifikát Balónářství"
    [41]
-    1 string data = "Seems pointless, but might interest someone."
+    1 string data = "Zdá se nesmyslný, ale někoho by mohl zaujmout."
    [42]
-    1 string data = "Sugar"
+    1 string data = "Cukr"
    [43]
-    1 string data = "The one and only."
+    1 string data = "Ten jediný a pravý."
    [44]
-    1 string data = "Dried Kernel"
+    1 string data = "Sušené zrnko"
    [45]
-    1 string data = "Ready for popping."
+    1 string data = "Připraveno k puknutí."
    [46]
-    1 string data = "Cream"
+    1 string data = "Šlehačka"
    [47]
-    1 string data = "Carries a hint of vanilla."
+    1 string data = "S nádechem vanilky."
    [48]
-    1 string data = "Butter"
+    1 string data = "Máslo"
    [49]
-    1 string data = "If gold and salt had a child."
+    1 string data = "Jakoby zlato a sůl měly dítě."
    [50]
-    1 string data = "Magnet Hook"
+    1 string data = "Magnetický háček"
    [51]
-    1 string data = "Could be used to fish out something made of metal."
+    1 string data = "Šikovný na lovení kovových předmětů."
    [52]
-    1 string data = "a Small Goodie Bag"
+    1 string data = "Malý pytlík dobrot"
    [53]
-    1 string data = "Small Goodie Bag"
+    1 string data = "Malý pytlík dobrot"
    [54]
-    1 string data = "a Medium Goodie Bag"
+    1 string data = "Střední pytlík dobrot"
    [55]
-    1 string data = "Medium Goodie Bag"
+    1 string data = "Střední pytlík dobrot"
    [56]
-    1 string data = "a Big Goodie Bag"
+    1 string data = "Velký pytlík dobrot"
    [57]
-    1 string data = "Big Goodie Bag"
+    1 string data = "Velký pytlík dobrot"
    [58]
-    1 string data = "a Big Goodie Bag"
+    1 string data = "Velký pytlík dobrot"
    [59]
-    1 string data = "Big Goodie Bag"
+    1 string data = "Velký pytlík dobrot"
    [60]
-    1 string data = "Tokens"
+    1 string data = "Žetony"
    [61]
-    1 string data = "The common currency in Horloge."
+    1 string data = "Místní měna v Horloge."
    [62]
-    1 string data = "Music Sheet #8"
+    1 string data = "Notový zápis #8"
    [63]
-    1 string data = "Music Sheet #9"
+    1 string data = "Notový zápis #9"
    [64]
-    1 string data = "Music Sheet #10"
+    1 string data = "Notový zápis #10"
    [65]
-    1 string data = "Music Sheet #11"
+    1 string data = "Notový zápis #11"
    [66]
-    1 string data = "Music Sheet #12"
+    1 string data = "Notový zápis #12"
    [67]
-    1 string data = "Music Sheet #13"
+    1 string data = "Notový zápis #13"
    [68]
-    1 string data = "Music Sheet #14"
+    1 string data = "Notový zápis #14"
    [69]
-    1 string data = "Recruit's Bracelet"
+    1 string data = "Náramek rekruta"
    [70]
-    1 string data = "Fit for an aspiring Juggler."
+    1 string data = "Padne začínajícímu žonglérovi jako ulitý."
    [71]
-    1 string data = "Spinner's Bracelet"
+    1 string data = "Náramek Točouna"
    [72]
-    1 string data = "Supports the wrists nicely."
+    1 string data = "Pěkně zafixuje zápěstí."
    [73]
-    1 string data = "Tossmaster's Bracelet"
+    1 string data = "Náramek Mistrhazu"
    [74]
-    1 string data = "Offers comfort and freedom of movement."
+    1 string data = "Zaručí volnost i pohodlí při každém pohybu."
    [75]
-    1 string data = "Starborn Bracelet"
+    1 string data = "Náramek Zrozený z hvězd"
    [76]
-    1 string data = "For the performer who doesn't mind attracting attention."
+    1 string data = "Pro toho, kdo se nebojí přitahovat pozornost."
    [77]
-    1 string data = "Vaulter's Wraps"
+    1 string data = "Obvazy Skokana"
    [78]
-    1 string data = "Not very comfy, but still better than being barehanded."
+    1 string data = "Nepříliš pohodlné, ale lepší než nic."
    [79]
-    1 string data = "Riser's Wraps"
+    1 string data = "Obvazy Vzletu"
    [80]
-    1 string data = "Tighter grip for sharper tricks."
+    1 string data = "Pevnější úchop pro ostřejší triky."
    [81]
-    1 string data = "Aerialist's Wraps"
+    1 string data = "Obvazy Akrobata"
    [82]
-    1 string data = "Improves balance and propulsion."
+    1 string data = "Zlepšují rovnováhu a odraz."
    [83]
-    1 string data = "Skybound Wraps"
+    1 string data = "Nebeské Obvazy"
    [84]
-    1 string data = "Lets the wearer capture the tingling of magic in the air."
+    1 string data = "Umožňují nositeli zachytit šimrání magie ve vzduchu."
    [85]
-    1 string data = "Fused Silica Lens"
+    1 string data = "Čočka z taveného křemene"
    [86]
-    1 string data = "A simple lens made of simple materials."
+    1 string data = "Jednoduchá čočka z prostých surovin."
    [87]
-    1 string data = "Borosilicate Lens"
+    1 string data = "Borokřemíková Čočka"
    [88]
-    1 string data = "Stronger lasers made possible by improved heat resistance."
+    1 string data = "Umožňuje silnější lasery díky lepší odolnosti vůči žáru."
    [89]
-    1 string data = "Metamaterial Lens"
+    1 string data = "Čočka z Metamateriálu"
    [90]
-    1 string data = "Scientifically accurate."
+    1 string data = "Vědecky přesná."
    [91]
-    1 string data = "Infinity Lens"
+    1 string data = "Čočka Nekonečna"
    [92]
-    1 string data = "The ultimate lens, tapping into the fabric of time (and space)."
+    1 string data = "Ultimátní čočka, co šátrá v pavučině času (a prostoru)."
    [93]
-    1 string data = "Tumbler's Garb"
+    1 string data = "Kostým Kotrmelce"
    [94]
-    1 string data = "Circus actor wear for beginners."
+    1 string data = "Cirkusácký oděv pro začátečníky."
    [95]
-    1 string data = "Performer's Finery"
+    1 string data = "Výbava Umělce"
    [96]
-    1 string data = "Simple and reliable."
+    1 string data = "Jednoduchá a spolehlivá."
    [97]
-    1 string data = "Daredevil's Raiment"
+    1 string data = "Úbor Odvážlivce"
    [98]
-    1 string data = "Only available to those who have proven themselves onstage."
+    1 string data = "Pouze pro ty, kdo se ujali na pódiu."
    [99]
-    1 string data = "Grand Marvel's Regalia"
+    1 string data = "Róba Velkolepého Divotvůrce"
    [100]
-    1 string data = "The mark of a circus superstar."
+    1 string data = "Značka cirkusové superstar."
    [101]
-    1 string data = "Brasscoat Plating"
+    1 string data = "Mosazný Plát"
    [102]
-    1 string data = "Basic alloy offering rudimentary protection."
+    1 string data = "Základní slitina pro základní ochranu."
    [103]
-    1 string data = "Cogweld Plating"
+    1 string data = "Zubový Plát"
    [104]
-    1 string data = "A meshing of clockwork know-how."
+    1 string data = "Spojuje moudrost ozubených kol."
    [105]
-    1 string data = "Runebound Plating"
+    1 string data = "Plát pokrytý runami"
    [106]
-    1 string data = "A powerful alloy mixed with a dash of magic."
+    1 string data = "Silná slitina se špetkou magie."
    [107]
-    1 string data = "Arcforge Plating"
+    1 string data = "Plát z Arkánové výhně"
    [108]
-    1 string data = "The best protection engineering can provide."
+    1 string data = "To nejlepší, co může technika nabídnout."
    [109]
-    1 string data = "Recipe: Popcorn"
+    1 string data = "Recept: Popcorn"
    [110]
-    1 string data = "Teaches how to cook Popcorn."
+    1 string data = "Naučí vás připravit Popcorn."
    [111]
-    1 string data = "Recipe: Ice Cream"
+    1 string data = "Recept: Zmrzlina"
    [112]
-    1 string data = "Teaches how to cook Ice Cream."
+    1 string data = "Naučí vás připravit Zmrzlinu."
    [113]
-    1 string data = "Recipe: Milkshake"
+    1 string data = "Recept: Milkshake"
    [114]
-    1 string data = "Teaches how to cook Milkshake."
+    1 string data = "Naučí vás připravit Milkshake."
    [115]
-    1 string data = "Recipe: Caramel Corn"
+    1 string data = "Recept: Karamelová kukuřice"
    [116]
-    1 string data = "Teaches how to cook Caramel Corn."
+    1 string data = "Naučí vás připravit Karamelovou kukuřici."
    [117]
-    1 string data = "Recipe: Barbapapa"
+    1 string data = "Recept: Barbapapa"
    [118]
-    1 string data = "Teaches how to cook Barbapapa."
+    1 string data = "Naučí vás připravit Barbapapu."
    [119]
     1 string data = "Popcorn"
    [120]
-    1 string data = "Too salty at first, but impossible to stop."
+    1 string data = "Spočátku příliš slaný, ale nejde s ním přestat."
    [121]
-    1 string data = "Ice Cream"
+    1 string data = "Zmrzlina"
    [122]
-    1 string data = "It's ice cream."
+    1 string data = "Je to zmrzlina."
    [123]
     1 string data = "Milkshake"
    [124]
-    1 string data = "The only non-alchemical way to obtain liquid happiness."
+    1 string data = "Jediný nealchymistický způsob, jak získat tekuté štěstí."
    [125]
-    1 string data = "Caramel Corn"
+    1 string data = "Karamelová kukuřice"
    [126]
-    1 string data = "Even quitters finish this."
+    1 string data = "Dokonce i ti, co se vzdávaj, tohle dojedí."
    [127]
     1 string data = "Barbapapa"
    [128]
-    1 string data = "Lacking substance, but always brings joy."
+    1 string data = "Bez výživy, ale vždycky potěší."
    [129]
-    1 string data = "Fruity Roll"
+    1 string data = "Ovocná rolka"
    [130]
-    1 string data = "Max HP +3."
+    1 string data = "Max BŽ +3."
    [131]
-    1 string data = "Jawbreaker"
+    1 string data = "Tvrdý cukřík"
    [132]
-    1 string data = "Physical Attack +1."
+    1 string data = "Fyzický útok +1."
    [133]
-    1 string data = "Sour Licorice"
+    1 string data = "Kyselá lékořice"
    [134]
-    1 string data = "Magic Attack +1."
+    1 string data = "Magický útok +1."
    [135]
-    1 string data = "Heliacal Brooch"
+    1 string data = "Heliakální brož"
    [136]
-    1 string data = "Sunbalancing power <color="menuhighlight">+20</color>."
+    1 string data = "Síla Slunbalancu <color="menuhighlight">+20</color>."
    [137]
-    1 string data = "Mooncoin Belt"
+    1 string data = "Opasek s měsíční mincí"
    [138]
-    1 string data = "Increases Lunebo healing by <color="menuhighlight">50%</color>."
+    1 string data = "Zvyšuje léčení Lunabo o <color="menuhighlight">50%</color>."
    [139]
-    1 string data = "Clockwork Monocle"
+    1 string data = "Mechanický monokl"
    [140]
-    1 string data = "Displays weaknesses and non-boss enemy HP in combat."
+    1 string data = "V souboji zobrazuje slabiny a BŽ nepřátel, krom bossů."
    [141]
-    1 string data = "Dielectric Coating"
+    1 string data = "Dielektrický nátěr"
    [142]
-    1 string data = "Toubib Bim can also be used on enemies for massive damage."
+    1 string data = "Dovednost Doktor Bim lze použít i na nepřátele pro masivní poškození."
    [143]
-    1 string data = "Third Wind"
+    1 string data = "Třetí dech"
    [144]
-    1 string data = "Boosts attack power by <color="menuhighlight">33%</color> while HP is below 40%."
+    1 string data = "Zvyšuje sílu útoku o <color="menuhighlight">33%</color>, když máte pod 40 % BŽ."
    [145]
-    1 string data = "Soulbound Catalyst"
+    1 string data = "Katalyzátor pout duše"
    [146]
-    1 string data = "In combat, party recovers HP equal to <color="menuhighlight">50%</color> of MP the wearer spends."
+    1 string data = "V souboji obnovuje BŽ celé družině ve výši <color="menuhighlight">50%</color> spotřebovaných BM."
    [147]
-    1 string data = "Glass Cannon"
+    1 string data = "Skleněné dělo"
    [148]
-    1 string data = "Max HP <color="bad">-40%</color>. Skills cost <color="menuhighlight">-2</color> MP."
+    1 string data = "Max BŽ <color="bad">-40%</color>. Dovednosti stojí o <color="menuhighlight">-2</color> BM méně."
    [149]
-    1 string data = "Leeching Circlet"
+    1 string data = "Čelenka vysávání"
    [150]
-    1 string data = "Wearer recovers <color="menuhighlight">7</color> HP whenever an enemy dies."
+    1 string data = "Nositeli obnoví <color="menuhighlight">7</color> BŽ, když zemře nepřítel."
    [151]
-    1 string data = "Green Plume"
+    1 string data = "Zelené pírko"
    [152]
-    1 string data = "Max HP <color="menuhighlight">+25</color>."
+    1 string data = "Max BŽ <color="menuhighlight">+25</color>."
    [153]
-    1 string data = "Spectacular Scarf"
+    1 string data = "Spektakulární šála"
    [154]
-    1 string data = "DEF <color="menuhighlight">+5</color>, MDEF <color="menuhighlight">+5</color>."
+    1 string data = "Obrana <color="menuhighlight">+5</color>, Magická obrana <color="menuhighlight">+5</color>."
    [155]
-    1 string data = "Refillable Popcorn Bucket"
+    1 string data = "Samoplnící kbelík popcornu"
    [156]
-    1 string data = "Price reduction on all snacks."
+    1 string data = "Snižuje cenu všech pamlsků."
    [157]
-    1 string data = "Souvenir from Horloge. Gives a <color=magic>25</color>% price reduction when buying snacks."
+    1 string data = "Suvenýr z Horloge. Dává <color=magic>25</color>% slevu při nákupu pamlsků."
    [158]
-    1 string data = "Clown Nose"
+    1 string data = "Klaunský nos"
    [159]
-    1 string data = "Valuable meant to be sold in Horloge."
+    1 string data = "Cennost určená k prodeji v Horloge."
    [160]
-    1 string data = "Entry Stubs"
+    1 string data = "Vstupenky"
    [161]
-    1 string data = "Can be spent in the Big Top to access more sections."
+    1 string data = "Lze utratit v Šapitó za přístup do dalších sekcí."

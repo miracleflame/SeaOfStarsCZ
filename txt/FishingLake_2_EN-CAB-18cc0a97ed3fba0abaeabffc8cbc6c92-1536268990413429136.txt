@@ -13,12 +13,12 @@
   1 Array Array (5 items)
    0 int size = 5
    [0]
-    1 string data = "Threw my Warlock Figurine in the lake, yes I did! Fishing's way more fun, anyway."
+    1 string data = "Hodil jsem svou figurku Zaklínače do jezera, ano, vážne! Rybáření je stejně větší zábava."
    [1]
-    1 string data = "I made a special magnet to fish it out, but I'll only share it with a master angler."
+    1 string data = "Sestrojil jsem speciální magnet, abych ji vylovil, ale půjčím ho jen Mistrovi rybáření."
    [2]
-    1 string data = "Still haven't caught all species of Goodie Bags? Come on, there's only four of them!"
+    1 string data = "Pořád jste nechytili všechny druhy Dárkových pytlíčků? No tak, vždyť jsou jen čtyři!"
    [3]
-    1 string data = "You did it! Here, as promised."
+    1 string data = "Dokázali jste to! Tady máš, jak bylo slíbeno."
    [4]
-    1 string data = "May it bring you joy and luck."
+    1 string data = "Kéž ti přinese radost a štěstí."

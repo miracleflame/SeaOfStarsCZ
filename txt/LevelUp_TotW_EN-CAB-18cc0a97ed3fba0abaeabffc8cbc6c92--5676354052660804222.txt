@@ -13,20 +13,20 @@
   1 Array Array (9 items)
    0 int size = 9
    [0]
-    1 string data = "Ladies and gentlemen, prepare to be astounded, for there is a new troupe in town!"
+    1 string data = "Dámy a pánové, připravte se žasnout, neboť do města dorazila nová trupa!"
    [1]
-    1 string data = "Their renown has increased, so please, dear audience, let your applause rise like thunder and lift their spirits high!"
+    1 string data = "Jejich věhlas roste, proto, milé publikum, ať váš potlesk burácí jako hrom a pozvedne jim ducha!"
    [2]
-    1 string data = "And now, behold, as the whimsicality of artistic inspiration quickens amongst them!"
+    1 string data = "A teď hleďte, jak rozmar artistické inspirace mezi nimi víří a plane!"
    [3]
-    1 string data = "The curtain falls for now, but fret not, we shall meet again under the grand lights of the ring!"
+    1 string data = "Opona se na chvíli spouští, ale nermuťte se — opět se shledáme pod reflektory manéže!"
    [4]
-    1 string data = "Maximum renown? Why, bravo, my marvelous stars!"
+    1 string data = "Maximální věhlas? Ó, bravo, vy moje báječné hvězdy!"
    [5]
-    1 string data = "You have dazzled, you have soared, and you have left your mark upon the world!"
+    1 string data = "Vzlétli jste, oslnili jste a zanechali jste svou stopu na světě!"
    [6]
-    1 string data = "But every grand performance must come to a close. While the wonder will never fade, it is time for the lights to dim."
+    1 string data = "Leč i ten nejvelkolepější výstup jednou končí. Kouzlo nevyprchá, ale světla už pomalu pohasínají."
    [7]
-    1 string data = "Let's hear it one last time for the one, the only...."
+    1 string data = "Tleskejme ještě naposledy těm jedinečným a neopakovatelným..."
    [8]
-    1 string data = "Terrific Troupe!!!"
+    1 string data = "Šílené Trupě!!!"

@@ -13,26 +13,26 @@
   1 Array Array (12 items)
    0 int size = 12
    [0]
-    1 string data = "Thank you for saving my train, it's so good to have it back. And I see you have a ticket for the Ivory Towers!"
+    1 string data = "Děkuji, že jste zachránili můj vlak, je skvělé mít ho zpátky. A koukám, že máte jízdenku do Slonovinových věží!"
    [1]
-    1 string data = "A Were-Ticket? I suppose we're headed to Wolf Rock, then!"
+    1 string data = "Vlkodenka? Tak to míříme na Vlčí Skálu, co?"
    [2]
-    1 string data = "The Puppeteer has summoned you to the Big Top?"
+    1 string data = "Loutkářka vás povolala do Šapitó?"
    [3]
-    1 string data = "Welcome, champions, it's always good to see you."
+    1 string data = "Vítejte, šampioni, vždycky vás rád vidím."
    [4]
-    1 string data = "The engine's raring to go. Want to hop aboard?"
+    1 string data = "Lokomotiva už netrpělivě funí. Naskočíte?"
    [5]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [6]
-    1 string data = "No"
+    1 string data = "Ne"
    [7]
-    1 string data = "Please present your Silken Ticket."
+    1 string data = "Předložte, prosím, svou Hedvábnou jízdenku."
    [8]
-    1 string data = "Please present your Were-Ticket."
+    1 string data = "Předložte, prosím, svou Vlkodenku."
    [9]
-    1 string data = "Please present your Ticket-Tocket."
+    1 string data = "Předložte, prosím, svou Tiktadenku."
    [10]
-    1 string data = "Meanwhile, at the The Puppeteer's Big Top..."
+    1 string data = "Mezitím, v Šapitó Loutkářky..."
    [11]
-    1 string data = "All aboard the Hoop Hopper Express!"
+    1 string data = "Všichni nastupovaat na palubu Hup-hop expresu!"

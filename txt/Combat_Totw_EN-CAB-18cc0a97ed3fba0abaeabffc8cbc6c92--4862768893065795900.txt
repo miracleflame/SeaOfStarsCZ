@@ -17,7 +17,7 @@
    [1]
     1 string data = "Ohnivý projektil z hvězd, který zasahuje blízké cíle."
    [2]
-    1 string data = "Lichoběžník"
+    1 string data = "Visutá hrazda"
    [3]
     1 string data = "Nanejvýš působivá ukázka zručnosti, která způsobuje opakované Magické a Bonk poškození."
    [4]
@@ -89,7 +89,7 @@
    [37]
     1 string data = "Lidské dělové koule se odrážejí od všech nepřátel. Řiďte pomocí <button="MoveAll">, abyste mohli pokračovat."
    [38]
-    1 string data = "Rozdělit noc"
+    1 string data = "Rozpůl noc"
    [39]
     1 string data = "Pasažér"
    [40]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampolinový tým</color>!"
    [89]
-    1 string data = "Valerie se naučila novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-trapeze"> <color=#326d9c>Lichoběžník</color>!"
+    1 string data = "Valerie se naučila novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-trapeze"> <color=#326d9c>Visutá hrazda</color>!"
    [90]
     1 string data = "[MAINCHAR] a [OFFCHAR] se naučli nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-jugglecore"> <color="magic">Žonglcore</color>!"
    [91]
