@@ -13,176 +13,176 @@
   1 Array Array (87 items)
    0 int size = 87
    [0]
-    1 string data = "(We should open the Mysterious Box!)"
+    1 string data = "(Měli bychom otevřít Záhadnou skříňku!)"
    [1]
-    1 string data = "(Using what hands?)"
+    1 string data = "(Jakýma rukama jako?)"
    [2]
-    1 string data = "(Come on, we’re filled with gadgets!)"
+    1 string data = "(Ale no tak, jsme přece plní udělátek!)"
    [3]
-    1 string data = "(I'm just roleplaying being imprisoned.)"
+    1 string data = "(Já jenom hraju roli vězně.)"
    [4]
-    1 string data = "(You're silly!)"
+    1 string data = "(Ty jsi ale trdlo!)"
    [5]
-    1 string data = "(Well? Open it!)"
+    1 string data = "(Tak co? Otevři ji!)"
    [6]
-    1 string data = "(Oh, we can definitely use THAT!)"
+    1 string data = "(Tohle rozhodně využijeme!)"
    [7]
-    1 string data = "(And this thing?)"
+    1 string data = "(A co tohle?)"
    [8]
-    1 string data = "(Later, we still need a frame that's big enough.)"
+    1 string data = "(To pak, ještě potřebujeme dostatečně velký rám.)"
    [9]
-    1 string data = "(Hey, there’s something else there.)"
+    1 string data = "(Hele, je tam ještě něco dalšího.)"
    [10]
-    1 string data = "(It’s a gift! It says “For Fardush.”)"
+    1 string data = "(Je to dárek! Stojí tu “Pro Fardushe.”)"
    [11]
-    1 string data = "(Who’s Fardush?)"
+    1 string data = "(Kdo je Fardush?)"
    [12]
-    1 string data = "(Let’s just leave it for now. We need to work on this upgrade.)"
+    1 string data = "(Nech to zatím být. Musíme makat na tom vylepšení.)"
    [13]
-    1 string data = "I’d say we've been through worse, but I ain't so sure ‘bout this one!"
+    1 string data = "Řek bych, že jsme už zažili i horší, ale tím si tentokrát fakt nejsem jistej!"
    [14]
-    1 string data = "Definitely found meself in a tighter spot once, if that helps."
+    1 string data = "Jednou jsem byl v ještě větší šlamastyce, jestli to nějak pomůže."
    [15]
-    1 string data = "We will see this one through, or..."
+    1 string data = "Tohle zvládneme, jakože..."
    [16]
-    1 string data = "Or my name..."
+    1 string data = "Jakože se jmenuju..."
    [17]
-    1 string data = "Ahoy, Valtraid! seems to me the old jailbreak trick just might work here."
+    1 string data = "Ahoy, Valtraide! Vypadá to, že starý trik útěku z vězení by tu mohl fungovat."
    [18]
-    1 string data = "Ye've read my mind, pal!"
+    1 string data = "Čteš mi myšlenky, kámo!"
    [19]
-    1 string data = "Well, you’re up, then! Make it count."
+    1 string data = "Tak jsi na řadě, ukaž se!"
    [20]
-    1 string data = "AVAST, JAILOR!"
+    1 string data = "STŮJ, BACHARI!"
    [21]
-    1 string data = "Huh?"
+    1 string data = "Cože?"
    [22]
-    1 string data = "Hey everyone, he understands!"
+    1 string data = "Hej lidi, on rozumí!"
    [23]
-    1 string data = "Wow, really?"
+    1 string data = "Fakt jo?"
    [24]
-    1 string data = "Thought he might just be too stupid, seein’ how he picked that ugly helmet to wear!"
+    1 string data = "Myslel jsem, že je moc blbej, když si vybral tak ošklivou helmu!"
    [25]
-    1 string data = "Or maybe it’s the only thing keeping that tiny brain inside his head?"
+    1 string data = "Nebo je to jediný, co drží ten jeho mozeček uvnitř pohromadě?"
    [26]
-    1 string data = "HAHA! Busted!"
+    1 string data = "HAHA! Ta sadla!"
    [27]
-    1 string data = "What’s the matter, tough guy? Ye’ll have to do better than that if ye wanna scare me."
+    1 string data = "Co je, drsňáku? Jestli mě chceš vyděsit, musíš se víc snažit."
    [28]
-    1 string data = "I'm shaking! I'm shaking!"
+    1 string data = "Třesu se! Fakt, třesu!"
    [29]
-    1 string data = "<anim=sway>Ha! I knew you weren't that strong.</anim>"
+    1 string data = "<anim=sway>Ha! Věděl jsem, že nejsi tak silnej.</anim>"
    [30]
-    1 string data = "<anim=shake>That all ya got, pal?</anim>"
+    1 string data = "<anim=shake>To je všechno, na co se zmůžeš?</anim>"
    [31]
-    1 string data = "Works every time."
+    1 string data = "Zabere to pokaždý."
    [32]
-    1 string data = "And the crew wins again!"
+    1 string data = "A posádka zase vyhrála!"
    [33]
-    1 string data = "(I think that’s it.)"
+    1 string data = "(Myslím, že to je všechno.)"
    [34]
-    1 string data = "(Let’s give it a SHOT! Get it?)"
+    1 string data = "(Tak to ODPAL! Chápeš?)"
    [35]
-    1 string data = "(Booooo!)"
+    1 string data = "(Búúúú!)"
    [36]
-    1 string data = "(Okay, here goes.)"
+    1 string data = "(Dobře, jdeme na to.)"
    [37]
-    1 string data = "(IT WORKED!)"
+    1 string data = "(ONO TO FUNGUJE!)"
    [38]
-    1 string data = "(Of course it did.)"
+    1 string data = "(Jasně že jo.)"
    [39]
-    1 string data = "Hey, new toy seems kinda neat. Reckon ye can get us all out ov here?"
+    1 string data = "Hele, ta nová hračka vypadá docela slušně. Myslíš, že nás odsud dostaneš?"
    [40]
-    1 string data = "I think so. Let’s find [MAINCHAR] and [OFFCHAR]."
+    1 string data = "Myslím, že jo. Najděme Zalea a Valerii."
    [41]
-    1 string data = "Lead the way!"
+    1 string data = "Veď nás!"
    [42]
-    1 string data = "The Artificer is now playable!"
+    1 string data = "Teď je možné hrát za Artifika!"
    [43]
-    1 string data = "Arty's attacks deal <sprite="dialog-inventory-icons-totw" name="battle-icn-laser"> (laser) damage, and can be boosted to fire additional shots!"
+    1 string data = "Artyho útoky způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-laser"> laserové poškození a dají se posílit, aby vypálily další střely!"
    [44]
-    1 string data = "There they are! Time to send that door flying."
+    1 string data = "Tam jsou! Je čas vyhodit ty dveře do vzduchu."
    [45]
-    1 string data = "Grim business, that. If we manage to get out, I’ll-"
+    1 string data = "Na mou duši drsný... Jestli se odsud dostaneme, tak já–"
    [46]
-    1 string data = "Cavalry’s here!"
+    1 string data = "Kavalérie je tady!"
    [47]
-    1 string data = "...And with this new upgrade, I can help in battle now."
+    1 string data = "...A s tímhle novým vylepšením můžu taky pomáhat v boji."
    [48]
-    1 string data = "I’m Arty, by the way."
+    1 string data = "Já jsem mimochodem Arty."
    [49]
-    1 string data = "Well met, Arty. Name's Fardush."
+    1 string data = "Rád tě poznávám, Arty. Já jsem Fardush."
    [50]
-    1 string data = "(Oh, the gift’s for him!)"
+    1 string data = "(Aha, ten dárek je pro něj!)"
    [51]
-    1 string data = "(I think it’s an awkward moment for a gift.)"
+    1 string data = "(Podle mě je to blbá chvíle na dárek.)"
    [52]
-    1 string data = "(I don’t!)"
+    1 string data = "(Já to tak nevidím!)"
    [53]
-    1 string data = "(Let’s wait and see for now.)"
+    1 string data = "(Zatím počkejme, jak se to vyvine.)"
    [54]
-    1 string data = "Thanks for the rescue Arty, but Valere and I are helpless..."
+    1 string data = "Díky za záchranu, Arty, ale Valerie a já jsme k ničemu..."
    [55]
-    1 string data = "Only because you aren't playing by the rules."
+    1 string data = "To jen proto, že nehrajete podle pravidel."
    [56]
-    1 string data = "Rules?"
+    1 string data = "Podle pravidel?"
    [57]
-    1 string data = "That fight you lost. Manifesting one's powers in this world requires a steadfast mind."
+    1 string data = "V tom boji jste prohráli. Zhmotňovat v tomhle světě moc vyžaduje pevnou mysl."
    [58]
-    1 string data = "It seems your friend Arty here is doing well in this regard, but the two of you will need to work on yourselves some more."
+    1 string data = "Vypadá to, že tvůj kamarád Arty to zvládá dobře, ale vy dva na sobě musíte ještě zapracovat."
    [59]
-    1 string data = "In your current state, your strength and magic won’t manifest unless you give them some... circus flair!"
+    1 string data = "V tomhle stavu se vám moc ani magie neprojeví, pokud tomu nedáte trochu... cirkusového šmrncu!"
    [60]
-    1 string data = "What!?"
+    1 string data = "Cože!?"
    [61]
-    1 string data = "Spectacle! Playing along is mandatory, for anything you attempt will fizzle out otherwise."
+    1 string data = "Jde o podívanou! Je nevyhnutné hrát tuhle hru podle pravidel, jinak vám všechno selže."
    [62]
-    1 string data = "This is ridiculous..."
+    1 string data = "To je směšný..."
    [63]
-    1 string data = "Here we are, though."
+    1 string data = "A přece je to tak."
    [64]
-    1 string data = "There is no other way. You can either lend yourself to the game, or let your evil twins consume you."
+    1 string data = "Jiná cesta není. Buď přistoupíte na pravidla hry, nebo vás pohltí vaše zlá dvojčata."
    [65]
-    1 string data = "All you need is some way to fight that plays to your natural traits."
+    1 string data = "Potřebujete jen najít způsob boje, který sedne vaší přirozenosti."
    [66]
-    1 string data = "Stand still."
+    1 string data = "Nehýbej se."
    [67]
     1 string data = "..."
    [68]
-    1 string data = "Agility, huh? Surely these will do."
+    1 string data = "Mrštnost, jo? Tohle by mělo stačit."
    [69]
-    1 string data = "Got <sprite="dialog-inventory-icons-totw" name="icn-inventory-bracelet"> <color="magic">Recruit's Bracelet</color>. Zale's class is now Juggler!"
+    1 string data = "Získáno <sprite="dialog-inventory-icons-totw" name="icn-inventory-bracelet"> <color="magic">Náramek rekruta</color>. Zaleovo zaměření je teď Žonglér!"
    [70]
-    1 string data = "Juggler Zale's attacks deal <sprite="dialog-inventory-icons-totw" name="battle-icn-flame"> (fire) damage, and can be boosted to also do <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> (bonk) damage!"
+    1 string data = "Útoky Žongléra Zalea způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-flame"> ohnivé poškození a dají se posílit, aby způsobili i <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> bonk poškození!"
    [71]
-    1 string data = "Amazing balance. I suppose this means..."
+    1 string data = "Úžasná rovnováha. To asi znamená, že..."
    [72]
-    1 string data = "Got <sprite="dialog-inventory-icons-totw" name="icn-inventory-wraps"> <color="magic">Vaulter's Wraps</color>. Valere's class is now Acrobat!"
+    1 string data = "Získáno <sprite="dialog-inventory-icons-totw" name="icn-inventory-wraps"> <color="magic">Obvazy Skokana</color>. Valerino zaměření je teď Akrobatka!"
    [73]
-    1 string data = "Acrobat Valere's attacks deal <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> (bonk) damage, and can be boosted to also do <sprite="dialog-inventory-icons-totw" name="battle-icn-magic"> (magic) damage!"
+    1 string data = "Útoky Akrobatky Valerie způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> bonk poškození a dají se posílit, aby způsobily i <sprite="dialog-inventory-icons-totw" name="battle-icn-magic"> magické poškození!"
    [74]
-    1 string data = "Well? Let's see how these roles befit you!"
+    1 string data = "Tak? Ukažte, jak vám tyhle role sednou!"
    [75]
-    1 string data = "Very good. Now, remember to keep leaning into your instinct, and add some SPECTACLE!"
+    1 string data = "Velmi dobře. Taky nezapomeňte dát na své instinkty... a přidat trochu PODÍVANÉ!"
    [76]
-    1 string data = "Valere learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-polevault"> <color="magic">Pole Vault</color>!"
+    1 string data = "Valerie se naučila bojovou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-polevault"> <color="magic">Skok o tyči</color>!"
    [77]
-    1 string data = "Valere learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-limbo"> <color="magic">Lunebo</color>!"
+    1 string data = "Valerie se naučila bojovou dovednost <sprite="dialog-inventory-icons-totw" name=icn-skills-valere-limbo"> <color="magic">Lunabo</color>!"
    [78]
-    1 string data = "Zale learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-entart"> <color="magic">Entarte</color>!"
+    1 string data = "Zale se naučil bojovou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-entart"> <color="magic">Dortomet</color>!"
    [79]
-    1 string data = "Zale learns combat skill <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-jugglenaut"> <color="magic">Jugglenaut</color>!"
+    1 string data = "Zale se naučil bojovou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-jugglenaut"> <color="magic">Žonglord</color>!"
    [80]
-    1 string data = "Valere and Zale learn combo skill <sprite="dialog-inventory-icons-totw" name="icn-combos-spectaclestrike"> <color="magic">Spectacle Strike</color>!"
+    1 string data = "Valerie a Zale se naučili kombo dovednost <sprite="dialog-inventory-icons-totw" name="icn-combos-spectaclestrike"> <color="magic">Spektakulární úder</color>!"
    [81]
-    1 string data = "I still feel weak, but there’s something to work with here."
+    1 string data = "Pořád se cítím slabý, ale aspoň máme s čím pracovat."
    [82]
-    1 string data = "Getting the hang of it! I think I'm ready to take this for a spin."
+    1 string data = "Už se do toho dostávám! Myslím, že jsem připraven to rozjet."
    [83]
-    1 string data = "Alright, then, let’s blow this joint!"
+    1 string data = "Tak jo, zmizíme odsud!"
    [84]
-    1 string data = "The prisoners are escaping!"
+    1 string data = "Vězni utíkají!"
    [85]
-    1 string data = "Not on this watch! Take them out!"
+    1 string data = "Ne za mé hlídky! Zastavte je!"
    [86]
-    1 string data = "There's got to be a way to increase the pressure here..."
+    1 string data = "Musí tu být způsob, jak zvýšit tlak..."
