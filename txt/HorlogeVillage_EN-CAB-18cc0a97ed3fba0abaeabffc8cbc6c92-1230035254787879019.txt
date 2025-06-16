@@ -13,153 +13,153 @@
   1 Array Array (413 items)
    0 int size = 413
    [0]
-    1 string data = "This must be the town."
+    1 string data = "Tohle musí být to město."
    [1]
-    1 string data = "Aye, these be new horizons alright!"
+    1 string data = "Aye, tomu říkám nové obzory, bez debat!"
    [2]
-    1 string data = "New travelers!"
+    1 string data = "Noví pocestní!"
    [3]
-    1 string data = "The Puppeteer has sensed them!"
+    1 string data = "Loutkářka je vycítila!"
    [4]
-    1 string data = "Hide!!!"
+    1 string data = "Schovejte se!!!"
    [5]
-    1 string data = "Who dares enter my realm?"
+    1 string data = "Kdo se odvažuje vstoupit do mé říše?"
    [6]
-    1 string data = "Servants! Onto them!"
+    1 string data = "Sluhové! Na ně!"
    [7]
-    1 string data = "Hey, I’m Zale. We're looking for-"
+    1 string data = "Čau, já jsem Zale. Hledáme–"
    [8]
-    1 string data = "Are you seeing what I'm seeing, Pouf?"
+    1 string data = "Vidíš to, co já, Pufe?"
    [9]
-    1 string data = "Reckon I am, Pif! Have they come to play?"
+    1 string data = "Myslím, že jo, Pife! Přišli si zahrát?"
    [10]
-    1 string data = "We're here to-"
+    1 string data = "Jsme tu, abychom-"
    [11]
-    1 string data = "Oh, I see how it is, Pif."
+    1 string data = "Aha, už chápu jak to je, Pife."
    [12]
-    1 string data = "You and I both, Pouf!"
+    1 string data = "I ty i já, Pufe!"
    [13]
-    1 string data = "THEY THINK THEY CAN RUN THIS SHOW!"
+    1 string data = "MYSLÍ SI, ŽE BUDOU REŽÍROVAT TUHLE SHOW!"
    [14]
-    1 string data = "Can't we just-"
+    1 string data = "Nemůžeme prostě jen–"
    [15]
-    1 string data = "I see two in there who will make formidable twins!"
+    1 string data = "Vidím tu dva, z nichž budou fantastická dvojčata!"
    [16]
-    1 string data = "They will be positively phenomenal!"
+    1 string data = "Budou senzacionálne fenomenální!"
    [17]
-    1 string data = "They will be serendipitously monumental!"
+    1 string data = "Budou přímo příhodně monumentální!"
    [18]
-    1 string data = "Ahoy, [MAINCHAR]! How ‘bout the two ov ye knock some sense into these actual clowns?"
+    1 string data = "Ahoy, [MAINCHAR]! Co kdybyste vy dva nakopali těmhle doslova šaškům jejich zadky?"
    [19]
-    1 string data = "We just need information."
+    1 string data = "Potřebujeme jen informace."
    [20]
-    1 string data = "Are they still talking, Pif?"
+    1 string data = "Oni pořád mluví, Pife?"
    [21]
-    1 string data = "They seem to do that a lot, Pouf."
+    1 string data = "Zdá se, že hodně, Pufe."
    [22]
-    1 string data = "I say we gag them!"
+    1 string data = "Já ríkám, ucpat jim balónkem smích!"
    [23]
-    1 string data = "I say we bash them!"
+    1 string data = "Já říkám, rozbít jim jejich ciferník!"
    [24]
-    1 string data = "I say we tie them to a tree!"
+    1 string data = "Já říkám, přivázat ke stromu šátkem!"
    [25]
-    1 string data = "I say we grind them into confetti!"
+    1 string data = "Já říkám, narvat jim konfety zadkem!"
    [26]
-    1 string data = "I say we take it too far!"
+    1 string data = "Já říkám, povesit za nos a sundat!"
    [27]
-    1 string data = "I say we pickle them in a jar!"
+    1 string data = "Já říkám, přehnat to, jak jen bude se dát!"
    [28]
-    1 string data = "ENOUGH!"
+    1 string data = "DOST!"
    [29]
-    1 string data = "We are Solstice Warriors, and we have come to cleanse this place."
+    1 string data = "Jsme Bojovníci Slunovratu a přišli jsme očistit tohle místo."
    [30]
-    1 string data = "Stand down, or else!"
+    1 string data = "Stáhněte se, nebo toho budete litovat!"
    [31]
-    1 string data = "OH!!?"
+    1 string data = "Óó!!?"
    [32]
-    1 string data = "Are you thinking what I'm thinking, Pouf?"
+    1 string data = "Myslíš na to samé, co já, Pufe?"
    [33]
-    1 string data = "This is as good as it gets, Pif."
+    1 string data = "Lepší už to nebude, Pife."
    [34]
-    1 string data = "We won't warn you again."
+    1 string data = "Varujeme vás naposledy."
    [35]
-    1 string data = "Utterly clueless about stepping out of place!"
+    1 string data = "Naprostá neschopnost vtěsnat se do kůže!"
    [36]
-    1 string data = "Reckon we should give them a taste!"
+    1 string data = "Myslím, že je čas na malou ochutnávku!"
    [37]
-    1 string data = "IT’S SHOWTIME!"
+    1 string data = "SHOW ZAČÍNÁ!"
    [38]
-    1 string data = "Good spectacle, this is not!"
+    1 string data = "Podívaná to rozhodně není!"
    [39]
-    1 string data = "Can it really be all they've got?"
+    1 string data = "Tohle má být všechno, co umí?"
    [40]
-    1 string data = "Honk-a-doodle! I've never seen a performance so bland!"
+    1 string data = "To-mi-zatrub! Takhle nudné představení jsem ještě neviděl!"
    [41]
-    1 string data = "My embarrassment for them is growing a second hand!"
+    1 string data = "Z jejich trapnosti mi vylézá další ruka na tvář!"
    [42]
-    1 string data = "Nothing's working..."
+    1 string data = "Nic nezabírá..."
    [43]
-    1 string data = "How is this possible.."
+    1 string data = "Jak je to vůbec možné..."
    [44]
-    1 string data = "Solely driven by duty!"
+    1 string data = "Žene je pouhý smysl pro povinnost!"
    [45]
-    1 string data = "Little to no sense of identity!"
+    1 string data = "Téměř žádná touha po vlastní identitě!"
    [46]
-    1 string data = "The least self-aware creatures I've ever seen!"
+    1 string data = "Stvoření s nejmenším sebepoznáním, jaké jsem kdy viděl!"
    [47]
-    1 string data = "Their twins shall be King and Queen!"
+    1 string data = "Jejich dvojčata budou Král a Královna!"
    [48]
-    1 string data = "Oh please, must you really do this?"
+    1 string data = "Ale no tak, je tohle opravdu nutné?"
    [49]
-    1 string data = "We are suffering enough as it is. No more twins!"
+    1 string data = "Už takhle dost trpíme. Žádná další dvojčata!"
    [50]
-    1 string data = "When did they start talking back, Pif?"
+    1 string data = "Kdy nám začali odporovat, Pife?"
    [51]
-    1 string data = "Seems we're entering a new era, Pouf."
+    1 string data = "Vypadá to, že vstupujeme do nové éry, Pufe."
    [52]
-    1 string data = "Let them go!"
+    1 string data = "Nechte je být!"
    [53]
-    1 string data = "CAN IT, OR WE WILL CALL MONSIEUR TENDU!"
+    1 string data = "ZMLKNI, NEBO ZAVOLÁME MONSIEURA NERVÉ!"
    [54]
-    1 string data = "Aaaah! No, please don't!"
+    1 string data = "Aaaah! Ne, prosím ne!"
    [55]
-    1 string data = "Anything but Monsieur Tendu!"
+    1 string data = "Cokoliv, jen ne Monsieur Nervé!"
    [56]
-    1 string data = "I say we give him a ring-a-ding anyway, Pouf."
+    1 string data = "Já říkám, cingilingněme mu tak či tak, Pufe."
    [57]
-    1 string data = "You're snooping around in my brain waves, Pif!"
+    1 string data = "Šťouráš se mi v mozkových závitech, Pife!"
    [58]
-    1 string data = "By order of The Puppeteer, these two Solstice Warriors are to be turned into twins."
+    1 string data = "Na příkaz Loutkářky budou tihle dva Bojovníci Slunovratu přeměněni na dvojčata."
    [59]
-    1 string data = "We won’t let you!"
+    1 string data = "To vám nedovolíme!"
    [60]
-    1 string data = "Slow learners, I see."
+    1 string data = "Moc jim to nepálí, jak vidím."
    [61]
-    1 string data = "Monsieur Tendu! Sap their innate magic at once!"
+    1 string data = "Monsieur Nervé! Vem jim vrozenou magii zaráz!"
    [62]
-    1 string data = "I feel... weak..."
+    1 string data = "Cítím se... slabě..."
    [63]
-    1 string data = "Any guess as to what the darkest corners of their minds contained, Pouf?"
+    1 string data = "Co myslíš, co bylo v nejtemnějších zákoutích jejich myslí, Pufe?"
    [64]
-    1 string data = "I'm itching like a rubber chicken in a feather shop to know, Pif!"
+    1 string data = "Jsem napjatý zvědavostí jak gumová slepice v továrně na peři, Pife!"
    [65]
-    1 string data = "*Huff, huff*... You won't get away with this..."
+    1 string data = "*Uf, uf*... Tohle vám neprojde..."
    [66]
-    1 string data = "Ha! We made you slip on the banana, and no one saw the peel!"
+    1 string data = "Ha! Podklouzli jste na banánu, a slupku nikdo neviděl!"
    [67]
-    1 string data = "Now you'll be juggling bars in the clink while the boss cooks up the grand reveal!"
+    1 string data = "Teď si budete žonglovat s mřížemi v base, zatímco šéfka nachystá velké odhalení!"
    [68]
-    1 string data = "MONSIEUR TENDU!! TAKE THESE DETRACTORS TO THE OUBLIETTES!!"
+    1 string data = "MONSIEUR NERVÉ!! ODVEĎ TYHLE RUŠITELE DO ZAPOMĚNÍ!!"
    [69]
-    1 string data = "Ah, fresh air at last!"
+    1 string data = "Ah, konečně na čerstvém vzduchu!"
    [70]
-    1 string data = "Feels good to be out, doesn't it?"
+    1 string data = "Je fajn být zase venku, co?"
    [71]
-    1 string data = "Fardush, we need to hurry."
+    1 string data = "Fardushi, musíme si pospíšit."
    [72]
-    1 string data = "Oh, right, your twins! We'll need my train."
+    1 string data = "Jo, tvoje dvojčata! Budeme potřebovat můj vlak."
    [73]
-    1 string data = "Your train?"
+    1 string data = "Tvůj vlak?"
    [74]
     1 string data = "It’s the only way to get around in this world, especially with the two new areas that just appeared..."
    [75]
