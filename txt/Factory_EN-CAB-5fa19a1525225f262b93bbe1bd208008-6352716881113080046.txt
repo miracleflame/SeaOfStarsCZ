@@ -15,7 +15,7 @@
    [0]
     1 string data = "Výtah je mimo provoz. Chybí <color=magic>Baterie Kybermesh</color>."
    [1]
-    1 string data = "Pro bezpečnou manipulaci použijte prosím <color=magic>laserový jeřáb</color>."
+    1 string data = "Pro bezpečnou manipulaci prosím použijte <color=magic>laserový jeřáb</color>."
    [2]
     1 string data = "Výtah je v provozu."
    [3]
@@ -25,19 +25,19 @@
    [5]
     1 string data = "K ovládání jeřábu je zapotřebí <color=magic>ID karta</color>."
    [6]
-    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy, 1x Kyberruda, 1x Napájecí jednotka"
+    1 string data = "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy, 1x Kyberruda, 1x Napájecí jednotka"
    [7]
-    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Kyberruda, 1x Napájecí jednotka"
+    1 string data = "Tiskárna baterie Kybermesh postrádá komponenty: 1x Kyberruda, 1x Napájecí jednotka"
    [8]
-    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy, 1x Napájecí jednotka"
+    1 string data = "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy, 1x Napájecí jednotka"
    [9]
-    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy, 1x Kyberruda"
+    1 string data = "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy, 1x Kyberruda"
    [10]
-    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Disk se schématy"
+    1 string data = "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy"
    [11]
-    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Kyberruda"
+    1 string data = "Tiskárna baterie Kybermesh postrádá komponenty: 1x Kyberruda"
    [12]
-    1 string data = "Tiskárna baterie Kybermesh postřádá komponenty: 1x Napájecí jednotka"
+    1 string data = "Tiskárna baterie Kybermesh postrádá komponenty: 1x Napájecí jednotka"
    [13]
     1 string data = "Zpracovávám..."
    [14]
@@ -47,14 +47,14 @@
    [16]
     1 string data = "Výdejní zařízení napájecí jednotky je v provozu."
    [17]
-    1 string data = "Prosím vložte elektronické součástky."
+    1 string data = "Prosím, vložte elektronické součástky."
    [18]
     1 string data = "Zpracování dokončeno."
    [19]
-    1 string data = "Prosím odeberte dokončenou napájecí jednotku."
+    1 string data = "Prosím, odeberte dokončenou napájecí jednotku."
    [20]
     1 string data = "Výtah je v provozu."
    [21]
     1 string data = "Je zamčeno, ale vypadá to, že střecha je přístupná."
    [22]
-    1 string data = "Vypadá to, že by se sem vešlo nejaké zařízení."
+    1 string data = "Vypadá to, že by se sem vešlo nějaké zařízení."

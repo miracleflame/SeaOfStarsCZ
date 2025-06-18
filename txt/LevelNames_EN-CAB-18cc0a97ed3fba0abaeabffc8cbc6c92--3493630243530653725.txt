@@ -199,7 +199,7 @@
    [92]
     1 string data = "Ostrov Mesa"
    [93]
-    1 string data = "Svatosvaté věže"
+    1 string data = "Svatosakrální věže"
    [94]
     1 string data = "Cesta k Moři hvězd"
    [95]
@@ -215,7 +215,7 @@
    [100]
     1 string data = "Ostrov svatyně Slunovratu"
    [101]
-    1 string data = "Stanice Rychlodráhy"
+    1 string data = "Stanice rychlodráhy"
    [102]
     1 string data = "???"
    [103]
@@ -247,7 +247,7 @@
    [116]
     1 string data = "Most Nebeské svatyně"
    [117]
-    1 string data = "Stanice Rychlodráhy"
+    1 string data = "Stanice rychlodráhy"
    [118]
     1 string data = "Strážcův rybník"
    [119]

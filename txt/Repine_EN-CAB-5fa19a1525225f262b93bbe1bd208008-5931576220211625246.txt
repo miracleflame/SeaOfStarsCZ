@@ -73,7 +73,7 @@
    [29]
     1 string data = "Alespoň máme nějaké vodítko."
    [30]
-    1 string data = "Byla potrvrzena přítomnost přisluhovačů <color=bad>Královny, jež byla</color>. Střet je pravděpodobně nevyhnutelný."
+    1 string data = "Byla potvrzena přítomnost přisluhovačů <color=bad>Královny, jež byla</color>. Střet je pravděpodobně nevyhnutelný."
    [31]
     1 string data = "Tihleti si v boji poradí, to se neboj."
    [32]
@@ -191,7 +191,7 @@
    [88]
     1 string data = "Nedostatečně RYBOVÉ."
    [89]
-    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a dokonce i víc. Odevzdávám odměnu."
+    1 string data = "Tohle bylo vše, co jsem kdy chtěl, a dokonce i víc. Vydávám odměnu."
    [90]
     1 string data = "Tohle bylo vše, co jsem kdy chtěl, a dokonce i víc."
    [91]

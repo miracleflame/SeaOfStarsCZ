@@ -33,7 +33,7 @@
    [9]
     1 string data = "Bývala to jedna z jeho laboratoří."
    [10]
-    1 string data = "A soudě podle vzhledu této kopule, se nacházíme v skladišti duší..."
+    1 string data = "A soudě podle vzhledu této kopule, nacházíme se ve skladišti duší..."
    [11]
     1 string data = "..."
    [12]
@@ -105,7 +105,7 @@
    [45]
     1 string data = "Katalyzátor. Takže tam toho parchanta najdu."
    [46]
-    1 string data = "Ty jsi na něj pamatuješ? Domnívali jsme se, že vzpomínky maže."
+    1 string data = "Ty si na něj pamatuješ? Domnívali jsme se, že vzpomínky maže."
    [47]
     1 string data = "Jenom na jeho jméno."
    [48]
@@ -125,7 +125,7 @@
    [55]
     1 string data = "Po odjištění mechanismu kvádr upustí a vygeneruje tím stejnou energii, jež byla vynaložena k jeho zvednutí."
    [56]
-    1 string data = "Nejprimitivnejší forma baterie, co vydá právě tolik energie, aby podpořila poslední snahu spasit náš svět."
+    1 string data = "Nejprimitivnější forma baterie, schopná vydat právě tolik energie, aby podpořila poslední snahu spasit náš svět."
    [57]
     1 string data = "Toho obra jsme nazvali <color=good>Es'tristae</color>."
    [58]
@@ -205,7 +205,7 @@
    [95]
     1 string data = "A já sám toho příliš nevím o boji. Jsem přesvědčen, že se vzájemně máme co učit."
    [96]
-    1 string data = "Přemítám, že Garl by to tu stejně dokázal rozveselit!"
+    1 string data = "Stejně si myslím, že Garl by to tu dokázal rozveselit!"
    [97]
     1 string data = "Haha, to určitě jo."
    [98]
@@ -219,7 +219,7 @@
    [102]
     1 string data = "Není to tak, že něco řekneš a já si na Garla kvůli tomu najednou vzpomenu."
    [103]
-    1 string data = "Někdy je mi hrozně smutno a jindy zase s úsměvem myslím na prožité chvíle."
+    1 string data = "Někdy je mi hrozně smutno, a jindy zase s úsměvem myslím na prožité chvíle."
    [104]
     1 string data = "Zale to vyjádřil přesně, Garl je svým způsobem pořád s námi."
    [105]
@@ -273,7 +273,7 @@
    [129]
     1 string data = "Tak to jsem neporazitelný!"
    [130]
-    1 string data = "Jsem vám opravdu vděčný za novou fyzickou podobu, Velký Alchymisto."
+    1 string data = "Jsem vám opravdu vděčný za novou fyzickou podobu, Velký alchymisto."
    [131]
     1 string data = "Celá staletí jsem toužil po příležitosti osvobodit svůj svět."
    [132]

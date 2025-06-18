@@ -33,7 +33,7 @@
    [9]
     1 string data = "Katalyzátor..."
    [10]
-    1 string data = "Bacha!"
+    1 string data = "Pozor!"
    [11]
     1 string data = "..."
    [12]
@@ -45,15 +45,15 @@
    [15]
     1 string data = "Hm? Co se stalo?"
    [16]
-    1 string data = "Na tom teď nezáleží. Zkontrolujme řídicí modul."
+    1 string data = "Na tom teď nesejde. Zkontrolujme řídicí modul."
    [17]
     1 string data = "Tohle musí být ta věc, co vytváří mraky, ale..."
    [18]
     1 string data = "Nikdy jsem neviděla nic tak složitého."
    [19]
-    1 string data = "Cedricu. Řekni mi, žes něco našel."
+    1 string data = "Cedricu. Řekni mi, žes na něco přišel."
    [20]
-    1 string data = "Skenuju..."
+    1 string data = "Skenuji..."
    [21]
     1 string data = "Negativní. Úroveň šifrování je příliš vysoká."
    [22]
@@ -67,39 +67,39 @@
    [26]
     1 string data = "Omlouvám se, Seraï. Můj lid byli stavitelé a kouzelníci."
    [27]
-    1 string data = "Zázraky techniky jsou pro mě záhadou."
+    1 string data = "Zázraky technologie jsou pro mě záhadou."
    [28]
     1 string data = "Byli jsme tak blízko..."
    [29]
     1 string data = "Pardon. Mohu na slovíčko?"
    [30]
-    1 string data = "Hele, koukni sem!"
+    1 string data = "Hele, koukněte sem!"
    [31]
     1 string data = "Katalyzátor je stále naživu!?"
    [32]
     1 string data = "Prosím! Okamžik!"
    [33]
-    1 string data = "Nejsem zlý. Byl jsem donucen působit v Katalyzátoru proti své vůli."
+    1 string data = "Nejsem zlé. Bylo jsem donuceno působit v Katalyzátoru proti své vůli."
    [34]
-    1 string data = "A musím říct, že jsem si to zrovna neužíval."
+    1 string data = "A musím říct, že jsem si to zrovna neužívalo."
    [35]
     1 string data = "Dokážeš pomoct zastavit ty mraky?"
    [36]
-    1 string data = "Věřte mi, přál bych si, abych mohl."
+    1 string data = "Věřte mi, přálo bych si, abych mohlo."
    [37]
-    1 string data = "Ale bohužel jediná funkce, ke které mám přístup, je ta, která se používá k připojování duší ke strojům."
+    1 string data = "Ale bohužel jediná funkce, ke které mám přístup, je ta, co se používá k připojování duší ke strojům."
    [38]
     1 string data = "..."
    [39]
-    1 string data = "Moje databanka však obsahuje spoustu schémat týkajících se Nebeské základny."
+    1 string data = "Moje databanka však obsahuje spoustu schémat týkajících se Vesmírné základny."
    [40]
     1 string data = "Můžeš nám je dát?"
    [41]
-    1 string data = "Obávám se, že vše je zašifrované. Přístup je prakticky nemožný."
+    1 string data = "Obávám se, že vše je zašifrováno. Přístup je prakticky nemožný."
    [42]
     1 string data = "Vážně?"
    [43]
-    1 string data = "Zajímalo by mě, jestli jsem právě..."
+    1 string data = "Zajímalo by mě, jestli když zkusím..."
    [44]
     1 string data = "Haha! Zabralo to?"
    [45]
@@ -109,7 +109,7 @@
    [47]
     1 string data = "Není tu nic o přímém ovládání konzole."
    [48]
-    1 string data = "Technicky zdatní inženýři si mohou odvodit funkce jádra na základě plánů a schémat."
+    1 string data = "Technicky zdatní inženýři si mohou odvodit hlavní funkce na základě plánů a schémat."
    [49]
     1 string data = "Doporučená akce: najít někoho chytřejšího."
    [50]
@@ -117,7 +117,7 @@
    [51]
     1 string data = "No, a co Caël a jeho kamarádi na Mechanickém hradě?"
    [52]
-    1 string data = "V tomhle jsou docela dobří, ne?"
+    1 string data = "V těhle věcech jsou docela dobří, ne?"
    [53]
     1 string data = "Za pokus to stojí."
    [54]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Dobrá, je čas vrátit se na chvíli do našeho domovského světa."
    [58]
-    1 string data = "U vchodu k Hvězdnému moři by měla být stanice rychlodráhy."
+    1 string data = "U vchodu k Moři hvězd by měla být stanice rychlodráhy."
    [59]
     1 string data = "(Rozumím...)"
    [60]
@@ -169,7 +169,7 @@
    [77]
     1 string data = "(Haha, to mu zkazí den!)"
    [78]
-    1 string data = "(Chvíli potrvá, než se mraky úplně rozptýlí, ale ujistěme se, že první sluneční paprsek dopadne kam má...)"
+    1 string data = "(Chvíli potrvá, než se mraky úplně rozptýlí, ale ujistěme se, že první sluneční paprsek dopadne, kam má...)"
    [79]
     1 string data = "(Aaaaa... hotovo!)"
    [80]
@@ -211,7 +211,7 @@
    [98]
     1 string data = "Nemůžeme nic dělat. Pojďme se podívat, jestli Caël něco zmůže."
    [99]
-    1 string data = "Západní křídlo utrpělo těžké poškození po srážce s meteoritem."
+    1 string data = "Západní křídlo utrpělo těžké poškození po srážce s asteroidem."
    [100]
     1 string data = "Oblast je uzavřena kvůli bezpečnosti posádky."
    [101]
@@ -225,4 +225,4 @@
    [105]
     1 string data = "Přetlaková komora není připojena."
    [106]
-    1 string data = "AUTOMAT 3D TISKÁRNY V PROVOZU, PROSÍM ZADEJTE SVOU VOLBU"
+    1 string data = "AUTOMAT 3D TISKÁRNY V PROVOZU, PROSÍM, ZADEJTE SVOU VOLBU"

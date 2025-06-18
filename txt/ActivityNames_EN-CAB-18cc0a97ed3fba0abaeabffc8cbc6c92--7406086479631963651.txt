@@ -85,7 +85,7 @@
    [35]
     1 string data = "Svět bez slunce"
    [36]
-    1 string data = "Mrtví zapomenuté rasy"
+    1 string data = "Mrtví zapomenutého národa"
    [37]
     1 string data = "Živoucí sklo"
    [38]

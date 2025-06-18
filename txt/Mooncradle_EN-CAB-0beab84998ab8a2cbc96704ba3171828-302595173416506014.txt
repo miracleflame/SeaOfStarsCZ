@@ -1145,7 +1145,7 @@
    [565]
     1 string data = "Zde leží <color=garl>Garl</color>, Válečný kuchař."
    [566]
-    1 string data = "Takže tohle je místo odpočinku Válečného kuchaře?"
+    1 string data = "Tohle je tedy místo odpočinku Válečného kuchaře?"
    [567]
     1 string data = "Ano, tento strom měl vždycky nejradši."
    [568]
@@ -1153,7 +1153,7 @@
    [569]
     1 string data = "Garl si vždycky dal záležet, aby nám něco připravil..."
    [570]
-    1 string data = "Vypadá, že to byl dobrý přítel."
+    1 string data = "Zdá se, že to byl dobrý přítel."
    [571]
     1 string data = "Nejlepší."
    [572]

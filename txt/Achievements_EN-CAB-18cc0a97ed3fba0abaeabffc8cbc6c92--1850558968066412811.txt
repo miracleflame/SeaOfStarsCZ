@@ -191,7 +191,7 @@
    [88]
     1 string data = "Ověřovací lupa"
    [89]
-    1 string data = "Odhalte zámek prolomením, nebo speciálním tahem s funkcí skenování"
+    1 string data = "Odhalte zámek prolomením nebo speciálním tahem s funkcí skenování"
    [90]
     1 string data = "Týmová síla"
    [91]

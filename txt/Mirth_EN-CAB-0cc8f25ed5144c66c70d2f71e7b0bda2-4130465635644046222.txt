@@ -333,7 +333,7 @@
    [159]
     1 string data = "Přimluvit?"
    [160]
-    1 string data = "Až tato výprava skončí, možná se ocitnete v bode hledání svého smyslu."
+    1 string data = "Až tato výprava skončí, možná se ocitnete v bodě hledání svého smyslu."
    [161]
     1 string data = "Pokud ten čas nastane, vyhledejte Mlžného stařešinu."
    [162]
@@ -345,7 +345,7 @@
    [165]
     1 string data = "Už je to pár dní. Caël už by měl být hotový."
    [166]
-    1 string data = "Správně. Pojďme ho omrknout."
+    1 string data = "Správně. Pojďme to omrknout."
    [167]
     1 string data = "Tohle místo je perfektní! Děkuji, že jste nám umožnili využít tento prostor."
    [168]
@@ -479,9 +479,9 @@
    [232]
     1 string data = "Všichni od Měsíční Kolébky po Veselí truchlí nad ztrátou Garla. Je to sice velmi smutné, ale ukazuje to, kolika srdcí se dotkl..."
    [233]
-    1 string data = "Měl jsem to říct nahlas už dřív, ale... Jsem na vás dva opravdu hrdý."
+    1 string data = "Měl jsem to říct nahlas už dřív, ale... jsem na vás dva opravdu hrdý."
    [234]
-    1 string data = "Myslím, že už začínám chápat, co je to ten stařešina obce."
+    1 string data = "Myslím, že už začínám chápat, jaké to je, být tím vesnickým stařešinou."
    [235]
     1 string data = "Dokázali jste to, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]. Především jste prokázali bezkonkurenční týmovou spolupráci a vzájemnou důvěru. Jsem na vás hrdý."
    [236]

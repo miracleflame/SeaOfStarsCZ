@@ -611,7 +611,7 @@
    [298]
     1 string data = "Konec příběhu."
    [299]
-    1 string data = "Vida, našli jste nový artefakt! Podívám sa na něj..."
+    1 string data = "Vida, našli jste nový artefakt! Podívám se na něj..."
    [300]
     1 string data = "Odemčen nový příběh: Velké přivolání"
    [301]

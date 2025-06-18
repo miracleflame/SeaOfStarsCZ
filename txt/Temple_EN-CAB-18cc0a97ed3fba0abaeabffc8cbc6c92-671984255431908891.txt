@@ -127,11 +127,11 @@
    [56]
     1 string data = "Takže takhle to končí... Hehehehe..."
    [57]
-    1 string data = "Velký Orle... Tak takhle se nám ty rozhodneš odvděčit?"
+    1 string data = "Velký orle... Tak takhle se nám ty rozhodneš odvděčit?"
    [58]
     1 string data = "??"
    [59]
-    1 string data = "Dali jsme ti tvá křídla a ty nám to oplatíš tak, že nás zničíš?"
+    1 string data = "Dali jsme ti tvá křídla, a ty nám to oplatíš tak, že nás zničíš?"
    [60]
     1 string data = "O čem to mluvíš?"
    [61]
@@ -173,7 +173,7 @@
    [79]
     1 string data = "Finální složkou je kontrastní teplo v ústech, když se voda na zlomek vteřiny promění v led."
    [80]
-    1 string data = "Ten ale vzápětí roztaje a umožní tím pocítit zdanlivě éterickou teplotu."
+    1 string data = "Ten ale vzápětí roztaje a umožní tím pocítit zdánlivě éterickou teplotu."
    [81]
     1 string data = "Aha, už vím, kam tím míříš..."
    [82]
@@ -211,7 +211,7 @@
    [98]
     1 string data = "Co to všechno mělo znamenat?"
    [99]
-    1 string data = "Velký Orel."
+    1 string data = "Velký orel."
    [100]
     1 string data = "Před dávnou dobou mi jej daroval Aephorul k narozeninám."
    [101]

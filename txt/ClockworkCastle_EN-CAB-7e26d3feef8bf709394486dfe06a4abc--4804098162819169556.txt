@@ -741,7 +741,7 @@
    [363]
     1 string data = "Jo, a ten Grimoár pověstí taky."
    [364]
-    1 string data = "Hmm... Klidně si ty stránky, co potřebuješ, vytrhni. Nechci riskovat, že nebudu moc něco zaznamenat, zatímco budete pracovat!"
+    1 string data = "Hmm... Klidně si ty stránky, co potřebuješ, vytrhni. Nechci riskovat, že nebudu moct něco zaznamenat, zatímco budete pracovat!"
    [365]
     1 string data = "Hned se do toho pustíme. Dáte nám pár dní?"
    [366]
@@ -801,7 +801,7 @@
    [393]
     1 string data = "Já... nejspíše ano..."
    [394]
-    1 string data = "Tak fajn! Navíc, náš dizajn má fakt šmrnc, budeš koukat."
+    1 string data = "Tak fajn! Navíc, náš design má fakt šmrnc, budeš koukat."
    [395]
     1 string data = "Hoď to tam!"
    [396]
@@ -855,7 +855,7 @@
    [420]
     1 string data = "Oni... postavili druhý Katalyzátor?"
    [421]
-    1 string data = "Ha?"
+    1 string data = "Huh?"
    [422]
     1 string data = "Hej, pomůžete nám? Prosím?"
    [423]
@@ -917,7 +917,7 @@
    [451]
     1 string data = "(Souhlas!)"
    [452]
-    1 string data = "(Dobře, je načase velkolepě se představit.)"
+    1 string data = "(Dobře, je načase se velkolepě představit.)"
    [453]
     1 string data = "(Nezapomeň na konci zapózovat!)"
    [454]
@@ -959,7 +959,7 @@
    [472]
     1 string data = "Hm, ale... Mysleli jsme si, že pro nás jen rozluštíš nějaké ty schémata."
    [473]
-    1 string data = "No, jedno vedlo k druhému a objevila se příležitost, jak se osvobodit, takže jsme-teda jsem ji využil."
+    1 string data = "No, jedno vedlo k druhému a objevila se příležitost, jak se osvobodit, takže jsme-teda-jsem ji využil."
    [474]
     1 string data = "A stejně, v každém případě musím jít osobně. Ten úkol by na vás byl až moc složitý."
    [475]
@@ -979,7 +979,7 @@
    [482]
     1 string data = "(Aha, pardon.)"
    [483]
-    1 string data = "(Okej, já se zaměrím jen na nohy.)"
+    1 string data = "(Okej, já se zaměřím jen na nohy.)"
    [484]
     1 string data = "(Zabírám si kameru!)"
    [485]

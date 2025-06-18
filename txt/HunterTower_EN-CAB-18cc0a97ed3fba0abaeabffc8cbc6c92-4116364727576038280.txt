@@ -23,27 +23,27 @@
    [4]
     1 string data = "(Ten skleněný je opravdu zvláštní...)"
    [5]
-    1 string data = "Slyšels ji! Pusť nás, nebo!"
+    1 string data = "Slyšels ji! Pusť nás, nebo...!"
    [6]
     1 string data = "Hehehe..."
    [7]
-    1 string data = "Nebo co? Zasedající <color=bad>Triumvirát Eminence</color> po staletí nikdo neohrozil."
+    1 string data = "Nebo co? Současný <color=bad>Triumvirát Eminence</color> po staletí nikdo neohrozil."
    [8]
     1 string data = "Myslíte si, že vy nuzáci máte šanci nás vystrnadit?"
    [9]
-    1 string data = "Už jsme zvládli i horší věci."
+    1 string data = "Už jsme překonali i horší věci."
    [10]
     1 string data = "Hehehe..."
    [11]
-    1 string data = "Tak zvládněte také tohle!"
+    1 string data = "Tak si překonejte tohle!"
    [12]
     1 string data = "..."
    [13]
-    1 string data = "Na šibenici s váma."
+    1 string data = "Do žaláře s váma."
    [14]
-    1 string data = "Pokaždé to končí stejně. Hehehe..."
+    1 string data = "Takhle to dopadá vždycky. Hehehe..."
    [15]
-    1 string data = "*něco si pro sebe mluví*"
+    1 string data = "*nesrozumitelné*"
    [16]
     1 string data = "Zvukotěsná bariéra. Moje kouzla ji neprolomí."
    [17]
@@ -51,9 +51,9 @@
    [18]
     1 string data = "Konečně na svobodě! Děkuji vám, laskaví cizinci."
    [19]
-    1 string data = "Moje větrná magie vám snad pomůže uniknout šibenici. Tudy."
+    1 string data = "Moje větrná magie vám snad pomůže uniknout ze žaláře. Tudy."
    [20]
-    1 string data = "Kodex mě zavazuje opustit Věže, ale na tento dluh nezapomenu."
+    1 string data = "Kodex mě nutí opustit Věže, ale na tento dluh nezapomenu."
    [21]
     1 string data = "Šťastnou cestu!"
    [22]

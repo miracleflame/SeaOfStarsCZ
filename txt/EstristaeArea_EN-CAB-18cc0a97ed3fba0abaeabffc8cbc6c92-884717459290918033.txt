@@ -35,7 +35,7 @@
    [10]
     1 string data = "Páni, to byl teda fofr!"
    [11]
-    1 string data = "Ahoj Teaks."
+    1 string data = "Ahoj, Teaks."
    [12]
     1 string data = "Nazdárek, tak jak se vám daří?"
    [13]

@@ -439,7 +439,7 @@
    [212]
     1 string data = "Je mi moc líto vaší ztráty…"
    [213]
-    1 string data = "Děkuji za vaši pomoc. Už se nemohu dočkat, až navštívíme můj domov a já vám ukážu, proti čemu stojíme."
+    1 string data = "Děkuji za vaši pomoc. Už se nemůžu dočkat, až navštívíme můj domov a já vám ukážu, proti čemu stojíme."
    [214]
     1 string data = "Já… vím, že žádám o hodně, zvlášť po tom všem, co se stalo…"
    [215]
@@ -447,21 +447,21 @@
    [216]
     1 string data = "Karnimantova laboratoř se nachází na Samotě ztracených na Azurovém ostrově."
    [217]
-    1 string data = "Buďme opatrní, B'st říkal, že je tu ohavnost."
+    1 string data = "Buďme opatrní, B'st říkal, že je tu nějaká stvůra."
    [218]
     1 string data = "Doufám, že to zabere. Jediný způsob, jak nahodit proud, je uvolnit kvádr Es'tristae."
    [219]
-    1 string data = "Svatosakrální věže jsou v severozápadním rohu. Pospěšme si."
+    1 string data = "Svatosakrální věže leží na severozápadě. Hoďme sebou."
    [220]
     1 string data = "Jakmile budete připraveni, Nebeská rada by nás měla být ochotna hned přijmout."
    [221]
-    1 string data = "Cesta k Moři Hvězd se otevřela. Vede přes čtyři potopené obry, severně od Přízračného ostrova."
+    1 string data = "Cesta k Moři hvězd se otevřela. Vede přes čtyři potopené obry, severně od Přízračného ostrova."
    [222]
-    1 string data = "Seraïna osada se nachází na východě tohoto světa, na ostrově s modrým pískem."
+    1 string data = "Seraïna osada se nachází na východě, na ostrově s modrým pískem."
    [223]
     1 string data = "…"
    [224]
-    1 string data = "(Mrtví zapomenuté rasy…)"
+    1 string data = "(Mrtví zapomenutého národa…)"
    [225]
     1 string data = "(Živoucí sklo…)"
    [226]
@@ -471,7 +471,7 @@
    [228]
     1 string data = "Garl by byl unešen, kdyby to všechno viděl."
    [229]
-    1 string data = "Začínáme mít půdu pod nohama."
+    1 string data = "Začínáme získávat půdu pod nohama."
    [230]
     1 string data = "Měli bychom cestovat zpět do našeho světa."
    [231]
@@ -479,11 +479,11 @@
    [232]
     1 string data = "Připraven na poslední očistu, Zale?"
    [233]
-    1 string data = "Bylo to příjemné odpočinout si ve Veselí. Jako by byl s námi…"
+    1 string data = "Bylo to příjemné, odpočinout si ve Veselí. Jako by byl s námi…"
    [234]
     1 string data = "Musím se připravit."
    [235]
-    1 string data = "B'st je na tohle skvěle připravený, je fajn mít ho sebou."
+    1 string data = "B'st je na tohle skvěle připravený, je fajn mít ho s sebou."
    [236]
     1 string data = "Vsadím se, že Garl by měl Cedrika rád."
    [237]
@@ -511,7 +511,7 @@
    [248]
     1 string data = "Tak tedy zpátky do mého světa."
    [249]
-    1 string data = "Musíme vzít Artyho na Nebeskou základnu. Jen je třeba znovu použít rychlodráhu."
+    1 string data = "Musíme vzít Artyho na Vesmírnou základnu. Jen je třeba znovu použít rychlodráhu."
    [250]
     1 string data = "Až budete připraveni, doupě Přiživovače hrůzy je pod vodou, u potopeného měsíce."
    [251]
@@ -519,7 +519,7 @@
    [252]
     1 string data = "(Živoucí sklo... Babizna měla pravdu...)"
    [253]
-    1 string data = "Resh'anova loutka sedí nehybně..."
+    1 string data = "Resh'anova loutka se ani nehne..."
    [254]
     1 string data = "Dychtím vyzkoušet si svou novou formu."
    [255]
@@ -527,7 +527,7 @@
    [256]
     1 string data = "Dychtím vyzkoušet si svou novou formu."
    [257]
-    1 string data = "Vesmírná základna bývala kdysi pro můj svět opravdu dobrá..."
+    1 string data = "Vesmírná základna kdysi bývala pro můj svět opravdu přínosná..."
    [258]
     1 string data = "Mechanický hrad? Zajímavé."
    [259]
@@ -537,7 +537,7 @@
    [261]
     1 string data = "Bude mi ctí stát po vašem boku během očisty."
    [262]
-    1 string data = "Stačí mě dovést k tomu stroji na Nebeské základně a o zbytek se postarám!"
+    1 string data = "Stačí mě dovést k tomu stroji na Vesmírné základně a o zbytek se postarám!"
    [263]
     1 string data = "Ješte zbývají nějaké Svatyně Slunovratu. Možná bychom je měli vyhledat."
    [264]
@@ -587,7 +587,7 @@
    [286]
     1 string data = "Resh'anova loutka ukazuje na něco na mapě."
    [287]
-    1 string data = "Velký alchymisto, snažíš se nám něco říct?"
+    1 string data = "Velký alchymisto, snažíte se nám něco říct?"
    [288]
     1 string data = "..."
    [289]
