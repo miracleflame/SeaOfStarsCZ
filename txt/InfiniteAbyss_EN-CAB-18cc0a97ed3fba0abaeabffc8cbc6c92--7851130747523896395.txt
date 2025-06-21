@@ -15,25 +15,25 @@
    [0]
     1 string data = "Opatrně..."
    [1]
-    1 string data = "Je tady Přiživovač. Cítím to taky."
+    1 string data = "Přiživovač je tady. Cítím to taky."
    [2]
     1 string data = "Bude mi ctí asistovat vám při očistě."
    [3]
     1 string data = "Zale?"
    [4]
-    1 string data = "Jo, už to bude!"
+    1 string data = "Jo, blíží se!"
    [5]
     1 string data = "Konečně..."
    [6]
     1 string data = "Dokázali jsme to, Valerie! I bez zatmění!"
    [7]
-    1 string data = "Tato moc... Ani na okamžik jsem nepochyboval, že to dokážeme..."
+    1 string data = "Tato moc... Ani na okamžik jsem nepochybovala, že to dokážeme..."
    [8]
-    1 string data = "A to, co jsme cítili, když Garla zasáhla tá kletba, myslím, že už rozumím, jak to ovládat."
+    1 string data = "A to, co jsme cítili, když Garla zasáhla ta kletba, myslím, že už rozumím, jak to ovládat."
    [9]
     1 string data = "Taky to cítím. Jsme připraveni."
    [10]
-    1 string data = "Takže měsíc?"
+    1 string data = "Na řadě je Měsíc?"
    [11]
     1 string data = "Společně."
    [12]

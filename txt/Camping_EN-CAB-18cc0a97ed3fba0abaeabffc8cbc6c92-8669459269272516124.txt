@@ -505,7 +505,7 @@
    [245]
     1 string data = "Tohle je to místo. Už jenom najít Katalyzátor..."
    [246]
-    1 string data = "Teď, když jsme obnovili energii, můžeme použít rychlodráhu a dostat se na Nebeskou základnu."
+    1 string data = "Teď, když jsme obnovili energii, můžeme použít rychlodráhu a dostat se na Vesmírnou základnu."
    [247]
     1 string data = "Já doufám, že nám děti pomohou."
    [248]
@@ -513,7 +513,7 @@
    [249]
     1 string data = "Musíme vzít Artyho na Vesmírnou základnu. Jen je třeba znovu použít rychlodráhu."
    [250]
-    1 string data = "Až budete připraveni, doupě Přiživovače hrůzy je pod vodou, u potopeného měsíce."
+    1 string data = "Až budete připraveni, doupě Přiživovače hrůzy je pod vodou, u potopeného Měsíce."
    [251]
     1 string data = "Nikdy jsem v tomto světě nebyl, ale zdejší magie je mi... povědomá..."
    [252]
@@ -569,7 +569,7 @@
    [277]
     1 string data = "Je to na dlouhé lokty, ale tohle je to, co sonda přinesla od jedné z pátracích skupin."
    [278]
-    1 string data = "Doufala jsem, že bychom to mohli dát Teaks a zjistit, co se dá z toho vyčíst. Pokud na to ovšem budeme mít čas."
+    1 string data = "Doufala jsem, že bychom to mohli dát Teaks a zjistit, co se z toho dá vyčíst. Pokud na to ovšem budeme mít čas."
    [279]
     1 string data = "Přinejmenším za pokus to stojí."
    [280]
@@ -607,9 +607,9 @@
    [296]
     1 string data = "Oceňuji tvou připomínku, statečná mniško, ale toužím po něčem... oficiálnějším."
    [297]
-    1 string data = "Jako co?"
+    1 string data = "Jako po čem?"
    [298]
-    1 string data = "Během mého pobytu na vašem domovském světě jsem zaslechl zvěsti o místě, kde se bojovníci zapojují do přátelského klání."
+    1 string data = "Během svého pobytu na vašem domovském světě jsem zaslechl zvěsti o místě, kde se bojovníci zapojují do přátelského klání."
    [299]
     1 string data = ""Aréna dopadu Přiživovače" ve Svěžíně."
    [300]

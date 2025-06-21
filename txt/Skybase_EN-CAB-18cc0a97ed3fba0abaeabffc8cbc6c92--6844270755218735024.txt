@@ -201,7 +201,7 @@
    [93]
     1 string data = "To si piš. Je čas na očistu."
    [94]
-    1 string data = "Jeho doupě je <color=location>u měsíce</color>. Můžeme k němu připlout blíž a ponořit se dolů."
+    1 string data = "Jeho doupě je <color=location>u Měsíce</color>. Můžeme k němu připlout blíž a ponořit se dolů."
    [95]
     1 string data = "Týmová práce. Není nad to."
    [96]
