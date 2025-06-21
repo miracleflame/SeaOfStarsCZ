@@ -21,11 +21,11 @@
    [3]
     1 string data = "VY!"
    [4]
-    1 string data = "Pomalu, pomalu, promluvme si. Není třeba, abyste tenhle úkol dotáhli do konce."
+    1 string data = "Jen pomalu, promluvme si. Není třeba nechat to zajít až do konce."
    [5]
-    1 string data = "Co se děje? Snad se nás nebojíte?"
+    1 string data = "Copak? Začínáš být nervózní?"
    [6]
-    1 string data = "No to jsme ale vznětliví."
+    1 string data = "No páni, někdo by se rovnou pral."
    [7]
     1 string data = "Nemusíme se přít. Stačí, když nám předáte Korálové kladivo, a my půjdeme dál."
    [8]

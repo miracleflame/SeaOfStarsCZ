@@ -115,7 +115,7 @@
    [50]
     1 string data = "Oční bulva"
    [51]
-    1 string data = "Vyzyvatel bouří"
+    1 string data = "Vyzývatel bouří"
    [52]
     1 string data = "Rváčka"
    [53]

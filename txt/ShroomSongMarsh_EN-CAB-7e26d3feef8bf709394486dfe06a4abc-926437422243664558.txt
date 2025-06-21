@@ -39,7 +39,7 @@
    [12]
     1 string data = "Jenom jedno."
    [13]
-    1 string data = "Ta chuť je neuvěřitelná! Jak se jmenují?"
+    1 string data = "Ta chuť je neuvěřitelná! Jak se tomu říká?"
    [14]
     1 string data = "Hrušky."
    [15]
@@ -79,7 +79,7 @@
    [32]
     1 string data = "<color=bad>Prvotní strach</color>, ne..."
    [33]
-    1 string data = "Aha, tak sem jsem dala <color=good>Ovata ročních období</color>!"
+    1 string data = "Aha, tak sem jsem dala <color=good>Ovat ročních období</color>!"
    [34]
     1 string data = "..."
    [35]

@@ -17,7 +17,7 @@
    [1]
     1 string data = "Monsieur Tendu's really powerful. We need more training."
    [2]
-    1 string data = "We won't get far without Fardush's train."
+    1 string data = "We won't get far without Farduš's train."
    [3]
     1 string data = "Valtraid really showed up."
    [4]
@@ -61,7 +61,7 @@
    [23]
     1 string data = "I'd say we're off to a great start!"
    [24]
-    1 string data = "The Ivory Towers, huh? Good thing we have Fardush's train now."
+    1 string data = "The Ivory Towers, huh? Good thing we have Farduš's train now."
    [25]
     1 string data = "There was something eerie about that place, but I can't quite name it."
    [26]

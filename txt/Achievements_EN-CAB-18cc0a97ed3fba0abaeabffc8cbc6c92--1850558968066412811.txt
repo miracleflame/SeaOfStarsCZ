@@ -39,7 +39,7 @@
    [12]
     1 string data = "Yo, Ho!"
    [13]
-    1 string data = "Porazte Vyzyvatele bouří"
+    1 string data = "Porazte Vyzývatele bouří"
    [14]
     1 string data = "Všude dobře, doma nejlíp"
    [15]
@@ -133,7 +133,7 @@
    [59]
     1 string data = "Přineste všechny ulity k Mirně v Dokarrijské osadě"
    [60]
-    1 string data = "Mistr rybář"
+    1 string data = "Mistr rybáření"
    [61]
     1 string data = "Chyťte alespoň jednu z každého druhu ryb"
    [62]

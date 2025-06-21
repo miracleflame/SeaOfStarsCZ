@@ -189,7 +189,7 @@
    [87]
     1 string data = "Valerie a Arty se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-heapfrog"> <color="magic">Hromada žabáka</color>!"
    [88]
-    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampolinový tým</color>!"
+    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><br><br><br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampolinový tým</color>!"
    [89]
     1 string data = "Valerie se naučila novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-trapeze"> <color=#326d9c>Visutá hrazda</color>!"
    [90]

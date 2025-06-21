@@ -13,7 +13,7 @@
   1 Array Array (87 items)
    0 int size = 87
    [0]
-    1 string data = "(Měli bychom otevřít Záhadnou skříňku!)"
+    1 string data = "(Měli bychom otevřít tu Záhadnou skříňku!)"
    [1]
     1 string data = "(Jakýma rukama jako?)"
    [2]
@@ -21,7 +21,7 @@
    [3]
     1 string data = "(Já jenom hraju roli vězně.)"
    [4]
-    1 string data = "(Ty jsi ale trdlo!)"
+    1 string data = "(Ty jseš ale trdlo!)"
    [5]
     1 string data = "(Tak co? Otevři ji!)"
    [6]
@@ -33,15 +33,15 @@
    [9]
     1 string data = "(Hele, je tam ještě něco dalšího.)"
    [10]
-    1 string data = "(Je to dárek! Stojí tu “Pro Fardushe.”)"
+    1 string data = "(Je to dárek! Stojí tu “Pro Farduše.”)"
    [11]
-    1 string data = "(Kdo je Fardush?)"
+    1 string data = "(Kdo je Farduš?)"
    [12]
     1 string data = "(Nech to zatím být. Musíme makat na tom vylepšení.)"
    [13]
-    1 string data = "Řek bych, že jsme už zažili i horší, ale tím si tentokrát fakt nejsem jistej!"
+    1 string data = "Řekla bych, že jsme už zažili i horší, ale tím si tentokrát fakt nejsem jistá!"
    [14]
-    1 string data = "Jednou jsem byl v ještě větší šlamastyce, jestli to nějak pomůže."
+    1 string data = "Jednou jsem byla v ještě větší šlamastyce, jestli to nějak pomůže."
    [15]
     1 string data = "Tohle zvládneme, jakože..."
    [16]
@@ -49,15 +49,15 @@
    [17]
     1 string data = "Ahoy, Valtraide! Vypadá to, že starý trik útěku z vězení by tu mohl fungovat."
    [18]
-    1 string data = "Čteš mi myšlenky, kámo!"
+    1 string data = "Ty brďo, čteš mi myšlenky!"
    [19]
-    1 string data = "Tak jsi na řadě, ukaž se!"
+    1 string data = "Teď je tvá chvíle, ukaž se!"
    [20]
-    1 string data = "STŮJ, BACHARI!"
+    1 string data = "HEJ, BACHARI!"
    [21]
-    1 string data = "Cože?"
+    1 string data = "Co je?"
    [22]
-    1 string data = "Hej lidi, on rozumí!"
+    1 string data = "Hele lidi, on rozumí!"
    [23]
     1 string data = "Fakt jo?"
    [24]
@@ -79,7 +79,7 @@
    [32]
     1 string data = "A posádka zase vyhrála!"
    [33]
-    1 string data = "(Myslím, že to je všechno.)"
+    1 string data = "(Myslím, že to je hotovo.)"
    [34]
     1 string data = "(Tak to ODPAL! Chápeš?)"
    [35]
@@ -101,7 +101,7 @@
    [43]
     1 string data = "Artyho útoky způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-laser"> laserové poškození a dají se posílit, aby vypálily další střely!"
    [44]
-    1 string data = "Tam jsou! Je čas vyhodit ty dveře do vzduchu."
+    1 string data = "Tamhle jsou! Je čas vyhodit ty dveře do vzduchu."
    [45]
     1 string data = "Na mou duši drsný... Jestli se odsud dostaneme, tak já–"
    [46]
@@ -111,7 +111,7 @@
    [48]
     1 string data = "Já jsem mimochodem Arty."
    [49]
-    1 string data = "Rád tě poznávám, Arty. Já jsem Fardush."
+    1 string data = "Rád tě poznávám, Arty. Já jsem Farduš."
    [50]
     1 string data = "(Aha, ten dárek je pro něj!)"
    [51]
@@ -127,11 +127,11 @@
    [56]
     1 string data = "Podle pravidel?"
    [57]
-    1 string data = "V tom boji jste prohráli. Zhmotňovat v tomhle světě moc vyžaduje pevnou mysl."
+    1 string data = "V tom boji jste prohráli. V tomhle světě zhmotňování moci vyžaduje pevnou mysl."
    [58]
-    1 string data = "Vypadá to, že tvůj kamarád Arty to zvládá dobře, ale vy dva na sobě musíte ještě zapracovat."
+    1 string data = "Vypadá to, že váš kamarád Arty to zvládá dobře, ale vy dva na sobě musíte ještě zapracovat."
    [59]
-    1 string data = "V tomhle stavu se vám moc ani magie neprojeví, pokud tomu nedáte trochu... cirkusového šmrncu!"
+    1 string data = "V tomhle stavu se vám ani magie ani moc neprojeví, pokud tomu nedodáte trochu... cirkusového šmrncu!"
    [60]
     1 string data = "Cože!?"
    [61]
@@ -175,7 +175,7 @@
    [80]
     1 string data = "Valerie a Zale se naučili kombo dovednost <sprite="dialog-inventory-icons-totw" name="icn-combos-spectaclestrike"> <color="magic">Spektakulární úder</color>!"
    [81]
-    1 string data = "Pořád se cítím slabý, ale aspoň máme s čím pracovat."
+    1 string data = "Pořád se cítím slabá, ale aspoň máme s čím pracovat."
    [82]
     1 string data = "Už se do toho dostávám! Myslím, že jsem připraven to rozjet."
    [83]

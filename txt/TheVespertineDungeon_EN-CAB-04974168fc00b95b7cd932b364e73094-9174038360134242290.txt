@@ -43,7 +43,7 @@
    [14]
     1 string data = "DRŽTE SE!!"
    [15]
-    1 string data = "Dobrá, <color=bad>Vyzyvatel bouří</color> vycítil vaši přítomnost. To svědčí o tom, že jste skuteční."
+    1 string data = "Dobrá, <color=bad>Vyzývatel bouří</color> vycítil vaši přítomnost. To svědčí o tom, že jste skuteční."
    [16]
     1 string data = "Takže ty jsi ta, co se jí říká Navigátorka?"
    [17]
@@ -57,17 +57,17 @@
    [21]
     1 string data = "No, myslím, že podněcování vzpoury je horší. Někdy si přeju být taky z té bezmozkové sorty nemrtvých..."
    [22]
-    1 string data = "Takže, ten váš bývalý kapitán, Vyzyvatel bouří... Jak ho můžeme zastavit?"
+    1 string data = "Takže, ten váš bývalý kapitán, Vyzývatel bouří... Jak ho můžeme zastavit?"
    [23]
     1 string data = "Pokud mě posledních pár století něco naučilo, pak to, že to nejde. Víte, ta kletba má pouze dvě východiska."
    [24]
-    1 string data = "Buď se vzdá Vyzyvatel bouří, nebo já nechám Večernici potopit, a jak to tak vypadá, ani jedno z toho se v dohledné době nestane."
+    1 string data = "Buď se vzdá Vyzývatel bouří, nebo já nechám Večernici potopit, a jak to tak vypadá, ani jedno z toho se v dohledné době nestane."
    [25]
     1 string data = "Co kdybychom s ním bojovali?"
    [26]
     1 string data = "Chcete bojovat s kapitánem?"
    [27]
-    1 string data = "Koukněte, Vyzyvatel bouří je ten nejmocnější větrný mág, jakého kdy svět poznal!"
+    1 string data = "Koukněte, Vyzývatel bouří je ten nejmocnější větrný mág, jakého kdy svět poznal!"
    [28]
     1 string data = "A my rozhodně nebojujeme poprvé."
    [29]

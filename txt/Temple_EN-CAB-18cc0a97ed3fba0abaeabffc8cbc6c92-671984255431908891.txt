@@ -85,7 +85,7 @@
    [35]
     1 string data = "Hehehe..."
    [36]
-    1 string data = "Noví vyzyvatelé se dostali až sem."
+    1 string data = "Noví vyzývatelé se dostali až sem."
    [37]
     1 string data = "Triumvirát Eminence bere vaši přítomnost na vědomí."
    [38]

@@ -17,7 +17,7 @@
    [1]
     1 string data = "Ahoj! Bylo by možné, abychom se s přáteli přihlásili do turnaje?"
    [2]
-    1 string data = "Noví vyzyvatelé? Jistě, ale máme pravidlo, které omezuje počet nových účastníků na maximálně dva spolubojovníky."
+    1 string data = "Noví vyzývatelé? Jistě, ale máme pravidlo, které omezuje počet nových účastníků na maximálně dva spolubojovníky."
    [3]
     1 string data = "Také je zakázáno používat předměty."
    [4]
@@ -91,7 +91,7 @@
    [38]
     1 string data = "Hurá!"
    [39]
-    1 string data = "Dnes je výjimečný den, neboť našeho nového vyzyvatele doprovází mocná <color=moon>Lunární mniška</color>, která v onen osudný den zachránila naše město před naprostou zkázou!"
+    1 string data = "Dnes je výjimečný den, neboť našeho nového vyzývatele doprovází mocná <color=moon>Lunární mniška</color>, která v onen osudný den zachránila naše město před naprostou zkázou!"
    [40]
     1 string data = "No tohle!"
    [41]
@@ -701,7 +701,7 @@
    [343]
     1 string data = "Jsem opravdu rád, že jsme mohli přijet a pomoci lidem ve Svěžíně, vždycky k nám byli moc milí. "
    [344]
-    1 string data = "Spousta vyzyvatelů si myslí, že jsou tvrďáci, ale jen málo z nich se dostane přes Bronzový stupeň!"
+    1 string data = "Spousta vyzývatelů si myslí, že jsou tvrďáci, ale jen málo z nich se dostane přes Bronzový stupeň!"
    [345]
     1 string data = "Zvládnul bych to levou zadní, ale nebylo by to fér vůči ostatním, takže se kvůli nim krotím."
    [346]

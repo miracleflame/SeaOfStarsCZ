@@ -25,7 +25,7 @@
    [5]
     1 string data = "A tak je má vláda opět zpochybněna."
    [6]
-    1 string data = "Já jsem Vyzyvatel bouří."
+    1 string data = "Já jsem Vyzývatel bouří."
    [7]
     1 string data = "Moře nočních můr všechny zkazí a časem vše pohltí."
    [8]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "Blíží se přílivová vlna! Honem na loď!"
    [13]
-    1 string data = "Aye, jenom hoď <color=magic>tudle perlu</color> do vody, kde jste bojovali s Vyzyvatelem bouří."
+    1 string data = "Aye, jenom hoď <color=magic>tudle perlu</color> do vody, kde jste bojovali s Vyzývatelem bouří."
    [14]
     1 string data = "A tudle máte cosik na ten souboj. Zlomte vaz!"
    [15]

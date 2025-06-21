@@ -31,6 +31,6 @@
    [8]
     1 string data = "A resounding success!"
    [9]
-    1 string data = "Aye, Fardush should be able to drive you around now."
+    1 string data = "Aye, Farduš should be able to drive you around now."
    [10]
     1 string data = "If ye need us, we'll be at the local tavern."

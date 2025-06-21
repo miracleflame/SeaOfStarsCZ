@@ -135,4 +135,4 @@
    [60]
     1 string data = "Souboje jsou v Horloge náročnější,<br>tak pamatujte na základy: <color=#FFDEAA>načasování úderů</color> a <color=#FFDEAA>bloků</color> a zároveň <color=#FFDEAA>prolomení nepřátelských zámků</color>."
    [61]
-    1 string data = "Obtížnost můžete kdykoli upravit prostřednictvím nabídky <color=#FFDEAA>Relikvií</color>. Štastnou cestu!"
+    1 string data = "Obtížnost můžete kdykoli upravit přes nabídku <color=#FFDEAA>Relikvií</color>. Štastnou cestu!"

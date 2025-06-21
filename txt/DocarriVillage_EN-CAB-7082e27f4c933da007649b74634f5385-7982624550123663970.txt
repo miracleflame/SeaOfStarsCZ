@@ -81,7 +81,7 @@
    [33]
     1 string data = "Páni!"
    [34]
-    1 string data = "Je to jediný způsob, jak se dostat do Dokarrijské osadě a setkat se s Věštcem."
+    1 string data = "Je to jediný způsob, jak se dostat do Dokarrijské osady a setkat se s Věštcem."
    [35]
     1 string data = "Bude to fungovat pro všechny?"
    [36]

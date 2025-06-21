@@ -251,7 +251,7 @@
    [118]
     1 string data = "Tihle lidé potřebují nový začátek. Vím přesně, jak to naplánovat!"
    [119]
-    1 string data = "Vyzyvatel bouří… Nejvyšší čas, aby s tím vším někdo skoncoval."
+    1 string data = "Vyzývatel bouří… Nejvyšší čas, aby s tím vším někdo skoncoval."
    [120]
     1 string data = "…"
    [121]
@@ -319,7 +319,7 @@
    [152]
     1 string data = "Po naladění mušle v Posvátném háji na Strážcově ostrově bychom měli být schopni se dostat na dno jezera Dokarria…"
    [153]
-    1 string data = "Připadalo mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoliv, kryju vám záda."
+    1 string data = "Přijde mi to jako velká věc, že nás pustili přes vodopád ve Věštírně. Ať už v té věži najdeme cokoliv, kryju vám záda."
    [154]
     1 string data = "Akolyté nás pravděpodobně sledují. Nepolevujme v ostražitosti."
    [155]
@@ -357,7 +357,7 @@
    [171]
     1 string data = "Nezapomeňme si připravit svačinu na cestu."
    [172]
-    1 string data = "Musí to být těžké, myslet na celou tu situaci s Erlinou a Brugavesem. Jsem tady, jo?"
+    1 string data = "Musí to být těžké, myslet na celou tu situaci s Erlinou a Brugavesem. Kdyby něco, jsem tady, jo?"
    [173]
     1 string data = "Zajímalo by mě, co tímhle vším Resh'an sleduje. Zdá se, že podle něj jste ty a [OFFCHAR] výjimeční, s čímž souhlasím!"
    [174]

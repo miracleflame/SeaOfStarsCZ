@@ -273,7 +273,7 @@
    [129]
     1 string data = "Mezomormidard"
    [130]
-    1 string data = "Pravda nebo nepravda: Předchozí kapitán lodi Večernice se jmenoval Vyzyvatel bouří."
+    1 string data = "Pravda nebo nepravda: Předchozí kapitán lodi Večernice se jmenoval Vyzývatel bouří."
    [131]
     1 string data = "PRAVDA"
    [132]
@@ -285,7 +285,7 @@
    [135]
     1 string data = "NEPRAVDA"
    [136]
-    1 string data = "Jak se přezdívá Hydralionovi, mořské příšeře povolané Vyzyvatelem bouří k jeho ultimátnímu útoku?"
+    1 string data = "Jak se přezdívá Hydralionovi, mořské příšeře povolané Vyzývatelem bouří k jeho ultimátnímu útoku?"
    [137]
     1 string data = "Nositel přílivů a odlivů"
    [138]
