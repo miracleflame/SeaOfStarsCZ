@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "LevelNames_Totw_EN",
+  "locCategoryId": "LevelNames_Totw",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Horloge",
+      "Město Horloge",
+      "Zapomnění",
+      "Vlčí skála",
+      "Slonovinové věže",
+      "Šapitó",
+      "Rybník dobrot",
+      "Vlkozero",
+      "Mechanické pláně",
+      "Železničný les",
+      "Vana odměn",
+      "Stanice Horloge",
+      "Stanice Vlčí skála",
+      "Stanice Slonovinové věže",
+      "Stanice Stracený ostrov",
+      "Stanice Šapitó",
+      "Stracený ostrov",
+      "Ostrov Slonovinových věží"
+    ]
+  }
+}

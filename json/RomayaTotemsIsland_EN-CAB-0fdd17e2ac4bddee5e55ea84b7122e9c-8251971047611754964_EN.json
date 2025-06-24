@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "RomayaTotemsIsland_EN",
+  "locCategoryId": "RomayaTotemsIsland/RomayaTotemsIsland",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Sealed by a mysterious force...",
+      "These <color=magic>runes</color>... Doesn't feel like we'll get far without a clue.",
+      "The marsh on Mesa Island. We could try asking the necromancer's sister.",
+      "Good idea."
+    ]
+  }
+}

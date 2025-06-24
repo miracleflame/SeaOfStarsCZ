@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Factory_EN",
+  "locCategoryId": "CeruleanIsland/Factory",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Výtah je mimo provoz. Chybí <color=magic>Baterie Kybermesh</color>.",
+      "Pro bezpečnou manipulaci prosím použijte <color=magic>laserový jeřáb</color>.",
+      "Výtah je v provozu.",
+      "Odejít z továrny",
+      "Zůstat",
+      "K ovládání jeřábu je zapotřebí <color=magic>ID karta</color>.",
+      "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy, 1x Kyberruda, 1x Napájecí jednotka",
+      "Tiskárna baterie Kybermesh postrádá komponenty: 1x Kyberruda, 1x Napájecí jednotka",
+      "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy, 1x Napájecí jednotka",
+      "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy, 1x Kyberruda",
+      "Tiskárna baterie Kybermesh postrádá komponenty: 1x Disk se schématy",
+      "Tiskárna baterie Kybermesh postrádá komponenty: 1x Kyberruda",
+      "Tiskárna baterie Kybermesh postrádá komponenty: 1x Napájecí jednotka",
+      "Zpracovávám...",
+      "Baterie Kybermesh dokončena. Odesílám do výtahové místnosti.",
+      "Pro bezpečnou manipulaci použijte laserový jeřáb.",
+      "Výdejní zařízení napájecí jednotky je v provozu.",
+      "Prosím, vložte elektronické součástky.",
+      "Zpracování dokončeno.",
+      "Prosím, odeberte dokončenou napájecí jednotku.",
+      "Výtah je v provozu.",
+      "Je zamčeno, ale vypadá to, že střecha je přístupná.",
+      "Vypadá to, že by se sem vešlo nějaké zařízení."
+    ]
+  }
+}

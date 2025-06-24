@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "LevelNames_Totw_EN",
+  "locCategoryId": "LevelNames_Totw",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Horloge",
+      "Town of Horloge",
+      "Oubliettes",
+      "Wolf Rock",
+      "Ivory Towers",
+      "Big Top",
+      "Goodies Pond",
+      "Were-Lake",
+      "Clockwork Plains",
+      "Rail Forest",
+      "Bounty Basin",
+      "Horloge Station",
+      "Wolf Rock Station",
+      "Ivory Towers Station",
+      "Lost Island Station",
+      "Big Top Station",
+      "Lost Island",
+      "Ivory Towers Island"
+    ]
+  }
+}

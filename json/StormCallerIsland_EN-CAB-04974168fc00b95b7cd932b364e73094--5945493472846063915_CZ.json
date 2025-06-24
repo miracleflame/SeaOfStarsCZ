@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "StormCallerIsland_EN",
+  "locCategoryId": "SeaOfNightmare/StormCallerIsland",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Příliv přináší vetřelce do mé říše...",
+      "Přišli jsme osvobodit Večernici od tvého prokletí.",
+      "Ó, takhle teď suchozemci nazývaj mou loď?",
+      "Koho to zajímá! Ukončíme to teď!",
+      "...",
+      "A tak je má vláda opět zpochybněna.",
+      "Já jsem Vyzývatel bouří.",
+      "Moře nočních můr všechny zkazí a časem vše pohltí.",
+      "Chcete-li zkusit své štěstí, vězte, že to nepůjde snáz...",
+      "NEBOŤ TEĎ BOUŘE POHLTÍ VÁS!",
+      "NEEEEEEEEEEEEEEEEEEE!!!",
+      "Uf... Dokázali jsme to...",
+      "Blíží se přílivová vlna! Honem na loď!",
+      "Aye, jenom hoď <color=magic>tudle perlu</color> do vody, kde jste bojovali s Vyzývatelem bouří.",
+      "A tudle máte cosik na ten souboj. Zlomte vaz!",
+      "Potřebujete něco?",
+      "Jdem na to.",
+      "Garl měl pravdu. Tahle šupina bude vytvářet Magickou rosu.",
+      "Čas na velkou sklizeň.",
+      "Musíme si pospíšit k Hydralionovi."
+    ]
+  }
+}

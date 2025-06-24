@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Tower1_EN",
+  "locCategoryId": "SacrosanctSpireIsland/Tower1",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "The Sacrosanct Spires... It has been so long.",
+      "I must find the frequency. One moment.",
+      "<color=magic>Songster Magic</color>... Impossible...",
+      "Did you think I was younger than you, Great Alchemist?",
+      "...",
+      "If my understanding is correct, you have never visited this world before.",
+      "You should be warned about the <color=bad>cultists</color>. Their origins-",
+      "We will deal with whatever lies ahead. There is no other way.",
+      "Then let us proceed."
+    ]
+  }
+}

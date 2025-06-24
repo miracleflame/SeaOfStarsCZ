@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Peninsula_EN",
+  "locCategoryId": "SleeperIsland/Peninsula",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "A pak spustil: \"Hle, bolest věčného hříchu!\" a proměnil se v jakési polocosi s překrásnou tváří, která jemně foukala na jablko s opeřenými křídly.",
+      "Co se stalo pak?",
+      "Vychlemtali jsme asi šestadvacet elixírů, co jsme si šetřili na pozděj, a nakonec jsme vyhráli.",
+      "Hurá!",
+      "Udatná bitva!",
+      "Připravte se, skočíme na další záblesk.",
+      "Rozkazy, kapitánko?",
+      "Dohlédněte na bezpečnost vesničanů, dokud se nevrátíme.",
+      "Mohu i provedu!",
+      "Šťastnou plavbu, kapitánko!",
+      "Při všem tom dění se zdá, že na vysvětlování nezbude nikdy čas, takže...",
+      "Prosím, neříkejte to mé posádce.",
+      "Seraï, už jsme to tak nějak věděli...",
+      "!?!",
+      "Tak proč jste nic neřekli?",
+      "Jsi očividně na naší straně, na tom jediném záleží.",
+      "Tak ať už jsou tvé důvody jakékoliv, budou dobré.",
+      "Jo a díky, žes utratila tu minci, abys mě zachránila!",
+      "Já...",
+      "Dohodli jsme se, že ti tvé tajemství ponecháme, ale je fajn vidět, že nám teď věříš.",
+      "...",
+      "Omlouvám se, měla jsem...",
+      "To je dobrý, teď jsme tým.",
+      "Takže je vám jasné, že nárokovat si Večernici nebude tak snadné, jak jsme si mysleli.",
+      "Jop! A náhodou ti to dlužíme, takže o to lépe.",
+      "...",
+      "Děkuju vám.",
+      "TEĎ!"
+    ]
+  }
+}

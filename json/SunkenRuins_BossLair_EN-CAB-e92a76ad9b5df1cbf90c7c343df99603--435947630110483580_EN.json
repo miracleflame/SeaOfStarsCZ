@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "SunkenRuins_BossLair_EN",
+  "locCategoryId": "SunkenRuins/SunkenRuins_BossLair",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Empty.",
+      "It's empty...",
+      "Hey, are you in there? What was the point of all this?",
+      "...",
+      "What a waste of time.",
+      "Surely the Great Alchemist had good reasons to lead us here. Getting rid of this threat, perhaps?",
+      "He just had it on him this whole time!?",
+      "Still so full of surprises!",
+      "...",
+      "Let's just go.",
+      "Looks like three keys of some sort are needed."
+    ]
+  }
+}

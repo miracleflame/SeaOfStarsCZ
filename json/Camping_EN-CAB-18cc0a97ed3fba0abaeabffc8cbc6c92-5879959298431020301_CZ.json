@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Camping_EN",
+  "locCategoryId": "Totw/Camping",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Do you think it's true? Of all the places to hide a Dweller...",
+      "Monsieur Tendu's really powerful. We need more training.",
+      "We won't get far without Farduš's train.",
+      "Valtraid really showed up.",
+      "Are you alright, Zale?",
+      "For what it's worth, that was a good kick.",
+      "We're wasting time here!",
+      "Zale, I...",
+      "This is it. Better make sure we're prepared.",
+      "Do you think there's more to find here?",
+      "The Watchmaker sounded really worried, almost ashamed. What do you think we'll find out here?",
+      "We're making good progress, all things considered.",
+      "I suppose a train can't be that hard to find.",
+      "Yolande said the crew would be at the tavern.",
+      "(Narcis King...)",
+      "I'm confused...",
+      "...",
+      "Let's check in with the crew.",
+      "The Dweller of Scourge is still out there...",
+      "It feels so peaceful here now.",
+      "I always dreamed of going on an adventure!",
+      "How do you like my new upgrade?",
+      "The train should be in the Rail Forest, north of town.",
+      "I'd say we're off to a great start!",
+      "The Ivory Towers, huh? Good thing we have Farduš's train now.",
+      "There was something eerie about that place, but I can't quite name it.",
+      "Wolf Rock... That Feral Queen seems pretty strong.",
+      "Remember. We're a team.",
+      "The Puppeteer's bound to have something in store for us. We should make sure we're ready.",
+      "Did we ever find all of the Time Runes?",
+      "Appreciate y'all helping out Keenathan.",
+      "Bit ov a rough start here, aye?",
+      "Sure am eager to add a railworthy vessel to our collection!",
+      "Onwards!",
+      "These new roles befit you nicely, I must say.",
+      "Exploring the Rail Forest? Now that sounds like a proper adventure!",
+      "On yer mark, pal.",
+      "I'd say we're doing pretty good.",
+      "On yer mark, pal.",
+      "Off to a great start, the wind's at our backs, mateys!",
+      "Tis' but a minor setback. Crew's got this.",
+      "Feels good to be out and about."
+    ]
+  }
+}

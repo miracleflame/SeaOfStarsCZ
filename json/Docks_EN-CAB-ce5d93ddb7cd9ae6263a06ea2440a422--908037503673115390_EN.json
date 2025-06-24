@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Docks_EN",
+  "locCategoryId": "WraithIsland/Docks",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "It's so dark here...",
+      "All part of the curse 'round here!",
+      "Headmaster Moraine calls it the \"<color=bad>Night Shroud</color>.\" It's an old Fleshmancer curse preventing any light from reaching the island.",
+      "So even after you defeat the Dweller...",
+      "Aye, there ain't no fixin' that one. But hey, it's a living!",
+      "Speaking o' which, the <color=location>Town ov Lucent</color> oughtta be just ahead.",
+      "We'll be kicking it back at the local tavern. Can't leave 'til ye take care o' business, anyway.",
+      "Yolande, why even come here with us if you knew of the danger?",
+      "That's 'cause we be trusting the Captain, and it sure seems the Captain be trusting y'all.",
+      "If our adventure is to end here, I say so be it. We will have remained loyal to the end, and seen that much more of the world.",
+      "Right on, Keenathan!",
+      "Hey, y'all should come and see us at the inn, we'll be playing some music.",
+      "You're in a band?",
+      "Aye! Captain wants us to practice cheering up the places we visit.",
+      "...",
+      "Well, onwards then!",
+      "Valtraid's invitation sounds fun. How about we go to the inn and take it easy for a little while?",
+      "I don't know, we did arrive early, but...",
+      "Oh, don't feel bad! You've accomplished so much already.",
+      "Plus this cleansing thing, fighting a Dweller must be a pretty big deal.",
+      "Might as well be fully rested, don't you think?",
+      "Garl's right. We should wait for Moraine, and stay prepared.",
+      "Alright! Let's make for Lucent!",
+      "Town of Lucent <sprite=\"dialog-generic-icons\" name=\"arrow-east\">\nDocks <sprite=\"dialog-generic-icons\" name=\"arrow-west\">",
+      "Ready to set sail?",
+      "Yes",
+      "No",
+      "Want to go back to Brisk?",
+      "Yes",
+      "No"
+    ]
+  }
+}

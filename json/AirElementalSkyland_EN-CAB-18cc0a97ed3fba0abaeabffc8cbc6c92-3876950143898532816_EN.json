@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "AirElementalSkyland_EN",
+  "locCategoryId": "Skylands/AirElementalSkyland",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Any idea what this is? ",
+      "A highly refined crystal. Its energy matches the one containing Zephyr.",
+      "Could it be used to break the other one?",
+      "Without a doubt, but it won't budge.",
+      "...",
+      "...I suppose I could extract the essence and frequency...",
+      "Zale, do you have any magic item with a proper handle?",
+      "Hmmm...",
+      "How about the Coral Hammer?",
+      "Let's see it.",
+      "Here. This will work.",
+      "Thanks, Resh'an!",
+      "The Coral Hammer has been upgraded. You can now <color=magic>break blue crystals</color> with it.",
+      "<color=magic>Zephyr</color> is in there, but we'll need something that can shatter the crystal. Let's explore a bit.",
+      "So... how do we capture wind?",
+      "Leave it to me.",
+      "That’s it for us, then. I hope the others are okay...",
+      "It looks like a <color=magic>hexagonal object</color> would fit in here.",
+      "It looks like a <color=magic>triangular object</color> would fit in here."
+    ]
+  }
+}

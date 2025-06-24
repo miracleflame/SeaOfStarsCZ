@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "InfiniteAbyss_EN",
+  "locCategoryId": "InfiniteAbyssEntrance/InfiniteAbyss",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Opatrně...",
+      "Přiživovač je tady. Cítím to taky.",
+      "Bude mi ctí asistovat vám při očistě.",
+      "Zale?",
+      "Jo, blíží se!",
+      "Konečně...",
+      "Dokázali jsme to, Valerie! I bez zatmění!",
+      "Tato moc... Ani na okamžik jsem nepochybovala, že to dokážeme...",
+      "A to, co jsme cítili, když Garla zasáhla ta kletba, myslím, že už rozumím, jak to ovládat.",
+      "Taky to cítím. Jsme připraveni.",
+      "Na řadě je Měsíc?",
+      "Společně.",
+      "Neuvěřitelné..."
+    ]
+  }
+}

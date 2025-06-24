@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "InfiniteAbyssEntrance_WorldMap2_EN",
+  "locCategoryId": "InfiniteAbyssEntrance/InfiniteAbyssEntrance_WorldMap2",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Rozvinutím své skutečné moci mohou nyní [MAINCHAR] a [OFFCHAR] létat na mapě světa.",
+      "Pohybujte se pomocí <button=MoveAll> a stiskněte <button=Interact\"> pro vzlet nebo přistání na volném povrchu.",
+      "Nyní můžete prozkoumávat dříve nepřístupné oblasti.",
+      "Až se budete cítit připraveni, čeká vás Karnimantův zámek a závěrečný střet."
+    ]
+  }
+}

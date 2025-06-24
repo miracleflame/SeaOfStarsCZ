@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "QueensThrone_EN",
+  "locCategoryId": "QueensThrone/QueensThrone",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Tohle je ono... Trůn <color=bad>Královny, jež byla</color>...",
+      "...",
+      "Takže tu není?",
+      "Ale ano, jistěže tu je.",
+      "Jste připraveni?",
+      "Na tvůj povel.",
+      "Konečně zaplatila za svou zradu...",
+      "Děkuji vám, přátelé.",
+      "Beze všeho.",
+      "Uvnitř trosek byly detekovány slavné dýky z legendy.",
+      "Doporučená akce: Přivlastnit a vyzbrojit se nimi.",
+      "Ty jo, tak tyhle by se mi hodily.",
+      "Nic tu pro nás nezbylo. Veďte nás.",
+      "Vrátit se do Azurové pustiny?",
+      "Ano",
+      "Ne"
+    ]
+  }
+}

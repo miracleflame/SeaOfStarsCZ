@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Tower1_EN",
+  "locCategoryId": "SacrosanctSpireIsland/Tower1",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Svatosakrální věže... Už je to tak dávno.",
+      "Musím to správně naladit. Chvíli sečkejte.",
+      "<color=magic>Magie Pěvců</color>... To není možné...",
+      "Vy jste si myslel, že jsem mladší než vy, Velký alchymisto?",
+      "...",
+      "Chápu-li to správně, nikdy předtím jste na tento svět nezavítal.",
+      "Měl bych vás o tom <color=bad>kultu</color> varovat. Jeho vznik-",
+      "My už si s tím, co nás čeká, poradíme. Stejně to jinak nejde.",
+      "Tak tedy pokračujme."
+    ]
+  }
+}

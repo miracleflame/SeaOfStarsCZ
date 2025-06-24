@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "SunkenRuins_BossLair_EN",
+  "locCategoryId": "SunkenRuins/SunkenRuins_BossLair",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Prázdno.",
+      "Nic tam není...",
+      "Haló, jste tam? Jaký to mělo celé smysl?",
+      "...",
+      "Taková ztráta času.",
+      "Velký alchymista měl jistě dobrý důvod, proč nás sem zavedl. Snad aby se zbavil této hrozby?",
+      "On to měl prostě celou dobu u sebe!?",
+      "Nepřestane mě překvapovat!",
+      "...",
+      "Pojďme prostě dál.",
+      "Vypadá to, že jsou potřeba nějaké tři klíče."
+    ]
+  }
+}

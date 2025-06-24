@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "AirElementalSkyland_EN",
+  "locCategoryId": "Skylands/AirElementalSkyland",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Máte představu, co to je?",
+      "Precizně opracovaný krystal. Jeho energie odpovídá té, kterou obsahuje Zephyr.",
+      "Lze jej použít k rozbití toho druhého?",
+      "Bezpochyby, jenomže se ani nehne.",
+      "...",
+      "...předpokládám, že bych mohl extrahovat esenci a frekvenci...",
+      "Zale, máš nějaký magický předmět s pořádnou rukojetí?",
+      "Hmmm...",
+      "Co třeba Korálové kladivo?",
+      "Uvidíme.",
+      "Tumáš. Tohle bude fungovat.",
+      "Díky, Resh'ane!",
+      "Korálové kladivo bylo vylepšeno. Nyní s ním můžete <color=magic>rozbíjet modré krystaly</color>.",
+      "<color=magic>Zephyr</color> je uvnitř, ale budeme potřebovat něco, co dokáže rozbít krystal. Pojďme to tu trochu prozkoumat.",
+      "Takže... jak zachytíme vítr?",
+      "Nech to na mně.",
+      "Tak to je za nás všechno. Doufám, že ostatní jsou v pořádku...",
+      "Zdá se, že by se sem vešel <color=magic>šestiboký objekt</color>.",
+      "Zdá se, že by se sem vešel <color=magic>trojboký objekt</color>."
+    ]
+  }
+}

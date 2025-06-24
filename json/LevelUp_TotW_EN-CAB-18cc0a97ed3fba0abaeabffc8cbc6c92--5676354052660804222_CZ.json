@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "LevelUp_TotW_EN",
+  "locCategoryId": "Totw/LevelUp_TotW",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Dámy a pánové, připravte se žasnout, neboť do města dorazila nová trupa!",
+      "Jejich věhlas roste, proto, milé publikum, ať váš potlesk burácí jako hrom a pozvedne jim ducha!",
+      "A teď hleďte, jak rozmar artistické inspirace mezi nimi víří a plane!",
+      "Opona se na chvíli spouští, ale nermuťte se — opět se shledáme pod reflektory manéže!",
+      "Maximální věhlas? Ó, bravo, vy moje báječné hvězdy!",
+      "Vzlétli jste, oslnili jste a zanechali jste svou stopu na světě!",
+      "Leč i ten nejvelkolepější výstup jednou končí. Kouzlo nevyprchá, ale světla už pomalu pohasínají.",
+      "Tleskejme ještě naposledy těm jedinečným a neopakovatelným...",
+      "Šílené Trupě!!!"
+    ]
+  }
+}

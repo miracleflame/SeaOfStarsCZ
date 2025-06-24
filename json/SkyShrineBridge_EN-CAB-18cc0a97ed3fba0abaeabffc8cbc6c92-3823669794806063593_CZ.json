@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "SkyShrineBridge_EN",
+  "locCategoryId": "SkyShrine/SkyShrineBridge",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Ta svatyně, cos viděl, je to ta věc támhle?",
+      "Ano, tím jsem si jistý.",
+      "Tímto způsobem se dostaneme k těm, kteří nám umožní přístup k Moři hvězd.",
+      "Je mimo náš dosah...",
+      "Bylo v tvé vizi něco o tom, jak se k ní dostat?",
+      "Já...",
+      "Ani ne, jen v hloubi duše vím, že máme vše, co potřebujeme.",
+      "Valerie?",
+      "Cesty na vodě...",
+      "Hm??",
+      "To bylo něco, Valerie!",
+      "Docela působivé. Jak tě tohle napadlo?",
+      "Věštec přílivů a odlivů... říkal, že mohu \"napravit spojení.\"",
+      "A teď se po tom můžeme projít! Jdeme na to!"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Worldmap_EN",
+  "locCategoryId": "Totw/Worldmap",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Thank you for saving my train, it's so good to have it back. And I see you have a ticket for the Ivory Towers!",
+      "A Were-Ticket? I suppose we're headed to Wolf Rock, then!",
+      "The Puppeteer has summoned you to the Big Top?",
+      "Welcome, champions, it's always good to see you.",
+      "The engine's raring to go. Want to hop aboard?",
+      "Yes",
+      "No",
+      "Please present your Silken Ticket.",
+      "Please present your Were-Ticket.",
+      "Please present your Ticket-Tocket.",
+      "Meanwhile, at the The Puppeteer's Big Top...",
+      "All aboard the Hoop Hopper Express!"
+    ]
+  }
+}

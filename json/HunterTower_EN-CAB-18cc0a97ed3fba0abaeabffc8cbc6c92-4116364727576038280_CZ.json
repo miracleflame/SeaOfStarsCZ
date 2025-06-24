@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "HunterTower_EN",
+  "locCategoryId": "SacrosanctSpireIsland/HunterTower",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Jako ryby v sudu. Hehehe...",
+      "Pusť nás ven!",
+      "Obávám se, že to nepůjde, Repotačko.",
+      "(...)",
+      "(Ten skleněný je opravdu zvláštní...)",
+      "Slyšels ji! Pusť nás, nebo...!",
+      "Hehehe...",
+      "Nebo co? Současný <color=bad>Triumvirát Eminence</color> po staletí nikdo neohrozil.",
+      "Myslíte si, že vy nuzáci máte šanci nás vystrnadit?",
+      "Už jsme překonali i horší věci.",
+      "Hehehe...",
+      "Tak si překonejte tohle!",
+      "...",
+      "Do žaláře s váma.",
+      "Takhle to dopadá vždycky. Hehehe...",
+      "*nesrozumitelné*",
+      "Zvukotěsná bariéra. Moje kouzla ji neprolomí.",
+      "Tenhle není kultista. Možná nám pomůže, když ho osvobodíme.",
+      "Konečně na svobodě! Děkuji vám, laskaví cizinci.",
+      "Moje větrná magie vám snad pomůže uniknout ze žaláře. Tudy.",
+      "Kodex mě nutí opustit Věže, ale na tento dluh nezapomenu.",
+      "Šťastnou cestu!",
+      "Dvakrát mě neoblafnete.",
+      "Doufejme, že otvírací mechanismus je tímto směrem..."
+    ]
+  }
+}

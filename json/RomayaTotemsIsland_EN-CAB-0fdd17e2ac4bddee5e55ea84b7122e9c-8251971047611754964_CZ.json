@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "RomayaTotemsIsland_EN",
+  "locCategoryId": "RomayaTotemsIsland/RomayaTotemsIsland",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Uzavřeno tajemnou silou...",
+      "Tyto <color=magic>runy</color>... Nejspíš se bez nápovědy nedostaneme daleko.",
+      "Bažina na ostrově Mesa. Mohli bychom se zkusit zeptat nekromantčiny sestry.",
+      "Dobrý nápad."
+    ]
+  }
+}

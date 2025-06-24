@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "FishingLake_2_EN",
+  "locCategoryId": "Totw/FishingLake_2",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Threw my Warlock Figurine in the lake, yes I did! Fishing's way more fun, anyway.",
+      "I made a special magnet to fish it out, but I'll only share it with a master angler.",
+      "Still haven't caught all species of Goodie Bags? Come on, there's only four of them!",
+      "You did it! Here, as promised.",
+      "May it bring you joy and luck."
+    ]
+  }
+}

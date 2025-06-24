@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Forest_EN",
+  "locCategoryId": "Totw/Forest",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Ain't no train in sight, huh?",
+      "It’s got to be here somewhere.",
+      "Wind’s rising, isn’t it?",
+      "Behind us!",
+      "RUN!",
+      "Dunno about y'all, but I've about had it with this train!",
+      "You're up, Valtraid. On the double!",
+      "Train Suplex",
+      "A resounding success!",
+      "Aye, Farduš should be able to drive you around now.",
+      "If ye need us, we'll be at the local tavern."
+    ]
+  }
+}

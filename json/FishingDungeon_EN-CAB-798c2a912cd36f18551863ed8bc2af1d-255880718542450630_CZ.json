@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "FishingDungeon_EN",
+  "locCategoryId": "FishingDungeonisland/FishingDungeon",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Zamčeno.",
+      "Hoooyyy!",
+      "No, no, no, podívejme, co se vám povedlo!",
+      "Zdravíčko, pane! Promiňte, já jenom, že jsem dostal tenhle...",
+      "Klid, synku. Tenhle rozhovor vedu já.",
+      "Jestli něco vím jistě, pak že potřebujete <color=magic>Háček času</color>, abyste se sem dostali.",
+      "A jestli vím jistě ještě něco, pak to, že Háček času jen tak nerozdávaj kdekomu.",
+      "Prostě jsem oň požádal, vážně.",
+      "Jistě.",
+      "Hele, já to chápu, taky jsem se musel vrátit. Jde o to, že tě museli mít hodně rádi.",
+      "No, tak to nevím.",
+      "Zapomnětlivý typ, co? Fajn, beru.",
+      "O co přesně jsi požádal?",
+      "Chtěl jsem jen povečeřet s přáteli u <color=location>Zlatého pelikána</color> ve Svěžíně.",
+      "Vážně?",
+      "Tak tohle úplně mění věc, že ano?",
+      "Znáte to tam?",
+      "Jestli znám? Sám jsem to vybudoval.",
+      "Opravdu!?",
+      "<color=good>Šéfkuchař Okoun</color>, k vašim službám.",
+      "To se mi zdá! Vy jste šéfkuchař?",
+      "Na mou duši.",
+      "Takže... Můžeme si dát tu večeři?",
+      "Asi by to bylo pěkné zklamání, kdybych v tuhle chvíli řekl ne, co?",
+      "Ty a tví přátelé jste oficiálně zvaní. Kolik lidí se zúčastní?",
+      "Kolik nás může být?",
+      "Je to tvé přání, synku. To mi řekni ty.",
+      "Haha, tohle je síla!",
+      "Dobře, tak se na to podíváme. Určitě jsme tu všichni...",
+      "Plus Malkomud, Teaks a piráti...",
+      "Jo a vsadím se, že Moraine se taky ukáže!",
+      "Bylo by nás dvanáct, jestli by to šlo.",
+      "Jak je libo.",
+      "Pecka! A co dál, prostě se objevíme u Zlatého pelikána?",
+      "Přesně tak. A pak dáš tohle <color=good>Gasparovi</color>.",
+      "Jsem nadšením bez sebe! Díky, šéfe Okoune.",
+      "S radostí.",
+      "Za touto sochou je klíčová dírka ve tvaru ryby.",
+      "Hele! To je klíč!",
+      "To svítící je klíč. Stačí ho jen 'chytit'!"
+    ]
+  }
+}

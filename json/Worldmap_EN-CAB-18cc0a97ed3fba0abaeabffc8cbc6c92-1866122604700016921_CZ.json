@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Worldmap_EN",
+  "locCategoryId": "Totw/Worldmap",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Děkuji, že jste zachránili můj vlak, je skvělé mít ho zpátky. A koukám, že máte jízdenku do Slonovinových věží!",
+      "Vlkodenka? Tak to míříme na Vlčí Skálu, co?",
+      "Loutkářka vás povolala do Šapitó?",
+      "Vítejte, šampioni, vždycky vás rád vidím.",
+      "Lokomotiva už netrpělivě funí. Naskočíte?",
+      "Ano",
+      "Ne",
+      "Předložte, prosím, svou Hedvábnou jízdenku.",
+      "Předložte, prosím, svou Vlkodenku.",
+      "Předložte, prosím, svou Tiktadenku.",
+      "Mezitím, v Šapitó Loutkářky...",
+      "Všichni nastupovaat na palubu Hup-hop expresu!"
+    ]
+  }
+}

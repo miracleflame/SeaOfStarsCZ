@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "QuizMinigameDialog_EN",
+  "locCategoryId": "QuizMinigameDialog",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Dobrýý večééér všem a vítejte v Quiz Show, kde bude dnešním soutěžícím [MAINCHAR]!",
+      "A je to tu zas, pouze dnes večer je s náma [MAINCHAR] na chvilku vědomostního soutěžení!",
+      "Vítejte všichni na dnešní akci, ve které nebude účinkovat nikdo jiný než [MAINCHAR]!",
+      "Tato odpověď je SPRÁVNÁ!",
+      "Přesně tak!",
+      "Bod pro tebe, [MAINCHAR]!",
+      "O-ou! Máme tu ŠPATNOU odpověď!",
+      "Óó, bohužel to není to, co jsme chtěli slyšet.",
+      "Nesprávně!",
+      "Zdá se, že vám došly pokusy. Děkujeme za účast ve hře!",
+      "No, jde vám to! Tady máte nějakou drobnost za ten působivý výkon.",
+      "Dobře, další otázka!",
+      "Dobře, zkusíme tuhle!",
+      "Teď pozorně poslouchejte!",
+      "Aha, tohle je snadné!",
+      "[TeaksAnswerText]",
+      "Chcete si zahrát?",
+      "Ano",
+      "Ne",
+      "A máme vítěze! Gratulujeme!",
+      "[QuestionText]",
+      "[ChoiceText1]",
+      "[ChoiceText2]",
+      "[ChoiceText3]",
+      "Chcete hrát znovu?",
+      "Ano",
+      "Možná později",
+      "Aaaaaa HRAJEME! Jak sami uvidíte, je to velmi jednoduché. Položím vám několik otázek a vy se na ně posnažíte co nejlépe odpovědět. Pokud vyhrajete, získáte cenu!",
+      "No, a je tu také něco jako 'přítel na telefonu', ale s tím vás nechám experimentovat po svém!",
+      "Máme tu pár <color=magic>balíčků otázek</color>, ale proslýchá se, že jich je ještě víc! Pokud nějaké najdete, určitě mi je <color=magic>přineste</color> a zahrajeme si, jo?",
+      "Dobrá, tak to je pro dnešek všechno! Díky za účast ve hře a uvidíme se S VÁMA příště!",
+      "To je vše, přátelé! [MAINCHAR] má za sebou všechny balíčky otázek a je oficiálně MISTREM LORU!!!",
+      "Získali jste hlavní cenu. Gratulujeme!",
+      "Děkujeme za účast ve hře a pokud si budete chtít vyzkoušet některý z balíčků znovu, neváhejte se zastavit!"
+    ]
+  }
+}

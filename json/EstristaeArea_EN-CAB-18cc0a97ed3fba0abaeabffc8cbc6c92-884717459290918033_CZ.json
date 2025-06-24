@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "EstristaeArea_EN",
+  "locCategoryId": "SacrosanctSpireIsland/EstristaeArea",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Dokázali jsme to.",
+      "Á...  Tohle měl být asi spouštěcí mechanismus?",
+      "Rachater...",
+      "B'ste, nešlo by to nějak jinak?",
+      "...",
+      "Ustupte stranou.",
+      "Dobrá práce, B'ste!",
+      "Podařilo se?",
+      "Ano. Rychlodráhová síť by měla být opět v provozu.",
+      "Odsud se rychle dostaneme do jakékoliv jiné stanice, včetně té na <color=location>Vesmírné základně</color>.",
+      "Páni, to byl teda fofr!",
+      "Ahoj, Teaks.",
+      "Nazdárek, tak jak se vám daří?",
+      "Docela dobře, ale před chvílí nás opustil Resh'an.",
+      "Cože? Vždyť stojí přímo támhle!",
+      "To je jen prázdná loutka. Skutečný Resh'an je pryč.",
+      "Celkem děsivé, ale i dost zajímavé.",
+      "Jé, ahoj!",
+      "To je Živoucí sklo!",
+      "Ráda tě poznávám, já jsem Teaks.",
+      "Potěšení je na mé straně. Jmenuji se B'st.",
+      "No, takže, jen se tak porozhlížím po Repotu a najednou se otevře tahle kabina.",
+      "To jste udělali vy?",
+      "B'st nahodil proud. Teď můžeme odjet na Vesmírnou základnu.",
+      "Fakt? Tak to se k vám přidám--To MUSÍM vidět!",
+      "Musíme jet na Vesmírnou základnu. Rychlodráha by už měla být v provozu."
+    ]
+  }
+}

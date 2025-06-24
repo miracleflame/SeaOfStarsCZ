@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "NecromancerLair_EN",
+  "locCategoryId": "WraithIsland/NecromancerLair",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Takže to vy jste způsobili takový rozruch...",
+      "!!!",
+      "A co vás přivádí do mého nádherného sídla?",
+      "Přiživovačka zaklela našeho přítele. Hledáme kámen duší.",
+      "Vážně?",
+      "Asi čekáte, že vám ho jen tak dám, že?",
+      "Já mám lepší nápad!",
+      "Co kdybyste se vy tři přidali do mé armády... <color=bad>natrvalo</color>?",
+      "Ani náhodou!",
+      "No to se podívejme, vy berete zdvořilou řečnickou otázku zcela vážně...",
+      "Vpadli jste sem bez pozvání a způsobili jste nenapravitelné škody na mém majetku, ne snad?",
+      "Myslím, že byste mi to měli spravedlivě vynahradit.",
+      "Nebuď si tím tak jistá, tihle dva jsou vycvičení Bojovníci Slunovratu!",
+      "Ha! Tak toto je čím dál tím zajímavější!",
+      "Vy jste jako ti rádoby Solena a Luan, kteří si mysleli, že budou povzneseni, když mě porazí?",
+      "Co?",
+      "Na tom nezáleží, stejně jako teď na vás.",
+      "Tak tedy začněme. A nedělejte si starosti, dlouho mrtví nezůstanete!",
+      "(Gah)",
+      "(Děti, přísahám, že...)",
+      "(Přece neumřu kvůli hloupému šutru!)",
+      "...",
+      "Vzdávám se... prozatím.",
+      "Tady máte ten váš kámen duší.",
+      "A teď odsud zmizte!",
+      "...",
+      "My...",
+      "CO JEŠTĚ CHCETE!?",
+      "Taky potřebujeme zelený plamen, jinak nás Převozník nevezme zpátky...",
+      "(...)",
+      "Přeci... chceš, abychom odešli, ne?",
+      "(Taková drzost...)",
+      "(TAKOVÁ NESTYDATOST!!!)",
+      "Vemte si láhev z mého stolu a pak VYPADNĚTE Z MÉHO POZEMKU!",
+      "Prozatím jste měli štěstí, ale pokud se znovu setkáme, nebude to pouze souboj tří proti jedné.",
+      "Tří proti jedné? Vždyť jsi vzkřísila-",
+      "VYPADNĚTE!!!",
+      "Dobrá, získali jsme kámen duší! Doufejme, že není příliš pozdě.",
+      "Vydrž Garle, už jdeme.",
+      "Stiskněte <button=\"Zrušit\"> pro vrh Zaháku.",
+      "Dokáže se přichytit na zachytávací body, nepřátele a šplhatelné povrchy.",
+      "Stiskněte <button=\"Zrušit\"> pro vrh Zaháku.",
+      "Dokáže se přichytit na zachytávací body, nepřátele a šplhatelné povrchy."
+    ]
+  }
+}

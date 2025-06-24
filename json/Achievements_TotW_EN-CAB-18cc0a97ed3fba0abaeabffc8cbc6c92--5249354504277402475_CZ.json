@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Achievements_TotW_EN",
+  "locCategoryId": "Achievements_TotW",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Markízta",
+      "Odemkněte všechny dovednosti a komba pro cirkusové třídy",
+      "Karnevalový kulinář",
+      "Ukuchtěte alespoň jednou každý z pěti receptů Horloge",
+      "Dozaklínáno",
+      "Poražte všechny Kotoučové šampiony v Horloge",
+      "Nepřekonaný div",
+      "Obsaďte nejvyšší příčku ve všech třech minihrách Horloge",
+      "Zmechanizováno",
+      "Poražte Přiživovače soužení",
+      "Cožpak to chce býti?",
+      "Staňte se svědkem tajné vize",
+      "Muka hodinářky",
+      "Trofeje z DLC Muka hodinářky"
+    ]
+  }
+}

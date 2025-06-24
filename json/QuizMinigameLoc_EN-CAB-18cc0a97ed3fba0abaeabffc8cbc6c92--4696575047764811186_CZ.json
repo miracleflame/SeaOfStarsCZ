@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "QuizMinigameLoc_EN",
+  "locCategoryId": "QuizMinigameLoc",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Balíček otázek #1",
+      "Balíček otázek #2",
+      "Balíček otázek #3",
+      "Balíček otázek #4",
+      "Balíček otázek #5",
+      "Balíček otázek #6",
+      "Balíček otázek #7",
+      "Balíček otázek #8",
+      "Balíček otázek #9",
+      "Balíček otázek #10",
+      "Balíček otázek #11",
+      "Zavolat Teaks (zbývá [CALLS_REMAINING]) <button=\"Player_GameMenu\">",
+      "Návštěvník",
+      "Expert",
+      "Návštěvník nebo Expert?",
+      "Který balíček si zahrajeme?"
+    ]
+  }
+}

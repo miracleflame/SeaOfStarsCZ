@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Characters_Totw_EN",
+  "locCategoryId": "Characters_Totw",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Pif",
+      "Pouf",
+      "<color=#528fce>Pif</color><color=#7880a0> & </color><color=#ff5c5b>Pouf</color>",
+      "<color=#7DDBFF>Valere</color><color=#637181> & </color><color=#FCA044>Zale</color>",
+      "Fardush",
+      "The Puppeteer",
+      "Monsieur Tendu",
+      "Narcis King",
+      "Feral Queen",
+      "Juggler",
+      "Acrobat",
+      "Barma'thazël",
+      "Genius Engineer",
+      "Hannah",
+      "Throes of the Watchmaker",
+      "Carnival Clerk",
+      "Attendant of Amusements",
+      "Kiosk Curator",
+      "Junior Deputy of Detention",
+      "Gilded Gleamwarden",
+      "Herald of High Importance"
+    ]
+  }
+}

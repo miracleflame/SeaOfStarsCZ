@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Characters_Totw_EN",
+  "locCategoryId": "Characters_Totw",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Pif",
+      "Puf",
+      "<color=#528fce>Pif</color><color=#7880a0> a </color><color=#ff5c5b>Puf</color>",
+      "<color=#7DDBFF>Valerie</color><color=#637181> a </color><color=#FCA044>Zale</color>",
+      "Farduš",
+      "Loutkářka",
+      "Monsieur Nervé",
+      "Král narcisů",
+      "Nezkrotná královna",
+      "Žonglér",
+      "Akrobat",
+      "Barma'thazël",
+      "Geniální inženýr",
+      "Hana",
+      "Muka Hodinářky",
+      "Pokladník karnevalu",
+      "Obsluha atrakcí",
+      "Provozovatel kiosku",
+      "Mladší zástupce bachaře",
+      "Dozorce Zlatětřpit",
+      "Herold nejvyšší vážnosti"
+    ]
+  }
+}

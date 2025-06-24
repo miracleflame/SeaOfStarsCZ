@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "LevelUp_TotW_EN",
+  "locCategoryId": "Totw/LevelUp_TotW",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Ladies and gentlemen, prepare to be astounded, for there is a new troupe in town!",
+      "Their renown has increased, so please, dear audience, let your applause rise like thunder and lift their spirits high!",
+      "And now, behold, as the whimsicality of artistic inspiration quickens amongst them!",
+      "The curtain falls for now, but fret not, we shall meet again under the grand lights of the ring!",
+      "Maximum renown? Why, bravo, my marvelous stars!",
+      "You have dazzled, you have soared, and you have left your mark upon the world!",
+      "But every grand performance must come to a close. While the wonder will never fade, it is time for the lights to dim.",
+      "Let's hear it one last time for the one, the only....",
+      "Terrific Troupe!!!"
+    ]
+  }
+}

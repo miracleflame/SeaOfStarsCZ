@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "SacredGrove_EN",
+  "locCategoryId": "WatcherIsland/SacredGrove",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "That's our altar.",
+      "So the seashell goes here, and...",
+      "That did it, I can feel the magic!",
+      "You can now explore underwater sections by entering <color=magic>whirlpools</color>!"
+    ]
+  }
+}

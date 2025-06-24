@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "FishingLake_2_EN",
+  "locCategoryId": "Totw/FishingLake_2",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Hodil jsem svou figurku Zaklínače do jezera, ano, vážne! Rybáření je stejně větší zábava.",
+      "Sestrojil jsem speciální magnet, abych ji vylovil, ale půjčím ho jen Mistrovi rybáření.",
+      "Pořád jste nechytili všechny druhy Dárkových pytlíčků? No tak, vždyť jsou jen čtyři!",
+      "Dokázali jste to! Tady máš, jak bylo slíbeno.",
+      "Kéž ti přinese radost a štěstí."
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "FerrymanOutpost_EN",
+  "locCategoryId": "WraithIsland/FerrymanOutpost",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?",
+      "S Převozníkem se těžko domlouvá. Nechte to na mně.",
+      "*Ehm*…",
+      "Buď zdráv Převozníku, těší nás. Pravda, přez vody nám pomůžeš snáz.",
+      "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!",
+      "My… nevíme, jakou barvu plamene hledáš, avšak spěcháme a dosti hrozný cíl je náš.",
+      "Nuže mi musíte své otázky položiti, až pak já informace vám mohu svěřiti.",
+      "…",
+      "Hele, musíme se rychle dostat do Doupěte nekromantky, nemůžeš nám prostě říct, jakou barvu potřebuješ?",
+      "Prosím, omluv mé nepochopení, zdá se, že ses spletla při mluvení.",
+      "…",
+      "*Ehm*…",
+      "Znalče, čo neznámé vody mostí, zaveď nás tam, kde jsou stěny z kostí.",
+      "Říkáš tam, kde jsou stěny z kostí? Toť cesta mnohýma oplakaná dosti.",
+      "Však zdá se, že vy pospýcháte, jinak život v nouzi promrháte.",
+      "Zeleným plamenem mě obdaříte, a až pak vy snad stěn kosti zříte.",
+      "Na takovou podmínku nelze přistoupit… Přijal bys platbu pozdější z této koupy?",
+      "Nepřijatelné jsou tyto vaše podmínky, jelikož směr určujou zelené plamínky.",
+      "Na tohle nemáme čas!",
+      "…",
+      "Šetřila jsem si ji na něco jiného, ale nedáváš mi na výběr.",
+      "A teď své slovní hříčky zahoď a ten svůj zelený plamen nahoď!",
+      "(!!!)",
+      "(Mince nemrtvé úmluvy!?!)",
+      "Jakožto nemrtvý jsem přinucen mincí směnnou, uplacen na cestu pouze jednosměrnou.",
+      "Rychle, až budeme mít kámen duší, pak můžeme řešit, jak se dostat zpátky.",
+      "Zdravím vás, vy dobrodružní. Hledáte průchod přes vody zradní?",
+      "Pak mi barevný plamen ukažte, nebo z tohoto místa hned mažte!",
+      "Nadechněte vzduch noci svěží, jdem ke<color=location>Zpola potopené věži</color>",
+      "Nestraťte rozum 'ni obranu hbitou, poplujem teď na <color=location>Zatopený hřbitov</color>."
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Wheels_EN",
+  "locCategoryId": "Wheels",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Lukostřelec",
+      "Vrah",
+      "Kněz",
+      "Stavitel",
+      "Čaroděj",
+      "Válečník",
+      "<button=\"AdvanceTime\"> Roztočit",
+      "<button=\"Interact\"> Upevnit / Uvolnit",
+      "<button=\"MoveHorizontal\"> Prohlížet Hrdiny",
+      "<button=\"UI_Confirm\"> Potvrdit",
+      "<button=\"UI_Back\"> Zpět",
+      "Vítězství",
+      "Porážka",
+      "Remíza",
+      "H1 zvítězil",
+      "H2 zvítězil",
+      "Čeká se na připojení hráče...",
+      "Pokračovat",
+      "Ukončit hru"
+    ]
+  }
+}

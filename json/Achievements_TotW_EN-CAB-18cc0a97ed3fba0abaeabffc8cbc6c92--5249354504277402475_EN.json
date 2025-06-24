@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Achievements_TotW_EN",
+  "locCategoryId": "Achievements_TotW",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Marquee Star",
+      "Unlock all skills and combos for circus classes",
+      "Carnival Culinarian",
+      "Cook each of the five Horloge recipes at least once",
+      "Warlocked",
+      "Beat all of Horloge's Wheels champions",
+      "Unrivaled Wonder",
+      "Earn top rank in all three of Horloge's minigames",
+      "Clockworkn't",
+      "Defeat Dweller of Scourge",
+      "What doth it meanst?",
+      "Bear witness to the secret vision",
+      "Throes of the Watchmaker",
+      "Trophies for Throes of the Watchmaker DLC"
+    ]
+  }
+}

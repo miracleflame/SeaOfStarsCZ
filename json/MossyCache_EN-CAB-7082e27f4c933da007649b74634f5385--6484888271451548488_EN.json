@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "MossyCache_EN",
+  "locCategoryId": "WatcherIsland/MossyCache",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "That's the vial! Let's take it to Resh'an."
+    ]
+  }
+}

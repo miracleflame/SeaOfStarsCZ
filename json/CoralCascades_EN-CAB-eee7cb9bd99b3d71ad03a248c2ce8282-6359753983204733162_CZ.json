@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "CoralCascades_EN",
+  "locCategoryId": "SleeperIsland/CoralCascades",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Eh, málokdy mě tu někdo navštíví. Omluvte ten nepořádek. ",
+      "Přístavní město Svěžín <sprite=\"dialog-generic-icons\" name=\"arrow-east\"> ",
+      "Hledáte loď? Vydejte se do přístavního města Svěžín a vyhledejte posádku kapitánky Klii'šaë!",
+      "Bárka, loď, bárka, loď, bárka, loď, bárka, loď, Svěžín!",
+      "Tady není žádná loď. Raději se vydejte do Svěžína na východě!",
+      "Jestli hledáte loď, už jste skoro tam.",
+      "Najděte nás v přístavu ve Svěžíně!"
+    ]
+  }
+}

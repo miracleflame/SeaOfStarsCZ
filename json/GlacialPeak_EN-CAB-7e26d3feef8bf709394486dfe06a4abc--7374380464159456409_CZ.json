@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "GlacialPeak_EN",
+  "locCategoryId": "MesaIsland/GlacialPeak",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "Ať už se vám to podařilo jakkoliv, jste pěkně hloupí, že se tu ukazujete.",
+      "Hloupí, a ještě k tomu bez šance na útěk!",
+      "Vaši kolegové si už na drsňáky hrát zkoušeli, nepodali vám snad hlášení?",
+      "No, ti jsou mi teda od rány!",
+      "Od rány, a ještě k tomu namyšlení!",
+      "Tak pojďte!",
+      "Argh! Jen jste měli štěstí. Příště vyhrajeme my.",
+      "Uf... uf... Vyhrajeme, a ještě k tomu to oslavíme!",
+      "A už se nevracejte!",
+      "Blížíme se, cítím to.",
+      "Tak jdem.",
+      "Tolik energie...",
+      "Je to stejný druh síly jako...",
+      "Jak se odsud dostaneme?",
+      "Ten led by se dal rozpustit, ale Nebeská runa je zničená...",
+      "??",
+      "Nyní můžete měnit čas dne pomocí <button=AdvanceTime> a <button=RewindTime> bez nutnosti stát na Nebeské runě.",
+      "Fíha! Takže teď tohle můžete dělat, kdykoliv chcete?",
+      "Ten amulet velmi silně rezonuje s naší magií.",
+      "Máme to, co potřebujeme. Vraťme se k Resh'anovi.",
+      "Teleportovat se do Archivu?",
+      "Ano",
+      "Ne"
+    ]
+  }
+}

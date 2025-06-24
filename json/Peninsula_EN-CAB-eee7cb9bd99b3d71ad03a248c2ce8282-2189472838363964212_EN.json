@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2350011159297838977
+  },
+  "m_Name": "Peninsula_EN",
+  "locCategoryId": "SleeperIsland/Peninsula",
+  "language": 0,
+  "strings": {
+    "Array": [
+      "And then he went, “Behold the pain of everlasting sin!” and turned into some half-something form with a beautiful face blowing softly on an apple with feathered wings.",
+      "What happened next?",
+      "Chugged about twenty-six of the elixirs we had been saving for later, and eventually we won.",
+      "Huzzah!",
+      "A valiant battle!",
+      "Get ready, we jump on the next flash.",
+      "Orders, Captain?",
+      "Keep the villagers safe until our return.",
+      "Can do, will do!",
+      "Safe journeys, Captain!",
+      "With everything happening, it seems there will never be time to explain, so...",
+      "Please don't tell my crew.",
+      "Seraï, we already knew...",
+      "!?!",
+      "Then why didn't you say anything?",
+      "You're clearly on our side, it's all that matters.",
+      "Whatever your reasons are, they must be good.",
+      "And thanks for spending the coin to save me, by the way!",
+      "I...",
+      "We agreed to let you keep your secret, but it's good to see you finally trust us.",
+      "...",
+      "I'm sorry, I should have...",
+      "It's okay, we're a team now.",
+      "So you understand claiming The Vespertine won't be as easy as we thought.",
+      "Yup! And it just so happens we owe you one, so all the better.",
+      "...",
+      "Thank you.",
+      "NOW!"
+    ]
+  }
+}
