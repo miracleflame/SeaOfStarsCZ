@@ -21,7 +21,7 @@
    [3]
     1 string data = "<color=#7DDBFF>Valerie</color><color=#637181> a </color><color=#FCA044>Zale</color>"
    [4]
-    1 string data = "Farduš"
+    1 string data = "Fardush"
    [5]
     1 string data = "Loutkářka"
    [6]

@@ -33,9 +33,9 @@
    [9]
     1 string data = "(Hele, je tam ještě něco dalšího.)"
    [10]
-    1 string data = "(Je to dárek! Stojí tu “Pro Farduše.”)"
+    1 string data = "(Je to dárek! Stojí tu “Pro Fardushe.”)"
    [11]
-    1 string data = "(Kdo je Farduš?)"
+    1 string data = "(Kdo je Fardush?)"
    [12]
     1 string data = "(Nech to zatím být. Musíme makat na tom vylepšení.)"
    [13]
@@ -111,7 +111,7 @@
    [48]
     1 string data = "Já jsem mimochodem Arty."
    [49]
-    1 string data = "Rád tě poznávám, Arty. Já jsem Farduš."
+    1 string data = "Rád tě poznávám, Arty. Já jsem Fardush."
    [50]
     1 string data = "(Aha, ten dárek je pro něj!)"
    [51]

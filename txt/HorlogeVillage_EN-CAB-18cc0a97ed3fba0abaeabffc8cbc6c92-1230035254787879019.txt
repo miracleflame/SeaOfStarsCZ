@@ -155,7 +155,7 @@
    [70]
     1 string data = "Je fajn být zase venku, co?"
    [71]
-    1 string data = "Farduši, musíme si pospíšit."
+    1 string data = "Fardushi, musíme si pospíšit."
    [72]
     1 string data = "Jo, tvoje dvojčata! Budeme potřebovat můj vlak."
    [73]
@@ -197,7 +197,7 @@
    [91]
     1 string data = "(Alright, alright...)"
    [92]
-    1 string data = "Uh, excuse me, Farduš?"
+    1 string data = "Uh, excuse me, Fardush?"
    [93]
     1 string data = "I have a gift for you."
    [94]
@@ -267,7 +267,7 @@
    [126]
     1 string data = "Zale?"
    [127]
-    1 string data = "Farduš is waiting at the station. Are you ready to go?"
+    1 string data = "Fardush is waiting at the station. Are you ready to go?"
    [128]
     1 string data = "Zale! Are you coming?"
    [129]
@@ -393,7 +393,7 @@
    [189]
     1 string data = "(Okay, fine!)"
    [190]
-    1 string data = "Anyway, Farduš’s probably waiting for us."
+    1 string data = "Anyway, Fardush’s probably waiting for us."
    [191]
     1 string data = "Ready to go, Arty?"
    [192]
@@ -499,7 +499,7 @@
    [242]
     1 string data = "<sprite="dialog-generic-icons" name="arrow-north">  Rail Forest"
    [243]
-    1 string data = "Help wanted. My train was lost in the Rail Forest. Call Farduš."
+    1 string data = "Help wanted. My train was lost in the Rail Forest. Call Fardush."
    [244]
     1 string data = "Want to buy ticket to Ivory Towers. Call Villager."
    [245]
@@ -589,7 +589,7 @@
    [287]
     1 string data = "All that time spent watching the elevator really paid off, I saw our Creator walking in first!  But now that I think about it, maybe I should have said hi..."
    [288]
-    1 string data = "We locked the gate when Farduš lost his train. Can't have people venturing on the rails on foot!"
+    1 string data = "We locked the gate when Fardush lost his train. Can't have people venturing on the rails on foot!"
    [289]
     1 string data = "The gate's reopened. We can finally ride the train again!"
    [290]
@@ -641,7 +641,7 @@
    [313]
     1 string data = "Pif and Pouf are easily, without a shadow of a doubt, in every way, shape and form, downright, two of the minions of The Puppeteer."
    [314]
-    1 string data = "Farduš's back in town, huh? Will he be getting his train back?"
+    1 string data = "Fardush's back in town, huh? Will he be getting his train back?"
    [315]
     1 string data = "It got pretty scary when Monsieur Tendu showed up. But now we can play Wheels again, so, today is a good day, all things considered."
    [316]
@@ -687,7 +687,7 @@
    [336]
     1 string data = "It's a day to celebrate! I'll gather all of my friends!"
    [337]
-    1 string data = "Farduš is organizing a sightseeing trip! Where should we go first?"
+    1 string data = "Fardush is organizing a sightseeing trip! Where should we go first?"
    [338]
     1 string data = "It's like Horloge itself let out a sigh of relief. Everything feels lighter already!"
    [339]
