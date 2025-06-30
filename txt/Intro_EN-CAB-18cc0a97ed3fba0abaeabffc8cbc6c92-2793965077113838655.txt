@@ -111,9 +111,9 @@
    [48]
     1 string data = "Jak?"
    [49]
-    1 string data = "Pokud jsou mé odhady správné, její činy z ní dělaj <event="Ovat"><anim=rainbow>Ovata</anim>."
+    1 string data = "Pokud jsou mé odhady správné, její činy z ní dělaj <event="Ovat"><anim=rainbow>Ovatku</anim>."
    [50]
-    1 string data = "Ovata?"
+    1 string data = "Ovatku?"
    [51]
     1 string data = "Ano. Ačkoli jejich časy jsou dávno pryč, říká se, že obzvláště nadaní řemeslníci mohou stále dosáhnout této hodnosti díky pouhému instinktu a odhodlání."
    [52]
@@ -219,7 +219,7 @@
    [102]
     1 string data = "Aha? A proč si myslíte, že já mám takovou pravomoc?"
    [103]
-    1 string data = "Víme, že jsi Ovat."
+    1 string data = "Víme, že jsi Ovatka."
    [104]
     1 string data = "Opravdu?"
    [105]
