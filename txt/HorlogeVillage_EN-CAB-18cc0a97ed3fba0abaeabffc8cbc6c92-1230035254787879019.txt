@@ -43,7 +43,7 @@
    [14]
     1 string data = "Nemůžeme prostě jen–"
    [15]
-    1 string data = "Vidím tu dva, z nichž budou fantastická dvojčata!"
+    1 string data = "Vidím tu dva, z nichž budou fantastickí dvojníci!"
    [16]
     1 string data = "Budou senzacionálne fenomenální!"
    [17]
@@ -107,11 +107,11 @@
    [46]
     1 string data = "Stvoření s nejmenším sebepoznáním, jaké jsem kdy viděl!"
    [47]
-    1 string data = "Jejich dvojčata budou Král a Královna!"
+    1 string data = "Jejich dvojníci budou Král a Královna!"
    [48]
     1 string data = "Ale no tak, je tohle opravdu nutné?"
    [49]
-    1 string data = "Už takhle dost trpíme. Žádná další dvojčata!"
+    1 string data = "Už takhle dost trpíme. Žádní další dvojníci!"
    [50]
     1 string data = "Kdy nám tihle začali odporovat, Pife?"
    [51]
@@ -129,7 +129,7 @@
    [57]
     1 string data = "Šťouráš se mi v mozkových závitech, Pife!"
    [58]
-    1 string data = "Na příkaz Loutkářky budou tihle dva Bojovníci Slunovratu přeměněni na dvojčata."
+    1 string data = "Na příkaz Loutkářky budou tihle dva Bojovníci Slunovratu přeměněni na dvojníky."
    [59]
     1 string data = "To vám nedovolíme!"
    [60]
@@ -157,7 +157,7 @@
    [71]
     1 string data = "Fardushi, musíme si pospíšit."
    [72]
-    1 string data = "Jo, tvoje dvojčata! Budeme potřebovat můj vlak."
+    1 string data = "Jo, vaši dvojníci! Budeme potřebovat můj vlak."
    [73]
     1 string data = "Tvůj vlak?"
    [74]

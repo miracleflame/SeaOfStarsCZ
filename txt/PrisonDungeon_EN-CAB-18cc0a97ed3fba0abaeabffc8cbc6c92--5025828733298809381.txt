@@ -141,7 +141,7 @@
    [63]
     1 string data = "A přece je to tak."
    [64]
-    1 string data = "Jiná cesta není. Buď přistoupíte na pravidla hry, nebo vás pohltí vaše zlá dvojčata."
+    1 string data = "Jiná cesta není. Buď přistoupíte na pravidla hry, nebo vás pohltí vaši zlí dvojníci."
    [65]
     1 string data = "Potřebujete jen najít způsob boje, který sedne vaší přirozenosti."
    [66]
