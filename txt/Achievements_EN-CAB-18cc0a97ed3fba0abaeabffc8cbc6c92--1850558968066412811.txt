@@ -133,7 +133,7 @@
    [59]
     1 string data = "Přineste všechny ulity k Mirně v Dokarrijské osadě"
    [60]
-    1 string data = "Mistr rybáření"
+    1 string data = "Mistr rybaření"
    [61]
     1 string data = "Chyťte alespoň jednu z každého druhu ryb"
    [62]

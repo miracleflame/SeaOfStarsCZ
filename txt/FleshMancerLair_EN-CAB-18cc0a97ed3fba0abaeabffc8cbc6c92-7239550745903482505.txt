@@ -17,9 +17,9 @@
    [1]
     1 string data = "Není tu žádná brána... Zdá se, že chce, abychom vstoupili."
    [2]
-    1 string data = "Dobrá."
+    1 string data = "Tím snadnější pro nás."
    [3]
-    1 string data = "Vtrhneme si na zámek, co?"
+    1 string data = "Vzali jste náš zámek útokem, co?"
    [4]
     1 string data = "Je konec. Ustup."
    [5]
@@ -53,7 +53,7 @@
    [19]
     1 string data = "Vaše mysli... to nezvládnou..."
    [20]
-    1 string data = "Dokázali jste to."
+    1 string data = "Tak jste tady."
    [21]
     1 string data = "Gratuluji, byli jste docela na obtíž."
    [22]
@@ -97,7 +97,7 @@
    [41]
     1 string data = "Copak nás nepoznáváš?"
    [42]
-    1 string data = "Poznávám slunovratovou havěť... Havěť, která musí být vyhubena."
+    1 string data = "Poznávám slunovratskou havěť... Havěť, která musí být vyhubena."
    [43]
     1 string data = "Ona je úplně mimo..."
    [44]
@@ -195,7 +195,7 @@
    [90]
     1 string data = "Vsaď se."
    [91]
-    1 string data = "Dokázali jste to."
+    1 string data = "Tak jste tady."
    [92]
     1 string data = "Gratuluji, byli jste docela na obtíž."
    [93]

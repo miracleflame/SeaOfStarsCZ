@@ -59,9 +59,9 @@
    [22]
     1 string data = "Každopádně je tu mezi náma případ s těžkým steskem."
    [23]
-    1 string data = "Ale vopravdu TĚŽKÝM. Kápo v sobě nosí tolik smutku, že by to utopilo i samotný oceán."
+    1 string data = "Ale vopravdu TĚŽKÝM. Kápo v sobě nosí tolik smutku, že by to utopilo i samotnej oceán."
    [24]
-    1 string data = "Zdá se, že jste ho již potkali. Býval to ňáký šlechtic."
+    1 string data = "Zdá se, že jste ho už potkali. Býval to ňáký šlechtic."
    [25]
     1 string data = "Vévoda Aventry?"
    [26]
@@ -77,13 +77,13 @@
    [31]
     1 string data = "Nenapadá tě, kde by ten předmět mohl být?"
    [32]
-    1 string data = "S jistotou můžu říct jedine to, že musí být na místě, které je mu drahé, jinak by to pouto nefungovalo."
+    1 string data = "S jistotou můžu říct jedině to, že musí být na místě, které je mu drahé, jinak by to pouto nefungovalo."
    [33]
-    1 string data = "To není nic moc jako vodítko..."
+    1 string data = "To jako vodítko není nic moc..."
    [34]
-    1 string data = "No, zdá se, že nekromantka není zrovna pečlivý typ."
+    1 string data = "No, zdá se, že nekromantka není zrovna pečlivej typ."
    [35]
-    1 string data = "Posádka ji viděla vcházet do ňáké tajné skříše. Možná tam ukrývá něco významného."
+    1 string data = "Posádka ji viděla vcházet do ňáký tajný skrýše. Možná tam ukrývá něco významnýho."
    [36]
     1 string data = "Pokud máte zájem tomu ubožákovi pomoci, Yolanda zná další podrobnosti."
    [37]

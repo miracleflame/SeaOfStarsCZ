@@ -141,7 +141,7 @@
    [63]
     1 string data = "Co myslíš, co bylo v nejtemnějších zákoutích jejich myslí, Pufe?"
    [64]
-    1 string data = "Jsem napjatý zvědavostí jak gumová slepice v továrně na peři, Pife!"
+    1 string data = "Jsem napjatý zvědavostí jak gumová slepice v továrně na peří, Pife!"
    [65]
     1 string data = "*Uf, uf*... Tohle vám neprojde..."
    [66]
@@ -155,73 +155,73 @@
    [70]
     1 string data = "Je fajn být zase venku, co?"
    [71]
-    1 string data = "Fardushi, musíme si pospíšit."
+    1 string data = "Farduši, máme naspěch."
    [72]
     1 string data = "Jo, vaši dvojníci! Budeme potřebovat můj vlak."
    [73]
     1 string data = "Tvůj vlak?"
    [74]
-    1 string data = "It’s the only way to get around in this world, especially with the two new areas that just appeared..."
+    1 string data = "V tomto světě jediný způsob dopravy, zvlášť když se tu teď objevily dvě nové oblasti..."
    [75]
-    1 string data = "Well, then, let’s see it!"
+    1 string data = "No tak jdem!"
    [76]
     1 string data = "..."
    [77]
-    1 string data = "Is there a problem, brave conductor?"
+    1 string data = "Je něco v nepořádku, statečný strojvedoucí?"
    [78]
-    1 string data = "Well, it’s..."
+    1 string data = "No, věc se má tak..."
    [79]
-    1 string data = "When they caught me they also hexed my train and... It left the rails..."
+    1 string data = "Když mě chytili, tak mi k tomu prokleli vlak a... ten si vyjel mimo koleje..."
    [80]
-    1 string data = "(Tell him we can fix it!)"
+    1 string data = "(Řekni mu, že ho zvládnem opravit!)"
    [81]
-    1 string data = "(That’s not the issue.)"
+    1 string data = "(O to tady nejde.)"
    [82]
-    1 string data = "It's somewhere in Rail Forest, to the north. I can feel it."
+    1 string data = "Je kdesi v Železničním lese na severu. Cítím to."
    [83]
-    1 string data = "You could probably deal with the monsters out there, but alas..."
+    1 string data = "Tamější monstra byste pravděpodobně vyřídit mohli, ale naneštěstí..."
    [84]
-    1 string data = "The Puppeteer also took the key, so even with my train back, we'd be stuck here all the same."
+    1 string data = "Loutkářka navíc ukradla klíč, takže bychom stejně zůstali vězet tady i s vlakem."
    [85]
-    1 string data = "(I think that’s our cue for the gift that was in the Watchmaker’s box.)"
+    1 string data = "(To bude signál pro nás, ať mu dáme ten dárek z Hodinářčiny krabičky.)"
    [86]
-    1 string data = "(Let’s wait and see for now.)"
+    1 string data = "(Zatím počkáme a uvidíme.)"
    [87]
-    1 string data = "*ahem*"
+    1 string data = "*ehm*"
    [88]
-    1 string data = "The Puppeteer also took the key, so even with my train back, we'd be stuck here all the same."
+    1 string data = "Loutkářka navíc ukradla klíč, takže bychom stejně zůstali vězet tady i s vlakem."
    [89]
-    1 string data = "(Yeah, I think Toe was right.)"
+    1 string data = "(Jo, myslím, že Toe měl pravdu.)"
    [90]
-    1 string data = "(Just act normal, okay? No big intro!)"
+    1 string data = "(Prostě se chovej normálně, dobře? Žádný velký úvod!)"
    [91]
-    1 string data = "(Alright, alright...)"
+    1 string data = "(Jasně, jasně...)"
    [92]
-    1 string data = "Uh, excuse me, Fardush?"
+    1 string data = "Uh, promiňte, Fardushi?"
    [93]
-    1 string data = "I have a gift for you."
+    1 string data = "Mám pro vás dárek."
    [94]
-    1 string data = "Oh? Why, thank you! May I open it now?"
+    1 string data = "Oh? Děkuji ti! Můžu ho otevřít hned?"
    [95]
-    1 string data = "Of course!"
+    1 string data = "Samozřejmě!"
    [96]
-    1 string data = "The prophecies were true! It's from our Creator!"
+    1 string data = "Proroctví se naplnila! Je to od naší Stvořitelky!"
    [97]
-    1 string data = "How did she know? This is EXACTLY what I wanted!"
+    1 string data = "Jak to věděla? Tohle je PŘESNĚ to, co jsem chtěl!"
    [98]
-    1 string data = "And that is?"
+    1 string data = "A to má bejt?"
    [99]
-    1 string data = "A duplicate key, no less!"
+    1 string data = "Nic jiného než kopie mého klíče!"
    [100]
-    1 string data = "Well, now we're only missing my train! Whenever you're ready, Rail Forest is to the north."
+    1 string data = "No, teď už nám schází jen můj vlak! Až budete připraveni, Železniční les je severně odsud."
    [101]
-    1 string data = "Just make sure you're well equipped before heading out. Holorge's got all manners of shops and minigames!"
+    1 string data = "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Holorge najdete všelijaké stánky a minihry!"
    [102]
-    1 string data = "Whenever you're ready, Rail Forest is to the north."
+    1 string data = "Až budete připraveni, Železniční les je severně odsud."
    [103]
-    1 string data = "Just make sure you're well equipped before heading out. Holorge's got all manners of shops and minigames!"
+    1 string data = "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Holorge najdete všelijaké stánky a minihry!"
    [104]
-    1 string data = "Well, maybe not “tonight only”, and more like “until this whole thing gets resolved”."
+    1 string data = "No, možná ne “jen na tenhle večer”, ale spíš “než se celá tahle věc vyřeší”."
    [105]
     1 string data = "Anyway, this next song’s ‘bout that time Valtraid suplexed a train, which happened some twenty minutes ago. Hit it!"
    [106]
