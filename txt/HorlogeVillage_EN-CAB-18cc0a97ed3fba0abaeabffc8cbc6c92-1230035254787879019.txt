@@ -197,7 +197,7 @@
    [91]
     1 string data = "(Jasně, jasně...)"
    [92]
-    1 string data = "Uh, promiňte, Fardushi?"
+    1 string data = "Uh, promiňte, Farduši?"
    [93]
     1 string data = "Mám pro vás dárek."
    [94]
