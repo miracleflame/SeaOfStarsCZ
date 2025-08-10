@@ -155,7 +155,7 @@
    [70]
     1 string data = "Je fajn být zase venku, co?"
    [71]
-    1 string data = "Farduši, máme naspěch."
+    1 string data = "Fardushi, máme naspěch."
    [72]
     1 string data = "Jo, vaši dvojníci! Budeme potřebovat můj vlak."
    [73]
@@ -215,11 +215,11 @@
    [100]
     1 string data = "No, teď už nám schází jen můj vlak! Až budete připraveni, Železniční les je severně odsud."
    [101]
-    1 string data = "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Holorge najdete všelijaké stánky a minihry!"
+    1 string data = "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Horloge najdete všelijaké stánky a minihry!"
    [102]
     1 string data = "Až budete připraveni, Železniční les je severně odsud."
    [103]
-    1 string data = "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Holorge najdete všelijaké stánky a minihry!"
+    1 string data = "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Horloge najdete všelijaké stánky a minihry!"
    [104]
     1 string data = "No, možná ne “jen na tenhle večer”, ale spíš “než se celá tahle věc vyřeší”."
    [105]
@@ -489,257 +489,257 @@
    [237]
     1 string data = "(A simple message won't reach that far. We need a prophecy…)"
    [238]
-    1 string data = "Howdy, travelers! Need anything for the journey ahead?"
+    1 string data = "Zdravím, cestovatelé! Potřebujete něco na cestu před vámi?"
    [239]
-    1 string data = "A fine troupe deserves fine lodgings! Will you be staying the night?"
+    1 string data = "Taková skvělá trupa si zaslouží skvělé ubytování! Zůstanete přes noc?"
    [240]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [241]
-    1 string data = "No"
+    1 string data = "Ne"
    [242]
-    1 string data = "<sprite="dialog-generic-icons" name="arrow-north">  Rail Forest"
+    1 string data = "<sprite="dialog-generic-icons" name="arrow-north">  Železničný les"
    [243]
-    1 string data = "Help wanted. My train was lost in the Rail Forest. Call Fardush."
+    1 string data = "Hledám pomoc. Můj vlak se ztratil v Železničném lesu. Volejte Fardushe."
    [244]
-    1 string data = "Want to buy ticket to Ivory Towers. Call Villager."
+    1 string data = "Koupím lístek do Slonovinových věží. Volejte Vesničana."
    [245]
-    1 string data = "Want to sell ticket to Ivory Towers. Call Villager."
+    1 string data = "Prodám lístek do Slonovinových věží. Volejte Vesničana."
    [246]
-    1 string data = "Looking for barber that can recreate Feral Queen's haircut. Call Villager."
+    1 string data = "Hledám holiče, který umí napodobit účes Nezkrotné královny. Volejte Vesničana."
    [247]
-    1 string data = "Help wanted for the big parade. Meet in Sundial Square."
+    1 string data = "Hledám pomoc na velký průvod. Sraz na Náměstí slunečních hodin."
    [248]
-    1 string data = "Hey, weren't you sent to the Oubliettes? No one's ever escaped before!"
+    1 string data = "Hele, nebyli jste uvrženi do Zapomnění? Nikdo odtamtud nikdy neutekl!"
    [249]
-    1 string data = "I got my ticket to visit Narcis King's towers. Will you be going too?"
+    1 string data = "Mám lístek na návštěvu věží Krále narcisů. Pojedete taky?"
    [250]
-    1 string data = "Everything went dark all of a sudden. It was kind of whimsical, actually!"
+    1 string data = "Najednou se všechno ponořilo do tmy. Vlastně to bylo docela výstřední!"
    [251]
-    1 string data = "What!? How did you manage to find tickets to the Big Top? No one's ever been invited before!"
+    1 string data = "Cože!? Jak se vám podařilo sehnat lístky do Šapitó? Nikdo tam nikdy nebyl pozván!"
    [252]
-    1 string data = "You've defeated The Puppeteer? Does this mean we're free now?"
+    1 string data = "Vy jste porazili Loutkářku? Znamená to, že jsme teď volní?"
    [253]
-    1 string data = "It was just a normal day, but then two entirely new areas appeared! These are strange times we're living in..."
+    1 string data = "Byl celkem obyčejný den, a pak se objevily dvě úplně nové oblasti! Žijeme v podivné době..."
    [254]
-    1 string data = "The shop's inventory keeps expanding. Make sure you've got the latest before heading out!"
+    1 string data = "Nabídka obchodu se neustále rozšiřuje. Ujistěte se, že máte to nejnovější, než vyrazíte!"
    [255]
-    1 string data = "The shop's inventory keeps expanding. Make sure you've got the latest before heading out!"
+    1 string data = "Nabídka obchodu se neustále rozšiřuje. Ujistěte se, že máte to nejnovější, než vyrazíte!"
    [256]
-    1 string data = "The shop's inventory keeps expanding. Make sure you've got the latest before heading out!"
+    1 string data = "Nabídka obchodu se neustále rozšiřuje. Ujistěte se, že máte to nejnovější, než vyrazíte!"
    [257]
-    1 string data = "No more Puppeteer. Now that, I can live with."
+    1 string data = "Loutkářka je pryč. S tímto už dokážu žít."
    [258]
-    1 string data = "Rail Forest? It's north of town, through the train station here. "
+    1 string data = "Železničný les? Je to na sever od města, přes tady to nádraží."
    [259]
-    1 string data = "I'm worried about the people who took a ticket. Something about this Narcis King doesn't feel right... "
+    1 string data = "Mám obavy o lidi, co si vzali lístek. Na tom Králi narcisů něco není pořádku..."
    [260]
-    1 string data = "I was lucky enough to dodge the attack, but they scratched my favorite spot to stand on!"
+    1 string data = "Měl jsem štěstí a vyhnul se útoku, ale poškrábali mi mé oblíbené místo na stání!"
    [261]
-    1 string data = "Are you really going to face The Puppeteer? I doubt you can do it, but you do you."
+    1 string data = "Chystáte se opravdu postavit Loutkářce? Pochybuju, že to zvládnete, ale to je vaše věc."
    [262]
-    1 string data = "The Puppeteer's been defeated! I knew you could do it!"
+    1 string data = "Loutkářka byla poražena! Věděl jsem, že to dokážete!"
    [263]
-    1 string data = "Some people are saying that the big device in Sundial Square contains a secret, but I think it's just a myth!"
+    1 string data = "Někteří lidé říkají, že velké zařízení na Náměstí slunečních hodin skrývá tajemství, ale já myslím, že je to jen mýtus!"
    [264]
-    1 string data = "Some people are saying that the big device in Sundial Square contains a secret, but I think it's just a myth!"
+    1 string data = "Někteří lidé říkají, že velké zařízení na Náměstí slunečních hodin skrývá tajemství, ale já myslím, že je to jen mýtus!"
    [265]
-    1 string data = "Some pretty scary things have been happening lately. You stay safe, alright?"
+    1 string data = "V poslední době se dějí dost děsivé věci. Dávejte na sebe pozor, ano?"
    [266]
-    1 string data = "Have you found all of the Time Runes yet?"
+    1 string data = "Našli jste už všechny Časové runy?"
    [267]
-    1 string data = "Have you found all of the Time Runes yet?"
+    1 string data = "Našli jste už všechny Časové runy?"
    [268]
-    1 string data = "Oh, I've never seen you around here before! Are you competing in the minigames?"
+    1 string data = "Hm, ještě jsem vás tady neviděl! Soutěžíte v minihrách?"
    [269]
-    1 string data = "I got my ticket! Narcis King has so much class, I can't wait to see the place!"
+    1 string data = "Mám svůj lístek! Král narcisů má tolik stylu, už se nemůžu dočkat, až to uvidím!"
    [270]
-    1 string data = "I saw everything! Do you think the Feral Queen is stronger than Monsieur Tendu?"
+    1 string data = "Viděl jsem všechno! Myslíte, že je Nezkrotná královna silnější než Monsieur Nervé?"
    [271]
-    1 string data = "Big Top? I hear the place is really spooky!"
+    1 string data = "Šapitó? Slyšel jsem, že tam je pořádně strašidelno!"
    [272]
-    1 string data = "Thanks for your help, but to be honest, I kind of miss the action."
+    1 string data = "Díky za pomoc, ale popravdě mi ta akce trochu chybí."
    [273]
-    1 string data = "We used to live in peace before The Puppeteer came. The streets were filled with laughter..."
+    1 string data = "Žili jsme v míru, než přišla Loutkářka. Ulice byly plné smíchu..."
    [274]
-    1 string data = "You'd think we had enough to worry about already, but now a king?"
+    1 string data = "Mysleli byste, že už máme starostí dost, a teď ještě král?"
    [275]
-    1 string data = "Are you going to Wolf Rock? Better be careful..."
+    1 string data = "Chystáte se na Vlčí skálu? Dávejte si pozor..."
    [276]
-    1 string data = "A private invitation? I hope you know what you're doing..."
+    1 string data = "Soukromá pozvánka? Doufám, že víte, co děláte..."
    [277]
-    1 string data = "I never thought I'd see the day! Thank you, brave adventurers!"
+    1 string data = "Nikdy bych nevěřil, že se toho dne dočkám! Děkuji vám, stateční dobrodruzi!"
    [278]
-    1 string data = "Welcome to Horloge! Will your troupe be staying long?"
+    1 string data = "Vítejte v Horloge! Zůstane vaše družina dlouho?"
    [279]
-    1 string data = "Everyone's talking about Narcis King now! I should have left my post to catch the parade."
+    1 string data = "Teď všichni mluví o Králi Narcisů! Měl jsem opustit své stanoviště a jít se podívat na průvod."
    [280]
-    1 string data = "Feral Queen? I never should have accepted this job, I keep missing out on everything that happens!"
+    1 string data = "Nezkrotná královna? Neměl jsem tuto práci brát, pořád přicházím o všechno zajímavé!"
    [281]
-    1 string data = "And now an invitation to the Big Top? At this point I feel like everyone is just making things up to mock me."
+    1 string data = "A teď pozvánka do Šapitó? Připadá mi, že si teď všichni věci vymýšlejí jen proto, aby si ze mě dělali legraci."
    [282]
-    1 string data = "The heroes of Horloge! Always a reassuring sight."
+    1 string data = "Hrdinové Horloge! Vidět vás mě pokaždé ujistí."
    [283]
-    1 string data = "Oh, you're the ones who came down the elevator out in the plains! We all thought it was broken!"
+    1 string data = "Ah, vy jste ti, co přijeli výtahem z planin! Všichni jsme mysleli, že je rozbitý!"
    [284]
-    1 string data = "I don't like that Narcis King fella. Can't spell POSTER without POSER, that's what I always say!"
+    1 string data = "Nelíbí se mi ten Král narcisů. Bez PÓZERA není PLAKÁT, jak já vždycky říkám!"
    [285]
-    1 string data = "I did have werewolves on my bingo card, in fact."
+    1 string data = "Vlastně jsem měl vlkodlaky na své bingo kartě."
    [286]
-    1 string data = "So much has been happening lately, I'm losing track."
+    1 string data = "V poslední době se toho děje tolik, že ztrácím přehled."
    [287]
-    1 string data = "All that time spent watching the elevator really paid off, I saw our Creator walking in first!  But now that I think about it, maybe I should have said hi..."
+    1 string data = "Všechen ten čas strávený hlídáním výtahu se nakonec vyplatil, viděl jsem naši Stvořitelku jít jako první! Ale teď, když o tom přemýšlím, asi jsem měl pozdravit..."
    [288]
-    1 string data = "We locked the gate when Fardush lost his train. Can't have people venturing on the rails on foot!"
+    1 string data = "Zamkli jsme bránu, když Fardush ztratil svůj vlak. Nemůžeme dovolit lidem chodit po kolejích pěšky!"
    [289]
-    1 string data = "The gate's reopened. We can finally ride the train again!"
+    1 string data = "Brána je znovu otevřená. Konečně můžeme zase jezdit vlakem!"
    [290]
-    1 string data = "You have a ticket to Wolf Rock? Are you sure this is a good idea?"
+    1 string data = "Máte lístek na Vlčí skálu? Jste si jistí, že je to dobrý nápad?"
    [291]
-    1 string data = "Big Top? It's to the north, but I wouldn't recommend it."
+    1 string data = "Šapitó? Je to na sever, ale nedoporučoval bych tam chodit."
    [292]
-    1 string data = "Here to do some exploring? The train's all yours!"
+    1 string data = "Přišli jste prozkoumávat? Vlak je celý váš!"
    [293]
-    1 string data = "I haven't been to the Rail Forest in a long time. I hear there are monsters there now..."
+    1 string data = "Nebyl jsem v Železničném lese už dlouho. Slyšel jsem, že jsou tam teď příšery..."
    [294]
-    1 string data = "The train's back? We thought we'd lost it for good this time!"
+    1 string data = "Vlak je zpátky? Mysleli jsme, že tentokrát je ztracený nadobro!"
    [295]
-    1 string data = "It feels safe in here, at least..."
+    1 string data = "Aspoň že je tu uvnitř bezpečno..."
    [296]
-    1 string data = "At least it's not dark outside anymore."
+    1 string data = "Hlavně že už není venku tma."
    [297]
-    1 string data = "Congratulations on your spectacular show of force! Maybe I can take a trip to Big Top now."
+    1 string data = "Gratuluju k té skvělé ukázce síly! Možná si teď můžu udělat výlet do Šapitó."
    [298]
-    1 string data = "The town's alive again! Was it your doing?"
+    1 string data = "Město zase ožilo! To byla vaše práce?"
    [299]
-    1 string data = "I missed the announcement! Is it too late to get a ticket?"
+    1 string data = "Zmeškal jsem hlášení! Není už pozdě sehnat lístek?"
    [300]
-    1 string data = "Are the werewolves finally gone?"
+    1 string data = "Jsou ti vlkodlaci konečně pryč?"
    [301]
-    1 string data = "Everyone's talking about the big event. Do you really think you can defeat The Puppeteer? "
+    1 string data = "Všichni mluví o té velké události. Opravdu si myslíte, že dokážete porazit Loutkářku?"
    [302]
-    1 string data = "Thank you, you truly are a terrific troupe! We can move on from fear at last."
+    1 string data = "Děkuji vám, jste opravdu skvělá trupa! Konečně se můžeme zbavit strachu."
    [303]
-    1 string data = "I've always been fascinated by this contraption. Do you think the stories are true?"
+    1 string data = "Vždycky mě tohle zařízení fascinovalo. Myslíte, že jsou ty pověsti pravdivé?"
    [304]
-    1 string data = "(So there would be twelve of them...)"
+    1 string data = "(Takže by jich bylo dvanáct...)"
    [305]
-    1 string data = "(So there would be twelve of them...)"
+    1 string data = "(Takže by jich bylo dvanáct...)"
    [306]
-    1 string data = "(So there would be twelve of them...)"
+    1 string data = "(Takže by jich bylo dvanáct...)"
    [307]
-    1 string data = "Have you explored everything already?"
+    1 string data = "Už jste všechno prozkoumali?"
    [308]
-    1 string data = "All of this for an elevator...?"
+    1 string data = "Tohle všechno kvůli výtahu...?"
    [309]
-    1 string data = "Mom says I'm too young to play Wheels, but she didn't say anything about watching!"
+    1 string data = "Máma říká, že jsem na Kotouče moc malý, ale o koukání neřekla nic!"
    [310]
-    1 string data = "It's good to have the tavern back. Nothing like a good oil drink after a hard day's work. "
+    1 string data = "Je fajn mít zase hospodu. Není nad dobrý olejový drink po těžkém dni."
    [311]
-    1 string data = "Now THAT's music!"
+    1 string data = "Tak TOTO je hudba!"
    [312]
-    1 string data = "The Puppeteer is hands down, palpably, by far, as sure as eggs is eggs, one of the bad things that has happened to Horloge."
+    1 string data = "Ať se na to díváte jakkoliv, Loutkářka je bezpochyby, bezpodmínečně, jakože je nebe modré a tráva zelená, to nejhorží, co kdy Horloge potkalo."
    [313]
-    1 string data = "Pif and Pouf are easily, without a shadow of a doubt, in every way, shape and form, downright, two of the minions of The Puppeteer."
+    1 string data = "Pif a Puf jsou bez nejmenších pochyb, v každém ohledu a zcela jasně, dva z přisluhovačů Loutkářky."
    [314]
-    1 string data = "Fardush's back in town, huh? Will he be getting his train back?"
+    1 string data = "Fardush je zpátky ve městě, co? Dostane zpět svůj vlak?"
    [315]
-    1 string data = "It got pretty scary when Monsieur Tendu showed up. But now we can play Wheels again, so, today is a good day, all things considered."
+    1 string data = "Bylo to dost děsivé, když se objevil Monsieur Nervé. Ale teď můžeme zase hrát Kotouče, takže dnešek je všehovšudy dobrý den."
    [316]
-    1 string data = "I've never seen instruments such as these before. Fascinating!"
+    1 string data = "Nikdy předtím jsem takové instrumenty neviděl. Fascinující!"
    [317]
-    1 string data = "The train's up and running again? Finally, it's been too long since I went fishing at my favorite spot."
+    1 string data = "Vlak už zase jezdí? No konečně, už je to doba, co jsem byl naposled rybařit na svém oblíbeném místečku."
    [318]
-    1 string data = "Isn't the music amazing?"
+    1 string data = "Není ta hudba úžasná?"
    [319]
-    1 string data = "I waited for hours and couldn't get a ticket. I'm kind of jealous..."
+    1 string data = "Čekal jsem celé hodiny a lístek jsem nedostal. Trochu závidím..."
    [320]
-    1 string data = "I can't hear it when you keep talking! "
+    1 string data = "Neslyším ji, když pořád mluvíš!"
    [321]
-    1 string data = "My son wants to become either a pirate or a musician when he grows up. Imagine his delight!"
+    1 string data = "Můj syn se chce stát buď pirátem, anebo hudebníkem, až vyroste. Představte si, jak musí být nadšený!"
    [322]
-    1 string data = "Look, mom! Even the small octopus is playing music!"
+    1 string data = "Podívej, mami! I ta malá chobotnice hraje!"
    [323]
-    1 string data = "Wheels ain't for me. Everything just starts moving and before I can understand what's going on I've already lost."
+    1 string data = "Kotouče nejsou pro mě. Všechno se začne hýbat a než pochopím, co se děje, už jsem prohrál."
    [324]
-    1 string data = "Hey, don't ruin my hiding spot! Find your own!"
+    1 string data = "Hej, nekaz mi můj úkryt! Najdi si svůj!"
    [325]
-    1 string data = "With everything happening outside, I don't really feel like playing anymore..."
+    1 string data = "Při tom všem, co se venku děje, už se mi vlastně nechce hrát..."
    [326]
-    1 string data = "Are you okay? You seem pretty nervous..."
+    1 string data = "Jste v pořádku? Vypadáte dost nervózně..."
    [327]
-    1 string data = "Wolf Rock? No thanks."
+    1 string data = "Vlčí skála? To tedy ne."
    [328]
-    1 string data = "I almost got bitten by a werewolf earlier. That's enough to call in sick, right?"
+    1 string data = "Málem mě nedávno kousl vlkodlak. To se počítá jako důvod na neschopenku, ne?"
    [329]
-    1 string data = "I can't defeat this champion! I'll need to rethink my Wheels combo."
+    1 string data = "Nedokážu porazit toho šampiona! Budu muset přehodnotit svou kombinaci na Kotouče."
    [330]
-    1 string data = "Have you heard about the last Warlock figurine? Apparently someone tossed it in a lake. What a waste!"
+    1 string data = "Slyšeli jste o poslední figurce Zaklínače? Prý ji někdo hodil do jezera. Jaké plýtvání!"
    [331]
-    1 string data = "Good riddance to that Feral Queen! But it looks like we shouldn't celebrate just yet."
+    1 string data = "Ještě že je po té Nezkrotné královně! Ale vypadá to, že bychom ještě neměli slavit."
    [332]
-    1 string data = "I want to learn to play the concertina!"
+    1 string data = "Chci se naučit hrát na koncertinu!"
    [333]
-    1 string data = "I can speak from experience in saying that music really does help in keeping one's mind off of things!"
+    1 string data = "Z vlastní zkušenosti můžu říct, že hudba opravdu pomáhá člověku zapomenout na starosti!"
    [334]
-    1 string data = "The light came back! Is the Feral Queen gone?"
+    1 string data = "Světlo se vrátilo! Je Nezkrotná královna pryč?"
    [335]
-    1 string data = "Maybe I'll go visit the Ivory Towers now."
+    1 string data = "Možná se teď půjdu podívat do Slonovinových věží."
    [336]
-    1 string data = "It's a day to celebrate! I'll gather all of my friends!"
+    1 string data = "Dnes je den oslav! Seženu všechny své přátele!"
    [337]
-    1 string data = "Fardush is organizing a sightseeing trip! Where should we go first?"
+    1 string data = "Fardush pořádá výlet za památkami! Kam bychom měli jít jako první?"
    [338]
-    1 string data = "It's like Horloge itself let out a sigh of relief. Everything feels lighter already!"
+    1 string data = "Je to, jako by si samo Horloge oddechlo úlevou. Všechno je už teď lehčí!"
    [339]
-    1 string data = "It doesn't feel real yet, but this is it, we're free!"
+    1 string data = "Ještě to nepůsobí skutečně, ale je to tak – jsme svobodní!"
    [340]
-    1 string data = "Okay, but I'm playing Monsieur Tendu first!"
+    1 string data = "Dobře, ale první hraju jako Monsieur Nervé!"
    [341]
-    1 string data = "I'll take Pif."
+    1 string data = "Budu Pif."
    [342]
-    1 string data = "Okay, now you're Coggo!"
+    1 string data = "Dobře, tak jsi Coggo!"
    [343]
-    1 string data = "Dibs on Werwofmizquard!"
+    1 string data = "Zabírám Werwofmizquarda!"
    [344]
-    1 string data = "We should play Solstice Warriors going forward."
+    1 string data = "Odteď bychom měli hrát Bojovníky Slunovratu."
    [345]
-    1 string data = "And the game ends when the one trying to run away gets caught."
+    1 string data = "A hra končí, když je uprchlík chycen."
    [346]
-    1 string data = "I'll take Pouf."
+    1 string data = "Budu Puf."
    [347]
-    1 string data = "Then you're Quèshu!"
+    1 string data = "Tak to jsi Quèshu!"
    [348]
-    1 string data = "P'técass for me!"
+    1 string data = "P'técass je můj!"
    [349]
-    1 string data = "Okay! I'll be [MAINCHAR]."
+    1 string data = "Dobře! Já budu [MAINCHAR]."
    [350]
-    1 string data = "I've never gone inside the Oubliettes. Not that I'd want to!"
+    1 string data = "Nikdy jsem nešel dovnitř do Zapomění. Ne že bych chtěl!"
    [351]
-    1 string data = "I've never gone to the Rail forest. Not that I'd want to!"
+    1 string data = "Nikdy jsem nešel do Železničného lesa. Ne že bych chtěl!"
    [352]
-    1 string data = "I've never gone to the Ivory Towers. Not that I'd want to!"
+    1 string data = "Nikdy jsem nešel do Slonovinových věží. Ne že bych chtěl!"
    [353]
-    1 string data = "I've never gone to Wolf Rock. Not that I'd want to!"
+    1 string data = "Nikdy jsem nešel na Vlčí skálu. Ne že bych chtěl!"
    [354]
-    1 string data = "I've never gone to the Big Top. Not that I'd want to!"
+    1 string data = "Nikdy jsem nešel do Šapitó. Ne že bych chtěl!"
    [355]
-    1 string data = "I've never gone under Horloge to find the big mystery. Not that I'd want to!"
+    1 string data = "Nikdy jsem nešel pod Horloge hledat tu velkou záhadu. Ne že bych chtěl!"
    [356]
-    1 string data = "Tonight, we celebrate like never before!"
+    1 string data = "Dnes večer oslavíme jako nikdy předtím!"
    [357]
-    1 string data = "Let's dance like the stars are watching!"
+    1 string data = "Tancujme, jako by se dívaly hvězdy!"
    [358]
-    1 string data = "Flip, twirl, hooray!"
+    1 string data = "Kotrmelec, otočka, hurá!"
    [359]
-    1 string data = "I want to be a performer like you when I grow up!"
+    1 string data = "Až vyrostu, chci být artista jako vy!"
    [360]
-    1 string data = "No more hushed voices, and no more hurried steps! We are finally free!"
+    1 string data = "Žádné šeptání a žádné uspěchané kroky! Jsme konečně svobodní!"
    [361]
-    1 string data = "Thanks to you, everyone is celebrating again!"
+    1 string data = "Díky vám zase všichni slaví!"
    [362]
-    1 string data = "Fear isn't pulling the strings anymore. What a relief!"
+    1 string data = "Strach už netahá za nitky. Jaká úleva!"
    [363]
-    1 string data = "The tents stand tall, and the laughter rings true! It's finally over!"
+    1 string data = "Stany stojí vzpřímeně a smích zní upřímně! Je to konečně pryč!"
    [364]
     1 string data = "Hey l'parté est pogné icitte!"
    [365]
@@ -755,86 +755,86 @@
    [370]
     1 string data = "Chu imbibé."
    [371]
-    1 string data = "Welcome, wanderers of wonder! Are you here to attempt the Test of Strength? The Pole Vault skill is required."
+    1 string data = "Vítejte, poutníci divů! Jste tady, abyste podstoupili Zkoušku Síly? Potřebná je dovednost Skok o tyči."
    [372]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [373]
-    1 string data = "No"
+    1 string data = "Ne"
    [374]
-    1 string data = "Oh, hello! Have you come to play the Test of Balance? The Sunbalancing skill is required."
+    1 string data = "Ale ahoj! Přišli jste si zahrát Zkoušku Balansu? Potřebná je dovednost Slunbalanc."
    [375]
-    1 string data = "Unfortunately, you don't have the required skill yet. Please come back once your troupe has earned more renown."
+    1 string data = "Bohužel zatím nemáte potřebnou dovednost. Vraťte se, až vaše skupina získá větší renomé."
    [376]
-    1 string data = "Welcome, welcome! Want to try the Test of Balance?"
+    1 string data = "Vítejte, vítejte! Chcete zkusit Zkoušku Balansu?"
    [377]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [378]
-    1 string data = "No"
+    1 string data = "Ne"
    [379]
-    1 string data = "Good day to you! Are you here for the Test of Accuracy? To participate, one must know how to perform the Toubib Bim skill."
+    1 string data = "Přeji vám dobrý den! Jste tady kvůli Zkoušce Přesnosti? K účasti je potřeba umět dovednost Doktor Bim."
    [380]
-    1 string data = "Unfortunately, you don't have the required skill yet. Please come back once your troupe has earned more renown."
+    1 string data = "Bohužel zatím nemáte potřebnou dovednost. Vraťte se, až vaše skupina získá větší renomé."
    [381]
-    1 string data = "Step right up, talented travelers! Are you ready for the Test of Accuracy?"
+    1 string data = "Pojďte blíž, talentovaní cestovatelé! Jste připraveni na Zkoušku Přesnosti?"
    [382]
-    1 string data = "Yes"
+    1 string data = "Ano"
    [383]
-    1 string data = "No"
+    1 string data = "Ne"
    [384]
-    1 string data = "Well done, a fine effort indeed!"
+    1 string data = "Výborně, opravdu skvěle provedeno!"
    [385]
-    1 string data = "Now that was a performance to be proud of!"
+    1 string data = "To byl výkon, na který můžete být hrdí!"
    [386]
-    1 string data = "Truly magnificent! A spectacle worthy of legend!"
+    1 string data = "Skutečně velkolepé! Podívaná hodná legend!"
    [387]
-    1 string data = "Congratulations! Here's your reward!"
+    1 string data = "Gratuluji! Tady je vaše odměna!"
    [388]
-    1 string data = "Come back again, we're always open!"
+    1 string data = "Přijďte znovu, máme vždy otevřeno!"
    [389]
-    1 string data = "Want to play some <color=magic>Wheels</color>?"
+    1 string data = "Chcete si zahrát <color=magic>Kotouče</color>?"
    [390]
-    1 string data = "Casual game"
+    1 string data = "Nenáročná hra"
    [391]
-    1 string data = "Champion game"
+    1 string data = "Hra o šampiona"
    [392]
-    1 string data = "Versus player"
+    1 string data = "Proti spoluhráči"
    [393]
-    1 string data = "Maybe later"
+    1 string data = "Možná později"
    [394]
-    1 string data = "We can play Champion again, but you've already beaten me so there won't be any big reward this time."
+    1 string data = "Můžeme si znovu zahrát o šampiona, ale už jste mě porazili, takže tentokrát nebude žádná velká odměna."
    [395]
-    1 string data = "Whoa, a tie!"
+    1 string data = "Páni, remíza!"
    [396]
-    1 string data = "Hey, you won! Congratulations, here's your prize!"
+    1 string data = "Hej, vyhráli jste! Gratuluji, tady je vaše cena!"
    [397]
-    1 string data = "You won!"
+    1 string data = "Zvítězili jste!"
    [398]
-    1 string data = "I win!"
+    1 string data = "Zvítězil jsem!"
    [399]
-    1 string data = "Oh, quitting already?"
+    1 string data = "Cože, už to vzdáváte?"
    [400]
-    1 string data = "Sorry, we only play <color=magic>Wheels</color> with people who own the Warlock figurine. Come back when you have one!"
+    1 string data = "Promiňte, <color=magic>Kotouče</color> hrajeme jen s těmi, kdo vlastní figurku Zaklínače. Přijďte, až jednu budete mít!"
    [401]
-    1 string data = "Oh, you don't have a Warlock figurine? That's too bad."
+    1 string data = "Nemáte figurku Zaklínače? To je škoda."
    [402]
-    1 string data = "An ex-player got really mad after losing and decided to quit entirely and pick up <color=magic>fishing</color> instead. Imagine that!"
+    1 string data = "Jeden bývalý hráč byl po prohře tak naštvaný, že přestal hrát úplně a raději začal <color=magic>rybařit</color>. Představte si to!"
    [403]
-    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Mooncoin Belt"
+    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Klaunský nos (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Klaunský nos (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Opasek s měsíční mincí"
    [404]
-    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Heliacal Earrings"
+    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Klaunský nos (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Klaunský nos (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Heliakální náušnice"
    [405]
-    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Clown Nose (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Dielectric Coating"
+    1 string data = "<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-bronze"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Klaunský nos (x1)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-silver"> = <sprite="dialog-inventory-icons-totw" name="icn-inventory-totw-valuable"> Klaunský nos (x3)\n<sprite="dialog-inventory-icons-totw" name="minigame-score-medal-gold"> = <sprite="dialog-inventory-icons" name="icn-inventory-trinket"> Dielektrický nátěr"
    [406]
-    1 string data = "All teeth welcome, sweet ones especially!"
+    1 string data = "Vítáme všechny zuby, zvlášť ty hezké!"
    [407]
-    1 string data = "Welcome to Inked Souvenirs! Feel free to browse!"
+    1 string data = "Vítejte v Inkoustových suvenýrech! Klidně se rozhlédněte!"
    [408]
     1 string data = "Popcorn! Popcorn!"
    [409]
-    1 string data = "Not so fast, travelers! This box contains a gnarly battle challenge. I can't just let anyone in there... You'll have to prove yourselves first!"
+    1 string data = "Ne tak rychle, cestovatelé! Tahle bedna skrývá tvrdou bojovou výzvu. Nemůžu tam jen tak pustit každého... Nejprve se musíte prokázat!"
    [410]
-    1 string data = "You really want to try it, huh? Bring me a Certificate of Balloonery, and I'll step aside!"
+    1 string data = "Opravdu to chcete zkusit, co? Přineste mi Certifikát Balónářství a ustoupím!"
    [411]
-    1 string data = "Impressive! You must know what you're doing. I'll get out of your way, then."
+    1 string data = "Impozantní! Nejspíš víte, co děláte. Tak vám ustoupím."
    [412]
-    1 string data = "Amazing! I didn't know you had it in you!"
+    1 string data = "Úžasné! Nevěděl jsem, že to máte v sobě!"
