@@ -223,71 +223,71 @@
    [104]
     1 string data = "No, možná ne “jen na tenhle večer”, ale spíš “než se celá tahle věc vyřeší”."
    [105]
-    1 string data = "Anyway, this next song’s ‘bout that time Valtraid suplexed a train, which happened some twenty minutes ago. Hit it!"
+    1 string data = "Každopádně, ta další je vo tom, jak Valtraid popadl vlak a mrsknul s nim vo zem, což se stalo před nějakýma dvaceti minutama. Jedem!"
    [106]
-    1 string data = "Ready to face your evil twin?"
+    1 string data = "Připravena postavit se své zlé dvojnici?"
    [107]
-    1 string data = "I'm curious more than anything."
+    1 string data = "Jsem spíš zvědavá než cokoliv jiného."
    [108]
     1 string data = "I don’t know, I can picture yours being pretty gnarly."
    [109]
-    1 string data = "Hey!"
+    1 string data = "Hej!"
    [110]
-    1 string data = "Come quick, there’s an announcement!"
+    1 string data = "Pojďte rychle, probíhá oznámení!"
    [111]
-    1 string data = "For what?"
+    1 string data = "Oznámení čeho?"
    [112]
-    1 string data = "It’s... Well, you should see for yourself."
+    1 string data = "Je to... No, radši se podívejte sami."
    [113]
-    1 string data = "Hear ye, hear ye!"
+    1 string data = "Slyšte, slyšte!"
    [114]
-    1 string data = "Our beloved Narcis King hereby invites every and all subjects to marvel at his person."
+    1 string data = "Náš milovaný Narcisový král tímto zve veškeré své poddané, aby přišli obdivovat jeho osobu."
    [115]
-    1 string data = "(Narcis King...?)"
+    1 string data = "(Narcisový král...?)"
    [116]
-    1 string data = "Today only, tickets are free for all who dream of a chance to glance at the Ivory Towers’ succulent décor."
+    1 string data = "Pouze dnes jsou lístky zdarma pro všechny, kdo sní o příležitosti spatřit přepychovou výzdobu Slonovinových věží."
    [117]
-    1 string data = "Which, we can only assume, means every single one of you."
+    1 string data = "Což, jak můžeme jen předpokládat, se týká každého z vás."
    [118]
-    1 string data = "FORM A LINE, PEASANTS! Our great Narcis King will be paid his due respects!"
+    1 string data = "STOUPNĚTE SI DO FRONTY, VENKOVANÉ! Našemu skvělému Narcisovému králi se dostane náležité úcty!"
    [119]
-    1 string data = "Oh, I'll pay my respects alright."
+    1 string data = "No, já mu teprve ukážu úctu."
    [120]
     1 string data = "!!!"
    [121]
-    1 string data = "You... !?"
+    1 string data = "Ty... !?"
    [122]
-    1 string data = "One ticket, please."
+    1 string data = "Lístek, prosím."
    [123]
-    1 string data = "Of course! We will be expecting your visit, along with your compliments."
+    1 string data = "Samozřejmě! Budeme očekávat tvou návštěvu, spolu s tvými komplimenty."
    [124]
-    1 string data = "WE MARCH!"
+    1 string data = "POCHODEM CHOD!"
    [125]
-    1 string data = "Sounds like an annoying twin more than an evil one. Right, Zale?"
+    1 string data = "Tak tenhle dvojník bude spíš vlezlý než zlý. Že jo, Zale?"
    [126]
     1 string data = "Zale?"
    [127]
-    1 string data = "Fardush is waiting at the station. Are you ready to go?"
+    1 string data = "Fardush nás čeká na nádraží. Připraven vyrazit?"
    [128]
-    1 string data = "Zale! Are you coming?"
+    1 string data = "Zale! Tak jdeš?"
    [129]
-    1 string data = "I... yes..."
+    1 string data = "Já... ano..."
    [130]
-    1 string data = "(Narcis King...?)"
+    1 string data = "(Narcisový král...?)"
    [131]
-    1 string data = "Ahoy, welcome back!"
+    1 string data = "Ahoy, vítejte zpátky!"
    [132]
-    1 string data = "What happened here?"
+    1 string data = "Co se tady stalo?"
    [133]
-    1 string data = "Something wild, pal."
+    1 string data = "Něco divokýho, kamaráde."
    [134]
-    1 string data = "Why is everyone hiding?"
+    1 string data = "Proč se všichni schovávají?"
    [135]
-    1 string data = "It’s your evil twin, I’m afraid. Her followers have caused quite the stir."
+    1 string data = "Obávám se, že jde o tvou zlou dvojnici. Její kumpáni to tady obrátili vzhůru nohama."
    [136]
-    1 string data = "They referred to her as “Feral Queen.”"
+    1 string data = "Říkali jí “Nezkrotná královna.”"
    [137]
-    1 string data = "Feral Queen?"
+    1 string data = "Nezkrotná královna?"
    [138]
     1 string data = "Bit ov a pent-up anger issue, aye?"
    [139]
