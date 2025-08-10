@@ -13,86 +13,86 @@
   1 Array Array (42 items)
    0 int size = 42
    [0]
-    1 string data = "Do you think it's true? Of all the places to hide a Dweller..."
+    1 string data = "Myslíš, že je to pravda? Ze všech míst, kde schovat Přiživovače..."
    [1]
-    1 string data = "Monsieur Tendu's really powerful. We need more training."
+    1 string data = "Monsieur Nervé je opravdu mocný. Potřebujeme víc trénovat."
    [2]
-    1 string data = "We won't get far without Fardush's train."
+    1 string data = "Bez Fardushova vlaku se daleko nedostaneme."
    [3]
-    1 string data = "Valtraid really showed up."
+    1 string data = "Valtraid se opravdu ukázal."
    [4]
-    1 string data = "Are you alright, Zale?"
+    1 string data = "Jsi v pořádku, Zale?"
    [5]
-    1 string data = "For what it's worth, that was a good kick."
+    1 string data = "To byl dobrý kop, jen co je pravda."
    [6]
-    1 string data = "We're wasting time here!"
+    1 string data = "Tady jen ztrácíme čas!"
    [7]
-    1 string data = "Zale, I..."
+    1 string data = "Zale, já..."
    [8]
-    1 string data = "This is it. Better make sure we're prepared."
+    1 string data = "To je ono. Radši se ujistěme, že jsme připraveni."
    [9]
-    1 string data = "Do you think there's more to find here?"
+    1 string data = "Myslíš, že je tu ještě něco k nalezení?"
    [10]
-    1 string data = "The Watchmaker sounded really worried, almost ashamed. What do you think we'll find out here?"
+    1 string data = "Hodinář zněl opravdu ustaraně, skoro zahanbeně. Co myslíš, že tu zjistíme?"
    [11]
-    1 string data = "We're making good progress, all things considered."
+    1 string data = "Vzhledem ke všemu děláme dobrý pokrok."
    [12]
-    1 string data = "I suppose a train can't be that hard to find."
+    1 string data = "Předpokládám, že vlak nebude tak těžké najít."
    [13]
-    1 string data = "Yolande said the crew would be at the tavern."
+    1 string data = "Yolande říkala, že posádka bude v hospodě."
    [14]
-    1 string data = "(Narcis King...)"
+    1 string data = "(Král narcisů...)"
    [15]
-    1 string data = "I'm confused..."
+    1 string data = "Mám v tom zmatek..."
    [16]
     1 string data = "..."
    [17]
-    1 string data = "Let's check in with the crew."
+    1 string data = "Pojďme se spojit s posádkou."
    [18]
-    1 string data = "The Dweller of Scourge is still out there..."
+    1 string data = "Přiživovač Soužení tam někde stále je..."
    [19]
-    1 string data = "It feels so peaceful here now."
+    1 string data = "Teď je tu takový klid."
    [20]
-    1 string data = "I always dreamed of going on an adventure!"
+    1 string data = "Vždy jsem snil o dobrodružství!"
    [21]
-    1 string data = "How do you like my new upgrade?"
+    1 string data = "Jak se ti líbí moje nová vylepšení?"
    [22]
-    1 string data = "The train should be in the Rail Forest, north of town."
+    1 string data = "Vlak by měl být v Železničném lese, severně od města."
    [23]
-    1 string data = "I'd say we're off to a great start!"
+    1 string data = "Řekl bych, že jsme začali skvěle!"
    [24]
-    1 string data = "The Ivory Towers, huh? Good thing we have Fardush's train now."
+    1 string data = "Slonovinové věže, co? Je dobře, že teď máme Fardushův vlak."
    [25]
-    1 string data = "There was something eerie about that place, but I can't quite name it."
+    1 string data = "Bylo na tom místě něco zlověstného, ale nedokážu říct co."
    [26]
-    1 string data = "Wolf Rock... That Feral Queen seems pretty strong."
+    1 string data = "Vlčí skála... Ta Nezkrotná královna vypadá dost silně."
    [27]
-    1 string data = "Remember. We're a team."
+    1 string data = "Pamatuj. Jsme tým."
    [28]
-    1 string data = "The Puppeteer's bound to have something in store for us. We should make sure we're ready."
+    1 string data = "Loutkářka pro nás určitě něco chystá. Měli bychom být připraveni."
    [29]
-    1 string data = "Did we ever find all of the Time Runes?"
+    1 string data = "Našli jsme všechny Časové runy?"
    [30]
-    1 string data = "Appreciate y'all helping out Keenathan."
+    1 string data = "Vážím si, že jste pomohli Keenathanovi."
    [31]
-    1 string data = "Bit ov a rough start here, aye?"
+    1 string data = "Trochu drsný začátek, co?"
    [32]
-    1 string data = "Sure am eager to add a railworthy vessel to our collection!"
+    1 string data = "Těším se, až do naší sbírky přidáme vlak hodný kolejí!"
    [33]
-    1 string data = "Onwards!"
+    1 string data = "Vpřed!"
    [34]
-    1 string data = "These new roles befit you nicely, I must say."
+    1 string data = "Musím říct, že tyhle nové role vám opravdu sedí."
    [35]
-    1 string data = "Exploring the Rail Forest? Now that sounds like a proper adventure!"
+    1 string data = "Prozkoumávání Železničného lesa? To zní jako pořádné dobrodružství!"
    [36]
-    1 string data = "On yer mark, pal."
+    1 string data = "Připravte se, braši."
    [37]
-    1 string data = "I'd say we're doing pretty good."
+    1 string data = "Řekl bych, že si vedeme docela dobře."
    [38]
-    1 string data = "On yer mark, pal."
+    1 string data = "Připravte se, braši."
    [39]
-    1 string data = "Off to a great start, the wind's at our backs, mateys!"
+    1 string data = "Skvělý začátek, vítr nám vane do zad, kámové!"
    [40]
-    1 string data = "Tis' but a minor setback. Crew's got this."
+    1 string data = "To je jen drobná překážka. Posádka to zvládne."
    [41]
-    1 string data = "Feels good to be out and about."
+    1 string data = "Je fajn být zase venku a vůbec."

@@ -13,27 +13,27 @@
   1 Array Array (206 items)
    0 int size = 206
    [0]
-    1 string data = "They managed to escape, master, and somehow defeated our crew!"
+    1 string data = "Povedlo se jim utéct, paní, a naši posádku nějak porazili!"
    [1]
-    1 string data = "Even got the train back, master, they outwitted us too!"
+    1 string data = "Dokonce vrátili vlak, paní, poněvadž nás taky přelstili!"
    [2]
-    1 string data = "Then it seems confrontation with the solar one’s twin will happen soon. Good..."
+    1 string data = "Zdá se, že brzy dojde ke střetu s dvojníkem slunečního. Dobře..."
    [3]
-    1 string data = "Orders, master?"
+    1 string data = "Příkazy, paní?"
    [4]
-    1 string data = "For now we wait."
+    1 string data = "Prozatím čekáme."
    [5]
-    1 string data = "The great Pantouf will be the end of them, Pouf."
+    1 string data = "Velký Pan Tofel bude jejich konec, Pufe."
    [6]
-    1 string data = "A grand finale for the ages, Pif."
+    1 string data = "Velkolepý závěr na věky, Pife."
    [7]
-    1 string data = "They will never see it coming!"
+    1 string data = "Ani nebudou vědět odkud to přijde!"
    [8]
-    1 string data = "They will never feel it killing!"
+    1 string data = "Ani nebudou cítit, že je to zabije!"
    [9]
-    1 string data = "We will display so much guile!"
+    1 string data = "Spoustu lstí jim provedeme!"
    [10]
-    1 string data = "We will spring a trap so vile!"
+    1 string data = "Ohavnou past nastražíme!"
    [11]
     1 string data = "Is your new toy ready?"
    [12]
