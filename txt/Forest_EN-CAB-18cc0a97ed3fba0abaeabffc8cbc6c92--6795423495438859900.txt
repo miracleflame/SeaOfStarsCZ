@@ -13,24 +13,24 @@
   1 Array Array (11 items)
    0 int size = 11
    [0]
-    1 string data = "Ain't no train in sight, huh?"
+    1 string data = "Žádný vlak v dohledu, aye?"
    [1]
-    1 string data = "It’s got to be here somewhere."
+    1 string data = "Někde tady musí být."
    [2]
-    1 string data = "Wind’s rising, isn’t it?"
+    1 string data = "Zvedá se vítr, není liž pravda?"
    [3]
-    1 string data = "Behind us!"
+    1 string data = "Za námi!"
    [4]
-    1 string data = "RUN!"
+    1 string data = "BĚŽTE!"
    [5]
-    1 string data = "Dunno about y'all, but I've about had it with this train!"
+    1 string data = "Nevím jak vy, ale už mám dost toho vlaku!"
    [6]
-    1 string data = "You're up, Valtraid. On the double!"
+    1 string data = "Jsi na řadě, Valtraide. Pohyb!"
    [7]
-    1 string data = "Train Suplex"
+    1 string data = "Vlakový suplex"
    [8]
-    1 string data = "A resounding success!"
+    1 string data = "Ohromný úspěch!"
    [9]
-    1 string data = "Aye, Fardush should be able to drive you around now."
+    1 string data = "Aye, Fardush by vás teď měl být schopen vozit po okolí."
    [10]
-    1 string data = "If ye need us, we'll be at the local tavern."
+    1 string data = "Až nás bude třeba, hledejte v zdejší taverně."

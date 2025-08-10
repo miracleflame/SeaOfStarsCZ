@@ -13,136 +13,136 @@
   1 Array Array (67 items)
    0 int size = 67
    [0]
-    1 string data = "My King, your impersonator and his group have reached the compound."
+    1 string data = "Můj králi, tvůj dvojník a jeho skupina dorazili do areálu."
    [1]
-    1 string data = "Mhm... It appears so..."
+    1 string data = "Mhm... Vypadá to tak..."
    [2]
-    1 string data = "I will prepare to greet them. Now, do make sure they have a chance to take in the magnificence of my towers, hmm?"
+    1 string data = "Připravím se je přivítat. A ujisti se, že budou mít šanci obdivovat velkolepost mých věží, hmm?"
    [3]
-    1 string data = "As you wish, my liege."
+    1 string data = "Jak si přeješ, můj pane."
    [4]
-    1 string data = "Looks like a useless pile of junk..."
+    1 string data = "Vypadá to jako zbytečná hromada harampádí..."
    [5]
     1 string data = "(!!!)"
    [6]
-    1 string data = "Excuse me, [MAINCHAR]."
+    1 string data = "Promiň, [MAINCHAR]."
    [7]
-    1 string data = "(Spike, you still got that membrane design?)"
+    1 string data = "(Spike, pořád máš ten návrh membrány?)"
    [8]
-    1 string data = "(You bet.)"
+    1 string data = "(Si piš.)"
    [9]
     1 string data = "Arty?"
    [10]
-    1 string data = "I'll just be a moment!"
+    1 string data = "Už jenom chvilku!"
    [11]
-    1 string data = "(Then this goes here, and...)"
+    1 string data = "(Takže tohle jde sem, a...)"
    [12]
-    1 string data = "Behold, my new invention!"
+    1 string data = "Pohleďte, můj nový vynález!"
    [13]
-    1 string data = "You got <sprite="dialog-inventory-icons-totw" name="icn-inventory-keyitem-drone"> <color=magic>Mule Drone</color>."
+    1 string data = "Získali jste <sprite="dialog-inventory-icons-totw" name="icn-inventory-keyitem-drone"> <color=magic>Muladron</color>."
    [14]
-    1 string data = "Press <button="Interact"> near compatible objects to put them into a ball and deploy them elsewhere."
+    1 string data = "Stiskněte <button="Interact"> u kompatibilních objektů, abyste je mohli zabalit do koule a rozbalit jinde."
    [15]
-    1 string data = "So this is the great Zale, guardian of the sun. "
+    1 string data = "Tak toto je ten velký Zale, ochránce slunce."
    [16]
-    1 string data = "Tell me, do you truly care about the people you protect? Or is being seen as a hero just that endearing to you?"
+    1 string data = "Řekni mi, opravdu ti záleží na lidech, které chráníš? Nebo je pro tebe hrozně důležité být vnímán jako hrdina?"
    [17]
-    1 string data = "What? No, that's not why I-"
+    1 string data = "Co? Ne, to není důvod, proč já-"
    [18]
-    1 string data = "Hahahaha! Ah, the many delights of denial."
+    1 string data = "Hahahaha! Ach, to rozkošné popírání."
    [19]
-    1 string data = "You can pretend all you want, but I know your soul."
+    1 string data = "Můžeš předstírat, jak chceš, ale znám tvou duši."
    [20]
-    1 string data = "Perhaps you should take a moment to... contemplate."
+    1 string data = "Možná by ses měl na chvíli... zamyslet."
    [21]
-    1 string data = "Look at yourself, so devoted to duty that you've forgotten who you are."
+    1 string data = "Podívej se na sebe, tak oddaný povinnosti, že jsi zapomněl, kdo vlastně jsi."
    [22]
-    1 string data = "Do you even know what you want beyond this tiresome ‘protector’ role? Have you no clue as to how it serves YOU?"
+    1 string data = "Víš vůbec, co chceš kromě té únavné role 'ochránce'? Copak nemáš tušení, jak to slouží TOBĚ?"
    [23]
-    1 string data = "Face it, Zale. We're the same. You hide behind your morals, but deep down, you crave the same recognition, the same admiration, which I inspire."
+    1 string data = "Přiznej si to, Zale. Jsme stejní. Schováváš se za morálností, ale hluboko uvnitř toužíš po stejném uznání a obdivu, který já vyvolávám."
    [24]
-    1 string data = "You're just a twisted version of me!"
+    1 string data = "Jsi jen moje zvrácená verze!"
    [25]
-    1 string data = "I'm nothing like him… Am I?"
+    1 string data = "Nejsem jako on... že ne?"
    [26]
-    1 string data = "Don't be ridiculous, Zale. He's an egotistical maniac."
+    1 string data = "Nebuď směšný, Zale. Je to egoistický maniak."
    [27]
     1 string data = "..."
    [28]
-    1 string data = "Hahahaha! It seems you need some more time to... reflect on your true nature..."
+    1 string data = "Hahahaha! Zdá se, že potřebuješ víc času... na zamyšlení nad svou pravou podstatou..."
    [29]
-    1 string data = "Organic onlookers and clockwork customers alike, step right up, this is a performance not to be missed!"
+    1 string data = "Jak organičtí diváci tak i mechanickí zákazníci, přistupte blíž, tohle představení nesmíte propásnout!"
    [30]
-    1 string data = "Tonight, and tonight only, we have a performance that will surely rock your socks clean off!"
+    1 string data = "Dnes, a pouze dnes večer, máme vystoupení, které vám rozhodně smete ponožky!"
    [31]
-    1 string data = "A daring display of infused insecurity, shaped into sheer bellicose beauty."
+    1 string data = "Odvážné představení infuzní nejistoty, zformované do drsné bojechtivé krásy."
    [32]
-    1 string data = "A stunning symmetry of sin, visible on its very visage!"
+    1 string data = "Ohromná symetrie hříchu, viditelná na samotné vizáži!"
    [33]
-    1 string data = "The one... The only..."
+    1 string data = "Jedine on... Ten pravý..."
    [34]
-    1 string data = "NARCIS KING!!!"
+    1 string data = "KRÁL NARCISŮ!!!"
    [35]
-    1 string data = "Ah, at last. Welcome to my throne room, where true power resides, unburdened by childish ideals. "
+    1 string data = "Ah, konečně. Vítej v mé trůnní síni, kde sídlí skutečná moc, osvobozená od dětských ideálů."
    [36]
-    1 string data = "Do you like what you see? This is where you could have stood… if only you'd embraced who you really are."
+    1 string data = "Líbí se ti, co vidíš? Tady jsi mohl stát… kdybys přijal, kým opravdu jsi."
    [37]
-    1 string data = "We get it, big guy. You're full of yourself."
+    1 string data = "Chápeme, velký chlape. Jsi plný sebe sama."
    [38]
-    1 string data = "This isn't a joke, Valere..."
+    1 string data = "Tohle není vtip, Valerie..."
    [39]
-    1 string data = "Hey, I was just trying to lighten the mood. We've faced worse, right?"
+    1 string data = "Hele, jen jsem se snažila uvolnit atmosféru. Čelili jsme horším věcem, že?"
    [40]
-    1 string data = "She's laughing because she doesn't understand. Some partner you have there, completely unaware of what you're hiding."
+    1 string data = "Směje se, protože nerozumí. To je mi ale partnerka, když si úplně neuvědomuje, co skrýváš."
    [41]
     1 string data = "..."
    [42]
-    1 string data = "Come, then! Show me if your courage is real, or if you're just another child playing hero in the light!"
+    1 string data = "Tak pojď! Ukaž mi, jestli je tvá kuráž opravdová, nebo jestli jsi jen další dítě, které si hraje na hrdinu za světla!"
    [43]
-    1 string data = "SHOWTIME!"
+    1 string data = "SHOW ZAČÍNÁ!"
    [44]
-    1 string data = "Impossible... An immaculate surface should win over integrity... Perception is more important than substance... Why do anything if no one is made envious...?"
+    1 string data = "Nemožné... Bezvadný povrch by měl zvítězit nad integritou... Vnímání je důležitější než obsah... Proč něco dělat, když nikdo nezačne závidět...?"
    [45]
-    1 string data = "You're doing the hair wrong."
+    1 string data = "Ty vlasy si děláš špatně."
    [46]
-    1 string data = "Are you okay, Zale?"
+    1 string data = "Jsi v pořádku, Zale?"
    [47]
-    1 string data = "It's just…"
+    1 string data = "Je to jen..."
    [48]
-    1 string data = "What if he's right?"
+    1 string data = "Co když má pravdu?"
    [49]
-    1 string data = "I don't think you're like him. Not at all."
+    1 string data = "Nemyslím, že jsi jako on. Vůbec ne."
    [50]
     1 string data = "..."
    [51]
-    1 string data = "Narcis King is so smart, he does things just long enough to be able to project a wide range of abilities. Doesn't waste a single minute beyond that."
+    1 string data = "Král narcisů je tak chytrý, že dělá věci jen tak dlouho, aby mohl předvést širokou škálu schopností. Neplýtvá ani minutou navíc."
    [52]
-    1 string data = "Hanging out here, I learned there's no value left in doing anything once you've got a good picture to show off. To stay on top of everyone else, it's better to diversify!"
+    1 string data = "Když jsem tu byl, naučil jsem se, že nemá smysl dělat cokoli, když máš dobrý obraz, který můžeš ukázat. Když se chci udržet nad ostatními, je lepší diverzifikovat!"
    [53]
-    1 string data = "Did you get the podium right? I want to keep exploring!"
+    1 string data = "Máš pódium správně? Chci dál objevovat!"
    [54]
-    1 string data = "Legs go at the bottom, of course. Just have to figure out what each symbol represents..."
+    1 string data = "Nohy patři dole, samozřejmě. Musíme zjistit, co každý symbol znamená..."
    [55]
-    1 string data = "I like Narcis King, finally someone who understands that quantity is more important than quality!"
+    1 string data = "Mám rád Krále narcisů, konečně někdo, kdo chápe, že množství je důležitější než kvalita!"
    [56]
-    1 string data = "It's weird in here. I feel like I have to justify why I like what I like, as if my value had to be calculated according to the Narcis King's criteria."
+    1 string data = "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být počítána podle kriterií Krále narcisů."
    [57]
-    1 string data = "I heard a guard saying "reflection opens the way" earlier. What do you think he meant?"
+    1 string data = "Slyšel jsem, jak strážce předtím říkal "odraz otevírá cestu". Co tím podle tebe myslel?"
    [58]
-    1 string data = "Narcis King appears quite accomplished. I can't help but wonder which skill he learned first."
+    1 string data = "Král narcisů vypadá dost schopně. Zajímalo by mě, kterou schopnost se naučil jako první."
    [59]
-    1 string data = "Are these badges?"
+    1 string data = "To jsou odznaky?"
    [60]
-    1 string data = "The floors are immaculate! But I must say, this would look even better if the gem's reflection were aligned with the ornate doorframe."
+    1 string data = "Podlaha je bez poskvrny! Ale musím říct, že by to vypadalo ještě líp, kdyby odraz drahokamu byl v ose těch zdobených dveří."
    [61]
-    1 string data = "It's sealed shut. We'll need to activate these four symbols somehow."
+    1 string data = "Je to zapečetěné. Budeme muset nějak aktivovat ty čtyři symboly."
    [62]
-    1 string data = "Would you look at that... Everything is so grandiose here..."
+    1 string data = "Podívej na to... Všechno je tady tak velkolepé..."
    [63]
-    1 string data = "These old knees need a break! This must be the sea of stairs everyone's been talking about."
+    1 string data = "Mé staré kolena potřebují pauzu! To musí být to moře schodů, o kterém všichni vyprávěli."
    [64]
-    1 string data = "Is that real gold?"
+    1 string data = "To je pravé zlato?"
    [65]
-    1 string data = "I don't really like the place, but Narcis King is kind of a cool name."
+    1 string data = "Tohle místo se mi moc nelíbí, ale Král narcisů je docela fajn jméno."
    [66]
-    1 string data = "There was something invigorating about this place at first, but now I just get a sense that my life is missing things I only want because someone else says they're the right things to want."
+    1 string data = "Nejdřív mě to tu nějak povzbuzovalo, ale teď mám spíš pocit, jako by mi v životě chyběli věci, které chci jenom proto, že to někdo jiný říká, že bych měl."

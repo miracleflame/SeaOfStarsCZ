@@ -197,7 +197,7 @@
    [91]
     1 string data = "(Jasně, jasně...)"
    [92]
-    1 string data = "Uh, promiňte, Farduši?"
+    1 string data = "Uh, promiňte, Fardushi?"
    [93]
     1 string data = "Mám pro vás dárek."
    [94]
@@ -229,7 +229,7 @@
    [107]
     1 string data = "Jsem spíš zvědavá než cokoliv jiného."
    [108]
-    1 string data = "I don’t know, I can picture yours being pretty gnarly."
+    1 string data = "Já nevím, dokážu si představit, že ten tvůj bude dost drsný."
    [109]
     1 string data = "Hej!"
    [110]
@@ -833,7 +833,7 @@
    [409]
     1 string data = "Ne tak rychle, cestovatelé! Tahle bedna skrývá tvrdou bojovou výzvu. Nemůžu tam jen tak pustit každého... Nejprve se musíte prokázat!"
    [410]
-    1 string data = "Opravdu to chcete zkusit, co? Přineste mi Certifikát Balónářství a ustoupím!"
+    1 string data = "Vy to opravdu chcete zkusit, co? Přineste mi Certifikát Balónářství a ustoupím!"
    [411]
     1 string data = "Impozantní! Nejspíš víte, co děláte. Tak vám ustoupím."
    [412]
