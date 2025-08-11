@@ -79,7 +79,7 @@
    [32]
     1 string data = "Hedvábná jízdenka"
    [33]
-    1 string data = "Zaručuje vstup do sídla Krále narcisů."
+    1 string data = "Zaručuje vstup do sídla Narcisového krále."
    [34]
     1 string data = "Vlkodenka"
    [35]

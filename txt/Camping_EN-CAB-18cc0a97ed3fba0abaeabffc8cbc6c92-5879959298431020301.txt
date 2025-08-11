@@ -41,7 +41,7 @@
    [13]
     1 string data = "Yolande říkala, že posádka bude v hospodě."
    [14]
-    1 string data = "(Král narcisů...)"
+    1 string data = "(Narcisový král...)"
    [15]
     1 string data = "Mám v tom zmatek..."
    [16]

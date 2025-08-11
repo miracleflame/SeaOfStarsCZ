@@ -27,7 +27,7 @@
    [6]
     1 string data = "Monsieur Nervé"
    [7]
-    1 string data = "Král narcisů"
+    1 string data = "Narcisový král"
    [8]
     1 string data = "Nezkrotná královna"
    [9]

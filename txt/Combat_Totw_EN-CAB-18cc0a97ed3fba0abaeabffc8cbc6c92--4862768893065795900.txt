@@ -211,9 +211,9 @@
    [98]
     1 string data = "Způsobuje masivní poškození, ale lze ho odrazit obranou."
    [99]
-    1 string data = "Ego Krále narcisů nabíjí zrcadlo."
+    1 string data = "Ego Narcisového krále nabíjí zrcadlo."
    [100]
-    1 string data = "Jedno ze zrcadel Krále narcisů začalo nabíjet svůj ultimátní útok!<br><br>Zaútočte na kliku vpravo, aby se reflektory nedostaly k zrcadlům."
+    1 string data = "Jedno ze zrcadel Narcisového krále začalo nabíjet svůj ultimátní útok!<br><br>Zaútočte na kliku vpravo, aby se reflektory nedostaly k zrcadlům."
    [101]
     1 string data = "Přiživovač soužení kontroluje situaci."
    [102]

@@ -81,7 +81,7 @@
    [33]
     1 string data = "Jedine on... Ten pravý..."
    [34]
-    1 string data = "KRÁL NARCISŮ!!!"
+    1 string data = "NARCISOVÝ KRÁL!!!"
    [35]
     1 string data = "Ah, konečně. Vítej v mé trůnní síni, kde sídlí skutečná moc, osvobozená od dětských ideálů."
    [36]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "..."
    [51]
-    1 string data = "Král narcisů je tak chytrý, že dělá věci jen tak dlouho, aby mohl předvést širokou škálu schopností. Neplýtvá ani minutou navíc."
+    1 string data = "Narcisový král je tak chytrý, že dělá věci jen tak dlouho, aby mohl předvést širokou škálu schopností. Neplýtvá ani minutou navíc."
    [52]
     1 string data = "Když jsem tu byl, naučil jsem se, že nemá smysl dělat cokoli, když máš dobrý obraz, který můžeš ukázat. Když se chci udržet nad ostatními, je lepší diverzifikovat!"
    [53]
@@ -123,13 +123,13 @@
    [54]
     1 string data = "Nohy patři dole, samozřejmě. Musíme zjistit, co každý symbol znamená..."
    [55]
-    1 string data = "Mám rád Krále narcisů, konečně někdo, kdo chápe, že množství je důležitější než kvalita!"
+    1 string data = "Mám rád Narcisového krále, konečně někdo, kdo chápe, že množství je důležitější než kvalita!"
    [56]
-    1 string data = "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být počítána podle kriterií Krále narcisů."
+    1 string data = "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být počítána podle kriterií Narcisového krále."
    [57]
     1 string data = "Slyšel jsem, jak strážce předtím říkal "odraz otevírá cestu". Co tím podle tebe myslel?"
    [58]
-    1 string data = "Král narcisů vypadá dost schopně. Zajímalo by mě, kterou schopnost se naučil jako první."
+    1 string data = "Narcisový král vypadá dost schopně. Zajímalo by mě, kterou schopnost se naučil jako první."
    [59]
     1 string data = "To jsou odznaky?"
    [60]
@@ -143,6 +143,6 @@
    [64]
     1 string data = "To je pravé zlato?"
    [65]
-    1 string data = "Tohle místo se mi moc nelíbí, ale Král narcisů je docela fajn jméno."
+    1 string data = "Tohle místo se mi moc nelíbí, ale Narcisový král je docela fajn jméno."
    [66]
     1 string data = "Nejdřív mě to tu nějak povzbuzovalo, ale teď mám spíš pocit, jako by mi v životě chyběli věci, které chci jenom proto, že to někdo jiný říká, že bych měl."
