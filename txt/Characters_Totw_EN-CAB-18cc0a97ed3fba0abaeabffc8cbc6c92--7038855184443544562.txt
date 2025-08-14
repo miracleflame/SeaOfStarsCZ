@@ -43,7 +43,7 @@
    [14]
     1 string data = "Muka Hodinářky"
    [15]
-    1 string data = "Pokladník karnevalu"
+    1 string data = "Karnevalová pokladnice"
    [16]
     1 string data = "Obsluha atrakcí"
    [17]

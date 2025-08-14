@@ -27,13 +27,13 @@
    [6]
     1 string data = "Rybník dobrot"
    [7]
-    1 string data = "Vlkozero"
+    1 string data = "Vlkojezero"
    [8]
     1 string data = "Mechanické pláně"
    [9]
     1 string data = "Železničný les"
    [10]
-    1 string data = "Vana odměn"
+    1 string data = "Nádrž odměn"
    [11]
     1 string data = "Stanice Horloge"
    [12]
