@@ -297,53 +297,53 @@
    [141]
     1 string data = "Y'alright there, Zale?"
    [142]
-    1 string data = "Hey, I'll go looking for the next ticket. You two take a breather, okay?"
+    1 string data = "Hej, půjdu se podívat po dalším lístku. Vy dva si trochu oddechněte, jo?"
    [143]
-    1 string data = "I... Thanks, Arty."
+    1 string data = "Já... Díky, Arty."
    [144]
-    1 string data = "You've been quiet since the throne room. I know he got under your skin… but it’s more than that, isn’t it?"
+    1 string data = "Co jsme byli v trůnním sále, moc jsi toho nenamluvil. Vím, že se ti dostal pod kůži… ale to není všechno, že?"
    [145]
-    1 string data = "He was right, in a way. I've always told myself I fight for others, that it’s about protecting them. But… part of me does want to be seen, to be… important."
+    1 string data = "Měl svým způsobem pravdu. Vždycky jsem si říkal, že bojuju za ostatní, že mi jde o jejich ochranu. Ale… zčásti bych taky chtěl pozornost a být… důležitý."
    [146]
-    1 string data = "That doesn't mean you're like him, Zale. He uses his power for himself. You're different."
+    1 string data = "To neznamená, že jsi jako on, Zale. On používá své schopnosti pro sebe. Na rozdíl od tebe."
    [147]
-    1 string data = "Am I, though? I see the admiration in people’s eyes, and sometimes I… I want it. And that makes me feel like… Like maybe I'm not as selfless as I should be."
+    1 string data = "Opravdu? Vidím, jak mě lidé obdivují a někdy… někdy o to stojím. A kvůli tomu se cítím jakože… jakože možná nejsem tak nesobecký, jak bych měl být."
    [148]
-    1 string data = "I think I need some time to sit with it. This all feels heavier than I expected."
+    1 string data = "Myslím, že potřebuju čas o tom popřemýšlet. Připadá mi to vážnější, než jsem původně čekal."
    [149]
-    1 string data = "Take your time, I'll go check in with Arty."
+    1 string data = "Jak dlouho jen budeš potřebovat, já se jdu kouknout za Artym."
    [150]
-    1 string data = "Zale! Come quickly, we need you right now!"
+    1 string data = "Zale! Pojď honem, potřebujeme tě!"
    [151]
-    1 string data = "Always holding back, always controlled... Doesn't it exhaust you, Valere? Pretending you don't crave a taste of real freedom?"
+    1 string data = "Vždy se držíš zpátky, pořád tak vyrovnaná... Není to vyčerpávající, Valerie? Předstírat, že neprahneš po špetce skutečné svobody?"
    [152]
-    1 string data = "Discipline isn't a weakness. I know what I'm fighting for."
+    1 string data = "Kázeň není slabina. Vím, za co bojuji."
    [153]
-    1 string data = "Discipline? Is that what you call the chains you wrap around yourself?"
+    1 string data = "Kázeň? Tak nazýváš řetězy, kterými se sama poutáš?"
    [154]
-    1 string data = "You're just afraid to let go. To feel the power that comes with finally doing what YOU want, instead of what duty demands."
+    1 string data = "Prostě se jen bojíš odvázat. Cítit sílu, která přichází s možností konečně dělat to, co chceš TY, místo toho, co vyžaduje povinnost."
    [155]
-    1 string data = "That ain't freedom. What you're talking about is chaos."
+    1 string data = "To není svoboda. Ty máš na mysli chaos."
    [156]
-    1 string data = "And maybe chaos is exactly what you need."
+    1 string data = "A možná, že chaos je přesně to, co potřebuješ."
    [157]
-    1 string data = "Yes... you're feeling it, aren't you, Valere?"
+    1 string data = "Ano... cítíš to, ne snad, Valerie?"
    [158]
-    1 string data = "The rage. Let it in... EMBRACE YOUR FURY!!!"
+    1 string data = "Ten vztek. Nech ho působit... PŘIJMI SVOU ZUŘIVOST!!!"
    [159]
-    1 string data = "GET BACK HERE, YOU COWARD!"
+    1 string data = "VRAŤ SE SEM, TY SKETO!"
    [160]
-    1 string data = "Valere! Arty said-"
+    1 string data = "Valerie! Arty říkal-"
    [161]
-    1 string data = "Oh, finally done moping around? We don't have all day, it's time to go!"
+    1 string data = "Oh, konečně už jsi skončil s tím fňukáním? Nemáme celý den, je čas jít!"
    [162]
-    1 string data = "What? I was just taking a moment…"
+    1 string data = "Cože? Jenom jsem si dával pauzu…"
    [163]
-    1 string data = "We've had plenty of those. The world's not going to wait while you 'take a moment'. Come on, I got our ticket."
+    1 string data = "Těch už jsme měli dost. Svět na tebe nebude čekat, až si 'dáš pauzu'. Dělej, mám pro nás lístek."
    [164]
-    1 string data = "Fine. I'm ready."
+    1 string data = "Dobře. Jsem připravený."
    [165]
-    1 string data = "...And then, he said, “Pants? What pants?""
+    1 string data = "...A pak povídá, “Gatě? Jaké gatě?""
    [166]
     1 string data = "HAHAHAHAHA!"
    [167]
@@ -351,143 +351,143 @@
    [168]
     1 string data = "HAHAHAHAHA!"
    [169]
-    1 string data = "Alright, alright. Here’s some more tunes."
+    1 string data = "Dobře, dobře. Tu máte další písničky."
    [170]
-    1 string data = "…But more importantly, I'm sorry for how I acted earlier. I shouldn't have pushed you away like that."
+    1 string data = "…ale co je nejdůležitější, omlouvám se za to, jak jsem se předtím chovala. Neměla jsem tě od sebe tak odstrkovat."
    [171]
-    1 string data = "I get it, Valere. Facing them… it brought up things we weren't ready to look at."
+    1 string data = "Já to chápu, Valerie. Náš střet s nimi… odkryl věci, které jsme nebyli připraveni vidět."
    [172]
-    1 string data = "Part of me still wonders if there's truth to what my twin said about me…"
+    1 string data = "Zčásti pořád přemýšlím nad tím, jestli o mně neměl můj dvojník v něčem pravdu…"
    [173]
-    1 string data = "She made me question a lot too, but I see more clearly after confronting her."
+    1 string data = "Taky ve mně vyvolala řadu pochybností, ale po tom, co jsem se s ní utkala, to vidím jasněji."
    [174]
-    1 string data = "We all have parts of ourselves we're not proud of... But maybe the difference is that we care about what they mean, and that we're willing to face them."
+    1 string data = "Všichni máme část sebe sama, na kterou nejsme hrdí... Ale možná, že rozdíl je v tom, že nám záleží na tom, co znamená, a že jsme ochotni jí čelit."
    [175]
-    1 string data = "Our twins may be consumed by their darker traits, but we don't have to be."
+    1 string data = "Naši dvojníci jsou možná svou temnou stránkou pohlceni, ale my nemusíme být."
    [176]
-    1 string data = "Still... If I'm going to move forward, I need to come to terms with that part of myself."
+    1 string data = "Ale stejně... jestli se mám posunout dál, musím se s takovou svou částí smířit."
    [177]
-    1 string data = "I can't keep fighting it… or worse, hiding from it."
+    1 string data = "Nemůžu s ní pořád bojovat… nebo hůř, schovávat se před ní."
    [178]
-    1 string data = "Hey, you two faced the worst parts of yourselves and still came back!"
+    1 string data = "Hele, vy dva jste se setkali tváří v tvář se svými nejhoršími vlastnostmi a stejně jste se vrátili!"
    [179]
-    1 string data = "That says a lot more than anything some evil twins ever could."
+    1 string data = "To o vás vypovídá mnohem víc než cokoliv, co by kdy mohli nějací zlí dvojníci."
    [180]
-    1 string data = "Excuse me, [MAINCHAR] and [OFFCHAR]?"
+    1 string data = "Promiňte, [MAINCHAR] a [OFFCHAR]?"
    [181]
-    1 string data = "This is for you."
+    1 string data = "Tohle je pro vás."
    [182]
-    1 string data = "Well, this is it. The main event."
+    1 string data = "No, je to tady. Hlavní událost."
    [183]
-    1 string data = "How are you feeling?"
+    1 string data = "Jak se cítíš?"
    [184]
-    1 string data = "A bit unsure about fighting a Dweller without my real powers, but it’s not like we have a choice."
+    1 string data = "Nejsem si příliš jistá, jak budu bojovat s Přiživovačem bez svých skutečných schopností, ale na výběr stejně moc nemáme."
    [185]
-    1 string data = "(We should tell them about our idea.)"
+    1 string data = "(Měli bychom jim říct o našem nápadu.)"
    [186]
-    1 string data = "(I say we save it for later as a surprise!)"
+    1 string data = "(Já navrhuju nechat to na později jako překvápko!)"
    [187]
-    1 string data = "(No, that’s not fair.)"
+    1 string data = "(Ne, To není fér.)"
    [188]
-    1 string data = "(You said it was okay to keep surprises secret earlier!)"
+    1 string data = "(Předtím jsi říkal, že mít tajná překvapení je v pořádku!)"
    [189]
-    1 string data = "(Okay, fine!)"
+    1 string data = "(Dobře, fajn!)"
    [190]
-    1 string data = "Anyway, Fardush’s probably waiting for us."
+    1 string data = "Každopádně, Fardush na nás asi už bude čekat."
    [191]
-    1 string data = "Ready to go, Arty?"
+    1 string data = "Připraven vyrazit, Arty?"
    [192]
-    1 string data = "Of course!"
+    1 string data = "Jasně!"
    [193]
-    1 string data = "Another quest completed! Thank you, dear comrades."
+    1 string data = "Další výprava je u konce! děkuji vám, drazí přátelé."
    [194]
-    1 string data = "This could have gone terribly wrong without your strength and determination."
+    1 string data = "Bez vaší síly a odhodlání to mohlo skončit naprosto katastrofálně."
    [195]
-    1 string data = "You've not only solved the problem, but restored hope where there was none."
+    1 string data = "Nejen, že jste vyřešili celý ten problém, ale navrátili jste naději tam, kde chyběla."
    [196]
-    1 string data = "I've gotta say, I'm glad I got to tag along for the ride. What a story to tell, huh?"
+    1 string data = "Musím říct, jsem rád, že jsem se k vám mohl připojit. Z toho bude zajímavá historka, co?"
    [197]
-    1 string data = "You saved us more than once, Arty. We couldn't have done this without you."
+    1 string data = "Několikrát jsi nás zachránil, Arty. Bez tebe bychom to nezvládli."
    [198]
-    1 string data = "Ha! Well, it’s not every day you get to fight side by side with heroes."
+    1 string data = "Ha! No, každý den se ti nepoštěstí bojovat bok po boku s hrdiny."
    [199]
-    1 string data = "And heroes you all are. You've shown tremendous courage, and have earned more than victory. You have the gratitude of everyone here."
+    1 string data = "A hrdinové jste vy všichni. Prokázali jste nesmírnou odvahu a zasloužili si víc než vítězství. Všichni tady jsou vám vděční."
    [200]
-    1 string data = "So, it’s really over... I'll miss this, being out here with you two, fighting for something big."
+    1 string data = "Takže tady máme hotovo... Tohle mi bude chybět, být tady tak s váma dvěma, bojovat za něco důležitého."
    [201]
-    1 string data = "Well, you're more than welcome to return here at any time. And who knows? There might be a thing or two you missed along the way."
+    1 string data = "No, můžete se sem klidně kdykoliv vrátit. A kdo ví? Možná najdete pár věcí, které jste předtím na cestě přehlédli."
    [202]
-    1 string data = "It’s been a wild ride, but it’s time to head back. The real world is waiting, and The Fleshmancer is still out there."
+    1 string data = "Byla to divoká jízda, ale je čas se vrátit. Skutečný svět čeká a Karnimant stále představuje hrozbu."
    [203]
     1 string data = "Aye, it's a wrap, then? Lead the way, mate. I do be missin' this lil' boat ov ours!"
    [204]
-    1 string data = "Excuse me… before we leave, if I may…"
+    1 string data = "S prominutím… než odejdeme, mohl bych…"
    [205]
-    1 string data = "This life belongs to the craft."
+    1 string data = "Tenhle život náleží řemeslu."
    [206]
-    1 string data = "But if that is your wish… I have ways to ensure we meet in the next one."
+    1 string data = "Ale jestli je to tvé přání… Znám způsob, jak zajistit, abychom se potkali v tom příštím."
    [207]
-    1 string data = "Why, another grand adventure! I shall look forward to it!"
+    1 string data = "Skvěle, další velké dobrodružství! Budu se na něj těšit!"
    [208]
-    1 string data = "So that the future may be, a vision lies within. Should you be worthy of its stewardship, present yourself."
+    1 string data = "So that the future may be, a vision lies within. Jsi-li hoden jejího spravování, představ se."
    [209]
-    1 string data = "This is not for us..."
+    1 string data = "Tohle není pro nás..."
    [210]
-    1 string data = "Hey, guys!"
+    1 string data = "Ahoj, lidi!"
    [211]
-    1 string data = "Garl? What are you doing here?"
+    1 string data = "Garle? Co ty tady děláš?"
    [212]
-    1 string data = "Special permission!"
+    1 string data = "Speciální povolení!"
    [213]
-    1 string data = "Uh, would you mind? I need to take care of something here real quick."
+    1 string data = "Uh, dali byste mi chvilku? Potřebuju tady něco rychle pořešit."
    [214]
-    1 string data = "You know about this thing?"
+    1 string data = "Ty o téhle věci víš?"
    [215]
-    1 string data = "I wish I could explain, but I made a promise. Sorry."
+    1 string data = "Moc rád bych vám to vysvětlil, ale dal jsem své slovo. Omlouvám se."
    [216]
-    1 string data = "Just trust me on this one, okay?"
+    1 string data = "Prostě mi s tím věřte, ano?"
    [217]
-    1 string data = "As long as it's safe."
+    1 string data = "Jen jestli je to bezpečné."
    [218]
-    1 string data = "Totally! I'll just be a moment!"
+    1 string data = "Naprosto! Nebude to trvat dlouho!"
    [219]
-    1 string data = "Alright, now to "present myself"…"
+    1 string data = "Dobře, teď se jen "představit"…"
    [220]
-    1 string data = "*ahem*... Okay, how about…"
+    1 string data = "*ehm*... Fajn, tak co třeba…"
    [221]
-    1 string data = "Ovate of Time!"
+    1 string data = "Ovatko času!"
    [222]
-    1 string data = "So that the future may be, the one whose familiar is the raven has allowed my return."
+    1 string data = "So that the future may be, ten, jehož společníkem je krkavec, povolil můj návrat."
    [223]
-    1 string data = "I was shown the birth of this world, and observed the one whose familiar is the sparrow."
+    1 string data = "Bylo mi ukázáno zrození tohoto světa a pozoroval jsem toho, jehož společníkem je vrabec."
    [224]
-    1 string data = "How it all connects is lost on me, but this I know. You need a message, I believe it's a warning, to reach you in a future life."
+    1 string data = "Jak to spolu souvisí, to netuším, ale tohle vím. Je potřeba, aby se k tobě v budoucím životě dostala zpráva, myslím, že jde o varování."
    [225]
     1 string data = "..."
    [226]
-    1 string data = "Uh, and don't worry, I won't tell your current incarnation. Does she even know why she needed to make this clock?"
+    1 string data = "Uh, a neboj se, tvé současné inkarnaci nic neprozradím. Ví vůbec, proč potřebovala vyrobit tyhle hodiny?"
    [227]
-    1 string data = "*ahem*... Anyway…"
+    1 string data = "*ehm*... Každopádně…"
    [228]
-    1 string data = "Entrust your vision to me, for I am the flame that refused to die."
+    1 string data = "Svěř mi svou vizi, neboť jsem plamen, jenž odmítl vyhasnout."
    [229]
-    1 string data = "Entrust your vision to me, for I am the shepherd of Guardian Gods."
+    1 string data = "Svěř mi svou vizi, neboť doprovázím Božské ochránce."
    [230]
-    1 string data = "ENTRUST YOUR VISION TO ME, FOR I AM THE <color=#F9BB11>OVATE OF HOPE</color>!"
+    1 string data = "SVĚŘ MI SVOU VIZI, NEBOŤ JSEM <color=#F9BB11>OVAT NADĚJE</color>!"
    [231]
-    1 string data = "So, it's decided then. It may take centuries, but their power will vanish."
+    1 string data = "Je tedy rozhodnuto. Může to trvat stovky let, ale jejich síla se vytratí."
    [232]
-    1 string data = "When the time comes, the Demon Army will be ready."
+    1 string data = "Až ten čas nastane, armáda démonů bude připravena."
    [233]
-    1 string data = "And I will craft the most powerful spell the world has ever seen."
+    1 string data = "A já vytvořím to nejsilnější zaklínadlo, jaké kdy svět viděl."
    [234]
-    1 string data = "A storm big enough to engulf all life! Utter cataclysm!"
+    1 string data = "Bouři dost velkou na to, aby pohltila veškerý život! Naprostou zkázu!"
    [235]
-    1 string data = "Yes... a flood for the ages..."
+    1 string data = "Ano... obrovskou potopu..."
    [236]
-    1 string data = "(Centuries…)"
+    1 string data = "(Stovky let…)"
    [237]
-    1 string data = "(A simple message won't reach that far. We need a prophecy…)"
+    1 string data = "(Pouhá zpráva tak dlouho nevydrží. Potřebujeme proroctví…)"
    [238]
     1 string data = "Zdravím, cestovatelé! Potřebujete něco na cestu před vámi?"
    [239]
@@ -497,9 +497,9 @@
    [241]
     1 string data = "Ne"
    [242]
-    1 string data = "<sprite="dialog-generic-icons" name="arrow-north">  Železničný les"
+    1 string data = "<sprite="dialog-generic-icons" name="arrow-north">  Železniční les"
    [243]
-    1 string data = "Hledám pomoc. Můj vlak se ztratil v Železničném lesu. Volejte Fardushe."
+    1 string data = "Hledám pomoc. Můj vlak se ztratil v Železničním lese. Volejte Fardushe."
    [244]
     1 string data = "Koupím lístek do Slonovinových věží. Volejte Vesničana."
    [245]
@@ -511,7 +511,7 @@
    [248]
     1 string data = "Hele, nebyli jste uvrženi do Zapomnění? Nikdo odtamtud nikdy neutekl!"
    [249]
-    1 string data = "Mám lístek na návštěvu věží Krále narcisů. Pojedete taky?"
+    1 string data = "Mám lístek na návštěvu věží Narcisového krále. Pojedete taky?"
    [250]
     1 string data = "Najednou se všechno ponořilo do tmy. Vlastně to bylo docela výstřední!"
    [251]
@@ -529,9 +529,9 @@
    [257]
     1 string data = "Loutkářka je pryč. S tímto už dokážu žít."
    [258]
-    1 string data = "Železničný les? Je to na sever od města, přes tady to nádraží."
+    1 string data = "Železniční les? Je to na sever od města, přes tady to nádraží."
    [259]
-    1 string data = "Mám obavy o lidi, co si vzali lístek. Na tom Králi narcisů něco není pořádku..."
+    1 string data = "Mám obavy o lidi, co si vzali lístek. Na tom Narcisovém králi něco není v pořádku..."
    [260]
     1 string data = "Měl jsem štěstí a vyhnul se útoku, ale poškrábali mi mé oblíbené místo na stání!"
    [261]
@@ -551,7 +551,7 @@
    [268]
     1 string data = "Hm, ještě jsem vás tady neviděl! Soutěžíte v minihrách?"
    [269]
-    1 string data = "Mám svůj lístek! Král narcisů má tolik stylu, už se nemůžu dočkat, až to uvidím!"
+    1 string data = "Mám svůj lístek! Narcisový král má tolik stylu, už se nemůžu dočkat, až ho uvidím!"
    [270]
     1 string data = "Viděl jsem všechno! Myslíte, že je Nezkrotná královna silnější než Monsieur Nervé?"
    [271]
@@ -571,7 +571,7 @@
    [278]
     1 string data = "Vítejte v Horloge! Zůstane vaše družina dlouho?"
    [279]
-    1 string data = "Teď všichni mluví o Králi Narcisů! Měl jsem opustit své stanoviště a jít se podívat na průvod."
+    1 string data = "Teď všichni mluví o Narcisovém králi! Měl jsem opustit své stanoviště a jít se podívat na průvod."
    [280]
     1 string data = "Nezkrotná královna? Neměl jsem tuto práci brát, pořád přicházím o všechno zajímavé!"
    [281]
@@ -581,7 +581,7 @@
    [283]
     1 string data = "Ah, vy jste ti, co přijeli výtahem z planin! Všichni jsme mysleli, že je rozbitý!"
    [284]
-    1 string data = "Nelíbí se mi ten Král narcisů. Bez PÓZERA není PLAKÁT, jak já vždycky říkám!"
+    1 string data = "Nelíbí se mi ten Narcisový král. Bez PÓZERA není PLAKÁT, jak já vždycky říkám!"
    [285]
     1 string data = "Vlastně jsem měl vlkodlaky na své bingo kartě."
    [286]
@@ -599,7 +599,7 @@
    [292]
     1 string data = "Přišli jste prozkoumávat? Vlak je celý váš!"
    [293]
-    1 string data = "Nebyl jsem v Železničném lese už dlouho. Slyšel jsem, že jsou tam teď příšery..."
+    1 string data = "Nebyl jsem v Železničním lese už dlouho. Slyšel jsem, že jsou tam teď příšery..."
    [294]
     1 string data = "Vlak je zpátky? Mysleli jsme, že tentokrát je ztracený nadobro!"
    [295]
