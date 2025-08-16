@@ -13,120 +13,120 @@
   1 Array Array (59 items)
    0 int size = 59
    [0]
-    1 string data = "Valere, wait!"
+    1 string data = "Valerie, počkej!"
    [1]
-    1 string data = "Wait? It's you who needs to keep up."
+    1 string data = "Já mám čekat? To vy byste měli udržet krok se mnou."
    [2]
     1 string data = "..."
    [3]
-    1 string data = "And yet you cling to weakness..."
+    1 string data = "A přesto lpíš na slabosti..."
    [4]
-    1 string data = "Don't you see? The frailty of your "friends" dims your light."
+    1 string data = "Nevidíš to? Křehkost tvých 'přátel' tlumí tvé světlo."
    [5]
-    1 string data = "Are they really worthy of the power you wield?"
+    1 string data = "Opravdu ti stojí za tu moc, kterou ovládáš?"
    [6]
-    1 string data = "Having each other is what makes us strong. You can't divide us, so keep your lies!"
+    1 string data = "To, že máme jeden druhého, nás činí silnými. Nemůžeš nás rozdělit, tak si nech své lži!"
    [7]
-    1 string data = "Are you so certain? Is SHE so certain?"
+    1 string data = "Jsi si tím jistý? Je si ONA tak jistá?"
    [8]
-    1 string data = "Talk about poisonous..."
+    1 string data = "Tomuto říkám jed..."
    [9]
-    1 string data = "She wasn't talking to you. Maybe next time let me handle it."
+    1 string data = "Nemluvila k tebě. Příště to nech na mě."
    [10]
-    1 string data = "What? I just wanted to-"
+    1 string data = "Co? Já jen chtěl-"
    [11]
-    1 string data = "It's always about what you want, isn't it?"
+    1 string data = "Vždy jde jen o to, co chceš ty, že?"
    [12]
-    1 string data = "Hey, I..."
+    1 string data = "Hele, já..."
    [13]
-    1 string data = "Whatever. Let's keep going."
+    1 string data = "To je jedno. Pokračujme."
    [14]
-    1 string data = "Poor Valere, always so quiet, so composed..."
+    1 string data = "Ubohá Valerie, pořád taká tichá, taká vyrovnaná..."
    [15]
-    1 string data = "You think all that restraint makes you formidable, but it only makes you empty and afraid. A mere shadow, pretending to be strong."
+    1 string data = "Myslíš si, že tě všechny ten zábrany činí silnou, ale činí tě jen prázdnou a vystrašenou. Pouhým stínem, co předstírá sílu."
    [16]
-    1 string data = "You don't know anything about me."
+    1 string data = "Nic o mně nevíš."
    [17]
-    1 string data = "Oh, but I do. You're terrified of fading away… until there's nothing left of you but silence. A hollow shell."
+    1 string data = "Ale vím. Máš strach z toho, že vyhasneš… až nezůstane nic, jen ticho. Dutá skořápka."
    [18]
-    1 string data = "I..."
+    1 string data = "Já..."
    [19]
-    1 string data = "No! I'll never become what you are!"
+    1 string data = "Ne! Nikdy se nestanu tím, čím jsi ty!"
    [20]
-    1 string data = "Keep telling yourself that. We both know it's only a matter of time."
+    1 string data = "Jen si to namlouvej. Obě víme, že je to jen otázka času."
    [21]
-    1 string data = "ENOUGH!"
+    1 string data = "DOST!"
    [22]
-    1 string data = "Valere, wait! She's just trying to get in your head. You don't have to let her control you like this."
+    1 string data = "Valerie, počkej! Ona se jen snaží zahrávat s tvými myšlenkami. Nemusíš jí nechat tě takto ovládat."
    [23]
-    1 string data = "Stay out of it, Zale! This is between me and her."
+    1 string data = "Drž se stranou, Zale! To je mezi mnou a ní."
    [24]
-    1 string data = "I… I can't believe she just told me off like that. And earlier, too…"
+    1 string data = "Já… nemůžu uvěřit, že mi to právě řekla. A předtím taky…"
    [25]
-    1 string data = "She's struggling, Zale. That Feral Queen knows how to twist people up inside, but we can't let her win."
+    1 string data = "Má to těžké, Zale. Ta Nezkrotná královna umí lidi vnitřně zmást, ale nesmíme jí dovolit vyhrát."
    [26]
-    1 string data = "What if she genuinely doesn't want my help? What if she's better off alone?"
+    1 string data = "Co když opravdu nechce mou pomoc? Co když je jí lépe o samotě?"
    [27]
-    1 string data = "Hey, we're in this together, remember? Valere needs you, even if she doesn't see it right now. Let's go find her."
+    1 string data = "Hele, jsme v tom spolu, pamatuješ? Valerie tě potřebuje, i když to teď nevidí. Pojďme ji najít."
    [28]
-    1 string data = "Light the lights! Curtain up! The crowd craves an encore!"
+    1 string data = "Rozsviťte světla! Oponu nahoru! Publikum touží po přídavku!"
    [29]
-    1 string data = "Oh just get on with it."
+    1 string data = "No tak, už to dokončete."
    [30]
-    1 string data = "Tonight, for your eyes only, we have the treat of a lifetime!"
+    1 string data = "Dnes večer, jen pro vaše oči, máme lahůdku na celý život!"
    [31]
-    1 string data = "A performance so wild the world will shake, for a crowd so riled their shins could break!"
+    1 string data = "Představení tak divoké, že se svět otřese, pro publikum tak rozvášněné, že si jde zlámat holeně!"
    [32]
-    1 string data = "Prepare for an unbridled unnerving of acrimonious aggression, irrigated by infuriation incarnate!"
+    1 string data = "Připravte se na nezkrotné a znepokojující projevy hořké agrese, přiživované ztělesněným vztekem!"
    [33]
-    1 string data = "But beware! For by the end, unlike your very selves, the ovation will surely be standing!"
+    1 string data = "Ale pozor! Neboť na konci, a na rozdíl od vás samotných, budou padat ovace!"
    [34]
-    1 string data = "Now, without further ado, I give you..."
+    1 string data = "A nyní, bez dalších odkladů, vám představuji..."
    [35]
-    1 string data = "THE FERAL QUEEN!!!"
+    1 string data = "NEZKROTNOU KRÁLOVNU!!!"
    [36]
-    1 string data = "Huh!?..."
+    1 string data = "Cože!?..."
    [37]
-    1 string data = "Valere! Are you alright?"
+    1 string data = "Valerie! Jsi v pořádku?"
    [38]
-    1 string data = "About time! Did you get lost on the way or something?"
+    1 string data = "Bylo na čase! Zamotali jste se cestou, nebo co?"
    [39]
-    1 string data = "We're here to help. Will you let us?"
+    1 string data = "Jsme tu, abychom pomohli. Pustíš nás?"
    [40]
-    1 string data = "Just you three? Please, I was hoping for a challenge!"
+    1 string data = "Pouze vy tři? Prosím vás, čekala jsem výzvu!"
    [41]
-    1 string data = "You won't divide us any longer."
+    1 string data = "Teď už nás nerozdělíš."
    [42]
-    1 string data = "Come, then!"
+    1 string data = "Tak pojďte!"
    [43]
-    1 string data = "SHOWTIME!"
+    1 string data = "PODÍVANÁ ZAČÍNÁ!"
    [44]
-    1 string data = "Enough of this. Let's finish it, just you and me. What do you say?"
+    1 string data = "Dost toho. Dokončeme to, jen ty a já. Co říkáš?"
    [45]
-    1 string data = "Zale, I..."
+    1 string data = "Zale, já..."
    [46]
-    1 string data = "I'm beginning to sense it, the control she has over me."
+    1 string data = "Začínám to cítit, tu kontrolu, co nade mnou má."
    [47]
     1 string data = "..."
    [48]
-    1 string data = "We'll talk later, okay? Please, I need to do this alone."
+    1 string data = "Probereme to později, dobře? Prosím, toto musím zvládnout sama."
    [49]
-    1 string data = "Just end this."
+    1 string data = "Už to ukonči."
    [50]
-    1 string data = "Well? Are you ready to show me your real fury?"
+    1 string data = "No? Jsi připravena mi ukázat mi svůj opravdový vztek?"
    [51]
-    1 string data = "I'll show you resolve."
+    1 string data = "Ukážu ti rozřešení."
    [52]
-    1 string data = "You're done."
+    1 string data = "Je po tobě."
    [53]
     1 string data = "Fuwa!?"
    [54]
-    1 string data = "I thought this would feel better... Is she really gone?"
+    1 string data = "Myslela jsem, že to bude lepší pocit... Je opravdu pryč?"
    [55]
-    1 string data = "We'll find out soon enough. Time to pay a visit to this Puppeteer."
+    1 string data = "Brzy to zjistíme. Čas navštívit Loutkářku."
    [56]
-    1 string data = "Something tells me our ticket will come to us."
+    1 string data = "Něco mi říká, že lístek k nám přijde sám."
    [57]
-    1 string data = "Hey, Zale..."
+    1 string data = "Hej, Zale..."
    [58]
-    1 string data = "We should check in with the crew."
+    1 string data = "Měli bychom se spojit s posádkou."
