@@ -57,7 +57,7 @@
    [21]
     1 string data = "Jak se ti líbí moje nová vylepšení?"
    [22]
-    1 string data = "Vlak by měl být v Železničném lese, severně od města."
+    1 string data = "Vlak by měl být v Železničním lese, severně od města."
    [23]
     1 string data = "Řekl bych, že jsme začali skvěle!"
    [24]
@@ -83,7 +83,7 @@
    [34]
     1 string data = "Musím říct, že tyhle nové role vám opravdu sedí."
    [35]
-    1 string data = "Prozkoumávání Železničného lesa? To zní jako pořádné dobrodružství!"
+    1 string data = "Prozkoumávání Železničního lesa? To zní jako pořádné dobrodružství!"
    [36]
     1 string data = "Připravte se, braši."
    [37]

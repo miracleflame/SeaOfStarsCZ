@@ -77,7 +77,7 @@
    [31]
     1 string data = "Slavnostní pozvánka do Loutkářčinho ředitelství."
    [32]
-    1 string data = "Hedvábná jízdenka"
+    1 string data = "Hedvábná vstupenka"
    [33]
     1 string data = "Zaručuje vstup do sídla Narcisového krále."
    [34]
@@ -159,7 +159,7 @@
    [72]
     1 string data = "Pěkně zafixuje zápěstí."
    [73]
-    1 string data = "Náramek Mistrhazu"
+    1 string data = "Náramek Mistrvrhu"
    [74]
     1 string data = "Zaručí volnost i pohodlí při každém pohybu."
    [75]

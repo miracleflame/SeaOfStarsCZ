@@ -93,7 +93,7 @@
    [39]
     1 string data = "Pasažér"
    [40]
-    1 string data = "Uhlomlat"
+    1 string data = "Uhelmlat"
    [41]
     1 string data = "Opona padá"
    [42]
@@ -157,7 +157,7 @@
    [71]
     1 string data = "Velkopal"
    [72]
-    1 string data = "Podržením <button="Interact"> přejdete do pózy limbo a uvolněním pošlete kolíky do vzduchu."
+    1 string data = "Podržením <button="Interact"> přejdete do pózy limbo a uvolněním vystřelíte kuležky."
    [73]
     1 string data = "Skok o krtku"
    [74]

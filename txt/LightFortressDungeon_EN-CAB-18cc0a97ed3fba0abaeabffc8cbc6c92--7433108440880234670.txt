@@ -21,13 +21,13 @@
    [3]
     1 string data = "Jak si přeješ, můj pane."
    [4]
-    1 string data = "Vypadá to jako zbytečná hromada harampádí..."
+    1 string data = "Vypadá to jako hromada zbytečného harampádí..."
    [5]
     1 string data = "(!!!)"
    [6]
     1 string data = "Promiň, [MAINCHAR]."
    [7]
-    1 string data = "(Spike, pořád máš ten návrh membrány?)"
+    1 string data = "(Spiku, pořád máš ten návrh membrány?)"
    [8]
     1 string data = "(Si piš.)"
    [9]
@@ -45,9 +45,9 @@
    [15]
     1 string data = "Tak toto je ten velký Zale, ochránce slunce."
    [16]
-    1 string data = "Řekni mi, opravdu ti záleží na lidech, které chráníš? Nebo je pro tebe hrozně důležité být vnímán jako hrdina?"
+    1 string data = "Řekni mi, opravdu ti záleží na lidech, které chráníš? Nebo je pro tebe hrozně podstatné být vnímán jako hrdina?"
    [17]
-    1 string data = "Co? Ne, to není důvod, proč já-"
+    1 string data = "Co? Ne, to není důvod, proč-"
    [18]
     1 string data = "Hahahaha! Ach, to rozkošné popírání."
    [19]
@@ -59,7 +59,7 @@
    [22]
     1 string data = "Víš vůbec, co chceš kromě té únavné role 'ochránce'? Copak nemáš tušení, jak to slouží TOBĚ?"
    [23]
-    1 string data = "Přiznej si to, Zale. Jsme stejní. Schováváš se za morálností, ale hluboko uvnitř toužíš po stejném uznání a obdivu, který já vyvolávám."
+    1 string data = "Přiznej si to, Zale. Jsme stejní. Schováváš se za morálností, ale hluboko uvnitř toužíš po stejném uznání a obdivu, které já vyvolávám."
    [24]
     1 string data = "Jsi jen moje zvrácená verze!"
    [25]
@@ -71,29 +71,29 @@
    [28]
     1 string data = "Hahahaha! Zdá se, že potřebuješ víc času... na zamyšlení nad svou pravou podstatou..."
    [29]
-    1 string data = "Jak organičtí diváci tak i mechanickí zákazníci, přistupte blíž, tohle představení nesmíte propásnout!"
+    1 string data = "Jak organičtí diváci tak i mechaničtí zákazníci, přistupte blíž, tohle představení nesmíte propásnout!"
    [30]
-    1 string data = "Dnes, a pouze dnes večer, máme vystoupení, které vám rozhodně smete ponožky!"
+    1 string data = "Dnes, a pouze dnes večer, tu máme vystoupení, které vám zaručeně smete ponožky!"
    [31]
-    1 string data = "Odvážné představení infuzní nejistoty, zformované do drsné bojechtivé krásy."
+    1 string data = "Opovážlivá ukázka nasycené nejistoty, zformované do drsné bojechtivé krásy."
    [32]
-    1 string data = "Ohromná symetrie hříchu, viditelná na samotné vizáži!"
+    1 string data = "Ochromující symetrie hříchu, patrná na samotné vizáži!"
    [33]
     1 string data = "Jedine on... Ten pravý..."
    [34]
     1 string data = "NARCISOVÝ KRÁL!!!"
    [35]
-    1 string data = "Ah, konečně. Vítej v mé trůnní síni, kde sídlí skutečná moc, osvobozená od dětských ideálů."
+    1 string data = "Ach, konečně. Vítej v mé trůnní síni, kde sídlí skutečná moc, osvobozená od dětinských ideálů."
    [36]
     1 string data = "Líbí se ti, co vidíš? Tady jsi mohl stát… kdybys přijal, kým opravdu jsi."
    [37]
-    1 string data = "Chápeme, velký chlape. Jsi plný sebe sama."
+    1 string data = "Chápeme, velikáne. Jsi plný sebe sama."
    [38]
     1 string data = "Tohle není vtip, Valerie..."
    [39]
-    1 string data = "Hele, jen jsem se snažila uvolnit atmosféru. Čelili jsme horším věcem, že?"
+    1 string data = "Hele, jen jsem se snažila odlehčit atmosféru. Čelili jsme i horším věcem, že?"
    [40]
-    1 string data = "Směje se, protože nerozumí. To je mi ale partnerka, když si úplně neuvědomuje, co skrýváš."
+    1 string data = "Vysmívá se, protože nechápe. To je mi ale partnerka, když si úplně neuvědomuje, co skrýváš."
    [41]
     1 string data = "..."
    [42]
@@ -101,13 +101,13 @@
    [43]
     1 string data = "SHOW ZAČÍNÁ!"
    [44]
-    1 string data = "Nemožné... Bezvadný povrch by měl zvítězit nad integritou... Vnímání je důležitější než obsah... Proč něco dělat, když nikdo nezačne závidět...?"
+    1 string data = "Nemožné... Bezvadný povrch by měl zvítězit nad podstatou... Forma je důležitější než obsah... K čemu dělat něco, pokud nikdo nezačne závidět...?"
    [45]
     1 string data = "Ty vlasy si děláš špatně."
    [46]
     1 string data = "Jsi v pořádku, Zale?"
    [47]
-    1 string data = "Je to jen..."
+    1 string data = "Jde o to..."
    [48]
     1 string data = "Co když má pravdu?"
    [49]
@@ -115,34 +115,34 @@
    [50]
     1 string data = "..."
    [51]
-    1 string data = "Narcisový král je tak chytrý, že dělá věci jen tak dlouho, aby mohl předvést širokou škálu schopností. Neplýtvá ani minutou navíc."
+    1 string data = "Narcisový král je moc chytrý. Dělá věci jenom do té míry, aby mohl předváděť jak širokou škálu dovedností zná. Neplýtvá ani minutou navíc."
    [52]
-    1 string data = "Když jsem tu byl, naučil jsem se, že nemá smysl dělat cokoli, když máš dobrý obraz, který můžeš ukázat. Když se chci udržet nad ostatními, je lepší diverzifikovat!"
+    1 string data = "Pobyt tady mě naučil, že nemá smysl cokoli dělat, pokud nemůžu ukázat něco na oko hezké. Když chci vyčnívat, je lepší diverzifikovat!"
    [53]
-    1 string data = "Máš pódium správně? Chci dál objevovat!"
+    1 string data = "Máte ten stupen vítězů správně? Chci dál objevovat!"
    [54]
-    1 string data = "Nohy patři dole, samozřejmě. Musíme zjistit, co každý symbol znamená..."
+    1 string data = "Nohy patři samozřejmě naspod. Musíme zjistit, co každý symbol znamená..."
    [55]
-    1 string data = "Mám rád Narcisového krále, konečně někdo, kdo chápe, že množství je důležitější než kvalita!"
+    1 string data = "Narcisový král se mi líbí, konečně někdo, kdo chápe, že kvantina je důležitější než kvalita!"
    [56]
-    1 string data = "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být počítána podle kriterií Narcisového krále."
+    1 string data = "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být vyčíslena podle kriterií Narcisového krále."
    [57]
-    1 string data = "Slyšel jsem, jak strážce předtím říkal "odraz otevírá cestu". Co tím podle tebe myslel?"
+    1 string data = "Slyšela jsem, jak strážce předtím říkal "odraz otevírá cestu". Co tím podle vás myslel?"
    [58]
-    1 string data = "Narcisový král vypadá dost schopně. Zajímalo by mě, kterou schopnost se naučil jako první."
+    1 string data = "Narcisový král vypadá dost talentovaně. Zajímalo by mě, kterou dovednost se naučil jako první."
    [59]
-    1 string data = "To jsou odznaky?"
+    1 string data = "Tohle jsou odznaky?"
    [60]
-    1 string data = "Podlaha je bez poskvrny! Ale musím říct, že by to vypadalo ještě líp, kdyby odraz drahokamu byl v ose těch zdobených dveří."
+    1 string data = "Podlaha je bez poskvrny! Ale musím říct, že by to vypadalo ještě líp, kdyby odraz drahokamu byl zarovno těch zdobených dveří."
    [61]
     1 string data = "Je to zapečetěné. Budeme muset nějak aktivovat ty čtyři symboly."
    [62]
     1 string data = "Podívej na to... Všechno je tady tak velkolepé..."
    [63]
-    1 string data = "Mé staré kolena potřebují pauzu! To musí být to moře schodů, o kterém všichni vyprávěli."
+    1 string data = "Má stará kolena potřebují oddech! To musí být tím mořem schodů, o kterém všichni vyprávěli."
    [64]
-    1 string data = "To je pravé zlato?"
+    1 string data = "Je tohle pravé zlato?"
    [65]
-    1 string data = "Tohle místo se mi moc nelíbí, ale Narcisový král je docela fajn jméno."
+    1 string data = "Tohle místo se mi moc nelíbí, ale Narcisový král je docela hustý jméno."
    [66]
-    1 string data = "Nejdřív mě to tu nějak povzbuzovalo, ale teď mám spíš pocit, jako by mi v životě chyběli věci, které chci jenom proto, že to někdo jiný říká, že bych měl."
+    1 string data = "Nejdřív mě to tu tak nějak naplňovalo, ale teď mám spíš pocit, jako by mi v životě chyběli věci jenom proto, že někdo jiný říká, že je mám chtít."

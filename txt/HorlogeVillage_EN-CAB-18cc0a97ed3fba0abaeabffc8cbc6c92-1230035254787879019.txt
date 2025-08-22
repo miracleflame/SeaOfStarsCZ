@@ -229,7 +229,7 @@
    [107]
     1 string data = "Jsem spíš zvědavá než cokoliv jiného."
    [108]
-    1 string data = "Já nevím, dokážu si představit, že ten tvůj bude dost drsný."
+    1 string data = "Já nevím, dokážu si představit, že ta tvá bude dost drsná."
    [109]
     1 string data = "Hej!"
    [110]
@@ -289,13 +289,13 @@
    [137]
     1 string data = "Nezkrotná královna?"
    [138]
-    1 string data = "Bit ov a pent-up anger issue, aye?"
+    1 string data = "Bublá vztekem jak papiňák, aye?"
    [139]
     1 string data = "..."
    [140]
-    1 string data = "Nothing y'all can't fix, I'm sure!"
+    1 string data = "Pro vás levou zadní, mám pravdu?"
    [141]
-    1 string data = "Y'alright there, Zale?"
+    1 string data = "Jseš v cajku, Zale?"
    [142]
     1 string data = "Hej, půjdu se podívat po dalším lístku. Vy dva si trochu oddechněte, jo?"
    [143]
@@ -335,7 +335,7 @@
    [160]
     1 string data = "Valerie! Arty říkal-"
    [161]
-    1 string data = "Oh, konečně už jsi skončil s tím fňukáním? Nemáme celý den, je čas jít!"
+    1 string data = "No konečně, už jsi skončil s tím fňukáním? Nemáme celý den, je čas jít!"
    [162]
     1 string data = "Cože? Jenom jsem si dával pauzu…"
    [163]
@@ -343,7 +343,7 @@
    [164]
     1 string data = "Dobře. Jsem připravený."
    [165]
-    1 string data = "...A pak povídá, “Gatě? Jaké gatě?""
+    1 string data = "...A pak povídá, "Gatě? Jaké gatě?""
    [166]
     1 string data = "HAHAHAHAHA!"
    [167]
@@ -361,7 +361,7 @@
    [173]
     1 string data = "Taky ve mně vyvolala řadu pochybností, ale po tom, co jsem se s ní utkala, to vidím jasněji."
    [174]
-    1 string data = "Všichni máme část sebe sama, na kterou nejsme hrdí... Ale možná, že rozdíl je v tom, že nám záleží na tom, co znamená, a že jsme ochotni jí čelit."
+    1 string data = "Všichni máme část sebe sama, na kterou nejsme hrdí... Ale možná, že rozdíl je v tom, že nám záleží na tom, co to znamená, a že jsme ochotni tomu čelit."
    [175]
     1 string data = "Naši dvojníci jsou možná svou temnou stránkou pohlceni, ale my nemusíme být."
    [176]
@@ -371,7 +371,7 @@
    [178]
     1 string data = "Hele, vy dva jste se setkali tváří v tvář se svými nejhoršími vlastnostmi a stejně jste se vrátili!"
    [179]
-    1 string data = "To o vás vypovídá mnohem víc než cokoliv, co by kdy mohli nějací zlí dvojníci."
+    1 string data = "To o vás vypovídá mnohem víc než cokoliv, co by kdy mohli říct nějací zlí dvojníci."
    [180]
     1 string data = "Promiňte, [MAINCHAR] a [OFFCHAR]?"
    [181]
@@ -419,7 +419,7 @@
    [202]
     1 string data = "Byla to divoká jízda, ale je čas se vrátit. Skutečný svět čeká a Karnimant stále představuje hrozbu."
    [203]
-    1 string data = "Aye, it's a wrap, then? Lead the way, mate. I do be missin' this lil' boat ov ours!"
+    1 string data = "Aye, balíme to tedy? Zadej kurz, kamaráde. Budu mít stesk po tydle naší kocábce!"
    [204]
     1 string data = "S prominutím… než odejdeme, mohl bych…"
    [205]
@@ -429,7 +429,7 @@
    [207]
     1 string data = "Skvěle, další velké dobrodružství! Budu se na něj těšit!"
    [208]
-    1 string data = "So that the future may be, a vision lies within. Jsi-li hoden jejího spravování, představ se."
+    1 string data = "Nechť se budoucnost zrodí, v nitru dlí vize. Jsi-li hoden jejího spravování, představ se."
    [209]
     1 string data = "Tohle není pro nás..."
    [210]
@@ -451,13 +451,13 @@
    [218]
     1 string data = "Naprosto! Nebude to trvat dlouho!"
    [219]
-    1 string data = "Dobře, teď se jen "představit"…"
+    1 string data = "Dobře, teď se jen 'představit'…"
    [220]
     1 string data = "*ehm*... Fajn, tak co třeba…"
    [221]
     1 string data = "Ovatko času!"
    [222]
-    1 string data = "So that the future may be, ten, jehož společníkem je krkavec, povolil můj návrat."
+    1 string data = "Nechť se budoucnost zrodí, ten, jehož společníkem je krkavec, povolil můj návrat."
    [223]
     1 string data = "Bylo mi ukázáno zrození tohoto světa a pozoroval jsem toho, jehož společníkem je vrabec."
    [224]
@@ -481,7 +481,7 @@
    [233]
     1 string data = "A já vytvořím to nejsilnější zaklínadlo, jaké kdy svět viděl."
    [234]
-    1 string data = "Bouři dost velkou na to, aby pohltila veškerý život! Naprostou zkázu!"
+    1 string data = "Bouři dost velkou na to, aby pohltila veškerý život! Naprostou pohromu!"
    [235]
     1 string data = "Ano... obrovskou potopu..."
    [236]
@@ -551,7 +551,7 @@
    [268]
     1 string data = "Hm, ještě jsem vás tady neviděl! Soutěžíte v minihrách?"
    [269]
-    1 string data = "Mám svůj lístek! Narcisový král má tolik stylu, už se nemůžu dočkat, až ho uvidím!"
+    1 string data = "Mám svůj lístek! Narcisový král je tak stylový, už se nemůžu dočkat, až ho uvidím!"
    [270]
     1 string data = "Viděl jsem všechno! Myslíte, že je Nezkrotná královna silnější než Monsieur Nervé?"
    [271]
@@ -559,7 +559,7 @@
    [272]
     1 string data = "Díky za pomoc, ale popravdě mi ta akce trochu chybí."
    [273]
-    1 string data = "Žili jsme v míru, než přišla Loutkářka. Ulice byly plné smíchu..."
+    1 string data = "Než přišla Loutkářka, žili jsme v míru. Ulice byly plné smíchu..."
    [274]
     1 string data = "Mysleli byste, že už máme starostí dost, a teď ještě král?"
    [275]
@@ -569,7 +569,7 @@
    [277]
     1 string data = "Nikdy bych nevěřil, že se toho dne dočkám! Děkuji vám, stateční dobrodruzi!"
    [278]
-    1 string data = "Vítejte v Horloge! Zůstane vaše družina dlouho?"
+    1 string data = "Vítejte v Horloge! Zdrží se vaše družina na nějaký čas?"
    [279]
     1 string data = "Teď všichni mluví o Narcisovém králi! Měl jsem opustit své stanoviště a jít se podívat na průvod."
    [280]
@@ -631,7 +631,7 @@
    [308]
     1 string data = "Tohle všechno kvůli výtahu...?"
    [309]
-    1 string data = "Máma říká, že jsem na Kotouče moc malý, ale o koukání neřekla nic!"
+    1 string data = "Máma říká, že jsem na Kotouče moc malá, ale o koukání neřekla nic!"
    [310]
     1 string data = "Je fajn mít zase hospodu. Není nad dobrý olejový drink po těžkém dni."
    [311]
@@ -641,11 +641,11 @@
    [313]
     1 string data = "Pif a Puf jsou bez nejmenších pochyb, v každém ohledu a zcela jasně, dva z přisluhovačů Loutkářky."
    [314]
-    1 string data = "Fardush je zpátky ve městě, co? Dostane zpět svůj vlak?"
+    1 string data = "Fardush je zpátky ve městě, co? Podaří se mu získat zpět svůj vlak?"
    [315]
     1 string data = "Bylo to dost děsivé, když se objevil Monsieur Nervé. Ale teď můžeme zase hrát Kotouče, takže dnešek je všehovšudy dobrý den."
    [316]
-    1 string data = "Nikdy předtím jsem takové instrumenty neviděl. Fascinující!"
+    1 string data = "Nikdy předtím jsem takové hudební nástroje neviděl. Fascinující!"
    [317]
     1 string data = "Vlak už zase jezdí? No konečně, už je to doba, co jsem byl naposled rybařit na svém oblíbeném místečku."
    [318]
@@ -715,7 +715,7 @@
    [350]
     1 string data = "Nikdy jsem nešel dovnitř do Zapomění. Ne že bych chtěl!"
    [351]
-    1 string data = "Nikdy jsem nešel do Železničného lesa. Ne že bych chtěl!"
+    1 string data = "Nikdy jsem nešla do Železničního lesa. Ne že bych chtěl!"
    [352]
     1 string data = "Nikdy jsem nešel do Slonovinových věží. Ne že bych chtěl!"
    [353]

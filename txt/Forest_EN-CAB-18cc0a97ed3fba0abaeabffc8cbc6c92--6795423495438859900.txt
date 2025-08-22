@@ -25,7 +25,7 @@
    [5]
     1 string data = "Nevím jak vy, ale už mám dost toho vlaku!"
    [6]
-    1 string data = "Jsi na řadě, Valtraide. Pohyb!"
+    1 string data = "Jsi na řadě, Valtraide. Fofrem!"
    [7]
     1 string data = "Vlakový suplex"
    [8]

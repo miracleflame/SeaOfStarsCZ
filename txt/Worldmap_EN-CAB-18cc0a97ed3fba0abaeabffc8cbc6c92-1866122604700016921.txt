@@ -27,7 +27,7 @@
    [6]
     1 string data = "Ne"
    [7]
-    1 string data = "Předložte, prosím, svou Hedvábnou jízdenku."
+    1 string data = "Předložte, prosím, svou Hedvábnou vstupenku."
    [8]
     1 string data = "Předložte, prosím, svou Vlkodenku."
    [9]

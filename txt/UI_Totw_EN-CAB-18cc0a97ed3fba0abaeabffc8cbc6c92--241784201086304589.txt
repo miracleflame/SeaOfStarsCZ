@@ -35,15 +35,15 @@
    [10]
     1 string data = "<button="Cancel"> Odejít"
    [11]
-    1 string data = "<button="Interact"> Táhnout figurkou"
+    1 string data = "<button="Interact"> Pohnout kouskem"
    [12]
     1 string data = "<button="MoveAll"> Vybrat"
    [13]
-    1 string data = "<button="Interact"> Aktivovat figurku"
+    1 string data = "<button="Interact"> Aktivovat kousek"
    [14]
-    1 string data = "<button="Interact"> Deaktivovat figurku"
+    1 string data = "<button="Interact"> Deaktivovat kousek"
    [15]
-    1 string data = "<button="RewindTime"><button="AdvanceTime"> Otočit figurku"
+    1 string data = "<button="RewindTime"><button="AdvanceTime"> Otočit kouskem"
    [16]
     1 string data = "<button="Cancel"> Odejít"
    [17]
@@ -53,15 +53,15 @@
    [19]
     1 string data = "<button="MoveHorizontal"> Vybrat sloupec"
    [20]
-    1 string data = "<button="MoveHorizontal"> Táhnout figurkami"
+    1 string data = "<button="MoveHorizontal"> Pohnout kouskama"
    [21]
-    1 string data = "<button="MoveVertical"> Táhnout figurkami"
+    1 string data = "<button="MoveVertical"> Pohnout kouskama"
    [22]
     1 string data = "<button="Cancel"> Odejít"
    [23]
     1 string data = "<button="MoveAll"> Vybrat"
    [24]
-    1 string data = "<button="Interact"><button="WindBracelet"> Přecházet figurkami"
+    1 string data = "<button="Interact"><button="WindBracelet"> Přepnout kousek"
    [25]
     1 string data = "<button="RewindTime"><button="AdvanceTime"> Otočit světla"
    [26]
