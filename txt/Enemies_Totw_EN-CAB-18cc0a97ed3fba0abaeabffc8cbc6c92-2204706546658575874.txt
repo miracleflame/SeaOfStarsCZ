@@ -59,7 +59,7 @@
    [22]
     1 string data = "Věštkyně"
    [23]
-    1 string data = "Koleso"
+    1 string data = "Kotouč"
    [24]
     1 string data = "Dynamyš"
    [25]

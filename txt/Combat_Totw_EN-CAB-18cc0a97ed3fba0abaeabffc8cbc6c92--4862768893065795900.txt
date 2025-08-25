@@ -19,15 +19,15 @@
    [2]
     1 string data = "Visutá hrazda"
    [3]
-    1 string data = "Nanejvýš působivá ukázka zručnosti, která způsobuje opakované Magické a Bonk poškození."
+    1 string data = "Nanejvýš působivá ukázka zručnosti, která způsobuje opakované zářivé a bonk poškození."
    [4]
     1 string data = "Lunabo"
    [5]
-    1 string data = "Podržením <button="Interact"> se vyhnete Magickým paprskům, uvolněním zachytíte ty léčivé."
+    1 string data = "Podržením <button="Interact"> se vyhnete zářivým paprskům, uvolněním zachytíte ty léčivé."
    [6]
     1 string data = "Žonglord"
    [7]
-    1 string data = "Příval kuželek způsobuje cíli poškození Ohněm a Bonkem. Stisknutím při zásahu pokračujete."
+    1 string data = "Příval kuželek způsobuje cíli poškození ohněm a bonkem. Stisknutím při zásahu pokračujete."
    [8]
     1 string data = "Základní útok (BM +3)"
    [9]
@@ -35,11 +35,11 @@
    [10]
     1 string data = "Dortomet"
    [11]
-    1 string data = "Hodí na cíl dort, který mírně léčí BŽ."
+    1 string data = "Hodí na cíl dort, který obnovuje střední množství BŽ."
    [12]
     1 string data = "Skok o tyči"
    [13]
-    1 string data = "Vzdušná akrobacie dopadne přímo na cíl a způsobí střední Bonk poškození."
+    1 string data = "Vzdušná akrobacie dopadne přímo na cíl a způsobí střední bonk poškození."
    [14]
     1 string data = "Podržte <button="interact"> pro zvýšení síly a uvolněte při maximálním napětí."
    [15]
@@ -47,11 +47,11 @@
    [16]
     1 string data = "Základní útok (BM +3)"
    [17]
-    1 string data = "Doktor Bim"
+    1 string data = "Léčivý paprsek"
    [18]
-    1 string data = "Vyléčí spojence o výraznou částku. Stiskněte <button="Interact"> ve chvíli, kdy se drahokam zarovná, pro lepší výsledek."
+    1 string data = "Výrazně vyléčí spojence. Stiskněte <button="Interact"> ve chvíli, kdy zaměříte na drahokam, pro lepší výsledek."
    [19]
-    1 string data = "Vyléčí spojence nebo zaútočí na nepřítele o významnou částku. Stiskněte <button="Interact"> ve chvíli, kdy se drahokam zarovná, pro lepší výsledek."
+    1 string data = "Výrazně vyléčí spojence nebo zaútočí na nepřítele. Stiskněte <button="Interact"> ve chvíli, kdy zaměříte na drahokam, pro lepší výsledek."
    [20]
     1 string data = "Dělová trampolína"
    [21]
@@ -63,19 +63,19 @@
    [24]
     1 string data = "Skok žabáka"
    [25]
-    1 string data = "Skáče po cílech a při každém odrazu způsobí Laserové poškození."
+    1 string data = "Skáče po cílech a při každém odrazu způsobí laserové poškození."
    [26]
     1 string data = "Galette des Rois"
    [27]
-    1 string data = "Z nebe padají záhadné krabice, některé léčí spojence, jiné způsobují nepřátelům poškození Bonk."
+    1 string data = "Z nebe padají záhadné krabice, některé léčí spojence, jiné způsobují nepřátelům bonk poškození."
    [28]
-    1 string data = "Hromada žabáka"
+    1 string data = "Žabí stojka"
    [29]
-    1 string data = "Skáče z cílů a při každém odrazu způsobuje Laserové a Magické poškození."
+    1 string data = "Skáče po cílech a při každém odrazu způsobí laserové a zářivé poškození."
    [30]
     1 string data = "Žonglcore"
    [31]
-    1 string data = "Vícenásobné střední poškození typu Bonk, Oheň a Magie jednomu cíli."
+    1 string data = "Vícenásobné střední poškození typu bonk, oheň a záře jednomu cíli."
    [32]
     1 string data = "Spektakulární úder"
    [33]
@@ -111,7 +111,7 @@
    [48]
     1 string data = "Čelovice"
    [49]
-    1 string data = "Cymbalový štít"
+    1 string data = "Činelový štít"
    [50]
     1 string data = "Puk, puk, kdo tam?"
    [51]
@@ -123,13 +123,13 @@
    [54]
     1 string data = "Mantra"
    [55]
-    1 string data = "Vrh přeludu"
+    1 string data = "Vrh přeludů"
    [56]
     1 string data = "Výpad"
    [57]
     1 string data = "Proměna"
    [58]
-    1 string data = "Ozubený děšť"
+    1 string data = "Ozubený déšť"
    [59]
     1 string data = "Vyvolajíčko"
    [60]
@@ -137,7 +137,7 @@
    [61]
     1 string data = "Dálniční osel"
    [62]
-    1 string data = "Pád hvězdy"
+    1 string data = "Padající hvězda"
    [63]
     1 string data = "Obrácené sluneční koule"
    [64]
@@ -187,15 +187,15 @@
    [86]
     1 string data = "Zale se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-sunbalancing"> <color=#326d9c>Slunbalanc</color>!"
    [87]
-    1 string data = "Valerie a Arty se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-heapfrog"> <color="magic">Hromada žabáka</color>!"
+    1 string data = "Valerie a Arty se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-heapfrog"> <color="magic">Žabí stojka</color>!"
    [88]
-    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><br><br><br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampolinový tým</color>!"
+    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><br><br><br><sprite="dialog-inventory-icons-totw" name="icn-combos-trampolineteam"> <color=#326d9c>Trampolínový tým</color>!"
    [89]
     1 string data = "Valerie se naučila novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-valere-trapeze"> <color=#326d9c>Visutá hrazda</color>!"
    [90]
     1 string data = "[MAINCHAR] a [OFFCHAR] se naučli nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-jugglecore"> <color="magic">Žonglcore</color>!"
    [91]
-    1 string data = "Arty se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-bigbim"> <color=#326d9c>Doktor Bim</color>!"
+    1 string data = "Arty se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-bigbim"> <color=#326d9c>Léčivý paprsek</color>!"
    [92]
     1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-terrifictroupe"> <color=#326d9c>Šílená trupa</color>!"
    [93]
@@ -207,13 +207,13 @@
    [96]
     1 string data = "Regulérní útok. Zasáhne vždy, ale může být zmírněn blokem."
    [97]
-    1 string data = "Snižuje poškození způsobené útokem. Odráží rizikový útok."
+    1 string data = "Snižuje poškození způsobené útokem. Odráží riskantní útok."
    [98]
     1 string data = "Způsobuje masivní poškození, ale lze ho odrazit obranou."
    [99]
     1 string data = "Ego Narcisového krále nabíjí zrcadlo."
    [100]
-    1 string data = "Jedno ze zrcadel Narcisového krále začalo nabíjet svůj ultimátní útok!<br><br>Zaútočte na kliku vpravo, aby se reflektory nedostaly k zrcadlům."
+    1 string data = "Jedno ze zrcadel Narcisového krále začalo nabíjet jeho ultimátní útok!<br><br>Zaútočte na kliku vpravo, aby se reflektory nedostaly k zrcadlům."
    [101]
     1 string data = "Přiživovač soužení kontroluje situaci."
    [102]

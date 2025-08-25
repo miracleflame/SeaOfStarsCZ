@@ -67,7 +67,7 @@
    [26]
     1 string data = "Muladron"
    [27]
-    1 string data = "Přátelský dron, který se umí zmenšit a přenášet různé předměty."
+    1 string data = "Přátelský dron, který umí zmenšit a přenášet různé předměty."
    [28]
     1 string data = "Dialokus"
    [29]
@@ -75,7 +75,7 @@
    [30]
     1 string data = "Tiktadenka"
    [31]
-    1 string data = "Slavnostní pozvánka do Loutkářčinho ředitelství."
+    1 string data = "Slavnostní pozvánka do Loutkářčina sídla."
    [32]
     1 string data = "Hedvábná vstupenka"
    [33]
@@ -105,13 +105,13 @@
    [45]
     1 string data = "Připraveno k puknutí."
    [46]
-    1 string data = "Šlehačka"
+    1 string data = "Smetana"
    [47]
     1 string data = "S nádechem vanilky."
    [48]
     1 string data = "Máslo"
    [49]
-    1 string data = "Jakoby zlato a sůl měly dítě."
+    1 string data = "Jako by zlato a sůl měly dítě."
    [50]
     1 string data = "Magnetický háček"
    [51]
@@ -247,13 +247,13 @@
    [116]
     1 string data = "Naučí vás připravit Karamelovou kukuřici."
    [117]
-    1 string data = "Recept: Barbapapa"
+    1 string data = "Recept: Cukrová vata"
    [118]
-    1 string data = "Naučí vás připravit Barbapapu."
+    1 string data = "Naučí vás připravit Cukrovou vatu."
    [119]
     1 string data = "Popcorn"
    [120]
-    1 string data = "Spočátku příliš slaný, ale nejde s ním přestat."
+    1 string data = "Zpočátku příliš slaný, ale nejde s ním přestat."
    [121]
     1 string data = "Zmrzlina"
    [122]
@@ -267,7 +267,7 @@
    [126]
     1 string data = "Dokonce i ti, co se vzdávaj, tohle dojedí."
    [127]
-    1 string data = "Barbapapa"
+    1 string data = "Cukrová vata"
    [128]
     1 string data = "Bez výživy, ale vždycky potěší."
    [129]
@@ -289,27 +289,27 @@
    [137]
     1 string data = "Opasek s měsíční mincí"
    [138]
-    1 string data = "Zvyšuje léčení Lunabo o <color="menuhighlight">50%</color>."
+    1 string data = "Zvyšuje léčení Lunaba o <color="menuhighlight">50 %</color>."
    [139]
     1 string data = "Mechanický monokl"
    [140]
-    1 string data = "V souboji zobrazuje slabiny a BŽ nepřátel, krom bossů."
+    1 string data = "V souboji zobrazuje slabiny a BŽ nepřátel kromě bossů."
    [141]
     1 string data = "Dielektrický nátěr"
    [142]
-    1 string data = "Dovednost Doktor Bim lze použít i na nepřátele pro masivní poškození."
+    1 string data = "Dovednost Léčivý paprsek lze použít i na nepřátele pro masivní poškození."
    [143]
     1 string data = "Třetí dech"
    [144]
-    1 string data = "Zvyšuje sílu útoku o <color="menuhighlight">33%</color>, když máte pod 40 % BŽ."
+    1 string data = "Zvyšuje sílu útoku o <color="menuhighlight">33 %</color>, když máte pod 40 % BŽ."
    [145]
     1 string data = "Katalyzátor pout duše"
    [146]
-    1 string data = "V souboji obnovuje BŽ celé družině ve výši <color="menuhighlight">50%</color> spotřebovaných BM."
+    1 string data = "V souboji obnovuje BŽ celé družině ve výši <color="menuhighlight">50 %</color> spotřebovaných BM."
    [147]
     1 string data = "Skleněné dělo"
    [148]
-    1 string data = "Max BŽ <color="bad">-40%</color>. Dovednosti stojí o <color="menuhighlight">-2</color> BM méně."
+    1 string data = "Max BŽ <color="bad">-40 %</color>. Dovednosti stojí o <color="menuhighlight">2</color> BM méně."
    [149]
     1 string data = "Čelenka vysávání"
    [150]
@@ -323,7 +323,7 @@
    [154]
     1 string data = "Obrana <color="menuhighlight">+5</color>, Magická obrana <color="menuhighlight">+5</color>."
    [155]
-    1 string data = "Samoplnící kbelík popcornu"
+    1 string data = "Bezedný kbelík popcornu"
    [156]
     1 string data = "Snižuje cenu všech pamlsků."
    [157]

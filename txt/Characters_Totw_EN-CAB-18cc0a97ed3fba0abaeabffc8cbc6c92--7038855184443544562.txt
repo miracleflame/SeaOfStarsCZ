@@ -33,7 +33,7 @@
    [9]
     1 string data = "Žonglér"
    [10]
-    1 string data = "Akrobat"
+    1 string data = "Akrobatka"
    [11]
     1 string data = "Barma'thazël"
    [12]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "Muka Hodinářky"
    [15]
-    1 string data = "Karnevalová pokladnice"
+    1 string data = "Karnevalová pokladní"
    [16]
     1 string data = "Obsluha atrakcí"
    [17]
@@ -51,6 +51,6 @@
    [18]
     1 string data = "Mladší zástupce bachaře"
    [19]
-    1 string data = "Dozorce Zlatětřpit"
+    1 string data = "Dozorce Zlatětřpyt"
    [20]
-    1 string data = "Herold nejvyšší vážnosti"
+    1 string data = "Posel nejvyšší vážnosti"
