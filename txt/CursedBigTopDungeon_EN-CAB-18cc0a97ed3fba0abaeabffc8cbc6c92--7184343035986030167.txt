@@ -233,194 +233,194 @@
    [109]
     1 string data = "(Tak tedy pospěšme si.)"
    [110]
-    1 string data = "Don't give in now, okay? You've come too far to let this break you."
+    1 string data = "Teď to nevzdávej, ano? Došla jsi už příliš daleko, než aby tě tohle zlomilo."
    [111]
-    1 string data = "Remember who you are, and what you're fighting for. I believe in you."
+    1 string data = "Pamatuj, kdo jsi a za co bojuješ. Věřím ti."
    [112]
-    1 string data = "Ah, how touching! Your so-called friend couldn't even stick around."
+    1 string data = "Ach, jak dojemné! Tvůj takzvaný přítel ani nevydržel po tvém boku."
    [113]
-    1 string data = "Did the pressure break him, or does he finally know better than to rely on weaklings?"
+    1 string data = "Zlomil ho tlak, nebo už konečně pochopil, že se nemá spoléhat na slabošky?"
    [114]
-    1 string data = "You won't… get away with…"
+    1 string data = "Ty… tohle ti neprojde…"
    [115]
-    1 string data = "Hahahaha! A little short on resolve, are we? Perfect! And now, the highlight of the show!"
+    1 string data = "Hahahaha! Trochu ti chybí odhodlání, že? Skvělé! A teď, to nejlepší z celé show!"
    [116]
-    1 string data = "Your spirits are cracked, your hope is dangling by a thread… the ideal moment for the real stars to take the stage!"
+    1 string data = "Tvůj duch je nalomený, naděje visí na vlásku… ideální čas, aby vstoupily na scénu skutečné hvězdy!"
    [117]
-    1 string data = "You're no longer needed, dears."
+    1 string data = "Už vás není třeba, drazí."
    [118]
-    1 string data = "MY CHAMPIONS, YOUR DESTINY CALLS!"
+    1 string data = "MÍ ŠAMPIÓNI, VOLÁ VÁS OSUD!"
    [119]
-    1 string data = "Obliterate their minds, and take your rightful places at my side!"
+    1 string data = "Rozdrťte jejich mysl a zaujměte svá právoplatná místa po mém boku!"
    [120]
-    1 string data = "Why fight, Zale? You're tired, aren't you? Always carrying the weight of everyone's expectations, trying to be the hero."
+    1 string data = "Proč bojovat, Zale? Jsi unavený, že? Pořád neseš tíhu všech očekávání, snažíš se být hrdinou."
    [121]
-    1 string data = "Let me take over. I can give them the perfect protector they deserve, without the weakness, without the doubt."
+    1 string data = "Nech to na mně. Dám jim dokonalého ochránce, jakého si zaslouží. Bez slabosti, bez pochyb."
    [122]
-    1 string data = "You know it's true. Deep down, you don't think you belong. So why not step aside? I can handle it."
+    1 string data = "Víš, že je to pravda. V hloubi duše nevěříš, že sem patříš. Tak proč neustoupíš? Já to zvládnu."
    [123]
-    1 string data = "And yet you resist. Still holding yourself back, always playing the calm and controlled hero."
+    1 string data = "A přesto odporuješ. Pořád se držíš zpátky, hraješ si na klidnou a vyrovnanou hrdinku."
    [124]
-    1 string data = "But you crave to let it all go. You need only accept my offer, and I'll be everything you couldn't be… Everything you wouldn't let yourself be."
+    1 string data = "Přesto toužíš nechat to všechno být. Stačí přijmout mou nabídku a budu vším, čím jsi ty nedokázala… vším, čím sis nedovolila být."
    [125]
-    1 string data = "Just imagine, no more struggle, no more restraint."
+    1 string data = "Jen si to představ, žádný boj, žádné zábrany."
    [126]
-    1 string data = "I guess you were right, in a way. For a long time, I thought I had to be the brightest light in the room…"
+    1 string data = "Máš vlastně svým způsobem pravdu. Dlouho jsem si myslel, že musím být tím nejjasnějším světlem v místnosti…"
    [127]
-    1 string data = "I thought that if people didn't see me as strong, I was failing them. And myself."
+    1 string data = "Myslel jsem, že když mě nebudou vidět jako silného, zklamu je. I sebe."
    [128]
-    1 string data = "That's right. Doesn't it feel good to finally just give in?"
+    1 string data = "Přesně tak. Není to úleva konečně se prostě poddat?"
    [129]
-    1 string data = "Come closer."
+    1 string data = "Pojď blíž."
    [130]
-    1 string data = "No. That's where you're wrong. I don't need your empty pride, or for anyone to tell me what I'm worth."
+    1 string data = "Ne. V tom se mýlíš. Nepotřebuju tvou prázdnou pýchu, ani aby mi kdokoliv říkal, za co stojím."
    [131]
-    1 string data = "You're lying to yourself again, Zale. Without me, you're just another child with no spark. I am the greatness you crave!"
+    1 string data = "Zase si lžeš do kapsy, Zale. Beze mne jsi jen další dítě bez jiskry. Já jsem ta velikost, po které toužíš!"
    [132]
-    1 string data = "You're nothing but a shadow of my fears… and I'm done letting you control me."
+    1 string data = "Jsi jen stínem mých strachů… a já už nedovolím, abys mě ovládal."
    [133]
-    1 string data = "What!? How dare you!?"
+    1 string data = "Co!? Jak se opovažuješ!?"
    [134]
-    1 string data = "The weakness you exploited... I see it now. I was afraid of what might be hiding in the shadows. In my own mind."
+    1 string data = "Tu slabost, kterou jsi využila… už ji vidím. Bála jsem se toho, co se může skrývat ve stínech. V mé vlastní mysli."
    [135]
-    1 string data = "I know you've thought about it. To be wild, to stop pretending. I see it in your eyes, Valere. You want me to take the burden from you."
+    1 string data = "Vím, že tě to taky napadlo. Být divoká, přestat předstírat. Vidím to v tvých očích, Valerie. Chceš, abych ti tu tíhu vzala."
    [136]
-    1 string data = "All I feared was that if I let go even for a moment, I'd lose myself, just like you did. "
+    1 string data = "Bála jsem se jen toho, že když povolím byť na okamžik, ztratím se. Tak jako ty."
    [137]
-    1 string data = "But I understand now that I don't have to choose between peace and strength."
+    1 string data = "Ale teď chápu, že nemusím volit mezi klidem a silou."
    [138]
-    1 string data = "No! I am your better half! BEND THE KNEE!"
+    1 string data = "Ne! Jsem tvá lepší polovina! POKLEKNI!"
    [139]
-    1 string data = "You're not better than me, or anyone. You're just my doubt, dressed up as a king."
+    1 string data = "Nejsi lepší než já, ani než kdokoliv jiný. Jsi jen má pochybnost převlečená za krále."
    [140]
-    1 string data = "I am not… enough!?"
+    1 string data = "Já nejsem… dost dobrý!?"
    [141]
-    1 string data = "But you're weak, Valere! Your peace is just a cage. Let it go, give in to the power you're hiding, and you'll be unstoppable!"
+    1 string data = "Ale ty jsi slabá, Valerie! Tvůj klid je jen klec. Nech to být, poddej se síle, kterou skrýváš, a budeš nezastavitelná!"
    [142]
-    1 string data = "You're the weak one. No discipline, only jealousy and anger. I don't need you to become whole. You're the one that needs to be freed."
+    1 string data = "To ty jsi ta slabá. Žádná kázeň, jen závist a vztek. Já tě nepotřebuju, abych byla celistvá. To ty potřebuješ být osvobozena."
    [143]
-    1 string data = "But…"
+    1 string data = "Ale…"
    [144]
-    1 string data = "We let them haunt us..."
+    1 string data = "Dovolili jsme jim, aby nás pronásledovali…"
    [145]
-    1 string data = "We were so scared of what we might be hiding..."
+    1 string data = "Tak moc jsme se báli toho, co v sobě můžeme skrývat…"
    [146]
-    1 string data = "No more. And never again."
+    1 string data = "Už nikdy více. Už nikdy."
    [147]
-    1 string data = "I'm ready, Zale."
+    1 string data = "Jsem připravená, Zale."
    [148]
-    1 string data = "Me too."
+    1 string data = "Já taky."
    [149]
     1 string data = "!!?"
    [150]
-    1 string data = "Preposterous! How!?"
+    1 string data = "Absurdní! Jak!?"
    [151]
-    1 string data = "Your mind games have no power over us anymore."
+    1 string data = "Vaše hrátky s myslí už nad námi nemají moc."
    [152]
-    1 string data = "Together we are both the light and the dark."
+    1 string data = "Společně jsme světlem i temnotou."
    [153]
-    1 string data = "We are Solstice Warriors, and you must be cleansed!"
+    1 string data = "Jsme Bojovníci SLunovratu a vy musíte být očištěni!"
    [154]
-    1 string data = "BEGONE!!!"
+    1 string data = "ZMIZTE!!!"
    [155]
     1 string data = "..."
    [156]
-    1 string data = "*ahem*"
+    1 string data = "*ehm*"
    [157]
-    1 string data = "Well, well! What an unexpected turn of events!"
+    1 string data = "No, no! To byl ale nečekaný zvrat!"
    [158]
-    1 string data = "You've truly outdone yourselves in this performance!"
+    1 string data = "Opravdu jste v tomhle představení překonali sami sebe!"
    [159]
-    1 string data = "But why continue with this tiresome charade of conflict?"
+    1 string data = "Ale proč pokračovat v téhle únavné frašce zvané konflikt?"
    [160]
-    1 string data = "You're just another illusion. We're done talking, your time is up."
+    1 string data = "Jsi jen další iluze. Dost řečí, tvůj čas vypršel."
    [161]
-    1 string data = "Now, now, let's not ruin the mood with unnecessary hostility, hmm?"
+    1 string data = "No tak, nezkazme náladu zbytečnou nevraživostí, ano?"
    [162]
-    1 string data = "How about we negotiate? Surely you'd like to leave this place?"
+    1 string data = "Co kdybychom vyjednávali? Určitě byste chtěli odsud odejít, že?"
    [163]
-    1 string data = "Absolutely."
+    1 string data = "Rozhodně."
    [164]
-    1 string data = "Wh... What do you mean, darling?"
+    1 string data = "C-Co tím myslíš, drahoušku?"
    [165]
-    1 string data = "[MAINCHAR] and [OFFCHAR] learn new combo <sprite="dialog-inventory-icons-totw" name="icn-combos-supersolsticestrike"> <color="magic">Super Solstice Strike</color>!"
+    1 string data = "[MAINCHAR] a [OFFCHAR] se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-supersolsticestrike"> <color="magic">Super Úder Slunovratu</color>!"
    [166]
-    1 string data = "Now let's finish this for good."
+    1 string data = "Už to ukončíme jednou provždy."
    [167]
-    1 string data = "No holding back this time."
+    1 string data = "Tentokrát naplno."
    [168]
-    1 string data = "This thing's built to take a real beating!"
+    1 string data = "Tohle věc je stavěná, aby vydržela pořádný nářez!"
    [169]
-    1 string data = "Feels good to be back in control, but we'll be here a while."
+    1 string data = "Je fajn mít zase věci pod kontrolou, ale chvíli tu ještě pobudeme."
    [170]
-    1 string data = "It'll wear down eventually. Still... I bet Arty would have wanted to see this."
+    1 string data = "Nakonec se to poddá. Jen... vsadil bych se, že by Arty chtěl být při tom."
    [171]
-    1 string data = "(Miniaturization works.)"
+    1 string data = "(Miniaturizace funguje.)"
    [172]
-    1 string data = "(Vision module?)"
+    1 string data = "(Vizuální modul?)"
    [173]
-    1 string data = "(All systems are green.)"
+    1 string data = "(Všechny systémy v pořádku.)"
    [174]
-    1 string data = "(Not the heat sink.)"
+    1 string data = "(Jen ne chladič.)"
    [175]
-    1 string data = "(We can figure that one out later. The body needs work, anyway.)"
+    1 string data = "(Tohle vyřešíme později. Stejně potřebuje tělo spravit.)"
    [176]
-    1 string data = "(Good job, team.)"
+    1 string data = "(Dobrá práce, týme.)"
    [177]
-    1 string data = "(Perfect design, perfect execution!)"
+    1 string data = "(Dokonalý návrh, dokonalé provedení!)"
    [178]
-    1 string data = "(Well? What are we waiting for?)"
+    1 string data = "(Takže? Na co čekáme?)"
    [179]
-    1 string data = "(Just remember. Short intro.)"
+    1 string data = "(Pamatuj. Krátký úvod.)"
    [180]
-    1 string data = "(Yeah, yeah.)"
+    1 string data = "(Jo, jo.)"
    [181]
-    1 string data = "Hey! I'm back! Looks like you've got this, though... uh, should I just..."
+    1 string data = "Hej! Jsem zpátky! Vypadá to, že to zvládáte, tak... ehm, mám radši jenom..."
    [182]
-    1 string data = "(Why would you say that?)"
+    1 string data = "(Proč bys to říkal?)"
    [183]
-    1 string data = "(Now it'll be awkward to ask if we can join.)"
+    1 string data = "(Teď bude trapné se zeptat, jestli se můžeme přidat.)"
    [184]
-    1 string data = "Hey, Arty! Want to finish this together?"
+    1 string data = "Hej, Arty! Chceš to dokončit společně?"
    [185]
     1 string data = "(!!!)"
    [186]
-    1 string data = "(Just go!)"
+    1 string data = "(Prostě běž!)"
    [187]
-    1 string data = "*ahem* Yes!"
+    1 string data = "*ehm* Ano!"
    [188]
-    1 string data = "I mean... I made something to help, but it needs your powers to activate."
+    1 string data = "Myslím... že jsem vyrobil něco, co pomůže, ale k aktivaci potřebuju vaši moc."
    [189]
-    1 string data = "Let's see it!"
+    1 string data = "Ukaž to!"
    [190]
-    1 string data = "(They said yes! Do we just...)"
+    1 string data = "(Řekli ano! Takže jenom...)"
    [191]
-    1 string data = "(Ask for the pose!)"
+    1 string data = "(Ať zapózují!)"
    [192]
-    1 string data = "Okay, can you strike the pose like when you control the light?"
+    1 string data = "Dobrá, můžete zaujmout tu pózu, jako když ovládáte světlo?"
    [193]
-    1 string data = "What?"
+    1 string data = "Cože?"
    [194]
-    1 string data = "The thing! Focus your power and follow my lead, alright?"
+    1 string data = "Tu věc! Soustřeďte sílu a následujte mě, dobře?"
    [195]
-    1 string data = "LET'S DO THE THING!"
+    1 string data = "JDEME NA TO!"
    [196]
-    1 string data = "3 tickets are required."
+    1 string data = "Jsou potřeba 3 vstupenky."
    [197]
-    1 string data = "Pay"
+    1 string data = "Zaplatit"
    [198]
-    1 string data = "Cancel"
+    1 string data = "Zrušit"
    [199]
-    1 string data = "You don't have enough tickets."
+    1 string data = "Nemáte dost vstupenek."
    [200]
-    1 string data = "6 tickets are required."
+    1 string data = "Je potřeba 6 vstupenek."
    [201]
-    1 string data = "Pay"
+    1 string data = "Zaplatit"
    [202]
-    1 string data = "Cancel"
+    1 string data = "Zrušit"
    [203]
-    1 string data = "You don't have enough tickets."
+    1 string data = "Nemáte dost vstupenek."
    [204]
-    1 string data = "Can't... give up now..."
+    1 string data = "Nesmím... to teď vzdát..."
    [205]
-    1 string data = "Not going to miss those two."
+    1 string data = "Za těmi dvěma se mi stýskat nebude."

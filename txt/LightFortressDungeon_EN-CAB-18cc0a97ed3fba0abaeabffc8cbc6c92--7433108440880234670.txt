@@ -141,7 +141,7 @@
    [63]
     1 string data = "Má stará kolena potřebují oddech! To musí být tím mořem schodů, o kterém všichni vyprávěli."
    [64]
-    1 string data = "Je tohle pravé zlato?"
+    1 string data = "Je tohle z pravého zlata?"
    [65]
     1 string data = "Tohle místo se mi moc nelíbí, ale Narcisový král je docela hustý jméno."
    [66]

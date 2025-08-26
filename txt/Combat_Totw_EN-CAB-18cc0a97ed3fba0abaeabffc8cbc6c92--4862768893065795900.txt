@@ -157,7 +157,7 @@
    [71]
     1 string data = "Velkopal"
    [72]
-    1 string data = "Podržením <button="Interact"> přejdete do pózy limbo a uvolněním vystřelíte kuležky."
+    1 string data = "Podržením <button="Interact"> přejdete do pózy limbo a uvolněním kuležky odpálkujete."
    [73]
     1 string data = "Skok o krtku"
    [74]
