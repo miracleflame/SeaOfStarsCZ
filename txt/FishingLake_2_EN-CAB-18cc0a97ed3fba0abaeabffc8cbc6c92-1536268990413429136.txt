@@ -19,6 +19,6 @@
    [2]
     1 string data = "Pořád jste nechytili všechny druhy Dárkových pytlíčků? No tak, vždyť jsou jen čtyři!"
    [3]
-    1 string data = "Dokázali jste to! Tady máš, jak bylo slíbeno."
+    1 string data = "Dokázali jste to! Tady máte, jak bylo slíbeno."
    [4]
     1 string data = "Kéž ti přinese radost a štěstí."

@@ -35,7 +35,7 @@
    [10]
     1 string data = "Ohavnou past nastražíme!"
    [11]
-    1 string data = "Už ta tvá nová hračka bude?"
+    1 string data = "Už ta vaše nová hračka bude?"
    [12]
     1 string data = "Už, už, jen pár šroubků půjde hladce!"
    [13]
@@ -43,7 +43,7 @@
    [14]
     1 string data = "Monsieur Nervé."
    [15]
-    1 string data = "Strážte vchod a zdržte je co nejvíce to půjde."
+    1 string data = "Stráž vchod a zdrž je co nejvíce to půjde."
    [16]
     1 string data = "..."
    [17]
@@ -67,13 +67,13 @@
    [26]
     1 string data = "Už není kam utéct!"
    [27]
-    1 string data = "Vítejte, vítejte, na místě, kde vítězí zlo!"
+    1 string data = "Vítejte, vítejte, na místě, kde vítězí nemorální!"
    [28]
-    1 string data = "V těchto zvrácených stanech začíná finální akt!"
+    1 string data = "V těchto zvrácených stanech začíná akt finální!"
    [29]
-    1 string data = "Kavalkáda podívané a zábavy!"
+    1 string data = "Kavalkáda podívané a zábavy, jen co je radost!"
    [30]
-    1 string data = "Vstupenky jsou zdarma, tak pojďte, pokud máte odvahu!"
+    1 string data = "Vstupenky jsou zdarma, tak pojďte, máte-li odvahy dost!"
    [31]
     1 string data = "Zbabělci!"
    [32]
@@ -101,7 +101,7 @@
    [43]
     1 string data = "Pife! Čas na novou hračku, s tou pořádek poznají!"
    [44]
-    1 string data = "PIF DO PANTOFLE PUF"
+    1 string data = "PIF DO PANA TOFLA PUF"
    [45]
     1 string data = "Ti dva mi rozhodně nebudou chybět."
    [46]
@@ -159,9 +159,9 @@
    [72]
     1 string data = "To nedovolíme."
    [73]
-    1 string data = "Tak mě zastavte, pokud můžešte. Ale radši si pospěšte! Oni se už nemůžou dočkat až spočinou na svých trůnech."
+    1 string data = "Tak mě zastavte, pokud to dokážete. Ale radši si pospěšte! Oni se už nemůžou dočkat až spočinou na svých trůnech."
    [74]
-    1 string data = "Dost už! Srazíme tě."
+    1 string data = "Dost už! Sundáme tě."
    [75]
     1 string data = "Hahahaha! Vskutku, čas na řeči v zákulisí skončil."
    [76]
@@ -233,19 +233,19 @@
    [109]
     1 string data = "(Tak tedy pospěšme si.)"
    [110]
-    1 string data = "Teď to nevzdávej, ano? Došla jsi už příliš daleko, než aby tě tohle zlomilo."
+    1 string data = "Teď to nevzdávejte, ano? Došli jste už příliš daleko, než aby vás tohle zlomilo."
    [111]
-    1 string data = "Pamatuj, kdo jsi a za co bojuješ. Věřím ti."
+    1 string data = "Pamatujte, kdo jste a za co bojujeteš. Věřím vám."
    [112]
-    1 string data = "Ach, jak dojemné! Tvůj takzvaný přítel ani nevydržel po tvém boku."
+    1 string data = "Ach, jak dojemné! Váš takzvaný přítel ani nevydržel po vašem boku."
    [113]
-    1 string data = "Zlomil ho tlak, nebo už konečně pochopil, že se nemá spoléhat na slabošky?"
+    1 string data = "Zlomil ho tlak, nebo už konečně pochopil, že se nemá spoléhat na slabochy?"
    [114]
     1 string data = "Ty… tohle ti neprojde…"
    [115]
-    1 string data = "Hahahaha! Trochu ti chybí odhodlání, že? Skvělé! A teď, to nejlepší z celé show!"
+    1 string data = "Hahahaha! Trochu vám chybí odhodlání, že? Skvělé! A teď, to nejlepší z celé show!"
    [116]
-    1 string data = "Tvůj duch je nalomený, naděje visí na vlásku… ideální čas, aby vstoupily na scénu skutečné hvězdy!"
+    1 string data = "Váš duch je nalomený, naděje visí na vlásku… ideální čas, aby vstoupily na scénu skutečné hvězdy!"
    [117]
     1 string data = "Už vás není třeba, drazí."
    [118]
@@ -319,7 +319,7 @@
    [152]
     1 string data = "Společně jsme světlem i temnotou."
    [153]
-    1 string data = "Jsme Bojovníci SLunovratu a vy musíte být očištěni!"
+    1 string data = "Jsme Bojovníci Slunovratu a vy musíte být očištěni!"
    [154]
     1 string data = "ZMIZTE!!!"
    [155]
@@ -385,7 +385,7 @@
    [185]
     1 string data = "(!!!)"
    [186]
-    1 string data = "(Prostě běž!)"
+    1 string data = "(Prostě jdi do toho!)"
    [187]
     1 string data = "*ehm* Ano!"
    [188]
@@ -405,7 +405,7 @@
    [195]
     1 string data = "JDEME NA TO!"
    [196]
-    1 string data = "Jsou potřeba 3 vstupenky."
+    1 string data = "Jsou potřeba 3 lístky."
    [197]
     1 string data = "Zaplatit"
    [198]

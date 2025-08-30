@@ -619,7 +619,7 @@
    [302]
     1 string data = "Viděli jste támhle to staveniště? Zřejmě staví arénu!"
    [303]
-    1 string data = "Měl jsem si koupit lístky dřív..."
+    1 string data = "Měl jsem si koupit vstupenky dřív..."
    [304]
     1 string data = "Hele, to jste vy, co jste pomohli, když došlo k útoku. Kdo ví, kolik z nás by to nepřežilo, kdybyste se neukázali."
    [305]

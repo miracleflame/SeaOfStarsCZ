@@ -65,7 +65,7 @@
    [25]
     1 string data = "Skáče po cílech a při každém odrazu způsobí laserové poškození."
    [26]
-    1 string data = "Galette des Rois"
+    1 string data = "Dary třech králů"
    [27]
     1 string data = "Z nebe padají záhadné krabice, některé léčí spojence, jiné způsobují nepřátelům bonk poškození."
    [28]
@@ -81,9 +81,9 @@
    [33]
     1 string data = "Duální útok. Lze načasovat tak, aby zasáhl dvakrát."
    [34]
-    1 string data = "Šílená trupa"
+    1 string data = "Šílený ansámbl"
    [35]
-    1 string data = "Ultimátní kombo trupy."
+    1 string data = "Ultimátní kombo ansámblu."
    [36]
     1 string data = "Trampolínový tým"
    [37]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "Puk, puk, kdo tam?"
    [51]
-    1 string data = "Hypercüt"
+    1 string data = "Spodní hők"
    [52]
     1 string data = "Pif-v-krabici"
    [53]
@@ -141,7 +141,7 @@
    [63]
     1 string data = "Obrácené sluneční koule"
    [64]
-    1 string data = "Ganonová koule"
+    1 string data = "Ganonball"
    [65]
     1 string data = "Symetrie hříchu"
    [66]
@@ -161,7 +161,7 @@
    [73]
     1 string data = "Skok o krtku"
    [74]
-    1 string data = "Buisská ruleta"
+    1 string data = "Rhuská ruleta"
    [75]
     1 string data = "Karnehuban"
    [76]
@@ -179,11 +179,11 @@
    [82]
     1 string data = "Zoelouč"
    [83]
-    1 string data = "Viděli jsme se!"
+    1 string data = "Vejpůl!"
    [84]
     1 string data = "Arty se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-leapfrog"> <color="magic">Skok žabáka</color>!"
    [85]
-    1 string data = "Zale a Arty se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-galettedesrois"> <color="magic">Galette des Rois</color>!"
+    1 string data = "Zale a Arty se naučili nové kombo <sprite="dialog-inventory-icons-totw" name="icn-combos-galettedesrois"> <color="magic">Dary třech králů</color>!"
    [86]
     1 string data = "Zale se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-zale-sunbalancing"> <color=#326d9c>Slunbalanc</color>!"
    [87]
@@ -197,7 +197,7 @@
    [91]
     1 string data = "Arty se naučil novou dovednost <sprite="dialog-inventory-icons-totw" name="icn-skills-arty-bigbim"> <color=#326d9c>Léčivý paprsek</color>!"
    [92]
-    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><sprite="dialog-inventory-icons-totw" name="icn-combos-terrifictroupe"> <color=#326d9c>Šílená trupa</color>!"
+    1 string data = "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><br><br><br><<sprite="dialog-inventory-icons-totw" name="icn-combos-terrifictroupe"> <color=#326d9c>Šílený ansámbl</color>!"
    [93]
     1 string data = "Útok"
    [94]

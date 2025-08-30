@@ -29,7 +29,7 @@
    [7]
     1 string data = "Zale, já..."
    [8]
-    1 string data = "To je ono. Radši se ujistěme, že jsme připraveni."
+    1 string data = "Je to tady. Radši se ujistěme, že jsme připraveni."
    [9]
     1 string data = "Myslíš, že je tu ještě něco k nalezení?"
    [10]

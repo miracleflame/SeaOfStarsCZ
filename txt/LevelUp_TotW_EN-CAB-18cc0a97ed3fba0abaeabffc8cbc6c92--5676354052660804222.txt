@@ -13,7 +13,7 @@
   1 Array Array (9 items)
    0 int size = 9
    [0]
-    1 string data = "Dámy a pánové, připravte se žasnout, neboť do města dorazila nová trupa!"
+    1 string data = "Dámy a pánové, připravte se žasnout, neboť do města dorazil nový ansámbl!"
    [1]
     1 string data = "Jejich věhlas roste, proto, milé publikum, ať váš potlesk burácí jako hrom a pozvedne jim ducha!"
    [2]
@@ -27,6 +27,6 @@
    [6]
     1 string data = "Leč i ten nejvelkolepější výstup jednou končí. Kouzlo nevyprchá, ale světla už pomalu pohasínají."
    [7]
-    1 string data = "Tleskejme ještě naposledy těm jedinečným a neopakovatelným..."
+    1 string data = "Tleskejme ještě naposledy tomu jedinečnému a neopakovatelnému..."
    [8]
-    1 string data = "Šílené Trupě!!!"
+    1 string data = "Šílenému ansámblu!!!"

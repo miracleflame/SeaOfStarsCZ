@@ -245,7 +245,7 @@
    [115]
     1 string data = "(Narcisový král...?)"
    [116]
-    1 string data = "Pouze dnes jsou lístky zdarma pro všechny, kdo sní o příležitosti spatřit přepychovou výzdobu Slonovinových věží."
+    1 string data = "Pouze dnes jsou vstupenky zdarma pro všechny, kdo sní o příležitosti spatřit přepychovou výzdobu Slonovinových věží."
    [117]
     1 string data = "Což, jak můžeme jen předpokládat, se týká každého z vás."
    [118]
@@ -257,7 +257,7 @@
    [121]
     1 string data = "Ty... !?"
    [122]
-    1 string data = "Lístek, prosím."
+    1 string data = "Vstupenku, prosím."
    [123]
     1 string data = "Samozřejmě! Budeme očekávat tvou návštěvu, spolu s tvými komplimenty."
    [124]
@@ -297,7 +297,7 @@
    [141]
     1 string data = "Jseš v cajku, Zale?"
    [142]
-    1 string data = "Hej, půjdu se podívat po dalším lístku. Vy dva si trochu oddechněte, jo?"
+    1 string data = "Hej, půjdu se podívat po další vstupence. Vy dva si trochu oddechněte, jo?"
    [143]
     1 string data = "Já... Díky, Arty."
    [144]
@@ -305,7 +305,7 @@
    [145]
     1 string data = "Měl svým způsobem pravdu. Vždycky jsem si říkal, že bojuju za ostatní, že mi jde o jejich ochranu. Ale… zčásti bych taky chtěl pozornost a být… důležitý."
    [146]
-    1 string data = "To neznamená, že jsi jako on, Zale. On používá své schopnosti pro sebe. Na rozdíl od tebe."
+    1 string data = "To neznamená, že jsi jako on, Zale. On používá své schopnosti ve svůj prospěch. Na rozdíl od tebe."
    [147]
     1 string data = "Opravdu? Vidím, jak mě lidé obdivují a někdy… někdy o to stojím. A kvůli tomu se cítím jakože… jakože možná nejsem tak nesobecký, jak bych měl být."
    [148]
@@ -339,7 +339,7 @@
    [162]
     1 string data = "Cože? Jenom jsem si dával pauzu…"
    [163]
-    1 string data = "Těch už jsme měli dost. Svět na tebe nebude čekat, až si 'dáš pauzu'. Dělej, mám pro nás lístek."
+    1 string data = "Těch už jsme měli dost. Svět na tebe nebude čekat, až si 'dáš pauzu'. Dělej, sehnala jsem pro nás vstupenku."
    [164]
     1 string data = "Dobře. Jsem připravený."
    [165]
@@ -491,7 +491,7 @@
    [238]
     1 string data = "Zdravím, cestovatelé! Potřebujete něco na cestu před vámi?"
    [239]
-    1 string data = "Taková skvělá trupa si zaslouží skvělé ubytování! Zůstanete přes noc?"
+    1 string data = "Takový skvělý ansámbl si zaslouží skvělé ubytování! Zůstanete přes noc?"
    [240]
     1 string data = "Ano"
    [241]
@@ -501,9 +501,9 @@
    [243]
     1 string data = "Hledám pomoc. Můj vlak se ztratil v Železničním lese. Volejte Fardushe."
    [244]
-    1 string data = "Koupím lístek do Slonovinových věží. Volejte Vesničana."
+    1 string data = "Koupím vstupenku do Slonovinových věží. Volejte Vesničana."
    [245]
-    1 string data = "Prodám lístek do Slonovinových věží. Volejte Vesničana."
+    1 string data = "Prodám vstupenku do Slonovinových věží. Volejte Vesničana."
    [246]
     1 string data = "Hledám holiče, který umí napodobit účes Nezkrotné královny. Volejte Vesničana."
    [247]
@@ -511,11 +511,11 @@
    [248]
     1 string data = "Hele, nebyli jste uvrženi do Zapomnění? Nikdo odtamtud nikdy neutekl!"
    [249]
-    1 string data = "Mám lístek na návštěvu věží Narcisového krále. Pojedete taky?"
+    1 string data = "Mám vstupenku na návštěvu věží Narcisového krále. Pojedete taky?"
    [250]
     1 string data = "Najednou se všechno ponořilo do tmy. Vlastně to bylo docela výstřední!"
    [251]
-    1 string data = "Cože!? Jak se vám podařilo sehnat lístky do Šapitó? Nikdo tam nikdy nebyl pozván!"
+    1 string data = "Cože!? Jak se vám podařilo sehnat vstupenku do Šapitó? Nikdo tam nikdy nebyl pozván!"
    [252]
     1 string data = "Vy jste porazili Loutkářku? Znamená to, že jsme teď volní?"
    [253]
@@ -531,9 +531,9 @@
    [258]
     1 string data = "Železniční les? Je to na sever od města, přes tady to nádraží."
    [259]
-    1 string data = "Mám obavy o lidi, co si vzali lístek. Na tom Narcisovém králi něco není v pořádku..."
+    1 string data = "Mám obavy o lidi, co si vzali vstupenku. Na tom Narcisovém králi něco není v pořádku..."
    [260]
-    1 string data = "Měl jsem štěstí a vyhnul se útoku, ale poškrábali mi mé oblíbené místo na stání!"
+    1 string data = "Měl jsem štěstí a vyhnul se útoku, ale dodrápali mi mé oblíbené místo na stání!"
    [261]
     1 string data = "Chystáte se opravdu postavit Loutkářce? Pochybuju, že to zvládnete, ale to je vaše věc."
    [262]
@@ -551,7 +551,7 @@
    [268]
     1 string data = "Hm, ještě jsem vás tady neviděl! Soutěžíte v minihrách?"
    [269]
-    1 string data = "Mám svůj lístek! Narcisový král je tak stylový, už se nemůžu dočkat, až ho uvidím!"
+    1 string data = "Mám svou vstupenku! Narcisový král je tak stylový, už se nemůžu dočkat, až ho uvidím!"
    [270]
     1 string data = "Viděl jsem všechno! Myslíte, že je Nezkrotná královna silnější než Monsieur Nervé?"
    [271]
@@ -575,7 +575,7 @@
    [280]
     1 string data = "Nezkrotná královna? Neměl jsem tuto práci brát, pořád přicházím o všechno zajímavé!"
    [281]
-    1 string data = "A teď pozvánka do Šapitó? Připadá mi, že si teď všichni věci vymýšlejí jen proto, aby si ze mě dělali legraci."
+    1 string data = "A teď pozvánka do Šapitó? Už mi to připadá, jako by si všichni vymýšleli věci, jen aby měli ze mě legraci."
    [282]
     1 string data = "Hrdinové Horloge! Vidět vás mě pokaždé ujistí."
    [283]
@@ -593,7 +593,7 @@
    [289]
     1 string data = "Brána je znovu otevřená. Konečně můžeme zase jezdit vlakem!"
    [290]
-    1 string data = "Máte lístek na Vlčí skálu? Jste si jistí, že je to dobrý nápad?"
+    1 string data = "Máte vstupenku na Vlčí skálu? Jste si jistí, že je to dobrý nápad?"
    [291]
     1 string data = "Šapitó? Je to na sever, ale nedoporučoval bych tam chodit."
    [292]
@@ -611,13 +611,13 @@
    [298]
     1 string data = "Město zase ožilo! To byla vaše práce?"
    [299]
-    1 string data = "Zmeškal jsem hlášení! Není už pozdě sehnat lístek?"
+    1 string data = "Zmeškal jsem hlášení! Není už pozdě sehnat vstupenku?"
    [300]
     1 string data = "Jsou ti vlkodlaci konečně pryč?"
    [301]
     1 string data = "Všichni mluví o té velké události. Opravdu si myslíte, že dokážete porazit Loutkářku?"
    [302]
-    1 string data = "Děkuji vám, jste opravdu skvělá trupa! Konečně se můžeme zbavit strachu."
+    1 string data = "Děkujeme vám, jste opravdu skvělý ansámbl! Konečně se můžeme zbavit strachu."
    [303]
     1 string data = "Vždycky mě tohle zařízení fascinovalo. Myslíte, že jsou ty pověsti pravdivé?"
    [304]
@@ -651,7 +651,7 @@
    [318]
     1 string data = "Není ta hudba úžasná?"
    [319]
-    1 string data = "Čekal jsem celé hodiny a lístek jsem nedostal. Trochu závidím..."
+    1 string data = "Čekal jsem celé hodiny a vstupenku jsem nedostal. Trochu závidím..."
    [320]
     1 string data = "Neslyším ji, když pořád mluvíš!"
    [321]
@@ -713,17 +713,17 @@
    [349]
     1 string data = "Dobře! Já budu [MAINCHAR]."
    [350]
-    1 string data = "Nikdy jsem nešel dovnitř do Zapomění. Ne že bych chtěl!"
+    1 string data = "Nikdy jsem nebyla uvnitř Zapomění. Ne že bych chtěla!"
    [351]
-    1 string data = "Nikdy jsem nešla do Železničního lesa. Ne že bych chtěl!"
+    1 string data = "Nikdy jsem nebyla v Železničním lese. Ne že bych chtěla!"
    [352]
-    1 string data = "Nikdy jsem nešel do Slonovinových věží. Ne že bych chtěl!"
+    1 string data = "Nikdy jsem nebyla v Slonovinových věžích. Ne že bych chtěla!"
    [353]
-    1 string data = "Nikdy jsem nešel na Vlčí skálu. Ne že bych chtěl!"
+    1 string data = "Nikdy jsem nebyla na Vlčí skále. Ne že bych chtěla!"
    [354]
-    1 string data = "Nikdy jsem nešel do Šapitó. Ne že bych chtěl!"
+    1 string data = "Nikdy jsem nebyla v Šapitó. Ne že bych chtěla!"
    [355]
-    1 string data = "Nikdy jsem nešel pod Horloge hledat tu velkou záhadu. Ne že bych chtěl!"
+    1 string data = "Nikdy jsem nebyla pod Horloge hledat tu velkou záhadu. Ne že bych chtěla!"
    [356]
     1 string data = "Dnes večer oslavíme jako nikdy předtím!"
    [357]

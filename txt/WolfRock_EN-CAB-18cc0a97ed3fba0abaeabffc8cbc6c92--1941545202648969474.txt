@@ -23,15 +23,15 @@
    [4]
     1 string data = "Nevidíš to? Křehkost tvých 'přátel' tlumí tvé světlo."
    [5]
-    1 string data = "Opravdu ti stojí za tu moc, kterou ovládáš?"
+    1 string data = "Opravdu ti to stojí za tu moc, kterou ovládáš?"
    [6]
-    1 string data = "To, že máme jeden druhého, nás činí silnými. Nemůžeš nás rozdělit, tak si nech své lži!"
+    1 string data = "To, že máme jeden druhého, nás činí silnými. Nemůžeš nás rozdělit, tak si odpusť ty své lži!"
    [7]
     1 string data = "Jsi si tím jistý? Je si ONA tak jistá?"
    [8]
     1 string data = "Tomuto říkám jed..."
    [9]
-    1 string data = "Nemluvila k tebě. Příště to nech na mě."
+    1 string data = "Nemluvila k tobě. Příště to nech na mě."
    [10]
     1 string data = "Co? Já jen chtěl-"
    [11]
@@ -41,9 +41,9 @@
    [13]
     1 string data = "To je jedno. Pokračujme."
    [14]
-    1 string data = "Ubohá Valerie, pořád taká tichá, taká vyrovnaná..."
+    1 string data = "Ubohá Valerie, pořád taká tichá, taková vyrovnaná..."
    [15]
-    1 string data = "Myslíš si, že tě všechny ten zábrany činí silnou, ale činí tě jen prázdnou a vystrašenou. Pouhým stínem, co předstírá sílu."
+    1 string data = "Myslíš si, že tě všechny ty zábrany činí silnou, ale činí tě jen prázdnou a vystrašenou. Jsi pouhým stínem, co předstírá sílu."
    [16]
     1 string data = "Nic o mně nevíš."
    [17]
@@ -55,13 +55,13 @@
    [20]
     1 string data = "Jen si to namlouvej. Obě víme, že je to jen otázka času."
    [21]
-    1 string data = "DOST!"
+    1 string data = "TAK DOST!"
    [22]
-    1 string data = "Valerie, počkej! Ona se jen snaží zahrávat s tvými myšlenkami. Nemusíš jí nechat tě takto ovládat."
+    1 string data = "Valerie, počkej! Ona se jen snaží zahrávat s tvými myšlenkami. Nemusíš jí nechat takto tě ovládat."
    [23]
     1 string data = "Drž se stranou, Zale! To je mezi mnou a ní."
    [24]
-    1 string data = "Já… nemůžu uvěřit, že mi to právě řekla. A předtím taky…"
+    1 string data = "Já… nemůžu uvěřit, co mi to právě řekla. A předtím taky…"
    [25]
     1 string data = "Má to těžké, Zale. Ta Nezkrotná královna umí lidi vnitřně zmást, ale nesmíme jí dovolit vyhrát."
    [26]
@@ -71,7 +71,7 @@
    [28]
     1 string data = "Rozsviťte světla! Oponu nahoru! Publikum touží po přídavku!"
    [29]
-    1 string data = "No tak, už to dokončete."
+    1 string data = "No tak, už to skonči."
    [30]
     1 string data = "Dnes večer, jen pro vaše oči, máme lahůdku na celý život!"
    [31]
@@ -91,7 +91,7 @@
    [38]
     1 string data = "Bylo na čase! Zamotali jste se cestou, nebo co?"
    [39]
-    1 string data = "Jsme tu, abychom pomohli. Pustíš nás?"
+    1 string data = "Jsme tu, abychom pomohli. Dovolíš?"
    [40]
     1 string data = "Pouze vy tři? Prosím vás, čekala jsem výzvu!"
    [41]
@@ -111,22 +111,22 @@
    [48]
     1 string data = "Probereme to později, dobře? Prosím, toto musím zvládnout sama."
    [49]
-    1 string data = "Už to ukonči."
+    1 string data = "Doraž ji."
    [50]
-    1 string data = "No? Jsi připravena mi ukázat mi svůj opravdový vztek?"
+    1 string data = "No co? Jsi připravena ukázat mi svůj opravdový vztek?"
    [51]
     1 string data = "Ukážu ti rozřešení."
    [52]
     1 string data = "Je po tobě."
    [53]
-    1 string data = "Fuwa!?"
+    1 string data = "Fúha!?"
    [54]
-    1 string data = "Myslela jsem, že to bude lepší pocit... Je opravdu pryč?"
+    1 string data = "Čekala jsem, že to bude lepší pocit... Je opravdu pryč?"
    [55]
     1 string data = "Brzy to zjistíme. Čas navštívit Loutkářku."
    [56]
-    1 string data = "Něco mi říká, že lístek k nám přijde sám."
+    1 string data = "Něco mi říká, že vstupenka k nám přijde sama."
    [57]
-    1 string data = "Hej, Zale..."
+    1 string data = "Posliš, Zale..."
    [58]
     1 string data = "Měli bychom se spojit s posádkou."

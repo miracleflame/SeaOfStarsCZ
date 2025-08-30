@@ -21,7 +21,7 @@
    [3]
     1 string data = "GBB"
    [4]
-    1 string data = "Lístkař býk"
+    1 string data = "Billet Bull"
    [5]
     1 string data = "Puf"
    [6]

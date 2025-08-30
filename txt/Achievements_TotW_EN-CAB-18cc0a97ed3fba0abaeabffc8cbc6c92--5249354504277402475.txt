@@ -13,7 +13,7 @@
   1 Array Array (14 items)
    0 int size = 14
    [0]
-    1 string data = "Markízta"
+    1 string data = "Eso manéže"
    [1]
     1 string data = "Odemkněte všechny dovednosti a komba pro cirkusové třídy"
    [2]

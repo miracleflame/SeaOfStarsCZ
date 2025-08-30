@@ -333,7 +333,7 @@
    [159]
     1 string data = "Pouť uvnitř je náročná. Nevadí, když budete potřebovat přestávku."
    [160]
-    1 string data = "Děkujeme, že jste do Horloge navrátili mír."
+    1 string data = "Děkuji, že jste do Horloge navrátili mír."
    [161]
     1 string data = "Opravdu to není ono, když kapela nehraje."
    [162]

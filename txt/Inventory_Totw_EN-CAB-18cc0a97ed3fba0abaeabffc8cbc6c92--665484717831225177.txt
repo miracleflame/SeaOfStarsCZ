@@ -333,6 +333,6 @@
    [159]
     1 string data = "Cennost určená k prodeji v Horloge."
    [160]
-    1 string data = "Vstupenky"
+    1 string data = "Lístky"
    [161]
     1 string data = "Lze utratit v Šapitó za přístup do dalších sekcí."
