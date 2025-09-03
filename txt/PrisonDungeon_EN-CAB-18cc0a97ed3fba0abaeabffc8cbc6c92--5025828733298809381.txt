@@ -19,7 +19,7 @@
    [2]
     1 string data = "(Ale no tak, jsme přece plní udělátek!)"
    [3]
-    1 string data = "(Já jenom hraju roli vězně.)"
+    1 string data = "(Já si na vězně jenom hraju.)"
    [4]
     1 string data = "(Ty jseš ale trdlo!)"
    [5]
@@ -39,7 +39,7 @@
    [12]
     1 string data = "(Nech to zatím být. Musíme makat na tom vylepšení.)"
    [13]
-    1 string data = "Řekla bych, že jsme už zažili i horší, ale tím si tentokrát fakt nejsem jistá!"
+    1 string data = "Řekla bych, že jsme už zažili i horší věci, ale tím si tentokrát fakt nejsem jistá!"
    [14]
     1 string data = "Jednou jsem byla v ještě větší šlamastyce, jestli to nějak pomůže."
    [15]
@@ -47,13 +47,13 @@
    [16]
     1 string data = "Jakože se jmenuju..."
    [17]
-    1 string data = "Ahoy, Valtraide! Vypadá to, že starý trik útěku z vězení by tu mohl fungovat."
+    1 string data = "Ahoy, Valtraide! Vypadá to, že ten starý trik útěku z vězení by tu mohl fungovat."
    [18]
     1 string data = "Ty brďo, čteš mi myšlenky!"
    [19]
     1 string data = "Teď je tvá chvíle, ukaž se!"
    [20]
-    1 string data = "HEJ, BACHARI!"
+    1 string data = "HEJ, BACHAŘI!"
    [21]
     1 string data = "Co je?"
    [22]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "Nebo je to jediný, co drží ten jeho mozeček uvnitř pohromadě?"
    [26]
-    1 string data = "HAHA! Ta sadla!"
+    1 string data = "HAHA! Ta sedla!"
    [27]
     1 string data = "Co je, drsňáku? Jestli mě chceš vyděsit, musíš se víc snažit."
    [28]
@@ -81,7 +81,7 @@
    [33]
     1 string data = "(Myslím, že to je hotovo.)"
    [34]
-    1 string data = "(Tak to ODPAL! Chápeš?)"
+    1 string data = "(Tak si z toho pojďme VYSTŘELIT! Chápeš?)"
    [35]
     1 string data = "(Búúúú!)"
    [36]
@@ -93,11 +93,11 @@
    [39]
     1 string data = "Hele, ta nová hračka vypadá docela slušně. Myslíš, že nás odsud dostaneš?"
    [40]
-    1 string data = "Myslím, že jo. Najděme Zalea a Valerii."
+    1 string data = "Myslím, že jo. Pojďme najít Zalea a Valerii."
    [41]
     1 string data = "Veď nás!"
    [42]
-    1 string data = "Teď je možné hrát za Artifika!"
+    1 string data = "Nyní je možné hrát za Artifika!"
    [43]
     1 string data = "Artyho útoky způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-laser"> laserové poškození a dají se posílit, aby vypálily další střely!"
    [44]
@@ -105,7 +105,7 @@
    [45]
     1 string data = "Na mou duši drsný... Jestli se odsud dostaneme, tak já–"
    [46]
-    1 string data = "Kavalérie je tady!"
+    1 string data = "Záchrana je tady!"
    [47]
     1 string data = "...A s tímhle novým vylepšením můžu taky pomáhat v boji."
    [48]
@@ -131,15 +131,15 @@
    [58]
     1 string data = "Vypadá to, že váš kamarád Arty to zvládá dobře, ale vy dva na sobě musíte ještě zapracovat."
    [59]
-    1 string data = "V tomhle stavu se vám ani magie ani moc neprojeví, pokud tomu nedodáte trochu... cirkusového šmrncu!"
+    1 string data = "V tomhle stavu se vám ani magie moc neprojeví, pokud tomu nedodáte trochu... cirkusového šmrncu!"
    [60]
     1 string data = "Cože!?"
    [61]
-    1 string data = "Jde o podívanou! Je nevyhnutné hrát tuhle hru podle pravidel, jinak vám všechno selže."
+    1 string data = "Jde o podívanou! Je nutné hrát tuhle hru podle pravidel, jinak vám všechno selže."
    [62]
     1 string data = "To je směšný..."
    [63]
-    1 string data = "A přece je to tak."
+    1 string data = "Tomu se už stejně moc nevyhneme."
    [64]
     1 string data = "Jiná cesta není. Buď přistoupíte na pravidla hry, nebo vás pohltí vaši zlí dvojníci."
    [65]
@@ -153,13 +153,13 @@
    [69]
     1 string data = "Získáno <sprite="dialog-inventory-icons-totw" name="icn-inventory-bracelet"> <color="magic">Náramek rekruta</color>. Zaleovo zaměření je teď Žonglér!"
    [70]
-    1 string data = "Útoky Žongléra Zalea způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-flame"> ohnivé poškození a dají se posílit, aby způsobili i <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> bonk poškození!"
+    1 string data = "Útoky Žongléra Zalea způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-flame"> ohnivé poškození a dají se posílit, aby způsobily i <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> bonk poškození!"
    [71]
     1 string data = "Úžasná rovnováha. To asi znamená, že..."
    [72]
     1 string data = "Získáno <sprite="dialog-inventory-icons-totw" name="icn-inventory-wraps"> <color="magic">Obvazy Skokana</color>. Valerino zaměření je teď Akrobatka!"
    [73]
-    1 string data = "Útoky Akrobatky Valerie způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> bonk poškození a dají se posílit, aby způsobily i <sprite="dialog-inventory-icons-totw" name="battle-icn-magic"> magické poškození!"
+    1 string data = "Útoky Akrobatky Valerie způsobují <sprite="dialog-inventory-icons-totw" name="battle-icn-bonk"> bonk poškození a dají se posílit, aby způsobily i <sprite="dialog-inventory-icons-totw" name="battle-icn-magic"> zářivé poškození!"
    [74]
     1 string data = "Tak? Ukažte, jak vám tyhle role sednou!"
    [75]

@@ -17,13 +17,13 @@
    [1]
     1 string data = "Odemkněte všechny dovednosti a komba pro cirkusové třídy"
    [2]
-    1 string data = "Karnevalový kulinář"
+    1 string data = "Pouťový kulinář"
    [3]
     1 string data = "Ukuchtěte alespoň jednou každý z pěti receptů Horloge"
    [4]
     1 string data = "Dozaklínáno"
    [5]
-    1 string data = "Poražte všechny Kotoučové šampiony v Horloge"
+    1 string data = "Porazte všechny Kotoučové šampiony v Horloge"
    [6]
     1 string data = "Nepřekonaný div"
    [7]

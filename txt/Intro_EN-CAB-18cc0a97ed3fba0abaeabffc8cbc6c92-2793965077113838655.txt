@@ -15,11 +15,11 @@
    [0]
     1 string data = "Obdrželi jste zprávu v láhvi. Je od Hortenzie!"
    [1]
-    1 string data = "Ahoy, braši! Je mě známo, že se honíte za padouchama, ale máme tady akutní situaci."
+    1 string data = "Ahoy, braši! Je mně známo, že se honíte za padouchama, ale máme tady akutní situaci."
    [2]
-    1 string data = "Obávám se, že Keenathan má trable... Jestli byste nedbali stavit se fofrem na Večernici, bylo by to prima."
+    1 string data = "Obávám se, že Keenathan má trable... Jestli by vám nevadilo stavit se fofrem na Večernici, bylo by to prima."
    [3]
-    1 string data = "Tak, tolik žvanění ode mne bude stačit. Uvidíme se."
+    1 string data = "Tak, tolik žvanění ode mě bude stačit. Uvidíme se."
    [4]
     1 string data = "Hortenzie zní opravdu ustaraně. Měli bychom navštívit posádku hned?"
    [5]
@@ -47,7 +47,7 @@
    [16]
     1 string data = "Nejlíp bude vidět to na vlastní bulvy."
    [17]
-    1 string data = "Zastavte se raději u kajut posádky na Večernici. Keenathan nás potřebuje."
+    1 string data = "Zastavme se raději u kajut posádky na Večernici. Keenathan nás potřebuje."
    [18]
     1 string data = "Ahoy, [MAINCHAR]! Dobře, že jste se ukázali."
    [19]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "Jde o Keenathana."
    [26]
-    1 string data = "Pamatáte jak jsme se hlásili u Nebeských obrů, abychom získali přístup do Moře hvězd?"
+    1 string data = "Pamatujete, jak jsme se hlásili u Nebeských obrů, abychom získali přístup do Moře hvězd?"
    [27]
     1 string data = "Bylo tam cosi, s čím zdánlivě váhali..."
    [28]
@@ -73,7 +73,7 @@
    [29]
     1 string data = "Jenomže, právě se nám ozvali a..."
    [30]
-    1 string data = "Ukázalo se, že jméno našeho kamaráda větrného mága tady ve skutečnosti není Keenathan."
+    1 string data = "Ukázalo se, že jméno tady našeho kamaráda větrného mága ve skutečnosti není Keenathan."
    [31]
     1 string data = "COŽE TO???"
    [32]
@@ -101,7 +101,7 @@
    [43]
     1 string data = "VŠICHNI ZA JEDNOHO!"
    [44]
-    1 string data = "Máte vodítko?"
+    1 string data = "Máte nějaké vodítko?"
    [45]
     1 string data = "To máme, děvče."
    [46]
@@ -115,15 +115,15 @@
    [50]
     1 string data = "Ovatku?"
    [51]
-    1 string data = "Ano. Ačkoli jejich časy jsou dávno pryč, říká se, že obzvláště nadaní řemeslníci mohou stále dosáhnout této hodnosti díky pouhému instinktu a odhodlání."
+    1 string data = "Ano. Ačkoliv jejich časy jsou dávno pryč, říká se, že obzvláště nadaní řemeslníci mohou stále dosáhnout této hodnosti díky čirému instinktu a oddanosti."
    [52]
     1 string data = "Ovati byli zodpovědní za utváření světa a ovlivňování samotné reality prostřednictvím svých oborů."
    [53]
-    1 string data = "Pokud se nám ji podaří přesvědčit, aby pro Keenathana vyrobila kapesní hodinky a vyryla na ně jeho jméno, její autorita by měla předčít všechny ostatní."
+    1 string data = "Pokud se nám ji podaří přesvědčit, aby pro Keenathana vyrobila kapesní hodinky a vyryla na ně jeho jméno, její autorita by měla předčit všechny ostatní."
    [54]
-    1 string data = "Hurraa!"
+    1 string data = "Hurá!"
    [55]
-    1 string data = "To není špatný plán, mám-li pravdu?"
+    1 string data = "To není špatný plán, nemám pravdu?"
    [56]
     1 string data = "Hodinářka se na nás ani neobtěžovala podívat. Proč by nám pomáhala?"
    [57]
@@ -141,7 +141,7 @@
    [63]
     1 string data = "Dostat se do její dílny a zpět je docela makačka. Zvládneš tu plavbu?"
    [64]
-    1 string data = "Ne tak zhurta, tohle jsme už vymysleli!"
+    1 string data = "Ne tak zhurta, tohle jsme už vykoumali!"
    [65]
     1 string data = "DOBRÁ, MRŇOUSI! TEĎ SE UKAŽ!"
    [66]
@@ -155,19 +155,19 @@
    [70]
     1 string data = "(Myslím, že by to bylo neslušné.)"
    [71]
-    1 string data = "(Není neslušné dát lidem překvapení!)"
+    1 string data = "(Není neslušné lidi překvapit!)"
    [72]
     1 string data = "(Jenom nechte Caëla, ať udělá boží uvedení.)"
    [73]
     1 string data = "(Dobře, dobře.)"
    [74]
-    1 string data = "Již přidlouho byla omezení hmoty svazující."
+    1 string data = "Již předlouho byla omezení hmoty svazující."
    [75]
     1 string data = "Poslání přivést svět do nového věku se musí opírat o nové možnosti."
    [76]
     1 string data = "Vyčerpávající byl můj výzkum, zaměřený na zdokonalování synchronicity mezi prostorem a hmotou."
    [77]
-    1 string data = "A napokon, po dlouhé době..."
+    1 string data = "A konečně, po dlouhé době..."
    [78]
     1 string data = "Postavil jsi teleport do Hodinářčiny dílny?"
    [79]
@@ -185,9 +185,9 @@
    [85]
     1 string data = "(Řekni jim, že to funguje oběma směry!)"
    [86]
-    1 string data = "(Myslím, že to vědí.)"
+    1 string data = "(Myslím, že to pochopili.)"
    [87]
-    1 string data = "To zní zatraceně dobře. Skvěla práce, Arty!"
+    1 string data = "To zní zatraceně dobře. Skvělá práce, Arty!"
    [88]
     1 string data = "(Líbí se mu to!)"
    [89]
@@ -241,9 +241,9 @@
    [113]
     1 string data = "Omlouvám se, Hodinářko. Neměla jsem tušení..."
    [114]
-    1 string data = "Neunouvej se."
+    1 string data = "Neunavuj se."
    [115]
-    1 string data = "Čas je suverénní. Už dvakrát jste ke mně přišli za jeho tikání, pošťouchnuti jeho ručičkou."
+    1 string data = "Čas je suverénní. Už podruhé jste ke mně přišli za jeho tikání, pošťouchnuti jeho ručičkou."
    [116]
     1 string data = "Je možné, že jste nyní připraveni na cestu dovnitř..."
    [117]
@@ -261,23 +261,23 @@
    [123]
     1 string data = "To je fuk. Kde začneme?"
    [124]
-    1 string data = "Jsem připraven jít!"
+    1 string data = "Jsem připraven vyrazit!"
    [125]
     1 string data = "Rozhodně ne."
    [126]
     1 string data = "!?"
    [127]
-    1 string data = "Copak to nechápeš? Každý, kdo tam má dostatečně silnou auru, zhmotní své zlovolné dvojče."
+    1 string data = "Copak to nechápeš? Každému, kdo má dostatečně silnou auru, se tam zhmotní zlovolný dvojník."
    [128]
     1 string data = "Půjde ta nejmenší možná skupina. Pouze Bojovníci Slunovratu."
    [129]
     1 string data = "Ale no tak, já chci to místo vidět!"
    [130]
-    1 string data = "Ty bys měl chápat lépe než kdokoli jiný, proč se tam sama nemůžu vrátit."
+    1 string data = "Ty bys měl chápat lépe než kdokoliv jiný, proč se tam sama nemůžu vrátit."
    [131]
     1 string data = "Aha... Jasně..."
    [132]
-    1 string data = "Při vší úctě, Hodinářko, i pokud jsme já a moje posádka pod drnem, přesto bych rád toto dobrodružství považoval částečně i za mé."
+    1 string data = "Při vší úctě, Hodinářko, pokud jsme já a moje posádka pod touto hranicí, rád bych toto dobrodružství považoval částečně i za své."
    [133]
     1 string data = "Ano, ty můžeš."
    [134]
@@ -303,9 +303,9 @@
    [144]
     1 string data = "Tohle vás dostane dovnitř."
    [145]
-    1 string data = "Dialokus lze použít ke zmenšení a vstupu do některých mechanizmů uvnitř hodin, včetně hodin samotných!"
+    1 string data = "Dialokus lze použít ke zmenšení a vstupu do některých mechanismů uvnitř hodin, včetně hodin samotných!"
    [146]
-    1 string data = "Stisknutím <button=interact> jej aktivujete před objekty, které vyzařují fialovou září."
+    1 string data = "Stisknutím <button=interact> jej aktivujete před objekty, které fialově září."
    [147]
     1 string data = "Přeju vám tam hodně štěstí."
    [148]
@@ -325,7 +325,7 @@
    [155]
     1 string data = "Dokonce vynechal zkoušku kapely. To se stalo poprvé!"
    [156]
-    1 string data = "Teleport je celý váš, jestli jste připraveni jít se podívat na Hodinářku!"
+    1 string data = "Teleport je celý váš, jestli jste připraveni jít se podívat za Hodinářkou!"
    [157]
     1 string data = "Připraveni vyrazit?"
    [158]

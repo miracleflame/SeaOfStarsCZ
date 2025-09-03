@@ -19,7 +19,7 @@
    [2]
     1 string data = "VŠICHNI NASTUPOVAAAT!!"
    [3]
-    1 string data = "Maska marnosti"
+    1 string data = "Maska marnivosti"
    [4]
     1 string data = "Lykantropický běs"
    [5]

@@ -31,7 +31,7 @@
    [8]
     1 string data = "Mechanické pláně"
    [9]
-    1 string data = "Železničný les"
+    1 string data = "Železniční les"
    [10]
     1 string data = "Nádrž odměn"
    [11]
@@ -41,10 +41,10 @@
    [13]
     1 string data = "Stanice Slonovinové věže"
    [14]
-    1 string data = "Stanice Stracený ostrov"
+    1 string data = "Stanice Ztracený ostrov"
    [15]
     1 string data = "Stanice Šapitó"
    [16]
-    1 string data = "Stracený ostrov"
+    1 string data = "Ztracený ostrov"
    [17]
     1 string data = "Ostrov Slonovinových věží"
