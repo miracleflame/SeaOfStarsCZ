@@ -23,15 +23,15 @@
    [4]
     1 string data = "Nevidíš to? Křehkost tvých 'přátel' tlumí tvé světlo."
    [5]
-    1 string data = "Opravdu ti to stojí za tu moc, kterou ovládáš?"
+    1 string data = "Opravdu jsou hodni moci, kterou ovládáš?"
    [6]
     1 string data = "To, že máme jeden druhého, nás činí silnými. Nemůžeš nás rozdělit, tak si odpusť ty své lži!"
    [7]
     1 string data = "Jsi si tím jistý? Je si ONA tak jistá?"
    [8]
-    1 string data = "Tomuto říkám jed..."
+    1 string data = "Tomu říkám jed..."
    [9]
-    1 string data = "Nemluvila k tobě. Příště to nech na mě."
+    1 string data = "Nemluvila k tobě. Možná to zkus příště nechat na mně."
    [10]
     1 string data = "Co? Já jen chtěl-"
    [11]
@@ -57,9 +57,9 @@
    [21]
     1 string data = "TAK DOST!"
    [22]
-    1 string data = "Valerie, počkej! Ona se jen snaží zahrávat s tvými myšlenkami. Nemusíš jí nechat takto tě ovládat."
+    1 string data = "Valerie, počkej! Ona se jen snaží zahrávat s tvými myšlenkami. Nemusíš ji nechat takto tě ovládat."
    [23]
-    1 string data = "Drž se stranou, Zale! To je mezi mnou a ní."
+    1 string data = "Ty se mi do toho nepleť, Zale! Je to mezi mnou a ní."
    [24]
     1 string data = "Já… nemůžu uvěřit, co mi to právě řekla. A předtím taky…"
    [25]
@@ -71,7 +71,7 @@
    [28]
     1 string data = "Rozsviťte světla! Oponu nahoru! Publikum touží po přídavku!"
    [29]
-    1 string data = "No tak, už to skonči."
+    1 string data = "Ale no tak, tohle přeskoč."
    [30]
     1 string data = "Dnes večer, jen pro vaše oči, máme lahůdku na celý život!"
    [31]
@@ -115,7 +115,7 @@
    [50]
     1 string data = "No co? Jsi připravena ukázat mi svůj opravdový vztek?"
    [51]
-    1 string data = "Ukážu ti rozřešení."
+    1 string data = "Ukážu ti odhodlání."
    [52]
     1 string data = "Je po tobě."
    [53]
@@ -127,6 +127,6 @@
    [56]
     1 string data = "Něco mi říká, že vstupenka k nám přijde sama."
    [57]
-    1 string data = "Posliš, Zale..."
+    1 string data = "Poslyš, Zale..."
    [58]
     1 string data = "Měli bychom se spojit s posádkou."

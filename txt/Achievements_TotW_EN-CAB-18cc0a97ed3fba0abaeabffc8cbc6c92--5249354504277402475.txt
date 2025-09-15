@@ -31,7 +31,7 @@
    [8]
     1 string data = "Zmechanizováno"
    [9]
-    1 string data = "Poražte Přiživovače soužení"
+    1 string data = "Porazte Přiživovače soužení"
    [10]
     1 string data = "Cožpak to chce býti?"
    [11]

@@ -13,19 +13,19 @@
   1 Array Array (67 items)
    0 int size = 67
    [0]
-    1 string data = "Můj králi, tvůj dvojník a jeho skupina dorazili do areálu."
+    1 string data = "Můj králi, váš imitátor a jeho skupina dorazili do areálu."
    [1]
     1 string data = "Mhm... Vypadá to tak..."
    [2]
     1 string data = "Připravím se je přivítat. A ujisti se, že budou mít šanci obdivovat velkolepost mých věží, hmm?"
    [3]
-    1 string data = "Jak si přeješ, můj pane."
+    1 string data = "Jak si přejete, můj pane."
    [4]
     1 string data = "Vypadá to jako hromada zbytečného harampádí..."
    [5]
     1 string data = "(!!!)"
    [6]
-    1 string data = "Promiň, [MAINCHAR]."
+    1 string data = "S dovolením, [MAINCHAR]."
    [7]
     1 string data = "(Spiku, pořád máš ten návrh membrány?)"
    [8]
@@ -43,27 +43,27 @@
    [14]
     1 string data = "Stiskněte <button="Interact"> u kompatibilních objektů, abyste je mohli zabalit do koule a rozbalit jinde."
    [15]
-    1 string data = "Tak toto je ten velký Zale, ochránce slunce."
+    1 string data = "Tak toto je ten skvělý Zale, ochránce slunce."
    [16]
-    1 string data = "Řekni mi, opravdu ti záleží na lidech, které chráníš? Nebo je pro tebe hrozně podstatné být vnímán jako hrdina?"
+    1 string data = "Řekni mi, opravdu ti záleží na lidech, které chráníš? Nebo je pro tebe jen hrozně podstatné být vnímán jako hrdina?"
    [17]
     1 string data = "Co? Ne, to není důvod, proč-"
    [18]
     1 string data = "Hahahaha! Ach, to rozkošné popírání."
    [19]
-    1 string data = "Můžeš předstírat, jak chceš, ale znám tvou duši."
+    1 string data = "Můžeš předstírat, jak chceš, ale tvou duši znám."
    [20]
     1 string data = "Možná by ses měl na chvíli... zamyslet."
    [21]
-    1 string data = "Podívej se na sebe, tak oddaný povinnosti, že jsi zapomněl, kdo vlastně jsi."
+    1 string data = "Jen se na sebe podívej, tak oddaný povinnosti, že jsi zapomněl, kdo vlastně jsi."
    [22]
-    1 string data = "Víš vůbec, co chceš kromě té únavné role 'ochránce'? Copak nemáš tušení, jak to slouží TOBĚ?"
+    1 string data = "Víš vůbec, co kromě té únavné role 'ochránce' chceš? Copak nemáš tušení, jak to slouží TOBĚ?"
    [23]
     1 string data = "Přiznej si to, Zale. Jsme stejní. Schováváš se za morálností, ale hluboko uvnitř toužíš po stejném uznání a obdivu, které já vyvolávám."
    [24]
     1 string data = "Jsi jen moje zvrácená verze!"
    [25]
-    1 string data = "Nejsem jako on... že ne?"
+    1 string data = "Nejsem vůbec jako on... že ne?"
    [26]
     1 string data = "Nebuď směšný, Zale. Je to egoistický maniak."
    [27]
@@ -71,7 +71,7 @@
    [28]
     1 string data = "Hahahaha! Zdá se, že potřebuješ víc času... na zamyšlení nad svou pravou podstatou..."
    [29]
-    1 string data = "Jak organičtí diváci tak i mechaničtí zákazníci, přistupte blíž, tohle představení nesmíte propásnout!"
+    1 string data = "Jak organičtí diváci, tak i mechaničtí zákazníci, přistupte blíž, tohle představení nesmíte propásnout!"
    [30]
     1 string data = "Dnes, a pouze dnes večer, tu máme vystoupení, které vám zaručeně smete ponožky!"
    [31]
@@ -79,7 +79,7 @@
    [32]
     1 string data = "Ochromující symetrie hříchu, patrná na samotné vizáži!"
    [33]
-    1 string data = "Jedine on... Ten pravý..."
+    1 string data = "Jedině on... Ten pravý..."
    [34]
     1 string data = "NARCISOVÝ KRÁL!!!"
    [35]
@@ -87,13 +87,13 @@
    [36]
     1 string data = "Líbí se ti, co vidíš? Tady jsi mohl stát… kdybys přijal, kým opravdu jsi."
    [37]
-    1 string data = "Chápeme, velikáne. Jsi plný sebe sama."
+    1 string data = "Chápeme, pane důležitý. Všechno se musí točit okolo tebe."
    [38]
     1 string data = "Tohle není vtip, Valerie..."
    [39]
     1 string data = "Hele, jen jsem se snažila odlehčit atmosféru. Čelili jsme i horším věcem, že?"
    [40]
-    1 string data = "Vysmívá se, protože nechápe. To je mi ale partnerka, když si úplně neuvědomuje, co skrýváš."
+    1 string data = "Vysmívá se, protože nechápe. To je mi ale partnerka, když si vůbec neuvědomuje, co skrýváš."
    [41]
     1 string data = "..."
    [42]
@@ -115,13 +115,13 @@
    [50]
     1 string data = "..."
    [51]
-    1 string data = "Narcisový král je moc chytrý. Dělá věci jenom do té míry, aby mohl předváděť jak širokou škálu dovedností zná. Neplýtvá ani minutou navíc."
+    1 string data = "Narcisový král je moc chytrý. Dělá věci jenom do té míry, aby mohl předváděť, jak širokou škálu dovedností zná. Neplýtvá ani minutou navíc."
    [52]
-    1 string data = "Pobyt tady mě naučil, že nemá smysl cokoli dělat, pokud nemůžu ukázat něco na oko hezké. Když chci vyčnívat, je lepší diverzifikovat!"
+    1 string data = "Pobyt tady mě naučil, že nemá smysl cokoliv dělat, když už jednou máš hezký obrázek, co můžeš ukázat. Když chci vyčnívat, je lepší diverzifikovat!"
    [53]
     1 string data = "Máte ten stupen vítězů správně? Chci dál objevovat!"
    [54]
-    1 string data = "Nohy patři samozřejmě naspod. Musíme zjistit, co každý symbol znamená..."
+    1 string data = "Nohy patří samozřejmě naspod. Musíme zjistit, co každý symbol znamená..."
    [55]
     1 string data = "Narcisový král se mi líbí, konečně někdo, kdo chápe, že kvantina je důležitější než kvalita!"
    [56]
@@ -139,10 +139,10 @@
    [62]
     1 string data = "Podívej na to... Všechno je tady tak velkolepé..."
    [63]
-    1 string data = "Má stará kolena potřebují oddech! To musí být tím mořem schodů, o kterém všichni vyprávěli."
+    1 string data = "Má stará kolena potřebují oddech! To musí být to moře schodů, o kterém všichni vyprávěli."
    [64]
     1 string data = "Je tohle z pravého zlata?"
    [65]
     1 string data = "Tohle místo se mi moc nelíbí, ale Narcisový král je docela hustý jméno."
    [66]
-    1 string data = "Nejdřív mě to tu tak nějak naplňovalo, ale teď mám spíš pocit, jako by mi v životě chyběli věci jenom proto, že někdo jiný říká, že je mám chtít."
+    1 string data = "Nejdřív mě to tu tak nějak naplňovalo, ale teď mám spíš pocit, jako by mi v životě chyběly věci jenom proto, že někdo jiný říká, že je mám chtít."
