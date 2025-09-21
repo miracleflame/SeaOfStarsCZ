@@ -375,7 +375,7 @@
    [180]
     1 string data = "Pohyb, máme hladové zákazníky!"
    [181]
-    1 string data = "Na nováčka to nebylo špatné. Měl bych ti naplánovat další směny."
+    1 string data = "Na nováčka to nebylo špatné. Měla bych ti naplánovat další směny."
    [182]
     1 string data = "Líbí se ti <color=bad>rybaření</color>?"
    [183]
@@ -465,7 +465,7 @@
    [225]
     1 string data = "Jak se opovažujete!? Moje výtvory mají být ty nejlepší!!!"
    [226]
-    1 string data = "To by stačilo, ty srabe! Pojďme to dokončit!"
+    1 string data = "To by stačilo, ty srabe! Pojďme to skončit!"
    [227]
     1 string data = "To si buď si jistá, že to dokončíme."
    [228]

@@ -135,7 +135,7 @@
    [60]
     1 string data = "Sát"
    [61]
-    1 string data = "Dálniční osel"
+    1 string data = "Pirát silnic"
    [62]
     1 string data = "Padající hvězda"
    [63]

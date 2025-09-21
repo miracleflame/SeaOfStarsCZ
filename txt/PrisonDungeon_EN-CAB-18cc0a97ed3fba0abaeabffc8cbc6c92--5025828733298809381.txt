@@ -127,7 +127,7 @@
    [56]
     1 string data = "Podle pravidel?"
    [57]
-    1 string data = "V tom boji jste prohráli. V tomhle světě zhmotňování moci vyžaduje pevnou mysl."
+    1 string data = "V tom boji jste prohráli, poněvadž v tomhle světě zhmotňování moci vyžaduje pevnou mysl."
    [58]
     1 string data = "Vypadá to, že váš kamarád Arty to zvládá dobře, ale vy dva na sobě musíte ještě zapracovat."
    [59]

@@ -17,7 +17,7 @@
    [1]
     1 string data = "Někde tady musí být."
    [2]
-    1 string data = "Zvedá se vítr, není liž pravda?"
+    1 string data = "Zvedá se vítr, není-liž pravda?"
    [3]
     1 string data = "Za námi!"
    [4]
@@ -33,4 +33,4 @@
    [9]
     1 string data = "Aye, Fardush by vás teď měl být schopen vozit po okolí."
    [10]
-    1 string data = "Až nás bude třeba, hledejte v zdejší taverně."
+    1 string data = "Až bude potřeba, hledejte nás ve zdejší taverně."

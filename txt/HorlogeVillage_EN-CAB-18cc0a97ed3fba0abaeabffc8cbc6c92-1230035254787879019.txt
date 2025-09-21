@@ -43,9 +43,9 @@
    [14]
     1 string data = "Nemůžeme prostě jen–"
    [15]
-    1 string data = "Vidím tu dva, z nichž budou fantastickí dvojníci!"
+    1 string data = "Vidím tu dva, z nichž budou fantastičtí dvojníci!"
    [16]
-    1 string data = "Budou senzacionálne fenomenální!"
+    1 string data = "Budou senzacionálně fenomenální!"
    [17]
     1 string data = "Budou přímo příhodně monumentální!"
    [18]
@@ -65,7 +65,7 @@
    [25]
     1 string data = "Já říkám, narvat jim konfety zadkem!"
    [26]
-    1 string data = "Já říkám, povesit za nos a sundat!"
+    1 string data = "Já říkám, pověsit za nos a sundat!"
    [27]
     1 string data = "Já říkám, přehnat to, jak jen bude se dát!"
    [28]
@@ -145,7 +145,7 @@
    [65]
     1 string data = "*Uf, uf*... Tohle vám neprojde..."
    [66]
-    1 string data = "Ha! Podklouzli jste na banánu, a slupku nikdo neviděl!"
+    1 string data = "Ha! Uklouzli jste na banánu, a slupku nikdo neviděl!"
    [67]
     1 string data = "Teď si budete žonglovat s mřížemi v base, zatímco šéfka nachystá velké odhalení!"
    [68]
@@ -575,13 +575,13 @@
    [280]
     1 string data = "Nezkrotná královna? Neměl jsem tuto práci brát, pořád přicházím o všechno zajímavé!"
    [281]
-    1 string data = "A teď pozvánka do Šapitó? Už mi to připadá, jako by si všichni vymýšleli věci, jen aby měli ze mě legraci."
+    1 string data = "A teď pozvánka do Šapitó? Už mi to připadá, jako by si všichni vymýšlely věci, jen aby měli ze mě legraci."
    [282]
     1 string data = "Hrdinové Horloge! Vidět vás mě pokaždé ujistí."
    [283]
     1 string data = "Ah, vy jste ti, co přijeli výtahem z planin! Všichni jsme mysleli, že je rozbitý!"
    [284]
-    1 string data = "Nelíbí se mi ten Narcisový král. Bez PÓZERA není PLAKÁT, jak já vždycky říkám!"
+    1 string data = "Nelíbí se mi ten Narcisový král. Bez POZÉRA není PLAKÁT, jak já vždycky říkám!"
    [285]
     1 string data = "Vlastně jsem měl vlkodlaky na své bingo kartě."
    [286]
@@ -637,7 +637,7 @@
    [311]
     1 string data = "Tak TOTO je hudba!"
    [312]
-    1 string data = "Ať se na to díváte jakkoliv, Loutkářka je bezpochyby, bezpodmínečně, jakože je nebe modré a tráva zelená, to nejhorží, co kdy Horloge potkalo."
+    1 string data = "Ať se na to díváte jakkoliv, Loutkářka je bezpochyby, bezpodmínečně, jakože je nebe modré a tráva zelená, to nejhorší, co kdy Horloge potkalo."
    [313]
     1 string data = "Pif a Puf jsou bez nejmenších pochyb, v každém ohledu a zcela jasně, dva z přisluhovačů Loutkářky."
    [314]
@@ -761,11 +761,11 @@
    [373]
     1 string data = "Ne"
    [374]
-    1 string data = "Ale ahoj! Přišli jste si zahrát Zkoušku Balansu? Potřebná je dovednost Slunbalanc."
+    1 string data = "Ale ahoj! Přišli jste si zahrát Zkoušku Balancu? Potřebná je dovednost Slunbalanc."
    [375]
     1 string data = "Bohužel zatím nemáte potřebnou dovednost. Vraťte se, až vaše skupina získá větší renomé."
    [376]
-    1 string data = "Vítejte, vítejte! Chcete zkusit Zkoušku Balansu?"
+    1 string data = "Vítejte, vítejte! Chcete zkusit Zkoušku Balancu?"
    [377]
     1 string data = "Ano"
    [378]

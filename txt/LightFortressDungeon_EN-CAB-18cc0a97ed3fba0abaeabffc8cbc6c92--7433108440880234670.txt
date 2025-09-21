@@ -73,7 +73,7 @@
    [29]
     1 string data = "Jak organičtí diváci, tak i mechaničtí zákazníci, přistupte blíž, tohle představení nesmíte propásnout!"
    [30]
-    1 string data = "Dnes, a pouze dnes večer, tu máme vystoupení, které vám zaručeně smete ponožky!"
+    1 string data = "Dnes, a pouze dnes večer, tu máme vystoupení, z kterého budete úplně paf!"
    [31]
     1 string data = "Opovážlivá ukázka nasycené nejistoty, zformované do drsné bojechtivé krásy."
    [32]
@@ -119,13 +119,13 @@
    [52]
     1 string data = "Pobyt tady mě naučil, že nemá smysl cokoliv dělat, když už jednou máš hezký obrázek, co můžeš ukázat. Když chci vyčnívat, je lepší diverzifikovat!"
    [53]
-    1 string data = "Máte ten stupen vítězů správně? Chci dál objevovat!"
+    1 string data = "Máte ten stupeň vítězů správně? Chci dál objevovat!"
    [54]
     1 string data = "Nohy patří samozřejmě naspod. Musíme zjistit, co každý symbol znamená..."
    [55]
     1 string data = "Narcisový král se mi líbí, konečně někdo, kdo chápe, že kvantina je důležitější než kvalita!"
    [56]
-    1 string data = "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být vyčíslena podle kriterií Narcisového krále."
+    1 string data = "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být vyčíslena podle kritérií Narcisového krále."
    [57]
     1 string data = "Slyšela jsem, jak strážce předtím říkal "odraz otevírá cestu". Co tím podle vás myslel?"
    [58]

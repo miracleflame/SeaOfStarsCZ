@@ -129,6 +129,6 @@
    [57]
     1 string data = "Silní jste vskutku!"
    [58]
-    1 string data = "Ať vám tyto dobře slouží."
+    1 string data = "Ať vám tyto zbraně dobře slouží."
    [59]
     1 string data = "Zlomte vaz, [MAINCHAR_GODNAME] a [OFFCHAR_GODNAME]!"

@@ -35,4 +35,4 @@
    [10]
     1 string data = "Mezitím, v Šapitó Loutkářky..."
    [11]
-    1 string data = "Všichni nastupovaat na palubu Hup-hop expresu!"
+    1 string data = "Všichni nastupovaaat na palubu Hup-hop expresu!"

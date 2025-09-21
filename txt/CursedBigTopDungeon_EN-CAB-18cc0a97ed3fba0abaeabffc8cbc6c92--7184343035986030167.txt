@@ -161,7 +161,7 @@
    [73]
     1 string data = "Tak mě zastavte, pokud to dokážete. Ale radši si pospěšte! Oni se už nemůžou dočkat až spočinou na svých trůnech."
    [74]
-    1 string data = "Dost už! Sundáme tě."
+    1 string data = "Dost už! Tvá show skončila."
    [75]
     1 string data = "Hahahaha! Vskutku, čas na řeči v zákulisí skončil."
    [76]
@@ -235,7 +235,7 @@
    [110]
     1 string data = "Teď to nevzdávejte, ano? Došli jste už příliš daleko, než aby vás tohle zlomilo."
    [111]
-    1 string data = "Pamatujte, kdo jste a za co bojujeteš. Věřím vám."
+    1 string data = "Pamatujte, kdo jste a za co bojujete. Věřím vám."
    [112]
     1 string data = "Ach, jak dojemné! Váš takzvaný přítel ani nevydržel po vašem boku."
    [113]

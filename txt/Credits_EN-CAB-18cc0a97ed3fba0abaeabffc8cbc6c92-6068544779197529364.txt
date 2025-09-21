@@ -15,7 +15,7 @@
    [0]
     1 string data = "Zvláštní poděkování"
    [1]
-    1 string data = "A děkujeme VÁM za hraní <3 <3 <3\n\n\nČeskou lokalizaci pro vás připravili\n\nmiracle.flame - překlad, testování, korektura, technika\nPavla - překlad, korektura\nDanie! - fonty s diakritikou\nAlixon - Testování"
+    1 string data = "A děkujeme VÁM za hraní <3 <3 <3\n\n\nČeskou lokalizaci pro vás připravili\n\nmiracle.flame - překlad, testování, korektura, technika\nPavla - překlad, korektura, testování\nDanie! - fonty s diakritikou\nAlixon - Testování"
    [2]
     1 string data = "Herní režisér, návrhář a scenárista"
    [3]

@@ -41,7 +41,7 @@
    [13]
     1 string data = "To je jedno. Pokračujme."
    [14]
-    1 string data = "Ubohá Valerie, pořád taká tichá, taková vyrovnaná..."
+    1 string data = "Ubohá Valerie, taková tichá a tak vyrovnaná..."
    [15]
     1 string data = "Myslíš si, že tě všechny ty zábrany činí silnou, ale činí tě jen prázdnou a vystrašenou. Jsi pouhým stínem, co předstírá sílu."
    [16]
@@ -101,7 +101,7 @@
    [43]
     1 string data = "PODÍVANÁ ZAČÍNÁ!"
    [44]
-    1 string data = "Dost toho. Dokončeme to, jen ty a já. Co říkáš?"
+    1 string data = "A dost. Dokončeme to, jen ty a já. Co říkáš?"
    [45]
     1 string data = "Zale, já..."
    [46]

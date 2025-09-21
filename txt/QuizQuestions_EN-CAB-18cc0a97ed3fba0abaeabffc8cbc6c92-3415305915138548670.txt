@@ -639,7 +639,7 @@
    [312]
     1 string data = "Červené bobule"
    [313]
-    1 string data = "Javorový syrup"
+    1 string data = "Javorový sirup"
    [314]
     1 string data = "Pravda nebo nepravda: Obludnost v Karnimantově laboratoři měla více než čtyři chapadla."
    [315]
@@ -841,7 +841,7 @@
    [413]
     1 string data = "Elysandarëlle"
    [414]
-    1 string data = "Co řekla Seraï Kurátorovi duší, že se deje, těsně předtím než zemřel?"
+    1 string data = "Co řekla Seraï Kurátorovi duší, že se děje, těsně předtím než zemřel?"
    [415]
     1 string data = "Pomsta"
    [416]

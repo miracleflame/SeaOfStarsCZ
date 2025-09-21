@@ -835,7 +835,7 @@
    [410]
     1 string data = "Jste si tím jistí? Už to nepůjde vrátit zpátky."
    [411]
-    1 string data = "Myslíš, že jsme se na tom neradili? Nejsi jediný, kdo chce pomoct Bojovníkům Slunovratu."
+    1 string data = "Myslíš, že jsme se o tom neradili? Nejsi jediný, kdo chce pomoct Bojovníkům Slunovratu."
    [412]
     1 string data = "A co když to sám nezvládneš?"
    [413]
