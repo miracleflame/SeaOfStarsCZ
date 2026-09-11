@@ -38,7 +38,7 @@
 
       "And once again, the Solstice Warriors save the day!",
 
-      "This stick is pretty good, my weapon will definitely be something that hits really hard!",
+      "This stick is pretty good. My weapon will be something that hits really hard!",
 
       "And I'll pick a FAST one!",
 
@@ -66,7 +66,7 @@
 
       "I want to see it too!",
 
-      "It's the bell, <color=good>Erlina</color> and <color=good>Brugaves</color> are back!",
+      "It's the bell! <color=good>Erlina</color> and <color=good>Brugaves</color> are back!",
 
       "Quick, maybe we can catch them before they go to the academy!",
 
@@ -76,7 +76,7 @@
 
       "Playing in your secret hideout again?",
 
-      "We were training, I think I can use magic now!",
+      "We were training! I think I can use magic now!",
 
       "Is that so?",
 
@@ -164,7 +164,7 @@
 
       "Never!",
 
-      "We'll train really hard, maybe it won't take so long!",
+      "We'll train really hard and maybe it won't take so long!",
 
       "Welcome to Zenith Academy.",
 
@@ -218,7 +218,7 @@
 
       "Weaving...",
 
-      "I understand you were hoping for something else, but it is what is required of you for the time being.",
+      "I understand you were hoping for something else, but it is what's required of you for the time being.",
 
       "Years of weaving...",
 
@@ -244,42 +244,6 @@
 
       "The next morning, in the training room...",
 
-      "Good morning, fellas!",
-
-      "BRUGAVES!",
-
-      "So you'll be our trainer?",
-
-      "I wish!",
-
-      "Erlina and I are leaving tomorrow, but the Headmaster was kind enough to let us make your first day special.",
-
-      "Are you ready for training?",
-
-      "You bet!",
-
-      "That's what I like to hear!",
-
-      "I reckon these should be well suited for the two of you.",
-
-      "Zale received <sprite=\"dialog-inventory-icons\" name=\"icn-inventory-sunblade\"> <color=magic>Training Sword</color>.",
-
-      "Valere received <sprite=\"dialog-inventory-icons\" name=\"icn-inventory-moonstaff\"> <color=magic>Training Staff</color>.",
-
-      "Alright, let's get to work!",
-
-      "Huff... huff...",
-
-      "You got this, Valere, don't give up now!",
-
-      "Never!",
-
-      "Come on, Zale, keep up!",
-
-      "I...",
-
-      "I can do this!",
-
       "Ninety-nine, one hundred!",
 
       "That's it for today, you did great!",
@@ -294,13 +258,13 @@
 
       "Erlina should be just outside of the academy's entrance.",
 
-      "It should feel as if something was scratching an itch far away from you.",
+      "It should feel as if something were scratching an itch far away from you.",
 
       "Focus on the sensation, and compel it to come closer.",
 
       "I THINK IT'S WORKING!",
 
-      "Hey! You startled me, I almost had it!",
+      "Hey, you startled me! I almost had it!",
 
       "Now mine's gone too...",
 
@@ -330,13 +294,13 @@
 
       "Since you are done onboarding our new recruits in the ways of magic, I would provide the briefing for your next assignment.",
 
-      "As for the two of you, it is about time you tried these <color=magic>table looms</color>.",
+      "As for the two of you, it is about time you tried those <color=magic>table looms</color>.",
 
       "But...",
 
       "On the double!",
 
-      "...and “making a magic piece of fabric worthy of the very stars”, what kind of assignment is that?",
+      "...and “making a magic piece of fabric worthy of the very stars,” what kind of assignment is that?",
 
       "I have no idea what shape to even make. But it's not like we're supposed get it right the first time, anyway.",
 
@@ -366,7 +330,7 @@
 
       "Prudence, Erlina. There is no telling what threats we may face in the future.",
 
-      "[MAINCHAR] and [OFFCHAR] were brought to Mooncradle by the <color=good>Great Eagle</color>. It is not the place of the Headmaster to question such things, and neither is it yours.",
+      "[MAINCHAR] and [OFFCHAR] were brought to Mooncradle by the <color=good>Great Eagle</color>. It's not the place of the Headmaster to question such things, nor is it yours.",
 
       "Won't you let this end? What about <color=good>Moyara</color>? What about <color=good>the twins</color>?",
 
@@ -386,7 +350,7 @@
 
       "...",
 
-      "And so they trained and they weaved for weeks, and then for months...",
+      "And so they trained and they wove for weeks, and then for months...",
 
       "Faster now!",
 
@@ -480,9 +444,9 @@
 
       "It will happen, we just have to keep on training hard.",
 
-      "And so they trained and they weaved for years...",
+      "And so they trained and they wove for years...",
 
-      "And then they trained and they weaved some more...",
+      "And then they trained and they wove some more...",
 
       "Until one day...",
 
@@ -602,7 +566,7 @@
 
       "And there you have it.",
 
-      "Good work today, I'm sure the exam will be a breeze!",
+      "Good work today! I'm sure the exam will be a breeze.",
 
       "When enemies prepare spells, you must do everything you can to prevent them.",
 
@@ -610,7 +574,7 @@
 
       "Simpler spells will only demand normal attacks.",
 
-      "Valere can do blunt damage, and Zale has slicing.",
+      "Valere can do blunt damage, and Zale, slicing.",
 
       "Let's see you break this one.",
 
@@ -642,13 +606,13 @@
 
       "When you have enough, you can spend Combo Points to perform powerful actions.",
 
-      "Combos cost no MP but cap at three, so you make sure to use them.",
+      "Combos cost no MP but cap at three, so you should make sure to use them.",
 
       "Moraine told me you came up with your first combo attack. Show it to me.",
 
       "Yeah, you're strong alright...",
 
-      "Keep an eye out on your adventures, you can learn more combos by finding scrolls.",
+      "You can learn more combos by finding scrolls on your adventures, so keep an eye out.",
 
       "Moraine will see you to the final test. I'm sure you'll do great.",
 
@@ -708,7 +672,7 @@
 
       "So that I may use my agility to cleanse this world and protect my companions, I will enter the world as a blade dancer.",
 
-      "I chose the curved blade as it will not hinder my speed or reflexes.",
+      "I chose the curved blade, as it will not hinder my speed or reflexes.",
 
       "Welcome, blade dancer.",
 
@@ -730,7 +694,7 @@
 
       "Now, with faith in your abilities and purpose in your actions, take the leap.",
 
-      "And return as the new recruits of our order!",
+      "And return as new recruits of our order!",
 
       "I'm ready, [MAINCHAR].",
 
@@ -740,7 +704,7 @@
 
       "You have been trained well. Return now to your Headmaster.",
 
-      "Congratulations, [MAINCHAR] and [OFFCHAR]! You have learned everything Zenith Academy had to teach you.",
+      "Congratulations, [MAINCHAR] and [OFFCHAR]! You have learned everything Zenith Academy has to teach you.",
 
       "Ha!",
 
@@ -816,7 +780,7 @@
 
       "And should your adventure lack a little balance, you could take a look at these.",
 
-      "Unlocked <color=magic>Relics</color>! Find them in the Relic section of the Game Menu (accessible with <button=\"Player_GameMenu\">) to adjust your experience!",
+      "Unlocked <color=magic>Relics</color>! Find them in the Relics section of the Game Menu (accessible with <button=\"Player_GameMenu\">) to adjust your experience!",
 
       "Whether you prefer a lighter challenge, or are looking to push yourself to the max, Relics offer a range of options. There's bound to be more to find!",
 
@@ -841,6 +805,32 @@
       "MAY YOU CLEANSE THIS WORLD!",
 
       "Two decades ago, in the village of Mooncradle...",
+
+      "Solstice Warriors, listen well!",
+
+      "The eclipse is here at last.",
+
+      "The time to study our prey and hone our skills is behind us.",
+
+      "And before us is the Dweller of Strife, the most formidable Fleshmancer creation in recorded history.",
+
+      "Once engaged, we cannot hesitate, and we cannot falter.",
+
+      "The twins and I will take point.",
+
+      "Caelum, you’re on defensive magic with Moraine.",
+
+      "Stars above... Let us remember our training.",
+
+      "Let us rid the world of this abomination!",
+
+      "MAY SOLEN’S LIGHT GUIDE YOU!",
+
+      "MAY LUANA’S MIGHT PROTECT YOU!",
+
+      "ONWARDS!",
+
+      "WAIT!!!",
 
       "Come on, Brugaves! We're going to miss them if you don't hurry!",
 
@@ -920,7 +910,7 @@
 
       "...and only Moraine survived.",
 
-      "It will take him a while to heal too, by the looks of it.",
+      "It will take him a while to heal, too, by the looks of it.",
 
       "At least the Dweller of Strife was destroyed...",
 
@@ -938,7 +928,7 @@
 
       "I'm trying!",
 
-      "Then try harder, you are way too slow!",
+      "Then try harder! You're way too slow!",
 
       "Hey, how about a bit of patience?",
 
@@ -1032,11 +1022,11 @@
 
       "The <color=bad>Dweller of Woe</color> isn't that powerful, you know we can take it.",
 
-      "Of course, but that other one no one knows about in a mountain that wipes memories? It's been growing for a long time.",
+      "And that other one no one knows about in Torment Peak? It's been growing for a long time.",
 
       "The Acolytes could be bluffing.",
 
-      "Not with the knowledge they had of the matriarch. Plus it explains why Torment Peak was sealed.",
+      "Not with the knowledge they had of the matriarch. Plus it explains the seal.",
 
       "...",
 
@@ -1058,13 +1048,11 @@
 
       "Let's pretend for now. We'll talk later.",
 
-      "...",
-
       "There you are!",
 
       "Playing in your secret hideout again?",
 
-      "We were training, I think I can use magic now!",
+      "We were training! I think I can use magic now!",
 
       "Is that so?",
 
@@ -1089,8 +1077,6 @@
       "Garl, you really were the best of us...",
 
       "I miss you so much already...",
-
-      "...",
 
       "The world will hear the stories of your deeds for generations to come. This is my vow.",
 
@@ -1164,7 +1150,7 @@
 
       "Yes. He always loved this tree.",
 
-      "He once made some very tasty jam using its sap.",
+      "He'd use the sap to make some incredible jam.",
 
       "Garl always made sure to prepare something for us...",
 
@@ -1192,15 +1178,13 @@
 
       "My wish demands a bit of an errand though. I'll tell you at camp later if you want.",
 
-      "Sounds good!",
-
       "Reunited with their best friend, [MAINCHAR] and [OFFCHAR] enjoy an evening of celebration, and feel a familiar warmth returning at last.",
 
       "Juuust right!",
 
       "Ha! Right on time!",
 
-      "Oh come on, don't be shy now!",
+      "Oh, don't be shy! Where's my birthday hug?",
 
       "Need to rest?",
 
@@ -1252,7 +1236,7 @@
 
       "Take care of yourselves and don't overdo it, hmm? It does not do to push oneself too much.",
 
-      "Poor Garl... the world can be so cruel...",
+      "Poor Garl... The world can be so cruel...",
 
       "I always knew you two were special, but I'd never have imagined you could bring Garl back!",
 

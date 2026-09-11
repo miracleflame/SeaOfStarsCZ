@@ -34,7 +34,7 @@
 
       "Be on the lookout. We can't miss them.",
 
-      "Can do, Captain, lookout is my middle name!",
+      "Can do, Captain, lookout's my middle name!",
 
       "We will find suitable adventurers for this quest, or my name is not Keenathan!",
 
@@ -48,15 +48,13 @@
 
       "First mate <color=good>Yolande Fortwal</color>, at yer service. In fact, service is my middle name!",
 
-      "We're a pirate crew searching for the legendary ghost ship. We don't engage in battle anymore, but back in the day, we did it all!",
+      "We're a pirate crew searching for the legendary ghost ship. Ain't a horizon we don't laugh at!",
 
-      "Fetching a remedy in a cavern only to find out the town had burned in the meantime? Check!",
+      "We sail into whirlpools sideways, and wrestle stormclouds till they stop rainin'.",
 
-      "Being left at one hit point so the big baddie could ‘kill us next time'? Double check!",
+      "If a frontier's unknown, we've already named it!",
 
-      "Heck, we've even been to jail 'cause four imperial soldiers appeared during dialogue instead ov a random encounter!",
-
-      "...",
+      "Heck, we even played cards with time itself and came back younger!",
 
       "Tough crowd, huh?",
 
@@ -90,15 +88,11 @@
 
       "Ahoy, Captain! Seems to me these two be Solstice Warriors!",
 
-      "...",
-
       "Aye... seems that... be the case.",
 
       "What impeccable timing!",
 
       "Now, Captain Klee'shaë here can certainly take y'all to Wraith Island. For a price, ov course.",
-
-      "...",
 
       "Shall we make a deal?",
 
@@ -112,23 +106,7 @@
 
       "They seem nice to me!",
 
-      "Doesn't feel like you have much of a choice...",
-
-      "Oh sure, go ahead and refuse the call so we can all pretend it might not happen.",
-
-      "Keep it safe and predictable!",
-
-      "Any other tropes you had in mind for yer journey?",
-
-      "How about buying linear upgrades from every single town where blacksmiths are somehow increasingly more capable the further up north they live?",
-
-      "...",
-
-      "And who ov course happen to live in a shed despite selling daggers at 25,000 Gold a pop!",
-
-      "...",
-
-      "Fine. Have it yer way.",
+      "Aight, y'all chew it over. We ain't sailin' off just yet, anyway.",
 
       "When ye're ready for adventure, come meet us at <color=location>The Humble Boast</color>, and we'll make a deal.",
 
@@ -136,21 +114,13 @@
 
       "Local tavern. Just follow the docks.",
 
-      "!!!",
-
-      "Look alive, crew, time to call it a day.",
+      "Look alive, crew! Time to call it a day.",
 
       "Aye aye, Captain!",
-
-      "I knew it, there's a tavern!",
 
       "Kicking back sounds good.",
 
       "I'll go right now to try and meet the chef. See you there!",
-
-      "Talk about a wacky bunch.",
-
-      "They seem innocuous enough, we should probably go for it.",
 
       "To The Humble Boast, then.",
 
@@ -159,10 +129,6 @@
       "Chef, thanks so much, this will really come in handy!",
 
       "Anytime! Reckon I'm the one who should be thanking you for all the tips.",
-
-      "Look at him, already making friends!",
-
-      "Haha! Are you really surprised?",
 
       "Oh, there you are!",
 
@@ -200,8 +166,6 @@
 
       "I'll be your challenger!",
 
-      "...",
-
       "Valtraid.",
 
       "Captain?",
@@ -210,7 +174,7 @@
 
       "Aye aye, Captain!",
 
-      "Right, tough one, ya look like! Ready?",
+      "Right. Tough one, ya look like! Ready?",
 
       "On three!",
 
@@ -222,7 +186,7 @@
 
       "Ha ha!",
 
-      "Oof!",
+      "*huff*... *huff*...",
 
       "Cheater!",
 
@@ -230,7 +194,7 @@
 
       "Sorry, pal, Captain's orders.",
 
-      "Are you kidding? That was awesome!",
+      "Nah, that was amazing!",
 
       "...",
 
@@ -248,23 +212,11 @@
 
       "Now, since ye lost the armwrestling challenge, how 'bout we discuss this little errand?",
 
-      "...",
-
       "Captain?",
 
       "North of Brisk is the abandoned lab of an arcane wizard who died long ago.",
 
       "It hasn't been opened for centuries, but stories say it conceals a <color=magic>Coin of Undeath Accord</color>.",
-
-      "Why do you want it?",
-
-      "It's a powerful token. Paying an undead creature with it forces them to do one's bidding.",
-
-      "I plan on using it to make the ghost captain of <color=bad>The Vespertine</color> surrender his ship to me.",
-
-      "!!!",
-
-      "Huzzah!",
 
       "Isn't the place sealed shut?",
 
@@ -276,7 +228,7 @@
 
       "Ahoy, Captain, ain't ya coming with?",
 
-      "I... Need to make preparations for our departure.",
+      "I... need to make preparations for our departure.",
 
       "Fetch the Coin of Undeath Accord, then meet me at the docks.",
 
@@ -288,7 +240,7 @@
 
       "Avast! Listen here, before we leave.",
 
-      "Y'all notice the <color=magic>Wheels</color> table right there in the corner? <color=good>The Watchmaker</color> invented that game, gotten real popular over the years!",
+      "Y'all notice the <color=magic>Wheels</color> table right there in the corner? <color=good>The Watchmaker</color> invented that game, and s'gotten real popular over the years!",
 
       "...So?",
 
@@ -308,11 +260,11 @@
 
       "I am officially naming you members of our crew.",
 
-      "Wait, so we're real pirates?",
+      "Aye aye, Captain!",
 
       "We fulfilled our end of the deal. Will you take us to Wraith Island now?",
 
-      "Aye. In this crew, a mate in need is a quest indeed.",
+      "Ov course, mate! In this crew, a mate in need is a quest indeed.",
 
       "Huzzah!",
 
@@ -322,13 +274,11 @@
 
       "We be right this way!",
 
-      "The Oakum Skiff ain't much to look at, but it'll get y'all across the <color=location>Shallowmire</color> to Wraith Island alright!",
+      "The Oakum Skiff ain't much to look at, but it'll get y'all across the <color=location>Shallowmire</color> alright!",
 
       "...",
 
-      "Just gotta stick to that canal, no open sea for us 'till we get a proper vessel.",
-
-      "...",
+      "Just gotta stick to that canal. No open sea for us 'till we get a proper vessel.",
 
       "So, unless y'all have some unfinished business, we can set sail for Wraith Island right now.",
 
@@ -422,7 +372,7 @@
 
       "Be safe out there.",
 
-      "It will soon be the high season, we're getting ready to double patrol time.",
+      "It will soon be the high season, so we're getting ready to double patrol time.",
 
       "It's kind of boring guarding this spot. Nothing ever happens...",
 
@@ -560,7 +510,7 @@
 
       "Oh no, someone found our secret spot!",
 
-      "We found this while digging, you can have it if you promise not to tell.",
+      "We found this while digging. You can have it if you promise not to tell.",
 
       "Don't tell anyone about our secret spot!",
 

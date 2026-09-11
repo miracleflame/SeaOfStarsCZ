@@ -34,7 +34,7 @@
 
       "Solstice Warrior Garb",
 
-      "Weaved in official Solstice Warrior colors and infused with solar magic.",
+      "Woven in official Solstice Warrior colors and infused with solar magic.",
 
       "Training Staff",
 
@@ -42,7 +42,7 @@
 
       "Solstice Warrior Garb",
 
-      "Weaved in official Solstice Warrior colors and infused with lunar magic.",
+      "Woven in official Solstice Warrior colors and infused with lunar magic.",
 
       "Cauldron Lid",
 
@@ -566,9 +566,9 @@
 
       "Tactician's Mettle",
 
-      "Emphasis on strategy and skill during combat.",
+      "Even more emphasis on strategy and skill during combat.",
 
-      "Enemies have <color=bad>60</color>% damage resistance while casting (locks). Increases player damage taken by <color=bad>35</color>%. Items (snacks) cannot be used in combat. Campfires recover HP up to 50%, and don't recover MP.",
+      "Items (snacks) cannot be used in combat. Campfires restore up to 50% HP and don't restore MP.",
 
       "Apple",
 
@@ -1664,7 +1664,13 @@
 
       "For those who prefer a lighter challenge.",
 
-      "Sees through Mystery Locks."
+      "Sees through Mystery Locks.",
+
+      "Rays of Sunset",
+
+      "Emphasis on strategy and skill during combat.",
+
+      "Enemies have <color=bad>60</color>% damage resistance while casting (locks). Increases player damage taken by <color=bad>35</color>%."
 
     ]
 

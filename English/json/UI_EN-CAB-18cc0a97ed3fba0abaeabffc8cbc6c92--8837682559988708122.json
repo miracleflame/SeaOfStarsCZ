@@ -204,6 +204,8 @@
 
       "Rumble",
 
+      "Rumble",
+
       "Vibration function",
 
       "Audio",
@@ -652,7 +654,7 @@
 
       "Enabled",
 
-      "COPYRIGHT 2023-2025 SABOTAGE STUDIO",
+      "COPYRIGHT 2023-2026 SABOTAGE STUDIO",
 
       "Loading...",
 
@@ -850,11 +852,11 @@
 
       "Adventure",
 
-      "The default way to play. Combat will sometimes present a challenge, requiring some strategy and skill in timing hits.",
+      "The intended experience. Combat requires moderate strategy and skill in breaking locks and timing hits.",
 
       "Challenge",
 
-      "For those preferring more gritty combat. All enemies hit harder and resist more damage while casting. The use of items is disabled in combat.",
+      "For the daring. Items can't be used in combat, and campfires provide limited healing.",
 
       "<button=\"UI_TertiaryAction\"> Customize Relics Preset",
 
@@ -870,7 +872,43 @@
 
       "Transferring...",
 
-      "Loading transferable save data..."
+      "Loading transferable save data...",
+
+      "<button=\"UI_PingHud\"> Generate TotW Save",
+
+      "Generating TotW Save...",
+
+      "<button=\"UI_Back\"> Cancel",
+
+      "<button=\"UI_Confirm\"> Generate",
+
+      "Generate where?",
+
+      "Co-op",
+
+      "GameShare (Local Play)",
+
+      "GameShare (GameChat)",
+
+      "Back",
+
+      "End Session",
+
+      "For generations, Solstice Warriors protected the world from the minions of The Fleshmancer",
+
+      "Ever on the prowl, they waited for the Eclipse to render the evil creations vulnerable",
+
+      "At the clash of Sun and Moon, the Solstice Warriors hunted together",
+
+      "Believing the struggle eternal, the world learned a fragile peace",
+
+      "Until the most formidable horror came, and took all but everything",
+
+      "They called it the Dweller of Strife",
+
+      "<button=\"UI_Start\"> Import Save Data",
+
+      "Import Save Data from Nintendo Switch"
 
     ]
 

@@ -154,13 +154,13 @@
 
       "GARL?!?",
 
-      "What? You didn't really think I was going to let you go on an adventure without me, did you?",
+      "What? Did you really think I'd let you go on an adventure without me?",
 
       "GARL!!!",
 
       "Haha! It's so good to see you two again!",
 
-      "You look so strong now!",
+      "And you look so strong now!",
 
       "Hey, why didn't you show up for our departure?",
 
@@ -194,7 +194,7 @@
 
       "Look, I may not have any special powers like you do, but I'm built strong, and I've been preparing.",
 
-      "This here is my shield, I'll be a defensive fighter!",
+      "This here is my shield. I'll be a defensive fighter!",
 
       "No, a warrior cook!",
 
@@ -212,9 +212,9 @@
 
       "I'll know when to step aside, don't worry!",
 
-      "Plus, you can't really travel the world with just a few sandwiches, what were you thinking?",
+      "Plus, you can't really travel the world with just a few sandwiches. What were you thinking?",
 
-      "That's... yeah...",
+      "We...",
 
       "See? You need me!",
 
@@ -228,27 +228,25 @@
 
       "Oh, I'm so happy!",
 
-      "No way, this is awesome!",
-
-      "And just the beginning, too.",
+      "Deal, of course!",
 
       "Alright, I'll start the kettle. We have so much catching up to do!",
 
-      "Garl the Warrior-Cook joins the party!",
+      "Garl the Warrior Cook joins the party!",
 
-      "And so apparently after we meet this Elder Mist, we'll be able to “use magic without using magic” and be sent out into the world.",
+      "So apparently, after we meet the Elder Mist, we'll be able to “use magic without using magic” and be sent out into the world.",
 
-      "And then our first assignment is to get to \"<color=location>Wraith Island</color>” in time for the next eclipse.",
+      "And after that, our first assignment is to get to \"<color=location>Wraith Island</color>” in time for the next eclipse.",
 
       "That's all we've been told. Finding our own way seems to be the final step of training.",
 
       "That's a lot.",
 
-      "Your powers sound so cool though! Can't wait to see them in action.",
+      "Oh, and I can't wait to see your powers in action!",
 
-      "So how about you, Garl?",
+      "So, how about you, Garl?",
 
-      "Oh, it was pretty uneventful to be honest.",
+      "Oh, it was pretty uneventful, to be honest.",
 
       "All I did was train and learn the skills I thought would come in handy.",
 
@@ -264,27 +262,25 @@
 
       "Right?",
 
-      "Uh-huh. So how much food did you pack?",
+      "How much food did you pack, anyway?",
 
       "Just enough for a few meals. It's better to travel light, and there's ingredients everywhere if you know to look!",
 
-      "And who knows what we'll find? It's all part of the adventure!",
-
       "Why don't you try now, [MAINCHAR]?",
 
-      "See that bush right there? It's full of juicy berries, all you have to do is pick them!",
+      "See that bush right there? It's full of juicy berries, all you have to do is pick them.",
 
       "See? You're a natural!",
 
-      "We can eat that jam later when we need to heal up.",
+      "We can eat that jam later when we need some energy.",
 
-      "This will definitely help, thanks for the tips.",
+      "This will definitely help. Thanks for the tips.",
 
       "Don't mention it!",
 
       "Well, I'm ready for some sleep.",
 
-      "Same here! And nothing but the stars above us, I'm loving this life already!",
+      "Same here! And nothing but the stars above us... I'm loving this life already!",
 
       "Garl, I'm really glad you're here.",
 
@@ -294,15 +290,15 @@
 
       "Well, goodnight then!",
 
-      "Perfect, now we'll make some jam with the berries you picked.",
+      "Perfect, now we can make some jam with the berries you picked.",
 
-      "Just interact with the campfire and get ready to cook!",
+      "If you're ready to cook, just use the campfire!",
 
       "Good morning!",
 
       "You all ready to go? I'm excited to see what this Elder Mist looks like!",
 
-      "Let's make for the top.",
+      "To the top.",
 
       "Hoo hoo hoo...",
 
@@ -324,8 +320,6 @@
 
       "Enthusiasm is certainly welcome in this place of meditation, but its rites are not meant for the common folk.",
 
-      "...",
-
       "Children of the Solstice. Step forward.",
 
       "Hoo...",
@@ -334,7 +328,7 @@
 
       "It seems you show great potential indeed!",
 
-      "Have you weaved your will into celestial fabrics?",
+      "Have you woven your will into celestial fabrics?",
 
       "We have, Elder Mist.",
 
@@ -351,8 +345,6 @@
       "Yeah, me neither.",
 
       "Hoo! Rest assured, the ability to <color=magic>use magic without using magic</color> has taken root in you indeed!",
-
-      "What does that even mean?",
 
       "In the many battles that await you, victory will often demand the use of more offensive magic than one can sustain through spells alone.",
 
@@ -387,10 +379,6 @@
       "(No doubt limited when it comes to combat, but the warmth of his heart...)",
 
       "(Could he bring <color=good>it</color> back?)",
-
-      "...",
-
-      "(Perhaps we should try to find out.)",
 
       "I will allow it.",
 
@@ -446,13 +434,9 @@
 
       "Whether or not to look for these artifacts and challenges will be <color=magic>entirely up to you</color>.",
 
-      "Now, your journey can begin.",
+      "And now, your journey can begin.",
 
       "Come and meet me beyond this chasm.",
-
-      "How do we get across?",
-
-      "By using your powers, of course!",
 
       "Use <button=\"AdvanceTime\"> and <button=\"RewindTime\"> while standing on Celestial Runes to change the Time of Day.",
 
@@ -546,15 +530,13 @@
 
       "You will still die in the end. That cannot be changed.",
 
-      "...",
+      "No...",
 
       "It's okay, I understand.",
 
       "And I know exactly what to do. First-",
 
       "Garl!",
-
-      "Mhh?",
 
       "You're just going to act like nothing's wrong?",
 
@@ -568,15 +550,13 @@
 
       "If you use the time for anything other than the stated purpose, the Borrowed Time will expire instantly.",
 
-      "...",
+      "But it's not fair! That shot wasn't meant for him...",
 
       "Guys, it's okay.",
 
       "I already did a lot more than a regular Mooncradle boy has any right to.",
 
       "All I want is one last adventure with you.",
-
-      "...",
 
       "Seeing Garl's final deed through is what will extend his Borrowed Time the most.",
 
@@ -586,15 +566,13 @@
 
       "It's too late for that regardless. I just want to help one last time.",
 
-      "...",
+      "Garl, we...",
 
       "Can you do this for me?",
 
-      "...",
+      "But...",
 
       "Please, it's my final wish. You only ever get one of those!",
-
-      "...",
 
       "Come on, it's this or nothing! Let's make it count, okay?",
 
@@ -622,7 +600,7 @@
 
       "It's okay, there's another way.",
 
-      "That mysterious shrine out in the ocean south of Mesa Island... It's connected somehow.",
+      "That mysterious shrine out in the ocean, south of Mesa Island... It's connected somehow.",
 
       "Y'eet can get us closer. Let's go.",
 
