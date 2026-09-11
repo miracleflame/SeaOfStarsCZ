@@ -1,0 +1,169 @@
+{
+
+  "m_GameObject": {
+
+    "m_FileID": 0,
+
+    "m_PathID": 0
+
+  },
+
+  "m_Enabled": 1,
+
+  "m_Script": {
+
+    "m_FileID": 1,
+
+    "m_PathID": 2350011159297838977
+
+  },
+
+  "m_Name": "LightFortressDungeon_EN",
+
+  "locCategoryId": "Totw/LightFortressDungeon",
+
+  "language": 0,
+
+  "strings": {
+
+    "Array": [
+
+      "Můj králi, váš imitátor a jeho skupina dorazili do areálu.",
+
+      "Mhm... Vypadá to tak...",
+
+      "Připravím se je přivítat. A ujisti se, že budou mít šanci obdivovat velkolepost mých věží, hmm?",
+
+      "Jak si přejete, můj pane.",
+
+      "Vypadá to jako hromada zbytečného harampádí...",
+
+      "(!!!)",
+
+      "S dovolením, [MAINCHAR].",
+
+      "(Spiku, pořád máš ten návrh membrány?)",
+
+      "(Si piš.)",
+
+      "Arty?",
+
+      "Už jenom chvilku!",
+
+      "(Takže tohle jde sem, a...)",
+
+      "Pohleďte, můj nový vynález!",
+
+      "Získali jste <sprite=\"dialog-inventory-icons-totw\" name=\"icn-inventory-keyitem-drone\"> <color=magic>Muladron</color>.",
+
+      "Stiskněte <button=\"Interact\"> u kompatibilních objektů, abyste je mohli zabalit do koule a rozbalit jinde.",
+
+      "Tak toto je ten skvělý Zale, ochránce slunce.",
+
+      "Řekni mi, opravdu ti záleží na lidech, které chráníš? Nebo je pro tebe jen hrozně podstatné být vnímán jako hrdina?",
+
+      "Co? Ne, to není důvod, proč-",
+
+      "Hahahaha! Ach, to rozkošné popírání.",
+
+      "Můžeš předstírat, jak chceš, ale tvou duši znám.",
+
+      "Možná by ses měl na chvíli... zamyslet.",
+
+      "Jen se na sebe podívej, tak oddaný povinnosti, že jsi zapomněl, kdo vlastně jsi.",
+
+      "Víš vůbec, co kromě té únavné role 'ochránce' chceš? Copak nemáš tušení, jak to slouží TOBĚ?",
+
+      "Přiznej si to, Zale. Jsme stejní. Schováváš se za morálností, ale hluboko uvnitř toužíš po stejném uznání a obdivu, které já vyvolávám.",
+
+      "Jsi jen moje zvrácená verze!",
+
+      "Nejsem vůbec jako on... že ne?",
+
+      "Nebuď směšný, Zale. Je to egoistický maniak.",
+
+      "...",
+
+      "Hahahaha! Zdá se, že potřebuješ víc času... na zamyšlení nad svou pravou podstatou...",
+
+      "Jak organičtí diváci, tak i mechaničtí zákazníci, přistupte blíž, tohle představení nesmíte propásnout!",
+
+      "Dnes, a pouze dnes večer, tu máme vystoupení, z kterého budete úplně paf!",
+
+      "Opovážlivá ukázka nasycené nejistoty, zformované do drsné bojechtivé krásy.",
+
+      "Ochromující symetrie hříchu, patrná na samotné vizáži!",
+
+      "Jedině on... Ten pravý...",
+
+      "NARCISOVÝ KRÁL!!!",
+
+      "Ach, konečně. Vítej v mé trůnní síni, kde sídlí skutečná moc, osvobozená od dětinských ideálů.",
+
+      "Líbí se ti, co vidíš? Tady jsi mohl stát… kdybys přijal, kým opravdu jsi.",
+
+      "Chápeme, pane důležitý. Všechno se musí točit okolo tebe.",
+
+      "Tohle není vtip, Valerie...",
+
+      "Hele, jen jsem se snažila odlehčit atmosféru. Čelili jsme i horším věcem, že?",
+
+      "Vysmívá se, protože nechápe. To je mi ale partnerka, když si vůbec neuvědomuje, co skrýváš.",
+
+      "...",
+
+      "Tak pojď! Ukaž mi, jestli je tvá kuráž opravdová, nebo jestli jsi jen další dítě, které si hraje na hrdinu za světla!",
+
+      "SHOW ZAČÍNÁ!",
+
+      "Nemožné... Bezvadný povrch by měl zvítězit nad podstatou... Forma je důležitější než obsah... K čemu dělat něco, pokud nikdo nezačne závidět...?",
+
+      "Ty vlasy si děláš špatně.",
+
+      "Jsi v pořádku, Zale?",
+
+      "Jde o to...",
+
+      "Co když má pravdu?",
+
+      "Nemyslím, že jsi jako on. Vůbec ne.",
+
+      "...",
+
+      "Narcisový král je moc chytrý. Dělá věci jenom do té míry, aby mohl předváděť, jak širokou škálu dovedností zná. Neplýtvá ani minutou navíc.",
+
+      "Pobyt tady mě naučil, že nemá smysl cokoliv dělat, když už jednou máš hezký obrázek, co můžeš ukázat. Když chci vyčnívat, je lepší diverzifikovat!",
+
+      "Máte ten stupeň vítězů správně? Chci dál objevovat!",
+
+      "Nohy patří samozřejmě naspod. Musíme zjistit, co každý symbol znamená...",
+
+      "Narcisový král se mi líbí, konečně někdo, kdo chápe, že kvantina je důležitější než kvalita!",
+
+      "Je to tu divné. Připadá mi, že musím ospravedlnit, proč mám rád to, co mám rád, jako by moje hodnota měla být vyčíslena podle kritérií Narcisového krále.",
+
+      "Slyšela jsem, jak strážce předtím říkal \"odraz otevírá cestu\". Co tím podle vás myslel?",
+
+      "Narcisový král vypadá dost talentovaně. Zajímalo by mě, kterou dovednost se naučil jako první.",
+
+      "Tohle jsou odznaky?",
+
+      "Podlaha je bez poskvrny! Ale musím říct, že by to vypadalo ještě líp, kdyby odraz drahokamu byl zarovno těch zdobených dveří.",
+
+      "Je to zapečetěné. Budeme muset nějak aktivovat ty čtyři symboly.",
+
+      "Podívej na to... Všechno je tady tak velkolepé...",
+
+      "Má stará kolena potřebují oddech! To musí být to moře schodů, o kterém všichni vyprávěli.",
+
+      "Je tohle z pravého zlata?",
+
+      "Tohle místo se mi moc nelíbí, ale Narcisový král je docela hustý jméno.",
+
+      "Nejdřív mě to tu tak nějak naplňovalo, ale teď mám spíš pocit, jako by mi v životě chyběly věci jenom proto, že někdo jiný říká, že je mám chtít."
+
+    ]
+
+  }
+
+}

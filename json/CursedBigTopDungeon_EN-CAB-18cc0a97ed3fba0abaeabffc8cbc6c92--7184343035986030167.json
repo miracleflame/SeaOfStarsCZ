@@ -1,0 +1,447 @@
+{
+
+  "m_GameObject": {
+
+    "m_FileID": 0,
+
+    "m_PathID": 0
+
+  },
+
+  "m_Enabled": 1,
+
+  "m_Script": {
+
+    "m_FileID": 1,
+
+    "m_PathID": 2350011159297838977
+
+  },
+
+  "m_Name": "CursedBigTopDungeon_EN",
+
+  "locCategoryId": "Totw/CursedBigTopDungeon",
+
+  "language": 0,
+
+  "strings": {
+
+    "Array": [
+
+      "Povedlo se jim utéct, paní, a naši posádku nějak porazili!",
+
+      "Dokonce vrátili vlak, paní, poněvadž nás taky přelstili!",
+
+      "Zdá se, že brzy dojde ke střetu s dvojníkem slunečního. Dobře...",
+
+      "Příkazy, paní?",
+
+      "Prozatím čekáme.",
+
+      "Velký Pan Tofel bude jejich konec, Pufe.",
+
+      "Velkolepý závěr na věky, Pife.",
+
+      "Ani nebudou vědět odkud to přijde!",
+
+      "Ani nebudou cítit, že je to zabije!",
+
+      "Spoustu lstí jim provedeme!",
+
+      "Ohavnou past nastražíme!",
+
+      "Už ta vaše nová hračka bude?",
+
+      "Už, už, jen pár šroubků půjde hladce!",
+
+      "Ani ne, ty ňouma, ještě hodně práce to chce!",
+
+      "Monsieur Nervé.",
+
+      "Stráž vchod a zdrž je co nejvíce to půjde.",
+
+      "...",
+
+      "Pantoflová exhibice bude naprosto senzačná!",
+
+      "Životní představení!",
+
+      "Legenda všech scén!",
+
+      "Nadčasová show na věky!",
+
+      "Ano...",
+
+      "Čeká nás zlověstná podívaná...",
+
+      "Ustup. Jdeme dovnitř.",
+
+      "Poslední varování.",
+
+      "Řekl sis o to!",
+
+      "Už není kam utéct!",
+
+      "Vítejte, vítejte, na místě, kde vítězí nemorální!",
+
+      "V těchto zvrácených stanech začíná akt finální!",
+
+      "Kavalkáda podívané a zábavy, jen co je radost!",
+
+      "Vstupenky jsou zdarma, tak pojďte, máte-li odvahy dost!",
+
+      "Zbabělci!",
+
+      "(Chtějí, abychom je honili.)",
+
+      "(Ano, to každý ví!)",
+
+      "(Ale je to past!)",
+
+      "(I to každý ví! Prostě se chovej sebejistě.)",
+
+      "(Rozumím.)",
+
+      "*ehm*... Buďme ve střehu.",
+
+      "Hehe! A hle, naše past zabrala na výbornou!",
+
+      "Skončete s těmi vašimi hrami!",
+
+      "Tady jste nás chtěli? Tak se připravte na boj!",
+
+      "Hoho! A hle, naše kořist se stane škodnou!",
+
+      "Pufe! To není legrace, oni se opravdu vzpírají!",
+
+      "Pife! Čas na novou hračku, s tou pořádek poznají!",
+
+      "PIF DO PANA TOFLA PUF",
+
+      "Ti dva mi rozhodně nebudou chybět.",
+
+      "Můžu říct to samé.",
+
+      "Dobrá, na řade je Loutkářka.",
+
+      "(Hele, nepasovalo by to?)",
+
+      "(Nemá to špatný tvar, ušetřilo by nám to čas.)",
+
+      "(Ale ta tvář je trochu děsivá.)",
+
+      "(Potřebujeme jen rám, Toe.)",
+
+      "(Půjde to?)",
+
+      "(Chvilku.)",
+
+      "Arty?",
+
+      "(Sken hotov.)",
+
+      "(Plány dokončím sám. Až budou připravené, můžeme se sem vrátit.)",
+
+      "(Hammere a Spiku, zatím se postarejte o bojové funkce.)",
+
+      "(Rozumím.)",
+
+      "Arty?",
+
+      "Už jdu!",
+
+      "Konečně dorazili šampioni. Jak vzrušující!",
+
+      "Čekala jsem na tento okamžik. Abych otestovala vaši povahu a uskutečnila svůj velkolepý plán.",
+
+      "Co od nás chceš? O čem je tvá hra, Loutkářko?",
+
+      "Ale tohle je mnohem víc než hra, dítě. Jste klíčem k mé svobodě.",
+
+      "S vaší mocí uniknu z tohoto spropadeného vězení a konečně vkročím do skutečného světa.",
+
+      "Ano, masy potřebují… pořádek. Jediný, absolutní hlas, arbitra toho, co je správné a co špatné!",
+
+      "Žádný chaos, žádná svobodná vůle. Jen má dokonalost, která tvaruje realitu.",
+
+      "ZLOVĚSTNÁ PODÍVANÁ PRO VŠECHNY!",
+
+      "A ty si myslíš, že ti to všechno jen tak dáme?",
+
+      "Ale, to jste se spletli. Nepotřebuji právě VÁS, vaše náhrady postačí skvěle.",
+
+      "Až vaši zlí dvojníci konečně zaujmou vaše místa, přinesou mi vaši moc bez odporu. A svět nikdy nepozná rozdíl.",
+
+      "To nedovolíme.",
+
+      "Tak mě zastavte, pokud to dokážete. Ale radši si pospěšte! Oni se už nemůžou dočkat až spočinou na svých trůnech.",
+
+      "Dost už! Tvá show skončila.",
+
+      "Hahahaha! Vskutku, čas na řeči v zákulisí skončil.",
+
+      "Světlo reflektorů čeká. Uvidíme, jestli jste připraveni na velkou scénu!",
+
+      "Děti Slunovratu! Jsem váš nový Mistr a VY SE PODŘÍDÍTE!",
+
+      "AAAAAA!!! To je ale drzost, strhnout na sebe pozornost v cizím divadle!",
+
+      "Hele, už jste skoro na konci! Všichni vám držíme palce.",
+
+      "Nejsem si jistý, co to je, ale řekli mi, že by to mohlo pomoci.",
+
+      "Tak hodně štěstí!",
+
+      "Já… jsem vás podcenila.",
+
+      "Bravo! Představení tak oslnivé, že jsem skoro zapomněla své repliky. Jak příjemně nevhodné!",
+
+      "Ale to nic! Další akt už byl napsaný a jeho téma je zoufalství.",
+
+      "Uvidíme, jak jasně hoří vaše malé plamínky, když čelí nepříteli, kterého nemůžete porazit!",
+
+      "Cokoliv na nás máš, zničíme to.",
+
+      "Ale, prosím! Ušetřete si své hrdinství pro důvěřivejší publikum. Spojení s vaší vrozenou magií je téměř přetnuto.",
+
+      "Ano… korunní šperk mého zvěřince zlomí vaše duchy a připraví je k převzetí. Začneme?",
+
+      "Už jsme slyšeli dost. Dělej, co můžeš!",
+
+      "Hahahaha! Konečně, nastal čas!",
+
+      "Čas ukázat vám křehkým bláznům tíhu opravdového zoufalství! Zlomit vaši vůli a zničit vaši víru!",
+
+      "PŘEDSTAVUJI VÁM PŘIŽIVOVAČE SOUŽENÍ!",
+
+      "Hahahaha! Jste ještě slabší, než jsem čekala!",
+
+      "Ani škrábanec! To jsou mi ale Bojovníci Slunovratu!",
+
+      "Tahle show mě začíná nudit. Přiživovači Soužení, dej jim co proto!",
+
+      "Zale… to je…",
+
+      "Co se děje, miláčci? Myslela jsem, že si zahrajeme ještě chvíli.",
+
+      "My… musíme…",
+
+      "Patetické! To je opravdu vše, co dokážete?",
+
+      "(To je špatné. Pokud nic neuděláme, je po nich.)",
+
+      "(Zpátky k té dřívější klaunské věci? Budeme muset jednat rychle.)",
+
+      "Arty, získáme trochu času navíc, jen…",
+
+      "(Prototyp-0? To je na dlouhé lokty.)",
+
+      "Jdi varovat ostatní…",
+
+      "(Nemůžeme je tu takto nechat, nejsou připraveni.)",
+
+      "(Meliora řekla, že to je jejich cesta a že to potřebují.)",
+
+      "(To neznamená, že je máme nechat zemřít.)",
+
+      "(Důvěřuj mi trochu, Hammere.)",
+
+      "(Tak tedy pospěšme si.)",
+
+      "Teď to nevzdávejte, ano? Došli jste už příliš daleko, než aby vás tohle zlomilo.",
+
+      "Pamatujte, kdo jste a za co bojujete. Věřím vám.",
+
+      "Ach, jak dojemné! Váš takzvaný přítel ani nevydržel po vašem boku.",
+
+      "Zlomil ho tlak, nebo už konečně pochopil, že se nemá spoléhat na slabochy?",
+
+      "Ty… tohle ti neprojde…",
+
+      "Hahahaha! Trochu vám chybí odhodlání, že? Skvělé! A teď, to nejlepší z celé show!",
+
+      "Váš duch je nalomený, naděje visí na vlásku… ideální čas, aby vstoupily na scénu skutečné hvězdy!",
+
+      "Už vás není třeba, drazí.",
+
+      "MÍ ŠAMPIÓNI, VOLÁ VÁS OSUD!",
+
+      "Rozdrťte jejich mysl a zaujměte svá právoplatná místa po mém boku!",
+
+      "Proč bojovat, Zale? Jsi unavený, že? Pořád neseš tíhu všech očekávání, snažíš se být hrdinou.",
+
+      "Nech to na mně. Dám jim dokonalého ochránce, jakého si zaslouží. Bez slabosti, bez pochyb.",
+
+      "Víš, že je to pravda. V hloubi duše nevěříš, že sem patříš. Tak proč neustoupíš? Já to zvládnu.",
+
+      "A přesto odporuješ. Pořád se držíš zpátky, hraješ si na klidnou a vyrovnanou hrdinku.",
+
+      "Přesto toužíš nechat to všechno být. Stačí přijmout mou nabídku a budu vším, čím jsi ty nedokázala… vším, čím sis nedovolila být.",
+
+      "Jen si to představ, žádný boj, žádné zábrany.",
+
+      "Máš vlastně svým způsobem pravdu. Dlouho jsem si myslel, že musím být tím nejjasnějším světlem v místnosti…",
+
+      "Myslel jsem, že když mě nebudou vidět jako silného, zklamu je. I sebe.",
+
+      "Přesně tak. Není to úleva konečně se prostě poddat?",
+
+      "Pojď blíž.",
+
+      "Ne. V tom se mýlíš. Nepotřebuju tvou prázdnou pýchu, ani aby mi kdokoliv říkal, za co stojím.",
+
+      "Zase si lžeš do kapsy, Zale. Beze mne jsi jen další dítě bez jiskry. Já jsem ta velikost, po které toužíš!",
+
+      "Jsi jen stínem mých strachů… a já už nedovolím, abys mě ovládal.",
+
+      "Co!? Jak se opovažuješ!?",
+
+      "Tu slabost, kterou jsi využila… už ji vidím. Bála jsem se toho, co se může skrývat ve stínech. V mé vlastní mysli.",
+
+      "Vím, že tě to taky napadlo. Být divoká, přestat předstírat. Vidím to v tvých očích, Valerie. Chceš, abych ti tu tíhu vzala.",
+
+      "Bála jsem se jen toho, že když povolím byť na okamžik, ztratím se. Tak jako ty.",
+
+      "Ale teď chápu, že nemusím volit mezi klidem a silou.",
+
+      "Ne! Jsem tvá lepší polovina! POKLEKNI!",
+
+      "Nejsi lepší než já, ani než kdokoliv jiný. Jsi jen má pochybnost převlečená za krále.",
+
+      "Já nejsem… dost dobrý!?",
+
+      "Ale ty jsi slabá, Valerie! Tvůj klid je jen klec. Nech to být, poddej se síle, kterou skrýváš, a budeš nezastavitelná!",
+
+      "To ty jsi ta slabá. Žádná kázeň, jen závist a vztek. Já tě nepotřebuju, abych byla celistvá. To ty potřebuješ být osvobozena.",
+
+      "Ale…",
+
+      "Dovolili jsme jim, aby nás pronásledovali…",
+
+      "Tak moc jsme se báli toho, co v sobě můžeme skrývat…",
+
+      "Už nikdy více. Už nikdy.",
+
+      "Jsem připravená, Zale.",
+
+      "Já taky.",
+
+      "!!?",
+
+      "Absurdní! Jak!?",
+
+      "Vaše hrátky s myslí už nad námi nemají moc.",
+
+      "Společně jsme světlem i temnotou.",
+
+      "Jsme Bojovníci Slunovratu a vy musíte být očištěni!",
+
+      "ZMIZTE!!!",
+
+      "...",
+
+      "*ehm*",
+
+      "No, no! To byl ale nečekaný zvrat!",
+
+      "Opravdu jste v tomhle představení překonali sami sebe!",
+
+      "Ale proč pokračovat v téhle únavné frašce zvané konflikt?",
+
+      "Jsi jen další iluze. Dost řečí, tvůj čas vypršel.",
+
+      "No tak, nezkazme náladu zbytečnou nevraživostí, ano?",
+
+      "Co kdybychom vyjednávali? Určitě byste chtěli odsud odejít, že?",
+
+      "Rozhodně.",
+
+      "C-Co tím myslíš, drahoušku?",
+
+      "[MAINCHAR] a [OFFCHAR] se naučili nové kombo <sprite=\"dialog-inventory-icons-totw\" name=\"icn-combos-supersolsticestrike\"> <color=\"magic\">Super Úder Slunovratu</color>!",
+
+      "Už to ukončíme jednou provždy.",
+
+      "Tentokrát naplno.",
+
+      "Tohle věc je stavěná, aby vydržela pořádný nářez!",
+
+      "Je fajn mít zase věci pod kontrolou, ale chvíli tu ještě pobudeme.",
+
+      "Nakonec se to poddá. Jen... vsadil bych se, že by Arty chtěl být při tom.",
+
+      "(Miniaturizace funguje.)",
+
+      "(Vizuální modul?)",
+
+      "(Všechny systémy v pořádku.)",
+
+      "(Jen ne chladič.)",
+
+      "(Tohle vyřešíme později. Stejně potřebuje tělo spravit.)",
+
+      "(Dobrá práce, týme.)",
+
+      "(Dokonalý návrh, dokonalé provedení!)",
+
+      "(Takže? Na co čekáme?)",
+
+      "(Pamatuj. Krátký úvod.)",
+
+      "(Jo, jo.)",
+
+      "Hej! Jsem zpátky! Vypadá to, že to zvládáte, tak... ehm, mám radši jenom...",
+
+      "(Proč bys to říkal?)",
+
+      "(Teď bude trapné se zeptat, jestli se můžeme přidat.)",
+
+      "Hej, Arty! Chceš to dokončit společně?",
+
+      "(!!!)",
+
+      "(Prostě jdi do toho!)",
+
+      "*ehm* Ano!",
+
+      "Myslím... že jsem vyrobil něco, co pomůže, ale k aktivaci potřebuju vaši moc.",
+
+      "Ukaž to!",
+
+      "(Řekli ano! Takže jenom...)",
+
+      "(Ať zapózují!)",
+
+      "Dobrá, můžete zaujmout tu pózu, jako když ovládáte světlo?",
+
+      "Cože?",
+
+      "Tu věc! Soustřeďte sílu a následujte mě, dobře?",
+
+      "JDEME NA TO!",
+
+      "Jsou potřeba 3 lístky.",
+
+      "Zaplatit",
+
+      "Zrušit",
+
+      "Nemáte dost vstupenek.",
+
+      "Je potřeba 6 vstupenek.",
+
+      "Zaplatit",
+
+      "Zrušit",
+
+      "Nemáte dost vstupenek.",
+
+      "Nesmím... to teď vzdát...",
+
+      "Za těmi dvěma se mi stýskat nebude."
+
+    ]
+
+  }
+
+}

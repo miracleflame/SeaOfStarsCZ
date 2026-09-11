@@ -1,0 +1,861 @@
+{
+
+  "m_GameObject": {
+
+    "m_FileID": 0,
+
+    "m_PathID": 0
+
+  },
+
+  "m_Enabled": 1,
+
+  "m_Script": {
+
+    "m_FileID": 1,
+
+    "m_PathID": 2350011159297838977
+
+  },
+
+  "m_Name": "HorlogeVillage_EN",
+
+  "locCategoryId": "Totw/HorlogeVillage",
+
+  "language": 0,
+
+  "strings": {
+
+    "Array": [
+
+      "Tohle musí být to město.",
+
+      "Aye, tomu říkám nové obzory, bez debat!",
+
+      "Noví pocestní!",
+
+      "Loutkářka je vycítila!",
+
+      "Schovejte se!!!",
+
+      "Kdo se opovažuje vstoupit do mé říše?",
+
+      "Sluhové! Na ně!",
+
+      "Čau, já jsem Zale. Hledáme–",
+
+      "Vidíš to, co já, Pufe?",
+
+      "Myslím, že jo, Pife! Přišli si zahrát?",
+
+      "Jsme tu, abychom-",
+
+      "Aha, už chápu jak to je, Pife.",
+
+      "I ty i já, Pufe!",
+
+      "MYSLÍ SI, ŽE BUDOU REŽÍROVAT TUHLE SHOW!",
+
+      "Nemůžeme prostě jen–",
+
+      "Vidím tu dva, z nichž budou fantastičtí dvojníci!",
+
+      "Budou senzacionálně fenomenální!",
+
+      "Budou přímo příhodně monumentální!",
+
+      "Ahoy, [MAINCHAR]! Co kdybyste vy dva nakopali těmhle doslova šaškům jejich zadky?",
+
+      "Potřebujeme jen informace.",
+
+      "Oni pořád mluví, Pife?",
+
+      "Zdá se, že hodně, Pufe.",
+
+      "Já ríkám, ucpat jim balónkem smích!",
+
+      "Já říkám, rozbít jim jejich ciferník!",
+
+      "Já říkám, přivázat ke stromu šátkem!",
+
+      "Já říkám, narvat jim konfety zadkem!",
+
+      "Já říkám, pověsit za nos a sundat!",
+
+      "Já říkám, přehnat to, jak jen bude se dát!",
+
+      "DOST!",
+
+      "Jsme Bojovníci Slunovratu a přišli jsme očistit tohle místo.",
+
+      "Stáhněte se, nebo toho budete litovat!",
+
+      "Óó!!?",
+
+      "Myslíš na to samé, co já, Pufe?",
+
+      "Lepší už to nebude, Pife.",
+
+      "Varujeme vás naposledy.",
+
+      "Naprostá neschopnost vtěsnat se do kůže!",
+
+      "Myslím, že je čas na malou ochutnávku!",
+
+      "SHOW ZAČÍNÁ!",
+
+      "Podívaná to rozhodně není!",
+
+      "Tohle má být všechno, co umí?",
+
+      "To-mi-zatrub! Takhle nudné představení jsem ještě neviděl!",
+
+      "Z jejich trapnosti mi vylézá další ruka na tvář!",
+
+      "Nic nezabírá...",
+
+      "Jak je to vůbec možné...",
+
+      "Žene je pouhý smysl pro povinnost!",
+
+      "Téměř žádná touha po vlastní identitě!",
+
+      "Stvoření s nejmenším sebepoznáním, jaké jsem kdy viděl!",
+
+      "Jejich dvojníci budou Král a Královna!",
+
+      "Ale no tak, je tohle opravdu nutné?",
+
+      "Už takhle dost trpíme. Žádní další dvojníci!",
+
+      "Kdy nám tihle začali odporovat, Pife?",
+
+      "Vypadá to, že vstupujeme do nové éry, Pufe.",
+
+      "Nechte je být!",
+
+      "ZMLKNI, NEBO ZAVOLÁME MONSIEURA NERVÉ!",
+
+      "Aaaah! Ne, prosím ne!",
+
+      "Cokoliv, jen ne Monsieur Nervé!",
+
+      "Já říkám, cingilingněme mu tak jako tak, Pufe.",
+
+      "Šťouráš se mi v mozkových závitech, Pife!",
+
+      "Na příkaz Loutkářky budou tihle dva Bojovníci Slunovratu přeměněni na dvojníky.",
+
+      "To vám nedovolíme!",
+
+      "Moc jim to nepálí, jak vidím.",
+
+      "Monsieur Nervé! Vem jim vrozenou magii zaráz!",
+
+      "Cítím se... slabě...",
+
+      "Co myslíš, co bylo v nejtemnějších zákoutích jejich myslí, Pufe?",
+
+      "Jsem napjatý zvědavostí jak gumová slepice v továrně na peří, Pife!",
+
+      "*Uf, uf*... Tohle vám neprojde...",
+
+      "Ha! Uklouzli jste na banánu, a slupku nikdo neviděl!",
+
+      "Teď si budete žonglovat s mřížemi v base, zatímco šéfka nachystá velké odhalení!",
+
+      "MONSIEUR NERVÉ!! ODVEĎ TYHLE NARUŠITELE DO ZAPOMĚNÍ!!",
+
+      "Ah, konečně na čerstvém vzduchu!",
+
+      "Je fajn být zase venku, co?",
+
+      "Fardushi, máme naspěch.",
+
+      "Jo, vaši dvojníci! Budeme potřebovat můj vlak.",
+
+      "Tvůj vlak?",
+
+      "V tomto světě jediný způsob dopravy, zvlášť když se tu teď objevily dvě nové oblasti...",
+
+      "No tak jdem!",
+
+      "...",
+
+      "Je něco v nepořádku, statečný strojvedoucí?",
+
+      "No, věc se má tak...",
+
+      "Když mě chytili, tak mi k tomu prokleli vlak a... ten si vyjel mimo koleje...",
+
+      "(Řekni mu, že ho zvládnem opravit!)",
+
+      "(O to tady nejde.)",
+
+      "Je kdesi v Železničním lese na severu. Cítím to.",
+
+      "Tamější monstra byste pravděpodobně vyřídit mohli, ale naneštěstí...",
+
+      "Loutkářka navíc ukradla klíč, takže bychom stejně zůstali vězet tady i s vlakem.",
+
+      "(To bude signál pro nás, ať mu dáme ten dárek z Hodinářčiny krabičky.)",
+
+      "(Zatím počkáme a uvidíme.)",
+
+      "*ehm*",
+
+      "Loutkářka navíc ukradla klíč, takže bychom stejně zůstali vězet tady i s vlakem.",
+
+      "(Jo, myslím, že Toe měl pravdu.)",
+
+      "(Prostě se chovej normálně, dobře? Žádný velký úvod!)",
+
+      "(Jasně, jasně...)",
+
+      "Uh, promiňte, Fardushi?",
+
+      "Mám pro vás dárek.",
+
+      "Oh? Děkuji ti! Můžu ho otevřít hned?",
+
+      "Samozřejmě!",
+
+      "Proroctví se naplnila! Je to od naší Stvořitelky!",
+
+      "Jak to věděla? Tohle je PŘESNĚ to, co jsem chtěl!",
+
+      "A to má bejt?",
+
+      "Nic jiného než kopie mého klíče!",
+
+      "No, teď už nám schází jen můj vlak! Až budete připraveni, Železniční les je severně odsud.",
+
+      "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Horloge najdete všelijaké stánky a minihry!",
+
+      "Až budete připraveni, Železniční les je severně odsud.",
+
+      "Jen se před odchodem ujistěte, že jste dobře vybaveni. V Horloge najdete všelijaké stánky a minihry!",
+
+      "No, možná ne “jen na tenhle večer”, ale spíš “než se celá tahle věc vyřeší”.",
+
+      "Každopádně, ta další je vo tom, jak Valtraid popadl vlak a mrsknul s nim vo zem, což se stalo před nějakýma dvaceti minutama. Jedem!",
+
+      "Připravena postavit se své zlé dvojnici?",
+
+      "Jsem spíš zvědavá než cokoliv jiného.",
+
+      "Já nevím, dokážu si představit, že ta tvá bude dost drsná.",
+
+      "Hej!",
+
+      "Pojďte rychle, probíhá oznámení!",
+
+      "Oznámení čeho?",
+
+      "Je to... No, radši se podívejte sami.",
+
+      "Slyšte, slyšte!",
+
+      "Náš milovaný Narcisový král tímto zve veškeré své poddané, aby přišli obdivovat jeho osobu.",
+
+      "(Narcisový král...?)",
+
+      "Pouze dnes jsou vstupenky zdarma pro všechny, kdo sní o příležitosti spatřit přepychovou výzdobu Slonovinových věží.",
+
+      "Což, jak můžeme jen předpokládat, se týká každého z vás.",
+
+      "STOUPNĚTE SI DO FRONTY, VENKOVANÉ! Našemu skvělému Narcisovému králi se dostane náležité úcty!",
+
+      "No, já mu teprve ukážu úctu.",
+
+      "!!!",
+
+      "Ty... !?",
+
+      "Vstupenku, prosím.",
+
+      "Samozřejmě! Budeme očekávat tvou návštěvu, spolu s tvými komplimenty.",
+
+      "POCHODEM CHOD!",
+
+      "Tak tenhle dvojník bude spíš vlezlý než zlý. Že jo, Zale?",
+
+      "Zale?",
+
+      "Fardush nás čeká na nádraží. Připraven vyrazit?",
+
+      "Zale! Tak jdeš?",
+
+      "Já... ano...",
+
+      "(Narcisový král...?)",
+
+      "Ahoy, vítejte zpátky!",
+
+      "Co se tady stalo?",
+
+      "Něco divokýho, kamaráde.",
+
+      "Proč se všichni schovávají?",
+
+      "Obávám se, že jde o tvou zlou dvojnici. Její kumpáni to tady obrátili vzhůru nohama.",
+
+      "Říkali jí “Nezkrotná královna.”",
+
+      "Nezkrotná královna?",
+
+      "Bublá vztekem jak papiňák, aye?",
+
+      "...",
+
+      "Pro vás levou zadní, mám pravdu?",
+
+      "Jseš v cajku, Zale?",
+
+      "Hej, půjdu se podívat po další vstupence. Vy dva si trochu oddechněte, jo?",
+
+      "Já... Díky, Arty.",
+
+      "Co jsme byli v trůnním sále, moc jsi toho nenamluvil. Vím, že se ti dostal pod kůži… ale to není všechno, že?",
+
+      "Měl svým způsobem pravdu. Vždycky jsem si říkal, že bojuju za ostatní, že mi jde o jejich ochranu. Ale… zčásti bych taky chtěl pozornost a být… důležitý.",
+
+      "To neznamená, že jsi jako on, Zale. On používá své schopnosti ve svůj prospěch. Na rozdíl od tebe.",
+
+      "Opravdu? Vidím, jak mě lidé obdivují a někdy… někdy o to stojím. A kvůli tomu se cítím jakože… jakože možná nejsem tak nesobecký, jak bych měl být.",
+
+      "Myslím, že potřebuju čas o tom popřemýšlet. Připadá mi to vážnější, než jsem původně čekal.",
+
+      "Jak dlouho jen budeš potřebovat, já se jdu kouknout za Artym.",
+
+      "Zale! Pojď honem, potřebujeme tě!",
+
+      "Vždy se držíš zpátky, pořád tak vyrovnaná... Není to vyčerpávající, Valerie? Předstírat, že neprahneš po špetce skutečné svobody?",
+
+      "Kázeň není slabina. Vím, za co bojuji.",
+
+      "Kázeň? Tak nazýváš řetězy, kterými se sama poutáš?",
+
+      "Prostě se jen bojíš odvázat. Cítit sílu, která přichází s možností konečně dělat to, co chceš TY, místo toho, co vyžaduje povinnost.",
+
+      "To není svoboda. Ty máš na mysli chaos.",
+
+      "A možná, že chaos je přesně to, co potřebuješ.",
+
+      "Ano... cítíš to, ne snad, Valerie?",
+
+      "Ten vztek. Nech ho působit... PŘIJMI SVOU ZUŘIVOST!!!",
+
+      "VRAŤ SE SEM, TY SKETO!",
+
+      "Valerie! Arty říkal-",
+
+      "No konečně, už jsi skončil s tím fňukáním? Nemáme celý den, je čas jít!",
+
+      "Cože? Jenom jsem si dával pauzu…",
+
+      "Těch už jsme měli dost. Svět na tebe nebude čekat, až si 'dáš pauzu'. Dělej, sehnala jsem pro nás vstupenku.",
+
+      "Dobře. Jsem připravený.",
+
+      "...A pak povídá, \"Gatě? Jaké gatě?\"",
+
+      "HAHAHAHAHA!",
+
+      "HAHAHAHAHA!",
+
+      "HAHAHAHAHA!",
+
+      "Dobře, dobře. Tu máte další písničky.",
+
+      "…ale co je nejdůležitější, omlouvám se za to, jak jsem se předtím chovala. Neměla jsem tě od sebe tak odstrkovat.",
+
+      "Já to chápu, Valerie. Náš střet s nimi… odkryl věci, které jsme nebyli připraveni vidět.",
+
+      "Zčásti pořád přemýšlím nad tím, jestli o mně neměl můj dvojník v něčem pravdu…",
+
+      "Taky ve mně vyvolala řadu pochybností, ale po tom, co jsem se s ní utkala, to vidím jasněji.",
+
+      "Všichni máme část sebe sama, na kterou nejsme hrdí... Ale možná, že rozdíl je v tom, že nám záleží na tom, co to znamená, a že jsme ochotni tomu čelit.",
+
+      "Naši dvojníci jsou možná svou temnou stránkou pohlceni, ale my nemusíme být.",
+
+      "Ale stejně... jestli se mám posunout dál, musím se s takovou svou částí smířit.",
+
+      "Nemůžu s ní pořád bojovat… nebo hůř, schovávat se před ní.",
+
+      "Hele, vy dva jste se setkali tváří v tvář se svými nejhoršími vlastnostmi a stejně jste se vrátili!",
+
+      "To o vás vypovídá mnohem víc než cokoliv, co by kdy mohli říct nějací zlí dvojníci.",
+
+      "Promiňte, [MAINCHAR] a [OFFCHAR]?",
+
+      "Tohle je pro vás.",
+
+      "No, je to tady. Hlavní událost.",
+
+      "Jak se cítíš?",
+
+      "Nejsem si příliš jistá, jak budu bojovat s Přiživovačem bez svých skutečných schopností, ale na výběr stejně moc nemáme.",
+
+      "(Měli bychom jim říct o našem nápadu.)",
+
+      "(Já navrhuju nechat to na později jako překvápko!)",
+
+      "(Ne, To není fér.)",
+
+      "(Předtím jsi říkal, že mít tajná překvapení je v pořádku!)",
+
+      "(Dobře, fajn!)",
+
+      "Každopádně, Fardush na nás asi už bude čekat.",
+
+      "Připraven vyrazit, Arty?",
+
+      "Jasně!",
+
+      "Další výprava je u konce! děkuji vám, drazí přátelé.",
+
+      "Bez vaší síly a odhodlání to mohlo skončit naprosto katastrofálně.",
+
+      "Nejen, že jste vyřešili celý ten problém, ale navrátili jste naději tam, kde chyběla.",
+
+      "Musím říct, jsem rád, že jsem se k vám mohl připojit. Z toho bude zajímavá historka, co?",
+
+      "Několikrát jsi nás zachránil, Arty. Bez tebe bychom to nezvládli.",
+
+      "Ha! No, každý den se ti nepoštěstí bojovat bok po boku s hrdiny.",
+
+      "A hrdinové jste vy všichni. Prokázali jste nesmírnou odvahu a zasloužili si víc než vítězství. Všichni tady jsou vám vděční.",
+
+      "Takže tady máme hotovo... Tohle mi bude chybět, být tady tak s váma dvěma, bojovat za něco důležitého.",
+
+      "No, můžete se sem klidně kdykoliv vrátit. A kdo ví? Možná najdete pár věcí, které jste předtím na cestě přehlédli.",
+
+      "Byla to divoká jízda, ale je čas se vrátit. Skutečný svět čeká a Karnimant stále představuje hrozbu.",
+
+      "Aye, balíme to tedy? Zadej kurz, kamaráde. Budu mít stesk po tydle naší kocábce!",
+
+      "S prominutím… než odejdeme, mohl bych…",
+
+      "Tenhle život náleží řemeslu.",
+
+      "Ale jestli je to tvé přání… Znám způsob, jak zajistit, abychom se potkali v tom příštím.",
+
+      "Skvěle, další velké dobrodružství! Budu se na něj těšit!",
+
+      "Nechť se budoucnost zrodí, v nitru dlí vize. Jsi-li hoden jejího spravování, představ se.",
+
+      "Tohle není pro nás...",
+
+      "Ahoj, lidi!",
+
+      "Garle? Co ty tady děláš?",
+
+      "Speciální povolení!",
+
+      "Uh, dali byste mi chvilku? Potřebuju tady něco rychle pořešit.",
+
+      "Ty o téhle věci víš?",
+
+      "Moc rád bych vám to vysvětlil, ale dal jsem své slovo. Omlouvám se.",
+
+      "Prostě mi s tím věřte, ano?",
+
+      "Jen jestli je to bezpečné.",
+
+      "Naprosto! Nebude to trvat dlouho!",
+
+      "Dobře, teď se jen 'představit'…",
+
+      "*ehm*... Fajn, tak co třeba…",
+
+      "Ovatko času!",
+
+      "Nechť se budoucnost zrodí, ten, jehož společníkem je krkavec, povolil můj návrat.",
+
+      "Bylo mi ukázáno zrození tohoto světa a pozoroval jsem toho, jehož společníkem je vrabec.",
+
+      "Jak to spolu souvisí, to netuším, ale tohle vím. Je potřeba, aby se k tobě v budoucím životě dostala zpráva, myslím, že jde o varování.",
+
+      "...",
+
+      "Uh, a neboj se, tvé současné inkarnaci nic neprozradím. Ví vůbec, proč potřebovala vyrobit tyhle hodiny?",
+
+      "*ehm*... Každopádně…",
+
+      "Svěř mi svou vizi, neboť jsem plamen, jenž odmítl vyhasnout.",
+
+      "Svěř mi svou vizi, neboť doprovázím Božské ochránce.",
+
+      "SVĚŘ MI SVOU VIZI, NEBOŤ JSEM <color=#F9BB11>OVAT NADĚJE</color>!",
+
+      "Je tedy rozhodnuto. Může to trvat stovky let, ale jejich síla se vytratí.",
+
+      "Až ten čas nastane, armáda démonů bude připravena.",
+
+      "A já vytvořím to nejsilnější zaklínadlo, jaké kdy svět viděl.",
+
+      "Bouři dost velkou na to, aby pohltila veškerý život! Naprostou pohromu!",
+
+      "Ano... obrovskou potopu...",
+
+      "(Stovky let…)",
+
+      "(Pouhá zpráva tak dlouho nevydrží. Potřebujeme proroctví…)",
+
+      "Zdravím, cestovatelé! Potřebujete něco na cestu před vámi?",
+
+      "Takový skvělý ansámbl si zaslouží skvělé ubytování! Zůstanete přes noc?",
+
+      "Ano",
+
+      "Ne",
+
+      "<sprite=\"dialog-generic-icons\" name=\"arrow-north\">  Železniční les",
+
+      "Hledám pomoc. Můj vlak se ztratil v Železničním lese. Volejte Fardushe.",
+
+      "Koupím vstupenku do Slonovinových věží. Volejte Vesničana.",
+
+      "Prodám vstupenku do Slonovinových věží. Volejte Vesničana.",
+
+      "Hledám holiče, který umí napodobit účes Nezkrotné královny. Volejte Vesničana.",
+
+      "Hledám pomoc na velký průvod. Sraz na Náměstí slunečních hodin.",
+
+      "Hele, nebyli jste uvrženi do Zapomnění? Nikdo odtamtud nikdy neutekl!",
+
+      "Mám vstupenku na návštěvu věží Narcisového krále. Pojedete taky?",
+
+      "Najednou se všechno ponořilo do tmy. Vlastně to bylo docela výstřední!",
+
+      "Cože!? Jak se vám podařilo sehnat vstupenku do Šapitó? Nikdo tam nikdy nebyl pozván!",
+
+      "Vy jste porazili Loutkářku? Znamená to, že jsme teď volní?",
+
+      "Byl celkem obyčejný den, a pak se objevily dvě úplně nové oblasti! Žijeme v podivné době...",
+
+      "Nabídka obchodu se neustále rozšiřuje. Ujistěte se, že máte to nejnovější, než vyrazíte!",
+
+      "Nabídka obchodu se neustále rozšiřuje. Ujistěte se, že máte to nejnovější, než vyrazíte!",
+
+      "Nabídka obchodu se neustále rozšiřuje. Ujistěte se, že máte to nejnovější, než vyrazíte!",
+
+      "Loutkářka je pryč. S tímto už dokážu žít.",
+
+      "Železniční les? Je to na sever od města, přes tady to nádraží.",
+
+      "Mám obavy o lidi, co si vzali vstupenku. Na tom Narcisovém králi něco není v pořádku...",
+
+      "Měl jsem štěstí a vyhnul se útoku, ale dodrápali mi mé oblíbené místo na stání!",
+
+      "Chystáte se opravdu postavit Loutkářce? Pochybuju, že to zvládnete, ale to je vaše věc.",
+
+      "Loutkářka byla poražena! Věděl jsem, že to dokážete!",
+
+      "Někteří lidé říkají, že velké zařízení na Náměstí slunečních hodin skrývá tajemství, ale já myslím, že je to jen mýtus!",
+
+      "Někteří lidé říkají, že velké zařízení na Náměstí slunečních hodin skrývá tajemství, ale já myslím, že je to jen mýtus!",
+
+      "V poslední době se dějí dost děsivé věci. Dávejte na sebe pozor, ano?",
+
+      "Našli jste už všechny Časové runy?",
+
+      "Našli jste už všechny Časové runy?",
+
+      "Hm, ještě jsem vás tady neviděl! Soutěžíte v minihrách?",
+
+      "Mám svou vstupenku! Narcisový král je tak stylový, už se nemůžu dočkat, až ho uvidím!",
+
+      "Viděl jsem všechno! Myslíte, že je Nezkrotná královna silnější než Monsieur Nervé?",
+
+      "Šapitó? Slyšel jsem, že tam je pořádně strašidelno!",
+
+      "Díky za pomoc, ale popravdě mi ta akce trochu chybí.",
+
+      "Než přišla Loutkářka, žili jsme v míru. Ulice byly plné smíchu...",
+
+      "Mysleli byste, že už máme starostí dost, a teď ještě král?",
+
+      "Chystáte se na Vlčí skálu? Dávejte si pozor...",
+
+      "Soukromá pozvánka? Doufám, že víte, co děláte...",
+
+      "Nikdy bych nevěřil, že se toho dne dočkám! Děkuji vám, stateční dobrodruzi!",
+
+      "Vítejte v Horloge! Zdrží se vaše družina na nějaký čas?",
+
+      "Teď všichni mluví o Narcisovém králi! Měl jsem opustit své stanoviště a jít se podívat na průvod.",
+
+      "Nezkrotná královna? Neměl jsem tuto práci brát, pořád přicházím o všechno zajímavé!",
+
+      "A teď pozvánka do Šapitó? Už mi to připadá, jako by si všichni vymýšlely věci, jen aby měli ze mě legraci.",
+
+      "Hrdinové Horloge! Vidět vás mě pokaždé ujistí.",
+
+      "Ah, vy jste ti, co přijeli výtahem z planin! Všichni jsme mysleli, že je rozbitý!",
+
+      "Nelíbí se mi ten Narcisový král. Bez POZÉRA není PLAKÁT, jak já vždycky říkám!",
+
+      "Vlastně jsem měl vlkodlaky na své bingo kartě.",
+
+      "V poslední době se toho děje tolik, že ztrácím přehled.",
+
+      "Všechen ten čas strávený hlídáním výtahu se nakonec vyplatil, viděl jsem naši Stvořitelku jít jako první! Ale teď, když o tom přemýšlím, asi jsem měl pozdravit...",
+
+      "Zamkli jsme bránu, když Fardush ztratil svůj vlak. Nemůžeme dovolit lidem chodit po kolejích pěšky!",
+
+      "Brána je znovu otevřená. Konečně můžeme zase jezdit vlakem!",
+
+      "Máte vstupenku na Vlčí skálu? Jste si jistí, že je to dobrý nápad?",
+
+      "Šapitó? Je to na sever, ale nedoporučoval bych tam chodit.",
+
+      "Přišli jste prozkoumávat? Vlak je celý váš!",
+
+      "Nebyl jsem v Železničním lese už dlouho. Slyšel jsem, že jsou tam teď příšery...",
+
+      "Vlak je zpátky? Mysleli jsme, že tentokrát je ztracený nadobro!",
+
+      "Aspoň že je tu uvnitř bezpečno...",
+
+      "Hlavně že už není venku tma.",
+
+      "Gratuluju k té skvělé ukázce síly! Možná si teď můžu udělat výlet do Šapitó.",
+
+      "Město zase ožilo! To byla vaše práce?",
+
+      "Zmeškal jsem hlášení! Není už pozdě sehnat vstupenku?",
+
+      "Jsou ti vlkodlaci konečně pryč?",
+
+      "Všichni mluví o té velké události. Opravdu si myslíte, že dokážete porazit Loutkářku?",
+
+      "Děkujeme vám, jste opravdu skvělý ansámbl! Konečně se můžeme zbavit strachu.",
+
+      "Vždycky mě tohle zařízení fascinovalo. Myslíte, že jsou ty pověsti pravdivé?",
+
+      "(Takže by jich bylo dvanáct...)",
+
+      "(Takže by jich bylo dvanáct...)",
+
+      "(Takže by jich bylo dvanáct...)",
+
+      "Už jste všechno prozkoumali?",
+
+      "Tohle všechno kvůli výtahu...?",
+
+      "Máma říká, že jsem na Kotouče moc malá, ale o koukání neřekla nic!",
+
+      "Je fajn mít zase hospodu. Není nad dobrý olejový drink po těžkém dni.",
+
+      "Tak TOTO je hudba!",
+
+      "Ať se na to díváte jakkoliv, Loutkářka je bezpochyby, bezpodmínečně, jakože je nebe modré a tráva zelená, to nejhorší, co kdy Horloge potkalo.",
+
+      "Pif a Puf jsou bez nejmenších pochyb, v každém ohledu a zcela jasně, dva z přisluhovačů Loutkářky.",
+
+      "Fardush je zpátky ve městě, co? Podaří se mu získat zpět svůj vlak?",
+
+      "Bylo to dost děsivé, když se objevil Monsieur Nervé. Ale teď můžeme zase hrát Kotouče, takže dnešek je všehovšudy dobrý den.",
+
+      "Nikdy předtím jsem takové hudební nástroje neviděl. Fascinující!",
+
+      "Vlak už zase jezdí? No konečně, už je to doba, co jsem byl naposled rybařit na svém oblíbeném místečku.",
+
+      "Není ta hudba úžasná?",
+
+      "Čekal jsem celé hodiny a vstupenku jsem nedostal. Trochu závidím...",
+
+      "Neslyším ji, když pořád mluvíš!",
+
+      "Můj syn se chce stát buď pirátem, anebo hudebníkem, až vyroste. Představte si, jak musí být nadšený!",
+
+      "Podívej, mami! I ta malá chobotnice hraje!",
+
+      "Kotouče nejsou pro mě. Všechno se začne hýbat a než pochopím, co se děje, už jsem prohrál.",
+
+      "Hej, nekaz mi můj úkryt! Najdi si svůj!",
+
+      "Při tom všem, co se venku děje, už se mi vlastně nechce hrát...",
+
+      "Jste v pořádku? Vypadáte dost nervózně...",
+
+      "Vlčí skála? To tedy ne.",
+
+      "Málem mě nedávno kousl vlkodlak. To se počítá jako důvod na neschopenku, ne?",
+
+      "Nedokážu porazit toho šampiona! Budu muset přehodnotit svou kombinaci na Kotouče.",
+
+      "Slyšeli jste o poslední figurce Zaklínače? Prý ji někdo hodil do jezera. Jaké plýtvání!",
+
+      "Ještě že je po té Nezkrotné královně! Ale vypadá to, že bychom ještě neměli slavit.",
+
+      "Chci se naučit hrát na koncertinu!",
+
+      "Z vlastní zkušenosti můžu říct, že hudba opravdu pomáhá člověku zapomenout na starosti!",
+
+      "Světlo se vrátilo! Je Nezkrotná královna pryč?",
+
+      "Možná se teď půjdu podívat do Slonovinových věží.",
+
+      "Dnes je den oslav! Seženu všechny své přátele!",
+
+      "Fardush pořádá výlet za památkami! Kam bychom měli jít jako první?",
+
+      "Je to, jako by si samo Horloge oddechlo úlevou. Všechno je už teď lehčí!",
+
+      "Ještě to nepůsobí skutečně, ale je to tak – jsme svobodní!",
+
+      "Dobře, ale první hraju jako Monsieur Nervé!",
+
+      "Budu Pif.",
+
+      "Dobře, tak jsi Coggo!",
+
+      "Zabírám Werwofmizquarda!",
+
+      "Odteď bychom měli hrát Bojovníky Slunovratu.",
+
+      "A hra končí, když je uprchlík chycen.",
+
+      "Budu Puf.",
+
+      "Tak to jsi Quèshu!",
+
+      "P'técass je můj!",
+
+      "Dobře! Já budu [MAINCHAR].",
+
+      "Nikdy jsem nebyla uvnitř Zapomění. Ne že bych chtěla!",
+
+      "Nikdy jsem nebyla v Železničním lese. Ne že bych chtěla!",
+
+      "Nikdy jsem nebyla v Slonovinových věžích. Ne že bych chtěla!",
+
+      "Nikdy jsem nebyla na Vlčí skále. Ne že bych chtěla!",
+
+      "Nikdy jsem nebyla v Šapitó. Ne že bych chtěla!",
+
+      "Nikdy jsem nebyla pod Horloge hledat tu velkou záhadu. Ne že bych chtěla!",
+
+      "Dnes večer oslavíme jako nikdy předtím!",
+
+      "Tancujme, jako by se dívaly hvězdy!",
+
+      "Kotrmelec, otočka, hurá!",
+
+      "Až vyrostu, chci být artista jako vy!",
+
+      "Žádné šeptání a žádné uspěchané kroky! Jsme konečně svobodní!",
+
+      "Díky vám zase všichni slaví!",
+
+      "Strach už netahá za nitky. Jaká úleva!",
+
+      "Stany stojí vzpřímeně a smích zní upřímně! Je to konečně pryč!",
+
+      "Hey l'parté est pogné icitte!",
+
+      "Tsé, moé ch't'un gars ben coopératif. Mettons tu viens m'voir tu m'dis \"Gate, faut mettre d'la crème solaire.\"",
+
+      "J'en mets.",
+
+      "Pis là après ça tu m'dis de n'armettre.",
+
+      "N'armets.",
+
+      "Mais là à longue esti \"Gate, Gate, Gate, Gate, Gate.\"",
+
+      "Chu imbibé.",
+
+      "Vítejte, poutníci divů! Jste tady, abyste podstoupili Zkoušku Síly? Potřebná je dovednost Skok o tyči.",
+
+      "Ano",
+
+      "Ne",
+
+      "Ale ahoj! Přišli jste si zahrát Zkoušku Balancu? Potřebná je dovednost Slunbalanc.",
+
+      "Bohužel zatím nemáte potřebnou dovednost. Vraťte se, až vaše skupina získá větší renomé.",
+
+      "Vítejte, vítejte! Chcete zkusit Zkoušku Balancu?",
+
+      "Ano",
+
+      "Ne",
+
+      "Přeji vám dobrý den! Jste tady kvůli Zkoušce Přesnosti? K účasti je potřeba umět dovednost Doktor Bim.",
+
+      "Bohužel zatím nemáte potřebnou dovednost. Vraťte se, až vaše skupina získá větší renomé.",
+
+      "Pojďte blíž, talentovaní cestovatelé! Jste připraveni na Zkoušku Přesnosti?",
+
+      "Ano",
+
+      "Ne",
+
+      "Výborně, opravdu skvěle provedeno!",
+
+      "To byl výkon, na který můžete být hrdí!",
+
+      "Skutečně velkolepé! Podívaná hodná legend!",
+
+      "Gratuluji! Tady je vaše odměna!",
+
+      "Přijďte znovu, máme vždy otevřeno!",
+
+      "Chcete si zahrát <color=magic>Kotouče</color>?",
+
+      "Nenáročná hra",
+
+      "Hra o šampiona",
+
+      "Proti spoluhráči",
+
+      "Možná později",
+
+      "Můžeme si znovu zahrát o šampiona, ale už jste mě porazili, takže tentokrát nebude žádná velká odměna.",
+
+      "Páni, remíza!",
+
+      "Hej, vyhráli jste! Gratuluji, tady je vaše cena!",
+
+      "Zvítězili jste!",
+
+      "Zvítězil jsem!",
+
+      "Cože, už to vzdáváte?",
+
+      "Promiňte, <color=magic>Kotouče</color> hrajeme jen s těmi, kdo vlastní figurku Zaklínače. Přijďte, až jednu budete mít!",
+
+      "Nemáte figurku Zaklínače? To je škoda.",
+
+      "Jeden bývalý hráč byl po prohře tak naštvaný, že přestal hrát úplně a raději začal <color=magic>rybařit</color>. Představte si to!",
+
+      "<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-bronze\"> = <sprite=\"dialog-inventory-icons-totw\" name=\"icn-inventory-totw-valuable\"> Klaunský nos (x1)\n<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-silver\"> = <sprite=\"dialog-inventory-icons-totw\" name=\"icn-inventory-totw-valuable\"> Klaunský nos (x3)\n<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-gold\"> = <sprite=\"dialog-inventory-icons\" name=\"icn-inventory-trinket\"> Opasek s měsíční mincí",
+
+      "<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-bronze\"> = <sprite=\"dialog-inventory-icons-totw\" name=\"icn-inventory-totw-valuable\"> Klaunský nos (x1)\n<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-silver\"> = <sprite=\"dialog-inventory-icons-totw\" name=\"icn-inventory-totw-valuable\"> Klaunský nos (x3)\n<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-gold\"> = <sprite=\"dialog-inventory-icons\" name=\"icn-inventory-trinket\"> Heliakální náušnice",
+
+      "<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-bronze\"> = <sprite=\"dialog-inventory-icons-totw\" name=\"icn-inventory-totw-valuable\"> Klaunský nos (x1)\n<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-silver\"> = <sprite=\"dialog-inventory-icons-totw\" name=\"icn-inventory-totw-valuable\"> Klaunský nos (x3)\n<sprite=\"dialog-inventory-icons-totw\" name=\"minigame-score-medal-gold\"> = <sprite=\"dialog-inventory-icons\" name=\"icn-inventory-trinket\"> Dielektrický nátěr",
+
+      "Vítáme všechny zuby, zvlášť ty hezké!",
+
+      "Vítejte v Inkoustových suvenýrech! Klidně se rozhlédněte!",
+
+      "Popcorn! Popcorn!",
+
+      "Ne tak rychle, cestovatelé! Tahle bedna skrývá tvrdou bojovou výzvu. Nemůžu tam jen tak pustit každého... Nejprve se musíte prokázat!",
+
+      "Vy to opravdu chcete zkusit, co? Přineste mi Certifikát Balónářství a ustoupím!",
+
+      "Impozantní! Nejspíš víte, co děláte. Tak vám ustoupím.",
+
+      "Úžasné! Nevěděl jsem, že to máte v sobě!"
+
+    ]
+
+  }
+
+}

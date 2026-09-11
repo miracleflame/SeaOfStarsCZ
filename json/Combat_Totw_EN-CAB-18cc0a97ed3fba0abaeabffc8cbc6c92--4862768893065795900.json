@@ -1,0 +1,253 @@
+{
+
+  "m_GameObject": {
+
+    "m_FileID": 0,
+
+    "m_PathID": 0
+
+  },
+
+  "m_Enabled": 1,
+
+  "m_Script": {
+
+    "m_FileID": 1,
+
+    "m_PathID": 2350011159297838977
+
+  },
+
+  "m_Name": "Combat_Totw_EN",
+
+  "locCategoryId": "Combat_Totw",
+
+  "language": 0,
+
+  "strings": {
+
+    "Array": [
+
+      "Slunbalanc",
+
+      "Ohnivý projektil z hvězd, který zasahuje blízké cíle.",
+
+      "Visutá hrazda",
+
+      "Nanejvýš působivá ukázka zručnosti, která způsobuje opakované zářivé a bonk poškození.",
+
+      "Lunabo",
+
+      "Podržením <button=\"Interact\"> se vyhnete zářivým paprskům, uvolněním zachytíte ty léčivé.",
+
+      "Žonglord",
+
+      "Příval kuželek způsobuje cíli poškození ohněm a bonkem. Stisknutím při zásahu pokračujete.",
+
+      "Základní útok (BM +3)",
+
+      "Základní útok (BM +3)",
+
+      "Dortomet",
+
+      "Hodí na cíl dort, který obnovuje střední množství BŽ.",
+
+      "Skok o tyči",
+
+      "Vzdušná akrobacie dopadne přímo na cíl a způsobí střední bonk poškození.",
+
+      "Podržte <button=\"interact\"> pro zvýšení síly a uvolněte při maximálním napětí.",
+
+      "Základní útok (BM +3)",
+
+      "Základní útok (BM +3)",
+
+      "Léčivý paprsek",
+
+      "Výrazně vyléčí spojence. Stiskněte <button=\"Interact\"> ve chvíli, kdy zaměříte na drahokam, pro lepší výsledek.",
+
+      "Výrazně vyléčí spojence nebo zaútočí na nepřítele. Stiskněte <button=\"Interact\"> ve chvíli, kdy zaměříte na drahokam, pro lepší výsledek.",
+
+      "Dělová trampolína",
+
+      "Bonk poškození všem nepřátelům. Řiďte směr pomocí <button=\"MoveAll\">, abyste pokračovali.",
+
+      "Základní útok (BM +3)",
+
+      "Základní útok (BM +3)",
+
+      "Skok žabáka",
+
+      "Skáče po cílech a při každém odrazu způsobí laserové poškození.",
+
+      "Dary třech králů",
+
+      "Z nebe padají záhadné krabice, některé léčí spojence, jiné způsobují nepřátelům bonk poškození.",
+
+      "Žabí stojka",
+
+      "Skáče po cílech a při každém odrazu způsobí laserové a zářivé poškození.",
+
+      "Žonglcore",
+
+      "Vícenásobné střední poškození typu bonk, oheň a záře jednomu cíli.",
+
+      "Spektakulární úder",
+
+      "Duální útok. Lze načasovat tak, aby zasáhl dvakrát.",
+
+      "Šílený ansámbl",
+
+      "Ultimátní kombo ansámblu.",
+
+      "Trampolínový tým",
+
+      "Lidské dělové koule se odrážejí od všech nepřátel. Řiďte pomocí <button=\"MoveAll\">, abyste mohli pokračovat.",
+
+      "Rozpůl noc",
+
+      "Pasažér",
+
+      "Uhelmlat",
+
+      "Opona padá",
+
+      "Soustředná klika",
+
+      "Léčotrony",
+
+      "Pogporážka",
+
+      "Srandomet",
+
+      "Tourpille",
+
+      "Vrtělník",
+
+      "Čelovice",
+
+      "Činelový štít",
+
+      "Puk, puk, kdo tam?",
+
+      "Spodní hők",
+
+      "Pif-v-krabici",
+
+      "Puf-v-krabici",
+
+      "Mantra",
+
+      "Vrh přeludů",
+
+      "Výpad",
+
+      "Proměna",
+
+      "Ozubený déšť",
+
+      "Vyvolajíčko",
+
+      "Sát",
+
+      "Pirát silnic",
+
+      "Padající hvězda",
+
+      "Obrácené sluneční koule",
+
+      "Ganonball",
+
+      "Symetrie hříchu",
+
+      "Úroveň nabití [CHARGE_LEVEL]%",
+
+      "Spinkop",
+
+      "Spodní dráp",
+
+      "PLNÝ VÝKON!!!",
+
+      "Aúúú",
+
+      "Velkopal",
+
+      "Podržením <button=\"Interact\"> přejdete do pózy limbo a uvolněním kuležky odpálkujete.",
+
+      "Skok o krtku",
+
+      "Rhuská ruleta",
+
+      "Karnehuban",
+
+      "Úplněk",
+
+      "Vlakový Suplex",
+
+      "Dupnutí",
+
+      "Obnova",
+
+      "Bouřková koule",
+
+      "Nožík",
+
+      "Zoelouč",
+
+      "Vejpůl!",
+
+      "Arty se naučil novou dovednost <sprite=\"dialog-inventory-icons-totw\" name=\"icn-skills-arty-leapfrog\"> <color=\"magic\">Skok žabáka</color>!",
+
+      "Zale a Arty se naučili nové kombo <sprite=\"dialog-inventory-icons-totw\" name=\"icn-combos-galettedesrois\"> <color=\"magic\">Dary třech králů</color>!",
+
+      "Zale se naučil novou dovednost <sprite=\"dialog-inventory-icons-totw\" name=\"icn-skills-zale-sunbalancing\"> <color=#326d9c>Slunbalanc</color>!",
+
+      "Valerie a Arty se naučili nové kombo <sprite=\"dialog-inventory-icons-totw\" name=\"icn-combos-heapfrog\"> <color=\"magic\">Žabí stojka</color>!",
+
+      "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><br><br><br><sprite=\"dialog-inventory-icons-totw\" name=\"icn-combos-trampolineteam\"> <color=#326d9c>Trampolínový tým</color>!",
+
+      "Valerie se naučila novou dovednost <sprite=\"dialog-inventory-icons-totw\" name=\"icn-skills-valere-trapeze\"> <color=#326d9c>Visutá hrazda</color>!",
+
+      "[MAINCHAR] a [OFFCHAR] se naučli nové kombo <sprite=\"dialog-inventory-icons-totw\" name=\"icn-combos-jugglecore\"> <color=\"magic\">Žonglcore</color>!",
+
+      "Arty se naučil novou dovednost <sprite=\"dialog-inventory-icons-totw\" name=\"icn-skills-arty-bigbim\"> <color=#326d9c>Léčivý paprsek</color>!",
+
+      "[MAINCHAR], [OFFCHAR] a Arty se naučili nové kombo<br><br><br><br><<sprite=\"dialog-inventory-icons-totw\" name=\"icn-combos-terrifictroupe\"> <color=#326d9c>Šílený ansámbl</color>!",
+
+      "Útok",
+
+      "Obrana",
+
+      "Riskantní útok",
+
+      "Regulérní útok. Zasáhne vždy, ale může být zmírněn blokem.",
+
+      "Snižuje poškození způsobené útokem. Odráží riskantní útok.",
+
+      "Způsobuje masivní poškození, ale lze ho odrazit obranou.",
+
+      "Ego Narcisového krále nabíjí zrcadlo.",
+
+      "Jedno ze zrcadel Narcisového krále začalo nabíjet jeho ultimátní útok!<br><br>Zaútočte na kliku vpravo, aby se reflektory nedostaly k zrcadlům.",
+
+      "Přiživovač soužení kontroluje situaci.",
+
+      "Přiživovač soužení si potřebuje vydechnout.",
+
+      "Přiživovač soužení váhá.",
+
+      "Přiživovač soužení nabral sílu.",
+
+      "Přiživovač soužení nasadil vážný výraz.",
+
+      "Přiživovač soužení se zdá být rozzuřený.",
+
+      "Nalezeno [GOLD_AMOUNT] žetonů!",
+
+      "Získáno [XP_AMOUNT] zkušenostních bodů a [GOLD_AMOUNT] žetonů!"
+
+    ]
+
+  }
+
+}
