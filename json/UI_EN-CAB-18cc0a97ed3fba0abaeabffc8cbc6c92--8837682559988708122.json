@@ -204,6 +204,8 @@
 
       "Otřesy",
 
+      "Otřesy",
+
       "Funkce vibrace",
 
       "Zvuk",
@@ -652,7 +654,7 @@
 
       "Zapnuto",
 
-      "COPYRIGHT 2023-2025 SABOTAGE STUDIO",
+      "COPYRIGHT 2023-2026 SABOTAGE STUDIO",
 
       "Načítání...",
 
@@ -850,11 +852,11 @@
 
       "Dobrodružství",
 
-      "Výchozí způsob hraní. Souboje budou někdy představovat výzvu a budou vyžadovat určitou strategii a dovednost v načasování zásahů.",
+      "Zamýšlený zážitek. Souboj vyžaduje určitou míru strategie a zručnosti při prolomení zámků a načasování úderů.",
 
       "Výzva",
 
-      "Pro ty, kteří dávají přednost drsnějšímu souboji. Všichni nepřátelé mají tvrdší údery a odolávají většímu poškození při kouzlení. V souboji je zakázáno používat předměty.",
+      "Pro odvážlivce. Předměty nelze v boji používat a u táboráků se lze léčit jen omezeně.",
 
       "<button=\"UI_TertiaryAction\"> Přizpůsobit předvolbu relikvií",
 
@@ -870,7 +872,43 @@
 
       "Přenáší se...",
 
-      "Načítání přenositelných dat uložení..."
+      "Načítají se přenositelná data uložené pozice…",
+
+      "<button=\"UI_PingHud\"> Vytvořit uloženou pozici TotW",
+
+      "Vytváření uložené pozice TotW…",
+
+      "<button=\"UI_Back\"> Zrušit",
+
+      "<button=\"UI_Confirm\"> Vytvořit",
+
+      "Kam ji vytvořit?",
+
+      "Kooperace",
+
+      "GameShare (lokální hraní)",
+
+      "GameShare (hraní přes GameChat)",
+
+      "Zpět",
+
+      "Ukončit relaci",
+
+      "Po celé generace Bojovníci Slunovratu chránili svět před přisluhovači Karnimanta",
+
+      "Neustále číhali a čekali, až zatmění učiní zlovolné výtvory zranitelnými",
+
+      "Když se střetlo Slunce s Měsícem, Bojovníci Slunovratu lovili společně",
+
+      "Svět věřil, že tento boj nikdy neskončí, a naučil se žít v křehkém míru",
+
+      "Dokud nepřišla ta nejstrašnější hrůza a nevzala téměř všechno",
+
+      "Nazvali ji Přiživovač sváru",
+
+      "<button=\"UI_Start\"> Importovat data uložené pozice",
+
+      "Importovat data uložené pozice z Nintendo Switch"
 
     ]
 

@@ -40,13 +40,11 @@
 
       "Jdu na ryby!",
 
-      "O několik dní později...",
-
       "Opravdu se to dává dohromady.",
 
       "Bojovníci Slunovratu, chvilku vaší pozornosti, prosím?",
 
-      "Samozřejmě, co se děje?",
+      "Co se děje?",
 
       "Šli jsme kácet dřevo hlouběji do vnitrozemí a našli jsme <color=location>podivný vchod</color>.",
 
@@ -57,10 +55,6 @@
       "Hned tam půjdeme.",
 
       "Děkujeme!",
-
-      "Mohli byste prosím dát vědět Garlovi? Vrátíme se co nejdříve.",
-
-      "Řeknu mu to!",
 
       "Hej, jdete právě včas na další městské shromáždění! Co jste našli?",
 
@@ -130,31 +124,9 @@
 
       "Vskutku příhodné jméno!",
 
-      "Haha! Nechte to na Garla!",
-
       "Dobře, zpátky do práce! Máme toho ještě hodně před sebou!",
 
-      "O pár dní později...",
-
-      "Bylo toho hodně! Zdá se, že od této chvíle to už zvládnou sami.",
-
-      "Pěkně ses hecnul, Garle.",
-
-      "A taky to byla příjemná změna tempa!",
-
-      "Máte chvilku?",
-
-      "Přišel za vámi nějaký starý pán.",
-
-      "To musí být ředitel!",
-
-      "Tak to nevím.",
-
-      "Kde je?",
-
-      "Právě přijel na-",
-
-      "Aha, tady je!",
+      "Když jsou osadníci konečně v bezpečí, mohou naši hrdinové znovu obrátit svou pozornost k většímu nebezpečí, které na ně stále čeká…",
 
       "Vidím, že jste si vedli dobře.",
 
@@ -170,53 +142,19 @@
 
       "Na boj s <color=bad>Přiživovačem sváru</color> prostě nemáme dost sil.",
 
-      "...",
-
       "Musí přece existovat způsob!",
 
-      "Je mi líto, Valerie. Pokud existuje zázrak, který potřebujeme, není o něm u nás ani zmínka...",
-
-      "Tak toho Přiživovače vystopujeme a dáme do toho všechno!",
-
-      "Já se k vám nepřidám.",
-
-      "!!",
+      "Bez zatmění je nezranitelná i vůči naší magii a žádné nenastane, dokud nedokončí shromažďování své moci.",
 
       "Ale vy jste ředitel... To jistě nemyslíte vážně!?",
 
       "NECHÁPETE TO!",
 
-      "Přiživovač sváru má nezměrnou moc.",
-
-      "Bez zatmění je odolný vůči naší magii a k žádnému nedojde dříve, než stihne svou moc nashromáždit.",
-
-      "Ten Přiživovač nám vzal skoro všechno, dokonce i v době, kdy byl náš řád v plné síle.",
-
-      "Nedovolím, aby mi vzal ještě víc.",
-
-      "...",
-
-      "Pane řediteli...",
-
-      "Rezignuji.",
-
-      "Dokud Přiživovač nezasáhne, chci žít bez břemene, které jsem nesl celý život.",
-
-      "...",
-
-      "Prosím... dopřejte mi to... Přetrpěl jsem víc, než lze vyjádřit.",
-
-      "Jak si přejete, pane řediteli... Nemůžeme vás nutit.",
-
-      "Děkuji... Mám před sebou mnoho truchlení.",
-
-      "Stejně je nemožné dostat se na ostrov Mesa bez pomoci jeho strážce. Ještě štěstí, že máme X'tola a Y'eeta.",
+      "Stejně se na ostrov Mesa nedá dostat bez pomoci jeho strážce. Máme štěstí, že stále máme X'tola a Y'eeta.",
 
       "Y'eeta?",
 
-      "Ano, Y'eeta.",
-
-      "Neřekl vám Mlžný stařešina jméno obra, které vás vezme domů?",
+      "Copak vám Mlžný stařešina neřekl jméno obra, který vás odveze domů?",
 
       "...",
 
@@ -224,17 +162,25 @@
 
       "Jedině on by mohl odstranit magickou bariéru, co skrývá ostrov, ale odmítá se probudit. Ze všech mých výzkumů vyplývá, že nejde o kletbu, kterou bychom dokázali zlomit.",
 
+      "Pane řediteli",
+
+      "Já se k vám nepřidám.",
+
+      "Ten Přiživovač nám vzal skoro všechno, dokonce i v době, kdy byl náš řád v plné síle.",
+
+      "Nedovolím mu, aby mi vzal ještě víc.",
+
+      "...",
+
+      "Než Přiživovač udeří, chci se zbavit břemene, které celý život nosím na bedrech.",
+
+      "Rezignuji.",
+
+      "Prosím... dopřejte mi to... Přetrpěl jsem víc, než lze vyjádřit.",
+
       "Zale a já se nevzdáme.",
 
       "Drahá Valerie, tušil jsem, že to řekneš.",
-
-      "Takže jste neoblomně odhodláni pokusit se dostat do Karnimantova starého hradu a utkat se s Přiživovačem?",
-
-      "Rozhodně.",
-
-      "Pak budete muset odstranit onu bariéru.",
-
-      "Já sice nevím, jak toho lze dosáhnout, ale možná se najde někdo, kdo to ví.",
 
       "Takže pro nás máte vodítko?",
 
@@ -244,9 +190,7 @@
 
       "Dostaňte se na <color=location>Strážcův ostrov</color>, kde hluboko pod vlnami modrého jezera leží ztracené město Dokarri.",
 
-      "Zazvoňte na zvon s Korálovým kladivem a oni poznají, že vás poslal přítel.",
-
-      "Vyhledejte audienci v jejich chrámu. Pokud vám teď někdo může nabídnout radu, pak jedině <color=good>Věštec přílivů a odlivů</color>.",
+      "Pokud vám teď někdo může nabídnout radu, pak jedině <color=good>Věštec přílivů a odlivů</color>.",
 
       "A také možná budete chtít znovu navštívit Ostrov věčné mlhy. Nyní jste připraveni na jeho <color=magic>svatyni</color>. Tady je klíč.",
 
@@ -264,8 +208,6 @@
 
       "Všichni tady také hledají nový začátek!",
 
-      "...",
-
       "Garl má pravdu!",
 
       "Navíc městečku chybí formální stařešina!",
@@ -280,19 +222,9 @@
 
       "I příště, stařešino!",
 
-      "Hahaha!",
-
       "Takže řád se zmenšil na nás dva.",
 
       "Je čas najít si vlastní cestu.",
-
-      "Kam chcete jít teď?",
-
-      "Teď, když známe jméno obra, hádám, že byste se mohli naučit nové schopnosti, kdybychom navštívili svatyni na Ostrově věčné mhly.",
-
-      "Nebo bychom si to mohli nechat na později a jít nyní hledat Věštce přílivů a odlivů. Strážcův ostrov je ten s velkou meditující sochou.",
-
-      "Jsme s vámi tak jako tak!",
 
       "Než se vrátíme, měli bychom se podívat na to místo na severu.",
 
@@ -348,11 +280,7 @@
 
       "Přimluvit?",
 
-      "Až tato výprava skončí, možná se ocitnete v bodě hledání svého smyslu.",
-
-      "Pokud ten čas nastane, vyhledejte Mlžného stařešinu.",
-
-      "Mlžného stařešinu...",
+      "Ano, až tato výprava skončí, možná se ocitnete v bodě hledání svého smyslu.",
 
       "Dobré ráno!",
 

@@ -568,7 +568,7 @@
 
       "Důraz na strategii a dovednosti během boje.",
 
-      "Nepřátelé mají <color=bad>60%</color> odolnost proti poškození během čarování (zámky). Zvyšuje poškození způsobené hráči o <color=bad>35 %</color>. Předměty (svačiny) nelze používat v boji. Táborové ohniště obnovují BŽ jen do 50 %, BM neobnovují.",
+      "Předměty (občerstvení) nelze použít v boji. U táboráků se obnoví až 50 % HP a MP se neobnovuje.",
 
       "Jablko",
 
@@ -1664,7 +1664,13 @@
 
       "Pro ty, kteří dávají přednost lehčí výzvě.",
 
-      "Vidí skrz tajemné zámky."
+      "Vidí skrz tajemné zámky.",
+
+      "Paprsky západu slunce",
+
+      "Důraz na strategii a dovednosti během boje.",
+
+      "Nepřátelé mají při čarování <color=bad>60</color>% odolnost vůči poškození (zámky). Zvyšuje utržené poškození hráče o <color=bad>35</color>%."
 
     ]
 

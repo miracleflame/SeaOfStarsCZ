@@ -138,8 +138,6 @@
 
       "Tak TOHLE mi přijde strašidelné!",
 
-      "Haha! Zkusme si to tady užít.",
-
       "Připraveni k odpočinku?",
 
       "Jo!",
@@ -186,8 +184,6 @@
 
       "Huhú!",
 
-      "…",
-
       "To byla…",
 
       "Přiživovačka žalu.",
@@ -195,8 +191,6 @@
       "Tak je to pravda, tenhle ubohý vesničan prostě odkráčí náměsíčně do sídla a…",
 
       "…",
-
-      "Ledaže…",
 
       "Ledaže…",
 
@@ -266,8 +260,6 @@
 
       "Východně od Lucentu pobývá <color=good>Převozník</color>, který nás vezme přes močál, pokud budeme hrát podle pravidel.",
 
-      "Tohle je jediná cesta do Doupěte nekromantky.",
-
       "Dobře, díky... mimochodem, jak se jmenuješ?",
 
       "…",
@@ -296,7 +288,7 @@
 
       "Mohli bychom si udělat pohodlí, tohle asi chvíli potrvá.",
 
-      "Haha! A pak jsi dělal jako \"No, když nedostanu meč, jak budu dělat salta vzad?\"",
+      "A pak jsi dělal jako \"No, když nedostanu meč, jak budu dělat salta vzad?\"",
 
       "Ty máš co říkat s tou svou \"Hradbou nevinných\", jsem tak rád, že ses toho vzdala.",
 
@@ -356,17 +348,13 @@
 
       "Máš takový poklidný pohled na věc. Někdy si přeju, abych se taky narodil o zimním slunovratu.",
 
-      "Haha! Ty a Erlina máte pro věc rozhodně větší zápal.",
+      "Ha! Ty a Erlina máte pro věc rozhodně větší zápal.",
 
       "Předpokládám, že my dva se svým způsobem vzájemně doplňujeme.",
 
       "Proto jsme dobrý tým.",
 
       "Asi jo…",
-
-      "Nebo možná proto, že se kradením mé živé many můžeš předvádět?",
-
-      "Haha! Na to zapomeň, děláš to mnohem víc než já!",
 
       "Hggnn…",
 
@@ -402,7 +390,7 @@
 
       "No, podívejme, kdo byl dochvilný!",
 
-      "Ahoj všichni, tak rádi vás vidíme!",
+      "Čau, tak rádi vás vidíme!",
 
       "Zatmění je na spadnutí, měl bych vám podat instruktáž.",
 
@@ -414,11 +402,9 @@
 
       "Šli jsme do lesa a Přiživovačka mě dostala, ale asasínka použila paralyzující jed, aby nám získala trochu času, a pak šli bojovat s nekromantkou a-",
 
-      "Nekromantkou? Chceš mi říct, že [MAINCHAR] a [OFFCHAR] bojovali s Romayou a přežili?",
+      "Nekromantkou? Vy dva jste bojovali s Romayou a přežili jste?",
 
       "Měli jsme pomoc.",
-
-      "(Tihle dva, přísahám…)",
 
       "Na tom nezáleží, musíme okamžitě vyrazit do Doupěte Přiživovačky. Vysvětlovat budu cestou.",
 
@@ -448,18 +434,16 @@
 
       "…",
 
-      "Dávej pozor, abys nepřekážel.",
+      "Hlavně ať nepřekážíš.",
 
       "Máte to mít, pane řediteli!",
 
       "…Což jsem nepotřebovala slyšet, vzhledem k tomu, že serióznost je mé druhé jméno!",
 
-      "Tak nebo tak říkal, že na obyčejné nestvůry nikdy nepoužívá žádná kouzla, jenom když bojuje s bossem, použije pouze to nejdražší!",
+      "Každopádně jsme se dostali ven tak, že jsme svázali dvě tornáda dohromady a na tom víru jsme odtamaď prostě odjeli.",
 
-      "Hlava mi nebere, jak něco z toho může být považováno za zábavu.",
-
-      "No, každému, co jeho jest.",
-
+      "Hluční a promočení solí, toho dne jsme zložili novou námořnickou písničku!",
+	  
       "Máš někam namířeno, kapitánko?",
 
       "…",
@@ -490,29 +474,21 @@
 
       "Já jdu hned. Uvidíme se ve Svěžíně.",
 
-      "Tak jste se tedy všichni sebrali a šli to udělat po svém, blahopřeji!",
-
-      "…",
+      "Ha! Mocní šampioni se vracejí! Na chvíli to vypadalo, že budu muset sešívat příběhy o vás dvou.",
 
       "Nejste hrdí? Právě jste zachránili spoustu lidí, přátelé!",
 
-      "My… Stalo se toho hodně a my to pořád zpracováváme…",
+      "Aye… Copak ty kyselé ksichty? Neměli byste náhodou slavit?",
 
-      "Proč ten protáhlý obličej? Stalo se něco NEPŘEDVÍDATELNÉHO?",
-
-      "Všichni vypadáte, jako by se z vašeho mentora po celé době vyklubal záporák nebo co!",
-
-      "Aha, ono to tak je?",
+      "Erlina a Brugaves. Oni…",
 
       "Koukejte, 'v dobrém' je moje druhé jméno… Omlouvám se, nevěděla jsem, že je to tak zlé, já…",
 
       "To je v pořádku, Yolando. Jen je toho teď na nás moc.",
 
-      "Dobrá, jakokoliv budu moct pomoci, dejte mi vědět, jasný?",
+      "No, pořád máte posádku a my nejsme z těch, co se stáhnou, když se karta obrátí.",
 
-      "Něco by tu bylo.",
-
-      "Povídej!",
+      "Jestli můžeme s něčím pomoct, dejte vědět mě.",
 
       "Svěžín to dost schytal. Máme rozkaz vrátit se, vyhodnotit škody a zjistit, jak můžeme pomoci.",
 

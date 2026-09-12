@@ -228,9 +228,7 @@
 
       "Oh, jsem tak šťastná!!",
 
-      "To snad ne, to je paráda!!",
-
-      "A to je jen začátek!",
+      "Samo sebou platí!",
 
       "Dobře, postavím na vodu. Musíme toho ještě tolik dohnat!",
 
@@ -267,8 +265,6 @@
       "Mhm. Tak kolik jídla sis vzal s sebou?",
 
       "Jen tolik, aby to stačilo na pár porcí. Je lepší cestovat nalehko a suroviny jsou všude, když víš, kde hledat!",
-
-      "A kdo ví, co najdeme? To všechno patří k dobrodružství!",
 
       "Co to zkusit hned teď, [MAINCHAR]?",
 
@@ -324,8 +320,6 @@
 
       "Nadšení je na tomto místě rozjímání jistě vítáno, ale zdejší obřady nejsou určeny pro běžné lidi.",
 
-      "...",
-
       "Děti slunovratu, přistupte!",
 
       "Hú...",
@@ -351,8 +345,6 @@
       "Jo, já taky ne.",
 
       "Hú! Ujišťuji vás, že schopnost <color=magic>používat magii bez použití magie</color> ve vás skutečně zakořenila!",
-
-      "Co to vůbec znamená?",
 
       "V mnoha bitvách, které vás čekají, si vítězství často vyžádá použití většího množství útočné magie, než kolik si člověk může zajistit jen pomocí kouzel.",
 
@@ -387,10 +379,6 @@
       "(V boji je bezpochyby omezený, ale vřelost jeho srdce...)",
 
       "(Dokázal by <color=good>jej</color> přivést zpět?)",
-
-      "...",
-
-      "(Možná bychom se to měli pokusit zjistit.)",
 
       "Dovolím to!",
 
@@ -449,10 +437,6 @@
       "Nyní může vaše cesta začít.",
 
       "Pojďte, setkáme se za touto propastí.",
-
-      "Jak se dostaneme na druhou stranu?",
-
-      "Pomocí svých schopností, samozřejmě!",
 
       "Podržte <button=\"AdvanceTime\"> a <button=\"RewindTime\">, když stojíte na nebeských runách, abyste změnili Čas dne.",
 
@@ -546,15 +530,13 @@
 
       "Nakonec stejně zemřeš. To nelze změnit.",
 
-      "...",
+      "Ne...",
 
       "To je v pořádku, rozumím.",
 
       "A vím přesně, co mám dělat. Nejprve...",
 
       "Garle!",
-
-      "Mhh?",
 
       "Ty se budeš chovat, jako by se nic nedělo?",
 
@@ -568,15 +550,13 @@
 
       "Pokud čas použiješ k jinému než stanovenému účelu, Vypůjčený čas okamžitě vyprší.",
 
-      "...",
+      "Ale to není fér! Ten výstřel nebyl určený jemu…",
 
       "Lidi, to je v pořádku.",
 
       "Už jsem toho udělal mnohem víc, než na co má normální kluk z Měsíční Kolébky právo.",
 
       "Chci pouze poslední dobrodružství s vámi.",
-
-      "...",
 
       "Provedení Garlova posledního činu je to, co nejvíce prodlouží jeho Vypůjčený čas.",
 
@@ -590,11 +570,9 @@
 
       "Můžete to pro mě udělat?",
 
-      "...",
+      "Ale...",
 
       "Prosím, je to mé poslední přání. To má každý jenom jedno!",
-
-      "...",
 
       "No tak, buď tohle, nebo nic! Tak ať to stojí za to, ano?",
 
