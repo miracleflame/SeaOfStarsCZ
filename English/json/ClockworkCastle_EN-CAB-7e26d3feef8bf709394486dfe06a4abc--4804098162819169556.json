@@ -28,13 +28,9 @@
 
     "Array": [
 
-      "The Clockwork Castle.",
-
-      "The Dweller of Strife is somewhere in there.",
-
       "You!",
 
-      "We are bound by oath not to let you enter the Acolytes headquarters.",
+      "We are bound by oath not to let you enter the Acolytes' headquarters.",
 
       "And what about your oath as Solstice Warriors?",
 
@@ -52,15 +48,13 @@
 
       "Forget it!",
 
-      "Then it brings me no joy, but we must ensure the Acolytes finish the waking ritual.",
+      "I'm sorry. We must ensure the Acolytes finish the waking ritual.",
 
       "Do your worst!",
 
       "Bring it!",
 
       "*ahem* Uh, hey, I... think we should sit this one out.",
-
-      "...",
 
       "That should be enough.",
 
@@ -69,8 +63,6 @@
       "Don't you dare!",
 
       "Get lost!",
-
-      "...",
 
       "Let's go, Brugaves.",
 
@@ -84,7 +76,7 @@
 
       "Nice to meet you! My name is Garl, and these are my friends [MAINCHAR], [OFFCHAR], Seraï and Resh'an.",
 
-      "Hello, everyone! I'm <color=good>Caël</color>.",
+      "Hello, everyone. I'm <color=good>Caël</color>.",
 
       "I hope it's not rude to ask, but...",
 
@@ -92,15 +84,11 @@
 
       "Pretty wrinkly for a kid, huh?",
 
-      "...",
-
       "That's because my friends and I have been ten years old for a VERY long time.",
 
       "What do you mean?",
 
       "Time?",
-
-      "What about it?",
 
       "It doesn't pass within this castle.",
 
@@ -112,7 +100,7 @@
 
       "So, that's the gist of it.",
 
-      "Whoa, that's grim...",
+      "This... this isn't fair.",
 
       "It's okay, we like it here.",
 
@@ -198,8 +186,6 @@
 
       "Are you The Watchmaker?",
 
-      "...",
-
       "Look, we need your master key in order to-",
 
       "Whatever you may need, I take no part in any conflict.",
@@ -270,19 +256,13 @@
 
       "Right here!",
 
-      "Perfect. The door is just up there. While you keep the Acolytes busy, we'll sneak the device past the ritual room.",
+      "Perfect. The door's just up there. While you keep the Acolytes busy, we'll sneak the device past the ritual room.",
 
-      "It was designed a while ago to fit on the second tower, so you will have to lure the Dweller there somehow.",
+      "It was designed a while ago to fit on the second tower, so you'll have to lure the Dweller there somehow.",
 
       "Understood.",
 
       "Once you see it in action, you won't regret the hassle.",
-
-      "Are you sure it will work?",
-
-      "Now that we have confirmed Eclipse Magic can be catalyzed, absolutely.",
-
-      "Okay, we have a plan.",
 
       "You've arrived early, I'm afraid.",
 
@@ -320,7 +300,7 @@
 
       "Run? Hahaha...",
 
-      "The Dweller has your scent, it is too late to hide.",
+      "The Dweller has your scent, it's too late to hide now.",
 
       "That's exactly what we're counting on.",
 
@@ -444,15 +424,11 @@
 
       "Master!",
 
-      "Still, resurrecting a Dweller...",
-
       "Who provided the blood moon?",
 
       "We did.",
 
-      "You have my thanks.",
-
-      "What is your wish?",
+      "And what is your wish?",
 
       "Master, if I may.",
 
@@ -470,7 +446,7 @@
 
       "I see...",
 
-      "I am not losing the Dweller of Strife again.",
+      "I won't risk losing the Dweller of Strife again.",
 
       "Acolytes!",
 
@@ -494,7 +470,7 @@
 
       "Do not interfere.",
 
-      "...",
+      "Yes...",
 
       "This creation will be unstoppable.",
 
@@ -526,7 +502,7 @@
 
       "Live on, Brugaves. Everything I did, I did for you. Just remember-",
 
-      "Enough! Time to go.",
+      "Enough! It's time to go.",
 
       "Brugaves, is it?",
 
@@ -534,7 +510,7 @@
 
       "All my life, I tried to do what was expected of me, only to hear again and again that I was too slow...",
 
-      "I desire only one thing, to feel adequate and fit for my role.",
+      "I desire only one thing: to feel adequate and fit for my role.",
 
       "Oh, not to worry. When I am done with you, you'll be <color=bad>the fastest there's ever been</color>!",
 
@@ -550,7 +526,7 @@
 
       "I want power. Power overwhelming.",
 
-      "Perfect. Go now, and I will be with you shortly.",
+      "Perfect. I will be with you shortly.",
 
       "Now, where was I...",
 
@@ -558,11 +534,9 @@
 
       "An eye for an eye then, Resh'an?",
 
-      "...",
-
       "A single hit. That's the deal.",
 
-      "Why, afraid they can't take more?",
+      "Why? Afraid they can't take more?",
 
       "Do your worst! You're nothing but a loser!",
 
@@ -606,8 +580,6 @@
 
       "Oh, please, do give me that lecture again!",
 
-      "...",
-
       "These Solstice Warriors. Why are you traveling with them?",
 
       "They're not ready to ascend.",
@@ -619,8 +591,6 @@
       "YOU TOOK OVER AN ENTIRE SPECIES!",
 
       "Ha! You know as well as I do that these lives are lost anyway once you recompose the timelines.",
-
-      "...",
 
       "Still procrastinating that one? I noticed.",
 
@@ -638,13 +608,11 @@
 
       "And as I am sure you could tell, her potential is limitless.",
 
-      "They can do it. I am certain.",
+      "They can do it. I believe in them.",
 
-      "Now would you look at that!",
+      "Now, would you look at that!",
 
       "Resh'an wants to pit innocent Children of the Solstice against their former mentor, and somehow I'M THE BAD GUY?",
-
-      "...",
 
       "To think that you could stop me with a snap of your fingers...",
 
@@ -682,8 +650,6 @@
 
       "WE CAN'T LOSE YOU!!",
 
-      "Huh?..",
-
       "(Zale...)",
 
       "(Elder Mist?)",
@@ -698,7 +664,7 @@
 
       "The Elder Mist. We have to go right now.",
 
-      "What? That's way too far, Garl is dying!",
+      "What? That's way too far, Garl's dying!",
 
       "Don't you see, Valere?",
 
@@ -774,7 +740,7 @@
 
       "Good job, Caël!",
 
-      "Ha! And now we have access to the top-secret Catalyst blueprints too.",
+      "Ha! And now we have access to the top-secret Catalyst blueprints, too.",
 
       "Extract everything.",
 
@@ -782,7 +748,7 @@
 
       "Please be gentle.",
 
-      "So you're saying your only function was attaching souls to machines?",
+      "And your only function was attaching souls to machines?",
 
       "Everything was automated. I never understood why I had to be made sentient.",
 
@@ -792,7 +758,7 @@
 
       "Well, you're free now. Might be time for a fresh start.",
 
-      "Oh? This idea is truly pleasing!",
+      "I find the idea pleasing.",
 
       "You were right. Everything combined into the missing pieces we were looking for.",
 
@@ -810,7 +776,7 @@
 
       "...",
 
-      "You do this one thing for us, and I promise we will give you a new form.",
+      "You do this one thing for us, and I promise we'll give you a new form.",
 
       "Well, want to save a world together?",
 
@@ -819,8 +785,6 @@
       "Alright! Plus, our design is pretty slick, you'll see.",
 
       "Load it up!",
-
-      "Loading it up!",
 
       "Perfect.",
 
@@ -1034,7 +998,7 @@
 
       "They'll never see it coming!",
 
-      "Oof, good thing my backpack took most of the hit.",
+      "Good thing my backpack took most of the hit.",
 
       "I'm okay, you should find [OFFCHAR].",
 
